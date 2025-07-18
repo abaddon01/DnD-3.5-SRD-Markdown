@@ -250,7 +250,7 @@ does not affect its vulnerability to counterspelling or its ability to countersp
 Here is the format for feat descriptions.
 ### Feat Name [Type of Feat]
 
-### Prerequisite:
+#### Prerequisite:
  A minimum ability score, another feat or feats, a minimum base attack bonus, a
 minimum number of ranks in one or more skills, or a class level that a character must have in order to acquire
 this feat. This entry is absent if a feat has no prerequisite. A feat may have more than one prerequisite.
@@ -288,7 +288,7 @@ is within arm’s reach.
 #### Benefit:
  You get a +2 bonus on all Handle Animal checks and Ride checks.
 ### Armor Proficiency (Heavy) [General]
-### Prerequisites:
+#### Prerequisites:
  Armor Proficiency (light), Armor Proficiency (medium).
 #### Benefit:
  See Armor Proficiency (light).
@@ -315,7 +315,7 @@ penalty to attack rolls and to all skill checks that involve moving, including R
 (light) as a bonus feat. They need not select it.
 
 ### Armor Proficiency (Medium) [General]
-### Prerequisite:
+#### Prerequisite:
  Armor Proficiency (light).
 #### Benefit:
  See Armor Proficiency (light).
@@ -330,7 +330,7 @@ Proficiency (medium) as a bonus feat. They need not select it.
 #### Benefit:
  You get a +2 bonus on all Climb checks and Swim checks.
 ### Augment Summoning [General]
-### Prerequisite:
+#### Prerequisite:
  Spell Focus (conjuration).
 
 #### Benefit:
@@ -360,7 +360,7 @@ _blink_ spell.
 
 A fighter may select Blind-Fight as one of his fighter bonus feats.
 ### Brew Potion [Item Creation]
-### Prerequisite:
+#### Prerequisite:
  Caster level 3rd.
 
 #### Benefit:
@@ -378,7 +378,7 @@ addition to the costs derived from the base price, you must expend the material 
 creating the potion.
 
 ### Cleave [General]
-### Prerequisites:
+#### Prerequisites:
  Str 13, Power Attack.
 
 #### Benefit:
@@ -396,7 +396,7 @@ same bonus as the attack that dropped the previous creature. You can use this ab
 ability while on the defensive or while you are grappling or pinned.
 
 ### Combat Expertise [General]
-### Prerequisite:
+#### Prerequisite:
  Int 13.
 
 #### Benefit:
@@ -430,7 +430,7 @@ once per round.
 A fighter may select Combat Reflexes as one of his fighter bonus feats.
 A monk may select Combat Reflexes as a bonus feat at 2nd level.
 ### Craft Magic Arms and Armor [Item Creation]
-### Prerequisite:
+#### Prerequisite:
  Caster level 5th.
 
 #### Benefit:
@@ -446,7 +446,7 @@ You can also mend a broken magic weapon, suit of armor, or shield if it is one t
 half the XP, half the raw materials, and half the time it would take to craft that item in the first place.
 
 ### Craft Rod [Item Creation]
-### Prerequisite:
+#### Prerequisite:
  Caster level 9th.
 
 #### Benefit:
@@ -458,7 +458,7 @@ Some rods incur extra costs in material components or XP, as noted in their desc
 addition to those derived from the rod’s base price.
 
 ### Craft Staff [Item Creation]
-### Prerequisite:
+#### Prerequisite:
  Caster level 12th.
 #### Benefit:
  You can create any staff whose prerequisites you meet.
@@ -471,7 +471,7 @@ Some staffs incur extra costs in material components or XP, as noted in their de
 addition to those derived from the staff ’s base price.
 
 ### Craft Wand [Item Creation]
-### Prerequisite:
+#### Prerequisite:
  Caster level 5th.
 
 #### Benefit:
@@ -485,7 +485,7 @@ addition to the cost derived from the base price, you must expend fifty copies o
 fifty times the XP cost.
 
 ### Craft Wondrous Item [Item Creation]
-### Prerequisite:
+#### Prerequisite:
  Caster level 3rd.
 
 #### Benefit:
@@ -504,7 +504,7 @@ a broken one.
 #### Benefit:
  You get a +2 bonus on all Disguise checks and Forgery checks.
 ### Deflect Arrows [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 13, Improved Unarmed Strike.
 
 #### Benefit:
@@ -524,7 +524,7 @@ A fighter may select Deflect Arrows as one of his fighter bonus feats.
 #### Benefit:
  You get a +2 bonus on all Sleight of Hand checks and Use Rope checks.
 ### Diehard [General]
-### Prerequisite:
+#### Prerequisite:
  Endurance.
 
 #### Benefit:
@@ -548,7 +548,7 @@ unconscious and dying.
 #### Benefit:
  You get a +2 bonus on all Appraise checks and Decipher Script checks.
 ### Dodge [General]
-### Prerequisite:
+#### Prerequisite:
  Dex 13.
 
 #### Benefit:
@@ -606,7 +606,7 @@ spell, just as normal.
 
 ### Exotic Weapon Proficiency [General]
 Choose a type of exotic weapon. You understand how to use that type of exotic weapon in combat.
-### Prerequisite:
+#### Prerequisite:
  Base attack bonus +1 (plus Str 13 for bastard sword or dwarven waraxe).
 #### Benefit:
  You make attack rolls with the weapon normally.
@@ -629,7 +629,7 @@ concentration, instantaneous, or permanent is not affected by this feat. An exte
 one level higher than the spell’s actual level.
 
 ### Extra Turning [General]
-### Prerequisite:
+#### Prerequisite:
  Ability to turn or rebuke creatures.
 
 #### Benefit:
@@ -648,7 +648,7 @@ number of times per day equal to 3 + his or her Charisma modifier.
 feat, you can use each of your turning or rebuking abilities four additional times per day.
 
 ### Far Shot [General]
-### Prerequisite:
+#### Prerequisite:
  Point Blank Shot.
 
 #### Benefit:
@@ -658,7 +658,7 @@ one-half (multiply by 1-1/2). When you use a thrown weapon, its range increment 
 #### Special:
  A fighter may select Far Shot as one of his fighter bonus feats.
 ### Forge Ring [Item Creation]
-### Prerequisite:
+#### Prerequisite:
  Caster level 12th.
 
 #### Benefit:
@@ -673,7 +673,7 @@ Some magic rings incur extra costs in material components or XP, as noted in the
 a cost to forge such a ring or to mend a broken one.
 
 ### Great Cleave [General]
-### Prerequisites:
+#### Prerequisites:
  Str 13, Cleave, Power Attack, base attack bonus +4.
 
 #### Benefit:
@@ -697,7 +697,7 @@ magic you select. This bonus stacks with the bonus from Spell Focus.
 feat, it applies to a new school of magic to which you already have applied the Spell Focus feat.
 
 ### Greater Spell Penetration [General]
-### Prerequisite:
+#### Prerequisite:
  Spell Penetration.
 
 #### Benefit:
@@ -706,7 +706,7 @@ creature’s spell resistance. This bonus stacks with the one from Spell Penetra
 
 ### Greater Two-Weapon Fighting [General]
 
-### Prerequisites:
+#### Prerequisites:
  Dex 19, Improved Two-Weapon Fighting, Two-Weapon Fighting, base attack bonus +11.
 
 #### Benefit:
@@ -722,7 +722,7 @@ even if he does not have the prerequisites for it, but only when he is wearing l
 Choose one type of weapon for which you have already selected Weapon Focus. You can also choose unarmed strike or
 grapple as your weapon for purposes of this feat.
 
-### Prerequisites:
+#### Prerequisites:
  Proficiency with selected weapon, Weapon Focus with selected weapon, fighter level
 8th.
 
@@ -743,7 +743,7 @@ A fighter may select Greater Weapon Focus as one of his fighter bonus feats.
 Choose one type of weapon for which you have already selected Weapon Specialization. You can also choose unarmed
 strike or grapple as your weapon for purposes of this feat.
 
-### Prerequisites:
+#### Prerequisites:
  Proficiency with selected weapon, Greater Weapon Focus with selected weapon,
 Weapon Focus with selected weapon, Weapon Specialization with selected weapon, fighter level 12th.
 
@@ -766,7 +766,7 @@ _lesser globe of invulnerability_) are calculated according to the heightened le
 as difficult to prepare and cast as a spell of its effective level.
 
 ### Improved Bull Rush [General]
-### Prerequisites:
+#### Prerequisites:
  Str 13, Power Attack.
 
 #### Benefit:
@@ -787,7 +787,7 @@ specifically designated as countering the target spell.
 
 ### Improved Critical [General]
 Choose one type of weapon.
-### Prerequisite:
+#### Prerequisite:
  Proficient with weapon, base attack bonus +8.
 #### Benefit:
  When using the weapon you selected, your threat range is doubled.
@@ -799,7 +799,7 @@ take the feat, it applies to a new type of weapon.
 This effect doesn’t stack with any other effect that expands the threat range of a weapon.
 A fighter may select Improved Critical as one of his fighter bonus feats.
 ### Improved Disarm [General]
-### Prerequisites:
+#### Prerequisites:
  Int 13, Combat Expertise.
 
 #### Benefit:
@@ -817,7 +817,7 @@ A monk may select Improved Disarm as a bonus feat at 6th level, even if she does
 This feat allows spellcasters to acquire a new familiar from a nonstandard list, but only when they could normally
 acquire a new familiar.
 
-### Prerequisites:
+#### Prerequisites:
  Ability to acquire a new familiar, compatible alignment, sufficiently high level
 (see below).
 
@@ -860,7 +860,7 @@ subtype, as shown below.
 | 3 The master must first create the homunculus, substituting ichor or another part of the master’s body for blood if necessary. |
 
 ### Improved Feint [General]
-### Prerequisites:
+#### Prerequisites:
  Int 13, Combat Expertise.
 #### Benefit:
  You can make a Bluff check to feint in combat as a move action.
@@ -868,7 +868,7 @@ subtype, as shown below.
  Feinting in combat is a standard action.
 A fighter may select Improved Feint as one of his fighter bonus feats.
 ### Improved Grapple [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 13, Improved Unarmed Strike.
 
 #### Benefit:
@@ -888,7 +888,7 @@ A monk may select Improved Grapple as a bonus feat at 1st level, even if she doe
 #### Special:
  A fighter may select Improved Initiative as one of his fighter bonus feats.
 ### Improved Overrun [General]
-### Prerequisites:
+#### Prerequisites:
  Str 13, Power Attack.
 
 #### Benefit:
@@ -900,7 +900,7 @@ also gain a +4 bonus on your Strength check to knock down your opponent.
 #### Special:
  A fighter may select Improved Overrun as one of his fighter bonus feats.
 ### Improved Precise Shot [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 19, Point Blank Shot, Precise Shot, base attack bonus +11.
 
 #### Benefit:
@@ -923,7 +923,7 @@ An 11th-level ranger who has chosen the archery combat style is treated as havin
 he does not have the prerequisites for it, but only when he is wearing light or no armor.
 
 ### Improved Shield Bash [General]
-### Prerequisite:
+#### Prerequisite:
  Shield Proficiency.
 
 #### Benefit:
@@ -937,7 +937,7 @@ to AC until his or her next turn.
 #### Special:
  A fighter may select Improved Shield Bash as one of his fighter bonus feats.
 ### Improved Sunder [General]
-### Prerequisites:
+#### Prerequisites:
  Str 13, Power Attack.
 
 #### Benefit:
@@ -953,7 +953,7 @@ or carried by another character.
 #### Special:
  A fighter may select Improved Sunder as one of his fighter bonus feats.
 ### Improved Trip [General]
-### Prerequisites:
+#### Prerequisites:
  Int 13, Combat Expertise.
 
 #### Benefit:
@@ -973,7 +973,7 @@ the prerequisites.
 
 A fighter may select Improved Trip as one of his fighter bonus feats.
 ### Improved Turning [General]
-### Prerequisite:
+#### Prerequisite:
  Ability to turn or rebuke creatures.
 
 #### Benefit:
@@ -981,7 +981,7 @@ A fighter may select Improved Trip as one of his fighter bonus feats.
 that grants you the ability.
 
 ### Improved Two-Weapon Fighting [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 17, Two-Weapon Fighting, base attack bonus +6.
 
 #### Benefit:
@@ -1022,7 +1022,7 @@ A fighter may select Improved Unarmed Strike as one of his fighter bonus feats.
 #### Benefit:
  You get a +2 bonus on all Will saving throws.
 #### Leadership [General]
-### Prerequisite:
+#### Prerequisite:
  Character level 6th.
 
 #### Benefits:
@@ -1131,7 +1131,7 @@ however, because cohorts earn experience on their own.)
 #### Benefit:
  You get a +2 bonus on all Spellcraft checks and Use Magic Device checks.
 ### Manyshot [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 17, Point Blank Shot, Rapid Shot, base attack bonus +6
 
 #### Benefit:
@@ -1184,7 +1184,7 @@ An empowered, maximized spell gains the separate benefits of each feat: the maxi
 normally rolled result.
 
 ### Mobility [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 13, Dodge.
 
 #### Benefit:
@@ -1196,7 +1196,7 @@ Dodge bonuses stack with each other, unlike most types of bonuses.
 #### Special:
  A fighter may select Mobility as one of his fighter bonus feats.
 ### Mounted Archery [General]
-### Prerequisites:
+#### Prerequisites:
  Ride 1 rank, Mounted Combat.
 
 #### Benefit:
@@ -1206,7 +1206,7 @@ Dodge bonuses stack with each other, unlike most types of bonuses.
 #### Special:
  A fighter may select Mounted Archery as one of his fighter bonus feats.
 ### Mounted Combat [General]
-### Prerequisite:
+#### Prerequisite:
  Ride 1 rank.
 
 #### Benefit:
@@ -1218,7 +1218,7 @@ AC.)
 #### Special:
  A fighter may select Mounted Combat as one of his fighter bonus feats.
 ### Natural Spell [General]
-### Prerequisites:
+#### Prerequisites:
  Wis 13, wild shape ability.
 
 #### Benefit:
@@ -1247,7 +1247,7 @@ feet.
 #### Special:
  A fighter may select Point Blank Shot as one of his fighter bonus feats.
 ### Power Attack [General]
-### Prerequisite:
+#### Prerequisite:
  Str 13.
 
 #### Benefit:
@@ -1265,7 +1265,7 @@ round, you treat it as a two-handed weapon.)
 
 A fighter may select Power Attack as one of his fighter bonus feats.
 ### Precise Shot [General]
-### Prerequisite:
+#### Prerequisite:
  Point Blank Shot.
 
 #### Benefit:
@@ -1275,7 +1275,7 @@ standard -4 penalty on your attack roll.
 #### Special:
  A fighter may select Precise Shot as one of his fighter bonus feats.
 ### Quick Draw [General]
-### Prerequisite:
+#### Prerequisite:
  Base attack bonus +1.
 
 #### Benefit:
@@ -1308,7 +1308,7 @@ cast spell automatically increases the casting time to a full-round action.
 
 ### Rapid Reload [General]
 Choose a type of crossbow (hand, light, or heavy).
-### Prerequisite:
+#### Prerequisite:
  Weapon Proficiency (crossbow type chosen).
 
 #### Benefit:
@@ -1329,7 +1329,7 @@ new type of crossbow.
 
 A fighter may select Rapid Reload as one of his fighter bonus feats.
 ### Rapid Shot [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 13, Point Blank Shot.
 
 #### Benefit:
@@ -1344,7 +1344,7 @@ A 2nd-level ranger who has chosen the archery combat style is treated as having 
 have the prerequisites for it, but only when he is wearing light or no armor.
 
 ### Ride-by Attack [General]
-### Prerequisites:
+#### Prerequisites:
  Ride 1 rank, Mounted Combat.
 
 #### Benefit:
@@ -1369,7 +1369,7 @@ carrying no more than a medium load) or three times your speed (if wearing heavy
 and you lose your Dexterity bonus to AC.
 
 ### Scribe Scroll [Item Creation]
-### Prerequisite:
+#### Prerequisite:
  Caster level 1st.
 
 #### Benefit:
@@ -1398,7 +1398,7 @@ armor check penalty on attack rolls and on all skill checks that involve moving,
 Shield Proficiency as a bonus feat. They need not select it.
 
 ### Shot on the Run [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 13, Dodge, Mobility, Point Blank Shot, base attack bonus +4.
 
 #### Benefit:
@@ -1437,7 +1437,7 @@ Choose a skill.
 feat, it applies to a new skill.
 
 ### Snatch Arrows [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 15, Deflect Arrows, Improved Unarmed Strike.
 
 #### Benefit:
@@ -1460,7 +1460,7 @@ magic you select.
 feat, it applies to a new school of magic.
 
 ### Spell Mastery [Special]
-### Prerequisite:
+#### Prerequisite:
  Wizard level 1st.
 
 #### Benefit:
@@ -1478,7 +1478,7 @@ _read magic._
 creature’s spell resistance.
 
 ### Spirited Charge [General]
-### Prerequisites:
+#### Prerequisites:
  Ride 1 rank, Mounted Combat, Ride-By Attack.
 
 #### Benefit:
@@ -1488,7 +1488,7 @@ triple damage with a lance).
 #### Special:
  A fighter may select Spirited Charge as one of his fighter bonus feats.
 ### Spring Attack [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 13, Dodge, Mobility, base attack bonus +4.
 
 #### Benefit:
@@ -1513,7 +1513,7 @@ Spells without somatic components are not affected. A stilled spell uses up a sp
 spell’s actual level.
 
 ### Stunning Fist [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 13, Wis 13, Improved Unarmed Strike, base attack bonus +8.
 
 #### Benefit:
@@ -1538,7 +1538,7 @@ A fighter may select Stunning Fist as one of his fighter bonus feats.
 #### Special:
  A character may gain this feat multiple times. Its effects stack.
 ### Tower Shield Proficiency [General]
-### Prerequisite:
+#### Prerequisite:
  Shield Proficiency.
 #### Benefit:
  You can use a tower shield and suffer only the standard penalties.
@@ -1620,7 +1620,7 @@ someone else has already found them.
 This feat does not allow you to find or follow the tracks made by a subject of a _pass without trace_ spell.
 
 ### Trample [General]
-### Prerequisites:
+#### Prerequisites:
  Ride 1 rank, Mounted Combat.
 
 #### Benefit:
@@ -1631,7 +1631,7 @@ attack rolls against prone targets.
 #### Special:
  A fighter may select Trample as one of his fighter bonus feats.
 ### Two-Weapon Defense [General]
-### Prerequisites:
+#### Prerequisites:
  Dex 15, Two-Weapon Fighting.
 
 #### Benefit:
@@ -1643,7 +1643,7 @@ When you are fighting defensively or using the total defense action, this shield
  A fighter may select Two-Weapon Defense as one of his fighter bonus feats.
 ### Two-Weapon Fighting [General]
 You can fight with a weapon in each hand. You can make one extra attack each round with the second weapon.
-### Prerequisite:
+#### Prerequisite:
  Dex 15.
 
 #### Benefit:
@@ -1663,7 +1663,7 @@ armor.
 
 A fighter may select Two-Weapon Fighting as one of his fighter bonus feats.
 ### Weapon Finesse [General]
-### Prerequisite:
+#### Prerequisite:
  Base attack bonus +1.
 
 #### Benefit:
@@ -1679,7 +1679,7 @@ Natural weapons are always considered light weapons.
 Choose one type of weapon. You can also choose unarmed strike or grapple (or ray, if you are a spellcaster) as
 your weapon for purposes of this feat.
 
-### Prerequisites:
+#### Prerequisites:
  Proficiency with selected weapon, base attack bonus +1.
 #### Benefit:
  You gain a +1 bonus on all attack rolls you make using the selected weapon.
@@ -1696,7 +1696,7 @@ gain the Weapon Specialization feat for that weapon.
 Choose one type of weapon for which you have already selected the Weapon Focus feat. You can also choose unarmed
 strike or grapple as your weapon for purposes of this feat. You deal extra damage when using this weapon.
 
-### Prerequisites:
+#### Prerequisites:
  Proficiency with selected weapon, Weapon Focus with selected weapon, fighter level
 4th.
 
@@ -1710,7 +1710,7 @@ feat, it applies to a new type of weapon.
 A fighter may select Weapon Specialization as one of his fighter bonus feats.
 ### Whirlwind Attack [General]
 
-### Prerequisites:
+#### Prerequisites:
  Dex 13, Int 13, Combat Expertise, Dodge, Mobility, Spring Attack, base attack
 bonus +4.
 
