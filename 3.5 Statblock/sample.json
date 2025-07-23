@@ -1,0 +1,91 @@
+``` statblock
+statblock: true
+layout: Basic 3.5e Layout
+player: true
+name: Ericksed
+size: Small
+type: Halfling (Lightfoot)
+columns: 2
+forceColumns: true
+image: [[..\party images\eriksed.PNG]]
+subtype: "(Halfling)"
+class:  12th-Level Ranger
+level: 13
+alignment: Neutral Good
+ac: 25, touch 17, flatfooted 20
+hp: 77
+hit_dice: 12d8
+initiative: +9
+speed: 20 ft.,
+stats:
+  - 13
+  - 20
+  - 10
+  - 14
+  - 16
+  - 13
+skillsaves:
+   - Appraise : +2
+   - Balance : +7
+   - Bluff : +1
+   - Climb : +7
+   - Concentration : +2
+   - Craft (Bowmaking) : +3
+   - Craft (Untrained) : +2
+   - Decipher Script : +3
+   - Diplomacy : +1
+   - Disguise : +1
+   - Escape Artist : +5
+   - Forgery : +2
+   - Gather Information : +1
+   - Handle Animal : +2
+   - Heal : +4
+   - Hide : +21
+   - Intimidate : +1
+   - Jump : -3
+   - Knowledge (Dungeoneering) : +8
+   - Knowledge (Geography) : +8
+   - Knowledge (Nature) : +8
+   - Listen : +20
+   - Move Silently : +22
+   - Perform (Untrained) : +1
+   - Profession (Hunter) : +5
+   - Ride : +10
+   - Search : +5
+   - Sense Motive : +3
+   - Spot : +18
+   - Survival : +15
+   - Swim : +4
+   - Tumble : +6
+   - Use Rope : +9
+saves:
+ - Fortitude : +9
+ - Reflex : +14
+ - Will : +8
+damage_vulnerabilities: ""
+damage_resistances: ""
+senses: 
+damage_immunities: ""
+condition_immunities: ""
+languages: "Common, Elven, Halfling"
+cr: 12
+bestiary: true
+special_qualities: +1 racial bonus on all saving throws., +1 racial bonus on attack rolls with thrown weapons and slings., +2 morale bonus on saving throws against fear, +2 racial bonus on Climb, Jump, Listen, and Move Silently checks., Archery Combat Style, Animal Companion(Ex), Combat Style(Ex), Combat Style Mastery(Ex), Dragon, Endurance, Evasion(Ex), Favored Enemy(Ex), Favored Enemy - Dragon(Ex), Favored Enemy - Humanoid (Goblinoid)(Ex), Favored Enemy - Undead(Ex), Humanoid (Goblinoid), Improved Combat Style(Ex), Spells, Swift Tracker(Ex), Track, Weapon and Armor Proficiency, Wild Empathy(Ex), Woodland Stride(Ex), Halfling Racial Traits(Ex), Humanoid Traits, Humanoid Traits,  Wild Empathy,
+actions:
+  - name: Full Attack
+    desc: "Sun Blade (Bastard) (Small)+16/+11/+6 melee (1d8+3/17-20);Gauntlet (Spiked) (Small)+14/+9/+4 melee (1d3+1);Composite Energy bow (Composite) (Small)+21/+16/+11 ranged (2d6+4/x3);Flail (Heavy) (Small)+14/+9/+4 melee (1d8+1/19-20);Longbow +1 (Composite/Small/+1)+20/+15/+10 ranged (1d6+3/x3);Swordbow (Small)+16/+11/+6 melee (1d6+2/x3);Swordbow (Small/Thrown)+21/+16/+11 ranged (1d6+3/x3);" 
+  - name: Attack
+    desc: "Sun Blade (Bastard) (Small)+16 melee (1d8+3/17-20);Gauntlet (Spiked) (Small)+14 melee (1d3+1);Composite Energy bow (Composite) (Small)+21 ranged (2d6+4/x3);Flail (Heavy) (Small)+14 melee (1d8+1/19-20);Longbow +1 (Composite/Small/+1)+20 ranged (1d6+3/x3);Swordbow (Small)+16 melee (1d6+2/x3);Swordbow (Small/Thrown)+21 ranged (1d6+3/x3);"
+initiative: +9
+spells:
+  - Ranger Spells per Day: (0/2/2/2/0/0/0/0/0/ DC:14+spell level)
+  - Spell List: [[Class Spell List#Ranger Spells| Ranger Spells]]
+  - Prepared Spells Ranger (CL 12) 
+  - 1st : [[Spell List#entangle|entangle]](2)(DC14)
+  - 2nd : [[Spell List#protection from energy|protection from energy]](DC 15), [[Spell List#wind wall|wind wall]]
+  - 3rd : [[Spell List#darkvision|darkvision]](DC 16), [[Spell List#neutralize poison|neutralize poison]](DC16)
+traits:
+   - name: Feats
+     desc: [[Feat List#Far Shot|Far Shot]], [[Feat List#Improved Critical|Improved Critical]] (Sword (Bastard)), [[Feat List#Improved Initiative|Improved Initiative]], [[Feat List#Point Blank Shot|Point Blank Shot]], [[Feat List#Precise Shot|Precise Shot]], 
+combat_gear: Sun Blade (Bastard) (Small), Bracers of Archery, Lesser, Gauntlet (Spiked) (Small), Ring of Protection +1, Gloves of Dexterity +2, Outfit (Explorer's/Small), Cloak of Elvenkind, Mithral Shirt +2 (Small), Shield +1 (Light/Metal), Torch, Pouch (Belt) (Small), Efficient Quiver, Handy Haversack, 
+```
