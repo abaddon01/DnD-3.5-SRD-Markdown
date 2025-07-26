@@ -268,7 +268,7 @@ A sea cat has a +8 racial bonus on any Swim check to perform some special action
 |**Full Attack:**|Incorporeal touch +3 melee (1d6 Str)||Incorporeal touch +6 melee (1d8 Str)|
 |**Space/Reach:**|5 ft./5 ft.||5 ft./5 ft.|
 |**Special Attacks:**|Create spawn, strenght damage||Create spawn, strength damage|
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, Undead Traits; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, Undead Traits; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, [[Special Abilities#undead traits\|Undead Traits]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, [[Special Abilities#undead traits\|Undead Traits]] ; | 
 |**Saves:**|Fort +1, Ref +3, Will +4||Fort +3, Ref +5, Will +7|
 |**Abilities:**|Str -, Dex 14, Con -, Int 6, Wis 12, Cha 13||Str -, Dex 15, Con -, Int 6, Wis 12, Cha 14|
 | Skills: | [[Skill List#Hide\|Hide]] +8*, [[Skill List#Listen\|Listen]] +7, [[Skill List#Search\|Search]] +4, [[Skill List#Spot\|Spot]] +7; | | [[Skill List#Hide\|Hide]] +14*, [[Skill List#Listen\|Listen]] +9, [[Skill List#Search\|Search]] +6, [[Skill List#Spot\|Spot]] +9; | 
@@ -421,7 +421,7 @@ Skills: Shamblers have a +4 racial bonus on Hide, Listen, and Move Silently chec
 | Full Attack: | 2 slams +16 melee (1d8+6) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | Construct Traits, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 5, Find Master, Guard, [[Special Abilities#low-light vision\|Low-light Vision]] , *shield Other, Spell Storing*; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, Find Master, Guard, [[Special Abilities#low-light vision\|Low-light Vision]] , *shield Other, Spell Storing*; | 
 | Saves: | Fort +5, Ref +5, Will +5 | 
 | Abilities: | Str 22, Dex 10, Con ---, Int ---, Wis 10, Cha 1 | 
 | Environment: | Any | 
@@ -633,7 +633,7 @@ As base creature (or --- if the base creature advances by character class).
 |**Full Attack:**|Scimitar +1 melee (1d6+1/18-20) or 2 claws +1 melee (1d4+1)||Bite +2 melee (1d6+1)||2 claws +6 melee (1d6+5) and bite +1 melee (1d8+2)|
 |**Space/Reach:**|5 ft./5 ft.||5 ft./5 ft.||10 ft./5 ft.|
 |Special Attacks: -|-||-|||
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Undead Traits; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Undead Traits; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Undead Traits; | 
+| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#undead traits\|Undead Traits]] ; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#undead traits\|Undead Traits]] ; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#undead traits\|Undead Traits]] ; | 
 |**Saves:**|Fort +0, Ref +1, Will +2||Fort +0, Ref +3, Will +3||Fort +1, Ref +3, Will +4|
 |**Abilities:**|Str 13, Dex 13, Con -, Int -, Wis 10, Cha 1||Str 13, Dex 17, Con -, Int -, Wis 10, Cha 1||Str 21, Dex 14, Con -, Int -, Wis 10, Cha 1|
 | Feats: | [[Feat List#Improved Initiative\|Improved Initiative]] ; | | [[Feat List#Improved Initiative\|Improved Initiative]] ; | | [[Feat List#Improved Initiative\|Improved Initiative]] ; | 
@@ -656,7 +656,7 @@ As base creature (or --- if the base creature advances by character class).
 |**Full Attack:**|2 claws +8 melee (1d6+6) and bite +3 melee (1d6+3)||Bite +7 melee (2d6+4) and bite+7 melee (1d8+4) and gore +7 melee (1d8+4) and 2 claws +2 melee (1d6+2)||2 morningstars +10 melee (2d6+6) or 2 claws +10 melee (1d6+6) or 2 javelins +4 ranged (1d8+6)|
 |**Space/Reach:**|10 ft./10 ft||10 ft./5 ft||10 ft./10 ft.|
 |**Special Attacks:**|-||-||-|
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Undead Traits; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Undead Traits; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Superior Twoweapon, Undead Traits; | 
+| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#undead traits\|Undead Traits]] ; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#undead traits\|Undead Traits]] ; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Superior Twoweapon, [[Special Abilities#undead traits\|Undead Traits]] ; | 
 |**Saves:**|Fort +2, Ref +5, Will +5||Fort +3, Ref +5, Will +6||Fort +3, Ref +3, Will +7|
 |**Abilities:**|Str 23, Dex 16, Con -, Int -, Wis 10, Cha 1||Str 19, Dex 15, Con -, Int -, Wis 10, Cha 1||Str 23, Dex 10, Con -, Int -, Wis 10, Cha 1|
 | Feats: | [[Feat List#Improved Initiative\|Improved Initiative]] ; | | [[Feat List#Improved Initiative\|Improved Initiative]] ; | | [[Feat List#Improved Initiative\|Improved Initiative]] ; | 
@@ -679,7 +679,7 @@ As base creature (or --- if the base creature advances by character class).
 |**Full Attack:**|Talons +9 melee (2d8+5) and 2 claws +4 melee (1d8+2) and bite +4 melee (2d6+2)||Gargantuan morningstar +18/+13 melee (4d6+18) or 2 claws +18 melee (1d8+12) or rock +8 ranged (2d8+12)||Bite +17 melee (2d8+10) and 2 claws +12 melee (2d6+5) and 2 wings +12 melee (1d8+5) and tail slap +12 melee (2d6+15)|
 |**Space/Reach:**|15 ft./10 ft.||15 ft./15 ft.||15 ft./10 ft.|
 |**Special Attacks:**|-||-||-|
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Undead Traits; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Oversize Weapon, Undead Traits; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold And Fire, Undead Traits; | 
+| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#undead traits\|Undead Traits]] ; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Oversize Weapon, [[Special Abilities#undead traits\|Undead Traits]] ; | | [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold And Fire, [[Special Abilities#undead traits\|Undead Traits]] ; | 
 |**Saves:**|Fort +4, Ref +7, Will +8||Fort +5, Ref +7, Will +10||Fort +6, Ref +7, Will +8|
 |**Abilities:**|Str 21, Dex 17, Con -, Int -, Wis 10, Cha 1||Str 35, Dex 15, Con -, Int -, Wis 10, Cha 1||Str 31, Dex 12, Con -, Int -, Wis 10, Cha 1|
 | Feats: | [[Feat List#Improved Initiative\|Improved Initiative]] ; | | [[Feat List#Improved Initiative\|Improved Initiative]] ; | | [[Feat List#Improved Initiative\|Improved Initiative]] ; | 
@@ -745,7 +745,7 @@ A skum has a +8 racial bonus on any Swim check to perform some special action or
 | Full Attack: | Incorporeal touch +6 melee (1d8 plus energy drain) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Energy drain, create spawn | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, Sunlight Powerlessness, Undead Traits, Unnatural Aura; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, Sunlight Powerlessness, [[Special Abilities#undead traits\|Undead Traits]] , Unnatural Aura; | 
 | Saves: | Fort +2, Ref +5, Will +7 | 
 | Abilities: | Str ---, Dex 16, Con ---, Int 14, Wis 14, Cha 15 | 
 | Skills: | [[Skill List#Hide\|Hide]] +13, [[Skill List#Intimidate\|Intimidate]] +12, [[Skill List#Knowledge\|Knowledge]] (religion) +12, [[Skill List#Listen\|Listen]] +14, [[Skill List#Search\|Search]] +12, [[Skill List#Spot\|Spot]] +14, [[Skill List#Survival\|Survival]] +2 (+4 Following Tracks); | 
@@ -1291,7 +1291,7 @@ A lit lantern can be used as a thrown weapon, dealing 1d4 points of fire damage 
 | Full Attack: | Swarm (1d6) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, wounding | 
-| Special Qualities: | Blindsense 20 Ft., Half Damage From Slashing And Piercing, [[Special Abilities#low-light vision\|Low-light Vision]] , Swarm Traits; | 
+| Special Qualities: | Blindsense 20 Ft., Half Damage From Slashing And Piercing, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#swarm traits\|Swarm Traits]] ; | 
 | Saves: | Fort +3, Ref +7, Will +3 | 
 | Abilities: | Str 3, Dex 15, Con 10, Int 2, Wis 14, Cha 4 | 
 | Skills: | [[Skill List#Listen\|Listen]] +11, [[Skill List#Spot\|Spot]] +11; | 
@@ -1336,7 +1336,7 @@ A bat swarm has a +4 racial bonus on Listen and Spot checks. These bonuses are l
 | Full Attack: | Swarm (2d6 plus poison) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, poison | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, Swarm Traits, [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Special Abilities#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
 | Saves: | Fort +5, Ref +7, Will +3 | 
 | Abilities: | Str 1, Dex 19, Con 8, Int ---, Wis 10, Cha 2 | 
 | Skills: | [[Skill List#Climb\|Climb]] +12, [[Skill List#Spot\|Spot]] +4; | 
@@ -1376,7 +1376,7 @@ A centipede swarm has a +4 racial bonus on Spot checks and a +8 racial bonus on 
 | Full Attack: | Swarm (3d6 plus poison) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, inhabit, poison | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Hive Mind, Immune To Weapon Damage, Resistance To Fire 10, [[Special Abilities#low-light vision\|Low-light Vision]] , Swarm Traits; | 
+| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Hive Mind, Immune To Weapon Damage, Resistance To Fire 10, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#swarm traits\|Swarm Traits]] ; | 
 | Saves: | Fort +10, Ref +14, Will +7 | 
 | Abilities: | Str 1, Dex 22, Con 14, Int 6, Wis 13, Cha 9 | 
 | Skills: | [[Skill List#Hide\|Hide]] +19, [[Skill List#Listen\|Listen]] +10, [[Skill List#Spot\|Spot]] +10; | 
@@ -1429,7 +1429,7 @@ Any hellwasp swarm with at least 1 hit point per Hit Die (or 12 hit points, for 
 | Full Attack: | Swarm (2d6) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, Swarm Traits, Vermin Traits; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Special Abilities#swarm traits\|Swarm Traits]] , Vermin Traits; | 
 | Saves: | Fort +4, Ref +6, Will +2 | 
 | Abilities: | Str 1, Dex 19, Con 8, Int ---, Wis 10, Cha 2 | 
 | Skills: | [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 
@@ -1468,7 +1468,7 @@ A locust swarm has a +4 racial bonus on Listen and Spot checks.
 | Full Attack: | Swarm (1d6 plus disease) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Disease, distraction | 
-| Special Qualities: | Half Damage From Slashing And Piercing, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , Swarm Traits; | 
+| Special Qualities: | Half Damage From Slashing And Piercing, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , [[Special Abilities#swarm traits\|Swarm Traits]] ; | 
 | Saves: | Fort +4, Ref +6, Will +2 | 
 | Abilities: | Str 2, Dex 15, Con 10, Int 2, Wis 12, Cha 2 | 
 | Skills: | [[Skill List#Balance\|Balance]] +10, [[Skill List#Climb\|Climb]] +10, [[Skill List#Hide\|Hide]] +14, [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +7, [[Skill List#Swim\|Swim]] +10; | 
@@ -1508,7 +1508,7 @@ A rat swarm has a +4 racial bonus on Hide and Move Silently checks, and a +8 rac
 | Full Attack: | Swarm (1d6 plus poison) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, poison | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Swarm Traits, [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
 | Saves: | Fort +3, Ref +3, Will +0 | 
 | Abilities: | Str 1, Dex 17, Con 10, Int ---, Wis 10, Cha 2 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 

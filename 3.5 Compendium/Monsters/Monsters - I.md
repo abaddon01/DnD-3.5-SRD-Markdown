@@ -47,7 +47,7 @@ An inevitable heals a certain amount of damage each round (specified in each var
 | Full Attack: | Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or *+2 longsword* +13/+8 melee (1d8+5/19--20) or slam +11/+6 melee (1d6+3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Enervation ray, spell-like abilities, vampiric touch | 
-| Special Qualities: | Construct Traits, [[Special Abilities#damage reduction\|Damage Reduction]]  10/chaotic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 5, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  22; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/chaotic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  22; | 
 | Saves: | Fort +6, Ref +7, Will +7 | 
 | Abilities: | Str 14, Dex 13, Con ---, Int 10, Wis 17, Cha 16 | 
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +5, [[Skill List#Disguise\|Disguise]] +12, [[Skill List#Gather Information\|Gather Information]] +12, [[Skill List#Listen\|Listen]] +11, [[Skill List#Search\|Search]] +5, [[Skill List#Sense Motive\|Sense Motive]] +12, [[Skill List#Spot\|Spot]] +11, [[Skill List#Survival\|Survival]] +3 (+5 Following Tracks); | 
@@ -102,7 +102,7 @@ A kolyarut has a +4 racial bonus on Disguise, Gather Information, and Sense Moti
 | Full Attack: | 2 slams +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Fists of thunder and lightning, spell-like abilities | 
-| Special Qualities: | Construct Traits, [[Special Abilities#damage reduction\|Damage Reduction]]  15/chaotic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 10, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  25; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  15/chaotic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  10, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  25; | 
 | Saves: | Fort +7, Ref +6, Will +8 | 
 | Abilities: | Str 35, Dex 13, Con ---, Int 12, Wis 17, Cha 18 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +13, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Knowledge\|Knowledge]] (religion) +10, [[Skill List#Listen\|Listen]] +16, [[Skill List#Search\|Search]] +10, [[Skill List#Sense Motive\|Sense Motive]] +12, [[Skill List#Spot\|Spot]] +16, [[Skill List#Survival\|Survival]] +3 (+5 Following Tracks); | 
@@ -152,7 +152,7 @@ A marut has a +4 racial bonus on Concentration, Listen, and Spot checks.
 | Full Attack: | 2 spiked chains +10 melee (2d6+5 plus 1d6 electricity) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Spell-like abilities | 
-| Special Qualities: | Construct Traits, [[Special Abilities#damage reduction\|Damage Reduction]]  10/chaotic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 5, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  20; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/chaotic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  20; | 
 | Saves: | Fort +4, Ref +2, Will +5 | 
 | Abilities: | Str 21, Dex 11, Con ---, Int 10, Wis 17, Cha 15 | 
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Listen\|Listen]] +9, [[Skill List#Search\|Search]] +9, [[Skill List#Sense Motive\|Sense Motive]] +12, [[Skill List#Spot\|Spot]] +9, [[Skill List#Survival\|Survival]] +3 (+5 Following Tracks); | 
@@ -200,7 +200,7 @@ Due to its centaur-like construction, a zelekhut qualifies for feats as if it ha
 | Full Attack: | 2 slams +10 melee (2d6+4) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Elemental Traits, [[Special Abilities#invisibility\|Natural Invisibility]] , Improved Tracking; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#elemental traits\|Elemental Traits]] , [[Special Abilities#invisibility\|Natural Invisibility]] , Improved Tracking; | 
 | Saves: | Fort +4, Ref +10, Will +4 | 
 | Abilities: | Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 11 | 
 | Skills: | [[Skill List#Listen\|Listen]] +13, [[Skill List#Move Silently\|Move Silently]] +15, [[Skill List#Search\|Search]] +13, [[Skill List#Spot\|Spot]] +13, [[Skill List#Survival\|Survival]] +2 (+4 Following Tracks); | 

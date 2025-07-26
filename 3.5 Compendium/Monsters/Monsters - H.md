@@ -756,7 +756,7 @@ Dwarven, Infernal, Giant, Orc.
 | Full Attack: | Bite +2 melee (1d4--1 plus poison) | 
 | Space/Reach: | 2-1/2 ft./0 ft. | 
 | Special Attacks: | Poison | 
-| Special Qualities: | Construct Traits, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +0, Ref +4, Will +1 | 
 | Abilities: | Str 8, Dex 15, Con ---, Int 10, Wis 12, Cha 7 | 
 | Skills: | [[Skill List#Hide\|Hide]] +14, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 
@@ -852,7 +852,7 @@ A light load for a howler is up to 460 pounds; a medium load, 461--920 pounds; a
 |**Full Attack:**|5 bites +6 melee (1d10+3)||6 bites +8 melee (1d10+3)||7 bites +10 melee (1d10+4)|
 |**Space/Reach:**|15 ft./10 ft.||15 ft./10 ft.||15 ft./10 ft.|
 |**Special Attacks:**|-||-||-|
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 15, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 16, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 17, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  15, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  16, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  17, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 |**Saves:**|Fort +9, Ref +5, Will +3||Fort +10, Ref +6, Will +4||Fort +10, Ref +6, Will +4|
 |**Abilities:**|Str 17, Dex 12, Con 20, Int 2, Wis 10, Cha 9||Str 17, Dex 12, Con 20, Int 2, Wis 10, Cha 9||Str 19, Dex 12, Con 20, Int 2, Wis 10, Cha 9|
 | Skills: | [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +6, [[Skill List#Swim\|Swim]] +11; | | [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +7, [[Skill List#Swim\|Swim]] +11; | | [[Skill List#Listen\|Listen]] +7, [[Skill List#Spot\|Spot]] +7, [[Skill List#Swim\|Swim]] +12; | 
@@ -876,7 +876,7 @@ A light load for a howler is up to 460 pounds; a medium load, 461--920 pounds; a
 |**Full Attack:**|8 bites +11 melee (1d10+4)||9 bites +13 melee (1d10+5)||10 bites +14 melee (1d10+5)|
 |**Space/Reach:**|15 ft./10 ft.||15 ft./10 ft.||15 ft./10 ft.|
 |**Special Attacks:**|-||-||-|
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 18, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 19, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 20, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  18, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  19, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  20, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 |**Saves:**|Fort +11, Ref +7, Will +4||Fort +11, Ref +7, Will +5||Fort +12, Ref +8, Will +3|
 |**Abilities:**|Str 19, Dex 12, Con 20, Int 2, Wis 10, Cha 9||Str 21, Dex 12, Con 20, Int 2, Wis 10, Cha 9||Str 21, Dex 12, Con 20, Int 2, Wis 10, Cha 9|
 | Skills: | [[Skill List#Listen\|Listen]] +7, [[Skill List#Spot\|Spot]] +8, [[Skill List#Swim\|Swim]] +12; | | [[Skill List#Listen\|Listen]] +8, [[Skill List#Spot\|Spot]] +8, [[Skill List#Swim\|Swim]] +13; | | [[Skill List#Listen\|Listen]] +8, [[Skill List#Spot\|Spot]] +9, [[Skill List#Swim\|Swim]] +13; | 
@@ -900,7 +900,7 @@ A light load for a howler is up to 460 pounds; a medium load, 461--920 pounds; a
 |**Full Attack:**|11 bites +16 melee (1d10+6)||12 bites +17 melee (2d8+6)|
 |**Space/Reach:**|15 ft./10 ft.||15 ft./10 ft.|
 |**Special Attacks:**|-||-|
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 21, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 22, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  21, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  22, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 |**Saves:**|Fort +12, Ref +8, Will +5||Fort +13, Ref +9, Will +6|
 |**Abilities:**|Str 23, Dex 12, Con 20, Int 2, Wis 10, Cha 9||Str 23, Dex 12, Con 20, Int 2, Wis 10, Cha 9|
 | Skills: | [[Skill List#Listen\|Listen]] +9, [[Skill List#Spot\|Spot]] +9, [[Skill List#Swim\|Swim]] +14; | | [[Skill List#Listen\|Listen]] +9, [[Skill List#Spot\|Spot]] +10, [[Skill List#Swim\|Swim]] +14; | 

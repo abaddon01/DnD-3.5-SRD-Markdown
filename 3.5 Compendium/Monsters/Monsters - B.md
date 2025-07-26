@@ -213,7 +213,7 @@ Behirs have a +8 racial bonus on Climb checks and can always choose to take 10 o
 | Full Attack: | 2 wings +9 melee (1d6+2) and bite +4 melee (1d4+1) and 2 claws +4 melee (1d3+1) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Smoke claws | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Elemental Traits, Smoke Form; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#elemental traits\|Elemental Traits]] , Smoke Form; | 
 | Saves: | Fort +3, Ref +10, Will +2 | 
 | Abilities: | Str 14, Dex 21, Con 13, Int 6, Wis 11, Cha 11 | 
 | Skills: | [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +9, [[Skill List#Spot\|Spot]] +7; | 
@@ -298,7 +298,7 @@ A blink dog can teleport, as *dimension door* (caster level 8th), once per round
 | Full Attack: | Slam +6 melee (1d8+1) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Death gaze | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, Resistance To Acid 10 And Fire 10, Undead Traits, Vulnerability To Sunlight; | 
+| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, Resistance To Acid 10 And Fire 10, [[Special Abilities#undead traits\|Undead Traits]] , Vulnerability To Sunlight; | 
 | Saves: | Fort +3, Ref +5, Will +7 | 
 | Abilities: | Str 13, Dex 15, Con ---, Int 6, Wis 12, Cha 12 | 
 | Skills: | [[Skill List#Listen\|Listen]] +11, [[Skill List#Move Silently\|Move Silently]] +10, [[Skill List#Spot\|Spot]] +11; | 

@@ -133,7 +133,7 @@ Those other than achaierai within 10 feet instantly take 2d6 points of damage. T
 | Full Attack: | Incorporeal touch +3 melee (1d4 Wisdom drain) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Babble, madness, Wisdom drain | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, Undead Traits; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +1, Ref +4, Will +4 | 
 | Abilities: | Str ---, Dex 12, Con ---, Int 11, Wis 11, Cha 18 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Intimidate\|Intimidate]] +7, [[Skill List#Listen\|Listen]] +7, [[Skill List#Search\|Search]] +4, [[Skill List#Spot\|Spot]] +7, [[Skill List#Survival\|Survival]] +0 (+2 Following Tracks); | 
@@ -380,7 +380,7 @@ Solars can cast divine spells as 20th-level clerics. A solar has access to two o
 |**Full Attack:**|Slam +1 melee (1d3-1)||Slam +1 melee (1d4)||Slam +2 melee (1d6+1)|
 |**Space/Reach:**|2-1/2 ft./0 ft.||5 ft./5 ft.||5 ft./5 ft.|
 |**Special Attacks:**|See text||See text||See text|
-| Special Qualities: | Construct Traits, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | | Construct Traits, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | | Construct Traits, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | 
 |**Saves:**|Fort +0, Ref +2, Will -5||Fort +0, Ref +1, Will -5||Fort +0, Ref +0, Will -5|
 |**Abilities:**|Str 8, Dex 14, Con -, Int -, Wis 1, Cha 1||Str 10, Dex 12, Con -, Int -, Wis 1, Cha 1||Str 12, Dex 10, Con -, Int -, Wis 1, Cha 1|
 | Skills: | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | 
@@ -404,7 +404,7 @@ Solars can cast divine spells as 20th-level clerics. A solar has access to two o
 |**Full Attack:**|Slam +5 melee (1d8+4)||Slam +9 melee (2d6+7)||Slam +15 melee (2d8+10)|
 |**Space/Reach:**|10 ft./5 ft. (long) 10 ft./10 ft. (tall)||15 ft./10 ft. (long) 15 ft./15 ft. (tall)||20 ft./15 ft. (long) 20 ft./20 ft. (tall)|
 |**Special Attacks:**|See text||See text||See text|
-| Special Qualities: | Construct Traits, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | | Construct Traits, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | | Construct Traits, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | 
 |**Saves:**|Fort +1, Ref +1, Will -4||Fort +2, Ref +1, Will -3||Fort +5, Ref +3, Will +0|
 |**Abilities:**|Str 16, Dex 10, Con -, Int -, Wis 1, Cha 1||Str 20, Dex 8, Con -, Int -, Wis 1, Cha 1||Str 24, Dex 6, Con -, Int -, Wis 1, Cha 1|
 | Skills: | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | 
@@ -428,7 +428,7 @@ Solars can cast divine spells as 20th-level clerics. A solar has access to two o
 |**Full Attack:**|Slam +25 melee (4d6+13)|
 |**Space/Reach:**|30 ft./20 ft. (long) 30 ft./30 ft. (tall)|
 |**Special Attacks:**|See text|
-| Special Qualities: | Construct Traits, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; | 
 |**Saves:**|Fort +10, Ref +7, Will +5|
 |**Abilities:**|Str 28, Dex 4, Con -, Int -, Wis 1, Cha 1|
 | Skills: | [[Skill List#\|]] -; | 

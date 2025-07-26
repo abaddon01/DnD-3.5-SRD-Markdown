@@ -133,7 +133,7 @@ Bludgeoning weapons and acid deal normal damage to a tendriculos. A tendriculos 
 | Full Attack: | Slam +4 melee (1d6+3 plus 2d6 fire) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Heat, burn | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Elemental Traits, Immunity To Fire, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., Vulnerability To Cold; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., Vulnerability To Cold; | 
 | Saves: | Fort +4, Ref +2, Will +2 | 
 | Abilities: | Str 15, Dex 13, Con 13, Int 6, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +5, [[Skill List#Move Silently\|Move Silently]] +3, [[Skill List#Survival\|Survival]] +3; | 

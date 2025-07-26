@@ -125,7 +125,7 @@ Advancement: As base creature, but double Hit Dice (maximum 20), or --- if the b
 |**Full Attack:**|Spear +0 melee (1d6-1/x3) or slam +0 melee (1d4-1) or light crossbow +1 ranged (1d6/19-20)||Slam+2 melee, (1d6+1) or club +2 melee (1d6+1)||Greatclub +3 melee (1d10+1) or bite +3 melee (1d4+1) or slam +3 melee (1d6+1) or javelin +0 ranged (1d6+1)|
 |**Space/Reach:**|5 ft./5 ft.||5 ft./5 ft||5 ft./5 ft|
 |**Special Attacks:**|-||-||-|
-| Special Qualities: | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits; | 
+| Special Qualities: | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 |**Saves:**|Fort +0, Ref +0, Will +3||Fort +0, Ref -1, Will +3||Fort +1, Ref -1, Will +4|
 |**Abilities:**|Str 8, Dex 11, Con -, Int -, Wis 10, Cha 1||Str 12, Dex 8, Con -, Int -, Wis 10, Cha 1||Str 12, Dex 7, Con -, Int -, Wis 10, Cha 1|
 | Skills: | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | 
@@ -149,7 +149,7 @@ Advancement: As base creature, but double Hit Dice (maximum 20), or --- if the b
 |**Full Attack:**|Morningstar +6 melee (1d8+3) or slam +6 melee (1d6+3) or javelin +3 ranged (1d6+2)||Greatclub +9 melee (2d8+9) or slam +9 melee (1d8+9) or javelin +1 ranged (1d8+6)||Greataxe +10 melee (3d6+7/x3) or gore +10 melee (1d8+5) or slam +10 melee (1d8+5)|
 |**Space/Reach:**|5 ft./5 ft.||10 ft./10 ft.||10 ft./10 ft.|
 |**Special Attacks:**|-||-||-|
-| Special Qualities: | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits; | 
+| Special Qualities: | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 |**Saves:**|Fort +2, Ref +2, Will +5||Fort +2, Ref +0, Will +6||Fort +4, Ref +3, Will +8|
 |**Abilities:**|Str 17, Dex 10, Con -, Int -, Wis 10, Cha 1||Str 23, Dex 6, Con -, Int -, Wis 10, Cha 1||Str 21, Dex 8, Con -, Int -, Wis 10, Cha 1|
 | Skills: | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | 
@@ -173,7 +173,7 @@ Advancement: As base creature, but double Hit Dice (maximum 20), or --- if the b
 |**Full Attack:**|Slam +11 melee (2d6+7) or talons +11 melee (2d6+5)||Bite +16 melee (2d6+7) or slam +16 melee (1d8+10)|
 |**Space/Reach:**|10 ft./5 ft.||10 ft./10 ft.|
 |**Special Attacks:**|-||-|
-| Special Qualities: | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits; | 
+| Special Qualities: | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | | Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 |**Saves:**|Fort +4, Ref +4, Will +9||Fort +6, Ref +5, Will +12|
 |**Abilities:**|Str 21, Dex 10, Con -, Int -, Wis 10, Cha 1||Str 25, Dex 8, Con -, Int -, Wis 10, Cha 1|
 | Skills: | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | 

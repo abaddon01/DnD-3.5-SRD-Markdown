@@ -368,7 +368,7 @@ A nightshade's desecrating aura cannot be dispelled except by a *dispel evil* sp
 | Full Attack: | Bite +29 melee (4d6+21/19--20) and sting +24 melee (2d8+11/19--20 plus poison) | 
 | Space/Reach: | 20 ft./15 ft. | 
 | Special Attacks: | Desecrating aura, energy drain, spell-like abilities, poison, summon undead, swallow whole | 
-| Special Qualities: | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  31, Telepathy 100 Ft, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., Undead Traits; | 
+| Special Qualities: | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  31, Telepathy 100 Ft, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +12, Ref +10, Will +23 | 
 | Abilities: | Str 48, Dex 10, Con ---, Int 20, Wis 20, Cha 18 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +32, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Hide\|Hide]] +16, [[Skill List#Knowledge\|Knowledge]] (arcana) +33, [[Skill List#Listen\|Listen]] +33, [[Skill List#Move Silently\|Move Silently]] +28, [[Skill List#Search\|Search]] +33, [[Skill List#Sense Motive\|Sense Motive]] +23, [[Skill List#Spellcraft\|Spellcraft]] +35, [[Skill List#Spot\|Spot]] +33, [[Skill List#Survival\|Survival]] +5 (+7 Following Tracks); | 
@@ -428,7 +428,7 @@ A nightcrawler can try to swallow a grabbed opponent of Huge or smaller size by 
 | Full Attack: | 2 slams +24 melee (2d6+16) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Crush item, desecrating aura, evil gaze, spell-like abilities, summon undead | 
-| Special Qualities: | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  29, Telepathy 100 Ft., Undead Traits; | 
+| Special Qualities: | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  29, Telepathy 100 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +11, Ref +11, Will +19 | 
 | Abilities: | Str 38, Dex 14, Con ---, Int 20, Wis 20, Cha 18 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +28, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Hide\|Hide]] +18\*, [[Skill List#Knowledge\|Knowledge]] (arcana) +29, [[Skill List#Listen\|Listen]] +29, [[Skill List#Move Silently\|Move Silently]] +26, [[Skill List#Search\|Search]] +29, [[Skill List#Sense Motive\|Sense Motive]] +29, [[Skill List#Spellcraft\|Spellcraft]] +31, [[Skill List#Spot\|Spot]] +29, [[Skill List#Survival\|Survival]] +5 (+7 Following Tracks); | 
@@ -499,7 +499,7 @@ The nightwalker is an exceedingly intelligent foe that makes the best use of all
 | Full Attack: | Bite +18 melee (2d6+17/19--20 plus magic drain) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Desecrating aura, magic drain, spell-like abilities, summon undead | 
-| Special Qualities: | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  27, Telepathy 100 Ft., Undead Traits; | 
+| Special Qualities: | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  27, Telepathy 100 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +9, Ref +11, Will +17 | 
 | Abilities: | Str 31, Dex 18, Con ---, Int 18, Wis 20, Cha 18 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +24, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Hide\|Hide]] +16\*, [[Skill List#Listen\|Listen]] +25, [[Skill List#Move Silently\|Move Silently]] +24, [[Skill List#Search\|Search]] +24, [[Skill List#Sense Motive\|Sense Motive]] +25, [[Skill List#Spellcraft\|Spellcraft]] +24, [[Skill List#Spot\|Spot]] +25, [[Skill List#Survival\|Survival]] +5 (+7 Following Tracks); | 

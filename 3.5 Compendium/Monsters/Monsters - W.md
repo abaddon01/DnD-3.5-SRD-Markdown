@@ -24,7 +24,7 @@ tags: 3.5e rules monsters
 | Full Attack: | Slam +3 melee (1d4+1 plus energy drain) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Create spawn, energy drain | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +1, Ref +2, Will +5 | 
 | Abilities: | Str 12, Dex 12, Con ---, Int 11, Wis 13, Cha 15 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +16, [[Skill List#Spot\|Spot]] +7; | 
@@ -195,7 +195,7 @@ A worg has a +1 racial bonus on Listen, Move Silently, and Spot checks, and a +2
 |**Full Attack:**|Incorporeal touch +5 melee (1d4 plus 1d6 Constitution drain)||Incorporeal touch +16 melee (2d6 plus 1d8 Constitution drain)|
 |**Space/Reach:**|5 ft./5 ft.||10 ft./10 ft.|
 |**Special Attacks:**|Constitution drain, create spawn||Constitution drain, create spawn|
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Daylight Powerlessness, Incorporeal Traits, +2 Turn Resistance, Undead Traits, Unnatural Aura; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Daylight Powerlessness, Incorporeal Traits, Lifesense 60 Ft., Undead Traits, Unnatural Aura; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Daylight Powerlessness, Incorporeal Traits, +2 Turn Resistance, [[Special Abilities#undead traits\|Undead Traits]] , Unnatural Aura; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Daylight Powerlessness, Incorporeal Traits, Lifesense 60 Ft., [[Special Abilities#undead traits\|Undead Traits]] , Unnatural Aura; | 
 |**Saves:**|Fort +1, Ref +4, Will +6||Fort +5, Ref +14, Will +14|
 |**Abilities:**|Str -, Dex 16, Con -, Int 14, Wis 14, Cha 15||Str -, Dex 28, Con -, Int 17, Wis 18, Cha 24|
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Hide\|Hide]] +11, [[Skill List#Intimidate\|Intimidate]] +10, [[Skill List#Listen\|Listen]] +12, [[Skill List#Search\|Search]] +10, [[Skill List#Sense Motive\|Sense Motive]] +8, [[Skill List#Spot\|Spot]] +12, [[Skill List#Survival\|Survival]] +2 (+4 Following Tracks); | | [[Skill List#Diplomacy\|Diplomacy]] +9, [[Skill List#Hide\|Hide]] +24, [[Skill List#Intimidate\|Intimidate]] +26, [[Skill List#Knowledge\|Knowledge]] (religion) +22, [[Skill List#Listen\|Listen]] +25, [[Skill List#Search\|Search]] +22, [[Skill List#Sense Motive\|Sense Motive]] +23, [[Skill List#Spot\|Spot]] +25, [[Skill List#Survival\|Survival]] +4 (+6 Following Tracks); | 

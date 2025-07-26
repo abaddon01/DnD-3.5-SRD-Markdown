@@ -480,7 +480,7 @@ The original material items remain behind, just as the ghost's physical remains 
 |**Full Attack:**|Bite +2 melee (1d6+1 plus paralysis) and 2 claws +0 melee (1d3 plus paralysis)||Bite +5 melee (1d8+3 plus paralysis) and 2 claws +3 melee (1d4+1 plus paralysis)|
 |**Space/Reach:**|5 ft./5 ft.||5 ft./5 ft.|
 |**Special Attacks:**|Ghoul fever, paralysis||Ghoul fever, paralyis, stench|
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits, +2 Turn Resistance; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Undead Traits, +2 Turn Resistance; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] , +2 Turn Resistance; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] , +2 Turn Resistance; | 
 |**Saves:**|Fort +0, Ref +2, Will +5||Fort +1, Ref +4, Will +6|
 |**Abilities:**|Str 13, Dex 15, Con -, Int 13, Wis 14, Cha 12||Str 17, Dex 17, Con -, Int 13, Wis 14, Cha 16|
 | Skills: | [[Skill List#Balance\|Balance]] +6, [[Skill List#Climb\|Climb]] +5, [[Skill List#Hide\|Hide]] +6, [[Skill List#Jump\|Jump]] +5, [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Spot\|Spot]] +7; | | [[Skill List#Balance\|Balance]] +7, [[Skill List#Climb\|Climb]] +9, [[Skill List#Hide\|Hide]] +8, [[Skill List#Jump\|Jump]] +9, [[Skill List#Move Silently\|Move Silently]] +8, [[Skill List#Spot\|Spot]] +8; | 
@@ -1370,7 +1370,7 @@ The characteristics of a golem that come from its nature as a magic item (caster
 | Full Attack: | 2 slams +14 melee (2d10+7 plus cursed wound) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Berserk, cursed wound | 
-| Special Qualities: | Construct Traits, [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine And Bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Haste, Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine And Bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Haste, Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +3, Ref +2, Will +3 | 
 | Abilities: | Str 25, Dex 9, Con ---, Int ---, Wis 11, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -1429,7 +1429,7 @@ CL 11th; Craft Construct, *animate objects, commune, resurrection*, caster must 
 | Full Attack: | 2 slams +10 melee (2d8+5) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Berserk | 
-| Special Qualities: | Construct Traits, [[Special Abilities#damage reduction\|Damage Reduction]]  5/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  5/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +3, Ref +2, Will +3 | 
 | Abilities: | Str 21, Dex 9, Con ---, Int ---, Wis 11, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -1480,7 +1480,7 @@ CL 8th; Craft Construct, *animate dead, bull's strength, geas/quest, limited wis
 | Full Attack: | 2 slams +23 melee (2d10+11) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Breath weapon | 
-| Special Qualities: | Construct Traits, [[Special Abilities#damage reduction\|Damage Reduction]]  15/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  15/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +6, Ref +5, Will +6 | 
 | Abilities: | Str 33, Dex 9, Con ---, Int ---, Wis 11, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -1527,7 +1527,7 @@ CL 16th; Craft Construct, *cloudkill, geas/quest, limited wish, polymorph any ob
 |**Full Attack:**|2 slams +18 melee (2d10+9)||2 slams +42 melee (4d8+13)|
 |**Space/Reach:**|10 ft./10 ft.||15 ft./15 ft.|
 |**Special Attacks:**|Slow||Slow|
-| Special Qualities: | Construct Traits, [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | | Construct Traits, [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 |**Saves:**|Fort +4, Ref +3, Will +4||Fort +14, Ref +12, Will +14|
 |**Abilities:**|Str 29, Dex 9, Con -, Int -, Wis 11, Cha 1||Str 37, Dex 7, Con -, Int -, Wis 11, Cha 1|
 | Skills: | [[Skill List#\|]] -; | | [[Skill List#\|]] -; | 

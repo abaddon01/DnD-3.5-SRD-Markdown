@@ -157,7 +157,7 @@ Vampire sorcerers and wizards retain their class abilities, but if a character h
 | Full Attack: | Slam +5 melee (1d6+4 plus energy drain) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Blood drain, domination, energy drain | 
-| Special Qualities: | +2 Turn Resistance, [[Special Abilities#damage reduction\|Damage Reduction]]  5/silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Fast Healing 2, [[Special Abilities#gaseous form\|Gaseous Form]] , Resistance To Cold 10 And Electricity 10, Spider Climb, Undead Traits; | 
+| Special Qualities: | +2 Turn Resistance, [[Special Abilities#damage reduction\|Damage Reduction]]  5/silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, [[Special Abilities#gaseous form\|Gaseous Form]] , Resistance To Cold 10 And Electricity 10, Spider Climb, [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +1, Ref +5, Will +5 | 
 | Abilities: | Str 16, Dex 14, Con ---, Int 13, Wis 13, Cha 14 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +6, [[Skill List#Climb\|Climb]] +8, [[Skill List#Craft Or Profession\|Craft Or Profession]] (any One) +4, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Hide\|Hide]] +10, [[Skill List#Jump\|Jump]] +8, [[Skill List#Listen\|Listen]] +11, [[Skill List#Move Silently\|Move Silently]] +10, [[Skill List#Search\|Search]] +8, [[Skill List#Sense Motive\|Sense Motive]] +11, [[Skill List#Spot\|Spot]] +11; | 
