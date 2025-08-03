@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - P
-aliases: Monsters - P
-tags: 3.5e rules monsters
+aliases: Monsters_P
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_P
 ---
 
 # MONSTERS P
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Large Magical Beast | 
+| ![[pegasus.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 4d10+12 (34 hp) | 
 | Initiative: | +2 | 
@@ -101,7 +105,7 @@ A phantom fungus has a +5 racial bonus on Move Silently checks.
 
 
 
-|  | Large Magical Beast | 
+| ![[phase-spider.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 5d10+15 (42 hp) | 
 | Initiative: | +7 | 
@@ -352,7 +356,7 @@ Dwarven, Elven, Gnome, Goblin, Halfling, Orc.
 
 
 
-|  | Tiny Dragon | 
+| ![[pseudodragon.png \|100]] | Tiny Dragon | 
 |---|---|
 | Hit Dice: | 2d12+2 (15 hp) | 
 | Initiative: | +2 | 
@@ -399,7 +403,7 @@ Pseudodragons have a chameleonlike ability that grants them a +4 racial bonus on
 
 
 
-|  | Gargantuan Magical Beast | 
+| ![[purple-worm.png \|100]] | Gargantuan Magical Beast | 
 |---|---|
 | Hit Dice: | 16d10+112 (200 hp) | 
 | Initiative: | --2 | 
@@ -441,3 +445,6 @@ A purple worm can try to swallow a grabbed opponent of a smaller size than itsel
 A purple worm has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. 
 
 **[[Monsters - R|Next: Monsters R.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

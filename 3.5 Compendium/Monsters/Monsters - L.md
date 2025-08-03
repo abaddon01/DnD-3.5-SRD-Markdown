@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - L
-aliases: Monsters - L
-tags: 3.5e rules monsters
+aliases: Monsters_L
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_L
 ---
 
 # MONSTERS L
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Large Magical Beast | 
+| ![[lamia.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 9d10+9 (58 hp) | 
 | Initiative: | +2 | 
@@ -361,7 +365,7 @@ Lillends have a +4 racial bonus on Survival checks.
 
 
 
-|  | Medium Humanoid (Reptilian) | 
+| ![[lizardfolk.png \|100]] | Medium Humanoid (Reptilian) | 
 |---|---|
 | Hit Dice: | 2d8+2 (11 hp) | 
 | Initiative: | +0 | 
@@ -1057,3 +1061,6 @@ An afflicted lycanthrope cannot attempt a voluntary change until it becomes awar
 
 
 **[[Monsters - M|Next: Monsters M.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

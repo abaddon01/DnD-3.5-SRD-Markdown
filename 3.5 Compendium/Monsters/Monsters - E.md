@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - E
-aliases: Monsters - E
-tags: 3.5e rules monsters
+aliases: Monsters_E
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_E
 ---
 
 # MONSTERS E
@@ -702,7 +706,7 @@ Ethereal marauders have a +2 racial bonus on Listen, Move Silently, and Spot che
 
 
 
-|  | Medium Aberration | 
+| ![[ettercap.png \|100]] | Medium Aberration | 
 |---|---|
 | Hit Dice: | 5d8+5 (27 hp) | 
 | Initiative: | +3 | 
@@ -752,7 +756,7 @@ Ettercaps have a +4 racial bonus on Craft (trapmaking), Hide, and Spot checks. T
 
 
 
-|  | Large Giant | 
+| ![[ettin.png \|100]] | Large Giant | 
 |---|---|
 | Hit Dice: | 10d8+20 (65 hp) | 
 | Initiative: | +3 | 
@@ -793,3 +797,6 @@ An ettin fights with a morningstar or javelin in each hand. Because each of its 
 Skills: An ettin's two heads give it a +2 racial bonus on Listen, Spot, and Search checks. 
 
 **[[Monsters - F|Next: Monsters F.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - K
-aliases: Monsters - K
-tags: 3.5e rules monsters
+aliases: Monsters_K
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_K
 ---
 
 # MONSTERS K
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Kobold, 1st-Level Warrior | 
+| ![[kobold.png \|100]] | Kobold, 1st-Level Warrior | 
 |---|---|
 |  | Small Humanoid (Reptilian) | 
 | Hit Dice: | 1d8 (4 hp) | 
@@ -91,7 +95,7 @@ character class.
 
 
 
-|  | Gargantuan Magical Beast (Aquatic) | 
+| ![[kraken.png \|100]] | Gargantuan Magical Beast (Aquatic) | 
 |---|---|
 | Hit Dice: | 20d10+180 (290 hp) | 
 | Initiative: | +4 | 
@@ -183,3 +187,6 @@ Combining this scare ability with a loud screech produces an unsettling effect t
 Krenshars have a +4 racial bonus on Jump and Move Silently checks. 
 
 **[[Monsters - L|Next: Monsters L.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

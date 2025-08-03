@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - W
-aliases: Monsters - W
-tags: 3.5e rules monsters
+aliases: Monsters_W
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_W
 ---
 
 # MONSTERS W
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Medium Undead | 
+| ![[wight.png \|100]] | Medium Undead | 
 |---|---|
 | Hit Dice: | 4d12 (26 hp) | 
 | Initiative: | +1 | 
@@ -98,7 +102,7 @@ A startled or frightened will-o'-wisp can extinguish its glow, effectively becom
 
 
 
-|  | Large Magical Beast (Cold) | 
+| ![[winter-wolf.png \|100]] | Large Magical Beast (Cold) | 
 |---|---|
 | Hit Dice: | 6d10+18 (51 hp) | 
 | Initiative: | +5 | 
@@ -145,7 +149,7 @@ Winter wolves have a +1 racial bonus on Listen, Move Silently, and Spot checks. 
 
 
 
-|  | Medium Magical Beast | 
+| ![[worg.png \|100]] | Medium Magical Beast | 
 |---|---|
 | Hit Dice: | 4d10+8 (30 hp) | 
 | Initiative: | +2 | 
@@ -184,7 +188,7 @@ A worg has a +1 racial bonus on Listen, Move Silently, and Spot checks, and a +2
 
 ## Wraith
 
-| |Wraith Medium Undead (Incorporeal)| |Dread Wraith Large Undead (Incorporeal)|
+| ![[wraith.png \|100]] |Wraith Medium Undead (Incorporeal)| |Dread Wraith Large Undead (Incorporeal)|
 |---|---|---|---|
 |**Hit Dice:**|5d12 (32 hp)||16d12 (104 hp)|
 |**Initiative:**|+7||+13|
@@ -249,7 +253,7 @@ Any humanoid slain by a dread wraith becomes a wraith in 1d4 rounds. Its body re
 
 
 
-|  | Large Dragon | 
+| ![[wyvern.png \|100]] | Large Dragon | 
 |---|---|
 | Hit Dice: | 7d12+14 (59 hp) | 
 | Initiative: | +1 | 
@@ -292,3 +296,6 @@ Injury, Fortitude DC 17, initial and secondary damage 2d6 Con. The save DC is Co
 Wyverns have a +3 racial bonus on Spot checks. 
 
 **[[Monsters - X|Next: Monsters X.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

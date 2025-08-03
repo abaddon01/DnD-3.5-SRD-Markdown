@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - C
-aliases: Monsters - C
-tags: 3.5e rules monsters
+aliases: Monsters_C
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_C
 ---
 
 # MONSTERS C
@@ -70,7 +74,7 @@ Same as the base creature +2.
 
 
 
-|  | Large Monstrous Humanoid | 
+| ![[centaur.png \|100]] | Large Monstrous Humanoid | 
 |---|---|
 | Hit Dice: | 4d8+8 (26 hp) | 
 | Initiative: | +2 | 
@@ -190,7 +194,7 @@ No mortal magic can permanently affect or fix a chaos beast's form. Effects such
 
 
 
-|  | Large Magical Beast | 
+| ![[chimera.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 9d10+27 (76 hp) | 
 | Initiative: | +1 | 
@@ -293,7 +297,7 @@ A chokers has a +8 racial bonus on Climb checks and can always choose to take 10
 
 
 
-|  | Large Aberration (Aquatic) | 
+| ![[chuul.png \|100]] | Large Aberration (Aquatic) | 
 |---|---|
 | Hit Dice: | 11d8+44 (93 hp) | 
 | Initiative: | +7 | 
@@ -343,7 +347,7 @@ A chuul has a +8 racial bonus on any Swim check to perform some special action o
 
 
 
-|  | Large Aberration | 
+| ![[cloaker.png \|100]] | Large Aberration | 
 |---|---|
 | Hit Dice: | 6d8+18 (45 hp) | 
 | Initiative: | +7 | 
@@ -407,7 +411,7 @@ A cloaker can manipulate shadows. This ability is effective only in shadowy area
 
 
 
-|  | Small Magical Beast | 
+| ![[cockatrice.png \|100]] | Small Magical Beast | 
 |---|---|
 | Hit Dice: | 5d10 (27 hp) | 
 | Initiative: | +3 | 
@@ -510,3 +514,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 
 **[[Monsters - D|Next: Monsters D.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - B
-aliases: Monsters - B
-tags: 3.5e rules monsters
+aliases: Monsters_B
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_B
 ---
 
 # MONSTERS B
@@ -90,7 +94,7 @@ Occasionally, a greater barghest uses a magic two-handed weapon in combat instea
 
 
 
-|  | Basilisk | Abyssal Greater Basilisk | 
+| ![[basilisk.png \|100]] | Basilisk | Abyssal Greater Basilisk | 
 |---|---|---|
 |  | Medium Magical Beast | Large Outsider (Augmented Magical Beast, Extraplanar) | 
 | Hit Dice: | 6d10+12 (45 hp) | 18d10+90 (189 hp) | 
@@ -141,7 +145,7 @@ Once per day an abyssal greater basilisk can make a normal melee attack to deal 
 
 
 
-|  | Huge Magical Beast | 
+| ![[behir.png \|100]] | Huge Magical Beast | 
 |---|---|
 | Hit Dice: | 9d10+45 (94 hp) | 
 | Initiative: | +1 | 
@@ -246,7 +250,7 @@ Belkers have a +4 racial bonus on Move Silently checks.
 
 
 
-|  | Medium Magical Beast | 
+| ![[blink-dog.png \|100]] | Medium Magical Beast | 
 |---|---|
 | Hit Dice: | 4d10 (22 hp) | 
 | Initiative: | +3 | 
@@ -379,7 +383,7 @@ Bralanis can speak with any creature that has a language, as though using a *ton
 
 
 
-|  | Medium Humanoid (Goblinoid) | 
+| ![[bugbear.png \|100]] | Medium Humanoid (Goblinoid) | 
 |---|---|
 | Hit Dice: | 3d8+3 (16 hp) | 
 | Initiative: | +1 | 
@@ -448,7 +452,7 @@ Elven, Giant, Gnoll, Orc.
 
 
 
-|  | Huge Magical Beast | 
+| ![[bulette.png \|100]] | Huge Magical Beast | 
 |---|---|
 | Hit Dice: | 9d10+45 (94 hp) | 
 | Initiative: | +2 | 
@@ -483,3 +487,6 @@ When it senses something edible (that is, senses movement), it breaks to the sur
 A bulette can jump into the air during combat. This allows it to make four claw attacks instead of two, each with a +15 attack bonus, but it cannot bite. 
 
 **[[Monsters - C|Next: Monsters C.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - U
-aliases: Monsters - U
-tags: 3.5e rules monsters
+aliases: Monsters_U
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_U
 ---
 
 # MONSTERS U
@@ -11,7 +15,7 @@ tags: 3.5e rules monsters
 
 ## Unicorn
 
-| |Unicorn Large Magical Beast| |Celestial Charger, 7th-Level Cleric Large Magical Beast|
+| ![[unicorn.png \|100]] |Unicorn Large Magical Beast| |Celestial Charger, 7th-Level Cleric Large Magical Beast|
 |---|---|---|---|
 |**Hit Dice:**|4d10 + 20 (42 hp)||8d10 + 7d8 + 75 (155 hp)|
 |**Initiative:**|+3||+4|
@@ -79,3 +83,6 @@ Once per day a celestial charger can make a normal melee attack to deal 15 point
 <sup>1</sup>Domain spell. Domains: Animal and Good.
 
 **[[Monsters - V|Next: Monsters V.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

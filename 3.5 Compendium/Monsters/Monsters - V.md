@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - V
-aliases: Monsters - V
-tags: 3.5e rules monsters
+aliases: Monsters_V
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_V
 ---
 
 # MONSTERS V
@@ -44,7 +48,7 @@ A vampire fighting without weapons uses either its slam attack (see above) or it
 ### Damage
 Vampires have slam attacks. If the base creature does not have this attack form, use the appropriate damage value from the table below according to the vampire's size. Creatures that have other kinds of natural weapons retain their old damage values or use the appropriate value from the table below, whichever is better. 
 
-|Size|Damage|
+| ![[vampire.png \|100]]Size|Damage|
 |---|---|
 |Fine|1|
 |Diminutive|1d2|
@@ -146,7 +150,7 @@ Vampire sorcerers and wizards retain their class abilities, but if a character h
 
 
 
-|  | Medium Undead | 
+| ![[vampire-spawn.png \|100]] | Medium Undead | 
 |---|---|
 | Hit Dice: | 4d12+3 (29 hp) | 
 | Initiative: | +6 | 
@@ -249,3 +253,6 @@ First, over a period of 1d6 hours, all the victim's hair falls out. Within anoth
 Injury, Fortitude DC 12 or be unable to heal the vargouille's bite damage naturally or magically. A *neutralize poison* or *heal* spell removes the effect, while *delay poison* allows magical healing. The save DC is Constitution-based and includes a +1 racial bonus. 
 
 **[[Monsters - W|Next: Monsters W.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - Z
-aliases: Monsters - Z
-tags: 3.5e rules monsters
+aliases: Monsters_Z
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_Z
 ---
 
 # MONSTERS Z
@@ -185,3 +189,6 @@ Advancement: As base creature, but double Hit Dice (maximum 20), or --- if the b
 |**Alignment:**|Always neutral evil||Always neutral evil|
 |**Advancement:**|16-20 HD (Huge)||None|
 |**Level Adjustment:**|-||-|
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

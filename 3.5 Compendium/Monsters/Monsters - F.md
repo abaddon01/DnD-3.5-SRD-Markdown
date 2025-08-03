@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - F
-aliases: Monsters - F
-tags: 3.5e rules monsters
+aliases: Monsters_F
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_F
 ---
 
 # MONSTERS F
@@ -349,3 +353,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 
 **[[Monsters - G|Next: Monsters G.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - A
-aliases: Monsters - A
-tags: 3.5e rules monsters
+aliases: Monsters_A
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_A
 ---
 
 # MONSTERS A
@@ -11,7 +15,7 @@ tags: 3.5e rules monsters
 
 ## Aboleth
 
-| | Aboleth  Huge Aberration (Aquatic) | Aboleth Mage, 10th-Level Wizard |
+| ![[aboleth.png \|100]] | Aboleth  Huge Aberration (Aquatic) | Aboleth Mage, 10th-Level Wizard |
 |---|---|---|  
 | Hit Dice: |            8d8+40 (76 hp)                                                            | 8d8+56 plus 10d4+70 (177 hp) |
 |  Initiative: |            +1                                                                         | +7 |
@@ -474,7 +478,7 @@ An animated object of at least Large size and with a hardness of at least 10 can
 
 
 
-|  | Large Magical Beast | 
+| ![[ankheg.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 3d10+12 (28 hp) | 
 | Initiative: | +0 | 
@@ -1083,10 +1087,11 @@ Auran, Celestial, Infernal, Terran.
 - Favored Class: Fighter.
 
 - Level adjustment +4.
---- lang: en title: v3.5 SRD / Monsters / Monsters (B-C) --- 
 
-This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 
 #MONSTERS (B-C)
 
 **[[Monsters - B|Next: Monsters B.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

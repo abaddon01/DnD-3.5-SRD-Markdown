@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - T
-aliases: Monsters - T
-tags: 3.5e rules monsters
+aliases: Monsters_T
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_T
 ---
 
 # MONSTERS T
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Colossal Magical Beast | 
+| ![[tarrasque.png \|100]] | Colossal Magical Beast | 
 |---|---|
 | Hit Dice: | 48d10+594 (858 hp) | 
 | Initiative: | +7 | 
@@ -271,7 +275,7 @@ A tojanida has a +8 racial bonus on any Swim check to perform some special actio
 
 
 
-|  | Huge Plant | 
+| ![[treant.png \|100]] | Huge Plant | 
 |---|---|
 | Hit Dice: | 7d8+35 (66 hp) | 
 | Initiative: | --1 | 
@@ -430,7 +434,7 @@ Goblin, Orc.
 
 ## Troll
 
-| |Troll Large Giant| |Troll Hunter, 6th-Level Ranger Large Giant|
+| ![[troll.png \|100]] |Troll Large Giant| |Troll Hunter, 6th-Level Ranger Large Giant|
 |---|---|---|---|
 |**Hit Dice:**|6d8+36 (63 hp)||6d8+6d8+72 (130 hp)|
 |**Initiative:**|+2||+1|
@@ -527,3 +531,6 @@ modifier.
 - Level adjustment +5.
 
 **[[Monsters - U|Next: Monsters U.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - N
-aliases: Monsters - N
-tags: 3.5e rules monsters
+aliases: Monsters_N
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_N
 ---
 
 # MONSTERS N
@@ -220,7 +224,7 @@ A water naga has a +8 racial bonus on any Swim check to perform some special act
 
 
 
-|  | Medium Outsider (Evil, Extraplanar) | 
+| ![[night-hag.png \|100]] | Medium Outsider (Evil, Extraplanar) | 
 |---|---|
 | Hit Dice: | 8d8+32 (68 hp) | 
 | Initiative: | +1 | 
@@ -275,7 +279,7 @@ counts as a use) and it does not bestow *etherealness* to a bearer that is not a
 
 
 
-|  | Nightmare | Nightmare, Cauchemar | 
+| ![[nightmare.png \|100]] | Nightmare | Nightmare, Cauchemar | 
 |---|---|---|
 |  | Large Outsider (Evil, Extraplanar) | Huge Outsider (Evil, Extraplanar) | 
 | Hit Dice: | 6d8+18 (45 hp) | 15d8+105 (172 hp) | 
@@ -602,3 +606,6 @@ A nymph has a +8 racial bonus on any Swim check to perform some special action o
 
 
 **[[Monsters - O|Next: Monsters O.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

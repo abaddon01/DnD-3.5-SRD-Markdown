@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - O
-aliases: Monsters - O
-tags: 3.5e rules monsters
+aliases: Monsters_O
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_O
 ---
 
 # MONSTERS O
@@ -11,7 +15,7 @@ tags: 3.5e rules monsters
 
 ## Ogre
 
-| |Ogre Large Giant| |Ogre, 4th-Level Barbarian Large Giant|
+| ![[ogre.png \|100]] |Ogre Large Giant| |Ogre, 4th-Level Barbarian Large Giant|
 |---|---|---|---|
 |**Hit Dice:**|4d8+11 (29 hp)||4d8+19 plus 4d12+16 (79 hp)|
 |**Initiative:**|-1||+0|
@@ -495,7 +499,7 @@ Gnoll, Goblin, Abyssal.
 
 
 
-|  | Large Aberration | 
+| ![[otyugh.png \|100]] | Large Aberration | 
 |---|---|
 | Hit Dice: | 6d8+9 (36 hp) | 
 | Initiative: | +0 | 
@@ -594,7 +598,7 @@ A light load for a giant owl is up to 300 pounds; a medium load, 301--600 pounds
 
 
 
-|  | Large Magical Beast | 
+| ![[owlbear.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 5d10+25 (52 hp) | 
 | Initiative: | +1 | 
@@ -627,3 +631,6 @@ Owlbears attack prey---any creature bigger than a mouse---on sight, always fight
 To use this ability, an owlbear must hit with a claw attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. 
 
 **[[Monsters - P|Next: Monsters P.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

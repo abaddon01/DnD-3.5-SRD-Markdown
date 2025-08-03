@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - X
-aliases: Monsters - X
-tags: 3.5e rules monsters
+aliases: Monsters_X
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_X
 ---
 
 # MONSTERS X
@@ -58,7 +62,7 @@ the first round and a 50% miss chance in the second. A xill can planewalk with a
 
 ## Xorn
 
-| |Minor Xorn Small Outsider (Extraplanar, Earth)| |Average Xorn Medium Outsider (Extraplanar, Earth)| |Elder Xorn Large Outsider (Extraplanar, Earth)|
+| ![[xorn.png \|100]] |Minor Xorn Small Outsider (Extraplanar, Earth)| |Average Xorn Medium Outsider (Extraplanar, Earth)| |Elder Xorn Large Outsider (Extraplanar, Earth)|
 |---|---|---|---|---|---|
 |**Hit Dice:**|3d8+9 (22 hp)||7d8+17 (48 hp)||15d8+63 (130 hp)|
 |**Initiative:**|+0||+0||+0|
@@ -99,3 +103,6 @@ A xorn's symmetrically placed eyes allow it to look in any direction, providing 
 A xorn can glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. A *move earth* spell cast on an area containing a burrowing xorn flings the xorn back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save. 
 
 **[[Monsters - Y|Next: Monsters Y.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

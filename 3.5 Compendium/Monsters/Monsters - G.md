@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - G
-aliases: Monsters - G
-tags: 3.5e rules monsters
+aliases: Monsters_G
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_G
 ---
 
 # MONSTERS G
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Medium Monstrous Humanoid (Earth) | 
+| ![[gargoyle.png \|100]] | Medium Monstrous Humanoid (Earth) | 
 |---|---|
 | Hit Dice: | 4d8+19 (37 hp) | 
 | Initiative: | +2 | 
@@ -469,7 +473,7 @@ The original material items remain behind, just as the ghost's physical remains 
 
 ## Ghoul
 
-| |Ghoul Medium Undead| |Ghast Medium Undead|
+| ![[ghoul.png \|100]] |Ghoul Medium Undead| |Ghast Medium Undead|
 |---|---|---|---|
 |**Hit Dice:**|2d12 (13 hp)||4d12+3 (29 hp)|
 |**Initiative:**|+2||+3|
@@ -940,7 +944,7 @@ About 20% of adult storm giants are sorcerers or clerics. A storm giant cleric h
 
 
 
-|  | Medium Aberration | 
+| ![[gibbering-mouther.png \|100]] | Medium Aberration | 
 |---|---|
 | Hit Dice: | 4d8+24 (42 hp) | 
 | Initiative: | +1 | 
@@ -1046,7 +1050,7 @@ A girallon has a +8 racial bonus on Climb checks and can always choose to take 1
 
 
 
-|  | Medium Humanoid (Gnoll) | 
+| ![[gnoll.png \|100]] | Medium Humanoid (Gnoll) | 
 |---|---|
 | Hit Dice: | 2d8+2 (11 hp) | 
 | Initiative: | +0 | 
@@ -1266,7 +1270,7 @@ area.
 
 
 
-|  | Goblin, 1st-Level Warrior | 
+| ![[goblin.png \|100]] | Goblin, 1st-Level Warrior | 
 |---|---|
 |  | Small Humanoid (Goblinoid) | 
 | Hit Dice: | 1d8+1 (5 hp) | 
@@ -1570,7 +1574,7 @@ A greater stone golem is 18 feet tall and weighs around 32,000 pounds. It resemb
 
 
 
-|  | Large Magical Beast | 
+| ![[gorgon.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 8d10+40 (85 hp) | 
 | Initiative: | +4 | 
@@ -1657,7 +1661,7 @@ Gray renders have a +4 racial bonus on Spot checks due to their six keen eyes.
 
 
 
-|  | Medium Aberration | 
+| ![[grick.png \|100]] | Medium Aberration | 
 |---|---|
 | Hit Dice: | 2d8 (9 hp) | 
 | Initiative: | +2 | 
@@ -1699,7 +1703,7 @@ A grick has a +8 racial bonus on Climb checks and can always choose to take 10 o
 
 
 
-|  | Large Magical Beast | 
+| ![[griffon.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 7d10+21 (59 hp) | 
 | Initiative: | +2 | 
@@ -1825,3 +1829,6 @@ Dwarven, Gnome, Terran, Undercommon.
 
 
 **[[Monsters - H|Next: Monsters H.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

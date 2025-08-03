@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - H
-aliases: Monsters - H
-tags: 3.5e rules monsters
+aliases: Monsters_H
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_H
 ---
 
 # MONSTERS H
@@ -526,7 +530,7 @@ have a racial bonus on Climb, Jump, and Move Silently checks.
 
 ## Harpy
 
-| |Harpy Medium Monstrous Humanoid| |Harpy Archer, 7th-Level Fighter Medium Monstrous Humanoid|
+| ![[harpy.png \|100]] |Harpy Medium Monstrous Humanoid| |Harpy Archer, 7th-Level Fighter Medium Monstrous Humanoid|
 |---|---|---|---|
 |**Hit Dice:**|7d8 (31 hp)||7d8 + 7d10 + 28 (103 hp)|
 |**Initiative:**|+2||+9|
@@ -640,7 +644,7 @@ A Nessian warhound deals an extra 1d8 points of fire d a m a g e every time it b
 
 
 
-|  | Large Magical Beast | 
+| ![[hippogriff.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 3d10+9 (25 hp) | 
 | Initiative: | +2 | 
@@ -687,7 +691,7 @@ A light load for a hippogriff is up to 300 pounds; a medium load, 301--600 pound
 
 
 
-|  | Hobgoblin, 1st-Level Warrior | 
+| ![[hobgoblin.png \|100]] | Hobgoblin, 1st-Level Warrior | 
 |---|---|
 |  | Medium Humanoid (Goblinoid) | 
 | Hit Dice: | 1d8+2 (6 hp) | 
@@ -745,7 +749,7 @@ Dwarven, Infernal, Giant, Orc.
 
 
 
-|  | Tiny Construct | 
+| ![[homunculus.png \|100]] | Tiny Construct | 
 |---|---|
 | Hit Dice: | 2d10 (11 hp) | 
 | Initiative: | +2 | 
@@ -841,7 +845,7 @@ A light load for a howler is up to 460 pounds; a medium load, 461--920 pounds; a
 
 ## Hydra
 
-| |Five-Headed Hydra Huge Magical Beast| |Six-Headed Hydra Huge Magical Beast| |Seven-Headed Hydra Huge Magical Beast|
+| ![[hydra.png \|100]] |Five-Headed Hydra Huge Magical Beast| |Six-Headed Hydra Huge Magical Beast| |Seven-Headed Hydra Huge Magical Beast|
 |---|---|---|---|---|---|
 |**Hit Dice:**|5d10+28 (55 hp)||6d10+33 (66 hp)||7d10+38 (77 hp)|
 |**Initiative:**|+1||+1||+1|
@@ -955,3 +959,6 @@ These purplish hydras can breathe jets of frost 10 feet high, 10 feet wide, and 
 Cold attacks cannot prevent a cryohydra's stump from growing new heads (since a cryohydra has immunity to cold), but 5 points of fire damage does. 
 
 **[[Monsters - I|Next: Monsters I.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

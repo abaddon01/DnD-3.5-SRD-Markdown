@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - I
-aliases: Monsters - I
-tags: 3.5e rules monsters
+aliases: Monsters_I
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_I
 ---
 
 # MONSTERS I
@@ -236,3 +240,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 
 **[[Monsters - K|Next: Monsters K.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

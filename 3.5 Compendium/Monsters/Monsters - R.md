@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - R
-aliases: Monsters - R
-tags: 3.5e rules monsters
+aliases: Monsters_R
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_R
 ---
 
 # MONSTERS R
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Medium Outsider (Native) | 
+| ![[rakshasa.png \|100]] | Medium Outsider (Native) | 
 |---|---|
 | Hit Dice: | 7d8+21 (52 hp) | 
 | Initiative: | +2 | 
@@ -204,7 +208,7 @@ A ravid has the Multiattack feat even through it does not have the requisite thr
 
 
 
-|  | Huge Magical Beast | 
+| ![[remorhaz.png \|100]] | Huge Magical Beast | 
 |---|---|
 | Hit Dice: | 7d10+35 (73 hp) | 
 | Initiative: | +1 | 
@@ -248,7 +252,7 @@ An enraged remorhaz generates heat so intense that anything touching its body ta
 
 
 
-|  | Gargantuan Animal | 
+| ![[roc.png \|100]] | Gargantuan Animal | 
 |---|---|
 | Hit Dice: | 18d8+126 (207 hp) | 
 | Initiative: | +2 | 
@@ -284,7 +288,7 @@ Rocs have a +4 racial bonus on Spot checks.
 
 
 
-|  | Large Magical Beast | 
+| ![[roper.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 10d10+30 (85 hp) | 
 | Initiative: | +5 | 
@@ -371,3 +375,6 @@ A metal weapon that deals damage to a rust monster corrodes immediately. Wooden,
 
 
 **[[Monsters - S|Next: Monsters S.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

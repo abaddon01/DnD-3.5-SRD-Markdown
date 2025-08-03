@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - D
-aliases: Monsters - D
-tags: 3.5e rules monsters
+aliases: Monsters_D
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_D
 ---
 
 # MONSTERS D
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Small Magical Beast | 
+| ![[darkmantle.png \|100]] | Small Magical Beast | 
 |---|---|
 | Hit Dice: | 1d10+1 (6 hp) | 
 | Initiative: | +4 | 
@@ -3394,7 +3398,7 @@ Bluff, Disguise, and Jump are considered class skills for silver dragons.
 
 
 
-|  | Huge Dragon (Aquatic) | 
+| ![[dragon-turtle.png \|100]] | Huge Dragon (Aquatic) | 
 |---|---|
 | Hit Dice: | 12d12+60 (138 hp) | 
 | Initiative: | +0 | 
@@ -3489,7 +3493,7 @@ A light load for a dragonne is up to 348 pounds; a medium load, 349--699 pounds,
 
 
 
-|  | Large Aberration | 
+| ![[drider.png \|100]] | Large Aberration | 
 |---|---|
 | Hit Dice: | 6d8+18 (45 hp) | 
 | Initiative: | +2 | 
@@ -3541,7 +3545,7 @@ A drider has a +4 racial bonus on Hide and Move Silently checks. It has a +8 rac
 
 
 
-|  | Medium Fey | 
+| ![[dryad.png \|100]] | Medium Fey | 
 |---|---|
 | Hit Dice: | 4d6 (14 hp) | 
 | Initiative: | +4 | 
@@ -3748,3 +3752,6 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 
 **[[Monsters - E|Next: Monsters E.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

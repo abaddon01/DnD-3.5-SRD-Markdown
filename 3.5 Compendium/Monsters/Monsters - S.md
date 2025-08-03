@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - S
-aliases: Monsters - S
-tags: 3.5e rules monsters
+aliases: Monsters_S
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_S
 ---
 
 # MONSTERS S
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Medium Monstrous Humanoid (Aquatic) | 
+| ![[sahuagin.png \|100]] | Medium Monstrous Humanoid (Aquatic) | 
 |---|---|
 | Hit Dice: | 2d8+2 (11 hp) | 
 | Initiative: | +1 | 
@@ -84,7 +88,7 @@ If a community of aquatic elves is located within 100 miles of a sahuagin commun
 
 ## Salamander
 
-| |Flamebrother Salamander Small Outsider (Extraplanar, Fire)| |Average Salamander Medium Outsider (Extraplanar, Fire)| |Noble Salamander Large Outsider (Extraplanar, Fire)|
+| ![[salamander.png \|100]] |Flamebrother Salamander Small Outsider (Extraplanar, Fire)| |Average Salamander Medium Outsider (Extraplanar, Fire)| |Noble Salamander Large Outsider (Extraplanar, Fire)|
 |---|---|---|---|---|---|
 |**Hit Dice:**|4d8+8 (26 hp)||9d8+18 (58 hp)||15d8+45 (112 hp)|
 |**Initiative:**|+1||+1||+1|
@@ -138,7 +142,7 @@ Salamanders have the Multiattack feat even though they do not have the requisite
 
 
 
-|  | Medium Fey | 
+| ![[satyr.png \|100]] | Medium Fey | 
 |---|---|
 | Hit Dice: | 5d6+5 (22 hp) | 
 | Initiative: | +1 | 
@@ -257,7 +261,7 @@ A sea cat has a +8 racial bonus on any Swim check to perform some special action
 
 ## Shadow
 
-| |Shadow Medium Undead (Incorporeal)| |Greater Shadow Medium Undead (Incorporeal)|
+| ![[shadow.png \|100]] |Shadow Medium Undead (Incorporeal)| |Greater Shadow Medium Undead (Incorporeal)|
 |---|---|---|---|
 |**Hit Dice:**|3d12 (19 hp)||9d12 (58 hp)|
 |**Initiative:**|+2||+2|
@@ -362,7 +366,7 @@ In any condition of illumination other than full daylight, a shadow mastiff can 
 
 
 
-|  | Large Plant | 
+| ![[shambling-mound.png \|100]] | Large Plant | 
 |---|---|
 | Hit Dice: | 8d8+24 (60 hp) | 
 | Initiative: | +0 | 
@@ -410,7 +414,7 @@ Skills: Shamblers have a +4 racial bonus on Hide, Listen, and Move Silently chec
 
 
 
-|  | Large Construct | 
+| ![[shield-guardian.png \|100]] | Large Construct | 
 |---|---|
 | Hit Dice: | 15d10+30 (112 hp) | 
 | Initiative: | +0 | 
@@ -540,7 +544,7 @@ Winged skeletons can't use their wings to fly. If the base creature flew magical
 ### Armor Class
 Natural armor bonus changes to a number based on the skeleton's size: 
 
-|Size|Bonus|
+| ![[skeleton.png \|100]]Size|Bonus|
 |---|---|
 |Tiny or smaller|+0|
 |Small|+1|
@@ -1213,7 +1217,7 @@ Halfling.
 
 
 
-|  | Tiny Magical Beast | 
+| ![[stirge.png \|100]] | Tiny Magical Beast | 
 |---|---|
 | Hit Dice: | 1d10 (5 hp) | 
 | Initiative: | +4 | 
@@ -1534,3 +1538,6 @@ A spider swarm has a +4 racial bonus on Hide and Spot checks and a +8 racial bon
 
 
 **[[Monsters - T|Next: Monsters T.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

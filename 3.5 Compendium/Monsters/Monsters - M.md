@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - M
-aliases: Monsters - M
-tags: 3.5e rules monsters
+aliases: Monsters_M
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_M
 ---
 
 # MONSTERS M
@@ -13,7 +17,7 @@ tags: 3.5e rules monsters
 
 
 
-|  | Small Elemental (Fire, Extraplanar) | 
+| ![[magmin.png \|100]] | Small Elemental (Fire, Extraplanar) | 
 |---|---|
 | Hit Dice: | 2d8+2 (11 hp) | 
 | Initiative: | +0 | 
@@ -59,7 +63,7 @@ Any metal weapon that strikes a magmin must succeed on a DC 12 Fortitude save or
 
 
 
-|  | Large Magical Beast | 
+| ![[manticore.png \|100]] | Large Magical Beast | 
 |---|---|
 | Hit Dice: | 6d10+24 (57 hp) | 
 | Initiative: | +2 | 
@@ -98,7 +102,7 @@ With a snap of its tail, a manticore can loose a volley of six spikes as a stand
 
 
 
-|  | Medium Monstrous Humanoid | 
+| ![[medusa.png \|100]] | Medium Monstrous Humanoid | 
 |---|---|
 | Hit Dice: | 6d8+6 (33 hp) | 
 | Initiative: | +2 | 
@@ -605,7 +609,7 @@ It can use the run action while swimming, provided it swims in a straight line.
 
 
 
-|  | Merfolk, 1st-Level Warrior | 
+| ![[merfolk.png \|100]] | Merfolk, 1st-Level Warrior | 
 |---|---|
 |  | Medium Humanoid (Aquatic) | 
 | Hit Dice: | 1d8+2 (6 hp) | 
@@ -655,7 +659,7 @@ A merfolk's favored class is bard.
 
 
 
-|  | Large Aberration (Shapechanger) | 
+| ![[mimic.png \|100]] | Large Aberration (Shapechanger) | 
 |---|---|
 | Hit Dice: | 7d8+21 (52 hp) | 
 | Initiative: | +1 | 
@@ -706,7 +710,7 @@ A mimic has a +8 racial bonus on Disguise checks.
 
 
 
-|  | Large Monstrous Humanoid | 
+| ![[minotaur.png \|100]] | Large Monstrous Humanoid | 
 |---|---|
 | Hit Dice: | 6d8+12 (39 hp) | 
 | Initiative: | +0 | 
@@ -833,7 +837,7 @@ Creatures killed by a mohrg rise after 1d4 days as zombies under the morhg's con
 
 ## Mummy
 
-| |Mummy Medium Undead    | Mummy Lord, 10th-Level Cleric Medium Undead|
+| ![[mummy.png \|100]] |Mummy Medium Undead    | Mummy Lord, 10th-Level Cleric Medium Undead|
 |---|---|---|                         
 |  Hit Dice: |              8d12+3 (55 hp)                                                                  | 8d12 plus 10d8 (97 hp)|
 |  Initiative: |            +0                                                                              | +5|
@@ -904,3 +908,6 @@ The save DC against this mummy lord's mummy rot is 17.
 Possessions: +2 half-plate armor, cloak of resistance +2, ring of minor elemental resistance (fire), brooch of shielding. (Different mummy lords may have different possessions.)
 
 **[[Monsters - N|Next: Monsters N.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

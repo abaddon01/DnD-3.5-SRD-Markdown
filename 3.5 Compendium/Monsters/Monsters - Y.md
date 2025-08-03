@@ -1,8 +1,12 @@
 ---
 lang: en
 title: 3.5 Compendium / Monsters / Monsters - Y
-aliases: Monsters - Y
-tags: 3.5e rules monsters
+aliases: Monsters_Y
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - monsters_Y
 ---
 
 # MONSTERS Y
@@ -111,3 +115,6 @@ Yrthaks have immunity to gaze attacks, visual effects, illusions, and other atta
 Yrthaks have a +4 racial bonus on Listen checks. 
 
 **[[Monsters - Z|Next: Monsters Z.]]
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.
