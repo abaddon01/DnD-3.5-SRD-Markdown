@@ -20,7 +20,7 @@ alignment: Always neutral evil
 
 |  | Shadow Mastiff Medium Outsider (Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+12(30) |
+| Hit Dice:            |4d8+12 (30) |
 | Initiative:          |5 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |14 (+1 Dex, +3 natural), touch 11, flat_footed 13  |

@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Badger Medium Animal | 
 | ----| ---- | 
-| Hit Dice:            |3d8+15(28) |
+| Hit Dice:            |3d8+15 (28) |
 | Initiative:          |3 |
 | Speed:               |30 ft. (6 squares), burrow 10 ft. |
 | Armor Class:         |16 (+3 Dex, +3 natural), touch 13, flat_footed 13  |

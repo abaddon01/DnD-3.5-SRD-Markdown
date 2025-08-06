@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Medium Air Elemental Medium Elemental (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+8(26) |
+| Hit Dice:            |4d8+8 (26) |
 | Initiative:          |9 |
 | Speed:               |Fly 100 ft. (perfect) (20 squares) |
 | Armor Class:         |18 (+5 Dex, +3 natural), touch 15, flat_footed 13  |

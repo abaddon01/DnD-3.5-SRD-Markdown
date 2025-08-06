@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Seven-headed Hydra Huge Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |7d10+38(77) |
+| Hit Dice:            |7d10+38 (77) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares), swim 20 ft. |
 | Armor Class:         |17 (-2 size, +1 Dex, +8 natural), touch 9, flat_footed 16  |

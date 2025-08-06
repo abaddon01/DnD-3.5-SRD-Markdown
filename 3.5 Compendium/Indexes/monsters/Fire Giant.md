@@ -20,7 +20,7 @@ alignment: Often lawful evil
 
 | ![[fire-giant.png \|100]] | Fire Giant Large Giant (Fire) | 
 | ----| ---- | 
-| Hit Dice:            |15d8+75(142) |
+| Hit Dice:            |15d8+75 (142) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. in half-plate armor (6 squares); base speed 40 ft. |
 | Armor Class:         |23 (-1 size, -1 Dex, +8 natural, +7 half-plate armor), touch 8, flat_footed 23  |

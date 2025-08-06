@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Adult Tojanida Medium Outsider (Extraplanar Water) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+14(45) |
+| Hit Dice:            |7d8+14 (45) |
 | Initiative:          |1 |
 | Speed:               |10 ft. (2 squares), swim 90 ft. |
 | Armor Class:         |23 (+1 Dex, +12 natural), touch 11, flat_footed 22  |

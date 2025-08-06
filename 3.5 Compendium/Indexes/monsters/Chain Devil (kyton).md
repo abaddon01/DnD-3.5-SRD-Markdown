@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 |  | Chain Devil (kyton) Medium Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |8d8+16(52) |
+| Hit Dice:            |8d8+16 (52) |
 | Initiative:          |6 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |20 (+2 Dex, +8 natural), touch 12, flat_footed 18  |

@@ -22,7 +22,7 @@ alignment: Always chaotic good
 
 |  | Lillend Large Outsider (Chaotic Extraplanar Good) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+14(45) |
+| Hit Dice:            |7d8+14 (45) |
 | Initiative:          |3 |
 | Speed:               |20 ft. (4 squares), fly 70 ft. (average) |
 | Armor Class:         |17 (-1 size, +3 Dex, +5 natural), touch 12, flat_footed 14  |

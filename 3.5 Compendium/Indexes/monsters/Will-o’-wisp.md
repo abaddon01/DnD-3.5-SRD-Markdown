@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 |  | Will-o’-wisp Small Aberration (Air) | 
 | ----| ---- | 
-| Hit Dice:            |9d8(40) |
+| Hit Dice:            |9d8 (40) |
 | Initiative:          |13 |
 | Speed:               |Fly 50 ft. (perfect) (10 squares) |
 | Armor Class:         |29 (+1 size, +9 Dex, +9 deflection), touch 29, flat_footed 20  |

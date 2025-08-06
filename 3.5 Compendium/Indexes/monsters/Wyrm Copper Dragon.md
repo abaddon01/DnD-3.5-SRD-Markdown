@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrm Copper Dragon Gargantuan Copper Dragon(Wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |35d12+245(472) |
+| Hit Dice:            |35d12+245 (472) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy) |
 | Armor Class:         |40 (-4 size, +34 natural), touch 6, flat_footed 40  |

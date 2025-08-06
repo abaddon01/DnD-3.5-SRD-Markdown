@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 | ![[pit-fiend.png \|100]] | Pit Fiend Large Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |18d8+144(225) |
+| Hit Dice:            |18d8+144 (225) |
 | Initiative:          |12 |
 | Speed:               |40 ft. (8 squares), fly 60 ft. (average) |
 | Armor Class:         |40 (-1 size, +8 Dex, +23 natural), touch 17, flat_footed 32  |

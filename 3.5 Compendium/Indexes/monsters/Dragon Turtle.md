@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 | ![[dragon-turtle.png \|100]] | Dragon Turtle Huge Dragon (Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |12d12+60(138) |
+| Hit Dice:            |12d12+60 (138) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares), swim 30 ft. |
 | Armor Class:         |25 (-2 size, +17 natural), touch 8, flat_footed 25  |

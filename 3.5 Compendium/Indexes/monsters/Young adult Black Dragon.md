@@ -18,7 +18,7 @@ alignment:
 
 |  | Young adult Black Dragon Large Black Dragon(Young adult) | 
 | ----| ---- | 
-| Hit Dice:            |16d12+48(152) |
+| Hit Dice:            |16d12+48 (152) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |24 (-1 size,+15 natural), touch 9, flat_footed 24  |

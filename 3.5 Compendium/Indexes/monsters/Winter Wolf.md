@@ -21,7 +21,7 @@ alignment: Usually neutral evil
 
 | ![[winter-wolf.png \|100]] | Winter Wolf Large Magical (Beast Cold) | 
 | ----| ---- | 
-| Hit Dice:            |6d10+18(51) |
+| Hit Dice:            |6d10+18 (51) |
 | Initiative:          |5 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |15 (-1 size, +1 Dex, +5 natural), touch 10, flat_footed 14  |

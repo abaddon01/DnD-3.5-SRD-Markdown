@@ -18,7 +18,7 @@ alignment:
 
 |  | Great wyrm Silver Dragon Colossal Silver Dragon(Great wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |40d12+400(660) |
+| Hit Dice:            |40d12+400 (660) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy) |
 | Armor Class:         |41 (-8 size, +39 natural), touch 2, flat_footed 41  |

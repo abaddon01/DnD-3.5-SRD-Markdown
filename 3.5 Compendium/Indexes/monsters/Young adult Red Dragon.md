@@ -18,7 +18,7 @@ alignment:
 
 |  | Young adult Red Dragon Huge Red Dragon(Young adult) | 
 | ----| ---- | 
-| Hit Dice:            |19d12+95(218) |
+| Hit Dice:            |19d12+95 (218) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |26 (-2 size, +18 natural), touch 8, flat_footed 26  |

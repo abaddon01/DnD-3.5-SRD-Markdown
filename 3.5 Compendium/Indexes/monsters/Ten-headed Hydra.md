@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Ten-headed Hydra Huge Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |10d10+53(108) |
+| Hit Dice:            |10d10+53 (108) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares), swim 20 ft. |
 | Armor Class:         |20 (-2 size, +1 Dex, +11 natural), touch 9, flat_footed 19  |

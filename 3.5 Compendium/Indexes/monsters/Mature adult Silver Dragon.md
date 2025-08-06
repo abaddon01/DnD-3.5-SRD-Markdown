@@ -18,7 +18,7 @@ alignment:
 
 |  | Mature adult Silver Dragon Huge Silver Dragon(Mature adult) | 
 | ----| ---- | 
-| Hit Dice:            |25d12+125(287) |
+| Hit Dice:            |25d12+125 (287) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |32 (-2 size, +24 natural), touch 8, flat_footed 32  |

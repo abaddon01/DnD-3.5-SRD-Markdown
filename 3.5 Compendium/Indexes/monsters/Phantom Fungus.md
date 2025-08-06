@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Phantom Fungus Medium Plant | 
 | ----| ---- | 
-| Hit Dice:            |2d8+6(15) |
+| Hit Dice:            |2d8+6 (15) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |14 (+4 natural), touch 10, flat_footed 14  |

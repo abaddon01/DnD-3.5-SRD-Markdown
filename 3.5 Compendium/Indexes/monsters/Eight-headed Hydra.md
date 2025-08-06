@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Eight-headed Hydra Huge Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |8d10+43(87) |
+| Hit Dice:            |8d10+43 (87) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares), swim 20 ft. |
 | Armor Class:         |18 (-2 size, +1 Dex, +9 natural), touch 9, flat_footed 17  |

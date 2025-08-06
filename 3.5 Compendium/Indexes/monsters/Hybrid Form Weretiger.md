@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Hybrid Form Weretiger Large Humanoid (Human Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1 plus 6d8+18(50) |
+| Hit Dice:            |1d8+1 plus 6d8+18 (50) |
 | Initiative:          |6 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |16 (-1 size, +2 Dex, +5 natural), touch 11, flat_footed 14  |

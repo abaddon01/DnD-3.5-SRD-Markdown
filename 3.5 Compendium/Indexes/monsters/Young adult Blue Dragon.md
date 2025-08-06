@@ -18,7 +18,7 @@ alignment:
 
 |  | Young adult Blue Dragon Large Blue Dragon(Young adult) | 
 | ----| ---- | 
-| Hit Dice:            |18d12+72(189) |
+| Hit Dice:            |18d12+72 (189) |
 | Initiative:          |0 |
 | Speed:               |40 ft., burrow 20 ft., fly 150 ft. (poor) |
 | Armor Class:         |26 (-1 size, +17 natural), touch 9, flat_footed 26  |

@@ -18,7 +18,7 @@ alignment:
 
 |  | Juvenile Blue Dragon Large Blue Dragon(Juvenile) | 
 | ----| ---- | 
-| Hit Dice:            |15d12+45(142) |
+| Hit Dice:            |15d12+45 (142) |
 | Initiative:          |0 |
 | Speed:               |40 ft., burrow 20 ft., fly 150 ft. (poor) |
 | Armor Class:         |23 (-1 size, +14 natural), touch 9, flat_footed 23  |

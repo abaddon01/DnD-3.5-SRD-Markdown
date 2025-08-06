@@ -18,7 +18,7 @@ alignment:
 
 | ![[ancient-bronze-dragon.png \|100]] | Ancient Bronze Dragon Gargantuan Bronze Dragon(Ancient) | 
 | ----| ---- | 
-| Hit Dice:            |33d12+231(445) |
+| Hit Dice:            |33d12+231 (445) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy), swim 60 ft. |
 | Armor Class:         |38 (-4 size, +32 natural), touch 6, flat_footed 38  |

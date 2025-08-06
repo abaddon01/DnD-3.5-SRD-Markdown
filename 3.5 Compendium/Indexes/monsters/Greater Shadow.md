@@ -20,7 +20,7 @@ alignment: Always chaotic evil
 
 |  | Greater Shadow Medium Undead (Incorporeal) | 
 | ----| ---- | 
-| Hit Dice:            |9d12(58) |
+| Hit Dice:            |9d12 (58) |
 | Initiative:          |2 |
 | Speed:               |Fly 40 ft. (good) (8 squares) |
 | Armor Class:         |14 (+2 Dex, +2 deflection), touch 14, flat_footed 12  |

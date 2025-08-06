@@ -18,7 +18,7 @@ alignment:
 
 | ![[ancient-silver-dragon.png \|100]] | Ancient Silver Dragon Gargantuan Silver Dragon(Ancient) | 
 | ----| ---- | 
-| Hit Dice:            |34d12+238(459) |
+| Hit Dice:            |34d12+238 (459) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy) |
 | Armor Class:         |39 (-4 size, +33 natural), touch 6, flat_footed 39  |

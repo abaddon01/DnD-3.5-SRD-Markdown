@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Locust Swarm Diminutive Vermin (Swarm) | 
 | ----| ---- | 
-| Hit Dice:            |6d8-6(21) |
+| Hit Dice:            |6d8-6 (21) |
 | Initiative:          |4 |
 | Speed:               |10 ft. (2 squares), fly 30 ft. (poor) |
 | Armor Class:         |18 (+4 size, +4 Dex), touch 18, flat_footed 14  |

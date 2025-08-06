@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 | ![[mimic.png \|100]] | Mimic Large Aberration (Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+21(52) |
+| Hit Dice:            |7d8+21 (52) |
 | Initiative:          |1 |
 | Speed:               |10 ft. (2 squares) |
 | Armor Class:         |15 (-1 size, +1 Dex, +5 natural), touch 10, flat_footed 15  |

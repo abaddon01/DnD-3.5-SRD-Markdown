@@ -18,7 +18,7 @@ alignment:
 
 | ![[ancient-gold-dragon.png \|100]] | Ancient Gold Dragon Gargantuan Gold Dragon(Ancient) | 
 | ----| ---- | 
-| Hit Dice:            |35d12+315(542) |
+| Hit Dice:            |35d12+315 (542) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 250 ft. (clumsy), swim 60 ft. |
 | Armor Class:         |40 (-4 size, +34 natural), touch 6, flat_footed 40  |

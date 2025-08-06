@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[gynosphinx.png \|100]] | Gynosphinx Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |8d10+8(52) |
+| Hit Dice:            |8d10+8 (52) |
 | Initiative:          |5 |
 | Speed:               |40 ft. (8 squares), fly 60 ft. (poor) |
 | Armor Class:         |21 (-1 size, +1 Dex, +11 natural), touch 10, flat_footed 20  |

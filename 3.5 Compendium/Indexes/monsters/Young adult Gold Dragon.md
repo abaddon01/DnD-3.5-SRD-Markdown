@@ -18,7 +18,7 @@ alignment:
 
 |  | Young adult Gold Dragon Huge Gold Dragon(Young adult) | 
 | ----| ---- | 
-| Hit Dice:            |20d12+100(230) |
+| Hit Dice:            |20d12+100 (230) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |27 (-2 size, +19 natural), touch 8, flat_footed 27  |

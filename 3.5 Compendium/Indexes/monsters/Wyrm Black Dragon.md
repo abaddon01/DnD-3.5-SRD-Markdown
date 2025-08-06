@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrm Black Dragon Gargantuan Black Dragon(Wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |34d12+238(459) |
+| Hit Dice:            |34d12+238 (459) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 200 ft. (clumsy), swim 60 ft. |
 | Armor Class:         |39 (-4 size,+33 natural), touch 6, flat_footed 39  |

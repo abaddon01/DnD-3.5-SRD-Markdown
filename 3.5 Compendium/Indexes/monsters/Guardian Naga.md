@@ -18,7 +18,7 @@ alignment: Usually lawful good
 
 | ![[guardian-naga.png \|100]] | Guardian Naga Large Aberration | 
 | ----| ---- | 
-| Hit Dice:            |11d8+44(93) |
+| Hit Dice:            |11d8+44 (93) |
 | Initiative:          |2 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |18 (-1 size, +2 Dex, +7 natural), touch 11, flat_footed 16  |

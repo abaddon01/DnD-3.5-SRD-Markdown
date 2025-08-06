@@ -20,7 +20,7 @@ alignment: Always chaotic evil
 
 |  | Nightwalker Huge Undead (Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |21d12+42(178) |
+| Hit Dice:            |21d12+42 (178) |
 | Initiative:          |6 |
 | Speed:               |40 ft (8 squares)., fly 20 ft. (poor) |
 | Armor Class:         |32 (-2 size, +2 Dex, +22 natural), touch 10, flat_footed 30  |

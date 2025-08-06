@@ -21,7 +21,7 @@ alignment: Usually neutral good
 
 |  | Triton Medium Outsider (Native Water) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+3(16) |
+| Hit Dice:            |3d8+3 (16) |
 | Initiative:          |0 |
 | Speed:               |5 ft. (1 square), swim 40 ft. |
 | Armor Class:         |16 (+6 natural), touch 10, flat_footed 16  |

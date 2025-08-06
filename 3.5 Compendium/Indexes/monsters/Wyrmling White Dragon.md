@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrmling White Dragon Tiny White Dragon(Wyrmling) | 
 | ----| ---- | 
-| Hit Dice:            |3d12+3(22) |
+| Hit Dice:            |3d12+3 (22) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 150 ft. (average), swim 60 ft. |
 | Armor Class:         |14 (+2 size, +2 natural), touch 12, flat_footed 14  |

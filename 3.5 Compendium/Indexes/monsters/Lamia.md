@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 | ![[lamia.png \|100]] | Lamia Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |9d10+9(58) |
+| Hit Dice:            |9d10+9 (58) |
 | Initiative:          |2 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |18 (-1 size, +2 Dex, +7 natural), touch 11, flat_footed 16  |

@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Krenshar Medium Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |2d10(11) |
+| Hit Dice:            |2d10 (11) |
 | Initiative:          |2 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |15 (+2 Dex, +3 natural), touch 12, flat_footed 13  |

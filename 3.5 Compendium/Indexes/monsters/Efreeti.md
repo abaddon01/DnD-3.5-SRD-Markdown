@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 | ![[efreeti.png \|100]] | Efreeti Large Outsider (Extraplanar Fire) | 
 | ----| ---- | 
-| Hit Dice:            |10d8+20(65) |
+| Hit Dice:            |10d8+20 (65) |
 | Initiative:          |7 |
 | Speed:               |20 ft. (4 squares), fly 40 ft. (perfect) |
 | Armor Class:         |18 (-1 size, +3 Dex, +6 natural), touch 12, flat_footed 15  |

@@ -18,7 +18,7 @@ alignment: Always evil (any)
 
 | ![[vampire-spawn.png \|100]] | Vampire Spawn Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |4d12+3(29) |
+| Hit Dice:            |4d12+3 (29) |
 | Initiative:          |6 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+2 Dex, +3 natural), touch 12, flat_footed 13  |

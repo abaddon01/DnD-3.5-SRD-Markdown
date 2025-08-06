@@ -18,7 +18,7 @@ alignment: Always neutral good
 
 |  | Pixie Small Fey | 
 | ----| ---- | 
-| Hit Dice:            |1d6(3) |
+| Hit Dice:            |1d6 (3) |
 | Initiative:          |4 |
 | Speed:               |20 ft. (4 squares), fly 60 ft. (good) |
 | Armor Class:         |16 (+1 size, +4 Dex, +1 natural), touch 15, flat_footed 12  |

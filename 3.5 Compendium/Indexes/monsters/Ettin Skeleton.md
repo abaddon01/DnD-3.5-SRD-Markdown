@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Ettin Skeleton Large Undead | 
 | ----| ---- | 
-| Hit Dice:            |10d12(65) |
+| Hit Dice:            |10d12 (65) |
 | Initiative:          |4 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |11 (-1 size, +2 natural), touch 9, flat_footed 11  |

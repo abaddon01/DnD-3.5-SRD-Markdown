@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Minor Xorn Small Outsider (Extraplanar Earth) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+9(22) |
+| Hit Dice:            |3d8+9 (22) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares), burrow 20 ft. |
 | Armor Class:         |23 (+1 size, +12 natural), touch 11, flat_footed 23  |

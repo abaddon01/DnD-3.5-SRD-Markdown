@@ -18,7 +18,7 @@ alignment: —
 
 |  | Cloud Giant Skeleton Huge Undead | 
 | ----| ---- | 
-| Hit Dice:            |17d12(110) |
+| Hit Dice:            |17d12 (110) |
 | Initiative:          |6 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |13 (-2 size, +2 Dex, +3 natural), touch 10, flat_footed 11  |

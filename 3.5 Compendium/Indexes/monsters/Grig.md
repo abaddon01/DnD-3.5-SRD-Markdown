@@ -18,7 +18,7 @@ alignment: Always neutral good
 
 |  | Grig Tiny Fey | 
 | ----| ---- | 
-| Hit Dice:            |1/2 d6+1(2) |
+| Hit Dice:            |1/2 d6+1 (2) |
 | Initiative:          |4 |
 | Speed:               |20 ft. (4 squares), fly 40 ft. (poor) |
 | Armor Class:         |18 (+2 size, +4 Dex, +2 natural), touch 16, flat_footed 16  |

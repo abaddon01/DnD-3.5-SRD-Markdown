@@ -21,7 +21,7 @@ alignment: Usually chaotic evil
 
 | ![[gargoyle.png \|100]] | Gargoyle Medium Monstrous (Humanoid Earth) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+19(37) |
+| Hit Dice:            |4d8+19 (37) |
 | Initiative:          |2 |
 | Speed:               |40 ft. (8 squares), fly 60 ft. (average) |
 | Armor Class:         |16 (+2 Dex, +4 natural), touch 12, flat_footed 14  |

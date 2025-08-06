@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Gargantuan Animated Object Gargantuan Construct | 
 | ----| ---- | 
-| Hit Dice:            |16d10+60(148) |
+| Hit Dice:            |16d10+60 (148) |
 | Initiative:          |-2 |
 | Speed:               |10 ft. (2 squares); 20 ft. legs, 30 ft. multiple legs, 50 ft. wheels |
 | Armor Class:         |12 (-4 size, -2 Dex, +8 natural), touch 4, flat_footed 12  |

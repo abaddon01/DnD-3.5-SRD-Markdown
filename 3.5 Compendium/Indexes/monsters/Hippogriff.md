@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[hippogriff.png \|100]] | Hippogriff Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |3d10+9(25) |
+| Hit Dice:            |3d10+9 (25) |
 | Initiative:          |2 |
 | Speed:               |50 ft. (10 squares), fly 100 ft. (average) |
 | Armor Class:         |15 (-1 size, +2 Dex, +4 natural), touch 11, flat_footed 13  |

@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[gray-ooze.png \|100]] | Gray Ooze Medium Ooze | 
 | ----| ---- | 
-| Hit Dice:            |3d10+15(31) |
+| Hit Dice:            |3d10+15 (31) |
 | Initiative:          |-5 |
 | Speed:               |10 ft. (2 squares) |
 | Armor Class:         |5 (-5 Dex), touch 5, flat_footed 5  |

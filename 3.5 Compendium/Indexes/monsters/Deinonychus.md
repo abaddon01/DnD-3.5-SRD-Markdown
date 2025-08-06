@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Deinonychus Medium Animal | 
 | ----| ---- | 
-| Hit Dice:            |4d8+16(34) |
+| Hit Dice:            |4d8+16 (34) |
 | Initiative:          |2 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |17 (+2 Dex, +5 natural), touch 12, flat_footed 15  |

@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 |  | Horned Devil (cornugon) Large Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |15d8+105(172) |
+| Hit Dice:            |15d8+105 (172) |
 | Initiative:          |7 |
 | Speed:               |20 ft. (4 squares), fly 50 ft. (average) |
 | Armor Class:         |35 (-1 size, +7 Dex, +19 natural), touch 16, flat_footed 28  |

@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Bat Swarm Diminutive Animal (Swarm) | 
 | ----| ---- | 
-| Hit Dice:            |3d8(13) |
+| Hit Dice:            |3d8 (13) |
 | Initiative:          |2 |
 | Speed:               |5 ft. (1 square), fly 40 ft. (good) |
 | Armor Class:         |16 (+4 size, +2 Dex), touch 14, flat_footed 12  |

@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Owlbear Skeleton Large Undead | 
 | ----| ---- | 
-| Hit Dice:            |5d12(32) |
+| Hit Dice:            |5d12 (32) |
 | Initiative:          |6 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |13 (-1 size, +2 Dex, +2 natural), touch 11, flat_footed 11  |

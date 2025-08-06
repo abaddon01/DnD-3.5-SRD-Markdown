@@ -20,7 +20,7 @@ alignment: Often neutral
 
 | ![[behir.png \|100]] | Behir Huge Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |9d10+45(94) |
+| Hit Dice:            |9d10+45 (94) |
 | Initiative:          |1 |
 | Speed:               |40 ft. (8 squares), climb 15 ft. |
 | Armor Class:         |20 (-2 size, +1 Dex, +11 natural), touch 9, flat_footed 19  |

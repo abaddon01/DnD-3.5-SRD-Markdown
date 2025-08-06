@@ -18,7 +18,7 @@ alignment:
 
 | ![[adult-red-dragon.png \|100]] | Adult Red Dragon Huge Red Dragon(Adult) | 
 | ----| ---- | 
-| Hit Dice:            |22d12+110(253) |
+| Hit Dice:            |22d12+110 (253) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |29 (-2 size, +21 natural), touch 8, flat_footed 29  |

@@ -18,7 +18,7 @@ alignment: Usually chaotic evil
 
 |  | Choker Small Aberration | 
 | ----| ---- | 
-| Hit Dice:            |3d8+3(16) |
+| Hit Dice:            |3d8+3 (16) |
 | Initiative:          |6 |
 | Speed:               |20 ft. (4 squares), climb 10 ft. |
 | Armor Class:         |17 (+1 size, +2 Dex, +4 natural), touch 13, flat_footed 15  |

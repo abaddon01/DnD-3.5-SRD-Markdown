@@ -18,7 +18,7 @@ alignment:
 
 |  | Very young Copper Dragon Small Copper Dragon(Very young) | 
 | ----| ---- | 
-| Hit Dice:            |8d12+8(60) |
+| Hit Dice:            |8d12+8 (60) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 100 ft. (average) |
 | Armor Class:         |18 (+1 size, +7 natural), touch 11, flat_footed 18  |

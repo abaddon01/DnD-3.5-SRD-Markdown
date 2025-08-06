@@ -18,7 +18,7 @@ alignment:
 
 | ![[young-copper-dragon.png \|100]] | Young Copper Dragon Medium Copper Dragon(Young) | 
 | ----| ---- | 
-| Hit Dice:            |11d12+22(93) |
+| Hit Dice:            |11d12+22 (93) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |20 (+10 natural), touch 10, flat_footed 20  |

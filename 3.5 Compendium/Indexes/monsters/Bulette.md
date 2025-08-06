@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[bulette.png \|100]] | Bulette Huge Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |9d10+45(94) |
+| Hit Dice:            |9d10+45 (94) |
 | Initiative:          |2 |
 | Speed:               |40 ft. (8 squares), burrow 10 ft. |
 | Armor Class:         |22 (-2 size, +2 Dex, +12 natural), touch 10, flat_footed 20  |

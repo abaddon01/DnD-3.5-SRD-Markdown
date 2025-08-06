@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 | ![[ogre-zombie.png \|100]] | Ogre Zombie Large Undead | 
 | ----| ---- | 
-| Hit Dice:            |8d12+3(55) |
+| Hit Dice:            |8d12+3 (55) |
 | Initiative:          |-2 |
 | Speed:               |40 ft. (8 squares; can’t run) |
 | Armor Class:         |15 (-1 size, -2 Dex, +8 natural), touch 7, flat_footed 15  |

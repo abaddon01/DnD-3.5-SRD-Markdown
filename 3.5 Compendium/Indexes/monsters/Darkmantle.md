@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[darkmantle.png \|100]] | Darkmantle Small Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |1d10+1(6) |
+| Hit Dice:            |1d10+1 (6) |
 | Initiative:          |4 |
 | Speed:               |20 ft. (4 squares), fly 30 ft. (poor) |
 | Armor Class:         |17 (+1 size, +6 natural), touch 11, flat_footed 17  |

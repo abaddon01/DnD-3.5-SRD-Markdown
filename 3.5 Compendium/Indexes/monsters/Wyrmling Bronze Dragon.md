@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrmling Bronze Dragon Small Bronze Dragon(Wyrmling) | 
 | ----| ---- | 
-| Hit Dice:            |6d12+6(45) |
+| Hit Dice:            |6d12+6 (45) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 100 ft. (average), swim 60 ft. |
 | Armor Class:         |16 (+1 size, +5 natural), touch 11, flat_footed 16  |

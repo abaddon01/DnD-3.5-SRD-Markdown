@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Ape Large Animal | 
 | ----| ---- | 
-| Hit Dice:            |5d8+13(35) |
+| Hit Dice:            |5d8+13 (35) |
 | Initiative:          |2 |
 | Speed:               |30 ft. (6 squares), climb 15 ft. |
 | Armor Class:         |15 (-1 size, +2 Dex, +4 natural), touch 11, flat_footed 13  |

@@ -18,7 +18,7 @@ alignment: Usually lawful evil
 
 |  | Ogre Mage Large Giant | 
 | ----| ---- | 
-| Hit Dice:            |5d8+15(37) |
+| Hit Dice:            |5d8+15 (37) |
 | Initiative:          |4 |
 | Speed:               |40 ft. (8 squares), fly 40 ft. (good) |
 | Armor Class:         |18 (-1 size, +5 natural, +4 chain shirt), touch 9, flat_footed 18  |

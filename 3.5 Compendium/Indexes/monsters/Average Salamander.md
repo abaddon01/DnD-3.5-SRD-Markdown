@@ -21,7 +21,7 @@ alignment: Usually evil (any)
 
 |  | Average Salamander Medium Outsider (Extraplanar Fire) | 
 | ----| ---- | 
-| Hit Dice:            |9d8+18(58) |
+| Hit Dice:            |9d8+18 (58) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |18 (+1 Dex, +7 natural), touch 11, flat_footed 17  |

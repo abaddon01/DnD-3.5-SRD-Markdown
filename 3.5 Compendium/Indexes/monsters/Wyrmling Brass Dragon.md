@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrmling Brass Dragon Tiny Brass Dragon(Wyrmling) | 
 | ----| ---- | 
-| Hit Dice:            |4d12+4(30) |
+| Hit Dice:            |4d12+4 (30) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 150 ft. (average) |
 | Armor Class:         |15 (+2 size, +3 natural), touch 12, flat_footed 15  |

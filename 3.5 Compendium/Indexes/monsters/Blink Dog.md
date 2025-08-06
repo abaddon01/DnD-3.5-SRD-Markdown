@@ -20,7 +20,7 @@ alignment: Usually lawful good
 
 | ![[blink-dog.png \|100]] | Blink Dog Medium Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |4d10(22) |
+| Hit Dice:            |4d10 (22) |
 | Initiative:          |3 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |16 (+3 Dex, +3 natural), touch 13, flat_footed 13  |

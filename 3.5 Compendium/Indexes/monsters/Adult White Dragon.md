@@ -18,7 +18,7 @@ alignment:
 
 | ![[adult-white-dragon.png \|100]] | Adult White Dragon Large White Dragon(Adult) | 
 | ----| ---- | 
-| Hit Dice:            |18d12+72(189) |
+| Hit Dice:            |18d12+72 (189) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |26 (-1 size, +17 natural), touch 9, flat_footed 26  |

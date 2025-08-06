@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 |  | Human Form Werewolf Medium Humanoid (Human Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1 plus 2d8+6(20) |
+| Hit Dice:            |1d8+1 plus 2d8+6 (20) |
 | Initiative:          |4 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |17 (+2 natural, +4 chain shirt, +1 light shield), touch 10, flat_footed 17  |

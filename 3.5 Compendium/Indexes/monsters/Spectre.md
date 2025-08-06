@@ -20,7 +20,7 @@ alignment: Always lawful evil
 
 |  | Spectre Medium Undead (Incorporeal) | 
 | ----| ---- | 
-| Hit Dice:            |7d12(45) |
+| Hit Dice:            |7d12 (45) |
 | Initiative:          |7 |
 | Speed:               |40 ft. (8 squares), fly 80 ft. (perfect) |
 | Armor Class:         |15 (+3 Dex, +2 deflection), touch 15, flat_footed 13  |

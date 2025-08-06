@@ -18,7 +18,7 @@ alignment: Usually chaotic evil
 
 | ![[troll.png \|100]] | Troll Large Giant | 
 | ----| ---- | 
-| Hit Dice:            |6d8+36(63) |
+| Hit Dice:            |6d8+36 (63) |
 | Initiative:          |2 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |16 (-1 size, +2 Dex, +5 natural), touch 11, flat_footed 14  |

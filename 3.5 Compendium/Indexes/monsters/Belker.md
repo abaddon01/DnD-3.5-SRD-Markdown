@@ -21,7 +21,7 @@ alignment: Usually neutral evil
 
 |  | Belker Large Elemental (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+7(38) |
+| Hit Dice:            |7d8+7 (38) |
 | Initiative:          |5 |
 | Speed:               |30 ft. (6 squares), fly 50 ft. (perfect) |
 | Armor Class:         |22 (-1 size, +5 Dex, +8 natural), touch 14, flat_footed 17  |

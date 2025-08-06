@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 | ![[green-hag.png \|100]] | Green Hag Medium Monstrous (Humanoid) | 
 | ----| ---- | 
-| Hit Dice:            |9d8+9(49) |
+| Hit Dice:            |9d8+9 (49) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), swim 30 ft. |
 | Armor Class:         |22 (+1 Dex, +11 natural), touch 11, flat_footed 21  |

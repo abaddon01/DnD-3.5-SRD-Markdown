@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Juvenile Arrowhawk Small Outsider (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+3(16) |
+| Hit Dice:            |3d8+3 (16) |
 | Initiative:          |5 |
 | Speed:               |Fly 60 ft. (perfect) (12 squares) |
 | Armor Class:         |20 (+1 size, +5 Dex, +4 natural), touch 16, flat_footed 15  |

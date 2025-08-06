@@ -23,7 +23,7 @@ alignment: Usually neutral
 
 |  | Halfling Halfling 1st-Level (Warrior Small Humanoid Halfling) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1(5) |
+| Hit Dice:            |1d8+1 (5) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |16 (+1 size, +1 Dex, +3 studded leather, +1 light shield), touch 12, flat_footed 15  |

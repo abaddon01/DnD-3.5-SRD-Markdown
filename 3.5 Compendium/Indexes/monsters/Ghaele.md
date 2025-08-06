@@ -22,7 +22,7 @@ alignment: Always chaotic good
 
 |  | Ghaele Medium Outsider (Chaotic Extraplanar Good) | 
 | ----| ---- | 
-| Hit Dice:            |10d8+20(65) |
+| Hit Dice:            |10d8+20 (65) |
 | Initiative:          |5 |
 | Speed:               |50 ft. (10 squares), fly 150 ft. (perfect) |
 | Armor Class:         |25 (+1 Dex, +14 natural), touch 14, flat_footed 13  |

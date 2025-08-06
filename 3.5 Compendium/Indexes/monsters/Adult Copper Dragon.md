@@ -18,7 +18,7 @@ alignment:
 
 | ![[adult-copper-dragon.png \|100]] | Adult Copper Dragon Large Copper Dragon(Adult) | 
 | ----| ---- | 
-| Hit Dice:            |20d12+80(210) |
+| Hit Dice:            |20d12+80 (210) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |28 (-1 size, +19 natural), touch 9, flat_footed 28  |

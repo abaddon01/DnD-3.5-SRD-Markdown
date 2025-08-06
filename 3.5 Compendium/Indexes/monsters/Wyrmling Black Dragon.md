@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrmling Black Dragon Tiny Black Dragon(Wyrmling) | 
 | ----| ---- | 
-| Hit Dice:            |4d12+4(30) |
+| Hit Dice:            |4d12+4 (30) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 100 ft. (average), swim 60 ft. |
 | Armor Class:         |15 (+2 size,+3 natural), touch 12, flat_footed 15  |

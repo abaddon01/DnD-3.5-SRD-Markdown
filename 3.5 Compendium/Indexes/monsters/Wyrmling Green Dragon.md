@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrmling Green Dragon Small Green Dragon(Wyrmling) | 
 | ----| ---- | 
-| Hit Dice:            |5d12+5(37) |
+| Hit Dice:            |5d12+5 (37) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 100 ft. (average), swim 40 ft |
 | Armor Class:         |15 (+1 size, +4 natural), touch 11, flat_footed 15  |

@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Gray Render Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |10d10+70(125) |
+| Hit Dice:            |10d10+70 (125) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |19 (-1 size, +10 natural), touch 9, flat_footed 19  |

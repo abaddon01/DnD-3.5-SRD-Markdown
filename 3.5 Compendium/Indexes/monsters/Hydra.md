@@ -21,14 +21,14 @@ alignment:
 
 | ![[hydra.png \|100]] | Hydra Huge Magical (Beast Cold) | 
 | ----| ---- | 
-| Hit Dice:            |(0) |
+| Hit Dice:            | (0) |
 | Initiative:          |0 |
 | Speed:               | |
 | Armor Class:         |, touch , flat_footed   |
 | Base Attack/Grapple: | |
 | Attack:              |; |
 | Full Attack:         |; |
-| Space/Reach:         |null |
+| Space/Reach:         | |
 | Special Attacks:     | |
 | Special Qualities    | |
 | Saves:               | |

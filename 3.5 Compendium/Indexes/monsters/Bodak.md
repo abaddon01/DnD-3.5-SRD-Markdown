@@ -20,7 +20,7 @@ alignment: Always chaotic evil
 
 |  | Bodak Medium Undead (Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |9d12(58) |
+| Hit Dice:            |9d12 (58) |
 | Initiative:          |6 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |20 (+2 Dex, +8 natural), touch 12, flat_footed 18  |

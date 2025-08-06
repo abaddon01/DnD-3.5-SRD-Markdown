@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Average Xorn Medium Outsider (Extraplanar Earth) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+17(48) |
+| Hit Dice:            |7d8+17 (48) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares), burrow 20 ft. |
 | Armor Class:         |24 (+14 natural), touch 10, flat_footed 24  |

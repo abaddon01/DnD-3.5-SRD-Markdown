@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Aranea Medium Magical (Beast Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |3d10+6(22) |
+| Hit Dice:            |3d10+6 (22) |
 | Initiative:          |6 |
 | Speed:               |50 ft. (10 squares), climb 25 ft. |
 | Armor Class:         |13 (+2 Dex, +1 natural), touch 12, flat_footed 11  |

@@ -22,7 +22,7 @@ alignment: Always good (any)
 
 |  | Astral Deva Angel Medium Outsider (Angel Extraplanar Good) | 
 | ----| ---- | 
-| Hit Dice:            |12d8+48(102) |
+| Hit Dice:            |12d8+48 (102) |
 | Initiative:          |8 |
 | Speed:               |50 ft. (10 squares), fly 100 ft. (good) |
 | Armor Class:         |29 (+4 Dex, +15 natural), touch 14, flat_footed 25  |

@@ -18,7 +18,7 @@ alignment:
 
 | ![[ancient-red-dragon.png \|100]] | Ancient Red Dragon Gargantuan Red Dragon(Ancient) | 
 | ----| ---- | 
-| Hit Dice:            |34d12+306(527) |
+| Hit Dice:            |34d12+306 (527) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy) |
 | Armor Class:         |39 (-4 size, +33 natural), touch 6, flat_footed 39  |

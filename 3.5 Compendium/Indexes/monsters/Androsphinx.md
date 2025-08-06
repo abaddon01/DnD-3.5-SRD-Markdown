@@ -20,7 +20,7 @@ alignment: Always chaotic good
 
 | ![[androsphinx.png \|100]] | Androsphinx Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |12d10+48(114) |
+| Hit Dice:            |12d10+48 (114) |
 | Initiative:          |0 |
 | Speed:               |50 ft. (10 squares), fly 80 ft. (poor) |
 | Armor Class:         |22 (-1 size, +13 natural), touch 9, flat_footed 22  |

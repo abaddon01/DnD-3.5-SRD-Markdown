@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Rat Small Animal | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1(5) |
+| Hit Dice:            |1d8+1 (5) |
 | Initiative:          |3 |
 | Speed:               |40 ft. (8 squares), climb 20 ft. |
 | Armor Class:         |15 (+1 size, +3 Dex, +1 natural), touch 14, flat_footed 12  |

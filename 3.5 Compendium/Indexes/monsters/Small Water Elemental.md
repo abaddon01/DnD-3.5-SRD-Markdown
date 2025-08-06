@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Small Water Elemental Small Elemental (Water Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |2d8+2(11) |
+| Hit Dice:            |2d8+2 (11) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares), swim 90 ft. |
 | Armor Class:         |17 (+1 size, +6 natural), touch 11, flat_footed 17  |

@@ -23,7 +23,7 @@ alignment: Usually lawful evil
 
 | ![[hobgoblin.png \|100]] | Hobgoblin Hobgoblin 1st-Level (Warrior Medium Humanoid Goblinoid) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+2(6) |
+| Hit Dice:            |1d8+2 (6) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat_footed 14  |

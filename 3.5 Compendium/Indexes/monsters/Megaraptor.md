@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Megaraptor Large Animal | 
 | ----| ---- | 
-| Hit Dice:            |8d8+43(79) |
+| Hit Dice:            |8d8+43 (79) |
 | Initiative:          |2 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |17 (-1 size, +2 Dex, +6 natural), touch 11, flat_footed 15  |

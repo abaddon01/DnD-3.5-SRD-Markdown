@@ -20,7 +20,7 @@ alignment: Always neutral evil
 
 |  | Allip Medium Undead (Incorporeal) | 
 | ----| ---- | 
-| Hit Dice:            |4d12(26) |
+| Hit Dice:            |4d12 (26) |
 | Initiative:          |5 |
 | Speed:               |Fly 30 ft. (perfect) (6 squares) |
 | Armor Class:         |15 (+1 Dex, +4 deflection), touch 15, flat_footed 14  |

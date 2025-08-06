@@ -18,7 +18,7 @@ alignment:
 
 | ![[ancient-brass-dragon.png \|100]] | Ancient Brass Dragon Huge Brass Dragon(Ancient) | 
 | ----| ---- | 
-| Hit Dice:            |31d12+186(387) |
+| Hit Dice:            |31d12+186 (387) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor) |
 | Armor Class:         |38 (-2 size, +30 natural), touch 8, flat_footed 38  |

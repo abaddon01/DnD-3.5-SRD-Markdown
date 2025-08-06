@@ -21,7 +21,7 @@ alignment: Always chaotic neutral
 
 |  | Chaos Beast Medium Outsider (Chaotic Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |8d8+8(44) |
+| Hit Dice:            |8d8+8 (44) |
 | Initiative:          |5 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |16 (+1 Dex, +5 natural), touch 11, flat_footed 15  |

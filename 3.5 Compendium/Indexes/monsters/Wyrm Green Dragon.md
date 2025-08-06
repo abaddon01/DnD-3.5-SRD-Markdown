@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrm Green Dragon Gargantuan Green Dragon(Wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |35d12+280(507) |
+| Hit Dice:            |35d12+280 (507) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy), swim 40 ft |
 | Armor Class:         |40 (-4 size, +34 natural), touch 6, flat_footed 40  |

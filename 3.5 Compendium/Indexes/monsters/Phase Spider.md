@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[phase-spider.png \|100]] | Phase Spider Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |5d10+15(42) |
+| Hit Dice:            |5d10+15 (42) |
 | Initiative:          |7 |
 | Speed:               |40 ft. (8 squares), climb 20 ft. |
 | Armor Class:         |15 (-1 size, +3 Dex, +3 natural), touch 12, flat_footed 12  |

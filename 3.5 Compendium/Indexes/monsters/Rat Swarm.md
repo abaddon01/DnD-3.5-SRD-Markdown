@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Rat Swarm Tiny Animal (Swarm) | 
 | ----| ---- | 
-| Hit Dice:            |4d8(13) |
+| Hit Dice:            |4d8 (13) |
 | Initiative:          |2 |
 | Speed:               |15 ft. (3 squares), climb 15 ft. |
 | Armor Class:         |14 (+2 size, +2 Dex), touch 14, flat_footed 12  |

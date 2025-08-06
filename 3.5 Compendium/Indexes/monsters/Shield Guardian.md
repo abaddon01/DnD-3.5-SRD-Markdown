@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[shield-guardian.png \|100]] | Shield Guardian Large Construct | 
 | ----| ---- | 
-| Hit Dice:            |15d10+30(112) |
+| Hit Dice:            |15d10+30 (112) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |24 (-1 size, +15 natural), touch 9, flat_footed 24  |

@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[owlbear.png \|100]] | Owlbear Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |5d10+25(52) |
+| Hit Dice:            |5d10+25 (52) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (-1 size, +1 Dex, +5 natural), touch 10, flat_footed 14  |

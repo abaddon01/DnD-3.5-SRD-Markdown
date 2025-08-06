@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 | ![[magma-mephit.png \|100]] | Magma Mephit Small Outsider (Fire Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |3d8(13) |
+| Hit Dice:            |3d8 (13) |
 | Initiative:          |5 |
 | Speed:               |30 ft. (6 squares), fly 50 ft. (average) |
 | Armor Class:         |16 (+1 size, +1 Dex, +4 natural), touch 12, flat_footed 15  |

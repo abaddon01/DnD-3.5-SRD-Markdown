@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[gelatinous-cube.png \|100]] | Gelatinous Cube Large Ooze | 
 | ----| ---- | 
-| Hit Dice:            |4d10+32(54) |
+| Hit Dice:            |4d10+32 (54) |
 | Initiative:          |-5 |
 | Speed:               |15 ft. (3 squares) |
 | Armor Class:         |4 (-1 size, -5 Dex), touch 4, flat_footed 4  |

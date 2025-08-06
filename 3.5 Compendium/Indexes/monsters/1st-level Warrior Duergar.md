@@ -20,7 +20,7 @@ alignment: Often lawful evil
 
 |  | 1st-level Warrior Duergar Medium Humanoid (Dwarf) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+5(9) |
+| Hit Dice:            |1d8+5 (9) |
 | Initiative:          |0 |
 | Speed:               |20 ft. in chainmail (4 squares); base speed 20 ft. |
 | Armor Class:         |17 (+5 chainmail, +2 heavy shield), touch 10, flat_footed 17  |

@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Elder Arrowhawk Large Outsider (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |15d8+45(112) |
+| Hit Dice:            |15d8+45 (112) |
 | Initiative:          |5 |
 | Speed:               |Fly 60 ft. (perfect) (12 squares) |
 | Armor Class:         |22 (-1 size, +5 Dex, +8 natural), touch 14, flat_footed 17  |

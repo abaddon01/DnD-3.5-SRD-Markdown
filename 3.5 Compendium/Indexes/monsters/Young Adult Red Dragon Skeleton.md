@@ -20,7 +20,7 @@ alignment: 20 HD (Huge)
 
 |  | Young Adult Red Dragon Skeleton Huge Undead (Fire) | 
 | ----| ---- | 
-| Hit Dice:            |19d12(123) |
+| Hit Dice:            |19d12 (123) |
 | Initiative:          |5 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |12 (-2 size, +1 Dex, +3 natural), touch 9, flat_footed 11  |

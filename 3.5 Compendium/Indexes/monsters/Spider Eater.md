@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Spider Eater Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |4d10+20(42) |
+| Hit Dice:            |4d10+20 (42) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), fly 60 ft. (good) |
 | Armor Class:         |14 (-1 size, +1 Dex, +4 natural), touch 10, flat_footed   |

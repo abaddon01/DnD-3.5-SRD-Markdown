@@ -21,7 +21,7 @@ alignment: Always neutral evil
 
 |  | Yeth Hound Medium Outsider (Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+6(19) |
+| Hit Dice:            |3d8+6 (19) |
 | Initiative:          |6 |
 | Speed:               |40 ft. (8 squares), fly 60 ft. (good) |
 | Armor Class:         |20 (+2 Dex, +8 natural), touch 12, flat_footed 18  |

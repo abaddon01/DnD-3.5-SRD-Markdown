@@ -23,7 +23,7 @@ alignment: Usually neutral
 
 | ![[merfolk.png \|100]] | Merfolk Merfolk 1st-Level (Warrior Medium Humanoid Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+2(6) |
+| Hit Dice:            |1d8+2 (6) |
 | Initiative:          |1 |
 | Speed:               |5 ft. (1 square), swim 50 ft. |
 | Armor Class:         |13 (+1 Dex, +2 leather), touch 11, flat_footed 12  |

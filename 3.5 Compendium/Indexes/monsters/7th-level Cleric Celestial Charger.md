@@ -20,7 +20,7 @@ alignment: Always chaotic good
 
 |  | 7th-level Cleric Celestial Charger Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |8d10 + 7d8 + 75(155) |
+| Hit Dice:            |8d10 + 7d8 + 75 (155) |
 | Initiative:          |4 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |24 (-1 size, +4 Dex, +6 natural, +5 bracers of armor +5), touch 13, flat_footed 20  |

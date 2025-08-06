@@ -18,7 +18,7 @@ alignment:
 
 |  | Old Blue Dragon Huge Blue Dragon(Old) | 
 | ----| ---- | 
-| Hit Dice:            |27d12+162(337) |
+| Hit Dice:            |27d12+162 (337) |
 | Initiative:          |0 |
 | Speed:               |40 ft., burrow 20 ft., fly 150 ft. (poor) |
 | Armor Class:         |34 (-2 size, +26 natural), touch 8, flat_footed 34  |

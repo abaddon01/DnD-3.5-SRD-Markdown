@@ -20,7 +20,7 @@ alignment: Always chaotic evil
 
 |  | Nightwing Huge Undead (Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |17d12+34(144) |
+| Hit Dice:            |17d12+34 (144) |
 | Initiative:          |8 |
 | Speed:               |20 ft. (4 squares), fly 60 ft. (good) |
 | Armor Class:         |30 (-2 size, +4 Dex, +18 natural), touch 12, flat_footed 26  |

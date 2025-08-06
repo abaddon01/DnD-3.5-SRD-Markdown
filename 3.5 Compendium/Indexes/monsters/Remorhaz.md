@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 | ![[remorhaz.png \|100]] | Remorhaz Huge Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |7d10+35(73) |
+| Hit Dice:            |7d10+35 (73) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), burrow 20 ft. |
 | Armor Class:         |20 (-2 size, +1 Dex, +11 natural), touch 9, flat_footed 19  |

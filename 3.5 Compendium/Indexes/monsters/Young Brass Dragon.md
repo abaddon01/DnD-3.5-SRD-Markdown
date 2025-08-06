@@ -18,7 +18,7 @@ alignment:
 
 | ![[young-brass-dragon.png \|100]] | Young Brass Dragon Medium Brass Dragon(Young) | 
 | ----| ---- | 
-| Hit Dice:            |10d12+20(85) |
+| Hit Dice:            |10d12+20 (85) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor) |
 | Armor Class:         |19 (+9 natural), touch 10, flat_footed 19  |

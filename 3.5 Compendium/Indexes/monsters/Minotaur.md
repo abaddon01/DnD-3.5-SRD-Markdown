@@ -20,7 +20,7 @@ alignment: Usually chaotic Evil
 
 | ![[minotaur.png \|100]] | Minotaur Large Monstrous (Humanoid) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+12(39) |
+| Hit Dice:            |6d8+12 (39) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |14 (-1 size, +5 natural), touch 9, flat_footed — (see text)  |

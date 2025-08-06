@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Chimera Skeleton Large Undead | 
 | ----| ---- | 
-| Hit Dice:            |9d12(58) |
+| Hit Dice:            |9d12 (58) |
 | Initiative:          |6 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |13 (+2 Dex., -1 size, +2 natural), touch 11, flat_footed 11  |

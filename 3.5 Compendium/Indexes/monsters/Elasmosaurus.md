@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Elasmosaurus Huge Animal | 
 | ----| ---- | 
-| Hit Dice:            |10d8+66(111) |
+| Hit Dice:            |10d8+66 (111) |
 | Initiative:          |2 |
 | Speed:               |20 ft. (4 squares), swim 50 ft. |
 | Armor Class:         |13 (-2 size, +2 Dex, +3 natural), touch 10, flat_footed 11  |

@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 |  | Hellcat (bezekira) Large Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |8d8+24(60) |
+| Hit Dice:            |8d8+24 (60) |
 | Initiative:          |9 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |21 (-1 size, +5 Dex, +7 natural), touch 14, flat_footed 16  |

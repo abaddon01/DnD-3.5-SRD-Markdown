@@ -20,7 +20,7 @@ alignment: Usually neutral good
 
 | ![[centaur.png \|100]] | Centaur Large Monstrous (Humanoid) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+8(26) |
+| Hit Dice:            |4d8+8 (26) |
 | Initiative:          |2 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |14 (-1 size, +2 Dex, +3 natural), touch 11, flat_footed 12  |

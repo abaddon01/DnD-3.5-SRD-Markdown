@@ -20,7 +20,7 @@ alignment: Always lawful evil
 
 |  | Dread Wraith Large Undead (Incorporeal) | 
 | ----| ---- | 
-| Hit Dice:            |16d12(104) |
+| Hit Dice:            |16d12 (104) |
 | Initiative:          |13 |
 | Speed:               |Fly 60 ft. (good) (12 squares) |
 | Armor Class:         |25 (-1 size, +9 Dex, +7 deflection), touch 25, flat_footed 16  |

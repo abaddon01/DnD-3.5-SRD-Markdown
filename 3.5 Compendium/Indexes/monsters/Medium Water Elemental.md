@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Medium Water Elemental Medium Elemental (Water Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+12(30) |
+| Hit Dice:            |4d8+12 (30) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares), swim 90 ft. |
 | Armor Class:         |19 (+1 Dex, +8 natural), touch 11, flat_footed 18  |

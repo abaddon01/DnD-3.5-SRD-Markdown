@@ -18,7 +18,7 @@ alignment: Usually chaotic good
 
 | ![[dryad.png \|100]] | Dryad Medium Fey | 
 | ----| ---- | 
-| Hit Dice:            |4d6(14) |
+| Hit Dice:            |4d6 (14) |
 | Initiative:          |4 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |17 (+4 Dex, +3 natural), touch 14, flat_footed 13  |

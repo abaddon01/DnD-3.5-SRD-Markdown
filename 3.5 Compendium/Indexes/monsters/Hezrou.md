@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 | ![[hezrou.png \|100]] | Hezrou Large Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |10d8+93(138) |
+| Hit Dice:            |10d8+93 (138) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |23 (-1 size, +14 natural), touch 9, flat_footed 23  |

@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Girallon Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |7d10+20(58) |
+| Hit Dice:            |7d10+20 (58) |
 | Initiative:          |3 |
 | Speed:               |40 ft. (8 squares), climb 40 ft. |
 | Armor Class:         |16 (-1 size, +3 Dex, +4 natural), touch 12, flat_footed 15  |

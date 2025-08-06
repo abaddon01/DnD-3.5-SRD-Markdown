@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Troll Skeleton Large Undead | 
 | ----| ---- | 
-| Hit Dice:            |6d12(39) |
+| Hit Dice:            |6d12 (39) |
 | Initiative:          |7 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |14 (+3 Dex, -1 size, +2 natural), touch 12, flat_footed 11  |

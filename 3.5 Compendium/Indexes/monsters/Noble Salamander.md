@@ -21,7 +21,7 @@ alignment: Usually evil (any)
 
 |  | Noble Salamander Large Outsider (Extraplanar Fire) | 
 | ----| ---- | 
-| Hit Dice:            |15d8+45(112) |
+| Hit Dice:            |15d8+45 (112) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |18 (-1 size, +1 Dex, +8 natural), touch 10, flat_footed 17  |

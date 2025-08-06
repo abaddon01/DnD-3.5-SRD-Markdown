@@ -21,7 +21,7 @@ alignment: Always lawful good
 
 |  | Hybrid Form Werebear Large Humanoid (Human Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1 plus 6d8+30(62) |
+| Hit Dice:            |1d8+1 plus 6d8+30 (62) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |17 (-1 size, +1 Dex, +7 natural), touch 10, flat_footed 16  |

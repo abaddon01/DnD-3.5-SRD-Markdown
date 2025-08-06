@@ -21,7 +21,7 @@ alignment: Always lawful neutral
 
 |  | Marut Large Construct (Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |15d10+30(112) |
+| Hit Dice:            |15d10+30 (112) |
 | Initiative:          |1 |
 | Speed:               |30 ft. in full plate armor (6 squares); base speed 40 ft. |
 | Armor Class:         |34 (-1 size, +1 Dex, +16 natural, +8 full plate armor), touch 10, flat_footed 33  |

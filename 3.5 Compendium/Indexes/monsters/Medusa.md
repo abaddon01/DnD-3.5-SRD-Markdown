@@ -20,7 +20,7 @@ alignment: Usually lawful evil
 
 | ![[medusa.png \|100]] | Medusa Medium Monstrous (Humanoid) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+6(33) |
+| Hit Dice:            |6d8+6 (33) |
 | Initiative:          |2 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+2 Dex, +3 natural), touch 12, flat_footed 13  |

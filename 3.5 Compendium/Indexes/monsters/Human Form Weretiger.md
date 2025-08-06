@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Human Form Weretiger Medium Humanoid (Human Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1 plus 6d8+18(50) |
+| Hit Dice:            |1d8+1 plus 6d8+18 (50) |
 | Initiative:          |4 |
 | Speed:               |20 ft. in breastplate (4 squares); base speed 30 ft. |
 | Armor Class:         |17 (+2 natural, +5 breastplate), touch 10, flat_footed 17  |

@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Juvenile Tojanida Small Outsider (Extraplanar Water) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+6(19) |
+| Hit Dice:            |3d8+6 (19) |
 | Initiative:          |1 |
 | Speed:               |10 ft. (2 squares), swim 90 ft. |
 | Armor Class:         |22 (+1 size, +1 Dex, +10 natural), touch 12, flat_footed 21  |

@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Shocker Lizard Small Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |2d10+2(13) |
+| Hit Dice:            |2d10+2 (13) |
 | Initiative:          |6 |
 | Speed:               |40 ft. (8 squares), climb 20 ft., swim 20 ft. |
 | Armor Class:         |16 (+1 size, +2 Dex, +3 natural), touch 13, flat_footed 14  |

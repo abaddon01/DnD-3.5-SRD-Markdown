@@ -18,7 +18,7 @@ alignment:
 
 |  | Juvenile Red Dragon Large Red Dragon(Juvenile) | 
 | ----| ---- | 
-| Hit Dice:            |16d12+64(168) |
+| Hit Dice:            |16d12+64 (168) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |24 (-1 size, +15 natural), touch 9, flat_footed 24  |

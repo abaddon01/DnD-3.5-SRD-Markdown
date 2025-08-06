@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Janni Medium Outsider (Native) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+6(33) |
+| Hit Dice:            |6d8+6 (33) |
 | Initiative:          |6 |
 | Speed:               |20 ft. (4 squares), fly 15 ft. (perfect) in chainmail; base land speed 30 ft., base fly speed 20 ft. (perfect) |
 | Armor Class:         |18 (+2 Dex, +1 natural, +5 chainmail), touch 12, flat_footed 16  |

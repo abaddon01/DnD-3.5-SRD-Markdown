@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Dire Boar Form Hill Giant Dire Wereboar Large Giant (Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |12d8+51 plus 7d8+49(185) |
+| Hit Dice:            |12d8+51 plus 7d8+49 (185) |
 | Initiative:          |-1 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |16 (-1 size, -1 Dex, +8 natural), touch 8, flat_footed 16  |

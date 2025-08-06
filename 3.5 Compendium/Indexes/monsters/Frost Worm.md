@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Frost Worm Huge Magical (Beast Cold) | 
 | ----| ---- | 
-| Hit Dice:            |14d10+70(147) |
+| Hit Dice:            |14d10+70 (147) |
 | Initiative:          |4 |
 | Speed:               |30 ft. (6 squares), burrow 10 ft. |
 | Armor Class:         |18 (-2 size, +10 natural), touch 8, flat_footed 18  |

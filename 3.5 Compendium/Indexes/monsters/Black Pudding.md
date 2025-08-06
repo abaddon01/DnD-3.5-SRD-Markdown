@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[black-pudding.png \|100]] | Black Pudding Huge Ooze | 
 | ----| ---- | 
-| Hit Dice:            |10d10+60(115) |
+| Hit Dice:            |10d10+60 (115) |
 | Initiative:          |-5 |
 | Speed:               |20 ft. (4 squares), climb 20 ft. |
 | Armor Class:         |3 (-2 size, -5 Dex), touch 3, flat_footed 3  |

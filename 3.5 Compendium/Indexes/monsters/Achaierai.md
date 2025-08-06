@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 |  | Achaierai Large Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+12(39) |
+| Hit Dice:            |6d8+12 (39) |
 | Initiative:          |1 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |20 (-1 size, +1 Dex, +10 natural), touch 10, flat_footed 19  |

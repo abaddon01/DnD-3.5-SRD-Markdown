@@ -18,7 +18,7 @@ alignment:
 
 |  | Great wyrm Blue Dragon Gargantuan Blue Dragon(Great wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |39d12+312(565) |
+| Hit Dice:            |39d12+312 (565) |
 | Initiative:          |0 |
 | Speed:               |40 ft., burrow 20 ft., fly 200 ft. (clumsy) |
 | Armor Class:         |44 (-4 size, +38 natural), touch 6, flat_footed 44  |

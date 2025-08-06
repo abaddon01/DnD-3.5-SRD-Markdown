@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 | ![[nalfeshnee.png \|100]] | Nalfeshnee Huge Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |14d8+112(175) |
+| Hit Dice:            |14d8+112 (175) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), fly 40 ft. (poor) |
 | Armor Class:         |27 (-2 size, +1 Dex, +18 natural), touch 9, flat_footed 26  |

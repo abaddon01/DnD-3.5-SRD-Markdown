@@ -18,7 +18,7 @@ alignment: 13-16 HD (Huge); 17-20 HD (Gargantuan)
 
 |  | Advanced Megaraptor Skeleton Huge Undead | 
 | ----| ---- | 
-| Hit Dice:            |12d12(78) |
+| Hit Dice:            |12d12 (78) |
 | Initiative:          |7 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |14 (-2 size, +3 Dex, +3 natural), touch 11, flat_footed 11  |

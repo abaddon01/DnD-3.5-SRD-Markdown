@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 | ![[quasit.png \|100]] | Quasit Tiny Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |3d8(13) |
+| Hit Dice:            |3d8 (13) |
 | Initiative:          |7 |
 | Speed:               |20 ft. (4 squares), fly 50 ft. (perfect) |
 | Armor Class:         |18 (+2 size, +3 Dex, +3 natural), touch 15, flat_footed 15  |

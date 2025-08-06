@@ -20,7 +20,7 @@ alignment: Usually neutral evil
 
 | ![[worg.png \|100]] | Worg Medium Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |4d10+8(30) |
+| Hit Dice:            |4d10+8 (30) |
 | Initiative:          |2 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |14 (+2 Dex, +2 natural), touch 12, flat_footed 12  |

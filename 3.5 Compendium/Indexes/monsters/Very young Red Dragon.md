@@ -18,7 +18,7 @@ alignment:
 
 |  | Very young Red Dragon Large Red Dragon(Very young) | 
 | ----| ---- | 
-| Hit Dice:            |10d12+30(95) |
+| Hit Dice:            |10d12+30 (95) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |18 (-1 size, +9 natural), touch 9, flat_footed 18  |

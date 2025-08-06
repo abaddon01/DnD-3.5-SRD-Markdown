@@ -18,7 +18,7 @@ alignment:
 
 |  | Juvenile Black Dragon Medium Black Dragon(Juvenile) | 
 | ----| ---- | 
-| Hit Dice:            |13d12+26(110) |
+| Hit Dice:            |13d12+26 (110) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |22 (+12 natural), touch 10, flat_footed 22  |

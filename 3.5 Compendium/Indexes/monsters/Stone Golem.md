@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[stone-golem.png \|100]] | Stone Golem Large Construct | 
 | ----| ---- | 
-| Hit Dice:            |14d10+30(107) |
+| Hit Dice:            |14d10+30 (107) |
 | Initiative:          |-1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |26 (-1 size, -1 Dex, +18 natural), touch 8, flat_footed 26  |

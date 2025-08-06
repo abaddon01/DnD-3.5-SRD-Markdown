@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 | ![[harpy.png \|100]] | Harpy Medium Monstrous (Humanoid) | 
 | ----| ---- | 
-| Hit Dice:            |7d8(31) |
+| Hit Dice:            |7d8 (31) |
 | Initiative:          |2 |
 | Speed:               |20 ft. (4 squares), fly 80 ft. (average) |
 | Armor Class:         |13 (+2 Dex, +1 natural), touch 12, flat_footed 11  |

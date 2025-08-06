@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Greater Stone Golem Huge Construct | 
 | ----| ---- | 
-| Hit Dice:            |42d10+40(271) |
+| Hit Dice:            |42d10+40 (271) |
 | Initiative:          |-2 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |27 (-2 size, -2 Dex, +21 natural), touch 6, flat_footed 27  |

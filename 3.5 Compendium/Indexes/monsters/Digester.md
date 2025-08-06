@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Digester Medium Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |8d10+24(68) |
+| Hit Dice:            |8d10+24 (68) |
 | Initiative:          |6 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |17 (+2 Dex, +5 natural), touch 12, flat_footed 15  |

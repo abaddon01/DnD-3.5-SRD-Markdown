@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Huge Air Elemental Huge Elemental (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |16d8+64(136) |
+| Hit Dice:            |16d8+64 (136) |
 | Initiative:          |13 |
 | Speed:               |Fly 100 ft. (perfect) (20 squares) |
 | Armor Class:         |21 (-2 size, +9 Dex, +4 natural), touch 17, flat_footed 12  |

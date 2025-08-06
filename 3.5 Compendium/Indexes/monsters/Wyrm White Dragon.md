@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrm White Dragon Gargantuan White Dragon(Wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |33d12+231(445) |
+| Hit Dice:            |33d12+231 (445) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 250 ft. (clumsy), swim 60 ft. |
 | Armor Class:         |38 (-4 size, +32 natural), touch 6, flat_footed 38  |

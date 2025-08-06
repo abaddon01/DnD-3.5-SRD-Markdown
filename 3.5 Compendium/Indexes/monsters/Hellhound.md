@@ -23,7 +23,7 @@ alignment: Always lawful evil
 
 |  | Hellhound Medium Outsider (Evil Extraplanar Fire Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+4(22) |
+| Hit Dice:            |4d8+4 (22) |
 | Initiative:          |5 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |16 (+1 Dex, +5 natural), touch 11, flat_footed 15  |

@@ -21,7 +21,7 @@ alignment: Always chaotic neutral
 
 | ![[magmin.png \|100]] | Magmin Small Elemental (Fire Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |2d8+2(11) |
+| Hit Dice:            |2d8+2 (11) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |17 (+1 size, +6 natural), touch 11, flat_footed 17  |

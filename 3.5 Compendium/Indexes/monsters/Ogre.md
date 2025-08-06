@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 | ![[ogre.png \|100]] | Ogre Ogre Large (Giant) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+11(29) |
+| Hit Dice:            |4d8+11 (29) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. in hide armor (6 squares); base speed 40 ft. |
 | Armor Class:         |16 (-1 size, -1 Dex, +5 natural, +3 hide armor), touch 8, flat_footed 16  |

@@ -21,7 +21,7 @@ alignment: Always lawful good
 
 |  | Human Form Werebear Medium Humanoid (Human Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1 plus 6d8+30(62) |
+| Hit Dice:            |1d8+1 plus 6d8+30 (62) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+2 natural, +3 studded leather armor), touch 10, flat_footed 15  |

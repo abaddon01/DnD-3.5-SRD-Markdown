@@ -22,7 +22,7 @@ alignment: Usually chaotic evil
 
 |  | 4th-level Barbarian Ogre Ogre 4th-Level (Barbarian Large Giant) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+19 plus 4d12+16(79) |
+| Hit Dice:            |4d8+19 plus 4d12+16 (79) |
 | Initiative:          |0 |
 | Speed:               |40 ft. in hide armor (8 squares); base speed 50 ft. |
 | Armor Class:         |19 (-1 size, +5 natural, +4 +1 hide armor, ring of protection +1), touch 10, flat_footed 19  |

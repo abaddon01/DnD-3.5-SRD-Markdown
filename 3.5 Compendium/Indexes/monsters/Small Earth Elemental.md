@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Small Earth Elemental Small Elemental (Earth Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |2d8+2(11) |
+| Hit Dice:            |2d8+2 (11) |
 | Initiative:          |-1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |17 (+1 size, -1 Dex, +7 natural), touch 10, flat_footed 17  |

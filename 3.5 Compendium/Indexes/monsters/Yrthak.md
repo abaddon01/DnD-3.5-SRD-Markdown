@@ -20,7 +20,7 @@ alignment: Often neutral
 
 |  | Yrthak Huge Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |12d10+36(102) |
+| Hit Dice:            |12d10+36 (102) |
 | Initiative:          |6 |
 | Speed:               |20 ft. (4 squares), fly 60 ft. (average) |
 | Armor Class:         |18 (-2 size, +2 Dex, +8 natural), touch 10, flat_footed 16  |

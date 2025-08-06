@@ -18,7 +18,7 @@ alignment:
 
 |  | Juvenile Gold Dragon Large Gold Dragon(Juvenile) | 
 | ----| ---- | 
-| Hit Dice:            |17d12+68(178) |
+| Hit Dice:            |17d12+68 (178) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |25 (-1 size, +16 natural), touch 9, flat_footed 25  |

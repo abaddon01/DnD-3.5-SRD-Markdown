@@ -20,7 +20,7 @@ alignment: Often lawful good (Deep: Usually lawful neutral or neutral)
 
 |  | 1st-level Warrior Dwarf Medium Humanoid (Dwarf) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+2(6) |
+| Hit Dice:            |1d8+2 (6) |
 | Initiative:          |0 |
 | Speed:               |20 ft. in scale mail (4 squares); base speed 20 ft. |
 | Armor Class:         |16 (+4 scale mail, +2 heavy shield), touch 10, flat_footed 16  |

@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | 1st-level Warrior Svirfneblin Small Humanoid (Gnome) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+4(8) |
+| Hit Dice:            |1d8+4 (8) |
 | Initiative:          |1 |
 | Speed:               |15 ft. in banded mail armor (3 squares); base speed 20 ft. |
 | Armor Class:         |23 (+1 size, +1 Dex, +4 dodge, +6 banded mail, +1 buckler), touch 16, flat_footed 18  |

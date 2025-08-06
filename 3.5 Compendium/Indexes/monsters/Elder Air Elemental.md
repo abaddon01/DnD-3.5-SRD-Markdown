@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Elder Air Elemental Huge Elemental (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |24d8+96(204) |
+| Hit Dice:            |24d8+96 (204) |
 | Initiative:          |15 |
 | Speed:               |Fly 100 ft. (perfect) (20 squares) |
 | Armor Class:         |27 (-2 size, +11 Dex, +8 natural), touch 19, flat_footed 16  |

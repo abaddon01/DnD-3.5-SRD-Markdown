@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 |  | Howler Large Outsider (Chaotic Evil Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+12(39) |
+| Hit Dice:            |6d8+12 (39) |
 | Initiative:          |7 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |17 (-1 size, +3 Dex, +5 natural), touch 12, flat_footed 14  |

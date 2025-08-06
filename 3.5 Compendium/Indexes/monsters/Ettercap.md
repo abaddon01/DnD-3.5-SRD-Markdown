@@ -18,7 +18,7 @@ alignment: Usually neutral evil
 
 | ![[ettercap.png \|100]] | Ettercap Medium Aberration | 
 | ----| ---- | 
-| Hit Dice:            |5d8+5(27) |
+| Hit Dice:            |5d8+5 (27) |
 | Initiative:          |3 |
 | Speed:               |30 ft. (6 squares), climb 30 ft. |
 | Armor Class:         |14 (+3 Dex, +1 natural), touch 13, flat_footed 11  |

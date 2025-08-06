@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 | ![[imp.png \|100]] | Imp Tiny Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |3d8(13) |
+| Hit Dice:            |3d8 (13) |
 | Initiative:          |3 |
 | Speed:               |20 ft. (4 squares), fly 50 ft. (perfect) |
 | Armor Class:         |20 (+2 size, +3 Dex, +5 natural), touch 15, flat_footed 17  |

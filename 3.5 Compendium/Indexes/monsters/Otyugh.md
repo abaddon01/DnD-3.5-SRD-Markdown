@@ -18,7 +18,7 @@ alignment: Usually neutral
 
 | ![[otyugh.png \|100]] | Otyugh Large Aberration | 
 | ----| ---- | 
-| Hit Dice:            |6d8+9(36) |
+| Hit Dice:            |6d8+9 (36) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |17 (-1 size, +8 natural), touch 9, flat_footed 17  |

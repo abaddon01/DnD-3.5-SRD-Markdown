@@ -21,7 +21,7 @@ alignment: Always lawful neutral
 
 |  | Formian Queen Large Outsider (Lawful Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |20d8+100(190) |
+| Hit Dice:            |20d8+100 (190) |
 | Initiative:          |-5 |
 | Speed:               |0 ft. |
 | Armor Class:         |23 (-1 size, +14 natural), touch 9, flat_footed 23  |

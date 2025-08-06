@@ -18,7 +18,7 @@ alignment: Usually neutral good
 
 | ![[treant.png \|100]] | Treant Huge Plant | 
 | ----| ---- | 
-| Hit Dice:            |7d8+35(66) |
+| Hit Dice:            |7d8+35 (66) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |20 (-2 size, -1 Dex, +13 natural), touch 7, flat_footed 20  |

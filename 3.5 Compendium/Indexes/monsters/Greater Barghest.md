@@ -23,7 +23,7 @@ alignment: Always lawful evil
 
 |  | Greater Barghest Large Outsider (Evil Extraplanar Lawful Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |9d8+27(67) |
+| Hit Dice:            |9d8+27 (67) |
 | Initiative:          |6 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |20 (-1 size, +2 Dex, +9 natural), touch 11, flat_footed 18  |

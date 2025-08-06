@@ -20,7 +20,7 @@ alignment: Usually lawful evil
 
 | ![[manticore.png \|100]] | Manticore Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |6d10+24(57) |
+| Hit Dice:            |6d10+24 (57) |
 | Initiative:          |2 |
 | Speed:               |30 ft. (6 squares), fly 50 ft. (clumsy) |
 | Armor Class:         |17 (-1 size, +2 Dex, +6 natural), touch 11, flat_footed 15  |

@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Small Air Elemental Small Elemental (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |2d8(9) |
+| Hit Dice:            |2d8 (9) |
 | Initiative:          |7 |
 | Speed:               |Fly 100 ft. (perfect) (20 squares) |
 | Armor Class:         |17 (+1 size, +3 Dex, +3 natural), touch 14, flat_footed 14  |

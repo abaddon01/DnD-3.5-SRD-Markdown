@@ -18,7 +18,7 @@ alignment:
 
 | ![[young-blue-dragon.png \|100]] | Young Blue Dragon Medium Blue Dragon(Young) | 
 | ----| ---- | 
-| Hit Dice:            |12d12+24(102) |
+| Hit Dice:            |12d12+24 (102) |
 | Initiative:          |0 |
 | Speed:               |40 ft., burrow 20 ft., fly 150 ft. (poor) |
 | Armor Class:         |21 (+11 natural), touch 10, flat_footed 21  |

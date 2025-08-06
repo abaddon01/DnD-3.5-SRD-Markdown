@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Medium Fire Elemental Medium Elemental (Fire Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+8(26) |
+| Hit Dice:            |4d8+8 (26) |
 | Initiative:          |7 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |16 (+3 Dex, +3 natural), touch 13, flat_footed 13  |

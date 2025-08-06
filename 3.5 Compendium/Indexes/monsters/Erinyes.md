@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 | ![[erinyes.png \|100]] | Erinyes Medium Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |9d8+45(85) |
+| Hit Dice:            |9d8+45 (85) |
 | Initiative:          |5 |
 | Speed:               |30 ft. (6 squares), fly 50 ft. (good) |
 | Armor Class:         |23 (+5 Dex, +8 natural), touch 15, flat_footed 18  |

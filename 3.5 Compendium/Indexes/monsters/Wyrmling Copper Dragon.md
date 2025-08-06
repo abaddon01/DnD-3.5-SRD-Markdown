@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrmling Copper Dragon Tiny Copper Dragon(Wyrmling) | 
 | ----| ---- | 
-| Hit Dice:            |5d12+5(37) |
+| Hit Dice:            |5d12+5 (37) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 100 ft. (average) |
 | Armor Class:         |16 (+2 size, +4 natural), touch 12, flat_footed 16  |

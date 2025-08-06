@@ -20,7 +20,7 @@ alignment: Always chaotic evil
 
 |  | Hieracosphinx Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |9d10+18(67) |
+| Hit Dice:            |9d10+18 (67) |
 | Initiative:          |2 |
 | Speed:               |30 ft. (6 squares), fly 90 ft. (poor) |
 | Armor Class:         |19 (-1 size, +2 Dex, +8 natural), touch 11, flat_footed 17  |

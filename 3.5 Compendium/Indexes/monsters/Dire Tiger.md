@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Tiger Large Animal | 
 | ----| ---- | 
-| Hit Dice:            |16d8+48(120) |
+| Hit Dice:            |16d8+48 (120) |
 | Initiative:          |2 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |17 (-1 size, +2 Dex, +6 natural), touch 11, flat_footed 15  |

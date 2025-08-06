@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[tarrasque.png \|100]] | Tarrasque Colossal Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |48d10+594(858) |
+| Hit Dice:            |48d10+594 (858) |
 | Initiative:          |7 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |35 (-8 size, +3 Dex, +30 natural), touch 5, flat_footed 32  |

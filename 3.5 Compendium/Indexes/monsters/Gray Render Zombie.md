@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Gray Render Zombie Large Undead | 
 | ----| ---- | 
-| Hit Dice:            |20d8+3(133) |
+| Hit Dice:            |20d8+3 (133) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. (6 squares; can’t run) |
 | Armor Class:         |16 (-1 size, -1 Dex, +8 natural), touch 8, flat_footed 16  |

@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Human Commoner Zombie Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |2d12+3(16) |
+| Hit Dice:            |2d12+3 (16) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. (6 squares; can’t run) |
 | Armor Class:         |11 (-1 Dex, +2 natural), touch 9, flat_footed 11  |

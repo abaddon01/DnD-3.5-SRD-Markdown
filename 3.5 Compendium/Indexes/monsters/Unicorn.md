@@ -20,7 +20,7 @@ alignment: Always chaotic good
 
 | ![[unicorn.png \|100]] | Unicorn Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |4d10 + 20(42) |
+| Hit Dice:            |4d10 + 20 (42) |
 | Initiative:          |3 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |18 (-1 size, +3 Dex, +6 natural), touch 12, flat_footed 15  |

@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrmling Red Dragon Medium Red Dragon(Wyrmling) | 
 | ----| ---- | 
-| Hit Dice:            |7d12+14(59) |
+| Hit Dice:            |7d12+14 (59) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |16 (+6 natural), touch 10, flat_footed 16  |

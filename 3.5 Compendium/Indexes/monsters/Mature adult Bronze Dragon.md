@@ -18,7 +18,7 @@ alignment:
 
 |  | Mature adult Bronze Dragon Huge Bronze Dragon(Mature adult) | 
 | ----| ---- | 
-| Hit Dice:            |24d12+120(276) |
+| Hit Dice:            |24d12+120 (276) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |31 (-2 size, +23 natural), touch 8, flat_footed 31  |

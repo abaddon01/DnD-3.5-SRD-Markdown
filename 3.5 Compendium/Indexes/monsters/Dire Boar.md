@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Boar Large Animal | 
 | ----| ---- | 
-| Hit Dice:            |7d8+21(52) |
+| Hit Dice:            |7d8+21 (52) |
 | Initiative:          |0 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |15 (-1 size, +6 natural), touch 9, flat_footed 15  |

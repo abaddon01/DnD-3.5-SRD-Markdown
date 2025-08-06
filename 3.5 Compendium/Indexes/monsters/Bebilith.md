@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 |  | Bebilith Huge Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |12d8+96(150) |
+| Hit Dice:            |12d8+96 (150) |
 | Initiative:          |5 |
 | Speed:               |40 ft. (8 squares), climb 20 ft. |
 | Armor Class:         |22 (-2 size, +1 Dex, +13 natural), touch 9, flat_footed 21  |

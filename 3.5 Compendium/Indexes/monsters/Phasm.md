@@ -20,7 +20,7 @@ alignment: Usually chaotic neutral
 
 |  | Phasm Medium Aberration (Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |15d8+30(97) |
+| Hit Dice:            |15d8+30 (97) |
 | Initiative:          |6 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |17 (+2 Dex, +5 natural), touch 12, flat_footed 15  |

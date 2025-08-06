@@ -18,7 +18,7 @@ alignment:
 
 | ![[adult-gold-dragon.png \|100]] | Adult Gold Dragon Huge Gold Dragon(Adult) | 
 | ----| ---- | 
-| Hit Dice:            |23d12+115(264) |
+| Hit Dice:            |23d12+115 (264) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |30 (-2 size, +22 natural), touch 8, flat_footed 30  |

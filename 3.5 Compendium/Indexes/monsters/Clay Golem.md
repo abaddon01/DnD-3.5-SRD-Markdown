@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[clay-golem.png \|100]] | Clay Golem Large Construct | 
 | ----| ---- | 
-| Hit Dice:            |11d10+30(90) |
+| Hit Dice:            |11d10+30 (90) |
 | Initiative:          |-1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |22 (-1 size, -1 Dex, +14 natural), touch 8, flat_footed 22  |

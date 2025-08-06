@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Huge Animated Object Huge Construct | 
 | ----| ---- | 
-| Hit Dice:            |8d10+40(84) |
+| Hit Dice:            |8d10+40 (84) |
 | Initiative:          |-1 |
 | Speed:               |20 ft. (4 squares); 30 ft. legs, 40 ft. multiple legs, 60 ft. wheels |
 | Armor Class:         |13 (-2 size, -1 Dex, +6 natural), touch 7, flat_footed 13  |

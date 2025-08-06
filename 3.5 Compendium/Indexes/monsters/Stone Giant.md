@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 | ![[stone-giant.png \|100]] | Stone Giant Large Giant (Earth) | 
 | ----| ---- | 
-| Hit Dice:            |14d8+56(119) |
+| Hit Dice:            |14d8+56 (119) |
 | Initiative:          |2 |
 | Speed:               |30 ft. in hide armor (6 squares); base speed 40 ft. |
 | Armor Class:         |25 (-1 size, +2 Dex, +11 natural, +3 hide), touch 11, flat_footed 23  |

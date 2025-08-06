@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Ethereal Marauder Medium Magical (Beast Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |2d10(11) |
+| Hit Dice:            |2d10 (11) |
 | Initiative:          |5 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |14 (+1 Dex, +3 natural), touch 11, flat_footed 13  |

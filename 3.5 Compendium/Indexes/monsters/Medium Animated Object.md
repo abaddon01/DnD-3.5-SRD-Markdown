@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Medium Animated Object Medium Construct | 
 | ----| ---- | 
-| Hit Dice:            |2d10+20(31) |
+| Hit Dice:            |2d10+20 (31) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares); 40 ft. legs, 50 ft. multiple legs, 70 ft. wheels |
 | Armor Class:         |14 (+4 natural), touch 10, flat_footed 14  |

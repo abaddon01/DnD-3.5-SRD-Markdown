@@ -21,7 +21,7 @@ alignment: Always lawful neutral
 
 |  | Formian Taskmaster Medium Outsider (Lawful Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+12(39) |
+| Hit Dice:            |6d8+12 (39) |
 | Initiative:          |7 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |19 (+3 Dex, +6 natural), touch 13, flat_footed 16  |

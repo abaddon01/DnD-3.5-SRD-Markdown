@@ -18,7 +18,7 @@ alignment:
 
 |  | Young adult Copper Dragon Large Copper Dragon(Young adult) | 
 | ----| ---- | 
-| Hit Dice:            |17d12+51(161) |
+| Hit Dice:            |17d12+51 (161) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |25 (-1 size, +16 natural), touch 9, flat_footed 25  |

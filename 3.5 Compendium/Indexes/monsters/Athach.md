@@ -18,7 +18,7 @@ alignment: Often chaotic evil
 
 |  | Athach Huge Aberration | 
 | ----| ---- | 
-| Hit Dice:            |14d8+70(133) |
+| Hit Dice:            |14d8+70 (133) |
 | Initiative:          |1 |
 | Speed:               |35 ft. in hide armor (7 squares); base speed 50 ft. |
 | Armor Class:         |20 (-2 size, +1 Dex, +3 hide armor, +8 natural), touch 9, flat_footed 19  |

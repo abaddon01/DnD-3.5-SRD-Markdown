@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[gorgon.png \|100]] | Gorgon Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |8d10+40(85) |
+| Hit Dice:            |8d10+40 (85) |
 | Initiative:          |4 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |20 (-1 size, +11 natural), touch 9, flat_footed 20  |

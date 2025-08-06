@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 |  | Bearded Devil (barbazu) Medium Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+18(45) |
+| Hit Dice:            |6d8+18 (45) |
 | Initiative:          |6 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |19 (+2 Dex, +7 natural), touch 12, flat_footed 17  |

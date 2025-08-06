@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Water Mephit Small Outsider (Extraplanar Water) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+6(19) |
+| Hit Dice:            |3d8+6 (19) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares), fly 40 ft. (average) , swim 30 ft. |
 | Armor Class:         |16 (+1 size, +5 natural), touch 11, flat_footed 16  |

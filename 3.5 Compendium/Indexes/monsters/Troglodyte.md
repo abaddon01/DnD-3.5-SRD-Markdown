@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 |  | Troglodyte Medium Humanoid (Reptilian) | 
 | ----| ---- | 
-| Hit Dice:            |2d8+4(13) |
+| Hit Dice:            |2d8+4 (13) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (-1 Dex, +6 natural), touch 9, flat_footed 15  |

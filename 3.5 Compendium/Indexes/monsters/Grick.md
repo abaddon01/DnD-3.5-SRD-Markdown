@@ -18,7 +18,7 @@ alignment: Usually neutral
 
 | ![[grick.png \|100]] | Grick Medium Aberration | 
 | ----| ---- | 
-| Hit Dice:            |2d8(9) |
+| Hit Dice:            |2d8 (9) |
 | Initiative:          |2 |
 | Speed:               |30 ft. (6 squares), climb 20 ft. |
 | Armor Class:         |16 (+2 Dex, +4 natural), touch 12, flat_footed 14  |

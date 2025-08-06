@@ -22,7 +22,7 @@ alignment: Always good (any)
 
 |  | Solar Angel Large Outsider (Angel Extraplanar Good) | 
 | ----| ---- | 
-| Hit Dice:            |22d8+110(209) |
+| Hit Dice:            |22d8+110 (209) |
 | Initiative:          |9 |
 | Speed:               |50 ft. (10 squares), fly 150 ft. (good) |
 | Armor Class:         |35 (-1 size, +5 Dex, +21 natural), touch 14, flat_footed 30  |

@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 | ![[lizardfolk.png \|100]] | Lizardfolk Medium Humanoid (Reptilian) | 
 | ----| ---- | 
-| Hit Dice:            |2d8+2(11) |
+| Hit Dice:            |2d8+2 (11) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+5 natural), touch 10, flat_footed 15 or 17  |

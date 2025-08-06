@@ -18,7 +18,7 @@ alignment: Usually neutral
 
 | ![[wyvern.png \|100]] | Wyvern Large Dragon | 
 | ----| ---- | 
-| Hit Dice:            |7d12+14(59) |
+| Hit Dice:            |7d12+14 (59) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares), fly 60 ft. (poor) |
 | Armor Class:         |18 (-1 size, +1 Dex, +8 natural), touch 10, flat_footed 17  |

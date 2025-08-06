@@ -18,7 +18,7 @@ alignment:
 
 |  | Great wyrm Gold Dragon Colossal Gold Dragon(Great wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |41d12+451(717) |
+| Hit Dice:            |41d12+451 (717) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 250 ft. (clumsy), swim 60 ft. |
 | Armor Class:         |42 (-8 size, +40 natural), touch 2, flat_footed 42  |

@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[purple-worm.png \|100]] | Purple Worm Gargantuan Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |16d10+112(200) |
+| Hit Dice:            |16d10+112 (200) |
 | Initiative:          |-2 |
 | Speed:               |20 ft. (4 squares), burrow 20 ft., swim 10 ft. |
 | Armor Class:         |19 (-4 size, -2 Dex, +15 natural), touch 4, flat_footed 19  |

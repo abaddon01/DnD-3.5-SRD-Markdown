@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Locathah Medium Humanoid (Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |2d8(9) |
+| Hit Dice:            |2d8 (9) |
 | Initiative:          |1 |
 | Speed:               |10 ft. (2 squares), swim 60 ft. |
 | Armor Class:         |14 (+1 Dex, +3 natural), touch 11, flat_footed 13  |

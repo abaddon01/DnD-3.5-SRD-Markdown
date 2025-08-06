@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Elder Fire Elemental Huge Elemental (Fire Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |24d8+96(204) |
+| Hit Dice:            |24d8+96 (204) |
 | Initiative:          |13 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |25 (-2 size, +9 Dex, +8 natural), touch 17, flat_footed 16  |

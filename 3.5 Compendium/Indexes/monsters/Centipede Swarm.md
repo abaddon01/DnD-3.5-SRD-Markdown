@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Centipede Swarm Diminutive Vermin (Swarm) | 
 | ----| ---- | 
-| Hit Dice:            |9d8-9(31) |
+| Hit Dice:            |9d8-9 (31) |
 | Initiative:          |4 |
 | Speed:               |20 ft. (4 squares), climb 20 ft. |
 | Armor Class:         |18 (+4 size, +4 Dex), touch 18, flat_footed 14  |

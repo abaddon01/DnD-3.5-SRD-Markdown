@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Nixie Small Fey (Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |1d6(3) |
+| Hit Dice:            |1d6 (3) |
 | Initiative:          |3 |
 | Speed:               |20 ft. (4 squares), swim 30 ft. |
 | Armor Class:         |14 (+1 size, +3 Dex), touch 14, flat_footed 11  |

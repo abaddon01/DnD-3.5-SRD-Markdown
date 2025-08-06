@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 |  | Babau Medium Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+35(66) |
+| Hit Dice:            |7d8+35 (66) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |19 (+1 Dex, +8 natural), touch 11, flat_footed 18  |

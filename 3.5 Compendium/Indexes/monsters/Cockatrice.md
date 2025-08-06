@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[cockatrice.png \|100]] | Cockatrice Small Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |5d10(27) |
+| Hit Dice:            |5d10 (27) |
 | Initiative:          |3 |
 | Speed:               |20 ft. (4 squares), fly 60 ft. (poor) |
 | Armor Class:         |14 (+1 size, +3 Dex), touch 14, flat_footed 11  |

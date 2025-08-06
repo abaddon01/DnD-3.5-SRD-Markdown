@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 |  | Annis Large Monstrous (Humanoid) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+14(45) |
+| Hit Dice:            |7d8+14 (45) |
 | Initiative:          |1 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |20 (-1 size, +1 Dex, +10 natural), touch 10, flat_footed 19  |

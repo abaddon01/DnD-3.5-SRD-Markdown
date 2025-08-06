@@ -18,7 +18,7 @@ alignment:
 
 |  | Very old Bronze Dragon Huge Bronze Dragon(Very old) | 
 | ----| ---- | 
-| Hit Dice:            |30d12+180(375) |
+| Hit Dice:            |30d12+180 (375) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |37 (-2 size, +29 natural), touch 8, flat_footed 37  |

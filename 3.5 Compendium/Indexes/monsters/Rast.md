@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Rast Medium Outsider (Extraplanar Fire) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+7(25) |
+| Hit Dice:            |4d8+7 (25) |
 | Initiative:          |5 |
 | Speed:               |5 ft. (1 square), fly 60 ft. (good) |
 | Armor Class:         |15 (+1 Dex, +4 natural), touch 11, flat_footed 14  |

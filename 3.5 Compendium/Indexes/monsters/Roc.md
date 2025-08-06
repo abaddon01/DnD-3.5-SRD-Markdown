@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[roc.png \|100]] | Roc Gargantuan Animal | 
 | ----| ---- | 
-| Hit Dice:            |18d8+126(207) |
+| Hit Dice:            |18d8+126 (207) |
 | Initiative:          |2 |
 | Speed:               |20 ft. (4 squares), fly 80 ft. (average) |
 | Armor Class:         |17 (-4 size, +2 Dex, +9 natural), touch 8, flat_footed   |

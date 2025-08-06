@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 | ![[glabrezu.png \|100]] | Glabrezu Huge Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |12d8+120(174) |
+| Hit Dice:            |12d8+120 (174) |
 | Initiative:          |0 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |27 (-2 size, +19 natural), touch 8, flat_footed 27  |

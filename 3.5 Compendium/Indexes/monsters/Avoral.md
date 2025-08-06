@@ -21,7 +21,7 @@ alignment: Always neutral good
 
 |  | Avoral Medium Outsider (Extraplanar Good) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+35(66) |
+| Hit Dice:            |7d8+35 (66) |
 | Initiative:          |6 |
 | Speed:               |40 ft. (8 squares), fly 90 ft. (good) |
 | Armor Class:         |24 (+6 Dex, +8 natural), touch 16, flat_footed 18  |

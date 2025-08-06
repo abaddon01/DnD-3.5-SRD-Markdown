@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Tendriculos Huge Plant | 
 | ----| ---- | 
-| Hit Dice:            |9d8+54(94) |
+| Hit Dice:            |9d8+54 (94) |
 | Initiative:          |-1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |16 (-2 size, -1 Dex, +9 natural), touch 7, flat_footed 16  |

@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Adult Arrowhawk Medium Outsider (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+7(38) |
+| Hit Dice:            |7d8+7 (38) |
 | Initiative:          |5 |
 | Speed:               |Fly 60 ft. (perfect) (12 squares) |
 | Armor Class:         |21 (+5 Dex, +6 natural), touch 15, flat_footed 16  |

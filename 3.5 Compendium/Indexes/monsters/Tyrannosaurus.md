@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Tyrannosaurus Huge Animal | 
 | ----| ---- | 
-| Hit Dice:            |18d8+99(180) |
+| Hit Dice:            |18d8+99 (180) |
 | Initiative:          |1 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |14 (-2 size, +1 Dex, +5 natural), touch 9, flat_footed 13  |

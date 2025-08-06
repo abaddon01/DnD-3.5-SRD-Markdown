@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[flesh-golem.png \|100]] | Flesh Golem Large Construct | 
 | ----| ---- | 
-| Hit Dice:            |9d10+30(79) |
+| Hit Dice:            |9d10+30 (79) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |18 (-1 size, -1 Dex, +10 natural), touch 8, flat_footed 18  |

@@ -18,7 +18,7 @@ alignment: Always chaotic evil
 
 | ![[ghoul.png \|100]] | Ghoul Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |2d12(13) |
+| Hit Dice:            |2d12 (13) |
 | Initiative:          |2 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |14 (+2 Dex, +2 natural), touch 12, flat_footed 12  |

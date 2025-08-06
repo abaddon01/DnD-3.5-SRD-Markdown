@@ -20,7 +20,7 @@ alignment: Always lawful good
 
 |  | Lammasu Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |7d10+21(59) |
+| Hit Dice:            |7d10+21 (59) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), fly 60 ft.(average) |
 | Armor Class:         |20 (-1 size, +1 Dex, +10 natural), touch 10, flat_footed 19  |

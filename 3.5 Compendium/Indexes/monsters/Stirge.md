@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[stirge.png \|100]] | Stirge Tiny Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |1d10(5) |
+| Hit Dice:            |1d10 (5) |
 | Initiative:          |4 |
 | Speed:               |10 ft (2 squares), fly 40 ft. (average) |
 | Armor Class:         |16 (+2 size, +4 Dex), touch 16, flat_footed 12  |

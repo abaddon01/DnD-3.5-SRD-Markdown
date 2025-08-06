@@ -18,7 +18,7 @@ alignment:
 
 |  | Young adult Silver Dragon Large Silver Dragon(Young adult) | 
 | ----| ---- | 
-| Hit Dice:            |19d12+76(199) |
+| Hit Dice:            |19d12+76 (199) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |27 (-1 size, +18 natural), touch 9, flat_footed 27  |

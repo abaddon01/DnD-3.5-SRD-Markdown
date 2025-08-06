@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Large Air Elemental Large Elemental (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |8d8+24(60) |
+| Hit Dice:            |8d8+24 (60) |
 | Initiative:          |11 |
 | Speed:               |Fly 100 ft. (perfect) (20 squares) |
 | Armor Class:         |20 (-1 size, +7 Dex, +4 natural), touch 16, flat_footed 13  |

@@ -18,7 +18,7 @@ alignment:
 
 |  | Young adult Brass Dragon Large Brass Dragon(Young adult) | 
 | ----| ---- | 
-| Hit Dice:            |16d12+48(152) |
+| Hit Dice:            |16d12+48 (152) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor) |
 | Armor Class:         |24 (-1 size, +15 natural), touch 9, flat_footed 24  |

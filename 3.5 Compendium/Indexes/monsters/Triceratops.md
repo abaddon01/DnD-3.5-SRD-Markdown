@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Triceratops Huge Animal | 
 | ----| ---- | 
-| Hit Dice:            |16d8+124(196) |
+| Hit Dice:            |16d8+124 (196) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |18 (-2 size, -1 Dex, +11 natural), touch 7, flat_footed 18  |

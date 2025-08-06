@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Ravid Medium Outsider (Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+3(16) |
+| Hit Dice:            |3d8+3 (16) |
 | Initiative:          |4 |
 | Speed:               |20 ft. (4 squares), fly 60 ft. (perfect) |
 | Armor Class:         |25 (+15 natural), touch 10, flat_footed 25  |

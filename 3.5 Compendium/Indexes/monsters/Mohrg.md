@@ -18,7 +18,7 @@ alignment: Always chaotic evil
 
 |  | Mohrg Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |14d12(91) |
+| Hit Dice:            |14d12 (91) |
 | Initiative:          |9 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |23 (+4 Dex, +9 natural), touch 14, flat_footed 14  |

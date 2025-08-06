@@ -18,7 +18,7 @@ alignment: Usually neutral
 
 | ![[shambling-mound.png \|100]] | Shambling Mound Large Plant | 
 | ----| ---- | 
-| Hit Dice:            |8d8+24(60) |
+| Hit Dice:            |8d8+24 (60) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares), swim 20 ft. |
 | Armor Class:         |20 (-1 size, +11 natural), touch 9, flat_footed 20  |

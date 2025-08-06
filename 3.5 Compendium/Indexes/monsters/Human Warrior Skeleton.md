@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Human Warrior Skeleton Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |1d12(6) |
+| Hit Dice:            |1d12 (6) |
 | Initiative:          |5 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+1 Dex, +2 natural, +2 heavy steel shield), touch 11, flat_footed 14  |

@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 | ![[bugbear.png \|100]] | Bugbear Medium Humanoid (Goblinoid) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+3(16) |
+| Hit Dice:            |3d8+3 (16) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |17 (+1 Dex, +3 natural, +2 leather armor, +1 light wooden shield), touch 11, flat_footed 16  |

@@ -21,7 +21,7 @@ alignment: Always lawful neutral
 
 |  | Formian Worker Small Outsider (Lawful Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1(5) |
+| Hit Dice:            |1d8+1 (5) |
 | Initiative:          |2 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |17 (+1 size, +2 Dex, +4 natural), touch 13, flat_footed 15  |

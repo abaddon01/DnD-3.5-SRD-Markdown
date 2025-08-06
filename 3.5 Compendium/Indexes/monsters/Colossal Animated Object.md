@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Colossal Animated Object Colossal Construct | 
 | ----| ---- | 
-| Hit Dice:            |32d10+80(256) |
+| Hit Dice:            |32d10+80 (256) |
 | Initiative:          |-3 |
 | Speed:               |10 ft. (2 squares); 20 ft. legs, 30 ft. multiple legs, 50 ft. wheels |
 | Armor Class:         |11 (-8 size, -3 Dex, +12 natural), touch -1, flat_footed 11  |

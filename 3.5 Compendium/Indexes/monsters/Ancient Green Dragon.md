@@ -18,7 +18,7 @@ alignment:
 
 | ![[ancient-green-dragon.png \|100]] | Ancient Green Dragon Gargantuan Green Dragon(Ancient) | 
 | ----| ---- | 
-| Hit Dice:            |32d12+224(432) |
+| Hit Dice:            |32d12+224 (432) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy), swim 40 ft |
 | Armor Class:         |37 (-4 size, +31 natural), touch 6, flat_footed 37  |

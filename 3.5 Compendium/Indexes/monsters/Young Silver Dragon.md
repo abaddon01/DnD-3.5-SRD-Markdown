@@ -18,7 +18,7 @@ alignment:
 
 | ![[young-silver-dragon.png \|100]] | Young Silver Dragon Medium Silver Dragon(Young) | 
 | ----| ---- | 
-| Hit Dice:            |13d12+26(110) |
+| Hit Dice:            |13d12+26 (110) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |22 (+12 natural), touch 10, flat_footed 22  |

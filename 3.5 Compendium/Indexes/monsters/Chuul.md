@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 | ![[chuul.png \|100]] | Chuul Large Aberration (Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |11d8+44(93) |
+| Hit Dice:            |11d8+44 (93) |
 | Initiative:          |7 |
 | Speed:               |30 ft. (6 squares), swim 20 ft. |
 | Armor Class:         |22 (-1 size, +3 Dex, +10 natural), touch 12, flat_footed 19  |

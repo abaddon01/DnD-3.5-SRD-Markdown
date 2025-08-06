@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Sea Cat Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |6d10+18(51) |
+| Hit Dice:            |6d10+18 (51) |
 | Initiative:          |1 |
 | Speed:               |10 ft. (2 squares), swim 40 ft. |
 | Armor Class:         |18 (-1 size, +1 Dex, +8 natural), touch 10, flat_footed 17  |

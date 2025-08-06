@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Bear Large Animal | 
 | ----| ---- | 
-| Hit Dice:            |12d8+51(105) |
+| Hit Dice:            |12d8+51 (105) |
 | Initiative:          |1 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |17 (-1 size, +1 Dex, +7 natural), touch 10, flat_footed 16  |

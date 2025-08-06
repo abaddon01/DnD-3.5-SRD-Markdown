@@ -22,7 +22,7 @@ alignment: Always good (any)
 
 |  | Planetar Angel Large Outsider (Angel Extraplanar Good) | 
 | ----| ---- | 
-| Hit Dice:            |14d8+70(133) |
+| Hit Dice:            |14d8+70 (133) |
 | Initiative:          |8 |
 | Speed:               |30 ft. (6 squares), fly 90 ft. (good) |
 | Armor Class:         |32 (-1 size, +4 Dex, +19 natural), touch 13, flat_footed 28  |

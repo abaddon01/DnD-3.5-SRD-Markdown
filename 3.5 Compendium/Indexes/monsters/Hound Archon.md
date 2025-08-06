@@ -23,7 +23,7 @@ alignment: Always lawful good
 
 |  | Hound Archon Medium Outsider (Archon Extraplanar Good Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+6(33) |
+| Hit Dice:            |6d8+6 (33) |
 | Initiative:          |4 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |19 (+9 natural), touch 10, flat_footed 19  |

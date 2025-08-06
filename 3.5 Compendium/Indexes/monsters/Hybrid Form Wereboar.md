@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Hybrid Form Wereboar Medium Humanoid (Human Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+4 plus 3d8+12(34) |
+| Hit Dice:            |1d8+4 plus 3d8+12 (34) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |18 (+8 natural), touch 10, flat_footed 18  |

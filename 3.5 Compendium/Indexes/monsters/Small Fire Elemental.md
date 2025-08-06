@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Small Fire Elemental Small Elemental (Fire Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |2d8(9) |
+| Hit Dice:            |2d8 (9) |
 | Initiative:          |5 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |15 (+1 size, +1 Dex, +3 natural), touch 12, flat_footed 14  |

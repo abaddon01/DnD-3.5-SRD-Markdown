@@ -21,7 +21,7 @@ alignment: Always lawful neutral
 
 |  | Formian Myrmarch Large Outsider (Lawful Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |12d8+48(102) |
+| Hit Dice:            |12d8+48 (102) |
 | Initiative:          |8 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |28 (-1 size, +4 Dex, +15 natural), touch 13, flat_footed 24  |

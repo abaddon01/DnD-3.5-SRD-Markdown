@@ -18,7 +18,7 @@ alignment:
 
 |  | Very young Gold Dragon Large Gold Dragon(Very young) | 
 | ----| ---- | 
-| Hit Dice:            |11d12+33(104) |
+| Hit Dice:            |11d12+33 (104) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |19 (-1 size, +10 natural), touch 9, flat_footed 19  |

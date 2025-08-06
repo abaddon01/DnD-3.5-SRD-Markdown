@@ -18,7 +18,7 @@ alignment:
 
 |  | Juvenile White Dragon Medium White Dragon(Juvenile) | 
 | ----| ---- | 
-| Hit Dice:            |12d12+24(102) |
+| Hit Dice:            |12d12+24 (102) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |21 (+11 natural), touch 10, flat_footed 21  |

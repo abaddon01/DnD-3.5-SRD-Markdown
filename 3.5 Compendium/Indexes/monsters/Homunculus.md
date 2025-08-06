@@ -18,7 +18,7 @@ alignment: Any (same as creator)
 
 | ![[homunculus.png \|100]] | Homunculus Tiny Construct | 
 | ----| ---- | 
-| Hit Dice:            |2d10(11) |
+| Hit Dice:            |2d10 (11) |
 | Initiative:          |2 |
 | Speed:               |20 ft. (4 squares), fly 50 ft. (good) |
 | Armor Class:         |14 (+2 Dex, +2 size), touch 14, flat_footed 12  |

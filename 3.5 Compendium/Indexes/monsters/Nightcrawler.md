@@ -20,7 +20,7 @@ alignment: Always chaotic evil
 
 |  | Nightcrawler Gargantuan Undead (Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |25d12+50(212) |
+| Hit Dice:            |25d12+50 (212) |
 | Initiative:          |4 |
 | Speed:               |30 ft. (6 squares), burrow 60 ft. |
 | Armor Class:         |35 (-4 size, +29 natural), touch 6, flat_footed 35  |

@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Troglodyte Zombie Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |4d12+3(29) |
+| Hit Dice:            |4d12+3 (29) |
 | Initiative:          |-2 |
 | Speed:               |30 ft. (6 squares; can’t run) |
 | Armor Class:         |16 (-2 Dex, +8 natural), touch 8, flat_footed 16  |

@@ -18,7 +18,7 @@ alignment:
 
 |  | Great wyrm Bronze Dragon Gargantuan Bronze Dragon(Great wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |39d12+312(565) |
+| Hit Dice:            |39d12+312 (565) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy), swim 60 ft. |
 | Armor Class:         |44 (-4 size, +38 natural), touch 6, flat_footed 44  |

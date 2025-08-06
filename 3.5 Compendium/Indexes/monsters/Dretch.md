@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 | ![[dretch.png \|100]] | Dretch Small Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |2d8+4(13) |
+| Hit Dice:            |2d8+4 (13) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |16 (+1 size, +5 natural), touch 11, flat_footed 16  |

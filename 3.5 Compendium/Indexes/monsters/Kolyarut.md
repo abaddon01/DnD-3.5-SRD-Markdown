@@ -21,7 +21,7 @@ alignment: Always lawful neutral
 
 |  | Kolyarut Medium Construct (Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |13d10+20(91) |
+| Hit Dice:            |13d10+20 (91) |
 | Initiative:          |1 |
 | Speed:               |20 ft. in banded mail (4 squares); base speed 30 ft. |
 | Armor Class:         |27 (+1 Dex, +10 natural, +6 banded mail), touch 11, flat_footed 26  |

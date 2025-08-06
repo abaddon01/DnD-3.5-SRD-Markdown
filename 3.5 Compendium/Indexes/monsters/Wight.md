@@ -18,7 +18,7 @@ alignment: Always lawful evil
 
 | ![[wight.png \|100]] | Wight Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |4d12(26) |
+| Hit Dice:            |4d12 (26) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+1 Dex, +4 natural), touch 11, flat_footed 14  |

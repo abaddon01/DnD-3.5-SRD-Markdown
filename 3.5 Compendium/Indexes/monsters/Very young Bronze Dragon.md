@@ -18,7 +18,7 @@ alignment:
 
 |  | Very young Bronze Dragon Medium Bronze Dragon(Very young) | 
 | ----| ---- | 
-| Hit Dice:            |9d12+18(76) |
+| Hit Dice:            |9d12+18 (76) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |18 (+8 natural), touch 10, flat_footed 18  |

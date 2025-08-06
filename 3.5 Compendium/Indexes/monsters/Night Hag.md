@@ -21,7 +21,7 @@ alignment: Always neutral evil
 
 | ![[night-hag.png \|100]] | Night Hag Medium Outsider (Evil Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |8d8+32(68) |
+| Hit Dice:            |8d8+32 (68) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |22 (+1 Dex, +11 natural), touch 11, flat_footed 21  |

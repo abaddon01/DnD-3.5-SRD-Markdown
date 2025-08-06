@@ -18,7 +18,7 @@ alignment:
 
 |  | Mature adult White Dragon Huge White Dragon(Mature adult) | 
 | ----| ---- | 
-| Hit Dice:            |21d12+105(241) |
+| Hit Dice:            |21d12+105 (241) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |28 (-2 size, +20 natural), touch 8, flat_footed 28  |

@@ -21,7 +21,7 @@ alignment: Usually evil (any)
 
 |  | Flamebrother Salamander Small Outsider (Extraplanar Fire) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+8(26) |
+| Hit Dice:            |4d8+8 (26) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |19 (+1 size, +1 Dex, +7 natural), touch 12, flat_footed 18  |

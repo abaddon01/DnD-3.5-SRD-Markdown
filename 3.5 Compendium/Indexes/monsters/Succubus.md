@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 | ![[succubus.png \|100]] | Succubus Medium Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+6(33) |
+| Hit Dice:            |6d8+6 (33) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), fly 50 ft. (average) |
 | Armor Class:         |20 (+1 Dex, +9 natural), touch 11, flat_footed 19  |

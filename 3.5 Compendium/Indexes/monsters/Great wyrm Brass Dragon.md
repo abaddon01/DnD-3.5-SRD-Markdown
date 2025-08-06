@@ -18,7 +18,7 @@ alignment:
 
 |  | Great wyrm Brass Dragon Gargantuan Brass Dragon(Great wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |37d12+296(536) |
+| Hit Dice:            |37d12+296 (536) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 250 ft. (clumsy) |
 | Armor Class:         |42 (-4 size, +36 natural), touch 6, flat_footed 42  |

@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Wolf Skeleton Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |2d12(13) |
+| Hit Dice:            |2d12 (13) |
 | Initiative:          |7 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |15 (+3 Dex, +2 natural), touch 13, flat_footed 12  |

@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Elder Water Elemental Huge Elemental (Water Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |24d8+120(228) |
+| Hit Dice:            |24d8+120 (228) |
 | Initiative:          |6 |
 | Speed:               |30 ft. (6 squares), swim 120 ft. |
 | Armor Class:         |23 (-2 size, +6 Dex, +9 natural), touch 14, flat_footed 17  |

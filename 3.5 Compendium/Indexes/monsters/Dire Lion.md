@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Lion Large Animal | 
 | ----| ---- | 
-| Hit Dice:            |8d8+24(60) |
+| Hit Dice:            |8d8+24 (60) |
 | Initiative:          |2 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |15 (-1 size, +2 Dex, +4 natural), touch 11, flat_footed 13  |

@@ -18,7 +18,7 @@ alignment: Always neutral good
 
 | ![[pseudodragon.png \|100]] | Pseudodragon Tiny Dragon | 
 | ----| ---- | 
-| Hit Dice:            |2d12+2(15) |
+| Hit Dice:            |2d12+2 (15) |
 | Initiative:          |2 |
 | Speed:               |15 ft. (3 squares), fly 60 ft. (good) |
 | Armor Class:         |18 (+2 size, +2 Dex, +4 natural), touch 14, flat_footed 16  |

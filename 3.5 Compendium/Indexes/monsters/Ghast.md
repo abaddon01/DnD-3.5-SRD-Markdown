@@ -18,7 +18,7 @@ alignment: Always chaotic evil
 
 | ![[ghast.png \|100]] | Ghast Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |4d12+3(29) |
+| Hit Dice:            |4d12+3 (29) |
 | Initiative:          |3 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |17 (+3 Dex, +4 natural), touch 12, flat_footed 14  |

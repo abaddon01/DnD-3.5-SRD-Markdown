@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[shrieker.png \|100]] | Shrieker Medium Plant | 
 | ----| ---- | 
-| Hit Dice:            |2d8+2(11) |
+| Hit Dice:            |2d8+2 (11) |
 | Initiative:          |-5 |
 | Speed:               |0 ft. |
 | Armor Class:         |8 (-5 Dex, +3 natural), touch 5, flat_footed 8  |

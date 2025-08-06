@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 |  | Bone Devil (osyluth) Large Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |10d8+50(95) |
+| Hit Dice:            |10d8+50 (95) |
 | Initiative:          |9 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |25 (-1 size, +5 Dex, +11 natural), touch 14, flat_footed 20  |

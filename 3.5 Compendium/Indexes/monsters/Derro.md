@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 |  | Derro Small Monstrous (Humanoid) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+3(16) |
+| Hit Dice:            |3d8+3 (16) |
 | Initiative:          |6 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |19 (+1 size, +2 Dex, +2 natural, +3 studded leather armor, +1 buckler), touch 13, flat_footed 17  |

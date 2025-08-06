@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[ankheg.png \|100]] | Ankheg Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |3d10+12(28) |
+| Hit Dice:            |3d10+12 (28) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares), burrow 20 ft. |
 | Armor Class:         |18 (-1 size, +9 natural), touch 9, flat_footed 18  |

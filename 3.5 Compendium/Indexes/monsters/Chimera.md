@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 | ![[chimera.png \|100]] | Chimera Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |9d10+27(76) |
+| Hit Dice:            |9d10+27 (76) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), fly 50 ft. (poor) |
 | Armor Class:         |19 (-1 size, +1 Dex, +9 natural), touch 10, flat_footed 18  |

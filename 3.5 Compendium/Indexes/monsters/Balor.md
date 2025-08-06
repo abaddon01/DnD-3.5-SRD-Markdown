@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 | ![[balor.png \|100]] | Balor Large Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |20d8+200(290) |
+| Hit Dice:            |20d8+200 (290) |
 | Initiative:          |11 |
 | Speed:               |40 ft. (8 squares), fly 90 ft. (good) |
 | Armor Class:         |35 (-1 size, +7 Dex, +19 natural), touch 16, flat_footed 28  |

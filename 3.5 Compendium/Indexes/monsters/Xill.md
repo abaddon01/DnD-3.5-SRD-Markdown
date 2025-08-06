@@ -20,7 +20,7 @@ alignment: Always lawful evil
 
 |  | Xill Medium Outsider (Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |5d8+10(32) |
+| Hit Dice:            |5d8+10 (32) |
 | Initiative:          |7 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |20 (+3 Dex, +7 natural), touch 13, flat_footed 17  |

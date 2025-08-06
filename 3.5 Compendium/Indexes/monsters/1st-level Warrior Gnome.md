@@ -20,7 +20,7 @@ alignment: Usually neutral good
 
 |  | 1st-level Warrior Gnome Small Humanoid (Gnome) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+2(6) |
+| Hit Dice:            |1d8+2 (6) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |16 (+1 size, +4 chain shirt, +1 light shield), touch 11, flat_footed 16  |

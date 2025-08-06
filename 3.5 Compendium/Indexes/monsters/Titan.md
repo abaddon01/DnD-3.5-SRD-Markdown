@@ -21,7 +21,7 @@ alignment: Always chaotic (any)
 
 |  | Titan Huge Outsider (Chaotic Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |20d8+280(370) |
+| Hit Dice:            |20d8+280 (370) |
 | Initiative:          |1 |
 | Speed:               |40 ft. in half-plate armor (8 squares); base speed 60 ft. |
 | Armor Class:         |38 (-2 size, +19 natural, +11 +4 half-plate armor), touch 8, flat_footed 38  |

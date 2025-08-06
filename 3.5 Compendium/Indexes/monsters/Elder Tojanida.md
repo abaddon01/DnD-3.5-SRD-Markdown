@@ -21,7 +21,7 @@ alignment: Always neutral
 
 |  | Elder Tojanida Large Outsider (Extraplanar Water) | 
 | ----| ---- | 
-| Hit Dice:            |15d8+60(127) |
+| Hit Dice:            |15d8+60 (127) |
 | Initiative:          |1 |
 | Speed:               |10 ft. (2 squares), swim 90 ft. |
 | Armor Class:         |24 (-1 size, +1 Dex, +14 natural), touch 10, flat_footed 23  |

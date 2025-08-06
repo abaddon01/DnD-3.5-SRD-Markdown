@@ -18,7 +18,7 @@ alignment:
 
 |  | Very old Black Dragon Huge Black Dragon(Very old) | 
 | ----| ---- | 
-| Hit Dice:            |28d12+168(350) |
+| Hit Dice:            |28d12+168 (350) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |35 (-2 size,+27 natural), touch 8, flat_footed 35  |

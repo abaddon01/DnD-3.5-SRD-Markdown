@@ -23,7 +23,7 @@ alignment: Usually lawful evil
 
 | ![[kobold.png \|100]] | Kobold Kobold 1st-Level (Warrior Small Humanoid Reptilian) | 
 | ----| ---- | 
-| Hit Dice:            |1d8(4) |
+| Hit Dice:            |1d8 (4) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+1 size, +1 Dex, +1 natural, +2 leather), touch 12, flat_footed 14  |

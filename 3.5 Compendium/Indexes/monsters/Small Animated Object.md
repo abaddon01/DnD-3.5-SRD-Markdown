@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Small Animated Object Small Construct | 
 | ----| ---- | 
-| Hit Dice:            |1d10+10(15) |
+| Hit Dice:            |1d10+10 (15) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares); 40 ft. legs, 50 ft. multiple legs, 70 ft. wheels |
 | Armor Class:         |14 (+1 size, +1 Dex, +2 natural), touch 12, flat_footed 13  |

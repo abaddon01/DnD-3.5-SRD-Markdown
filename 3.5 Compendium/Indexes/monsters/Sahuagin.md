@@ -21,7 +21,7 @@ alignment: Usually lawful evil
 
 | ![[sahuagin.png \|100]] | Sahuagin Medium Monstrous (Humanoid Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |2d8+2(11) |
+| Hit Dice:            |2d8+2 (11) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), swim 60 ft. |
 | Armor Class:         |16 (+1 Dex, +5 natural), touch 11, flat_footed 15  |

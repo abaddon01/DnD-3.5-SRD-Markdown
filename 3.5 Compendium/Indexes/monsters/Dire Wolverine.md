@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Wolverine Large Animal | 
 | ----| ---- | 
-| Hit Dice:            |5d8+23(45) |
+| Hit Dice:            |5d8+23 (45) |
 | Initiative:          |3 |
 | Speed:               |30 ft. (6 squares), climb 10 ft. |
 | Armor Class:         |16 (-1 size, +3 Dex, +4 natural), touch 12, flat_footed 13  |

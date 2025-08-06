@@ -20,7 +20,7 @@ alignment: Usually chaotic good
 
 | ![[pegasus.png \|100]] | Pegasus Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |4d10+12(34) |
+| Hit Dice:            |4d10+12 (34) |
 | Initiative:          |2 |
 | Speed:               |60 ft. (12 squares), fly 120 ft. (average) |
 | Armor Class:         |14 (-1 size, +2 Dex, +3 natural), touch 11, flat_footed 12  |

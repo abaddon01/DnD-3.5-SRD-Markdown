@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[ochre-jelly.png \|100]] | Ochre Jelly Large Ooze | 
 | ----| ---- | 
-| Hit Dice:            |6d10+36(69) |
+| Hit Dice:            |6d10+36 (69) |
 | Initiative:          |-5 |
 | Speed:               |10 ft. (2 squares), climb 10 ft. |
 | Armor Class:         |4 (-1 size, -5 Dex), touch 4, flat_footed 4  |

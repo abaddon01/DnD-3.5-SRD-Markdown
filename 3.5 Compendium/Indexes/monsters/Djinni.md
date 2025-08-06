@@ -21,7 +21,7 @@ alignment: Always chaotic good
 
 | ![[djinni.png \|100]] | Djinni Large Outsider (Air Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+14(45) |
+| Hit Dice:            |7d8+14 (45) |
 | Initiative:          |8 |
 | Speed:               |20 ft. (4 squares), fly 60 ft. (perfect) |
 | Armor Class:         |16 (-1 size, +4 Dex, +3 natural), touch 13, flat_footed 12  |

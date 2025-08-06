@@ -20,7 +20,7 @@ alignment: Always lawful evil
 
 | ![[rakshasa.png \|100]] | Rakshasa Medium Outsider (Native) | 
 | ----| ---- | 
-| Hit Dice:            |7d8+21(52) |
+| Hit Dice:            |7d8+21 (52) |
 | Initiative:          |2 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |21 (+2 Dex, +9 natural), touch 12, flat_footed 19  |

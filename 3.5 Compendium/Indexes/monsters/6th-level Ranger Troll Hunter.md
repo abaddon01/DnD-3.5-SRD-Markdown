@@ -18,7 +18,7 @@ alignment: Usually chaotic evil
 
 |  | 6th-level Ranger Troll Hunter Large Giant | 
 | ----| ---- | 
-| Hit Dice:            |6d8+6d8+72(130) |
+| Hit Dice:            |6d8+6d8+72 (130) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |21 (-1 size, +1 Dex, +6 natural, +5 +1 chain shirt), touch 10, flat_footed 20  |

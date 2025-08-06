@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 | ![[vrock.png \|100]] | Vrock Large Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |10d8+70(115) |
+| Hit Dice:            |10d8+70 (115) |
 | Initiative:          |2 |
 | Speed:               |30 ft. (6 squares), fly 50 ft. (average) |
 | Armor Class:         |22 (-1 size, +2 Dex, +11 natural), touch 11, flat_footed 20  |

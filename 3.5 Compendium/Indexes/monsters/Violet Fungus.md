@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[violet-fungus.png \|100]] | Violet Fungus Medium Plant | 
 | ----| ---- | 
-| Hit Dice:            |2d8+6(15) |
+| Hit Dice:            |2d8+6 (15) |
 | Initiative:          |-1 |
 | Speed:               |10 ft. (2 squares) |
 | Armor Class:         |13 (-1 Dex, +4 natural), touch 9, flat_footed 13  |

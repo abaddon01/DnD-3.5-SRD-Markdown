@@ -18,7 +18,7 @@ alignment:
 
 |  | Old Gold Dragon Gargantuan Gold Dragon(Old) | 
 | ----| ---- | 
-| Hit Dice:            |29d12+203(391) |
+| Hit Dice:            |29d12+203 (391) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 250 ft. (clumsy), swim 60 ft. |
 | Armor Class:         |34 (-4 size, +28 natural), touch 6, flat_footed 34  |

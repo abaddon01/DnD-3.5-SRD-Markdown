@@ -21,7 +21,7 @@ alignment: Always neutral evil
 
 | ![[nightmare.png \|100]] | Nightmare Large Outsider (Evil Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+18(45) |
+| Hit Dice:            |6d8+18 (45) |
 | Initiative:          |6 |
 | Speed:               |40 ft. (8 squares), fly 90 ft. (good) |
 | Armor Class:         |24 (-1 size, +2 Dex, +13 natural), touch 11, flat_footed 22  |

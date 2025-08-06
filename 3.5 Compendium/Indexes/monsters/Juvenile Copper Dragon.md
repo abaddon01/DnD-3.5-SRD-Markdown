@@ -18,7 +18,7 @@ alignment:
 
 |  | Juvenile Copper Dragon Medium Copper Dragon(Juvenile) | 
 | ----| ---- | 
-| Hit Dice:            |14d12+28(119) |
+| Hit Dice:            |14d12+28 (119) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |23 (+13 natural), touch 10, flat_footed 23  |

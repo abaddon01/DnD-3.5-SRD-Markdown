@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 | ![[roper.png \|100]] | Roper Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |10d10+30(85) |
+| Hit Dice:            |10d10+30 (85) |
 | Initiative:          |5 |
 | Speed:               |10 ft. (2 squares) |
 | Armor Class:         |24 (-1 size, +1 Dex, +14 natural), touch 10, flat_footed 23  |

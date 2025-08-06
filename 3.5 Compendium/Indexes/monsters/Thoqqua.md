@@ -22,7 +22,7 @@ alignment: Usually neutral
 
 |  | Thoqqua Medium Elemental (Earth Extraplanar Fire) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+3(16) |
+| Hit Dice:            |3d8+3 (16) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), burrow 20 ft. |
 | Armor Class:         |18 (+1 Dex, +7 natural), touch 11, flat_footed 17  |

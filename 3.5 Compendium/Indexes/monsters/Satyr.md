@@ -18,7 +18,7 @@ alignment: Usually chaotic neutral
 
 | ![[satyr.png \|100]] | Satyr Medium Fey | 
 | ----| ---- | 
-| Hit Dice:            |5d6+5(22) |
+| Hit Dice:            |5d6+5 (22) |
 | Initiative:          |1 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |15 (+1 Dex, +4 natural), touch 11, flat_footed 14  |

@@ -22,7 +22,7 @@ alignment: Always chaotic evil
 
 | ![[marilith.png \|100]] | Marilith Large Outsider (Chaotic Extraplanar Evil) | 
 | ----| ---- | 
-| Hit Dice:            |16d8+144(216) |
+| Hit Dice:            |16d8+144 (216) |
 | Initiative:          |4 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |29 (-1 size, +4 Dex, +16 natural), touch 13, flat_footed 25  |

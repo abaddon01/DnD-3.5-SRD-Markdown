@@ -21,7 +21,7 @@ alignment: Usually chaotic evil
 
 | ![[sea-hag.png \|100]] | Sea Hag Medium Monstrous (Humanoid Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |3d8+6(19) |
+| Hit Dice:            |3d8+6 (19) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares), swim 40 ft. |
 | Armor Class:         |14 (+1 Dex, +3 natural), touch 11, flat_footed 13  |

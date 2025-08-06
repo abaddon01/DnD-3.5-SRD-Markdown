@@ -18,7 +18,7 @@ alignment:
 
 |  | Old White Dragon Huge White Dragon(Old) | 
 | ----| ---- | 
-| Hit Dice:            |24d12+120(276) |
+| Hit Dice:            |24d12+120 (276) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |31 (-2 size, +23 natural), touch 8, flat_footed 31  |

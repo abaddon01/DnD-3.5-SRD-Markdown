@@ -18,7 +18,7 @@ alignment:
 
 | ![[young-black-dragon.png \|100]] | Young Black Dragon Medium Black Dragon(Young) | 
 | ----| ---- | 
-| Hit Dice:            |10d12+20(85) |
+| Hit Dice:            |10d12+20 (85) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |19 (+9 natural), touch 10, flat_footed 19  |

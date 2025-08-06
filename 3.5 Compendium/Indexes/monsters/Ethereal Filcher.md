@@ -18,7 +18,7 @@ alignment: Usually neutral
 
 |  | Ethereal Filcher Medium Aberration | 
 | ----| ---- | 
-| Hit Dice:            |5d8(22) |
+| Hit Dice:            |5d8 (22) |
 | Initiative:          |8 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |17 (+4 Dex, +3 natural), touch 14, flat_footed 13  |

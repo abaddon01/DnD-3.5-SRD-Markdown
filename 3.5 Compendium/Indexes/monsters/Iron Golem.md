@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[iron-golem.png \|100]] | Iron Golem Large Construct | 
 | ----| ---- | 
-| Hit Dice:            |18d10+30(129) |
+| Hit Dice:            |18d10+30 (129) |
 | Initiative:          |-1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |30 (-1 size, -1 Dex, +22 natural), touch 8, flat_footed 30  |

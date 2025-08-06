@@ -18,7 +18,7 @@ alignment: Usually lawful evil
 
 |  | Dark Naga Large Aberration | 
 | ----| ---- | 
-| Hit Dice:            |9d8+18(58) |
+| Hit Dice:            |9d8+18 (58) |
 | Initiative:          |2 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |14 (-1 size, +2 Dex, +3 natural), touch 11, flat_footed 12  |

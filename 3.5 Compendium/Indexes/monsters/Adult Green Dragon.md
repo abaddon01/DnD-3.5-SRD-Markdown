@@ -18,7 +18,7 @@ alignment:
 
 | ![[adult-green-dragon.png \|100]] | Adult Green Dragon Huge Green Dragon(Adult) | 
 | ----| ---- | 
-| Hit Dice:            |20d12+100(230) |
+| Hit Dice:            |20d12+100 (230) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor), swim 40 ft |
 | Armor Class:         |27 (-2 size, +19 natural), touch 8, flat_footed 27  |

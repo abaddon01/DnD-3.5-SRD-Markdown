@@ -18,7 +18,7 @@ alignment: Usually chaotic evil
 
 | ![[ettin.png \|100]] | Ettin Large Giant | 
 | ----| ---- | 
-| Hit Dice:            |10d8+20(65) |
+| Hit Dice:            |10d8+20 (65) |
 | Initiative:          |3 |
 | Speed:               |30 ft. in hide armor (6 squares); base speed 40 ft. |
 | Armor Class:         |18 (-1 size, -1 Dex, +7 natural, +3 hide), touch 8, flat_footed 18  |

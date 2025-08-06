@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 |  | Dire Rat Form Wererat Small Humanoid (Human Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1 plus 1d8+2(12) |
+| Hit Dice:            |1d8+1 plus 1d8+2 (12) |
 | Initiative:          |3 |
 | Speed:               |40 ft. (8 squares), climb 20 ft. |
 | Armor Class:         |17 (+1 size, +3 Dex, +3 natural), touch 14, flat_footed 14  |

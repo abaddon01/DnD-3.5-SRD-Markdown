@@ -21,7 +21,7 @@ alignment: Always neutral
 
 | ![[basilisk.png \|100]] | Basilisk Basilisk Medium (Magical Beast) | 
 | ----| ---- | 
-| Hit Dice:            |6d10+12(45) |
+| Hit Dice:            |6d10+12 (45) |
 | Initiative:          |-1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |16 (-1 Dex, +7 natural), touch 9, flat_footed 16  |

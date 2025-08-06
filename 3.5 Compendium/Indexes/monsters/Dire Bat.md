@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Bat Large Animal | 
 | ----| ---- | 
-| Hit Dice:            |4d8+12(30) |
+| Hit Dice:            |4d8+12 (30) |
 | Initiative:          |6 |
 | Speed:               |20 ft. (4 squares), fly 40 ft. (good) |
 | Armor Class:         |20 (-1 size, +6 Dex, +5 natural), touch 15, flat_footed 14  |

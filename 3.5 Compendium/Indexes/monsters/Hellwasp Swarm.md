@@ -23,7 +23,7 @@ alignment: Always lawful evil
 
 |  | Hellwasp Swarm Diminutive Magical (Beast Extraplanar Evil Swarm) | 
 | ----| ---- | 
-| Hit Dice:            |12d10+27(93) |
+| Hit Dice:            |12d10+27 (93) |
 | Initiative:          |10 |
 | Speed:               |5 ft. (1 square), fly 40 ft. (Good) |
 | Armor Class:         |20 (+4 size, +6 Dex), touch 20, flat_footed 14  |

@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Assassin Vine Large Plant | 
 | ----| ---- | 
-| Hit Dice:            |4d8+12(30) |
+| Hit Dice:            |4d8+12 (30) |
 | Initiative:          |0 |
 | Speed:               |5 ft. (1 square) |
 | Armor Class:         |15 (-1 size, +6 natural), touch 9, flat_footed 15  |

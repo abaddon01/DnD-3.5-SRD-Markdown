@@ -20,7 +20,7 @@ alignment: Usually neutral good
 
 | ![[giant-owl.png \|100]] | Giant Owl Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |4d10+4(26) |
+| Hit Dice:            |4d10+4 (26) |
 | Initiative:          |3 |
 | Speed:               |10 ft. (2 squares), fly 70 ft. (average) |
 | Armor Class:         |15 (-1 size, +3 Dex, +3 natural), touch 12, flat_footed 12  |

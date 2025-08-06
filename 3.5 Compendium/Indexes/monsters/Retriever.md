@@ -20,7 +20,7 @@ alignment: Always chaotic evil
 
 |  | Retriever Huge Construct (Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |10d10+80(135) |
+| Hit Dice:            |10d10+80 (135) |
 | Initiative:          |3 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |21 (-2 size, +3 Dex, +10 natural), touch 11, flat_footed 18  |

@@ -20,7 +20,7 @@ alignment: Always chaotic evil
 
 |  | 8th-level Blackguard Frost Giant Jarl Large Giant (Cold) | 
 | ----| ---- | 
-| Hit Dice:            |14d8+84 plus 8d10+48(231) |
+| Hit Dice:            |14d8+84 plus 8d10+48 (231) |
 | Initiative:          |5 |
 | Speed:               |30 ft. in +2 full plate armor (6 squares); base speed 40 ft. |
 | Armor Class:         |29 (-1 size, +1 Dex, +9 natural, +10 +2 full plate armor), touch 10, flat_footed 28  |

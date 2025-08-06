@@ -21,7 +21,7 @@ alignment: Always neutral evil
 
 |  | Vargouille Small Outsider (Evil Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1(5) |
+| Hit Dice:            |1d8+1 (5) |
 | Initiative:          |1 |
 | Speed:               |Fly 30 ft. (good) (6 squares) |
 | Armor Class:         |12 (+1 size, +1 Dex), touch 11, flat_footed 11  |

@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Large Water Elemental Large Elemental (Water Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |8d8+32(68) |
+| Hit Dice:            |8d8+32 (68) |
 | Initiative:          |2 |
 | Speed:               |20 ft. (4 squares), swim 90 ft. |
 | Armor Class:         |20 (-1 size, +2 Dex, +9 natural), touch 11, flat_footed 18  |

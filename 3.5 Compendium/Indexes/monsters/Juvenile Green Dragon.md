@@ -18,7 +18,7 @@ alignment:
 
 |  | Juvenile Green Dragon Large Green Dragon(Juvenile) | 
 | ----| ---- | 
-| Hit Dice:            |14d12+42(133) |
+| Hit Dice:            |14d12+42 (133) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor), swim 40 ft |
 | Armor Class:         |22 (-1 size, +13 natural), touch 9, flat_footed 22  |

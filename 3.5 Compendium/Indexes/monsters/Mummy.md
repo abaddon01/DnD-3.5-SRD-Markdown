@@ -18,7 +18,7 @@ alignment: Usually lawful evil
 
 | ![[mummy.png \|100]] | Mummy Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |8d12+3(55) |
+| Hit Dice:            |8d12+3 (55) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |20 (+10 natural), touch 10, flat_footed 20  |

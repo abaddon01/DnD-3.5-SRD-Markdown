@@ -20,7 +20,7 @@ alignment: Usually neutral evil
 
 |  | 1st-level Warrior Drow Medium Humanoid (Elf) | 
 | ----| ---- | 
-| Hit Dice:            |1d8(4) |
+| Hit Dice:            |1d8 (4) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |16 (+1 Dex, +4 chain shirt, +1 light shield), touch 11, flat_footed 15  |

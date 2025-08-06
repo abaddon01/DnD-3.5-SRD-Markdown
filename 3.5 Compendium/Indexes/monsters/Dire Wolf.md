@@ -18,7 +18,7 @@ alignment: Always neutral
 
 | ![[dire-wolf.png \|100]] | Dire Wolf Large Animal | 
 | ----| ---- | 
-| Hit Dice:            |6d8+18(45) |
+| Hit Dice:            |6d8+18 (45) |
 | Initiative:          |2 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |14 (-1 size, +2 Dex, +3 natural), touch 11, flat_footed 12  |

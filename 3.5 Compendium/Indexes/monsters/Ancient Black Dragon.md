@@ -18,7 +18,7 @@ alignment:
 
 | ![[ancient-black-dragon.png \|100]] | Ancient Black Dragon Huge Black Dragon(Ancient) | 
 | ----| ---- | 
-| Hit Dice:            |31d12+186(387) |
+| Hit Dice:            |31d12+186 (387) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |38 (-2 size,+30 natural), touch 8, flat_footed 38  |

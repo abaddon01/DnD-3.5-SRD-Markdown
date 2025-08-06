@@ -18,7 +18,7 @@ alignment: Usually neutral
 
 | ![[gibbering-mouther.png \|100]] | Gibbering Mouther Medium Aberration | 
 | ----| ---- | 
-| Hit Dice:            |4d8+24(42) |
+| Hit Dice:            |4d8+24 (42) |
 | Initiative:          |1 |
 | Speed:               |10 ft. (2 squares), swim 20 ft. |
 | Armor Class:         |19 (+1 Dex, +8 natural), touch 11, flat_footed 18  |

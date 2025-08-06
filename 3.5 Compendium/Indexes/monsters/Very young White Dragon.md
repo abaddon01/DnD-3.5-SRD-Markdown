@@ -18,7 +18,7 @@ alignment:
 
 |  | Very young White Dragon Small White Dragon(Very young) | 
 | ----| ---- | 
-| Hit Dice:            |6d12+6(45) |
+| Hit Dice:            |6d12+6 (45) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 150 ft. (average), swim 60 ft. |
 | Armor Class:         |16 (+1 size, +5 natural), touch 11, flat_footed 16  |

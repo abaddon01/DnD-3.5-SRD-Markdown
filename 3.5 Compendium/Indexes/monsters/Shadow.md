@@ -20,7 +20,7 @@ alignment: Always chaotic evil
 
 | ![[shadow.png \|100]] | Shadow Medium Undead (Incorporeal) | 
 | ----| ---- | 
-| Hit Dice:            |3d12(19) |
+| Hit Dice:            |3d12 (19) |
 | Initiative:          |2 |
 | Speed:               |Fly 30 ft. (good) (8 squares) |
 | Armor Class:         |13 (+2 Dex, +1 deflection), touch 13, flat_footed 11  |

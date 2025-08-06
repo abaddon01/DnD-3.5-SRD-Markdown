@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 |  | Human Form Wererat Medium Humanoid (Human Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1 plus 1d8+2(12) |
+| Hit Dice:            |1d8+1 plus 1d8+2 (12) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+2 natural, +2 leather, +1 buckler), touch 10, flat_footed 15  |

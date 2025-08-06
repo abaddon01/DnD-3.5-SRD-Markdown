@@ -20,7 +20,7 @@ alignment: Usually chaotic good (Wood: Usually neutral)
 
 |  | 1st-level Warrior Elf Medium Humanoid (Elf) | 
 | ----| ---- | 
-| Hit Dice:            |1d8(4) |
+| Hit Dice:            |1d8 (4) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat_footed 14  |

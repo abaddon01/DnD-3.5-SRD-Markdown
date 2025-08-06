@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Medium Earth Elemental Medium Elemental (Earth Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+12(30) |
+| Hit Dice:            |4d8+12 (30) |
 | Initiative:          |-1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |18 (-1 Dex, +9 natural), touch 9, flat_footed 18  |

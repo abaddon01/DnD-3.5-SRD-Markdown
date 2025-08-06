@@ -21,7 +21,7 @@ alignment: Always lawful neutral
 
 |  | Formian Warrior Medium Outsider (Lawful Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |4d8+8(26) |
+| Hit Dice:            |4d8+8 (26) |
 | Initiative:          |3 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |18 (+3 Dex, +5 natural), touch 13, flat_footed 15  |

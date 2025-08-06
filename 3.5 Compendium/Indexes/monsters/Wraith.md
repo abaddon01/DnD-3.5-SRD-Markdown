@@ -20,7 +20,7 @@ alignment: Always lawful evil
 
 | ![[wraith.png \|100]] | Wraith Medium Undead (Incorporeal) | 
 | ----| ---- | 
-| Hit Dice:            |5d12(32) |
+| Hit Dice:            |5d12 (32) |
 | Initiative:          |7 |
 | Speed:               |Fly 60 ft. (good) (12 squares) |
 | Armor Class:         |15 (+3 Dex, +2 deflection), touch 15, flat_footed 12  |

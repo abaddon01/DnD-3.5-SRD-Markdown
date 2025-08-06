@@ -18,7 +18,7 @@ alignment:
 
 | ![[ancient-blue-dragon.png \|100]] | Ancient Blue Dragon Gargantuan Blue Dragon(Ancient) | 
 | ----| ---- | 
-| Hit Dice:            |33d12+231(445) |
+| Hit Dice:            |33d12+231 (445) |
 | Initiative:          |0 |
 | Speed:               |40 ft., burrow 20 ft., fly 200 ft. (clumsy) |
 | Armor Class:         |38 (-4 size, +32 natural), touch 6, flat_footed 38  |

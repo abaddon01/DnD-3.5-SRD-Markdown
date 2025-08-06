@@ -18,7 +18,7 @@ alignment:
 
 |  | Very old Brass Dragon Huge Brass Dragon(Very old) | 
 | ----| ---- | 
-| Hit Dice:            |28d12+168(350) |
+| Hit Dice:            |28d12+168 (350) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor) |
 | Armor Class:         |35 (-2 size, +27 natural), touch 8, flat_footed 35 DR  |

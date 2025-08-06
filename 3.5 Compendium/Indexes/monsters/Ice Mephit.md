@@ -22,7 +22,7 @@ alignment: Usually neutral
 
 | ![[ice-mephit.png \|100]] | Ice Mephit Small Outsider (Air Cold Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |3d8(13) |
+| Hit Dice:            |3d8 (13) |
 | Initiative:          |7 |
 | Speed:               |30 ft. (6 squares), fly 50 ft. (perfect) |
 | Armor Class:         |18 (+1 size, +3 Dex, +4 natural), touch 14, flat_footed 15  |

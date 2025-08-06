@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 |  | Barbed Devil (hamatula) Medium Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |12d8+72(126) |
+| Hit Dice:            |12d8+72 (126) |
 | Initiative:          |6 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |29 (+6 Dex, +13 natural), touch 16, flat_footed 23  |

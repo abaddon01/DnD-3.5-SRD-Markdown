@@ -18,7 +18,7 @@ alignment:
 
 |  | Very old Red Dragon Gargantuan Red Dragon(Very old) | 
 | ----| ---- | 
-| Hit Dice:            |31d12+248(449) |
+| Hit Dice:            |31d12+248 (449) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy) |
 | Armor Class:         |36 (-4 size, +30 natural), touch 6, flat_footed 36  |

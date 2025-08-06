@@ -21,7 +21,7 @@ alignment: Always neutral good
 
 |  | Leonal Medium Outsider (Extraplanar Good) | 
 | ----| ---- | 
-| Hit Dice:            |12d8+60(114) |
+| Hit Dice:            |12d8+60 (114) |
 | Initiative:          |3 |
 | Speed:               |60 ft. (12 squares) |
 | Armor Class:         |27 (+3 Dex, +14 natural), touch 27 (+3 Dex, +14 natural), flat_footed 27 (+3 Dex, +14 natural)  |

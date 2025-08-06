@@ -20,7 +20,7 @@ alignment: Always neutral
 
 |  | Dire Shark Huge Animal (Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |18d8+66(147) |
+| Hit Dice:            |18d8+66 (147) |
 | Initiative:          |2 |
 | Speed:               |Swim 60 ft. (12 squares) |
 | Armor Class:         |17 (-2 size, +2 Dex, +7 natural), touch 10, flat_footed 15  |

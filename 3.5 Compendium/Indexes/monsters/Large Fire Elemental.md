@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Large Fire Elemental Large Elemental (Fire Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |8d8+24(60) |
+| Hit Dice:            |8d8+24 (60) |
 | Initiative:          |9 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |18 (-1 size, +5 Dex, +4 natural), touch 14, flat_footed 13  |

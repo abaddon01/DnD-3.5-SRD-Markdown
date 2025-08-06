@@ -18,7 +18,7 @@ alignment: Usually neutral
 
 |  | Delver Huge Aberration | 
 | ----| ---- | 
-| Hit Dice:            |15d8+78(145) |
+| Hit Dice:            |15d8+78 (145) |
 | Initiative:          |5 |
 | Speed:               |30 ft. (6 squares), burrow 10 ft. |
 | Armor Class:         |24 (-2 size, +1 Dex, +15 natural), touch 9, flat_footed 23  |

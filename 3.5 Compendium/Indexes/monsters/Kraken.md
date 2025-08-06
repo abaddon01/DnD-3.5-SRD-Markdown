@@ -21,7 +21,7 @@ alignment: Usually neutral evil
 
 | ![[kraken.png \|100]] | Kraken Gargantuan Magical (Beast Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |20d10+180(290) |
+| Hit Dice:            |20d10+180 (290) |
 | Initiative:          |4 |
 | Speed:               |Swim 20 ft. (4 squares) |
 | Armor Class:         |20 (-4 size, +14 natural), touch 6, flat_footed 20  |

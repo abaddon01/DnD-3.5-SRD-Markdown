@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Elder Xorn Large Outsider (Extraplanar Earth) | 
 | ----| ---- | 
-| Hit Dice:            |15d8+63(130) |
+| Hit Dice:            |15d8+63 (130) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares), burrow 20 ft. |
 | Armor Class:         |25 (-1 size, +16 natural), touch 9, flat_footed 25  |

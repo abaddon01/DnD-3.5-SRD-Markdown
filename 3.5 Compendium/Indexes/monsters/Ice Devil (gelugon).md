@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 |  | Ice Devil (gelugon) Large Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |14d8+84(147) |
+| Hit Dice:            |14d8+84 (147) |
 | Initiative:          |5 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |32 (-1 size, +5 Dex, +18 natural), touch 14, flat_footed 27  |

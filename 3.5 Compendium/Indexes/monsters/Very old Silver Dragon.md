@@ -18,7 +18,7 @@ alignment:
 
 |  | Very old Silver Dragon Huge Silver Dragon(Very old) | 
 | ----| ---- | 
-| Hit Dice:            |31d12+186(387) |
+| Hit Dice:            |31d12+186 (387) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |38 (-2 size, +30 natural), touch 8, flat_footed 38  |

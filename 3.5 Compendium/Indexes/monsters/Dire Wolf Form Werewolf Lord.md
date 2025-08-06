@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 |  | Dire Wolf Form Werewolf Lord Large Humanoid (Human Shapechanger) | 
 | ----| ---- | 
-| Hit Dice:            |10d10+20 plus 6d8+30(132) |
+| Hit Dice:            |10d10+20 plus 6d8+30 (132) |
 | Initiative:          |4 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |19 (-1 size, +4 Dex, +6 natural), touch 13, flat_footed 15  |

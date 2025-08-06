@@ -23,7 +23,7 @@ alignment: Always lawful evil
 
 |  | Nessian Warhound Large Outsider (Evil Extraplanar Fire Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |12d8+60(114) |
+| Hit Dice:            |12d8+60 (114) |
 | Initiative:          |6 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |24 (-1 size, +2 Dex, +7 natural, +6 +2 chain shirt barding), touch 11, flat_footed 22  |

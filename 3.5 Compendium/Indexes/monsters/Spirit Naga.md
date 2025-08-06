@@ -18,7 +18,7 @@ alignment: Usually chaotic evil
 
 | ![[spirit-naga.png \|100]] | Spirit Naga Large Aberration | 
 | ----| ---- | 
-| Hit Dice:            |9d8+36(76) |
+| Hit Dice:            |9d8+36 (76) |
 | Initiative:          |1 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |16 (-1 size, +1 Dex, +6 natural), touch 10, flat_footed 15  |

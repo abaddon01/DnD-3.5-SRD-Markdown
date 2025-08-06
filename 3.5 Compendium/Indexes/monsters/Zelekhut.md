@@ -21,7 +21,7 @@ alignment: Always lawful neutral
 
 |  | Zelekhut Large Construct (Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |8d10+30(74) |
+| Hit Dice:            |8d10+30 (74) |
 | Initiative:          |0 |
 | Speed:               |35 ft. in plate barding (7 squares), fly 40 ft. (average) in plate barding (8 squares); base speed 50 ft., fly 60 ft. (average) |
 | Armor Class:         |27 (-1 size, +10 natural, +8 plate barding), touch 9, flat_footed 27  |

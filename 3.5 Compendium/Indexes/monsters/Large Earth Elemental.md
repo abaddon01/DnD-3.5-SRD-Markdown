@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Large Earth Elemental Large Elemental (Earth Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |8d8+32(68) |
+| Hit Dice:            |8d8+32 (68) |
 | Initiative:          |-1 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |18 (-1 size, -1 Dex, +10 natural), touch 8, flat_footed 18  |

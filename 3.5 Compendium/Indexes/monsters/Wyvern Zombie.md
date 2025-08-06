@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Wyvern Zombie Large Undead | 
 | ----| ---- | 
-| Hit Dice:            |14d12+3(94) |
+| Hit Dice:            |14d12+3 (94) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares; can’t run), fly 60 ft. (poor) |
 | Armor Class:         |20 (-2 size, +12 natural), touch 8, flat_footed 20  |

@@ -18,7 +18,7 @@ alignment: Often chaotic evil
 
 | ![[hill-giant.png \|100]] | Hill Giant Large Giant | 
 | ----| ---- | 
-| Hit Dice:            |12d8+48(102) |
+| Hit Dice:            |12d8+48 (102) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. in hide armor (6 squares); base speed 40 ft. |
 | Armor Class:         |20 (-1 size, -1 Dex, +9 natural, +3 hide armor), touch 8, flat_footed 20  |

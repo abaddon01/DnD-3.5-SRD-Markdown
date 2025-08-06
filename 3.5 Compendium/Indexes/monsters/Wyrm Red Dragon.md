@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrm Red Dragon Gargantuan Red Dragon(Wyrm) | 
 | ----| ---- | 
-| Hit Dice:            |37d12+370(610) |
+| Hit Dice:            |37d12+370 (610) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 200 ft. (clumsy) |
 | Armor Class:         |42 (-4 size, +36 natural), touch 6, flat_footed 42  |

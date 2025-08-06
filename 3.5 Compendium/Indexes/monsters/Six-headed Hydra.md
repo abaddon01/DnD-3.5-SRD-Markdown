@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Six-headed Hydra Huge Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |6d10+33(66) |
+| Hit Dice:            |6d10+33 (66) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares), swim 20 ft. |
 | Armor Class:         |16 (-2 size, +1 Dex, +7 natural), touch 9, flat_footed 15  |

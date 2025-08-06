@@ -18,14 +18,14 @@ alignment:
 
 | ![[fire-elemental.png \|100]] | Fire Elemental   | 
 | ----| ---- | 
-| Hit Dice:            |(0) |
+| Hit Dice:            | (0) |
 | Initiative:          |0 |
 | Speed:               | |
 | Armor Class:         |, touch , flat_footed   |
 | Base Attack/Grapple: | |
 | Attack:              |; |
 | Full Attack:         |; |
-| Space/Reach:         |null |
+| Space/Reach:         | |
 | Special Attacks:     | |
 | Special Qualities    | |
 | Saves:               | |

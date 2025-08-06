@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrmling Blue Dragon Small Blue Dragon(Wyrmling) | 
 | ----| ---- | 
-| Hit Dice:            |6d12+6(45) |
+| Hit Dice:            |6d12+6 (45) |
 | Initiative:          |0 |
 | Speed:               |40 ft., burrow 20 ft., fly 100 ft. (average) |
 | Armor Class:         |16 (+1 size, +5 natural), touch 11, flat_footed 16  |

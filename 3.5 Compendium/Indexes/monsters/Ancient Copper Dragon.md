@@ -18,7 +18,7 @@ alignment:
 
 | ![[ancient-copper-dragon.png \|100]] | Ancient Copper Dragon Huge Copper Dragon(Ancient) | 
 | ----| ---- | 
-| Hit Dice:            |32d12+192(400) |
+| Hit Dice:            |32d12+192 (400) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |39 (-2 size, +31 natural), touch 8, flat_footed 39  |

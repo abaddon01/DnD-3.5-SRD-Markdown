@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Dire Weasel Medium Animal | 
 | ----| ---- | 
-| Hit Dice:            |3d8(13) |
+| Hit Dice:            |3d8 (13) |
 | Initiative:          |4 |
 | Speed:               |40 ft. (8 squares) |
 | Armor Class:         |16 (+4 Dex, +2 natural), touch 14, flat_footed 12  |

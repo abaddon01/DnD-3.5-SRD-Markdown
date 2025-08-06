@@ -18,7 +18,7 @@ alignment: Always neutral
 
 |  | Large Animated Object Large Construct | 
 | ----| ---- | 
-| Hit Dice:            |4d10+30(52) |
+| Hit Dice:            |4d10+30 (52) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares); 30 ft. legs, 40 ft. multiple legs, 60 ft. wheels |
 | Armor Class:         |14 (-1 size, +5 natural), touch 9, flat_footed 14  |

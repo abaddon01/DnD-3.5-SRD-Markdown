@@ -20,7 +20,7 @@ alignment: Usually lawful evil
 
 | ![[aboleth.png \|100]] | Aboleth Huge Aberration (Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |8d8+40(76) |
+| Hit Dice:            |8d8+40 (76) |
 | Initiative:          |1 |
 | Speed:               |10 ft. (2 squares), swim 60 ft. |
 | Armor Class:         |16 (-2 size, +1 Dex, +7 natural), touch 9, flat_footed 15  |

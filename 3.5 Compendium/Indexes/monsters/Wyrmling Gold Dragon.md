@@ -18,7 +18,7 @@ alignment:
 
 |  | Wyrmling Gold Dragon Medium Gold Dragon(Wyrmling) | 
 | ----| ---- | 
-| Hit Dice:            |8d12+16(68) |
+| Hit Dice:            |8d12+16 (68) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |17 (+7 natural), touch 10, flat_footed 17  |

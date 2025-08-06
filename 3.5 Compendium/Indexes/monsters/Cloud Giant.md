@@ -20,7 +20,7 @@ alignment: Usually neutral good or neutral evil
 
 | ![[cloud-giant.png \|100]] | Cloud Giant Huge Giant (Air) | 
 | ----| ---- | 
-| Hit Dice:            |17d8+102(178) |
+| Hit Dice:            |17d8+102 (178) |
 | Initiative:          |1 |
 | Speed:               |50 ft. (10 squares) |
 | Armor Class:         |25 (-2 size, +1 Dex, +12 natural, +4 chain shirt), touch 9, flat_footed 24  |

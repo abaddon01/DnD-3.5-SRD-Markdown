@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 |  | Greater Earth Elemental Huge Elemental (Earth Extraplanar) | 
 | ----| ---- | 
-| Hit Dice:            |21d8+105(199) |
+| Hit Dice:            |21d8+105 (199) |
 | Initiative:          |-1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |20 (-2 size, -1 Dex, +13 natural), touch 7, flat_footed 20  |

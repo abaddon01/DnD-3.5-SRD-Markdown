@@ -18,7 +18,7 @@ alignment:
 
 |  | Very young Black Dragon Small Black Dragon(Very young) | 
 | ----| ---- | 
-| Hit Dice:            |7d12+7(52) |
+| Hit Dice:            |7d12+7 (52) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 100 ft. (average), swim 60 ft. |
 | Armor Class:         |17 (+1 size,+6 natural), touch 11, flat_footed 17  |

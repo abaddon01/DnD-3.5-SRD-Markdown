@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Dragonne Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |9d10+27(76) |
+| Hit Dice:            |9d10+27 (76) |
 | Initiative:          |6 |
 | Speed:               |40 ft. (8 squares), fly 30 ft. (poor) |
 | Armor Class:         |18 (-1 size, +2 Dex, +7 natural), touch 11, flat_footed 16  |

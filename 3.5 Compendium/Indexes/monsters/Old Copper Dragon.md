@@ -18,7 +18,7 @@ alignment:
 
 |  | Old Copper Dragon Huge Copper Dragon(Old) | 
 | ----| ---- | 
-| Hit Dice:            |26d12+130(299) |
+| Hit Dice:            |26d12+130 (299) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor) |
 | Armor Class:         |33 (-2 size, +25 natural), touch 8, flat_footed 33  |

@@ -23,7 +23,7 @@ alignment: Always lawful good
 
 |  | Trumpet Archon Medium Outsider (Archon Extraplanar Good Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |12d8+72(126) |
+| Hit Dice:            |12d8+72 (126) |
 | Initiative:          |7 |
 | Speed:               |40 ft. (8 squares), fly 90 ft. (good) |
 | Armor Class:         |27 (+3 Dex, +14 natural), touch 13, flat_footed 24  |

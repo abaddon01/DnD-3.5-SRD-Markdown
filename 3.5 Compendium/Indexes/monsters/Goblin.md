@@ -23,7 +23,7 @@ alignment: Usually neutral evil
 
 | ![[goblin.png \|100]] | Goblin Goblin 1st-Level (Warrior Small Humanoid Goblinoid) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1(5) |
+| Hit Dice:            |1d8+1 (5) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+1 size, +1 Dex, +2 leather armor, +1 light shield), touch 12, flat_footed 14  |

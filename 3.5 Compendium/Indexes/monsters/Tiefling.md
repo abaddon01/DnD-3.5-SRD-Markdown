@@ -23,7 +23,7 @@ alignment: Usually evil (any)
 
 |  | Tiefling Tiefling 1st-Level (Warrior Medium Outsider Native) | 
 | ----| ---- | 
-| Hit Dice:            |1d8+1(5) |
+| Hit Dice:            |1d8+1 (5) |
 | Initiative:          |1 |
 | Speed:               |30 ft. (6 squares) |
 | Armor Class:         |15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat_footed 14  |

@@ -18,7 +18,7 @@ alignment:
 
 | ![[young-white-dragon.png \|100]] | Young White Dragon Medium White Dragon(Young) | 
 | ----| ---- | 
-| Hit Dice:            |9d12+18(76) |
+| Hit Dice:            |9d12+18 (76) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |18 (+8 natural), touch 10, flat_footed 18  |

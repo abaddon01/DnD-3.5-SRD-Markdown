@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 |  | Twelve-headed Hydra Huge Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |12d10+63(129) |
+| Hit Dice:            |12d10+63 (129) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares), swim 20 ft. |
 | Armor Class:         |22 (-2 size, +1 Dex, +13 natural), touch 9, flat_footed 21  |

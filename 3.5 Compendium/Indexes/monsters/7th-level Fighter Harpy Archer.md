@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 |  | 7th-level Fighter Harpy Archer Medium Monstrous (Humanoid) | 
 | ----| ---- | 
-| Hit Dice:            |7d8 + 7d10 + 28(103) |
+| Hit Dice:            |7d8 + 7d10 + 28 (103) |
 | Initiative:          |9 |
 | Speed:               |20 ft. (4 squares), fly 80 ft. (average) |
 | Armor Class:         |23 (+5 Dex, +1 natural, +6 +3 studded leather, +1 ring of protection +1), touch 16, flat_footed 18  |

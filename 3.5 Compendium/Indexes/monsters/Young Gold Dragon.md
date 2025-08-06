@@ -18,7 +18,7 @@ alignment:
 
 | ![[young-gold-dragon.png \|100]] | Young Gold Dragon Large Gold Dragon(Young) | 
 | ----| ---- | 
-| Hit Dice:            |14d12+42(133) |
+| Hit Dice:            |14d12+42 (133) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 200 ft. (poor), swim 60 ft. |
 | Armor Class:         |22 (-1 size, +13 natural), touch 9, flat_footed 22  |

@@ -23,7 +23,7 @@ alignment: Always lawful good
 
 |  | Lantern Archon Small Outsider (Archon Extraplanar Good Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |1d8(4) |
+| Hit Dice:            |1d8 (4) |
 | Initiative:          |4 |
 | Speed:               |Fly 60 ft. (perfect) (12 squares) |
 | Armor Class:         |15 (+1 size, +4 natural), touch 11, flat_footed 15  |

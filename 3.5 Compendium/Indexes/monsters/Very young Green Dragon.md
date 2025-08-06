@@ -18,7 +18,7 @@ alignment:
 
 |  | Very young Green Dragon Medium Green Dragon(Very young) | 
 | ----| ---- | 
-| Hit Dice:            |8d12+16(68) |
+| Hit Dice:            |8d12+16 (68) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor), swim 40 ft |
 | Armor Class:         |17 (+7 natural), touch 10, flat_footed 17  |

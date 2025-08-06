@@ -20,7 +20,7 @@ alignment: Usually lawful evil
 
 |  | Skum Medium Aberration (Aquatic) | 
 | ----| ---- | 
-| Hit Dice:            |2d8+2(11) |
+| Hit Dice:            |2d8+2 (11) |
 | Initiative:          |1 |
 | Speed:               |20 ft. (4 squares), swim 40 ft. |
 | Armor Class:         |13 (+1 Dex, +2 natural), touch 11, flat_footed 12  |

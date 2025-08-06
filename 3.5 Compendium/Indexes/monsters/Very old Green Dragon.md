@@ -18,7 +18,7 @@ alignment:
 
 |  | Very old Green Dragon Huge Green Dragon(Very old) | 
 | ----| ---- | 
-| Hit Dice:            |29d12+174(362) |
+| Hit Dice:            |29d12+174 (362) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor), swim 40 ft |
 | Armor Class:         |36 (-2 size, +28 natural), touch 8, flat_footed 36  |

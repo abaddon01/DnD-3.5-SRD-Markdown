@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 | ![[lemure.png \|100]] | Lemure Medium Outsider (Evil Extraplanar Lawful) | 
 | ----| ---- | 
-| Hit Dice:            |2d8(9) |
+| Hit Dice:            |2d8 (9) |
 | Initiative:          |0 |
 | Speed:               |20 ft. (4 squares) |
 | Armor Class:         |14 (+4 natural), touch 10, flat_footed 14  |

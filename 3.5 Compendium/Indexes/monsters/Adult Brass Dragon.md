@@ -18,7 +18,7 @@ alignment:
 
 | ![[adult-brass-dragon.png \|100]] | Adult Brass Dragon Large Brass Dragon(Adult) | 
 | ----| ---- | 
-| Hit Dice:            |19d12+76(199) |
+| Hit Dice:            |19d12+76 (199) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor) |
 | Armor Class:         |27 (-1 size, +18 natural), touch 9, flat_footed 27  |

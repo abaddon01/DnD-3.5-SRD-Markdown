@@ -18,7 +18,7 @@ alignment: Often chaotic good
 
 | ![[storm-giant.png \|100]] | Storm Giant Huge Giant | 
 | ----| ---- | 
-| Hit Dice:            |19d8+114(199) |
+| Hit Dice:            |19d8+114 (199) |
 | Initiative:          |2 |
 | Speed:               |35 ft. (7 squares), swim 30 ft. (6 squares) in breastplate; base speed 50 ft., swim 40 ft. |
 | Armor Class:         |27 (-2 size, +2 Dex, +12 natural, +5 breastplate), touch 10, flat_footed 25  |

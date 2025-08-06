@@ -18,7 +18,7 @@ alignment:
 
 |  | Juvenile Brass Dragon Medium Brass Dragon(Juvenile) | 
 | ----| ---- | 
-| Hit Dice:            |13d12+26(110) |
+| Hit Dice:            |13d12+26 (110) |
 | Initiative:          |0 |
 | Speed:               |60 ft., burrow 30 ft., fly 200 ft. (poor) |
 | Armor Class:         |22 (+12 natural), touch 10, flat_footed 22  |

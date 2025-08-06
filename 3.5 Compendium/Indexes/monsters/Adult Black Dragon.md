@@ -18,7 +18,7 @@ alignment:
 
 | ![[adult-black-dragon.png \|100]] | Adult Black Dragon Large Black Dragon(Adult) | 
 | ----| ---- | 
-| Hit Dice:            |19d12+76(199) |
+| Hit Dice:            |19d12+76 (199) |
 | Initiative:          |0 |
 | Speed:               |60 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |27 (-1 size,+18 natural), touch 9, flat_footed 27  |

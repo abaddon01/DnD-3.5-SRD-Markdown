@@ -20,7 +20,7 @@ alignment: Always neutral
 
 | ![[griffon.png \|100]] | Griffon Large Magical (Beast) | 
 | ----| ---- | 
-| Hit Dice:            |7d10+21(59) |
+| Hit Dice:            |7d10+21 (59) |
 | Initiative:          |2 |
 | Speed:               |30 ft. (6 squares), fly 80 ft. (average) |
 | Armor Class:         |17 (-1 size, +2 Dex, +6 natural), touch 11, flat_footed 15  |

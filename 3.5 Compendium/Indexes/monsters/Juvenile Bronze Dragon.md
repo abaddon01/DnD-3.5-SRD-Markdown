@@ -18,7 +18,7 @@ alignment:
 
 |  | Juvenile Bronze Dragon Large Bronze Dragon(Juvenile) | 
 | ----| ---- | 
-| Hit Dice:            |15d12+45(142) |
+| Hit Dice:            |15d12+45 (142) |
 | Initiative:          |0 |
 | Speed:               |40 ft., fly 150 ft. (poor), swim 60 ft. |
 | Armor Class:         |23 (-1 size, +14 natural), touch 9, flat_footed 23  |

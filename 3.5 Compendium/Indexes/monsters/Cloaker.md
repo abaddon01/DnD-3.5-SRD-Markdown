@@ -18,7 +18,7 @@ alignment: Usually chaotic neutral
 
 | ![[cloaker.png \|100]] | Cloaker Large Aberration | 
 | ----| ---- | 
-| Hit Dice:            |6d8+18(45) |
+| Hit Dice:            |6d8+18 (45) |
 | Initiative:          |7 |
 | Speed:               |10 ft. (2 squares), fly 40 ft. (average) |
 | Armor Class:         |19 (-1 size, +3 Dex, +7 natural), touch 12, flat_footed 16  |

@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Bugbear Zombie Medium Undead | 
 | ----| ---- | 
-| Hit Dice:            |6d12+3(42) |
+| Hit Dice:            |6d12+3 (42) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares; can’t run) |
 | Armor Class:         |16 (+5 natural, +1 light wooden shield), touch 10, flat_footed 16  |

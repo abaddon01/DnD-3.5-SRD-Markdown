@@ -18,7 +18,7 @@ alignment:
 
 | ![[adult-blue-dragon.png \|100]] | Adult Blue Dragon Huge Blue Dragon(Adult) | 
 | ----| ---- | 
-| Hit Dice:            |21d12+105(241) |
+| Hit Dice:            |21d12+105 (241) |
 | Initiative:          |0 |
 | Speed:               |40 ft., burrow 20 ft., fly 150 ft. (poor) |
 | Armor Class:         |28 (-2 size, +20 natural), touch 8, flat_footed 28  |

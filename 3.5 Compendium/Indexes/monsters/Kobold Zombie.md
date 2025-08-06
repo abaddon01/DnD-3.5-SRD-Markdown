@@ -18,7 +18,7 @@ alignment: Always neutral evil
 
 |  | Kobold Zombie Small Undead | 
 | ----| ---- | 
-| Hit Dice:            |2d12+3(16) |
+| Hit Dice:            |2d12+3 (16) |
 | Initiative:          |0 |
 | Speed:               |30 ft. (6 squares; can’t run) |
 | Armor Class:         |13 (+1 size, +2 natural), touch 11, flat_footed 13  |

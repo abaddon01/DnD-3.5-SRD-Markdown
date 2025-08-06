@@ -22,7 +22,7 @@ alignment: Always chaotic good
 
 |  | Bralani Medium Outsider (Chaotic Extraplanar Good) | 
 | ----| ---- | 
-| Hit Dice:            |6d8+18(45) |
+| Hit Dice:            |6d8+18 (45) |
 | Initiative:          |8 |
 | Speed:               |40 ft. (8 squares), fly 100 ft. (perfect) |
 | Armor Class:         |20 (+4 Dex, +6 natural), touch 14, flat_footed 16  |
