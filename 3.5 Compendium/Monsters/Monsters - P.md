@@ -28,7 +28,7 @@ tags:
 | Full Attack: | 2 hooves +7 melee (1d6+4) and bite +2 melee (1d3+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , Spell-like Abilities; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , Spell-like Abilities; | 
 | Saves: | Fort +7, Ref +6, Will +4 | 
 | Abilities: | Str 18, Dex 15, Con 16, Int 10, Wis 13, Cha 13 | 
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Listen\|Listen]] +8, [[Skill List#Sense Motive\|Sense Motive]] +9, [[Skill List#Spot\|Spot]] +8; | 
@@ -77,7 +77,7 @@ A light load for a pegasus is up to 300 pounds; a medium load, 301--600 pounds; 
 | Full Attack: | Bite +3 melee (1d6+3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#invisibility\|Invisibility]] , Greater; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#invisibility\|Invisibility]] , Greater; | 
 | Saves: | Fort +6, Ref +0, Will +0 | 
 | Abilities: | Str 14, Dex 10, Con 16, Int 2, Wis 11, Cha 9 | 
 | Skills: | [[Skill List#Listen\|Listen]] +4, [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Spot\|Spot]] +4; | 
@@ -116,7 +116,7 @@ A phantom fungus has a +5 racial bonus on Move Silently checks.
 | Full Attack: | Bite +7 melee (1d6+4 plus poison) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Poison | 
-| Special Qualitiy: | Darkvision 60 ft., ethereal jaunt, low-light vision | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Ethereal Jaunt, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +7, Ref +7, Will +2 | 
 | Abilities: | Str 17, Dex 17, Con 16, Int 7, Wis 13, Cha 10 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11, [[Skill List#Move Silently\|Move Silently]] +11, [[Skill List#Spot\|Spot]] +4; | 
@@ -162,7 +162,7 @@ A phase spider has a +8 racial bonus on Climb checks and can always choose to ta
 | Full Attack: | Slam +12 melee (1d3+1) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | Alternate Form, Amorphous, Resilient, [[Special Abilities#scent\|Scent]] , Telepathy 100 Ft., [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
+| Special Qualities | Alternate Form, Amorphous, Resilient, [[Special Abilities#scent\|Scent]] , [[Special Abilities#telepathy\|Telepathy]]  100 Ft., [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
 | Saves: | Fort +11, Ref +11, Will +11 | 
 | Abilities: | Str 12, Dex 15, Con 15, Int 16, Wis 15, Cha 14 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +20, [[Skill List#Climb\|Climb]] +7, [[Skill List#Craft\|Craft]] (any One) +12, [[Skill List#Diplomacy\|Diplomacy]] +12, [[Skill List#Disguise\|Disguise]] +20 (+22 Acting)\*, [[Skill List#Intimidate\|Intimidate]] +4, [[Skill List#Knowledge\|Knowledge]] (any One) +18, [[Skill List#Listen\|Listen]] +12, [[Skill List#Spot\|Spot]] +12, [[Skill List#Survival\|Survival]] +8; | 
@@ -190,7 +190,8 @@ A phasm in its natural form has immunity to poison, *sleep,* paralysis, polymorp
 #### Resilient (Ex)
 A phasm has a +4 racial bonus on Fortitude and Reflex saves (included in the statistics block). 
 
-Alternate Form (Su): A phasm can assume any form of Large size or smaller as a standard action. This ability functions as a *polymorph* spell cast on itself (caster level 15th), except that the phasm does not regain hit points for changing form. A phasm can remain in its alternate form until it chooses to assume a new one or return to its natural form. 
+#### Alternate Form (Su)
+A phasm can assume any form of Large size or smaller as a standard action. This ability functions as a *polymorph* spell cast on itself  (caster level 15th), except that the phasm does not regain hit points for  changing form. A phasm can remain in its alternate form until it chooses  to assume a new one or return to its natural form. 
 
 #### Tremorsense (Ex)
 A phasm can automatically sense the location of anything within 60 feet that is in contact with the ground, so long as it is touching the ground itself. 
@@ -222,7 +223,7 @@ The two planetouched varieties described here are the most common. Aasimars are 
 | Full Attack: | Longsword +2 melee (1d8+1/19--20) or light crossbow +1 ranged (1d8/19--20) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Daylight | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Resistance To Acid 5, Cold 5, And Electricity 5; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 5, Cold 5, And Electricity 5; | 
 | Saves: | Fort +3, Ref +0, Will +0 | 
 | Abilities: | Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 10 | 
 | Skills: | [[Skill List#Heal\|Heal]] +4, [[Skill List#Knowledge\|Knowledge]] (religion) +1, [[Skill List#Listen\|Listen]] +3, [[Skill List#Ride\|Ride]] +1, [[Skill List#Spot\|Spot]] +3; | 
@@ -297,7 +298,7 @@ Sylvan.
 | Full Attack: | Rapier +3 melee (1d6+1/18--20) or light crossbow +2 ranged (1d8/19--20) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Darkness | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Resistance To Cold 5, Electricity 5, And Fire 5; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 5, Electricity 5, And Fire 5; | 
 | Saves: | Fort +3, Ref +1, Will --1 | 
 | Abilities: | Str 13, Dex 13, Con 12, Int 12, Wis 9, Cha 6 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +4, [[Skill List#Hide\|Hide]] +5, [[Skill List#Move Silently\|Move Silently]] +1, [[Skill List#Sleight Of Hand\|Sleight Of Hand]] +1; | 
@@ -367,7 +368,7 @@ Dwarven, Elven, Gnome, Goblin, Halfling, Orc.
 | Full Attack: | Sting +4 melee (1d3--2 plus poison) and bite --1 melee (1) | 
 | Space/Reach: | 2-1/2 ft./0 ft. (5 ft. with tail) | 
 | Special Attacks: | Poison | 
-| Special Qualities: | Blindsense 60 Ft., [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#paralysis\|Immunity To *sleep* And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  19, Telepathy 60 Ft.; | 
+| Special Qualities | Blindsense 60 Ft., [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#paralysis\|Immunity To *sleep* And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  19, [[Special Abilities#telepathy\|Telepathy]]  60 Ft.; | 
 | Saves: | Fort +4, Ref +5, Will +4 | 
 | Abilities: | Str 6, Dex 15, Con 13, Int 10, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +2, [[Skill List#Hide\|Hide]] +20\*, [[Skill List#Listen\|Listen]] +7, [[Skill List#Search\|Search]] +6, [[Skill List#Sense Motive\|Sense Motive]] +7, [[Skill List#Spot\|Spot]] +7, [[Skill List#Survival\|Survival]] +1 (+3 Following Tracks); | 
@@ -414,7 +415,7 @@ Pseudodragons have a chameleonlike ability that grants them a +4 racial bonus on
 | Full Attack: | Bite +25 melee (2d8+12) and sting +20 melee (2d6+6 plus poison) | 
 | Space/Reach: | 20 ft./15ft. | 
 | Special Attacks: | Improved grab, swallow whole, poison | 
-| Special Qualities: | [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
 | Saves: | Fort +17, Ref +8, Will +4 | 
 | Abilities: | Str 35, Dex 6, Con 25, Int 1, Wis 8, Cha 8 | 
 | Skills: | [[Skill List#Listen\|Listen]] +18, [[Skill List#Swim\|Swim]] +20; | 

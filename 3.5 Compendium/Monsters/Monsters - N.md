@@ -36,7 +36,7 @@ Nagas favor spells over other forms of combat. Because they are almost always fo
 | Full Attack: | Sting +7 melee (2d4+2 plus poison) and bite +2 melee (1d4+1) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Poison, spells | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Detect Thoughts, Guarded Thoughts, Immunity To Poison, Resistance To Charm; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Detect Thoughts, Guarded Thoughts, Immunity To Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Charm; | 
 | Saves: | Fort +5, Ref +7, Will +8 | 
 | Abilities: | Str 14, Dex 15, Con 14, Int 16, Wis 15, Cha 17 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +9, [[Skill List#Concentration\|Concentration]] +13, [[Skill List#Diplomacy\|Diplomacy]] +7, [[Skill List#Disguise\|Disguise]] +5 (+7 Acting), [[Skill List#Intimidate\|Intimidate]] +5, [[Skill List#Listen\|Listen]] +11, [[Skill List#Sense Motive\|Sense Motive]] +8, [[Skill List#Spellcraft\|Spellcraft]] +12, [[Skill List#Spot\|Spot]] +11; | 
@@ -90,7 +90,7 @@ Dark nagas are immune to any form of mind reading.
 | Full Attack: | Bite +12 melee (2d6+7 plus poison) or spit +9 ranged touch (poison) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Poison, spit, spells | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +7, Ref +7, Will +11 | 
 | Abilities: | Str 21, Dex 14, Con 19, Int 16, Wis 19, Cha 18 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +18, [[Skill List#Concentration\|Concentration]] +19, [[Skill List#Listen\|Listen]] +13, [[Skill List#Diplomacy\|Diplomacy]] +8, [[Skill List#Disguise\|Disguise]] +4 (+6 Acting), [[Skill List#Intimidate\|Intimidate]] +6, [[Skill List#Sense Motive\|Sense Motive]] +18, [[Skill List#Spellcraft\|Spellcraft]] +17, [[Skill List#Spot\|Spot]] +13; | 
@@ -139,7 +139,7 @@ Guardian nagas cast spells as 9th-level sorcerers, and can also cast spells from
 | Full Attack: | Bite +9 melee (2d6+6 plus poison) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Charming gaze, poison, spells | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +7, Ref +6, Will +9 | 
 | Abilities: | Str 18, Dex 13, Con 18, Int 12, Wis 17, Cha 17 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +13, [[Skill List#Listen\|Listen]] +14, [[Skill List#Spellcraft\|Spellcraft]] +10, [[Skill List#Spot\|Spot]] +14; | 
@@ -187,7 +187,7 @@ Spirit nagas cast spells as 7th-level sorcerers, and can also cast spells from t
 | Full Attack: | Bite +7 melee (2d6+4 plus poison) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Poison, spells | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +6, Ref +5, Will +8 | 
 | Abilities: | Str 16, Dex 13, Con 18, Int 10, Wis 17, Cha 15 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +12, [[Skill List#Listen\|Listen]] +7, [[Skill List#Spellcraft\|Spellcraft]] +8, [[Skill List#Spot\|Spot]] +7, [[Skill List#Swim\|Swim]] +11; | 
@@ -235,7 +235,7 @@ A water naga has a +8 racial bonus on any Swim check to perform some special act
 | Full Attack: | Bite +12 melee (2d6+6 plus disease) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities, dream haunting | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron And Magic, Immunity To Fire, Cold, Charm, *sleep, [[Special Abilities#fear\|* And Fear]] , [[Special Abilities#spell resistance\|Spell Resistance]]  25; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron And Magic, Immunity To Fire, Cold, Charm, *sleep, [[Special Abilities#fear\|* And Fear]] , [[Special Abilities#spell resistance\|Spell Resistance]]  25; | 
 | Saves: | Fort +12\*, Ref +9\*, Will +10\* | 
 | Abilities: | Str 19, Dex 12, Con 18, Int 11, Wis 15, Cha 12 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +12, [[Skill List#Concentration\|Concentration]] +15, [[Skill List#Diplomacy\|Diplomacy]] +5, [[Skill List#Disguise\|Disguise]] +1 (+3 Acting), [[Skill List#Intimidate\|Intimidate]] +14, [[Skill List#Listen\|Listen]] +15, [[Skill List#Ride\|Ride]] +12, [[Skill List#Sense Motive\|Sense Motive]] +13, [[Skill List#Spellcraft\|Spellcraft]] +11, [[Skill List#Spot\|Spot]] +15; | 
@@ -291,7 +291,7 @@ counts as a use) and it does not bestow *etherealness* to a bearer that is not a
 | Full Attack: | 2 hooves +9 melee (1d8+4 plus 1d4 fire) and bite +4 melee (1d8+2) | 2 hooves +23 melee (2d6+10 plus 1d4 fire) and bite +18 melee (2d6+5) | 
 | Space/Reach: | 10 ft./5 ft. | 15 ft./10 ft. | 
 | Special Attacks: | Flaming hooves, smoke | Flaming hooves, smoke | 
-| Special Qualities: | Astral Projection, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#etherealness\|Etherealness]] ; | Astral Projection, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#etherealness\|Etherealness]] ; | 
+| Special Qualities | Astral Projection, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#etherealness\|Etherealness]] ; | Astral Projection, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#etherealness\|Etherealness]] ; | 
 | Saves: | Fort +8, Ref +7, Will +6 | Fort +16, Ref +11, Will +10 | 
 | Abilities: | Str 18, Dex 15, Con 16, Int 13, Wis 13, Cha 12 | Str 31, Dex 14, Con 24, Int 16, Wis 12, Cha 12 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +12, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Intimidate\|Intimidate]] +10, [[Skill List#Knowledge\|Knowledge]] (the Planes) +10, [[Skill List#Listen\|Listen]] +12, [[Skill List#Move Silently\|Move Silently]] +11, [[Skill List#Search\|Search]] +10, [[Skill List#Sense Motive\|Sense Motive]] +10, [[Skill List#Spot\|Spot]] +12, [[Skill List#Survival\|Survival]] +10 (+12 On Other Planes And Following Tracks); | [[Skill List#Bluff\|Bluff]] +19, [[Skill List#Concentration\|Concentration]] +25, [[Skill List#Diplomacy\|Diplomacy]] +5, [[Skill List#Disguise\|Disguise]] +1 (+3 Acting), [[Skill List#Intimidate\|Intimidate]] +21, [[Skill List#Knowledge\|Knowledge]] (arcana) +21, [[Skill List#Knowledge\|Knowledge]] (the Planes) +21, [[Skill List#Listen\|Listen]] +21, [[Skill List#Move Silently\|Move Silently]] +20, [[Skill List#Search\|Search]] +21, [[Skill List#Sense Motive\|Sense Motive]] +19, [[Skill List#Spot\|Spot]] +21, [[Skill List#Survival\|Survival]] +19 (+21 On Other Planes And Following Tracks); | 
@@ -372,7 +372,7 @@ A nightshade's desecrating aura cannot be dispelled except by a *dispel evil* sp
 | Full Attack: | Bite +29 melee (4d6+21/19--20) and sting +24 melee (2d8+11/19--20 plus poison) | 
 | Space/Reach: | 20 ft./15 ft. | 
 | Special Attacks: | Desecrating aura, energy drain, spell-like abilities, poison, summon undead, swallow whole | 
-| Special Qualities: | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  31, Telepathy 100 Ft, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
+| Special Qualities | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  31, [[Special Abilities#telepathy\|Telepathy]]  100 Ft, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +12, Ref +10, Will +23 | 
 | Abilities: | Str 48, Dex 10, Con ---, Int 20, Wis 20, Cha 18 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +32, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Hide\|Hide]] +16, [[Skill List#Knowledge\|Knowledge]] (arcana) +33, [[Skill List#Listen\|Listen]] +33, [[Skill List#Move Silently\|Move Silently]] +28, [[Skill List#Search\|Search]] +33, [[Skill List#Sense Motive\|Sense Motive]] +23, [[Skill List#Spellcraft\|Spellcraft]] +35, [[Skill List#Spot\|Spot]] +33, [[Skill List#Survival\|Survival]] +5 (+7 Following Tracks); | 
@@ -432,7 +432,7 @@ A nightcrawler can try to swallow a grabbed opponent of Huge or smaller size by 
 | Full Attack: | 2 slams +24 melee (2d6+16) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Crush item, desecrating aura, evil gaze, spell-like abilities, summon undead | 
-| Special Qualities: | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  29, Telepathy 100 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
+| Special Qualities | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  29, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +11, Ref +11, Will +19 | 
 | Abilities: | Str 38, Dex 14, Con ---, Int 20, Wis 20, Cha 18 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +28, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Hide\|Hide]] +18\*, [[Skill List#Knowledge\|Knowledge]] (arcana) +29, [[Skill List#Listen\|Listen]] +29, [[Skill List#Move Silently\|Move Silently]] +26, [[Skill List#Search\|Search]] +29, [[Skill List#Sense Motive\|Sense Motive]] +29, [[Skill List#Spellcraft\|Spellcraft]] +31, [[Skill List#Spot\|Spot]] +29, [[Skill List#Survival\|Survival]] +5 (+7 Following Tracks); | 
@@ -503,7 +503,7 @@ The nightwalker is an exceedingly intelligent foe that makes the best use of all
 | Full Attack: | Bite +18 melee (2d6+17/19--20 plus magic drain) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Desecrating aura, magic drain, spell-like abilities, summon undead | 
-| Special Qualities: | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  27, Telepathy 100 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
+| Special Qualities | Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  27, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +9, Ref +11, Will +17 | 
 | Abilities: | Str 31, Dex 18, Con ---, Int 18, Wis 20, Cha 18 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +24, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Hide\|Hide]] +16\*, [[Skill List#Listen\|Listen]] +25, [[Skill List#Move Silently\|Move Silently]] +24, [[Skill List#Search\|Search]] +24, [[Skill List#Sense Motive\|Sense Motive]] +25, [[Skill List#Spellcraft\|Spellcraft]] +24, [[Skill List#Spot\|Spot]] +25, [[Skill List#Survival\|Survival]] +5 (+7 Following Tracks); | 
@@ -555,7 +555,7 @@ A nightwing can summon undead creatures once per night: 5--12 shadows, 2--4 grea
 | Full Attack: | Dagger +6 melee (1d4/19--20) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Blinding beauty, spells, spell-like abilities, stunning glance | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] , Unearthly Grace, Wild Empathy; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] , Unearthly Grace, Wild Empathy; | 
 | Saves: | Fort +7, Ref +12, Will +12 | 
 | Abilities: | Str 10, Dex 17, Con 12, Int 16, Wis 17, Cha 19 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +10, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Escape Artist\|Escape Artist]] +12, [[Skill List#Handle Animal\|Handle Animal]] +13, [[Skill List#Heal\|Heal]] +12, [[Skill List#Hide\|Hide]] +12, [[Skill List#Listen\|Listen]] +12, [[Skill List#Move Silently\|Move Silently]] +12, [[Skill List#Ride\|Ride]] +5, [[Skill List#Sense Motive\|Sense Motive]] +12, [[Skill List#Spot\|Spot]] +12, [[Skill List#Swim\|Swim]] +8, [[Skill List#Use Rope\|Use Rope]] +3 (+5 With Bindings); | 

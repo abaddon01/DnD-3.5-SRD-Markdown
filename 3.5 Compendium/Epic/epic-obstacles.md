@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Epic/ Epic Obstacles
+title: 3.5 Compendium  - v3.5 SRD - Epic - Epic Obstacles
 aliases: 3.5 Epic Obstacles
-tags: 3.5e/rules / v3.5_srd / epic / epic_obstacles
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - epic
+  - epic_obstacles
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

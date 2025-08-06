@@ -28,7 +28,7 @@ tags:
 | Full Attack: | Touch +12 melee (1d4 Wisdom drain); or dagger +12/+7 melee (1d6+4/19--20) and 2 claws +7 melee (1d4+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities, Wisdom drain | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +7, Ref +8, Will +7 | 
 | Abilities: | Str 18, Dex 15, Con 12, Int 13, Wis 15, Cha 12 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +14, [[Skill List#Concentration\|Concentration]] +10, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Disguise\|Disguise]] +1 (+3 Acting), [[Skill List#Hide\|Hide]] +11, [[Skill List#Intimidate\|Intimidate]] +3, [[Skill List#Spot\|Spot]] +11; | 
@@ -74,7 +74,7 @@ Lamias have a +4 racial bonus on Bluff and Hide checks.
 | Full Attack: | 2 claws +12 melee (1d6+6) | Claw +19 melee (1d6+9) and bite +13 melee (1d8+4) | 
 | Space/Reach: | 10 ft./5 ft. | 10 ft./5 ft. | 
 | Special Attacks: | Pounce, rake 1d6+3, spells | Breath weapon, pounce, smite evil, rake 1d6+4, spells | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Magic Circle Against Evil, Spell-like Abilities; | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, *sleep, [[Special Abilities#paralysis\|* And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , Magic Circle Against Evil, Resistance To Acid 10, Cold 10, And Electricity 10, Spell-like Abilities, [[Special Abilities#spell resistance\|Spell Resistance]]  15; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Magic Circle Against Evil, Spell-like Abilities; | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, *sleep, [[Special Abilities#paralysis\|* And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , Magic Circle Against Evil, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Electricity 10, Spell-like Abilities, [[Special Abilities#spell resistance\|Spell Resistance]]  15; | 
 | Saves: | Fort +8, Ref +8, Will +7 | Fort +13, Ref +12, Will +10 | 
 | Abilities: | Str 23, Dex 12, Con 17, Int 16, Wis 17, Cha 14 | Str 28, Dex 17, Con 22, Int 18, Wis 20, Cha 18 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +13, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Knowledge\|Knowledge]] (arcana) +13, [[Skill List#Listen\|Listen]] +13, [[Skill List#Sense Motive\|Sense Motive]] +13, [[Skill List#Spot\|Spot]] +15; | [[Skill List#Concentration\|Concentration]] +19, [[Skill List#Diplomacy\|Diplomacy]] +19, [[Skill List#Knowledge\|Knowledge]] (arcana) +17, [[Skill List#Knowledge\|Knowledge]] (the Planes) +17, [[Skill List#Listen\|Listen]] +18, [[Skill List#Search\|Search]] +17, [[Skill List#Sense Motive\|Sense Motive]] +18, [[Skill List#Spellcraft\|Spellcraft]] +19, [[Skill List#Spot\|Spot]] +20, [[Skill List#Survival\|Survival]] +18 (+20 Other Planes And Tracking); | 
@@ -164,7 +164,7 @@ Attack bonus +19 melee, damage 1d6+4.
 | Full Attack: | 2 claws +20 melee (1d6+8) and bite +15 melee (1d8+4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Roar, pounce, improved grab, rake 1d6+8, spell-like abilities | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil And Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Lay On Hands, Lowlight Vision, Protective Aura, Resistance To Cold 10 And Sonic 10, Speak With Animals, [[Special Abilities#spell resistance\|Spell Resistance]]  28; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil And Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Lay On Hands, Lowlight Vision, Protective Aura, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Sonic 10, Speak With Animals, [[Special Abilities#spell resistance\|Spell Resistance]]  28; | 
 | Saves: | Fort +13 (+17 against poison), Ref +11, Will +10 | 
 | Abilities: | Str 27, Dex 17, Con 20, Int 14, Wis 14, Cha 15 | 
 | Skills: | [[Skill List#Balance\|Balance]] +22, [[Skill List#Concentration\|Concentration]] +12, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Hide\|Hide]] +22, [[Skill List#Intimidate\|Intimidate]] +10, [[Skill List#Jump\|Jump]] +35, [[Skill List#Knowledge\|Knowledge]] (any) +17, [[Skill List#Listen\|Listen]] +17, [[Skill List#Move Silently\|Move Silently]] +22, [[Skill List#Sense Motive\|Sense Motive]] +17, [[Skill List#Spot\|Spot]] +17, [[Skill List#Survival\|Survival]] +17; | 
@@ -320,7 +320,7 @@ Other forms of phylacteries can exist, such as rings, amulets, or similar items.
 | Full Attack: | Short sword +11/+6 melee (1d8+5/19--20) and tail slap +6 melee (2d6+2) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Constrict 2d6+5, improved grab, spells, spell-like abilities | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Poison, Resistance To Fire 10; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10; | 
 | Saves: | Fort +7, Ref +10, Will +8 | 
 | Abilities: | Str 20, Dex 17, Con 15, Int 14, Wis 16, Cha 18 | 
 | Skills: | [[Skill List#Appraise\|Appraise]] +12, [[Skill List#Concentration\|Concentration]] +12, [[Skill List#Diplomacy\|Diplomacy]] +16, [[Skill List#Knowledge\|Knowledge]] (arcana) +12, [[Skill List#Listen\|Listen]] +13, [[Skill List#Perform\|Perform]] (any One) +14, [[Skill List#Sense Motive\|Sense Motive]] +13, [[Skill List#Spellcraft\|Spellcraft]] +14, [[Skill List#Spot\|Spot]] +13, [[Skill List#Survival\|Survival]] +17; | 
@@ -375,7 +375,7 @@ Lillends have a +4 racial bonus on Survival checks.
 | Attack: | Claw +2 melee (1d4+1) or club +2 melee (1d6+1) or javelin +1 ranged (1d6+1) | 
 | Full Attack: | 2 claws +2 melee (1d4+1) and bite +0 melee (1d4); or club +2 melee (1d6+1) and bite +0 melee (1d4); or javelin +1 ranged (1d6+1) | 
 | Special Attacks: | --- | 
-| Special Qualities: | Hold Breath; | 
+| Special Qualities | Hold Breath; | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Saves: | Fort +1, Ref +3, Will +0 | 
 | Abilities: | Str 13, Dex 10, Con 13, Int 9, Wis 10, Cha 10 | 
@@ -452,7 +452,7 @@ Goblin, Gnoll, Orc.
 | Space/Reach: | 5 ft./5 ft. | 
 | Saves: | Fort +3, Ref +1, Will +1 | 
 | Special Attacks: | --- | 
-| Special Qualities: | ---; | 
+| Special Qualities | ---; | 
 | Abilities: | Str 10, Dex 12, Con 10, Int_13, Wis 13, Cha 11 | 
 | Skills: | [[Skill List#Craft\|Craft]] (any One) +6, [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +6, [[Skill List#Swim\|Swim]] +8; | 
 | Feats: | [[Feat List#Weapon Focus\|Weapon Focus]] (longspear); | 

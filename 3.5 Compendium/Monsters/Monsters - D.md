@@ -28,7 +28,7 @@ tags:
 | Full Attack: | Slam +5 melee (1d4+4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Darkness, improved grab, constrict 1d4+4 | 
-| Special Qualities: | Blindsight 90 Ft.; | 
+| Special Qualities | Blindsight 90 Ft.; | 
 | Saves: | Fort +3, Ref +2, Will +0 | 
 | Abilities: | Str 16, Dex 10, Con 13, Int 2, Wis 10, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +10, [[Skill List#Listen\|Listen]] +5\*, [[Skill List#Spot\|Spot]] +5\*; | 
@@ -82,7 +82,7 @@ These bonuses are lost if its blindsight is negated. The creature's variable col
 | Full Attack: | 2 slams +17 melee (1d6+8 plus 2d6 acid) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Corrosive slime | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Stone Shape, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Stone Shape, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
 | Saves: | Fort +12, Ref +6, Will +11 | 
 | Abilities: | Str 27, Dex 13, Con 21, Int 14, Wis 14, Cha 12 | 
 | Skills: | [[Skill List#Knowledge\|Knowledge]] (dungeoneering) +14, [[Skill List#Knowledge\|Knowledge]] (nature) +4, [[Skill List#Listen\|Listen]] +20, [[Skill List#Move Silently\|Move Silently]] +17, [[Skill List#Spot\|Spot]] +20, [[Skill List#Survival\|Survival]] +14 (+16 Underground); | 
@@ -144,7 +144,7 @@ Except where otherwise noted, demons speak Abyssal, Celestial, and Draconic.
 | Full Attack: | 2 claws +12 melee (1d6+5) and bite +7 melee (1d6+2) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Sneak attack +2d6, spell-like abilities, *summon demon* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, Protective Slime, Resistance To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  14, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, Protective Slime, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  14, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +10, Ref +6, Will +6 | 
 | Abilities: | Str 21, Dex 12, Con 20, Int 14, Wis 13, Cha 16 | 
 | Skills: | [[Skill List#Climb\|Climb]] +15, [[Skill List#Disable Device\|Disable Device]] +12, [[Skill List#Disguise\|Disguise]] +13, [[Skill List#Escape Artist\|Escape Artist]] +11, [[Skill List#Hide\|Hide]] +19, [[Skill List#Listen\|Listen]] +19, [[Skill List#Move Silently\|Move Silently]] +19, [[Skill List#Open Lock\|Open Lock]] +11, [[Skill List#Search\|Search]] +20, [[Skill List#Sleight Of Hand\|Sleight Of Hand]] +11, [[Skill List#Survival\|Survival]] +1 (+3 Following Tracks), [[Skill List#Use Rope\|Use Rope]] +1 (+3 With Bindings); | 
@@ -194,7 +194,7 @@ Babaus have a +8 racial bonus on Hide, Listen, Move Silently, and Search checks.
 | Full Attack: | *+1 vorpal longsword* +31/+26/+21/+16 melee (2d6+8/19--20) and *+1 flaming whip* +30/+25 melee (1d4+4 plus 1d6 fire plus entangle); or 2 slams +31 melee (1d10+7) | 
 | Space/Reach: | 10 ft./10 ft. (20 ft. with *+1 flaming whip*) | 
 | Special Attacks: | Death throes, entangle, spell-like abilities, *summon demon*, vorpal sword | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  15/cold Iron And Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flaming Body, Immunity To Electricity, Fire, And Poison, Resistance To Acid 10 And Cold 10, [[Special Abilities#spell resistance\|Spell Resistance]]  28, Telepathy 100 Ft., True Seeing; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  15/cold Iron And Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flaming Body, Immunity To Electricity, Fire, And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, [[Special Abilities#spell resistance\|Spell Resistance]]  28, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., True Seeing; | 
 | Saves: | Fort +22, Ref +19, Will +19 | 
 | Abilities: | Str 35, Dex 25, Con 31, Int 24, Wis 24, Cha 26 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +31, [[Skill List#Concentration\|Concentration]] +33, [[Skill List#Diplomacy\|Diplomacy]] +35, [[Skill List#Disguise\|Disguise]] +8 (+10 Acting), [[Skill List#Hide\|Hide]] +26, [[Skill List#Intimidate\|Intimidate]] +33, [[Skill List#Knowledge\|Knowledge]] (any Two) +30, [[Skill List#Listen\|Listen]] +38, [[Skill List#Move Silently\|Move Silently]] +30, [[Skill List#Search\|Search]] +30, [[Skill List#Sense Motive\|Sense Motive]] +30, [[Skill List#Spellcraft\|Spellcraft]] +30 (+32 Scrolls), [[Skill List#Spot\|Spot]] +38, [[Skill List#Survival\|Survival]] +7 (+9 Following Tracks), [[Skill List#Use Magic Device\|Use Magic Device]] +31 (+33 Scrolls); | 
@@ -284,7 +284,7 @@ Round 2: Power word stun.
 | Full Attack: | Bite +19 melee (2d6+9 plus poison) and 2 claws +14 melee (2d4+4); or web +11 ranged | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Poison, rend armor, web | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Plane Shift, [[Special Abilities#scent\|Scent]] , Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Plane Shift, [[Special Abilities#scent\|Scent]] , [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +16, Ref +9, Will +9 | 
 | Abilities: | Str 28, Dex 12, Con 26, Int 11, Wis 13, Cha 13 | 
 | Skills: | [[Skill List#Climb\|Climb]] +24, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Hide\|Hide]] +16, [[Skill List#Jump\|Jump]] +28, [[Skill List#Listen\|Listen]] +16, [[Skill List#Move Silently\|Move Silently]] +16, [[Skill List#Search\|Search]] +15, [[Skill List#Sense Motive\|Sense Motive]] +16, [[Skill List#Spot\|Spot]] +16, [[Skill List#Survival\|Survival]] +1 (+3 Following Tracks); | 
@@ -338,7 +338,7 @@ A bebilith has mottled coloration that gives it a +8 racial bonus on Hide checks
 | Full Attack: | 2 claws +4 melee (1d6+1) and bite +2 melee (1d4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities, *summon demon* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, Resistance To Acid 10, Cold 10, And Fire 10, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +5, Ref +3, Will +3 | 
 | Abilities: | Str 12, Dex 10, Con 14, Int 5, Wis 11, Cha 11 | 
 | Skills: | [[Skill List#Hide\|Hide]] +9, [[Skill List#Listen\|Listen]] +5, [[Skill List#Move Silently\|Move Silently]] +5, [[Skill List#Spot\|Spot]] +5, [[Skill List#Search\|Search]] +2, [[Skill List#Survival\|Survival]] +0 (+2 Following Tracks); | 
@@ -385,7 +385,7 @@ Dretches can communicate telepathically with creatures within 100 feet that spea
 | Full Attack: | 2 pincers +20 melee (2d8+10) and 2 claws +18 melee (1d6+5) and bite +18 melee (1d8+5) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Improved grab, spell-like abilities, *summon demon* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, Resistance To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  21, Telepathy 100 Ft., True Seeing; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  21, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., True Seeing; | 
 | Saves: | Fort +18, Ref +8, Will +11 | 
 | Abilities: | Str 31, Dex 10, Con 31, Int 16, Wis 16, Cha 20 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +22, [[Skill List#Concentration\|Concentration]] +25, [[Skill List#Diplomacy\|Diplomacy]] +9, [[Skill List#Disguise\|Disguise]] +5 (+7 Acting), [[Skill List#Intimidate\|Intimidate]] +24, [[Skill List#Knowledge\|Knowledge]] (any Two) +18, [[Skill List#Listen\|Listen]] +26, [[Skill List#Move Silently\|Move Silently]] +18, [[Skill List#Search\|Search]] +18, [[Skill List#Sense Motive\|Sense Motive]] +18, [[Skill List#Spellcraft\|Spellcraft]] +18, [[Skill List#Spot\|Spot]] +26, [[Skill List#Survival\|Survival]] +3 (+5 Following Tracks); | 
@@ -438,7 +438,7 @@ Glabrezu have a +8 racial bonus on Listen and Spot checks.
 | Full Attack: | Bite +14 melee (4d4+5) and 2 claws +9 melee (1d8+2) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Spell-like abilities, stench, improved grab, *summon demon* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, Resistance To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  19, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  19, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +16, Ref +7, Will +9 | 
 | Abilities: | Str 21, Dex 10, Con 29, Int 14, Wis 14, Cha 18 | 
 | Skills: | [[Skill List#Climb\|Climb]] +18, [[Skill List#Concentration\|Concentration]] +22, [[Skill List#Hide\|Hide]] +13, [[Skill List#Escape Artist\|Escape Artist]] +13, [[Skill List#Intimidate\|Intimidate]] +17, [[Skill List#Listen\|Listen]] +23, [[Skill List#Move Silently\|Move Silently]] +13, [[Skill List#Search\|Search]] +15, [[Skill List#Spellcraft\|Spellcraft]] +15, [[Skill List#Spot\|Spot]] +23, [[Skill List#Survival\|Survival]] +2 (+4 Following Tracks), [[Skill List#Use Rope\|Use Rope]] +0 (+2 With Bindings); | 
@@ -492,7 +492,7 @@ Hezrous have a +8 racial bonus on Listen and Spot checks.
 | Full Attack: | Primary longsword +25/+20/+15/+10 melee (2d6+9/19--20) and 5 longswords +25 melee (2d6+4/19--20) and tail slap +22 melee (4d6+4); or 6 slams +24 melee (1d8+9) and tail slap +22 melee (4d6+4) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Constrict 4d6+13, improved grab, spell-like abilities, *summon demon* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good And Cold Iron, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, Resistance To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  25, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good And Cold Iron, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  25, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +19, Ref +14, Will +14 | 
 | Abilities: | Str 29, Dex 19, Con 29, Int 18, Wis 18, Cha 24 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +26, [[Skill List#Concentration\|Concentration]] +28, [[Skill List#Diplomacy\|Diplomacy]] +30, [[Skill List#Disguise\|Disguise]] +7 (+9 Acting), [[Skill List#Hide\|Hide]] +19, [[Skill List#Intimidate\|Intimidate]] +28, [[Skill List#Listen\|Listen]] +31, [[Skill List#Move Silently\|Move Silently]] +23, [[Skill List#Search 23\|Search 23]] , [[Skill List#Sense Motive\|Sense Motive]] +23, [[Skill List#Spellcraft\|Spellcraft]] +23 (+25 Scrolls), [[Skill List#Spot\|Spot]] +31, [[Skill List#Survival\|Survival]] +4 (+6 Following Tracks), [[Skill List#Use Magic Device\|Use Magic Device]] +26 (+28 Scrolls); | 
@@ -551,7 +551,7 @@ In combination with its natural abilities, a marilith's Multiweapon Fighting fea
 | Full Attack: | Bite +20 melee (2d8+7) and 2 claws +17 melee (1d8+3) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Smite, spell-like abilities, *summon demon* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, Resistance To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  22, Telepathy 100 Ft., True Seeing; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  22, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., True Seeing; | 
 | Saves: | Fort +17, Ref +10, Will +15 | 
 | Abilities: | Str 25, Dex 13, Con 27, Int 22, Wis 22, Cha 20 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +22, [[Skill List#Concentration\|Concentration]] +25, [[Skill List#Diplomacy\|Diplomacy]] +26, [[Skill List#Disguise\|Disguise]] +5 (+7 Acting), [[Skill List#Hide\|Hide]] +10, [[Skill List#Intimidate\|Intimidate]] +22, [[Skill List#Knowledge\|Knowledge]] (arcana) +23, [[Skill List#Listen\|Listen]] +31, [[Skill List#Move Silently\|Move Silently]] +18, [[Skill List#Search\|Search]] +23, [[Skill List#Sense Motive\|Sense Motive]] +23, [[Skill List#Spellcraft\|Spellcraft]] +25 (+27 Scrolls), [[Skill List#Spot\|Spot]] +31, [[Skill List#Survival\|Survival]] +6 (+8 Following Tracks), [[Skill List#Use Magic Device\|Use Magic Device]] +22 (+24 Scrolls); | 
@@ -604,7 +604,7 @@ Nalfeshnees have a +8 racial bonus on Listen and Spot checks.
 | Full Attack: | 2 claws +8 melee (1d3--1 plus poison) and bite +3 melee (1d4--1) | 
 | Space/Reach: | 2-1/2 ft./0 ft. | 
 | Special Attacks: | Poison, spell-like abilities | 
-| Special Qualities: | Alternate Form, [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Poison, Resistance To Fire 10; | 
+| Special Qualities | Alternate Form, [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10; | 
 | Saves: | Fort +3, Ref +6, Will +4 | 
 | Abilities: | Str 8, Dex 17, Con 10, Int 10, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +6, [[Skill List#Diplomacy\|Diplomacy]] +2, [[Skill List#Disguise\|Disguise]] +0 (+2 Acting), [[Skill List#Hide\|Hide]] +17, [[Skill List#Intimidate\|Intimidate]] +2, [[Skill List#Knowledge\|Knowledge]] (any One) +6, [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +9, [[Skill List#Search\|Search]] +6, [[Skill List#Spellcraft\|Spellcraft]] +6, [[Skill List#Spot\|Spot]] +6; | 
@@ -652,7 +652,7 @@ A quasit can assume other forms at will as a standard action. This ability funct
 | Full Attack: | 4 claws +15 melee (2d6+10) and bite +10 melee (1d8+5) and eye ray +8 ranged touch | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Eye rays, *find target,* improved grab | 
-| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +3, Ref +6, Will +3 | 
 | Abilities: | Str 31, Dex 17, Con ---, Int ---, Wis 11, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -706,7 +706,7 @@ To use this ability, a retriever must hit with its bite attack. It can then atte
 | Full Attack: | 2 claws +7 melee (1d6+1) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Energy drain, spell-like abilities, *summon demon* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, Resistance To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  18, Telepathy 100 Ft., Tongues; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  18, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., Tongues; | 
 | Saves: | Fort +6, Ref +6, Will +7 | 
 | Abilities: | Str 13, Dex 13, Con 13, Int 16, Wis 14, Cha 26 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +19, [[Skill List#Concentration\|Concentration]] +10, [[Skill List#Diplomacy\|Diplomacy]] +12, [[Skill List#Disguise\|Disguise]] +17\* (+19 Acting), [[Skill List#Escape Artist\|Escape Artist]] +10, [[Skill List#Hide\|Hide]] +10, [[Skill List#Intimidate\|Intimidate]] +19, [[Skill List#Knowledge\|Knowledge]] (any One) +12, [[Skill List#Listen\|Listen]] +19, [[Skill List#Move Silently\|Move Silently]] +10, [[Skill List#Search\|Search]] +12, [[Skill List#Spot\|Spot]] +19, [[Skill List#Survival\|Survival]] +2 (+4 Following Tracks), [[Skill List#Use Rope\|Use Rope]] +1 (+3 With Bindings); | 
@@ -759,7 +759,7 @@ Succubi have a +8 racial bonus on Listen and Spot checks.
 | Full Attack: | 2 claws +15 melee (2d6+6) and bite +13 melee (1d8+3) and 2 talons +13 melee (1d6+3) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Dance of ruin, spell-like abilities, spores, stunning screech, *summon demon* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, Resistance To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  17, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  17, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +14, Ref +9, Will +10 | 
 | Abilities: | Str 23, Dex 15, Con 25, Int 14, Wis 16, Cha 16 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +20, [[Skill List#Diplomacy\|Diplomacy]] +5, [[Skill List#Hide\|Hide]] +11, [[Skill List#Intimidate\|Intimidate]] +16, [[Skill List#Knowledge\|Knowledge]] (any One) +15, [[Skill List#Listen\|Listen]] +24, [[Skill List#Move Silently\|Move Silently]] +15, [[Skill List#Search\|Search]] +15, [[Skill List#Sense Motive\|Sense Motive]] +16, [[Skill List#Spellcraft\|Spellcraft]] +15, [[Skill List#Spot\|Spot]] +24, [[Skill List#Survival\|Survival]] +3 (+5 Following Tracks); | 
@@ -816,7 +816,7 @@ Vrocks have a +8 racial bonus on Listen and Spot checks.
 | Full Attack: | Short sword +4 melee (1d4/19--20) or repeating light crossbow +6 ranged (1d6/19--20 plus poison) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Poison use, spell-like abilities, sneak attack +1d6 | 
-| Special Qualities: | Madness, [[Special Abilities#spell resistance\|Spell Resistance]]  15 Vulnerability To Sunlight; | 
+| Special Qualities | Madness, [[Special Abilities#spell resistance\|Spell Resistance]]  15 Vulnerability To Sunlight; | 
 | Saves: | Fort +2, Ref +5, Will +6 | 
 | Abilities: | Str 11, Dex 14, Con 13, Int 10, Wis 5\*, Cha 16\* | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +5, [[Skill List#Hide\|Hide]] +10, [[Skill List#Listen\|Listen]] +1, [[Skill List#Move Silently\|Move Silently]] +8; | 
@@ -871,7 +871,7 @@ Derro have a +4 racial bonus on Hide and Move Silently checks.
 | Full Attack: | 2 claws +9 melee (1d6+4) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Destructive harmonics | 
-| Special Qualities: | Blindsight 100 Ft., Immunities, Protection From Sonics; | 
+| Special Qualities | Blindsight 100 Ft., Immunities, Protection From Sonics; | 
 | Saves: | Fort +5, Ref +5, Will +10 | 
 | Abilities: | Str 18, Dex 12, Con 16, Int 12, Wis 18, Cha 12 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +25, [[Skill List#Move Silently\|Move Silently]] +7, [[Skill List#Survival\|Survival]] +9; | 
@@ -954,7 +954,7 @@ Except when otherwise noted, devils speak Infernal, Celestial, and Draconic.
 | Full Attack: | 2 claws +18 melee (2d8+6 plus fear) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Fear, improved grab, impale 3d8+9, *summon devil* | 
-| Special Qualities: | Barbed Defense, [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Resistance To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  23, Spell-like Abilities, Telepathy 100 Ft.; | 
+| Special Qualities | Barbed Defense, [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  23, Spell-like Abilities, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +14, Ref +14, Will +12 | 
 | Abilities: | Str 23, Dex 23, Con 23, Int 12, Wis 14, Cha 18 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +21, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Hide\|Hide]] +21, [[Skill List#Intimidate\|Intimidate]] +19, [[Skill List#Knowledge\|Knowledge]] (any One) +16, [[Skill List#Listen\|Listen]] +19, [[Skill List#Move Silently\|Move Silently]] +21, [[Skill List#Search\|Search]] +16, [[Skill List#Sense Motive\|Sense Motive]] +17, [[Skill List#Spot\|Spot]] +19, [[Skill List#Survival\|Survival]] +2 (+4 Following Tracks); | 
@@ -1011,7 +1011,7 @@ Any creature striking a barbed devil with handheld weapons or natural weapons ta
 | Full Attack: | Glaive +9/+4 melee (1d10+3 plus infernal wound) or 2 claws +8 melee (1d6+2) | 
 | Space/Reach: | 5 ft./5 ft. (10 ft. with glaive) | 
 | Special Attacks: | Infernal wound, beard, battle frenzy, *summon devil* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/silver Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Resistance To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  17, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/silver Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  17, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +8, Ref +7, Will +5 | 
 | Abilities: | Str 15, Dex 15, Con 17, Int 6, Wis 10, Cha 10 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11, [[Skill List#Diplomacy\|Diplomacy]] +2, [[Skill List#Hide\|Hide]] +11, [[Skill List#Listen\|Listen]] +9, [[Skill List#Move Silently\|Move Silently]] +9, [[Skill List#Sense Motive\|Sense Motive]] +9, [[Skill List#Spot\|Spot]] +9; | 
@@ -1066,7 +1066,7 @@ Once per day a bearded devil can attempt to summon 2d10 lemures with a 50% chanc
 | Full Attack: | Bite +14 melee (1d8+5) and 2 claws +12 melee (1d4+2) and sting +12 melee (3d4+2 plus poison) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Spell-like abilities, fear aura, poison, *summon devil* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Resistance To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  21, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  21, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +12, Ref +12, Will +11 | 
 | Abilities: | Str 21, Dex 21, Con 21, Int 14, Wis 14, Cha 14 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +15, [[Skill List#Concentration\|Concentration]] +18, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Hide\|Hide]] +14, [[Skill List#Intimidate\|Intimidate]] +17, [[Skill List#Knowledge\|Knowledge]] (any One) +15, [[Skill List#Listen\|Listen]] +17, [[Skill List#Move Silently\|Move Silently]] +18, [[Skill List#Search\|Search]] +15, [[Skill List#Sense Motive\|Sense Motive]] +15, [[Skill List#Spot\|Spot]] +17, [[Skill List#Survival\|Survival]] +2 (+4 Following Tracks); | 
@@ -1114,7 +1114,7 @@ Once per day a bone devil can attempt to summon 2d10 lemures with a 50% chance o
 | Full Attack: | 2 chains +10 melee (2d4+2/19--20) | 
 | Space/Reach: | 5 ft./5 ft. (10 ft. with chains) | 
 | Special Attacks: | Dancing chains, unnerving gaze | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/silver Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#regeneration\|Regeneration]]  2, [[Special Abilities#spell resistance\|Spell Resistance]]  18; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/silver Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#regeneration\|Regeneration]]  2, [[Special Abilities#spell resistance\|Spell Resistance]]  18; | 
 | Saves: | Fort +8, Ref +8, Will +6 | 
 | Abilities: | Str 15, Dex 15, Con 15, Int 6, Wis 10, Cha 12 | 
 | Skills: | [[Skill List#Climb\|Climb]] +13, [[Skill List#Craft\|Craft]] (blacksmithing) +17, [[Skill List#Escape Artist\|Escape Artist]] +13, [[Skill List#Intimidate\|Intimidate]] +12, [[Skill List#Listen\|Listen]] +13, [[Skill List#Spot\|Spot]] +13, [[Skill List#Use Rope\|Use Rope]] +2 (+4 With Bindings); | 
@@ -1165,7 +1165,7 @@ Chain devils have a +8 racial bonus on Craft checks involving metalwork.
 | Full Attack: | Longsword +14/+9 melee (1d8+5/19--20) or *+1 flaming composite longbow* (+5 Str bonus) +15/+10 ranged (1d8+6/x3 plus 1d6 fire) or rope +14 ranged (entangle) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Entangle, spell-like abilities, *summon devil* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Resistance To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  20, Telepathy 100 Ft., True Seeing; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  20, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., True Seeing; | 
 | Saves: | Fort +11, Ref +11, Will +10 | 
 | Abilities: | Str 21, Dex 21, Con 21, Int 14, Wis 18, Cha 20 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +17, [[Skill List#Diplomacy\|Diplomacy]] +7, [[Skill List#Escape Artist\|Escape Artist]] +17, [[Skill List#Hide\|Hide]] +17, [[Skill List#Knowledge\|Knowledge]] (any Two) +14, [[Skill List#Listen\|Listen]] +16, [[Skill List#Move Silently\|Move Silently]] +17, [[Skill List#Search\|Search]] +14, [[Skill List#Sense Motive\|Sense Motive]] +16, [[Skill List#Spot\|Spot]] +16, [[Skill List#Survival\|Survival]] +4 (+6 Following Tracks), [[Skill List#Use Rope\|Use Rope]] +5 (+7 With Bindings); | 
@@ -1215,7 +1215,7 @@ Erinyes continuously use true seeing, as the spell (caster level 14th).
 | Full Attack: | 2 claws +13 melee (1d8+6) and bite +8 melee (2d8+3) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Improved grab, pounce, rake 1d8+3 | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Invisible In Light, Resistance To Fire 10, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  19, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Invisible In Light, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  19, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +9, Ref +11, Will +8 | 
 | Abilities: | Str 23, Dex 21, Con 17, Int 10, Wis 14, Cha 10 | 
 | Skills: | [[Skill List#Balance\|Balance]] +16, [[Skill List#Climb\|Climb]] +17, [[Skill List#Hide\|Hide]] +13, [[Skill List#Jump\|Jump]] +21, [[Skill List#Listen\|Listen]] +17, [[Skill List#Move Silently\|Move Silently]] +20, [[Skill List#Spot\|Spot]] +13, [[Skill List#Swim\|Swim]] +17; | 
@@ -1267,7 +1267,7 @@ Hellcats have a +4 racial bonus on Listen and Move Silently checks.
 | Full Attack: | Spiked chain +25/+20/+15 melee (2d6+15 plus stun) and bite +22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound); or 2 claws +24 melee (2d6+10) and bite + 22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound) | 
 | Space/Reach: | 10 ft./10 ft. (20 ft. with spiked chain) | 
 | Special Attacks: | Fear aura, infernal wound, spell-like abilities, stun, *summon devil* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good And Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Resistance To Acid 10 And Cold 10, [[Special Abilities#regeneration\|Regeneration]]  5, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  28, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good And Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, [[Special Abilities#regeneration\|Regeneration]]  5, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  28, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +16, Ref +16, Will +15 | 
 | Abilities: | Str 31, Dex 25, Con 25, Int 14, Wis 18, Cha 22 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +24, [[Skill List#Climb\|Climb]] +28, [[Skill List#Concentration\|Concentration]] +24, [[Skill List#Diplomacy\|Diplomacy]] +10, [[Skill List#Disguise\|Disguise]] +6 (+8 Acting), [[Skill List#Hide\|Hide]] +21, [[Skill List#Intimidate\|Intimidate]] +26, [[Skill List#Listen\|Listen]] +22, [[Skill List#Move Silently\|Move Silently]] +23, [[Skill List#Search\|Search]] +20, [[Skill List#Sense Motive\|Sense Motive]] +22, [[Skill List#Spot\|Spot]] +22, [[Skill List#Survival\|Survival]] +4 (+6 Following Tracks); | 
@@ -1322,7 +1322,7 @@ A horned devil takes normal damage from good-aligned silvered weapons, and from 
 | Full Attack: | Spear +20/+15/+10 melee (2d6+9/x3 plus slow) and bite +14 melee (2d6+3) and tail +14 melee (3d6+3 plus slow); or 2 claws +19 melee (1d10+6) and bite +14 melee (2d6+3) and tail +14 melee (3d6+3 plus slow) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Fear aura, slow, spell-like abilities, *summon devil* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Resistance To Acid 10 And Cold 10, [[Special Abilities#regeneration\|Regeneration]]  5, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  25, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, [[Special Abilities#regeneration\|Regeneration]]  5, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  25, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +15, Ref +14, Will +15 | 
 | Abilities: | Str 23, Dex 21, Con 23, Int 22, Wis 22, Cha 20 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +22, [[Skill List#Climb\|Climb]] +23, [[Skill List#Concentration\|Concentration]] +23, [[Skill List#Diplomacy\|Diplomacy]] +9, [[Skill List#Disguise\|Disguise]] +5 (+7 Acting), [[Skill List#Intimidate\|Intimidate]] +24, [[Skill List#Jump\|Jump]] +27, [[Skill List#Knowledge\|Knowledge]] (any Three) +23, [[Skill List#Listen\|Listen]] +25, [[Skill List#Move Silently\|Move Silently]] +22, [[Skill List#Search\|Search]] +23, [[Skill List#Sense Motive\|Sense Motive]] +23, [[Skill List#Spellcraft\|Spellcraft]] +23, [[Skill List#Spot\|Spot]] +25, [[Skill List#Survival\|Survival]] +6 (+8 Following Tracks); | 
@@ -1373,7 +1373,7 @@ An ice devil takes normal damage from good-aligned weapons and from spells or ef
 | Full Attack: | Sting +8 melee (1d4 plus poison) | 
 | Space/Reach: | 2-1/2 ft./0 ft. | 
 | Special Attacks: | Poison, spell-like abilities | 
-| Special Qualities: | Alternate Form, [[Special Abilities#damage reduction\|Damage Reduction]]  5/good Or Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Poison, Resistance To Fire 5; | 
+| Special Qualities | Alternate Form, [[Special Abilities#damage reduction\|Damage Reduction]]  5/good Or Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 5; | 
 | Saves: | Fort +3, Ref +6, Will +4 | 
 | Abilities: | Str 10, Dex 17, Con 10, Int 10, Wis 12, Cha 14 | 
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +8, [[Skill List#Hide\|Hide]] +17, [[Skill List#Knowledge\|Knowledge]] (any One) +6, [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +9, [[Skill List#Search\|Search]] +6, [[Skill List#Spellcraft\|Spellcraft]] +6, [[Skill List#Spot\|Spot]] +7, [[Skill List#Survival\|Survival]] +1 (+3 Following Tracks); | 
@@ -1419,7 +1419,7 @@ An imp can assume other forms at will as a standard action. This ability functio
 | Full Attack: | 2 claws +2 melee (1d4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/good Or Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Mindless, Resistance To Acid 10 And Cold 10, Mindless, See In Darkness; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/good Or Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Mindless, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, Mindless, See In Darkness; | 
 | Saves: | Fort +3, Ref +3, Will +3 | 
 | Abilities: | Str 10, Dex 10, Con 10, Int ---, Wis 11, Cha 5 | 
 | Environment: | A lawful evil-aligned plane | 
@@ -1457,7 +1457,7 @@ Immunity to mind-affecting effects (charms, compulsions, phantasms, patterns, an
 | Full Attack: | 2 claws +30 melee (2d8+13) and 2 wings +28 melee (2d6+6) and bite +28 melee (4d6+6 plus poison plus disease) and tail slap +28 melee (2d8+6) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Constrict 2d8+26, fear aura, improved grab, spell-like abilities, *summon devil* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  15/good And Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Resistance To Acid 10 And Cold 10, [[Special Abilities#regeneration\|Regeneration]]  5, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  32, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  15/good And Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, [[Special Abilities#regeneration\|Regeneration]]  5, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  32, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +19, Ref +19, Will +21 | 
 | Abilities: | Str 37, Dex 27, Con 27, Int 26, Wis 26, Cha 26 | 
 | Skills: | [[Skill List#Balance\|Balance]] +10, [[Skill List#Bluff\|Bluff]] +29, [[Skill List#Climb\|Climb]] +34, [[Skill List#Concentration\|Concentration]] +29, [[Skill List#Diplomacy\|Diplomacy]] +10, [[Skill List#Disguise\|Disguise]] +29 (+31 Acting), [[Skill List#Hide\|Hide]] +25, [[Skill List#Intimidate\|Intimidate]] +31, [[Skill List#Jump\|Jump]] +40, [[Skill List#Knowledge\|Knowledge]] (arcana) +29, [[Skill List#Knowledge\|Knowledge]] (nature) +10, [[Skill List#Knowledge\|Knowledge]] (the Planes) +29, [[Skill List#Knowledge\|Knowledge]] (religion) +29, [[Skill List#Listen\|Listen]] +29, [[Skill List#Move Silently\|Move Silently]] +29, [[Skill List#Search\|Search]] +29, [[Skill List#Spellcraft\|Spellcraft]] +31, [[Skill List#Spot\|Spot]] +29, [[Skill List#Survival\|Survival]] +8 (+10 On Other Planes, [[Skill List#\|]] +10 When Tracking), [[Skill List#Tumble\|Tumble]] +31; | 
@@ -1538,7 +1538,7 @@ A pit fiend typically opens combat by using its spell-like abilities, attempting
 | Full Attack: | 2 claws +15 melee (1d6+9) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Energy drain, trap essence, spell-like abilities | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Spell Deflection, [[Special Abilities#spell resistance\|Spell Resistance]]  21, [[Special Abilities#undead traits\|Undead Traits]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Spell Deflection, [[Special Abilities#spell resistance\|Spell Resistance]]  21, [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +4, Ref +4, Will +11 | 
 | Abilities: | Str 28, Dex 10, Con ---, Int 16, Wis 16, Cha 17 | 
 | Skills: | [[Skill List#Climb\|Climb]] +24, [[Skill List#Concentration\|Concentration]] +18, [[Skill List#Diplomacy\|Diplomacy]] +5, [[Skill List#Jump\|Jump]] +24, [[Skill List#Listen\|Listen]] +18, [[Skill List#Move Silently\|Move Silently]] +15, [[Skill List#Search\|Search]] +10, [[Skill List#Sense Motive\|Sense Motive]] +11, [[Skill List#Spot\|Spot]] +18, [[Skill List#Survival\|Survival]] +3 (+5 Following Tracks); | 
@@ -1593,7 +1593,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 | Full Attack: | Claw +11 melee (1d8+4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Acid spray | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +9, Ref +10, Will +3 | 
 | Abilities: | Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +9, [[Skill List#Listen\|Listen]] +6, [[Skill List#Jump\|Jump]] +21, [[Skill List#Spot\|Spot]] +6; | 
@@ -1642,7 +1642,7 @@ Dinosaurs take full advantage of their size and speed. The swift carnivores stal
 | Full Attack: | Talons +6 melee (2d6+4) and 2 foreclaws +1 melee (1d3+2) and bite +1 melee (2d4+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Pounce | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +8, Ref +6, Will +2 | 
 | Abilities: | Str 19, Dex 15, Con 19, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Jump\|Jump]] +26, [[Skill List#Listen\|Listen]] +10, [[Skill List#Spot\|Spot]] +10, [[Skill List#Survival\|Survival]] +10; | 
@@ -1681,7 +1681,7 @@ A deinonychus has a +8 racial bonus on Hide, Jump, Listen, Spot, and Survival ch
 | Full Attack: | Bite +13 melee (2d8+12) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +15, Ref +9, Will +4 | 
 | Abilities: | Str 26, Dex 14, Con 22, Int 2, Wis 13, Cha 9 | 
 | Skills: | [[Skill List#Hide\|Hide]] --4\*, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +9, [[Skill List#Swim\|Swim]] +16; | 
@@ -1717,7 +1717,7 @@ An elasmosaurus is aggressive and attacks anything it notices. The creature is s
 | Full Attack: | Talons +9 melee (2d8+5) and 2 foreclaws +4 melee (1d4+2) and bite +4 melee (2d6+2) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Pounce | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +10, Ref +8, Will +4 | 
 | Abilities: | Str 21, Dex 15, Con 21, Int 2, Wis 15, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +5, [[Skill List#Jump\|Jump]] +27, [[Skill List#Listen\|Listen]] +12, [[Skill List#Spot\|Spot]] +12, [[Skill List#Survival\|Survival]] +12; | 
@@ -1752,7 +1752,7 @@ A megaraptor has a +8 racial bonus on Hide, Jump, Listen, Spot, and Survival che
 | Full Attack: | Gore +20 melee (2d8+15) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Powerful charge, trample 2d12+15 | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +19, Ref +9, Will +6 | 
 | Abilities: | Str 30, Dex 9, Con 25, Int 1, Wis 12, Cha 7 | 
 | Skills: | [[Skill List#Listen\|Listen]] +13, [[Skill List#Spot\|Spot]] +12; | 
@@ -1791,7 +1791,7 @@ Reflex half DC 28. The save DC is Strength-based.
 | Full Attack: | Bite +20 melee (3d6+13) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Improved grab, swallow whole | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +16, Ref +12, Will +8 | 
 | Abilities: | Str 28, Dex 12, Con 21, Int 2, Wis 15, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] --2, [[Skill List#Listen\|Listen]] +14, [[Skill List#Spot\|Spot]] +14; | 
@@ -1839,7 +1839,7 @@ Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind
 | Full Attack: | 2 claws +8 melee (1d6+6) and bite +3 melee (1d8+3) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Rend 2d6+9 | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +6, Ref +6, Will +5 | 
 | Abilities: | Str 22, Dex 15, Con 14, Int 2, Wis 12, Cha 7 | 
 | Skills: | [[Skill List#Climb\|Climb]] +14, [[Skill List#Listen\|Listen]] +5, [[Skill List#Move Silently\|Move Silently]] +4, [[Skill List#Spot\|Spot]] +6; | 
@@ -1878,7 +1878,7 @@ Dire apes have a +8 racial bonus on Climb checks and can always choose to take 1
 | Full Attack: | 2 claws +4 melee (1d4+2) and bite --1 melee (1d6+1) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Rage | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +7, Ref +6, Will +4 | 
 | Abilities: | Str 14, Dex 17, Con 19, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +6; | 
@@ -1916,7 +1916,7 @@ A dire badger that takes damage in combat flies into a berserk rage on its next 
 | Full Attack: | Bite +5 melee (1d8+4) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | Blindsense 40 Ft.; | 
+| Special Qualities | Blindsense 40 Ft.; | 
 | Saves: | Fort +7, Ref +10, Will +6 | 
 | Abilities: | Str 17, Dex 22, Con 17, Int 2, Wis 14, Cha 6 | 
 | Skills: | [[Skill List#Hide\|Hide]] +4, [[Skill List#Listen\|Listen]] +12\*, [[Skill List#Move Silently\|Move Silently]] +11, [[Skill List#Spot\|Spot]] +8\*; | 
@@ -1955,7 +1955,7 @@ Dire bats have a +4 racial bonus on Spot and Listen checks. These bonuses are lo
 | Full Attack: | 2 claws +19 melee (2d4+10) and bite +13 melee (2d8+5) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Improved grab | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +12, Ref +9, Will +9 | 
 | Abilities: | Str 31, Dex 13, Con 19, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +10, [[Skill List#Spot\|Spot]] +10, [[Skill List#Swim\|Swim]] +13; | 
@@ -1993,7 +1993,7 @@ To use this ability, a dire bear must hit with a claw attack. It can then attemp
 | Full Attack: | Gore +12 melee (1d8+12) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Ferocity | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +8, Ref +5, Will +8 | 
 | Abilities: | Str 27, Dex 10, Con 17, Int 2, Wis 13, Cha 8 | 
 | Skills: | [[Skill List#Listen\|Listen]] +8, [[Skill List#Spot\|Spot]] +8; | 
@@ -2031,7 +2031,7 @@ A dire boar is such a tenacious combatant that it continues to fight without pen
 | Full Attack: | 2 claws +13 melee (1d6+7) and bite +7 melee (1d8+3) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Improved grab, pounce, rake 1d6+3 | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +9, Ref +8, Will +7 | 
 | Abilities: | Str 25, Dex 15, Con 17, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +2\*, [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +5, [[Skill List#Spot\|Spot]] +7; | 
@@ -2080,7 +2080,7 @@ Dire lions have a +4 racial bonus on Hide and Move Silently checks.
 | Full Attack: | Bite +4 melee (1d4 plus disease) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Disease | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +3, Ref +5, Will +3 | 
 | Abilities: | Str 10, Dex 17, Con 12, Int 1, Wis 12, Cha 4 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11, [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +4, [[Skill List#Move Silently\|Move Silently]] +4, [[Skill List#Spot\|Spot]] +4, [[Skill List#Swim\|Swim]] +11; | 
@@ -2123,7 +2123,7 @@ Dire rats use their Dexterity modifier for Climb and Swim checks.
 | Full Attack: | Bite +18 melee (2d8+9) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Improved grab, swallow whole | 
-| Special Qualities: | [[Special Abilities#scent\|Keen Scent]] ; | 
+| Special Qualities | [[Special Abilities#scent\|Keen Scent]] ; | 
 | Saves: | Fort +14, Ref +13, Will +12 | 
 | Abilities: | Str 23, Dex 15, Con 17, Int 1, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +12, [[Skill List#Spot\|Spot]] +11, [[Skill List#Swim\|Swim]] +14; | 
@@ -2174,7 +2174,7 @@ It can use the run action while swimming, provided it swims in a straight line.
 | Full Attack: | 2 claws +20 melee (2d4+8) and bite +14 melee (2d6+4) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Improved grab, pounce, rake 2d4+4 | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +13, Ref +12, Will +11 | 
 | Abilities: | Str 27, Dex 15, Con 17, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +7\*, [[Skill List#Jump\|Jump]] +14, [[Skill List#Listen\|Listen]] +6, [[Skill List#Move Silently\|Move Silently]] +11, [[Skill List#Spot\|Spot]] +7, [[Skill List#Swim\|Swim]] +10; | 
@@ -2221,7 +2221,7 @@ Dire tigers have a +4 racial bonus on Hide and Move Silently checks. \*In areas 
 | Full Attack: | Bite +6 melee (1d6+3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Attach, blood drain | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +3, Ref +7, Will +4 | 
 | Abilities: | Str 14, Dex 19, Con 10, Int 2, Wis 12, Cha 11 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +3, [[Skill List#Move Silently\|Move Silently]] +8, [[Skill List#Spot\|Spot]] +5; | 
@@ -2260,7 +2260,7 @@ A dire weasel drains blood for 1d4 points of Constitution damage each round it r
 | Full Attack: | Bite +11 melee (1d8+10) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Trip | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +8, Ref +7, Will +6 | 
 | Abilities: | Str 25, Dex 15, Con 17, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +0, [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +4, [[Skill List#Spot\|Spot]] +7, [[Skill List#Survival\|Survival]] +2\*; | 
@@ -2303,7 +2303,7 @@ A dire wolf has a +2 racial bonus on Hide, Listen, Move Silently, and Spot check
 | Full Attack: | 2 claws +8 melee (1d6+6) and bite +3 melee (1d8+3) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Rage | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +8, Ref +7, Will +5 | 
 | Abilities: | Str 22, Dex 17, Con 19, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Climb\|Climb]] +14, [[Skill List#Listen\|Listen]] +7, [[Skill List#Spot\|Spot]] +7; | 
@@ -2342,7 +2342,7 @@ A dire wolverine has a +8 racial bonus on Climb checks and can always choose to 
 | Full Attack: | Slam +5 melee (1d6+1) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Detect thoughts | 
-| Special Qualities: | Change Shape, Immunity To *sleep* And Charm Effects; | 
+| Special Qualities | Change Shape, Immunity To *sleep* And Charm Effects; | 
 | Saves: | Fort +4, Ref +5, Will +6 | 
 | Abilities: | Str 12, Dex 13, Con 12, Int 13, Wis 14, Cha 13 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +10\*, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Disguise\|Disguise]] +9\* (+11 Acting), [[Skill List#Intimidate\|Intimidate]] +3, [[Skill List#Listen\|Listen]] +6, [[Skill List#Sense Motive\|Sense Motive]] +6, [[Skill List#Spot\|Spot]] +6; | 
@@ -3409,7 +3409,7 @@ Bluff, Disguise, and Jump are considered class skills for silver dragons.
 | Full Attack: | Bite +18 melee (4d6+8) and 2 claws +13 melee (2d8+4) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Breath weapon, snatch, capsize | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, *sleep, [[Special Abilities#paralysis\|* And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, *sleep, [[Special Abilities#paralysis\|* And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +13, Ref +8, Will +9 | 
 | Abilities: | Str 27, Dex 10, Con 21, Int 12, Wis 13, Cha 12 | 
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Hide\|Hide]] +7\*, [[Skill List#Intimidate\|Intimidate]] +16, [[Skill List#Listen\|Listen]] +16, [[Skill List#Search\|Search]] +16, [[Skill List#Sense Motive\|Sense Motive]] +16, [[Skill List#Spot\|Spot]] +16, [[Skill List#Survival\|Survival]] +16 (+18 Following Tracks), [[Skill List#Swim\|Swim]] +21; | 
@@ -3457,7 +3457,7 @@ It can use the run action while swimming, provided it swims in a straight line.
 | Full Attack: | Bite +12 melee (2d6+4) and 2 claws +7 melee (2d4+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Pounce, roar | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +9, Ref +8, Will +4 | 
 | Abilities: | Str 19, Dex 15, Con 17, Int 6, Wis 12, Cha 12 | 
 | Skills: | [[Skill List#Listen\|Listen]] +11, [[Skill List#Spot\|Spot]] +11; | 
@@ -3504,7 +3504,7 @@ A light load for a dragonne is up to 348 pounds; a medium load, 349--699 pounds,
 | Full Attack: | 2 daggers +3 melee (1d6+2/19--20, 1d6+1/19--20) and bite +1 melee (1d4+1 plus poison); or shortbow +5 ranged (1d8/x3) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Spells, spell-like abilities, poison | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  17; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  17; | 
 | Saves: | Fort +5, Ref +4, Will +8 | 
 | Abilities: | Str 15, Dex 15, Con 16, Int 15, Wis 16, Cha 16 | 
 | Skills: | [[Skill List#Climb\|Climb]] +14, [[Skill List#Concentration\|Concentration]] +9, [[Skill List#Hide\|Hide]] +10, [[Skill List#Listen\|Listen]] +9, [[Skill List#Move Silently\|Move Silently]] +12, [[Skill List#Spot\|Spot]] +9; | 
@@ -3556,7 +3556,7 @@ A drider has a +4 racial bonus on Hide and Move Silently checks. It has a +8 rac
 | Full Attack: | Dagger +6 melee (1d4/19--20) or masterwork longbow +7 ranged (1d8/x3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, Tree Dependent, Wild Empathy; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, Tree Dependent, Wild Empathy; | 
 | Saves: | Fort +3, Ref +8, Will +6 | 
 | Abilities: | Str 10, Dex 19, Con 11, Int 14, Wis 15, Cha 18 | 
 | Skills: | [[Skill List#Escape Artist\|Escape Artist]] +11, [[Skill List#Handle Animal\|Handle Animal]] +11, [[Skill List#Hide\|Hide]] +11, [[Skill List#Knowledge\|Knowledge]] (nature) +11, [[Skill List#Listen\|Listen]] +9, [[Skill List#Move Silently\|Move Silently]] +11, [[Skill List#Ride\|Ride]] +6, [[Skill List#Spot\|Spot]] +9, [[Skill List#Survival\|Survival]] +9, [[Skill List#Use Rope\|Use Rope]] +4 (+6 With Bindings); | 

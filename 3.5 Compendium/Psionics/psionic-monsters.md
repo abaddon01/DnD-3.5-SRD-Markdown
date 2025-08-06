@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Psionics/ Psionic Monsters
+title: 3.5 Compendium  - v3.5 SRD - Psionics - Psionic Monsters
 aliases: 3.5 Psionic Monsters
-tags: 3.5e/rules / v3.5_srd / psionics / psionic_monsters
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - psionics
+  - psionic_monsters
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -126,7 +132,7 @@ psi-like abilities.) It also applies to creatures from other sources that have s
 Characters who have levels in any class that grants the use of psionics, or who have psi-like abilities as racial
 traits, gain the psionic subtype.
 
-### Traits:
+#### Traits:
  Other than the fact that all psionic creatures have psionic powers or psi-like abilities,
 psionic creatures have no specific traits. The psionic subtype simply identifies creatures that may be vulnerable
 to powers, spells, and effects targeting psionic creatures.
@@ -240,16 +246,16 @@ power name.
 
 ## Aboleth, Psionic
 Huge Aberration (Aquatic, Psionic)
-### Special Attacks:
+#### Special Attacks:
  Psi-like abilities, slime
-### Feats:
+#### Feats:
  Alertness, Combat Manifestation, Iron Will
 ### Combat
 
 A psionic aboleth does not possess spell-like abilities or the enslave ability of the standard aboleth. Instead,
 it has psi-like abilities, including _psionic dominate._
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  At will---_disable_ (30-ft. cone, 12 HD, DC 20*),
 _false sensory input_ (five targets, DC 16*), _mental disruption_ (20-ft. radius, DC 18*),
 _mindlink_ (unwilling, nine targets, DC 14*); 3/day---_ego whip_ (ML 7th, 2d4, DC 17*)_, id insinuation_
@@ -281,14 +287,14 @@ that looks like an accurate portrayal of that creature type; a result of 30 or h
 looks like a specific individual. No matter how high the Craft (sculpting) check result, though, an astral
 construct’s appearance can’t hide the otherworldly material from which it is formed.
 
-### Construct Traits:
+#### Construct Traits:
  An astral construct has immunity to poison, _sleep,_ paralysis, stunning,
 disease, death effects, necromancy effects, mind-affecting effects (charms, compulsions, phantasms, patterns, and
 morale effects), and any effect that requires a Fortitude save unless it also works on objects or is harmless. It
 is not subject to critical hits, nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy
 drain. It cannot heal damage, but it can be repaired.
 
-### Special Abilities:
+#### Special Abilities:
  Every time an astral construct is created, the manifester can choose to apply
 one special ability to the construct. When the manifester begins to manifest the _astral construct_ power, he
 chooses one or more special abilities from a menu of abilities appropriate to that level of astral construct.
@@ -311,33 +317,33 @@ An astral construct does not need to meet the prerequisites for a feat granted b
 A manifester creating a 1st-level, 2nd-level, or 3rd-level astral construct can choose one special ability from
 this menu.
 
-### Buff (Ex):
+#### Buff (Ex):
  The astral construct gains an extra 5 hit points.
-### Celerity (Ex):
+#### Celerity (Ex):
  The astral construct’s land speed is increased by 10 feet.
-### Cleave (Ex):
+#### Cleave (Ex):
  The astral construct gains the Cleave feat.
-### Deflection (Ex):
+#### Deflection (Ex):
  The astral construct gains a +1 deflection bonus to Armor Class.
-### Fly (Ex):
+#### Fly (Ex):
  The astral construct has physical wings and a fly speed of 20 feet (average).
-### Improved Bull Rush (Ex):
+#### Improved Bull Rush (Ex):
  The astral construct gains the Improved Bull Rush feat.
-### Improved Slam Attack (Ex):
+#### Improved Slam Attack (Ex):
  The astral construct gains the Improved Natural Attack feat.
-### Mobility (Ex):
+#### Mobility (Ex):
  The astral construct gains the Mobility feat.
-### Power Attack (Ex):
+#### Power Attack (Ex):
  The astral construct gains the Power Attack feat.
 
-### Resistance (Ex):
+#### Resistance (Ex):
  Choose one of the following energy types: fire, cold, acid, electricity, or
 sonic. The astral construct gains resistance 5 against that energy type.
 
-### Swim (Ex):
+#### Swim (Ex):
  The astral construct is streamlined and shark like, and gains a swim speed of 30 feet.
 
-### Trip (Ex):
+#### Trip (Ex):
  If the astral construct hits with a slam attack, it can attempt to trip the opponent
 as a free action without making a touch attack or provoking attacks of opportunity. If the attempt fails, the
 opponent cannot react to trip the astral construct.
@@ -347,60 +353,60 @@ opponent cannot react to trip the astral construct.
 A manifester creating a 4th-level, 5th-level, or 6th-level astral construct can choose one special ability from
 this menu. Alternatively, the construct can have two special abilities from Menu A.
 
-### Energy Touch (Ex):
+#### Energy Touch (Ex):
  If you are a kineticist, the astral construct’s physical attacks are wreathed
 in your energy type, dealing an extra 1d6 points of energy damage. If you are not a kineticist, the astral
 construct deals an extra 1d4 points of damage of an energy type you choose (fire, cold, acid, or electricity) when
 you manifest the construct.
 
-### Extra Attack:
+#### Extra Attack:
  If the astral construct is Medium or smaller, it gains two slam attacks instead of
 one when it makes a full attack. Its bonus on damage rolls for each attack is equal to its Strength modifier, not
 its Strength modifier x 1-1/2. If the astral construct is Large or larger, it gains three slams instead of two
 when it makes a full attack. Its attacks are otherwise unchanged.
 
-### Fast Healing (Ex):
+#### Fast Healing (Ex):
  The astral construct heals 2 hit points each round. It is still immediately
 destroyed when it reaches 0 hit points.
 
-### Heavy Deflection (Ex):
+#### Heavy Deflection (Ex):
  The astral construct gains a +4 deflection bonus to Armor Class.
-### Improved Buff (Ex):
+#### Improved Buff (Ex):
  The astral construct gains an extra 15 hit points.
 
-### Improved Critical (Ex):
+#### Improved Critical (Ex):
  The astral construct gains the Improved Critical feat with its slam
 attacks.
 
-### Improved Damage Reduction (Ex):
+#### Improved Damage Reduction (Ex):
  The astral construct’s surface forms a hard carapace and provides
 an additional 3 points of damage reduction (or damage reduction 3/magic if it does not already have damage
 reduction).
 
-### Improved Fly (Ex):
+#### Improved Fly (Ex):
  The astral construct has physical wings and a fly speed of 40 feet (average).
 
-### Improved Grab (Ex):
+#### Improved Grab (Ex):
  To use this ability, the construct must hit with its slam attack. A construct
 can use this ability only on a target that is at least one size smaller than itself.
 
 Improved Swim: The astral construct is streamlined and sharklike, and gains a swim speed of 60 feet.
-### Muscle (Ex):
+#### Muscle (Ex):
  The astral construct gains a +4 bonus to its Strength score.
 
-### Poison Touch (Ex):
+#### Poison Touch (Ex):
  If the astral construct hits with a melee attack, the target must make an
 initial Fortitude save (DC 10 + 1/2 astral construct’s HD + astral construct’s Cha modifier) or take 1 point of
 Constitution damage. One minute later, the target must save again or take 1d2 points of Constitution damage.
 
-### Pounce (Ex):
+#### Pounce (Ex):
  If the astral construct charges a foe, it can make a full attack.
 
-### Smite (Su):
+#### Smite (Su):
  Once per day the astral construct can make one attack that deals extra damage equal
 to its Hit Dice.
 
-### Trample (Ex):
+#### Trample (Ex):
  As a standard action during its turn each round, a Large or larger astral construct
 can literally run over an opponent at least one size smaller than itself. It merely has to move over the opponent
 to deal bludgeoning damage equal to 1d8 + its Str modifier. The target can attempt a Reflex save (DC 10 + 1/2
@@ -413,52 +419,52 @@ A manifester creating a 7th-level, 8th-level, or 9th-level astral construct can 
 this menu. Alternatively, the astral construct can have two special abilities from Menu B. (One or both of the
 Menu B choices can be swapped for two choices from Menu A.)
 
-### Blindsight (Ex):
+#### Blindsight (Ex):
  The astral construct has blindsight out to 60 feet.
 
-### Concussion (Sp):
+#### Concussion (Sp):
  The astral construct can manifest _concussion blast_ (manifester level 7th)
 as a free action once per round.
 
-### Constrict (Ex):
+#### Constrict (Ex):
  The astral construct has the improved grab ability with its slam attack. In
 addition, on a successful grapple check, the astral construct deals damage equal to its slam damage.
 
-### Dimension Slide (Sp):
+#### Dimension Slide (Sp):
  The astral construct can manifest _dimension slide_ (manifester level
 equal to Hit Dice) as a move action once per round.
 
-### Energy Bolt (Sp):
+#### Energy Bolt (Sp):
  The astral construct can manifest _energy bolt_ (manifester level 8th) as
 a standard action once per round. The creator sets the energy type that the astral construct can manifest when he
 creates it.
 
-### Extra Buff (Ex):
+#### Extra Buff (Ex):
  The astral construct gains an extra 30 hit points.
 
-### Extreme Damage Reduction (Ex):
+#### Extreme Damage Reduction (Ex):
  The astral construct’s surface forms hard, armor-like plates and
 provides an additional 6 points of damage reduction.
 
-### Extreme Deflection (Ex):
+#### Extreme Deflection (Ex):
  The astral construct gains a +8 deflection bonus to Armor Class.
 
-### Natural Invisibility (Su):
+#### Natural Invisibility (Su):
  The astral construct is constantly invisible, even when attacking.
 This ability is inherent and not subject to the _invisibility purge_ spell.
 
-### Power Resistance (Ex):
+#### Power Resistance (Ex):
  The astral construct gains power resistance equal to 10 + its Hit Dice.
 
-### Rend (Ex):
+#### Rend (Ex):
  The astral construct makes claw attacks instead of slam attacks (it deals the same
 amount of damage as it would with its slam damage, but does slashing damage instead of bludgeoning damage). An
 astral construct that hits the same opponent with two claw attacks in the same round rends its foe, which deals
 extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 
-### Spring Attack (Ex):
+#### Spring Attack (Ex):
  The astral construct gains the Spring Attack feat.
-### Whirlwind Attack (Ex):
+#### Whirlwind Attack (Ex):
  The astral construct gains the Whirlwind Attack feat.
 ## 1st-Level Astral Construct
 
@@ -737,7 +743,7 @@ Most blues encountered outside their homes are psions; the information in the st
 Blues support goblin warriors in combat and are often called upon to lead a gang of goblins (from the rear) into
 battle.
 
-### Psionic Powers:
+#### Psionic Powers:
  The blue described here is a 1st-level psion.
 
 _Typical Psion Powers Known_ (power points 3*; save DC 12 + power level): 1st---_inertial armor, mind thrust_
@@ -745,7 +751,7 @@ _Typical Psion Powers Known_ (power points 3*; save DC 12 + power level): 1st---
 
 Manifester level 1st. The save DCs are Intelligence-based.
 *The blue shown here has already manifested _inertial armor;_ its reserve is normally 4 power points.
-### Skills:
+#### Skills:
  Blues have a +4 racial bonus on Move Silently checks and Ride checks.
 
 The blue psion presented here had the following ability scores before racial adjustments: Str 8, Dex 11, Con 12,
@@ -807,24 +813,24 @@ brain moles then attack with their _power leech_ ability. The moles remain hidde
 threatened, they use _aversion_ and _mind thrust_ to discourage attackers, using their bite only as a
 last resort.
 
-### Cascade Flu (Ex):
+#### Cascade Flu (Ex):
  Disease---bite; Fortitude DC 9, incubation period one day, damage psionic cascade
 (every time an afflicted character manifests a power, she must make a DC 16 Concentration check; on a failed
 check, a psionic cascade is triggered [see Psionic Maladies]). The save DC is Constitution-based.
 
-### Psi-Like Abilities: At will---_detect psionics, power leech_ (ML 5th, DC 14); 3/day---_aversion_
+#### Psi-Like Abilities: At will---_detect psionics, power leech_ (ML 5th, DC 14); 3/day---_aversion_
 (DC 12)_, mind thrust_ (DC 11). Manifester level 1st. The save DCs are Charisma-based.
 
-### Hide Mind (Su):
+#### Hide Mind (Su):
  A brain mole cannot be identified as psionic by divination spells or
 clairsentience powers.
 
-### Power Conversion (Su):
+#### Power Conversion (Su):
  When a brain mole drains a power point by means of its
 _power leech_ power, it immediately heals 1 hit point. If it is already at full normal hit points, it instead
 gains psionic sustenance sufficient to supply its need for nourishment for 24 hours.
 
-### Skills:
+#### Skills:
  Brain moles have a +4 racial bonus on Hide and Move Silently checks and a -2 racial
 penalty on Spot checks.
 
@@ -860,7 +866,7 @@ terror. It seeks to draw others into its fearwracked, hellish existence.
 Callers in darkness rarely speak, but when they do, they speak Common.
 ### Combat
 
-### Psi-Like Abilities: At will---_clairvoyant sense, concussion blast_ (two targets, 3d6*)_, detect psionics, ego whip_
+#### Psi-Like Abilities: At will---_clairvoyant sense, concussion blast_ (two targets, 3d6*)_, detect psionics, ego whip_
 (2d4, DC 16*), _mind thrust_ (7d10, DC 16*); 3/day---_death urge_ (DC 16), _psychic crush_ (DC 13**),
 _psionic suggestion_ (three targets, DC 14*); 1/ day---_co-opt concentration_ (DC 18). Manifester level
 7th. The save DCs are Charisma-based.
@@ -868,7 +874,7 @@ _psionic suggestion_ (three targets, DC 14*); 1/ day---_co-opt concentration_ (D
 *Includes augmentation for the caller’s manifester level.
 **Includes the inherent +4 save adjustment described in the power.
 
-### Steal Essence (Su):
+#### Steal Essence (Su):
  Any living, intelligent creature slain by a caller in darkness’s touch attack
 is mentally absorbed into the monster’s consciousness. (The physical body of the victim remains intact). Stealing
 a victim’s essence is a free action; it grants the caller 12 temporary hit points, and a permanent new screaming
@@ -879,7 +885,7 @@ or sleeping, or that are helpless due to having a mental ability score reduced t
 _ego whip_ attack). Doing so is a standard action that provokes attacks of opportunity. The victim dies, and
 the caller gains 12 temporary hit points.
 
-### Incorporeal Traits:
+#### Incorporeal Traits:
  A caller in darkness is harmed only by other incorporeal creatures, magic
 weapons, spells, spell-like abilities, and supernatural abilities. It has a 50% chance to ignore any damage from a
 corporeal source, except for force effects or attacks made with ghost touch weapons. It can pass through solid
@@ -887,19 +893,19 @@ objects, but not force effects, at will. Its attacks ignore natural armor, armor
 bonuses and force effects work normally against them. The creature always moves silently and cannot be heard with
 Listen checks if it doesn’t wish to be.
 
-### Undead Traits:
+#### Undead Traits:
  A caller in darkness is immune to mind-affecting effects, poison,
 _sleep,_ paralysis, stunning, disease, death effects, and any effect that requires a Fortitude save unless it
 also works on objects or is harmless. It is not subject to critical hits, nonlethal damage, ability damage to its
 physical ability scores, ability drain, energy drain, fatigue, exhaustion, or death from massive damage. It cannot
 be raised, and _resurrection_ works only if it is willing. It has darkvision out to 60 feet.
 
-### Unnatural Aura (Su):
+#### Unnatural Aura (Su):
  Animals can sense the unnatural presence of a caller in darkness. Any animal
 within 30 feet must make a DC 17 Will save or become panicked until it is no longer within 30 feet of the caller
 in darkness. A panicked creature that is cornered begins cowering. The save DC is Charisma-based.
 
-### Vulnerability to Sunlight (Ex):
+#### Vulnerability to Sunlight (Ex):
  Callers in darkness are utterly powerless in natural sunlight
 (not merely a _daylight_ spell) and flee from it. A caller caught in sunlight cannot attack and can take only
 a single move action or standard action each turn, but not both (nor can it take full-round actions).
@@ -940,7 +946,7 @@ Attack).
 A cerebrilith’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned
 for the purpose of overcoming damage reduction.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  At will---_brain lock_ (any nonmindless, DC 17*),
 _detect psionics, ego whip_ (2d4, DC 19*)_, id insinuation_ (four targets, DC 20*)_, mind trap_ (5
 rounds*); 3/day---_psionic dominate_ (24 hours, DC 20*), _ectoplasmic form_, _mind probe_ (DC 20);
@@ -948,32 +954,32 @@ rounds*); 3/day---_psionic dominate_ (24 hours, DC 20*), _ectoplasmic form_, _mi
 
 *Includes augmentation for the cerebrilith’s manifester level.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
  At will---_deeper darkness, desecrate, detect good, dispel good_ (DC
 20)_, greater teleport_ (self plus 50 pounds of objects only), _magic circle against good_ (DC 18)_, unholy blight_
 (DC 19). Caster level 9th. The save DCs are Charisma-based.
 
-### Summon Demon (Sp):
+#### Summon Demon (Sp):
  Once per day a cerebrilith can attempt to summon 4d6 dretches or another
 cerebrilith with a 35% chance of success. This ability is equivalent to a 4th-level spell.
 
-### Outsider Traits:
+#### Outsider Traits:
  A cerebrilith cannot be _raised, reincarnated_ or
 _resurrected_ (though a _limited wish, wish_, _miracle_, or _true resurrection_ spell can
 restore life). It has darkvision out to 60 feet.
 
-### Skills:
+#### Skills:
  Cerebriliths have a +8 racial bonus on Listen and Spot checks.
 ## Couatl, Psionic
 Large Outsider (Native, Psionic)
-### Special Attacks:
+#### Special Attacks:
  Constrict 2d8+6, improved grab, poison, psi-like abilities, spells
 ### Combat
 
 The psionic couatl does not possess the psionic spell-like abilities of the standard couatl. Instead, it has
 psi-like abilities.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  At will---_aura sight, cloud mind_ (DC 15),
 _detect psionics, read thoughts_ (DC 15); 3/day---_mental barrier_ (2 rounds*)_, metamorphosis, psionic plane shift, thought shield_
 (power resistance 19*). Manifester level 9th. The save DCs are Charisma-based.
@@ -1013,11 +1019,11 @@ cycle: To make a single juvenile, a crysmal generally needs eight to ten gems, e
 Crysmals understand Terran but do not speak.
 ### Combat
 
-### Psi-Like Abilities: At will---_control object, control sound, detect psionics, empty mind, mind thrust_
+#### Psi-Like Abilities: At will---_control object, control sound, detect psionics, empty mind, mind thrust_
 (2d10, DC 13*); 3/day---_psionic dimension door._ Manifester level 2nd. The save DCs are Charisma-based.
 
 *Includes augmentation for the crysmal’s manifester level.
-### Skills:
+#### Skills:
  Crysmals have a +8 racial bonus on Appraise checks and Spot checks.
 ## Dromite
 
@@ -1056,7 +1062,7 @@ warrior of 1st level.
 
 ### Combat
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  1/day: _energy ray_ (fire, 1d6+1). Manifester level 1st. The save DC is
 Charisma-based. (Other dromites may manifest electricity, cold, or sonic _energy rays_ instead; the
 _energy ray_ always matches the type of energy the dromite is resistant to.)
@@ -1087,14 +1093,14 @@ sonics instead of fire), scent.
 ## Duergar, Psionic
 Duergar, 1st-Level Warrior
 Medium Humanoid (Dwarf, Psionic)
-### Special Attacks:
+#### Special Attacks:
  Duergar traits, psi-like abilities
 ### Combat
 
 A psionic duergar does not possess the spell-like abilities of standard duergars. Instead, it has psi-like
 abilities.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  1/day---_expansion, invisibility._
 These abilities are as the power (or spell) manifested by a psion (or sorcerer) of the duergar’s Hit Dice (minimum
 3rd level) and affect only the duergar and whatever he carries.
@@ -1179,14 +1185,14 @@ Elans speak Common.
 Most elans are psions or psychic warriors.
 ### Combat
 
-### Repletion (Su):
+#### Repletion (Su):
  By expending 1 power point, an elan does not need to eat or drink for 24 hours.
 
-### Resilience (Su):
+#### Resilience (Su):
  As an immediate action, an elan can reduce the damage he is about to take by 2
 points for every 1 power point spent.
 
-### Resistance (Su):
+#### Resistance (Su):
  As an immediate action, an élan can spent 1 power point to gain a +4 racial
 bonus on saving throws until the beginning of his next turn.
 
@@ -1236,7 +1242,7 @@ A folugub can scent a crystal object up to 90 feet away, and once it has the sce
 goal. It usually ceases attacking to devour a freshly liquefied crystal. The creature targets the largest crystal
 object available.
 
-### Liquefy Crystal (Ex):
+#### Liquefy Crystal (Ex):
  A folugub that makes a successful touch attack with its tongue causes the
 target crystal to change phase, turning immediately from solid to liquid and becoming worthless. The touch can
 destroy up to a 5-foot cube of crystal instantly. Magic or psionic items made of crystal (including crystalline
@@ -1278,7 +1284,7 @@ living creature. It always breaks off attacks against nonpsionic foes if psionic
 creatures it refuses to eat are elves (and it dislikes the taste of dwarves). No challenge seems too extreme to
 it, even if that means bulling into the center of a powerful party of manifesters.
 
-### Null Psionic Exhalation (Su):
+#### Null Psionic Exhalation (Su):
  As a free action, a gray glutton can breathe forth a cloud of pale
 blue translucent gas into an adjacent 10-foot cube. The gas is psionically poisonous; the initial damage is 1d4
 power points, and the secondary damage is 3d4 power points (Fortitude DC 18 negates). Affected psionic characters
@@ -1322,15 +1328,15 @@ Half-giants speak Common. Many also learn Giant.
 Because of their giant ancestry, half-giants are able to use weapons sized for creatures larger than normal
 humans. They gain considerable satisfaction in using these large weapons in combat against their foes.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  1/day: _stomp_ (DC 10). Manifester level equal to 1/2 HD (minimum 1st).
 The save DC is Charisma-based.
 
-### Fire Acclimated (Ex):
+#### Fire Acclimated (Ex):
  Half-giants have a +2 racial bonus on saving throws against all fire spells
 and effects.
 
-### Powerful Build (Ex):
+#### Powerful Build (Ex):
  The physical stature of half-giants lets them function in many ways as if
 they were one size category larger. Whenever a half-giant is subject to a size modifier or special size modifier
 for an opposed check (such as during grapple checks, bull rush attempts, and trip attempts), the half-giant is
@@ -1390,7 +1396,7 @@ possession of a body also knows the languages known by that victim.
 
 ### Combat
 
-### Body Thief (Su):
+#### Body Thief (Su):
  When an intellect devourer overcomes a lone victim, it consumes the victim’s
 brain and enters the skull. As a full-round action that provokes attacks of opportunity, the devourer can merge
 its form with that of a helpless or dead creature of Small size or larger. The devourer cannot merge its body with
@@ -1408,7 +1414,7 @@ _polymorph_ to assume the victim’s form. As long as the intellect devourer occ
 languages spoken by the victim and very basic information about the victim’s identity and personality, but none of
 the victim’s specific memories or knowledge.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  At will---_cloud mind, compression, detect psionics, ego whip_ (2d4, DC
 16*), _empty mind_ (+5 on Will saves*), _id insinuation_ (three targets, DC 16*); 3/day---_body adjustment_
 (2d12*), _intellect fortress, painful strike._ Manifester level 7th.
@@ -1416,15 +1422,15 @@ the victim’s specific memories or knowledge.
 The save DCs are Charisma-based.
 *Includes augmentation for the intellect devourer’s manifester level.
 
-### Blindsight (Ex):
+#### Blindsight (Ex):
  An intellect devourer can use nonvisual means to ascertain all foes within 60
 feet as a sighted creature would.
 
-### Vulnerability to Protection from Evil (Ex):
+#### Vulnerability to Protection from Evil (Ex):
  An intellect devourer is treated as a summoned
 creature for the purpose of determining how it is affected by a _protection from evil_ spell.
 
-### Skills:
+#### Skills:
  Intellect devourers have a +8 racial bonus on Bluff checks, useful for passing off the
 possessed body as the original. They also have a +8 racial bonus on Move Silently checks and Listen checks.
 
@@ -1462,11 +1468,11 @@ armor if possible.
 Maenads speak their own language and Common.
 ### Combat
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  1/day---_energy ray_. A maenad can deal only sonic damage with this
 ability. Manifester level equal to 1/2 Hit Dice (minimum 1st). The save DC is Charisma-based.
 
-### Outburst (Ex):
+#### Outburst (Ex):
  Once per day for up to 4 rounds a maenad can subjugate his mentality. He takes a
 -2 penalty to Intelligence and Wisdom but gains a +2 bonus to Strength.
 
@@ -1511,16 +1517,16 @@ understand Undercommon, they rarely communicate in a meaningful way.
 
 ### Combat
 
-### Breath Weapon (Su):
+#### Breath Weapon (Su):
  Cone of acid 50 feet long, once every 1d4 rounds; damage 14d10 acid, Reflex
 half DC 30.
 
-### Improved Grab (Ex):
+#### Improved Grab (Ex):
  To use this ability, a neothelid must hit a creature with two tentacles
 during the same attack. If it gets a hold, it automatically deals tentacle damage and can attempt to swallow the
 foe.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  At will---_body equilibrium, psionic charm_
 (all targets, duration 15 days, DC 21*),
 _clairvoyant sense, psionic levitate, read thoughts_ (DC 17*), _psionic suggestion_ (seven targets, DC
@@ -1531,7 +1537,7 @@ _telekinetic thrust_ (500 lb., DC 18*), _psionic teleport, trace teleport, truev
 *Includes augmentation for the neothelid’s manifester level.
 **Includes the inherent +4 save adjustment described in the power.
 
-### Swallow Whole (Ex):
+#### Swallow Whole (Ex):
  A neothelid can try to swallow a grabbed opponent of a smaller size than
 itself by making a successful grapple check. Once inside, the opponent takes 2d8+15 points of crushing damage plus
 2d6 points of acid damage per round from stomach secretions. A swallowed creature can cut its way out by using a
@@ -1539,7 +1545,7 @@ light slashing or piercing weapon to deal 25 points of damage to the stomach (AC
 muscular action closes the hole; another swallowed opponent must cut its own way out. A neothelid’s interior can
 hold 1 Huge, 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller opponents.
 
-### Blindsight (Ex):
+#### Blindsight (Ex):
  A neothelid can use nonvisual means to ascertain all foes within 100 feet as a
 sighted creature would.
 
@@ -1557,11 +1563,11 @@ class to hone their mental powers.
 psionic subtype (referred to hereafter as the "base creature"). A phrenic creature uses all the base creature’s
 statistics and special abilities except as noted here.
 
-### Size and Type:
+#### Size and Type:
  The creature’s type does not change, unless it is an animal (in which case it
 becomes a magical beast [augmented animal]). It gains the psionic subtype.
 
-### Psi-Like Abilities (Sp):
+#### Psi-Like Abilities (Sp):
  A phrenic creature possesses the psi-like abilities indicated below,
 depending on its Hit Dice. The abilities are cumulative. Unless otherwise noted, an ability is usable once per
 day. Manifester level is equal to the creature’s HD. The save DCs for a phrenic creature’s psi-like abilities are
@@ -1580,25 +1586,25 @@ Charisma-based.
 | 17-18 | 1/day---_fission_ |
 | 19-20 | 1/day---_ultrablast_ |
 
-### Special Qualities:
+#### Special Qualities:
  A phrenic creature has all the special qualities of the base creature, plus
 the following special qualities.
 
 _Naturally Psionic:_ A phrenic creature gains 1 bonus power point.
 _Power Resistance (Ex):_ A phrenic creature has power resistance equal to its Hit Dice +10.
 
-### Abilities:
+#### Abilities:
  Increase from the base creature as follows: Int +2 (if Int is 3 or greater), Wis +2,
 Cha +4.
 
-### Feats:
+#### Feats:
  A phrenic creature can take psionic feats, if it meets the prerequisites for such feats.
 
-### Challenge Rating:
+#### Challenge Rating:
  Up to 5 HD, same as base creature +1; 6-10 HD, same as base creature +2; 11+
 HD, same as base creature +3.
 
-### Level Adjustment:
+#### Level Adjustment:
  Same as base creature +2.
 ## Phthisic
 
@@ -1633,18 +1639,18 @@ DC 25 Spot check to note the resemblance).
 A phthisic speaks the primary language of the mind that birthed it, usually Common.
 ### Combat
 
-### Mind Feed (Ex):
+#### Mind Feed (Ex):
  A phthisic that hits with its bite attack deals 1d4 points of Intelligence
 damage. If this effect reduces the opponent’s Intelligence score to 0, the ability damage becomes ability drain.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  3/day---_brain lock_ (affects animals, fey, giants, humanoids, magical
 beasts, and monstrous humanoids, DC 15*), _dimension slide_, _ego whip_ (1d4, DC 15*)_, mental barrier, mind thrust_
 (ML 4th, 4d10, DC 15*), _skate;_ 1/day---_body adjustment_ (heal 1d12*), _catapsi_ (DC 18).
 Manifester level 6th. The save DCs are Charisma-based.
 
 *Includes augmentation for the phthisic’s manifester level.
-### Regeneration (Ex):
+#### Regeneration (Ex):
  Fire and acid deal normal damage to a phthisic.
 ## Psicrystal
 
@@ -1680,7 +1686,7 @@ A psicrystal’s characteristics depend on its master. Its Hit Dice are equal to
 only levels in psion or wilder), its hit points are equal to half its master’s, and its saving throw bonuses are
 the same as its master’s.
 
-### Construct Traits:
+#### Construct Traits:
  A psicrystal has immunity to poison, _sleep,_ paralysis, stunning,
 disease, death effects, necromancy effects, mind-affecting effects (charms, compulsions, phantasms, patterns, and
 morale effects), and any effect that requires a Fortitude save unless it also works on objects or is harmless. It
@@ -1688,13 +1694,13 @@ is not subject to critical hits, nonlethal damage, ability damage, ability drain
 drain. It cannot heal damage, but it can be repaired. Psicrystals do not have the usual construct traits of
 darkvision and low-light vision.
 
-### Psicrystal Granted Abilities:
+#### Psicrystal Granted Abilities:
  The psicrystal described here has the special abilities of
 self-propulsion, alertness, improved evasion, share powers, telepathic link, sighted, and personality (If its
 master chooses not to activate the self-propulsion ability, the psicrystal reverts to a speed of 0 feet and has no
 Strength score and no Dexterity score.)
 
-### Skills:
+#### Skills:
  A psicrystal (with its self-propulsion ability activated) uses its Dexterity modifier
 instead of its Strength modifier on Climb checks. It has a +8 racial bonus on Climb checks and can always choose
 to take 10, even if rushed or threatened.
@@ -1739,18 +1745,18 @@ uncommanded, a psion-killer usually follows its last instruction to the best of 
 returns the attack. Its creator can give a psion-killer a simple command to govern its actions in his or her
 absence.
 
-### Dispel Psionics (Su):
+#### Dispel Psionics (Su):
  A psion-killer can use _dispel psionics_ as a free action once per
 round. The effect is as an area dispel in a 30-foot-radius burst. The dispel check is 1d20+10.
 
-### Construct Traits:
+#### Construct Traits:
  A psion-killer has immunity to poison, _sleep_ effects, paralysis,
 stunning, disease, death effects, necromancy effects, mind-affecting effects (charms, compulsions, phantasms,
 patterns, and morale effects), and any effect that requires a Fortitude save unless it also works on objects or is
 harmless. It is not subject to critical hits, nonlethal damage, ability damage, ability drain, fatigue,
 exhaustion, or energy drain. It cannot heal damage, but it can be repaired.
 
-### Immunity to Psionics (Ex):
+#### Immunity to Psionics (Ex):
  Psion-killers completely resist psionic effects that are subject to
 power resistance.
 
@@ -1798,31 +1804,31 @@ Puppeteers use their psionic powers in conjunction with their enthrall ability t
 hosts. Once it is in control, a puppeteer almost exclusively relies on the host’s mental and physical abilities,
 although it can use its own powers to enhance their effectiveness in a particularly dangerous situation.
 
-### Enthrall (Ex):
+#### Enthrall (Ex):
  If a puppeteer is in physical contact with a person it has charmed (the puppeteer
 establishes a physical hold by means of slender infiltrating tendrils), the subject acts as if dominated.
 (Puppeteers often seek to charm victims first and then "ask" to be picked up.) So long as the puppeteer remains in
 contact with the victim, the domination remains in effect, even if a check would normally indicate that the effect
 is broken.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  3/day--- _detect psionics, mental barrier, psionic charm_ (DC 13).
 Manifester level 1st. The save DCs are Charisma-based.
 
-### Blindsight (Ex):
+#### Blindsight (Ex):
  A puppeteer can ascertain creatures by nonvisual means within 60 feet.
 
-### Hide Mind (Su):
+#### Hide Mind (Su):
  A puppeteer cannot be identified as psionic by divination spells or
 clairsentience powers.
 
-### Host Protection (Ex):
+#### Host Protection (Ex):
  A puppeteer in control of a host is treated as an attended magic item for
 the purpose of making saving throws, even if the puppeteer is specifically targeted. A puppeteer that is attached
 to its host is treated as a creature in a grapple for the purpose of striking at the puppeteer instead of the host
 (but the host is not considered grappled in turn).
 
-### Telepathy (Su):
+#### Telepathy (Su):
  A puppeteer can communicate telepathically with any creature within 20 feet that
 has a language.
 
@@ -1854,7 +1860,7 @@ has a language.
 
 ### Combat
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  3/day---_concealing amorpha_, _hustle_,
 _mental barrier;_ 1/day---_vigor_ (+15 hp*). Manifester level 3rd.
 
@@ -1888,17 +1894,17 @@ _mental barrier;_ 1/day---_vigor_ (+15 hp*). Manifester level 3rd.
 Temporal filchers do not speak.
 ### Combat
 
-### Improved Grab (Ex):
+#### Improved Grab (Ex):
  To use this ability, a temporal filcher must hit a creature of Large size or
 smaller with two claw attacks. It can then attempt to start a grapple as a free action without provoking attacks
 of opportunity. If it wins the grapple check, it establishes a hold and uses its time filch ability.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  At will---_chameleon_, _distract_ (DC 13),
 _psionic dimension door_, _psionic levitate_, _wall walker;_ 3/ day---_mental barrier_.
 Manifester level 8th. The save DC is Charisma-based.
 
-### Time Filch (Su):
+#### Time Filch (Su):
  If a temporal filcher successfully grapples a Large or smaller creature, it
 latches onto the opponent’s body and shifts 7 minutes forward in time as a free action. Observers (if any) see the
 temporal filcher and its prey disappear in a shimmer, then reappear 7 minutes later in exactly the orientation and
@@ -1938,7 +1944,7 @@ Thought eaters do not speak.
 A thought eater can spend a maximum of 10 continuous rounds on the Material Plane before its wispy flesh finally
 dissipates and it falls dead. If badly wounded, it escapes to the Ethereal Plane rather than continuing the fight.
 
-### Eat Thoughts (Su):
+#### Eat Thoughts (Su):
  A thought eater can drain psionic power points with a successful melee touch
 attack. Each touch drains 6 power points from the opponent (or fewer, if the opponent has fewer than 6 points
 remaining). Against a nonpsionic creature or a psionic creature that currently has no power points, this touch
@@ -1946,14 +1952,14 @@ attack instead deals 1 point of Intelligence damage, which provides nourishment 
 
 A thought eater requires 12 power points per day to survive but will gorge itself on weak prey.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  At will---_detect psionics_, _distract_ (DC 13),
 _precognition, psionic daze_ (DC 13*); 3/day---_thought shield._
 
 Manifester level 3rd. The save DCs are Charisma-based.
 *Includes augmentation for the thought eater’s manifester level.
 
-### Ethereal Jaunt (Su):
+#### Ethereal Jaunt (Su):
  A thought eater can shift from the Ethereal Plane to the Material Plane as
 part of any move action, and then shift back again as a free action. The ability is otherwise identical to the
 _psionic ethereal jaunt_ power.
@@ -1991,7 +1997,7 @@ Thought slayers do not speak.
 A thought slayer can spend a maximum of 10 continuous minutes on the Material Plane before its wispy flesh finally
 dissipates and it falls dead. If badly wounded, it escapes to the Ethereal Plane rather than continuing the fight.
 
-### Mind-Consuming Gaze (Su):
+#### Mind-Consuming Gaze (Su):
  Instantly kill (by draining the mind away), range 30 feet, Fortitude DC
 19 negates. The save DC is Charisma-based. This is considered a mind-affecting death effect. If a thought slayer’s
 gaze is met indirectly (such as through a mirror or a reflection in water), the opponent does not die on a failed
@@ -2000,7 +2006,7 @@ save but instead is dazed for 14 rounds. This otherwise is a gaze effect.
 The gaze cannot affect creatures on the Material Plane while the thought slayer remains ethereal, but it can
 affect ethereal creatures while the thought slayer is on the Material Plane.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  At will---_brain lock_ (any nonmindless, DC 14*), _chameleon_,
 _detect psionics_, _distract_ (DC 13); 3/day---_body adjustment_ (5d12*), _mental barrier_ (+6
 AC, 2 rounds*)_, mind trap_ (10 rounds*), _precognition_, _wall walker;_ 1/day---_escape detection._
@@ -2008,7 +2014,7 @@ Manifester level 14th. The save DCs are Charisma-based.
 
 *Includes augmentation for the thought slayer’s manifester level.
 
-### Ethereal Jaunt (Su):
+#### Ethereal Jaunt (Su):
  A thought slayer can shift from the Ethereal Plane to the Material Plane as
 part of any move action, and then shift back again as a free action. The ability is otherwise identical to the
 _psionic ethereal jaunt_ power.
@@ -2051,12 +2057,12 @@ An udoroot takes no damage from having a crown severed or destroyed. A severed c
 used to attack, but the udoroot takes no other penalties. As long as the root system remains intact, the crown
 regrows in about a month.
 
-### Double Manifest (Ex):
+#### Double Manifest (Ex):
  An udoroot senses its surroundings and manifests its psi-like abilities
 through its crowns. It can manifest two psi-like abilities per round, as long as it has at least two crowns
 remaining.
 
-### Psi-Like Abilities:
+#### Psi-Like Abilities:
  At will---_energy stun_ (electricity, 2d6, DC 15*),
 _false sensory input_ (DC 15), _id insinuation_ (two targets, DC 15*), _mind thrust_ (ML 4th, 4d10,
 DC 14*), _telekinetic force_ (275 lb., DC 15*), _thought shield_ (power resistance 16*); 3/day---_astral construct_
@@ -2069,11 +2075,11 @@ has not been severed or destroyed.
 
 *Includes augmentation for the udoroot’s manifester level.
 
-### Blindsight (Ex):
+#### Blindsight (Ex):
  An udoroot can ascertain all foes by nonvisual means within 60 feet. If its
 crowns are destroyed, it can no longer perceive its surroundings.
 
-### Plant Traits:
+#### Plant Traits:
  An udoroot is immune to poison, _sleep_, paralysis, stunning, polymorphing,
 and mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects). It is not subject to
 critical hits.
@@ -2107,7 +2113,7 @@ critical hits.
 An unbodied uses telepathy to communicate with others.
 ### Combat
 
-### Psionic Powers:
+#### Psionic Powers:
  An unbodied manifests powers as a 4th-level psion (telepath). The save DCs are
 Intelligence-based.
 
@@ -2117,20 +2123,20 @@ _detect psionics, empty mind, mind thrust_ (DC 13*), _psionic charm_ (DC 13*); 2
 
 *Power can be augmented.
 
-### Telekinetic Force (Su):
+#### Telekinetic Force (Su):
  An unbodied can use _telekinetic force_ (DC 15) as a standard action
 that does not provoke attacks of opportunity. Manifester level 4th. The save DC is Charisma-based.
 
-### Assume Likeness (Su):
+#### Assume Likeness (Su):
  An unbodied can assume the likeness of any Small, Medium, or Large creature
 as a standard action that does not provoke attacks of opportunity. Its abilities do not change, but it appears to
 be that creature, relying on its Bluff and Disguise skills to deflect suspicion.
 
-### Hide Mind (Su):
+#### Hide Mind (Su):
  An unbodied cannot be identified as psionic by divination spells or
 clairsentience powers.
 
-### Incorporeal Traits:
+#### Incorporeal Traits:
  An unbodied is harmed only by other incorporeal creatures, magic weapons,
 powers, spells, spell-like abilities, and supernatural abilities. It has a 50% chance to ignore any damage from a
 corporeal source, except for force effects or attacks made with ghost touch weapons. It can pass through solid
@@ -2138,7 +2144,7 @@ objects, but not force effects, at will. Its attacks ignore natural armor, armor
 bonuses and force effects work normally against them. An incorporeal creature always moves silently and cannot be
 heard with Listen checks if it doesn’t wish to be.
 
-### Skills:
+#### Skills:
  An unbodied has a +4 racial bonus on Bluff and Disguise checks. *When using its assume
 likeness ability, an unbodied gets an additional +10 circumstance bonus on Disguise checks. If it can read an
 opponent’s mind, it gets a further +4 circumstance bonus on Bluff and Disguise checks.
@@ -2203,7 +2209,7 @@ bonus on Bluff and Disguise checks.
 Xephs speak their own language and Common.
 ### Combat
 
-### Burst (Su):
+#### Burst (Su):
  Three times per day, a xeph can increase his or her speed by 10 feet, plus 10 feet
 per four character levels beyond 1st, to a maximum increase of 30 feet at 9th character level and higher. These
 bursts of speed are considered a competence bonus to the xeph’s base speed. A burst of speed lasts 3 rounds.

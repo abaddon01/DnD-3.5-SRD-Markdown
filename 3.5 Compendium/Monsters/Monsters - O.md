@@ -123,7 +123,7 @@ Goblin, Terran.
 | Full Attack: | Greatsword +7 melee (3d6+7/19--20) or longbow +2 ranged (2d6/x3) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Spell-like abilities | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  90 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#regeneration\|Regeneration]]  5, [[Special Abilities#spell resistance\|Spell Resistance]]  19; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  90 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#regeneration\|Regeneration]]  5, [[Special Abilities#spell resistance\|Spell Resistance]]  19; | 
 | Saves: | Fort +7, Ref +1, Will +3 | 
 | Abilities: | Str 21, Dex 10, Con 17, Int 14, Wis 14, Cha 17 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +11, [[Skill List#Listen\|Listen]] +10, [[Skill List#Spellcraft\|Spellcraft]] +10, [[Skill List#Spot\|Spot]] +10; | 
@@ -223,7 +223,7 @@ An ooze's entire body is a primitive sensory organ that can ascertain prey by sc
 | Full Attack: | Slam +8 melee (2d6+4 plus 2d6 acid) | Slam +19 melee (3d6+12 plus 3d6 acid) | 
 | Space/Reach: | 15 ft./10 ft. | 20 ft./20 ft. | 
 | Special Attacks: | Acid, constrict 2d6+4 plus 2d6 acid, improved grab | Acid, constrict 2d8+12 plus 2d6 acid, improved grab | 
-| Special Qualities: | Blindsight 60 Ft., Split, [[Special Abilities#ooze traits\|Ooze Traits]] ; | Blindsight 60 Ft., Split, [[Special Abilities#ooze traits\|Ooze Traits]] ; | 
+| Special Qualities | Blindsight 60 Ft., Split, [[Special Abilities#ooze traits\|Ooze Traits]] ; | Blindsight 60 Ft., Split, [[Special Abilities#ooze traits\|Ooze Traits]] ; | 
 | Saves: | Fort +9, Ref --2, Will --2 | Fort +15, Ref +1, Will +1 | 
 | Abilities: | Str 17, Dex 1, Con 22, Int ---, Wis 1, Cha 1 | Str 26, Dex 1, Con 28, Int ---, Wis 1, Cha 1 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11; | [[Skill List#Climb\|Climb]] +16; | 
@@ -281,7 +281,7 @@ The save DC for the elder black pudding's acid attack (DC 29) is adjusted for it
 | Full Attack: | Slam +1 melee (1d6 plus 1d6 acid) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Acid, engulf, paralysis | 
-| Special Qualities: | Blindsight 60 Ft., Immunity To Electricity, [[Special Abilities#ooze traits\|Ooze Traits]] , Transparent; | 
+| Special Qualities | Blindsight 60 Ft., Immunity To Electricity, [[Special Abilities#ooze traits\|Ooze Traits]] , Transparent; | 
 | Saves: | Fort +9, Ref --4, Will --4 | 
 | Abilities: | Str 10, Dex 1, Con 26, Int ---, Wis 1, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -328,7 +328,7 @@ Gelatinous cubes are hard to see, even under ideal conditions, and it takes a DC
 | Full Attack: | Slam +3 melee (1d6+1 plus 1d6 acid) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Acid, constrict 1d6+1 plus 1d6 acid, improved grab | 
-| Special Qualities: | Blindsight 60 Ft., Immunity To Cold And Fire, [[Special Abilities#ooze traits\|Ooze Traits]] , Transparent; | 
+| Special Qualities | Blindsight 60 Ft., Immunity To Cold And Fire, [[Special Abilities#ooze traits\|Ooze Traits]] , Transparent; | 
 | Saves: | Fort +6, Ref --4, Will --4 | 
 | Abilities: | Str 12, Dex 1, Con 21, Int ---, Wis 1, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -375,7 +375,7 @@ A gray ooze is hard to identify, even under ideal conditions, and it takes a DC 
 | Full Attack: | Slam +5 melee (2d4+3 plus 1d4 acid) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Acid, constrict 2d4+3 plus 1d4 acid, improved grab | 
-| Special Qualities: | Blindsight 60 Ft., Split, [[Special Abilities#ooze traits\|Ooze Traits]] ; | 
+| Special Qualities | Blindsight 60 Ft., Split, [[Special Abilities#ooze traits\|Ooze Traits]] ; | 
 | Saves: | Fort +8, Ref --3, Will --3 | 
 | Abilities: | Str 15, Dex 1, Con 22, Int ---, Wis 1, Cha 1 | 
 | Skills: | [[Skill List#Climb\|Climb]] +10; | 
@@ -424,7 +424,7 @@ An ochre jelly has a +8 racial bonus on Climb checks and can always choose to ta
 | Full Attack: | Falchion +4 melee (2d4+4/18--20) or javelin +1 ranged (1d6+3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Light Sensitivity; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Light Sensitivity; | 
 | Saves: | Fort +3, Ref +0, Will --2 | 
 | Abilities: | Str 17, Dex 11, Con 12, Int 8, Wis 7, Cha 6 | 
 | Skills: | [[Skill List#Listen\|Listen]] +1, [[Skill List#Spot\|Spot]] +1; | 
@@ -510,7 +510,7 @@ Gnoll, Goblin, Abyssal.
 | Full Attack: | 2 tentacles +4 melee (1d6) and bite --2 melee (1d4) | 
 | Space/Reach: | 10 ft./10 ft. (15 ft. with tentacle) | 
 | Special Attacks: | Constrict 1d6, disease, improved grab | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +3, Ref +2, Will +6 | 
 | Abilities: | Str 11, Dex 10, Con 13, Int 5, Wis 12, Cha 6 | 
 | Skills: | [[Skill List#Hide\|Hide]] --1\*, [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +6; | 
@@ -557,7 +557,7 @@ To use this ability, an otyugh must hit with a tentacle attack. It can then atte
 | Full Attack: | 2 claws +7 melee (1d6+4) and bite +2 melee (1d8+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | Superior Lowlight Vision; | 
+| Special Qualities | Superior Lowlight Vision; | 
 | Saves: | Fort +5, Ref +7, Will +3 | 
 | Abilities: | Str 18, Dex 17, Con 12, Int 10, Wis 14, Cha 10 | 
 | Skills: | [[Skill List#Knowledge\|Knowledge]] (nature) +2, [[Skill List#Listen\|Listen]] +17, [[Skill List#Move Silently\|Move Silently]] +8\*, [[Skill List#Spot\|Spot]] +10; | 
@@ -609,7 +609,7 @@ A light load for a giant owl is up to 300 pounds; a medium load, 301--600 pounds
 | Full Attack: | 2 claws +9 melee (1d6+5) and bite +4 melee (1d8+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Improved grab | 
-| Special Qualities: | [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +9, Ref +5, Will +2 | 
 | Abilities: | Str 21, Dex 12, Con 21, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +8, [[Skill List#Spot\|Spot]] +8; | 

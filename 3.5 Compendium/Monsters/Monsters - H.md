@@ -38,7 +38,7 @@ Hags are tremendously strong. They are naturally resistant to spells and can cas
 | Full Attack: | 2 claws +13 melee (1d6+7) and bite +8 melee (1d6+3) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Improved grab, rake 1d6+7, rend 2d6+10, spell-like abilities | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  2/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  19; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  2/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  19; | 
 | Saves: | Fort +6, Ref +6, Will +6 | 
 | Abilities: | Str 25, Dex 12, Con 14, Int 13, Wis 13, Cha 10 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Diplomacy\|Diplomacy]] +2, [[Skill List#Disguise\|Disguise]] +0 (+2 Acting), [[Skill List#Hide\|Hide]] +5, [[Skill List#Intimidate\|Intimidate]] +2, [[Skill List#Listen\|Listen]] +10, [[Skill List#Spot\|Spot]] +10; | 
@@ -86,7 +86,7 @@ An annis that hits with both claw attacks latches onto the opponent's body and t
 | Full Attack: | 2 claws +13 melee (1d4+4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities, weakness, mimicry | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  90 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  18; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  90 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  18; | 
 | Saves: | Fort +6, Ref +7, Will +7 | 
 | Abilities: | Str 19, Dex 12, Con 12, Int 13, Wis 13, Cha 14 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +7, [[Skill List#Craft Or Knowledge\|Craft Or Knowledge]] (any One) +7, [[Skill List#Hide\|Hide]] +9, [[Skill List#Listen\|Listen]] +11, [[Skill List#Spot\|Spot]] +11 Swim +12; | 
@@ -134,7 +134,7 @@ A green hag has a +8 racial bonus on any Swim check to perform some special acti
 | Full Attack: | 2 claws +7 melee (1d4+4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Horrific appearance, evil eye | 
-| Special Qualities: | Amphibious, [[Special Abilities#spell resistance\|Spell Resistance]]  14; | 
+| Special Qualities | Amphibious, [[Special Abilities#spell resistance\|Spell Resistance]]  14; | 
 | Saves: | Fort +2, Ref +4, Will +4 | 
 | Abilities: | Str 19, Dex 12, Con 12, Int 10, Wis 13, Cha 14 | 
 | Skills: | [[Skill List#Craft Or Knowledge\|Craft Or Knowledge]] (any One) +3, [[Skill List#Hide\|Hide]] +4, [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +6, [[Skill List#Swim\|Swim]] +12; | 
@@ -655,7 +655,7 @@ A Nessian warhound deals an extra 1d8 points of fire d a m a g e every time it b
 | Full Attack: | 2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +6, Ref +5, Will +2 | 
 | Abilities: | Str 18, Dex 15, Con 16, Int 2, Wis 13, Cha 8 | 
 | Skills: | [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +8; | 
@@ -703,7 +703,7 @@ A light load for a hippogriff is up to 300 pounds; a medium load, 301--600 pound
 | Full Attack: | Longsword +2 melee (1d8+1/19--20) or javelin +2 ranged (1d6+1) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +4, Ref +1, Will --1 | 
 | Abilities: | Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 8 | 
 | Skills: | [[Skill List#Hide\|Hide]] +3, [[Skill List#Listen\|Listen]] +2, [[Skill List#Move Silently\|Move Silently]] +3, [[Skill List#Spot\|Spot]] +2; | 
@@ -760,7 +760,7 @@ Dwarven, Infernal, Giant, Orc.
 | Full Attack: | Bite +2 melee (1d4--1 plus poison) | 
 | Space/Reach: | 2-1/2 ft./0 ft. | 
 | Special Attacks: | Poison | 
-| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +0, Ref +4, Will +1 | 
 | Abilities: | Str 8, Dex 15, Con ---, Int 10, Wis 12, Cha 7 | 
 | Skills: | [[Skill List#Hide\|Hide]] +14, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 
@@ -810,7 +810,7 @@ Craft Construct, *arcane eye, mirror image, mending,* caster must be at least 4t
 | Full Attack: | Bite +10 melee (2d8+5) and 1d4 quills +5 melee (1d6+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Quills, howl | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +7, Ref +8, Will +7 | 
 | Abilities: | Str 21, Dex 17, Con 15, Int 6, Wis 14, Cha 8 | 
 | Skills: | [[Skill List#Climb\|Climb]] +14, [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +13, [[Skill List#Move Silently\|Move Silently]] +12, [[Skill List#Search\|Search]] +7, [[Skill List#Spot\|Spot]] +13, [[Skill List#Survival\|Survival]] +2 (+4 Following Tracks); | 

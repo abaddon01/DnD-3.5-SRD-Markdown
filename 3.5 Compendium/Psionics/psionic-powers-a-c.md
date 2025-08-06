@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Psionics/ Psionic Powers (A-C)
+title: 3.5 Compendium  - v3.5 SRD - Psionics - Psionic Powers (A-C)
 aliases: 3.5 Psionic Powers (A-C)
-tags: 3.5e/rules / v3.5_srd / psionics / psionic_powers_a-c
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - psionics
+  - psionic_powers_a-c
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

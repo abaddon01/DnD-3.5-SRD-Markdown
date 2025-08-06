@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Magic Items/ Magic Items III (Potions, Rings, and Rods)
+title: 3.5 Compendium  - v3.5 SRD - Magic Items - Magic Items III (Potions, Rings, and Rods)
 aliases: 3.5 Magic Items III (Potions, Rings, and Rods)
-tags: 3.5e/rules / v3.5_srd / magic_items / magic_items_iii_potions,_rings,_and_rods
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - magic_items
+  - magic_items_iii_potions,_rings,_and_rods
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

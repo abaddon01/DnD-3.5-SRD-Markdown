@@ -28,7 +28,7 @@ tags:
 | Full Attack: | 2 claws +7 melee (1d6+4) and bite +2 melee (1d8+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , Evasion; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , Evasion; | 
 | Saves: | Fort +5, Ref +7, Will +3 | 
 | Abilities: | Str 18, Dex 17, Con 12, Int 10, Wis 14, Cha 10 | 
 | Skills: | [[Skill List#Knowledge\|Knowledge]] (nature) +2, [[Skill List#Listen\|Listen]] +6, [[Skill List#Sense Motive\|Sense Motive]] +4, [[Skill List#Spot\|Spot]] +15, [[Skill List#Survival\|Survival]] +3; | 
@@ -630,7 +630,7 @@ class.
 | Full Attack: | Bite +3 melee (1d4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Detect Magic, Ethereal Jaunt; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Detect Magic, Ethereal Jaunt; | 
 | Saves: | Fort +1, Ref +5, Will +5 | 
 | Abilities: | Str 10, Dex 18, Con 11, Int 7, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +9, [[Skill List#Sleight Of Hand\|Sleight Of Hand]] +12, [[Skill List#Spot\|Spot]] +9; | 
@@ -676,7 +676,7 @@ Ethereal filchers have a +8 racial bonus on Sleight of Hand checks, and a +4 rac
 | Full Attack: | Bite +4 melee (1d6+3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks:--- |  | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Ethereal Jaunt; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Ethereal Jaunt; | 
 | Saves: | Fort +3, Ref +4, Will +1 | 
 | Abilities: | Str 14, Dex 12, Con 11, Int 7, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +5, [[Skill List#Move Silently\|Move Silently]] +5, [[Skill List#Spot\|Spot]] +4; | 
@@ -717,7 +717,7 @@ Ethereal marauders have a +2 racial bonus on Listen, Move Silently, and Spot che
 | Attack: | Bite +5 melee (1d8+2 plus poison) and 2 claws +3 melee (1d3+1) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Poison, web | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +4, Ref +4, Will +6 | 
 | Abilities: | Str 14, Dex 17, Con 13, Int 6, Wis 15, Cha 8 | 
 | Skills: | [[Skill List#Climb\|Climb]] +10, [[Skill List#Craft\|Craft]] (trapmaking) +4, [[Skill List#Hide\|Hide]] +9, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +8; | 
@@ -767,7 +767,7 @@ Ettercaps have a +4 racial bonus on Craft (trapmaking), Hide, and Spot checks. T
 | Full Attack: | 2 morningstars +12/+7 melee (2d6+6) or 2 javelins +5 ranged (1d8+6) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , Superior Two-weapon Fighting; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , Superior Two-weapon Fighting; | 
 | Saves: | Fort +9, Ref +2, Will +5 | 
 | Abilities: | Str 23, Dex 8, Con 15, Int 6, Wis 10, Cha 11 | 
 | Skills: | [[Skill List#Listen\|Listen]] +10, [[Skill List#Search\|Search]] +1, [[Skill List#Spot\|Spot]] +10; | 

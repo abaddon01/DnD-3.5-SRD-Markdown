@@ -28,7 +28,7 @@ tags:
 | Full Attack: | Burning touch +4 melee touch (1d8 fire plus combustion) or slam +4 melee (1d3+3 plus combustion) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Combustion, fiery aura | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#elemental traits\|Elemental Traits]] , Immunity To Fire, Melt Weapons, Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#elemental traits\|Elemental Traits]] , Immunity To Fire, Melt Weapons, Vulnerability To Cold; | 
 | Saves: | Fort +3, Ref +3, Will +0 | 
 | Abilities: | Str 15, Dex 11, Con 13, Int 8, Wis 10, Cha 10 | 
 | Skills: | [[Skill List#Climb\|Climb]] +4, [[Skill List#Spot\|Spot]] +3; | 
@@ -74,7 +74,7 @@ Any metal weapon that strikes a magmin must succeed on a DC 12 Fortitude save or
 | Full Attack: | 2 claws +10 melee (2d4+5) and bite +8 melee (1d8+2); or 6 spikes +8 ranged (1d8+2/19--20) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Spikes | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +9, Ref +7, Will +3 | 
 | Abilities: | Str 20, Dex 15, Con 19, Int 7, Wis 12, Cha 9 | 
 | Skills: | [[Skill List#Listen\|Listen]] +5, [[Skill List#Spot\|Spot]] +9, [[Skill List#Survival\|Survival]] +1; | 
@@ -113,7 +113,7 @@ With a snap of its tail, a manticore can loose a volley of six spikes as a stand
 | Full Attack: | Shortbow +8/+3 ranged (1d6/x3); or dagger +8/+3 melee (1d4/19--20) and snakes +3 melee (1d4 plus poison) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Petrifying gaze, poison | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +3, Ref +7, Will +6 | 
 | Abilities: | Str 10, Dex 15, Con 12, Int 12, Wis 13, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +9, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +9 (+11 Acting), [[Skill List#Intimidate\|Intimidate]] +4, [[Skill List#Move Silently\|Move Silently]] +8, [[Skill List#Spot\|Spot]] +8; | 
@@ -179,7 +179,7 @@ Mephits heal 2 points of damage each round, provided they are still alive and ce
 | Full Attack: | 2 claws +4 melee (1d3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
 | Saves: | Fort +3, Ref +6, Will +3 | 
 | Abilities: | Str 10, Dex 17, Con 10, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +9, [[Skill List#Hide\|Hide]] +13, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Intimidate\|Intimidate]] +4, [[Skill List#Listen\|Listen]] +6, [[Skill List#Move Silently\|Move Silently]] +9, [[Skill List#Spot\|Spot]] +6, [[Skill List#Use Rope\|Use Rope]] +3 (+5 With Bindings); | 
@@ -220,7 +220,7 @@ An air mephit heals only if exposed to moving air, be it a breeze, a draft, a sp
 | Full Attack: | 2 claws +4 melee (1d3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
 | Saves: | Fort +3, Ref +6, Will +3 | 
 | Abilities: | Str 10, Dex 17, Con 10, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +9, [[Skill List#Hide\|Hide]] +13, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Intimidate\|Intimidate]] +4, [[Skill List#Listen\|Listen]] +6, [[Skill List#Move Silently\|Move Silently]] +9, [[Skill List#Spot\|Spot]] +6, [[Skill List#Use Rope\|Use Rope]] +3 (+5 With Bindings); | 
@@ -263,7 +263,7 @@ A dust mephit heals only if in an arid, dusty environment.
 | Full Attack: | 2 claws +7 melee (1d3+3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | Change Size, [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
+| Special Qualities | Change Size, [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
 | Saves: | Fort +4, Ref +2, Will +3 | 
 | Abilities: | Str 17, Dex 8, Con 13, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +5, [[Skill List#Hide\|Hide]] +9, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Intimidate\|Intimidate]] +4, [[Skill List#Listen\|Listen]] +6, [[Skill List#Move Silently\|Move Silently]] +5, [[Skill List#Spot\|Spot]] +6, [[Skill List#Use Rope --1\|Use Rope --1]] (+1 With Bindings); | 
@@ -309,7 +309,7 @@ An earth mephit heals only if it is underground or buried up to its waist in ear
 | Full Attack: | 2 claws +4 melee (1d3 and 1d4 fire) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#fast healing\|Fast Healing]]  2, Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#fast healing\|Fast Healing]]  2, Vulnerability To Cold; | 
 | Saves: | Fort +3, Ref +4, Will +3 | 
 | Abilities: | Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +7, [[Skill List#Hide\|Hide]] +11, [[Skill List#Listen\|Listen]] +6, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Move Silently\|Move Silently]] +7, [[Skill List#Spot\|Spot]] +6, [[Skill List#Use Rope\|Use Rope]] +1 (+3 With Bindings); | 
@@ -354,7 +354,7 @@ A fire mephit heals only if it is touching a flame at least as large as a torch.
 | Full Attack: | 2 claws +4 melee (1d3 plus 1d4 cold) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Cold, Vulnerability To Fire; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Cold, Vulnerability To Fire; | 
 | Saves: | Fort +3, Ref +6, Will +3 | 
 | Abilities: | Str 10, Dex 17, Con 10, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +9, [[Skill List#Hide\|Hide]] +13, [[Skill List#Listen\|Listen]] +6, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Move Silently\|Move Silently]] +9, [[Skill List#Spot\|Spot]] +6, [[Skill List#Use Rope\|Use Rope]] +3 (+5 With Bindings); | 
@@ -399,7 +399,7 @@ An ice mephit heals only if it is touching a piece of ice of at least Tiny size 
 | Full Attack: | 2 claws +4 melee (1d3 plus 1d4 fire) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Fire, Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Fire, Vulnerability To Cold; | 
 | Saves: | Fort +3, Ref +4, Will +3 | 
 | Abilities: | Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +7, [[Skill List#Hide\|Hide]] +11, [[Skill List#Listen\|Listen]] +6, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Move Silently\|Move Silently]] +7, [[Skill List#Spot\|Spot]] +6, [[Skill List#Use Rope\|Use Rope]] +1 (+3 With Bindings); | 
@@ -440,7 +440,7 @@ A magma mephit heals only if it is touching magma, lava, or a flame at least as 
 | Full Attack: | 2 claws +6 melee (1d3+2) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
 | Saves: | Fort +4, Ref +3, Will +3 | 
 | Abilities: | Str 14, Dex 10, Con 13, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +6, [[Skill List#Hide\|Hide]] +10, [[Skill List#Listen\|Listen]] +6, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Spot\|Spot]] +6, [[Skill List#Swim\|Swim]] +10, [[Skill List#Use Rope\|Use Rope]] +0 (+2 With Bindings); | 
@@ -484,7 +484,7 @@ An ooze mephit has a +8 racial bonus on any Swim check to perform some special a
 | Full Attack: | 2 claws +7 melee (1d3+3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
 | Saves: | Fort +4, Ref +2, Will +3 | 
 | Abilities: | Str 17, Dex 8, Con 13, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +5, [[Skill List#Hide\|Hide]] +9, [[Skill List#Listen\|Listen]] +6, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Move Silently\|Move Silently]] +5, [[Skill List#Spot\|Spot]] +6, [[Skill List#Use Rope --1\|Use Rope --1]] (+1 With Bindings); | 
@@ -527,7 +527,7 @@ A salt mephit heals only if in an arid environment.
 | Full Attack: | 2 claws +4 melee (1d3 plus 1d4 fire) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Fire, Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Fire, Vulnerability To Cold; | 
 | Saves: | Fort +3, Ref +4, Will +3 | 
 | Abilities: | Str 10, Dex 13, Con 10, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +7, [[Skill List#Hide\|Hide]] +11, [[Skill List#Listen\|Listen]] +6, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Move Silently\|Move Silently]] +7, [[Skill List#Spot\|Spot]] +6, [[Skill List#Use Rope\|Use Rope]] +1 (+3 With Bindings); | 
@@ -572,7 +572,7 @@ A steam mephit heals only if it is touching boiling water or is in a hot, humid 
 | Full Attack: | 2 claws +6 melee (1d3+2) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Breath weapon, spell-like abilities, *summon mephit* | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; | 
 | Saves: | Fort +4, Ref +3, Will +3 | 
 | Abilities: | Str 14, Dex 10, Con 13, Int 6, Wis 11, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Escape Artist\|Escape Artist]] +6, [[Skill List#Hide\|Hide]] +10, [[Skill List#Listen\|Listen]] +6, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Spot\|Spot]] +6, [[Skill List#Swim\|Swim]] +10, [[Skill List#Use Rope\|Use Rope]] +0 (+2 With Bindings); | 
@@ -621,7 +621,7 @@ It can use the run action while swimming, provided it swims in a straight line.
 | Full Attack: | Trident +2 melee (1d8+1) or heavy crossbow +2 ranged (1d10/19--20) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | Amphibious, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | Amphibious, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +4, Ref +1, Will --1 | 
 | Abilities: | Str 13, Dex 13, Con 14, Int 10, Wis 9, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +3, [[Skill List#Spot\|Spot]] +3, [[Skill List#Swim\|Swim]] +9; | 
@@ -670,7 +670,7 @@ A merfolk's favored class is bard.
 | Full Attack: | 2 slams +9 melee (1d8+4) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Adhesive, crush | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Mimic Shape; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Mimic Shape; | 
 | Saves: | Fort +5, Ref +5, Will +6 | 
 | Abilities: | Str 19, Dex 12, Con 17, Int 10, Wis 13, Cha 10 | 
 | Skills: | [[Skill List#Climb\|Climb]] +9, [[Skill List#Disguise\|Disguise]] +13, [[Skill List#Listen\|Listen]] +8, [[Skill List#Spot\|Spot]] +8; | 
@@ -721,7 +721,7 @@ A mimic has a +8 racial bonus on Disguise checks.
 | Full Attack: | Greataxe +9/+4 melee (3d6+6/x3) and gore +4 melee (1d8+2) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Powerful charge 4d6+6 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Natural Cunning, [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Natural Cunning, [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +6, Ref +5, Will +5 | 
 | Abilities: | Str 19, Dex 10, Con 15, Int 7, Wis 10, Cha 8 | 
 | Skills: | [[Skill List#Intimidate\|Intimidate]] +2, [[Skill List#Listen\|Listen]] +7, [[Skill List#Search\|Search]] +2, [[Skill List#Spot\|Spot]] +7; | 
@@ -808,7 +808,7 @@ Terran.
 | Full Attack: | Slam +12 melee (1d6+7) and tongue +12 melee touch (paralysis) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Improved grab, paralyzing touch, create spawn | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +4, Ref +10, Will +9 | 
 | Abilities: | Str 21, Dex 19, Con ---, Int 11, Wis 10, Cha 10 | 
 | Skills: | [[Skill List#Climb\|Climb]] +13, [[Skill List#Hide\|Hide]] +21, [[Skill List#Listen\|Listen]] +11, [[Skill List#Move Silently\|Move Silently]] +21, [[Skill List#Spot\|Spot]] +15, [[Skill List#Swim\|Swim]] +9; | 
@@ -848,7 +848,7 @@ Creatures killed by a mohrg rise after 1d4 days as zombies under the morhg's con
 |  Full Attack: |           Slam +11 melee (1d6+10 plus mummy rot)                                          | Slam +20 melee (1d6+12/19--20 plus mummy rot)|
 |  Space/Reach: |           5 ft./5 ft.                                                                     | 5 ft./5 ft.|
 |  Special Attacks: |       Despair, mummy rot                                                              | Despair, mummy rot, rebuke undead, spells|
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] , Vulnerability To Fire; | [[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Resistance To Fire 10, [[Special Abilities#undead traits\|Undead Traits]] , Vulnerability To Fire; | 
+| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] , Vulnerability To Fire; | [[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, [[Special Abilities#undead traits\|Undead Traits]] , Vulnerability To Fire; | 
 |  Saves: |                 Fort +4, Ref +2, Will +8                                                        | Fort +13, Ref +8, Will +20|
 |  Abilities: |             Str 24, Dex 10, Con ---, Int 6, Wis 14, Cha 15                                  | Str 26, Dex 12, Con ---, Int 8, Wis 20, Cha 17|
 | Skills: | [[Skill List#Hide\|Hide]] +7, [[Skill List#Listen\|Listen]] +8, [[Skill List#Move Silently\|Move Silently]] +7, [[Skill List#Spot\|Spot]] +8; | [[Skill List#Concentration\|Concentration]] +8, [[Skill List#Knowledge\|Knowledge]] (religion) +4, [[Skill List#Listen\|Listen]] +18, [[Skill List#Move Silently\|Move Silently]] +5, [[Skill List#Spot\|Spot]] +18; | 

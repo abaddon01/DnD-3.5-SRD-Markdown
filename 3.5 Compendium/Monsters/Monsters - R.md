@@ -28,7 +28,7 @@ tags:
 | Full Attack: | 2 claws +8 melee (1d4+1) and bite +3 melee (1d6) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Detect thoughts, spells | 
-| Special Qualities: | Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  15/good And Piercing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  27; | 
+| Special Qualities | Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  15/good And Piercing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  27; | 
 | Saves: | Fort +8, Ref +7, Will +6 | 
 | Abilities: | Str 12, Dex 14, Con 16, Int 13, Wis 13, Cha 17 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +17\*, [[Skill List#Concentration\|Concentration]] +13, [[Skill List#Diplomacy\|Diplomacy]] +7, [[Skill List#Disguise\|Disguise]] +17 (+19 Acting)\*, [[Skill List#Intimidate\|Intimidate]] +5, [[Skill List#Listen\|Listen]] +13, [[Skill List#Move Silently\|Move Silently]] +13, [[Skill List#Perform\|Perform]] (oratory) +13, [[Skill List#Sense Motive\|Sense Motive]] +11, [[Skill List#Spellcraft\|Spellcraft]] +11, [[Skill List#Spot\|Spot]] +11; | 
@@ -126,7 +126,7 @@ Undercommon.
 | Full Attack: | 4 claws +6 melee (1d4+2) or bite +6 melee (1d8+3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Paralyzing gaze, improved grab, blood drain | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire, Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire, Vulnerability To Cold; | 
 | Saves: | Fort +5, Ref +5, Will +5 | 
 | Abilities: | Str 14, Dex 12, Con 13, Int 3, Wis 13, Cha 12 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +8, [[Skill List#Move Silently\|Move Silently]] +8, [[Skill List#Spot\|Spot]] +8; | 
@@ -173,7 +173,7 @@ A rast can cease or resume flight as a free action. A rast that loses this abili
 | Full Attack: | Tail slap +4 melee (1d6+1 plus positive energy) and claw +2 melee (1d4 plus positive energy); or tail touch +4 melee touch (positive energy) and claw touch +2 melee touch (positive energy) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Positive energy lash, animate objects | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire; | 
 | Saves: | Fort +4, Ref +3, Will +4 | 
 | Abilities: | Str 13, Dex 10, Con 13, Int 7, Wis 12, Cha 14 | 
 | Skills: | [[Skill List#Escape Artist\|Escape Artist]] +6, [[Skill List#Hide\|Hide]] +6, [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Spot\|Spot]] +7, [[Skill List#Survival\|Survival]] +7, [[Skill List#Use Rope\|Use Rope]] +0 (+2 With Bindings); | 
@@ -219,7 +219,7 @@ A ravid has the Multiattack feat even through it does not have the requisite thr
 | Full Attack: | Bite +13 melee (2d8+12) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Improved grab, swallow whole | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Heat, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Heat, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
 | Saves: | Fort +10, Ref +6, Will +3 | 
 | Abilities: | Str 26, Dex 13, Con 21, Int 5, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +8, [[Skill List#Spot\|Spot]] +8; | 
@@ -263,7 +263,7 @@ An enraged remorhaz generates heat so intense that anything touching its body ta
 | Full Attack: | 2 talons +21 melee (2d6+12) and bite +19 melee (2d8+6) | 
 | Space/Reach: | 20 ft./15 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +18, Ref +13, Will +9 | 
 | Abilities: | Str 34, Dex 15, Con 24, Int 2, Wis 13, Cha 11 | 
 | Skills: | [[Skill List#Hide\|Hide]] --3, [[Skill List#Listen\|Listen]] +10, [[Skill List#Spot\|Spot]] +14; | 
@@ -299,7 +299,7 @@ Rocs have a +4 racial bonus on Spot checks.
 | Full Attack: | 6 strands +11 ranged touch (drag) and bite +13 melee (2d6+6) | 
 | Space/Reach: | 10 ft./10 ft. (50 ft. with strand) | 
 | Special Attacks: | Drag, strands, weakness | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Resistance To Cold 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Vulnerability To Fire; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Vulnerability To Fire; | 
 | Saves: | Fort +10, Ref +8, Will +8 | 
 | Abilities: | Str 19, Dex 13, Con 17, Int 12, Wis 16, Cha 12 | 
 | Skills: | [[Skill List#Climb\|Climb]] +12, [[Skill List#Hide\|Hide]] +10\*, [[Skill List#Listen\|Listen]] +13, [[Skill List#Spot\|Spot]] +13; | 
@@ -346,7 +346,7 @@ A roper's strands can sap an opponent's strength. Anyone grabbed by a strand mus
 | Full Attack: | Antennae touch +3 melee (rust) and bite --2 melee (1d3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Rust | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +2, Ref +4, Will +5 | 
 | Abilities: | Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 8 | 
 | Skills: | [[Skill List#Listen\|Listen]] +7, [[Skill List#Spot\|Spot]] +7; | 

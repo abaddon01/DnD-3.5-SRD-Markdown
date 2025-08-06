@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Epic/ Epic Monsters (A-E)
+title: 3.5 Compendium  - v3.5 SRD - Epic - Epic Monsters (A-E)
 aliases: 3.5 Epic Monsters (A-E)
-tags: 3.5e/rules / v3.5_srd / epic / epic_monsters_a-e
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - epic
+  - epic_monsters_a-e
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -109,55 +115,55 @@ All abominations are born directly (or indirectly) from a god and some lesser cr
 favored, wanted, or loved. Still, they all share a tiny spark of deific energy, which grants them the qualities
 described in below. (Note: deity rules are used, abominations are rank 0 deities.)
 
-### Immunities (Ex):
+#### Immunities (Ex):
  Abominations are immune to polymorphing, petrification, or any form-altering
 attack. They are not subject to energy drain, ability drain, or ability damage. They are immune to mind-affecting
 effects (charms, compulsions, phantasms, patterns, and morale effects), and are immune to one of five energy types
 (specific to the abomination).
 
-### Resistances (Ex):
+#### Resistances (Ex):
  Abominations have fire resistance 20, cold resistance 20, and damage reduction
 of at least 10/epic (certain abominations have higher damage reduction). Abominations all have significant spell
 resistance. Abominations resist detection, and are all treated as if affected by a _nondetection_ spell of a
 caster level equal to the abomination’s HD.
 
-### Special Qualities (Ex):
+#### Special Qualities (Ex):
  All abominations have the spell-like ability to use _true seeing_ at
 will. Abominations are not subject to death from massive damage, and they have maximum hit points per Hit Die.
 Abominations have the blindsight extraordinary ability to a range of 500 feet. Abominations can choose both
 nonepic and epic feats as part of their feat selection.
 
-### Telepathy (Su):
+#### Telepathy (Su):
  Abominations can communicate telepathically with any creature within 1,000 feet
 that has a language.
 
-### _Summon Creature_ (Sp):
+#### _Summon Creature_ (Sp):
  Abominations can summon creatures associated either with the
 portfolio of their godly progenitor or with their imprisonment. Summoned creatures serve the abomination without
 question. Summoned creatures automatically return whence they came after 1 hour, or sooner if slain. See specific
 abomination entries for additional details on summoning.
 
-### Fast Healing and Regeneration:
+#### Fast Healing and Regeneration:
  Most abominations have some measure of fast healing and
 regeneration, ranging from 5 to 55 for both abilities. Usually, higher HD abominations have higher values for fast
 healing and regeneration, though this not always the case. If an abomination has regeneration, it is usually
 subject to normal damage from at least two sources, one of which is the antithesis for their subtype, and the
 other of which is somehow tied to some unique feature of the abomination.
 
-### Natural Armor:
+#### Natural Armor:
  All abominations have some degree of natural armor bonus ranging from +10 to +100.
 Usually, higher HD abominations have higher natural armor bonuses, but this is not always the case.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 All abominations have access to a variety of spells in the form of spell-like abilities, which they can use as
 20th- or higher-level casters, depending on the abomination. No rule governs how many or how few spell-like abilities
 an abomination may claim.
 
-### Unique Abilities:
+#### Unique Abilities:
  All abominations have at least one or more unique abilities tied to their godly
 parent’s portfolio, or to the manner of their incarceration.
 
-### Spell Resistance:
+#### Spell Resistance:
  As a general rule of thumb, abominations have spell resistance equal to their
 CR +12.
 
@@ -192,31 +198,31 @@ An anaxim’s natural weapons are treated as epic and lawful-aligned for the pur
 
 ### Combat
 
-### Sonic Blast (Ex):
+#### Sonic Blast (Ex):
  As a standard action, an anaxim can emit a 60-foot cone of sonic energy that
 deals 20d6 points of sonic damage to all creatures that fail a Reflex save (DC 29); those that succeed take half
 damage.
 
 The save DC is Constitution-based
 
-### Rend (Ex):
+#### Rend (Ex):
  If the anaxim hits with both spinning blades, it slices particularly well. This attack
 automatically deals an additional 4d6+18 points of damage.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---greater dispel magic, displacement (DC 18), greater invisibility (DC 19), ethereal jaunt.
 Caster level 22nd. The save DCs are Charisma-based.
 
-### _Summon Iron Golem_ (Sp):
+#### _Summon Iron Golem_ (Sp):
  An anaxim can summon an iron golem up to four times per day.
 
-### Abomination Traits:
+#### Abomination Traits:
  Immune to polymorphing, petrification, and other form-altering attacks; not
 subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting
 effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy
 out to 1,000 ft.
 
-### Construct Traits:
+#### Construct Traits:
  Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and
 morale effects), and to poison, _sleep,_ paralysis, stunning, disease, death effects, necromantic effects,
 and any effect that requires a Fortitude save unless it also works on objects. Cannot heal damage (though
@@ -255,7 +261,7 @@ reduction.
 
 ### Combat
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---animate dead, blasphemy, create greater undead, create undead, cone of cold, desecrate, greater dispelling,
 finger of death, improved invisibility, plane shift, slay living, speak with dead, spectral hand,
 teleport with-out error, unholy aura;
@@ -264,25 +270,25 @@ Caster level 30th; save DC 26 + spell level.
 
 The save DCs are Charisma-based
 
-### Rebuke/Command Undead (Su):
+#### Rebuke/Command Undead (Su):
  Atropals can rebuke or command undead as a cleric with a level equal
 to the atropal’s HD + 6.
 
-### Negative Energy Aura (Su):
+#### Negative Energy Aura (Su):
  A 30-foot-radius spread negative energy aura spreads from each
 atropal. All undead in the field (including the atropal) are treated as if having turn resistance +20 and a
 negative energy version of fast healing 20. Living creatures in the aura are treated as having ten negative levels
 unless they have some sort of negative energy protection or protection from evil. Creatures with 10 or fewer HD or
 levels perish (and, at the atropal’s option, rise as spectres under the atropal’s command 1 minute later).
 
-### Constitution Drain (Su):
+#### Constitution Drain (Su):
  When the atropal hits a living opponent with a touch attack, the
 opponent takes 5 points of permanent Constitution drain, or 10 points on a critical hit. The atropal heals 20
 points of damage, or 40 points on a critical hit, whenever it drains Constitution, gaining any excess as temporary
 hit points. These temporary hit points last a maximum of 1 hour. The attack allows a Fortitude save (DC 59). The
 DC is Charisma-based.
 
-### Energy Drain (Su):
+#### Energy Drain (Su):
  When the atropal hits with a ranged touch attack (a ray of darkness that it
 shoots from one eye to a range of 400 feet), the resultant energy drain bestows four negative levels, or eight
 negative levels on a critical hit. For each negative level bestowed on an opponent, the atropal heals 10 points of
@@ -291,20 +297,20 @@ maximum of 1 hour. After 24 hours have passed, the afflicted opponent must attem
 each negative level. If successful, the negative level goes away with no harm to the creature; otherwise, the
 creature’s level decreases by one. The DC is Charisma-based.
 
-### Regeneration (Ex):
+#### Regeneration (Ex):
  Atropals take normal damage from good weapons or sentient weapons (or
 otherwise living weapons).
 
-### _Summon Nightcrawler_ (Sp):
+#### _Summon Nightcrawler_ (Sp):
  Five times per day an atropal can summon a nightcrawler.
 
-### Abomination Traits:
+#### Abomination Traits:
  Immune to polymorphing, petrification, and other form-altering attacks; not
 subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting
 effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy
 out to 1,000 ft.
 
-### Undead Traits:
+#### Undead Traits:
  Immune to poison, _sleep,_ paralysis, stunning, disease, death, effects,
 necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual damage, ability damage, ability drain, or energy drain. Negative
@@ -342,24 +348,24 @@ reduction.
 
 ### Combat
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---darkness, telekinesis;
 3/day---improved invisibility, control weather, call lightning, lightning bolt, chain lightning,
 wail of the banshee.
 Caster level 20th; save DC 20 + spell level. The DC is Charisma-based.
 
-### _Summon Air Elemental_ (Sp):
+#### _Summon Air Elemental_ (Sp):
  Three times per day a chichimec can summon an elder air
 elemental.
 
-### Charisma Drain (Su):
+#### Charisma Drain (Su):
  This effect permanently reduces a living opponent’s Charisma score by 2
 points when the chichimec hits with a tail slam, or 4 points on a critical hit. The chichimec heals 10 points of
 damage, or 20 on a critical hit, whenever it drains Charisma, gaining any excess as temporary hit points. These
 temporary hit points last a maximum of 1 hour. The attack allows a Fortitude save (DC 33)---on a successful save,
 only 1 point of Charisma is drained and the chichimec heals 5 points of damage. The DC is Charisma-based.
 
-### Abomination Traits:
+#### Abomination Traits:
  Immune to polymorphing, petrification, and other form-altering attacks; not
 subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting
 effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy
@@ -396,7 +402,7 @@ damage reduction.
 
 ### Combat
 
-### Worst Nightmare (Su):
+#### Worst Nightmare (Su):
  Each time a living creature first views a specific dream larva from a
 distance of 30 feet or less (or from a scrying effect), the subject sees the image of the most fearsome creature
 imaginable. This is not an illusion or phantasm; the dream larva truly becomes, for just that instant, the
@@ -406,12 +412,12 @@ _protection from evil_ or _death ward_ spells) are immune to worst nightmare; al
 Will save (DC 43) or die from the supernatural horror revealed. Survivors (and those resurrected) are immune to
 the effect from that individual dream larva in the future. The DC is Charisma-based.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---fly, haste, nightmare, prismatic spray;
 2/day---dreamscape (epic spell).
 Caster level 31st; save DC 23 + spell level. The DC is Charisma-based.
 
-### Improved Grab (Ex):
+#### Improved Grab (Ex):
  If the dream larva hits with a claw or pincer, it deals normal damage and
 attempts to start a grapple as a free action without provoking an attack of opportunity. Dream larvae can use
 improved grab on a creature of any size. The dream larva has the option to conduct the grapple normally, simply
@@ -419,7 +425,7 @@ use the claw or pincer to hold the opponent, or use sending (see below) on the o
 check it makes during successive rounds automatically deals the damage listed for the attack that established the
 hold, unless it used sending on the victim.
 
-### Sending (Su):
+#### Sending (Su):
  Grappled victims may be physically sent into a nightmare, at the dream larva’s
 option, on the dream larva’s next action after establishing the grapple. Victims must make a Will save (DC 43) or
 be apparently swarmed by thousands of worms making up the dream larva’s body. The victim is actually cast into a
@@ -429,16 +435,16 @@ otherwise absent). The victim of the nightmare has taken 4d6 points of temporary
 free to act on the round it returns. If the victim takes more Wisdom damage than it has points of Wisdom, the
 extra points are instead treated as temporary Constitution damage. The DC is Charisma-based.
 
-### _Summon Nightwalker_ (Sp):
+#### _Summon Nightwalker_ (Sp):
  Five times per day, a dream larva can summon a nightwalker.
 
-### Abomination Traits:
+#### Abomination Traits:
  Immune to polymorphing, petrification, and other form-altering attacks; not
 subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting
 effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy
 out to 1,000 ft.
 
-### Regeneration (Ex):
+#### Regeneration (Ex):
  Dream larvae take normal damage from good or lawful weapons or weapons forged
 by a sleepwalking weaponsmith.
 
@@ -473,7 +479,7 @@ damage reduction.
 
 ### Combat
 
-### Superior Multiweapon Fighting (Ex):
+#### Superior Multiweapon Fighting (Ex):
  A hecatoncheires fights with a greatsword or a boulder in
 each hand. The hecatoncheires does not suffer an attack or damage penalty for attacking with one hundred weapons.
 However, the press of limbs prevents the creature from making iterative attacks with any of its arms, nor can it
@@ -481,26 +487,26 @@ make more than ten attacks against a Small or smaller creature, fifteen attacks 
 twenty attacks against a Large creature in the same action (it can make all its attacks against a Huge or larger
 creature in one action).
 
-### Skills:
+#### Skills:
  A hecatoncheires’ fifty heads give it a +50 racial bonus on Listen, Spot, and Search
 checks.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will--- greater magic weapon, fly, shield.
 Caster level 50th; save DC 17 + spell level. The DC is Charisma-based.
 
-### _Summon Hecatoncheires_ (Sp):
+#### _Summon Hecatoncheires_ (Sp):
  A hecatoncheires can summon one other hecatoncheires once per
 day, though is loath to do so because then it will be similarly obligated to answer its sibling’s summoning. A
 summoned hecatoncheires cannot use its summoning power while "summoned."
 
-### Abomination Traits:
+#### Abomination Traits:
  Immune to polymorphing, petrification, and other form-altering attacks; not
 subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting
 effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy
 out to 1,000 ft.
 
-### Regeneration (Ex):
+#### Regeneration (Ex):
  Hecatoncheires take normal damage from good weapons or weapons tempered with
 the blood of a deity.
 
@@ -535,25 +541,25 @@ overcoming damage reduction.
 
 ### Combat
 
-### Improved Grab (Ex):
+#### Improved Grab (Ex):
  If an infernal hits with a claw, it deals normal damage and attempts to start
 a grapple as a free action without provoking an attack of opportunity. Infernals can use this ability on Large and
 smaller creatures. The infernal has the option to conduct the grapple normally, or simply use its claw to hold the
 opponent. Each successful grapple check it makes during successive rounds automatically deals standard claw
 damage, in addition to automatic spell suck damage.
 
-### Spell Suck (Su):
+#### Spell Suck (Su):
  If an infernal bites a foe, the foe loses one of its highest-level prepared
 spells or one of the spell slots for this day that it has not used. The victim chooses the prepared spell to lose.
 If the victim has no prepared spells or unused spell slots (either because it has exhausted its spellcasting for
 the day or because the victim is not a spellcaster), the bite instead deals 2 points of temporary Intelligence
 damage.
 
-### Learned Spell Immunity (Su):
+#### Learned Spell Immunity (Su):
  If an infernal is affected by a spell cast by a particular
 spellcaster, the infernal thereafter becomes immune to that spell when cast by that spellcaster.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will--- animate dead, blasphemy, blur, charm person, create undead, darkness, deeper darkness, desecrate,
 detect chaos, detect good, detect law, detect magic, fear, fireball, greater dispel magic, hold person,
 greater invisibility,magic circle against good, major image, produce flame, polymorph, pyrotechnics,
@@ -562,17 +568,17 @@ unholy aura, unholy blight, unhallow, wall of fire;
 1/day---fire storm, hellball (epic spell), implosion, meteor swarm.
 Caster level 26th; save DC 19 + spell level. The DCs are Charisma-based.
 
-### _Summon Fiend_ (Sp):
+#### _Summon Fiend_ (Sp):
  An infernal can summon four balors or four pit fiends per day (lawful
 infernals summon pit fiends, and chaotic infernals summon balors).
 
-### Abomination Traits:
+#### Abomination Traits:
  Immune to polymorphing, petrification, and other form-altering attacks; not
 subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting
 effects; fire resistance 20; cold resistance 20; nondetection ; true seeing at will; blindsight 500 ft.; telepathy
 out to 1,000 ft.
 
-### Regeneration (Ex):
+#### Regeneration (Ex):
  Infernals take normal damage from good weapons. Lawful infernals also take
 normal damage from chaotic weapons, and vice versa.
 
@@ -604,46 +610,46 @@ normal damage from chaotic weapons, and vice versa.
 
 A phaethon’s natural weapons are treated as epic and evil for the purpose of overcoming damage reduction.
 ### Combat
-### Fiery Touch (Ex):
+#### Fiery Touch (Ex):
  Touching or being touched by a phaethon deals 2d6 points of fire damage.
 
-### Fiery Overrun (Ex):
+#### Fiery Overrun (Ex):
  A foe who is successfully overrun by a phaethon is treated as if swallowed
 whole.
 
-### Improved Grab (Ex):
+#### Improved Grab (Ex):
  If the phaethon hits with a pseudopod, it deals normal damage and attempts to
 start a grapple as a free action without provoking an attack of opportunity. Phaethons can use improved grab on a
 Huge or smaller creature. The phaethon has the option to conduct the grapple normally, simply maintaining a
 pseudopod hold, or attempting to absorb the opponent by swallowing the foe whole. Each successful grapple check it
 makes during successive rounds automatically deals the damage listed for the pseudopod.
 
-### Swallow Whole (Ex):
+#### Swallow Whole (Ex):
  The phaethon can absorb opponents it holds with a second successful grapple
 check after a grab. The opponent must be Huge or smaller. Absorbed creatures take 20d6 points of fire damage and
 10d6 points of bludgeoning damage each round they remain inside a phaethon. Victims must make a successful grapple
 check to "swim" free of the living magma of the phaethon.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---fireball, fire storm, delayed blast fireball, flame strike, wall of fire;
 1/day---scrying.
 Caster level 34th; save DC 24 + spell level.
 
-### _Summon Elder Fire Elemental_ (Sp):
+#### _Summon Elder Fire Elemental_ (Sp):
  Phaethons can summon up to ten elder fire elementals per
 day.
 
-### Abomination Traits:
+#### Abomination Traits:
  Immune to polymorphing, petrification, and other form-altering attacks; not
 subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting
 effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy
 out to 1,000 ft.
 
-### Oozelike Immunities (Ex):
+#### Oozelike Immunities (Ex):
  Immune to poison, _sleep,_ paralysis, stunning, polymorphing, and
 mind-influencing effects; not subject to critical hits or flanking; blind.
 
-### Regeneration (Ex):
+#### Regeneration (Ex):
  Phaethons take normal damage from lawful weapons and cold-forged weapons, and
 double damage from cold or ice weapons.
 
@@ -678,23 +684,23 @@ reduction.
 
 ### Combat
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---detect good, detect magic, improved invisibility (self only);
 5/day---haste, slow, greater teleport, tongues, trap the soul, true strike, unholy aura;
 2/day---safe time, time duplicate (epic spell);
 1/day---time stop.
 Caster level 21st; save DC 21 + spell level. The DC is Charisma-based.
 
-### Stasis Touch (Su):
+#### Stasis Touch (Su):
  As _temporal stasis,_ except as an at-will supernatural ability. Caster
 level 25th; save DC 21 + spell level. The DC is Charisma-based.
 
-### Chronal Blast (Su):
+#### Chronal Blast (Su):
  As a standard action, the phane can make a ranged touch attack against any
 creature within 100 feet. If it succeeds, the subject is targeted by a spasm of space-time flux, dealing 15d6
 points of damage.
 
-### Time Leach (Su):
+#### Time Leach (Su):
  For every round of apparent time experienced by the phane, it automatically
 absorbs the "future" from any creature it has successfully encapsulated in static time via its stasis touch (not
 its null time field), no matter the distance separating victim and phane, and no matter the number of victims. Of
@@ -705,7 +711,7 @@ eventually ages to death. Victims killed in this manner automatically fall out o
 that disintegrate to a fine dust with even the lightest touch. Victims who are released prior to death immediately
 apply the physical effects of aging, but not the mental effects.
 
-### _Summon Past Time Duplicate_ (Sp):
+#### _Summon Past Time Duplicate_ (Sp):
  Once per day, a phane can summon a duplicate of one its
 foes stolen from a parallel alternate past. The stolen _time duplicate_ has the same stats and possessions as
 the original, but is treated as if having two negative levels (which simulates a less experienced version of the
@@ -716,13 +722,13 @@ _time duplicate_ is slain, the original is not harmed because the duplicate was 
 However, the original does not necessarily realize this, and must make a Will save (DC 30) or be shaken for 1d4
 rounds after witnessing the death of a duplicate for the first time.
 
-### Abomination Traits:
+#### Abomination Traits:
  Immune to polymorphing, petrification, and other form-altering attacks; not
 subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting
 effects; fire resistance 20; cold resistance 20; nondetection; true seeing at will; blindsight 500 ft.; telepathy
 out to 1,000 ft.
 
-### Null Time Field (Ex):
+#### Null Time Field (Ex):
  Phanes continually generate a 30-foot-radius spread null time field. All
 creatures and objects in the field, except the phane, must make a Will saving throw (DC 30) each round to take any
 actions. On a failed save, subjects are stuck in a static time stream until their next round of actions, at which
@@ -730,14 +736,14 @@ time they must make another saving throw. While a subject is stuck in a static t
 field, the phane can use its static touch on the subject, though in all other ways, the subject is invulnerable to
 attacks and damage as if in temporal stasis.
 
-### Time Regression (Su):
+#### Time Regression (Su):
  If the phane spends an action per round for four rounds, at the end of the
 4th round the phane regresses back in time 4 rounds, to the very 1st round it originally began concentrating on
 time regression. On its second pass through the time stream, it can take completely different actions, based on
 its knowledge of the future (though if it takes different actions from its first pass through the time stream, the
 events of the original time stream are also changed).
 
-### Regeneration (Ex):
+#### Regeneration (Ex):
  Phanes take normal damage from holy and good weapons, and from weapons forged
 in the future or an alternate reality’s time stream (if any).
 
@@ -772,47 +778,47 @@ reduction.
 
 ### Combat
 
-### Rend (Ex):
+#### Rend (Ex):
  If the xixecal hits with both claw attacks, it latches onto the opponent’s body and
 tears the flesh. This attack automatically deals an additional 4d8+42 points of damage.
 
-### Cold (Su):
+#### Cold (Su):
  A hit from a xixecal’s melee attack induces numbing cold. The opponent must succeed at
 a Fortitude save (DC 58) or be affected as though by a _slow_ spell for 10 rounds. The DC is Charisma-based.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---blasphemy, cone of cold, desecrate, greater dispel magic, dominate monster, hold person,
 greater invisibility, unholy aura, wall of ice;
 5/day---haste, meteor swarm.
 Caster level 36th; save DC 22 + spell level. The DC is Charisma-based.
 
-### Breath Weapon (Su):
+#### Breath Weapon (Su):
  Cone of cold, 300 feet, 3/day, damage 12d6, Fort half DC 61. The DC is
 Constitution-based.
 
-### _Summon White Dragon_ (Sp):
+#### _Summon White Dragon_ (Sp):
  Five times per day a xixecal can summon an old white dragon.
 
-### Constitution Drain (Su):
+#### Constitution Drain (Su):
  This effect permanently reduces a living opponent’s Constitution score
 by 4 when the creature hits with a slam, bite, or rend, or twice that amount on a rend or critical hit. The
 creature heals 20 points of damage (or 40 on a rend or critical hit) whenever it drains Constitution, gaining any
 excess as temporary hit points. These temporary hit points last a maximum of 1 hour. The attack allows a Fortitude
 save (DC 58). The DC is Charisma-based.
 
-### Abomination Traits:
+#### Abomination Traits:
  Immune to polymorphing, petrification, and other form-altering attacks; not
 subject to energy drain, ability drain, ability damage, or death from massive damage; immune to mind-affecting
 effects; nondetection; true seeing at will; blindsight 500 ft.; telepathy out to 1,000 ft.
 
 The standard fire resistance 20 most abominations have is not shared by xixecales
 
-### Dire Winter (Su):
+#### Dire Winter (Su):
  A xixecal always stands at the center of a permanent _dire winter_ (epic
 spell)spell effect. If dispelled, the effect returns 1 minute later--- the only way to permanently remove the effect
 is to slay the xixecal that generates it.
 
-### Regeneration(Ex):
+#### Regeneration(Ex):
  Xixecals take normal damage from Lawful weapons, and double damage from burning
 or fiery weapons.
 
@@ -844,17 +850,17 @@ or fiery weapons.
 | Advancement: | 21-42 HD (Colossal) | 22-42 HD (Huge) |
 
 ### Behemoth Eagle
-### Skills:
+#### Skills:
  *A behemoth eagle receives a +8 racial bonus on Spot checks.
 
-### Carrying Capacity:
+#### Carrying Capacity:
  A light load for a behemoth eagle is up to 2,400 pounds; a medium load,
 2,401-4,800 pounds; and a heavy load, 4,801-7,200 pounds.
 
 ### Behemoth Gorilla
 ### Combat
 
-### Rend (Ex):
+#### Rend (Ex):
  A behemoth gorilla that hits with both claw attacks latches onto the opponent’s body
 and tears the flesh. This automatically deals an additional 8d8+20 points of damage.
 
@@ -886,13 +892,13 @@ and tears the flesh. This automatically deals an additional 8d8+20 points of dam
 
 ### Combat
 
-### Frightful Howl (Su):
+#### Frightful Howl (Su):
  As a standard action, a brachyurus can emit a howl in a 60-foot-radius
 spread that affects opponents with fewer Hit Dice or levels than the brachyurus has. The affected creature must
 make a successful Will save (DC 33) or become shaken. Success indicates that the target is immune to that
 brachyurus’s frightful howl for one day. The DC is Charisma-based.
 
-### Savage (Ex):
+#### Savage (Ex):
  If a brachyurus successfully trips an opponent, it latches onto the opponent’s body
 and tears the flesh. This attack automatically deals an additional 15d6+25 points of damage. If an opponent goes
 prone for any reason in an area a brachyurus threatens, the brachyurus can also savage the victim as a free action
@@ -901,7 +907,7 @@ the foe.
 
 ## Colossus
 
-### Construct Traits:
+#### Construct Traits:
  Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and
 morale effects), and to poison, _sleep,_ paralysis, stunning, disease, death effects, necromantic effects,
 and any effect that requires a Fortitude save unless it also works on objects. Cannot heal damage (though
@@ -909,11 +915,11 @@ regeneration and fast healing still apply, if present). Not subject to critical 
 damage, ability drain, or energy drain. Not at risk of death from massive damage, but destroyed when reduced to 0
 hit points or less; cannot be raised or resurrected. Darkvision 60 ft.
 
-### Magic Immunity (Ex):
+#### Magic Immunity (Ex):
  A colossus completely resists most magical and supernatural effects, except
 where otherwise noted below.
 
-### Antimagic Field (Ex):
+#### Antimagic Field (Ex):
  A colossus constantly generates an antimagic field in a 100-foot-radius.
 The field is an invisible barrier that is impervious to most magical effects, including spells, spell-like
 abilities, and supernatural abilities. Likewise, it prevents the functioning of any magic items or spells within
@@ -954,11 +960,11 @@ constructing a colossus is not unlike constructing a golem.
 A stone colossus cannot speak or make any vocal noise.
 #### Combat
 
-### Shatter (Su):
+#### Shatter (Su):
  A stone colossus can use _shatter_(DC 7)as a free action once every 2 rounds
 against an opponent’s weapon or other item as a 24th-level caster. The DC is Charisma-based.
 
-### Magic Immunity (Ex):
+#### Magic Immunity (Ex):
  A stone colossus is immune to all spells, spell-like abilities, and
 supernatural effects, except as follows. A _transmute rock to mud_ spell slows it (as the _slow_ spell)
 for 1 round, with no saving throw, while _transmute mud to rock_ heals all its lost hit points. A
@@ -979,35 +985,35 @@ controlling spirit is suppressed, it mutters in all the tongues spoken by its co
 
 #### Combat
 
-### Frightful Presence (Ex):
+#### Frightful Presence (Ex):
  All who come within a mile of the flesh colossus must make Will saves
 (DC 55). Those who make their saves are shaken. Those who fail by 20 points or less are frightened. Those who fail
 by 21 to 40 points are panicked. Those who fail by 41 points or more are cowering. The DC is Charisma-based.
 
-### Horrific Appearance (Su):
+#### Horrific Appearance (Su):
  Once per day, the controlling spirit within a flesh colossus may draw
 upon the negative energy latent in the construct to transform its countenance into a horrible leering visage: All
 within 300 feet who see this must make a Fortitude save (DC 55) or take 2d4 points of temporary Strength,
 Dexterity, and Constitution damage. The DC is Charisma-based.
 
-### Stomp (Ex):
+#### Stomp (Ex):
  As a full-round action, a flesh colossus may stomp upon any adjacent foe (that is,
 any within the area it threatens). Its attack roll modifier for this special attack is +65 (+75 base, -2 Dex, -8
 size). If successful, the stomp deals double damage (8d6 +24) and pins the victim until the colossus chooses to
 release him or her.
 
-### Stench (Ex):
+#### Stench (Ex):
  All creatures with a sense of smell who come within 300 feet of the construct must
 make a Fortitude save (DC 60) or be nauseated (unable to attack, cast spells, concentrate on spells, or do
 anything else requiring attention, except for a single move or move-equivalent action per round). Those who
 succeed on their saves take a -4 circumstance penalty on all attack rolls, saving throws, and skill checks for the
 next 2d6+4 minutes. The DC is Constitution-based.
 
-### Magic Immunity (Ex):
+#### Magic Immunity (Ex):
  A flesh colossus is immune to all magical and supernatural effects except
 those that use negative energy (see below).
 
-### Negative Energy Affinity (Su):
+#### Negative Energy Affinity (Su):
  Any negative energy spell targeted at the colossus repairs damage
 taken by the colossus at the rate of 1d10 hit points per level of the spell.
 
@@ -1028,16 +1034,16 @@ _magic jar, limited wish, polymorph any object,_ and _finger of death_.
 
 ### Iron Colossus
 
-### Breath Weapon (Su):
+#### Breath Weapon (Su):
  Cone of poisonous gas, 80 feet, as a free action every 1d4 rounds, initial
 damage 3d6 temporary Con, secondary damage 2d6 temporary Con, Fort half (DC 58). The DC is Constitution-based.
 
-### Magic Immunity (Ex):
+#### Magic Immunity (Ex):
  An iron colossus is immune to all magical and supernatural effects, except
 as follows. An electricity effect restores 1 hit point to the iron colossus for each 3 points of damage it would
 otherwise deal.
 
-### Rustproof (Ex):
+#### Rustproof (Ex):
  An iron colossus is not affected by rust attacks, unlike smaller iron golems.
 
 #### Construction
@@ -1078,7 +1084,7 @@ Demiliches speak the languages they knew as liches and as living creatures.
 A demilich’s natural weapons are treated as epic for the purpose of overcoming damage reduction.
 ### Combat
 
-### Trap the Soul (Su):
+#### Trap the Soul (Su):
  A demilich can trap the souls of up to eight living creatures per day. To use
 this power, it selects any target it can see within 300 feet. The target is allowed a Fortitude saving throw (DC
 36). If the target makes its saving throw, it gains four negative levels (this does not count as a use of trap the
@@ -1092,39 +1098,39 @@ by the use of either _resurrection,_ _true resurrection, clone,_ or _miracle._ A
 protected by a _death ward_ spell is not immune to trap the soul, but receives a +5 bonus on its Fortitude
 saving throw andis effective against the level loss on a successful save. The DC is Charisma-based
 
-### Fear Aura (Su):
+#### Fear Aura (Su):
  Demiliches are shrouded in a dreadful aura of death and evil. Creatures of less
 than 5 HD in a 60-foot radius that look at the demilich must succeed at a Will save (DC 19) or be affected as
 though by _fear_ as cast by a 21st-level caster. The DC is Charisma-based.
 
-### Paralyzing Touch (Su):
+#### Paralyzing Touch (Su):
  Any living creature a demilich touches must succeed at a Fortitude save
 (DC 36) or be permanently paralyzed. _Remove paralysis_ or any spell that can remove a curse can free the
 victim. The effect cannot be dispelled. Anyone paralyzed by a demilich seems dead, though a successful Spot check
 (DC 20) or Heal check (DC 15) reveals that the victim is still alive.
 
-### Spells:
+#### Spells:
  The demilich can cast any spells it could cast as a lich. This sample demilich was a
 21st-level wizard (spells per day: 4/12/8/7/7/7/7/6/6/6/3). The last three spell slots are 10th-level slots and
 available for 0-9th level metamagic spells.
 
-### Perfect Automatic Still Spell (Ex):
+#### Perfect Automatic Still Spell (Ex):
  A demilich can cast all the spells it knows without gestures.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---alter self, astral projection, create greater undead, create undead, death knell, enervation,
 greater dispel magic, harm (usually used to heal itself ), summon monster I-IX, telekinesis, weird;
 2/day---greater planar ally.
 Demiliches use these abilities as casters of a level equal to their spellcaster level,
 but the save DCs are all 36. The DC is Charisma-based.
 
-### Magic Immunity (Ex):
+#### Magic Immunity (Ex):
  Demiliches are immune to all magical and supernatural effects, except as
 follows. A _shatter_ spell affects a demilich as if it were a crystalline creature, but deals half the damage
 normally indicated. A _dispel evil_ spell deals 3d6 points of damage (Fort save for half damage).
 _Holy smite_ spells affect demiliches normally.
 
-### Phylactery Transference (Su):
+#### Phylactery Transference (Su):
  Headbands, belts, rings, cloaks, and other wearable items kept in
 close association with the demilich’s phylactery transfer all their benefits to the demilich no matter how far
 apart the demilich and the phylactery are located. The standard limits on types of items utilized simultaneously
@@ -1132,14 +1138,14 @@ still apply. The sample demilich "wears"
 _bracers of armor +8, headband of intellect +6, pink Ioun stone, ring of wizardry_
 I, _ring of protection +2,_ and _gloves of Dexterity +2._
 
-### Undead Traits:
+#### Undead Traits:
  Immune to poison, _sleep,_ paralysis, stunning, disease, death, effects,
 necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on
 objects. Not subject to critical hits, subdual damage, ability damage, ability drain, or energy drain. Negative
 energy heals. Not at risk of death from massive dam-age, but destroyed at 0 hit points or less. Darkvision 60 ft.
 Cannot be raised; resurrection works only if creature is willing.
 
-### Immunities (Ex):
+#### Immunities (Ex):
  Demiliches are immune to cold, electricity, polymorph, and mind-affecting
 attacks.
 
@@ -1153,32 +1159,32 @@ part; see Creating Soul Gems, below.
 Size: Medium-size and Large liches become Diminutive demiliches, Huge liches become Small demiliches, Gargantuan
 liches become Medium-size demiliches, and Colossal liches become Large demiliches.
 
-### Hit Dice:
+#### Hit Dice:
  As lich.
 
-### Speed:
+#### Speed:
  Replace with fly 180 ft. (perfect) or the lich’s supernatural (not natural) fly speed,
 whichever is better.
 
-### AC:
+#### AC:
  The demilich retains the lich’s +5 natural armor bonus and gains an insight bonus equal to AC
 equal to its Hit Dice, as well as a probable size adjustment to AC.
 
-### Attack:
+#### Attack:
  The demilich gains an insight bonus equal to its Hit Dice as a bonus on its touch
 attacks.
 
-### Damage:
+#### Damage:
  The demilich gains an enhanced touch attack over that of its previous lich form (it now
 uses its entire flying skull to make the touch attack), including paralyzing touch. The demilich’s touch attack
 uses negative energy to deal 10d6+20 points of damage to living creatures (no saving throw). Liches with other
 natural attacks lose them.
 
-### Special Attacks:
+#### Special Attacks:
  The demilich retains all the lich’s special attacks and also gains those
 described below.
 
-### _Trap the Soul (Su):_
+#### _Trap the Soul (Su):_
  A demilich can trap the souls of up to eight living creatures per day.
 To use this power, it selects any target it can see within 300 feet. The target is allowed a Fort saving throw (DC
 10 + demilich’s HD + demilich’s Cha modifier). If the target makes its saving throw, it gains four negative levels
@@ -1195,12 +1201,12 @@ _true resurrection, clone,_ or _miracle._ A potential victim protected by a _dea
 not immune to trap the soul, but receives a +5 bonus on its Fortitude saving throw andis effective against the
 level loss on a successful save.
 
-### _Fear Aura (Su):_
+#### _Fear Aura (Su):_
  Demiliches are shrouded in a dreadful aura of death and evil. Creatures of
 less than 5 HD in a 60- foot radius that look at the demilich must succeed at a Will save (DC 14 + demilich’s Cha
 modifier) or be affected as though by _fear_ as cast by a 21st-level caster.
 
-### _Paralyzing Touch (Su):_
+#### _Paralyzing Touch (Su):_
  Any living creature a demilich touches must succeed at a Fortitude
 save (DC 10 + demilich’s HD + demilich’s Cha modifier) or be permanently paralyzed. _Remove paralysis_ or any
 spell that can remove a curse can free the victim. The effect cannot be dispelled. Anyone paralyzed by a demilich
@@ -1209,7 +1215,7 @@ seems dead, though a successful Spot check (DC 20) or Heal check (DC 15) reveals
 Spells: The demilich can cast any spells it could cast as a lich.
 _Perfect Automatic Still Spell:_ The demilich can cast all the spells it knows without gestures.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---alter self, astral projection, create greater undead, create undead, death knell, enervation,
 greater dispel magic, harm (usually used to heal itself ), summon monster I-IX, telekinesis,
 and weird;
@@ -1217,74 +1223,74 @@ and weird;
 Demiliches use these abilities as casters of a level equal to their spellcaster level,
 but the save DCs are equal to 10 + the demilich’s HD + the demilich’s Charisma modifier.
 
-### Special Qualities:
+#### Special Qualities:
  The demilich retains all the lich’s special qualities and also has those
 described below.
 
-### _Magic Immunity (Ex):_
+#### _Magic Immunity (Ex):_
  Demiliches are immune to all magical and supernatural effects, except
 as follows. A _shatter_ spell affects a demilich as if it were a crystalline creature, but deals half the
 damage normally indicated. A _dispel evil_ spell deals 3d6 points of damage (Fort save for half damage).
 _Holy smite_ spells affect demiliches normally.
 
-### _Phylactery Transference (Su):_
+#### _Phylactery Transference (Su):_
  Headbands, belts, rings, cloaks, and other wearable items
 kept in close association with the demilich’s phylactery transfer all their benefits to the demilich no matter how
 far apart the demilich and the phylactery are located. The standard limits on types of items utilized
 simultaneously still apply.
 
-### _Undead Traits:_
+#### _Undead Traits:_
  Immune to poison, _sleep,_ paralysis, stunning, disease, death,
 effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also
 works on objects. Not subject to critical hits, subdual damage, ability damage, ability drain, or energy drain.
 Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision
 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
-### _Immunities (Ex):_
+#### _Immunities (Ex):_
  Demiliches are immune to cold, electricity, polymorph, and mind-affecting
 attacks.
 
-### _Turn Resistance (Ex):_
+#### _Turn Resistance (Ex):_
  A demilich has turn resistance +20.
 
-### _Damage Reduction (Su):_
+#### _Damage Reduction (Su):_
  A demilich loses any previous damage reduction and instead has
 damage reduction 15/Epic and bludgeoning (15 points of damage is subtracted from all melee attacks unless the
 weapon used is both an epic and a bludgeoning weapon). Vorpal weapons, no matter their enhancement bonus, ignore
 this damage reduction but do only half damage to a demilich (demiliches cannot be beheaded).
 
-### _Resistances (Ex):_
+#### _Resistances (Ex):_
  Demiliches have acid resistance 20, fire resistance 20, and sonic
 resistance 20.
 
-### Saves:
+#### Saves:
  Same as the lich.
-### Abilities:
+#### Abilities:
  A demilich gains +10 to Intelligence, Wisdom, and Charisma.
 
-### Skills:
+#### Skills:
  Demiliches receive a +20 racial bonus on Hide, Listen, Move Silently, Search, Sense
 Motive, and Spot checks. Otherwise same as the lich (this overlaps with the previous racial bonus gained by the
 lich; it does not stack).
 
-### Feats:
+#### Feats:
  Same as the lich.
 
-### Epic Feats:
+#### Epic Feats:
  Demiliches gain the feats Blinding Speed, Tenacious Magic, and Automatic Quicken
 Spell.
 
-### Climate/Terrain:
+#### Climate/Terrain:
  Same as the lich.
-### Organization:
+#### Organization:
  Solitary or consistory (1 demilich and 3-6 liches).
-### Challenge Rating:
+#### Challenge Rating:
  Same as the lich + 6.
-### Treasure:
+#### Treasure:
  Same as the lich.
-### Alignment:
+#### Alignment:
  Any evil.
-### Advancement:
+#### Advancement:
  By character class.
 ### Demilich Characters
 
@@ -1304,7 +1310,7 @@ gems of wondrous quality. They are always incorporated directly into the concent
 
 ## Devastation Vermin
 
-### Vermin Traits:
+#### Vermin Traits:
  Immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and
 morale effects).
 
@@ -1354,15 +1360,15 @@ morale effects).
 | Advancement: | None | None |
 
 ### Devastation Centipede
-### Poison (Ex):
+#### Poison (Ex):
  Bite, Fort save (DC 93); initial and secondary damage 2d12 temporary Dex.
-### Skills:
+#### Skills:
  Devastation centipedes receive a +8 racial bonus on Climb, Hide, and Spot checks.
 ### Devastation Spider
-### Poison (Ex):
+#### Poison (Ex):
  Bite, Fort save (DC 94); initial and secondary damage 2d12 temporary Con.
 
-### Web (Ex):
+#### Web (Ex):
  A single web strand is strong enough to support the spider and one creature of
 Gargantuan size. Web-spinning devastation spiders can cast a web eight times per day. This is similar to an attack
 with a net but has a maximum range of 150 feet, with a range increment of 30 feet, and is effective against
@@ -1376,7 +1382,7 @@ something to walk on or grab while pulling free. Each 5-foot section has 24 hit 
 reduction 20/fire. A devastation spider can move across its own sheet web at its climb speed and can determine the
 exact location of any creature caught in the web.
 
-### Skills:
+#### Skills:
  Web-spinning devastation spiders receive a +4 racial bonus on Hide and Spot checks.
 Hunting spiders receive a +6 racial bonus on Jump checks and a +8 racial bonus on Spot checks (using the modifiers
 given in parentheses). *All devastation spiders gain a +8 competence bonus on Hide and Move Silently checks when
@@ -1384,26 +1390,26 @@ using their webs.
 
 ### Devastation Scorpion
 
-### Improved Grab (Ex):
+#### Improved Grab (Ex):
  To use this ability, the devastation scorpion must hit with its claw attack.
 If it gets a hold, it hangs on and squeezes.
 
-### Squeeze (Ex):
+#### Squeeze (Ex):
  A devastation scorpion that gets a hold on a Gargantuan or smaller opponent
 automatically deals damage with both claws and its sting.
 
-### Poison (Ex):
+#### Poison (Ex):
  Sting, Fort save (DC 95); initial and secondary damage 2d12 temporary Str.
-### Skills:
+#### Skills:
  Devastation scorpions receive a +4 racial bonus on Climb, Hide, and Spot checks.
 ### Devastation Beetle
 
-### Trample (Ex):
+#### Trample (Ex):
  A devastation beetle can trample Gargantuan and smaller creatures for 30d10+24
 points of damage. Opponents who do not make attacks of opportunity against the devastation beetle can attempt a
 Reflex save (DC 90) to halve the damage.
 
-### Acid Cloud (Ex):
+#### Acid Cloud (Ex):
  A devastation beetle exudes a constant vapor that radiates outward in every
 direction for 60 feet. This vapor deals 6d6 points of acid damage each round to anyone caught in the cloud.
 
@@ -1412,13 +1418,13 @@ direction for 60 feet. This vapor deals 6d6 points of acid damage each round to 
 The standard advancement rules allow dragons theoretically infinite progression even beyond the stage of great
 wyrm. The following rules let dragons improve more than their Hit Dice as they progress to epic heights of power.
 
-### Age Category:
+#### Age Category:
  A standard dragon gains one "virtual age category" for every 3 Hit Dice it gains
 beyond the great wyrm stage. Abilities that function once per day per age category or otherwise use the dragon’s
 age category as part of a calculation use this adjusted number. Epic dragons gain one age category per 5 Hit Dice
 beyond great wyrm.
 
-### Size:
+#### Size:
  One important element of dragon advancement is increasing size. The dragons that don’t
 reach Colossal size by the great wyrm stage can never reach it according to the standard advancement rules. When
 advancing a dragon, consider its basic size group: lesser (white, black, brass, and copper dragons), ordinary
@@ -1435,33 +1441,33 @@ Epic dragons, already Colossal+ by the time they reach the great wyrm stage, do 
 Use the information presented under the epic dragon entry, below, to determine the statistics of a Colossal+
 dragon.
 
-### Armor Class:
+#### Armor Class:
  A dragon’s natural armor bonus increases by +1 for every Hit Die it gains beyond the
 great wyrm stage. (This rule applies for lesser dragon advancement as well, since natural armor and Hit Dice
 always increase at the same rate.)
 
-### Breath Weapon:
+#### Breath Weapon:
  If a dragon’s breath weapon deals damage, the damage typically increases by 2 dice
 for every virtual age category the dragon gains. The two exceptions among standard dragonsare the brass and white
 dragons, whose breath weapon damage increases by only 1 die per age category. The saving throw DC against a
 dragon’s breath weapon remains 10 + 1/2 the dragon’s Hit Dice + its Constitution modifier.
 
-### Spell Resistance:
+#### Spell Resistance:
  For standard advanced dragons, spell resistance increases by 2 per additional
 age category. For epic dragons, spell resistance increases by 3 (for force dragons) or 6 (for prismatic dragons)
 per additional age category.
 
-### Speed:
+#### Speed:
  When a dragon becomes Colossal, its fly speed increases by 50 feet and its maneuverability
 becomes clumsy. When it reaches Colossal+, its fly speed increases by another 50 feet, and its maneuverability
 remains clumsy. A dragon’s land speed and other special movement types (swim, burrow, and so on) do not change.
 
-### Ability Scores:
+#### Ability Scores:
  A great wyrm’s Strength and Constitution scores both increase by +2 for every
 virtual age category the dragon gains. Its Dexterity remains unchanged. Its Intelligence, Wisdom, and Charisma
 increase by +2 for every two age categories the dragon gains.
 
-### Special Abilities:
+#### Special Abilities:
  Dragons do not gain additional spell-like abilities, but their damage
 reduction continues to increase as they gain Hit Dice. For most dragons (the exceptions being the force and
 prismatic dragons), the great wyrm’s damage reduction increases to 15/epic after exceeding the great wyrm age
@@ -1474,11 +1480,11 @@ _Caster Level:_ A great wyrm’s caster level increases by 2 for every virtual a
 As with the epic dragons described later, advanced dragons gain the Improved Spell Capacity feat as a bonus feat
 once for every three caster levels above 20th.
 
-### Feats:
+#### Feats:
  Like ordinary dragons, advanced dragons receive one feat for every 3 Hit Dice they have.
 Feats gained after the dragon attains great wyrm status can be epic feats.
 
-### Challenge Rating:
+#### Challenge Rating:
  For standard dragons, CR increases by 2 per additional age category. For epic
 dragons, CR increases by 3 per additional age category. All other dragon statistics are as presented for dragons
 in general and specific dragon varieties.
@@ -1544,14 +1550,14 @@ Improved Spell Capacity feat as a bonus feat once for every three caster levels 
 choose epic feats for which it otherwise meets the prerequisites. Epic dragons also have access to dragon feats,
 as well as the additional feats described in this book.
 
-### Empower Spell-Like Ability:
+#### Empower Spell-Like Ability:
  An epic dragon can apply the Empower Spell feat to one of its
 spell-like abilities that it can use at least twice per day. If the dragon has limited use of the spell-like
 ability, the empowered ability uses up two uses of the ability. If the dragon can use the ability at will, there
 is no cost for empowering the ability. The dragon does not need to specify a spell-like ability when it chooses
 this feat; it can apply the feat to any spell-like ability it possesses.
 
-### Maximize Spell-Like Ability:
+#### Maximize Spell-Like Ability:
  The dragon can apply the Maximize Spell feat to one of its
 spell-like abilities that it can use at least three times per day. If the dragon has limited use of the spell-like
 ability, the maximized ability uses up three uses of the ability. If the dragon can use the ability at will, there
@@ -1573,21 +1579,21 @@ Epic dragons fly even faster than common dragons, and can cover greater distance
 Except as noted here, epic dragons conform to the general information that applies to all dragons given.
 ### Force Dragon
 Dragon (Force)
-### Climate/Terrain:
+#### Climate/Terrain:
  Any land and underground
 
-### Organization:
+#### Organization:
  Wyrmling, very young, young, juvenile and young adult: solitary or clutch (2-5);
 adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1-2 and 2-5
 offspring)
 
-### Challenge Rating:
+#### Challenge Rating:
  Wyrmling 13; very young 19; young 21; juvenile 25; young adult 28; adult 31;
 mature adult 35; old 37; very old 39; ancient 43; wyrm 50; great wyrm 59
 
-### Treasure:
+#### Treasure:
  Double standard
-### Alignment:
+#### Alignment:
  Usually neutral
 
 Advancement Range: Wyrmling 21-24 HD (Huge); very young 26-29 HD (Huge); young 31-34 HD (Gargantuan); juvenile
@@ -1634,110 +1640,110 @@ the purpose of overcoming damage reduction.
 
 #### Combat
 
-### Breath Weapon (Su):
+#### Breath Weapon (Su):
  A force dragon has one type of breath weapon, a cone of force that tears
 through creatures and objects in its area to devastating effect.
 
-### Immune to Force (Ex):
+#### Immune to Force (Ex):
  A force dragon cannot be harmed by any force effect, including
 _magic missiles, explosive runes, mage’s sword,_ the _sphere_ spells, or any other spell or effect with
 the Force descriptor. It can move freely through barriers made of force, such as a
 _wall of force._
 
-### Deflecting Force (Su):
+#### Deflecting Force (Su):
  A force dragon is protected by a shield of force that provides a
 deflection bonus to its AC. The deflection bonus is equal to the dragon’s Charisma bonus.
 
-### Blur (Su):
+#### Blur (Su):
  When a force dragon reaches juvenile age, the force surrounding its body distorts the
 light around it so that it is hard to discern the dragon’s exact location. This functions as a continuous
 _blur_ spell, giving the dragon concealment (20% miss chance).
 
-### Displacement (Su):
+#### Displacement (Su):
  An old force dragon’s deflecting force bends light even more ex-tremely,
 giving the dragon the benefit of the _displacement_ spell (50% miss chance). This supersedes its
 _blur_ ability.
 
-### Invisibility (Su):
+#### Invisibility (Su):
  A great wyrm force dragon is a creature of pure force, and is completely
 invisible (as though protected by _greater invisibility)._A creature that can see invisible creatures must
 still contend with the dragon’s _displacement_ ability.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 3/day---forcecage, maze, resilient sphere, telekinetic sphere, wall of force.
 The DCs are Charisma-based.
 
 ### Sample Force Dragon,Adult
 Gargantuan Dragon (Force)
-### Hit Dice:
+#### Hit Dice:
  45d12+585 (877 hp)
-### Initiative:
+#### Initiative:
  +0
-### Speed:
+#### Speed:
  60 ft., fly 300 ft. (clumsy)
-### AC:
+#### AC:
  64 (-4 size, +14 deflection, +44 natural)
-### Base Attack/Grapple:
+#### Base Attack/Grapple:
  +45/+77
-### Attack:
+#### Attack:
  Bite +61 (4d6+20/19-20) melee
 
-### Full Attack:
+#### Full Attack:
  Bite +61 (4d6+20/19-20) melee, 2 claws +56 (2d6+10/19-20) melee, 2 wings +56
 (2d6+10/19-20) melee, tail slap +56 (2d8+30/19-20) melee
 
-### Space/Reach:
+#### Space/Reach:
  20 ft./15 ft.
 
-### Special Attacks:
+#### Special Attacks:
  Crush 4d6+30 (DC 45), tail sweep 2d6+30 (DC 45), breath weapon, frightful
 presence (DC 46), spells (caster level 18th), spell-like abilities
 
-### Special Qualities:
+#### Special Qualities:
  Immunities, DR 15/epic, SR 39, blindsense 60ft., keen senses, deflecting
 force, blur (20% miss chance)
 
-### Saves:
+#### Saves:
  Fort +37, Ref +24, Will +38
-### Abilities:
+#### Abilities:
  Str 51, Dex 10, Con 37, Int 38, Wis 39, Cha 38
 
-### Skills:
+#### Skills:
  Appraise +50, Bluff +62, Concentration +61, Craft (alchemy) +50, Diplomacy +74, Escape
 Artist +48, Gather Information +20, Intimidate +68, Jump +32, Knowledge (all) +56, Listen +64, Search +72, Sense
 Motive +50, Spellcraft +68, Spot +74
 
-### Feats:
+#### Feats:
  Alertness, Cleave, Combat Reflexes, Empower Spell-Like Ability, Flyby Attack, Hover,
 Improved Critical (bite), Improved Critical (claws), Improved Critical (wings), Improved Critical (tail slap),
 Improved Initiative, Improved Sunder, Maximize Spell-Like Ability, Power Attack, Spell Knowledge, Wingover
 
-### Climate/Terrain:
+#### Climate/Terrain:
  Any land and underground
-### Organization:
+#### Organization:
  Solitary, pair, or family (1-2 and 2-5 offspring)
-### Challenge Rating:
+#### Challenge Rating:
  31
-### Treasure:
+#### Treasure:
  Double standard
-### Alignment:
+#### Alignment:
  Usually neutral
-### Advancement:
+#### Advancement:
  46-49 HD (Gargantuan)
 A force dragon’s natural weapons are treated as epic for the purpose of overcoming damage reduction.
 
-### Breath Weapon (Su):
+#### Breath Weapon (Su):
  Cone of force, 60 ft., damage 30d12, Ref half (DC 45). The DC is
 Constitution-based.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 3/day---resilient sphere, wall of force.
 Caster level 18th; save DC 24 + spell level.
 
-### Immunities (Ex):
+#### Immunities (Ex):
  Immune to _sleep_ and paralysis, immune to force effects.
 
-### _Sorcerer Spells Known_
+#### _Sorcerer Spells Known_
 >(6/10/10/ 9/9/9/9/8/7/5; base DC 24 + spell level):
 _0---arcane mark, dancing lights, detect magic, flare, ghost sound, light, mending, open/close, read magic;_
 1st---_disguise self, comprehend languages, detect secret doors, magic missile, true strike;_
@@ -1754,21 +1760,21 @@ _Possessions: Crystal ball with true seeing, circlet of eyes*, pearl of power_
 
 ### Prismatic Dragon
 Dragon (Light)
-### Climate/Terrain:
+#### Climate/Terrain:
  Any land and underground
 
-### Organization:
+#### Organization:
  Wyrmling, very young, young, juvenile and young adult: solitary or clutch (2-5);
 adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1-2 and 2-5
 offspring)
 
-### Challenge Rating:
+#### Challenge Rating:
  Wyrmling 14; very young 16; young 22; juvenile 30; young adult 34; adult 39;
 mature adult 43; old 48; very old 52; ancient 57; wyrm 61; great wyrm 66
 
-### Treasure:
+#### Treasure:
  Double standard
-### Alignment:
+#### Alignment:
  Usually neutral
 
 Advancement Range: Wyrmling 24-27 HD (Huge); very young 29-32 HD (Huge); young 34-37 HD (Gargantuan); juvenile
@@ -1815,98 +1821,98 @@ for the purpose of overcoming damage reduction.
 
 #### Combat
 
-### Breath Weapon (Su):
+#### Breath Weapon (Su):
  A prismatic dragon has one type of breath weapon, a
 _prismatic spray_ effect. The breath weapon’s cone is of the size indicated by the dragon’s size, not the
 normal cone for the spell.
 
-### Deflecting Force (Su):
+#### Deflecting Force (Su):
  A prismatic dragon is protected by a shield of shimmering light similar to
 a _cloak of chaos_ that provides a deflection bonus to its AC. The deflection bonus is equal to the dragon’s
 Charisma bonus.
 
-### Immune to Light and Blindness (Ex):
+#### Immune to Light and Blindness (Ex):
  Prismatic dragons cannot be harmed by any light, including
 Evocation [Light] spells, _searing light,_ and the various _prismatic (sphere, spray, wall_) spells. In
 addition, they are immune to any spell or effect that causes blindness.
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---hypnotic pattern, rainbow pattern;
 3/day---prismatic sphere, prismatic wall, sunbeam, sunburst.
 The DC is Charisma-based.
 
 ### Sample Prismatic Dragon, Old
 Colossal Dragon
-### Hit Dice:
+#### Hit Dice:
  58d12+1,102 (1,479 hp)
-### Initiative:
+#### Initiative:
  +4 (Improved Initiative)
-### Speed:
+#### Speed:
  60 ft., fly 300 ft. (clumsy)
-### AC:
+#### AC:
  78 (-8 size, +19 deflection, +57 natural)
-### Base Attack/Grapple:
+#### Base Attack/Grapple:
  +58/+97
-### Attack:
+#### Attack:
  Bite +74 (4d8+23/19-20) melee
 
-### Full Attack:
+#### Full Attack:
  Bite +74 melee, 2 claws +69 (4d6+11) melee, 2 wings +68 (2d8+11) melee, tail slap
 +69 (4d6+34)melee
 
-### Space/Reach:
+#### Space/Reach:
  30 ft./20 ft
 
-### Special Attacks:
+#### Special Attacks:
  Crush 4d8+34 (DC 58), tail sweep 2d8+34 (DC 58), breath weapon, frightful
 presence (DC 58), spells (caster level 26th), spell-like abilities
 
-### Special Qualities:
+#### Special Qualities:
  Immunities, DR 20/epic, SR 66, blindsight, keen senses, deflecting force
-### Saves:
+#### Saves:
  Fort +50, Ref +31, Will +50
-### Abilities:
+#### Abilities:
  Str 57, Dex 10, Con 49, Int 48, Wis 49, Cha 48
 
-### Skills:
+#### Skills:
  Balance +67, Bluff +80, Climb +84, Concentration +80, Diplomacy +92, Disable Device +80,
 Escape Artist +61, Gather Information +86, Heal +80, Intimidate +86, Jump +102, Knowledge (all) +80, Listen +80,
 Move Silently +61, Open Lock +61, Perform (any two) +80, Search +80, Sense Motive +80, Spellcraft +86, Spot +80,
 Survival +80, Tumble +67, Use Magic Device +80
 
-### Feats:
+#### Feats:
  Blinding Speed (x2), Cleave, Flyby Attack, Great Cleave, Improved Critical (bite),
 Improved Initiative, Improved Sunder, Improved Spell Capacity (9th), Improved Spell Capacity (9th), Power Attack,
 Quicken Spell-Like Ability, Snatch, Spell Knowledge (x4), Weapon Focus (bite), Weapon Focus (claw), Weapon Focus
 (tail slap)
 
-### Climate/Terrain:
+#### Climate/Terrain:
  Any land and underground
-### Organization:
+#### Organization:
  Solitary, pair, or family (1-2 and 2-5 off-spring)
-### Challenge Rating:
+#### Challenge Rating:
  48
-### Treasure:
+#### Treasure:
  Double standard
-### Alignment:
+#### Alignment:
  Usually neutral
-### Advancement:
+#### Advancement:
  59-62 HD (Colossal)
 A prismatic dragon’s natural weapons are treated as epic for the purpose of overcoming damage reduction.
 
-### Breath Weapon (Su):
+#### Breath Weapon (Su):
  Cone of _prismatic spray,_ 70 ft., effect as spell, Ref half (DC 58).
 
-### Spell-Like Abilities:
+#### Spell-Like Abilities:
 At will---hypnotic pattern, rainbow pattern;
 3/day---sunbeam, sunburst.
 Caster level 26th; save DC 29 + spell level. The DC is Charisma-based.
 
-### Immunities (Ex):
+#### Immunities (Ex):
  Immune to _sleep_ and paralysis effects, immune to light and blindness
 effects.
 
-### _Sorcerer Spells Known_
+#### _Sorcerer Spells Known_
 >(6/11/11/11/10/10/10/10/9/11; base DC 29 + spell level): 0---_dancing lights, daze, detect magic, ghost sound, light, prestidigitation, ray of frost, read magic, resistance;_
 1st---_enlarge person, mage armor, magic missile, shield, true strike, unseen servant;_ 2nd---_alter self, blur, darkness, detect thoughts, levitate;_
 3rd---_blink, fireball, greater magic weapon, haste, tongues, wind wall;_ 4th---_confusion, polymorph, scrying, stoneskin;_
@@ -1918,7 +1924,7 @@ _baleful polymorph, dismissal, fabricate, passwall, wall of force;_
 _Possessions: Staff of the cosmos, ring of regeneration,_ 15,563 gp.
 ## Elemental,Primal
 
-### Elemental Traits:
+#### Elemental Traits:
  Immune to poison, sleep, paralysis, and stunning. Not subject to critical hits.
 
 |  | Air Elemental, Primal | Earth Elemental, Primal |
@@ -1975,11 +1981,11 @@ _Possessions: Staff of the cosmos, ring of regeneration,_ 15,563 gp.
 Primal air elementals speak Auran.
 #### Combat
 
-### Air Mastery (Ex):
+#### Air Mastery (Ex):
  Airborne creatures take a -1 penalty on attack and damage rolls against an air
 elemental.
 
-### Whirlwind (Su):
+#### Whirlwind (Su):
  The elemental can transform itself into a whirlwind once every 10 minutes and
 remain in that form for up to 1 round for every 2 HD it has. In this form, the elemental can move through the air
 or along a surface at its fly speed. A primal air whirlwind is 10 feet wide at the base, 40 feet wide at the top,
@@ -2001,12 +2007,12 @@ Strength-based.
 Earth elementals speak Terran.
 #### Combat
 
-### Earth Mastery (Ex):
+#### Earth Mastery (Ex):
  An earth elemental gains a +1 attack and damage bonus if both it and its foe
 touch the ground. If an opponent is airborne or water-borne, the elemental takes a -4 penalty on attack and damage
 rolls. (These modifiers are not included in the statistics block.)
 
-### Push (Ex):
+#### Push (Ex):
  An earth elemental can start a bull rush maneuver without provoking an attack of
 opportunity. The combat modifiers given for earth mastery, above, also apply to the elemental’s opposed Strength
 checks.
@@ -2018,7 +2024,7 @@ primal fire elemental may attempt to evaporate a lesser body of water if blocked
 
 #### Combat
 
-### Burn (Ex):
+#### Burn (Ex):
  Those hit by a primal fire elemental’s slam attack must succeed at a Reflex save (DC
 51) or catch fire. The flame burns for 1d4 rounds. A burning creature can take a move-equivalent action to put out
 the flame. Creatures hitting a fire elemental with natural weapons or unarmed attacks take fire damage as though
@@ -2032,7 +2038,7 @@ elementals speak Aquan.
 
 #### Combat
 
-### Water Mastery (Ex):
+#### Water Mastery (Ex):
  A water elemental gains a +1 bonus on attack and damage rolls if both it and
 its opponent touch water. If the opponent or elemental is land-bound, the elemental takes a -4 penalty on attack
 and damage rolls. (These modifiers are not included in the statistics block.) A primal water elemental can be a
@@ -2040,12 +2046,12 @@ serious threat to a ship that crosses its path. It can easily overturn even larg
 length per Hit Dice of the elemental) and stop massive vessels (ships of less than 10 feet in length per HD). Even
 ocean-going behemoths (ships of less than 20 feet in length per HD) can be slowed to half speed.
 
-### Drench (Ex):
+#### Drench (Ex):
  The elemental’s touch puts out torches, campfires, exposed lanterns, and other open
 flames of non-magical origin if these are Gargantuan or smaller. The creature can dispel magical fire it touches
 as _dispel magic_ cast by a caster whose level equals the elemental’s HD total (64).
 
-### Vortex (Su):
+#### Vortex (Su):
  The elemental can transform itself into a whirlpool once every 10 minutes, provided
 it is underwater, and remain in that form for up to 1 round for every 2 HD it has (48 rounds). In vortex form, the
 elemental can move through the water or along the bottom at its swim speed. The vortex is 5 feet wide at the base,

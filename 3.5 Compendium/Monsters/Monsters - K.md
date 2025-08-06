@@ -29,7 +29,7 @@ tags:
 | Full Attack: | Spear +1 melee (1d6--1/x3) or sling +3 ranged (1d3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Light Sensitivity; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Light Sensitivity; | 
 | Saves: | Fort +2, Ref +1, Will --1 | 
 | Abilities: | Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8 | 
 | Skills: | [[Skill List#Craft\|Craft]] (trapmaking) +2, [[Skill List#Hide\|Hide]] +6, [[Skill List#Listen\|Listen]] +2, [[Skill List#Move Silently\|Move Silently]] +2, [[Skill List#Profession\|Profession]] (miner) +2, [[Skill List#Search\|Search]] +2, [[Skill List#Spot\|Spot]] +2; | 
@@ -106,7 +106,7 @@ character class.
 | Full Attack: | 2 tentacles +28 melee (2d8+12/19--20) and 6 arms +23 melee (1d6+6) and bite +23 melee (4d6+6) | 
 | Space/Reach: | 20 ft./15 ft. (60 ft. with tentacle, 30 ft. with arm) | 
 | Special Attacks: | Improved grab, constrict 2d8+12 or 1d6+6 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Ink Cloud, Jet, [[Special Abilities#low-light vision\|Low-light Vision]] , Spell-like Abilities; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Ink Cloud, Jet, [[Special Abilities#low-light vision\|Low-light Vision]] , Spell-like Abilities; | 
 | Saves: | Fort +21, Ref +12, Will +13 | 
 | Abilities: | Str 34, Dex 10, Con 29, Int 21, Wis 20, Cha 20 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +21, [[Skill List#Diplomacy\|Diplomacy]] +7, [[Skill List#Hide\|Hide]] +0, [[Skill List#Intimidate\|Intimidate]] +16, [[Skill List#Knowledge\|Knowledge]] (geography) +17, [[Skill List#Knowledge\|Knowledge]] (nature) +16, [[Skill List#Listen\|Listen]] +30, [[Skill List#Search\|Search]] +28, [[Skill List#Sense Motive\|Sense Motive]] +17, [[Skill List#Spot\|Spot]] +30, [[Skill List#Survival\|Survival]] +5 (+7 Following Tracks), [[Skill List#Swim\|Swim]] +20, [[Skill List#Use Magic Device\|Use Magic Device]] +16; | 
@@ -160,7 +160,7 @@ A kraken has a +8 racial bonus on any Swim check to perform some special action 
 | Full Attack: | Bite +2 melee (1d6) and 2 claws +0 melee (1d4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Scare | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +3, Ref +5, Will +1 | 
 | Abilities: | Str 11, Dex 14, Con 11, Int 6, Wis 12, Cha 13 | 
 | Skills: | [[Skill List#Hide\|Hide]] +4, [[Skill List#Jump\|Jump]] +9, [[Skill List#Listen\|Listen]] +3, [[Skill List#Move Silently\|Move Silently]] +6; | 

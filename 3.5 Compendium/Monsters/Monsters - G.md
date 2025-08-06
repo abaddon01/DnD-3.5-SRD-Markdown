@@ -28,7 +28,7 @@ tags:
 | Full Attack: | 2 claws +6 melee (1d4+2) and bite +4 melee (1d6+1) and gore +4 melee (1d6+1) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Freeze; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Freeze; | 
 | Saves: | Fort +5, Ref +6, Will +4 | 
 | Abilities: | Str 15, Dex 14, Con 18, Int 6, Wis 11, Cha 7 | 
 | Skills: | [[Skill List#Hide\|Hide]] +7\*, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 
@@ -120,7 +120,7 @@ A genie can enter any of the elemental planes, the Astral Plane, or the Material
 | Full Attack: | 2 slams +10 melee (1d8+4) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Air mastery, spell-like abilities, whirlwind | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, *plane Shift*, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, *plane Shift*, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +7, Ref +9, Will +7 | 
 | Abilities: | Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 15 | 
 | Skills: | [[Skill List#Appraise\|Appraise]] +12, [[Skill List#Concentration\|Concentration]] +12, [[Skill List#Craft\|Craft]] (any One) +12, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Escape Artist\|Escape Artist]] +14, [[Skill List#Knowledge\|Knowledge]] (any One) +12, [[Skill List#Listen\|Listen]] +12, [[Skill List#Move Silently\|Move Silently]] +14, [[Skill List#Sense Motive\|Sense Motive]] +12, [[Skill List#Spellcraft\|Spellcraft]] +12, [[Skill List#Spot\|Spot]] +12, [[Skill List#Use Rope\|Use Rope]] +4 (+6 With Bindings); | 
@@ -188,7 +188,7 @@ Some djinn (1% of the total population) are noble. A noble djinni can grant thre
 | Full Attack: | 2 slams +15 melee (1d8+6 plus 1d6 fire) | 
 | Space/Reach: | 10 ft./ 10 ft. | 
 | Special Attacks: | *Change size*, heat, spell-like abilities | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, *plane Shift*, Telepathy 100 Ft., Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, *plane Shift*, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., Vulnerability To Cold; | 
 | Saves: | Fort +9, Ref +10, Will +9 | 
 | Abilities: | Str 23, Dex 17, Con 14, Int 12, Wis 15, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +15, [[Skill List#Craft\|Craft]] (any One) +14, [[Skill List#Concentration\|Concentration]] +15, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Intimidate\|Intimidate]] +17, [[Skill List#Listen\|Listen]] +15, [[Skill List#Move Silently\|Move Silently]] +16, [[Skill List#Sense Motive\|Sense Motive]] +15, [[Skill List#Spellcraft\|Spellcraft]] +14, [[Skill List#Spot\|Spot]] +15; | 
@@ -237,7 +237,7 @@ An efreeti's red-hot body deals 1d6 points of extra fire damage whenever it hits
 | Full Attack: | Scimitar +9/+4 melee (1d6+4/18--20) or longbow +8/+3 ranged (1d8/x3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | *Change size*, spell-like abilities | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Elemental Endurance, *plane Shift, * Resistance To Fire 10, Telepathy 100 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Elemental Endurance, *plane Shift, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; | 
 | Saves: | Fort +6, Ref +7, Will +7 | 
 | Abilities: | Str 16, Dex 15, Con 12, Int 14, Wis 15, Cha 13 | 
 | Skills: | [[Skill List#Appraise\|Appraise]] +11, [[Skill List#Concentration\|Concentration]] +10, [[Skill List#Craft\|Craft]] (any Two) +11, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Escape Artist\|Escape Artist]] +6, [[Skill List#Listen\|Listen]] +11, [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Ride\|Ride]] +11, [[Skill List#Sense Motive\|Sense Motive]] +11, [[Skill List#Spot\|Spot]] +11, [[Skill List#Use Rope\|Use Rope]] +2 (+4 With Bindings); | 
@@ -563,7 +563,7 @@ Once per round, a giant that would normally be hit by a rock can make a Reflex s
 | Full Attack: | Gargantuan morningstar +22/+17/+12 melee (4d6+18) or 2 slams +22 melee (1d6+12) or rock +12 ranged (2d8+12) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Rock throwing, spell-like abilities | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , Oversized Weapon, Rock Catching, [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , Oversized Weapon, Rock Catching, [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +16, Ref +6, Will +10 | 
 | Abilities: | Str 35, Dex 13, Con 23, Int 12, Wis 16, Cha 13 | 
 | Skills: | [[Skill List#Climb\|Climb]] +19, [[Skill List#Craft\|Craft]] (any One) +11, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Intimidate\|Intimidate]] +11, [[Skill List#Listen\|Listen]] +15, [[Skill List#Perform\|Perform]] (stringed Instruments) +2, [[Skill List#Sense Motive\|Sense Motive]] +9, [[Skill List#Spot\|Spot]] +15; | 
@@ -615,7 +615,7 @@ Good-aligned clerics have access to two of the following domains: Good, Healing,
 | Full Attack: | Greatsword +20/+15/+10 melee (3d6+15) or 2 slams +20 melee (1d4+10) or rock +10 ranged (2d6+10 plus 2d6 fire) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Rock throwing | 
-| Special Qualities: | Immunity To Fire, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Cold; | 
+| Special Qualities | Immunity To Fire, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Cold; | 
 | Saves: | Fort +14, Ref +4, Will +9 | 
 | Abilities: | Str 31, Dex 9, Con 21, Int 10, Wis 14, Cha 11 | 
 | Skills: | [[Skill List#Climb\|Climb]] +9, [[Skill List#Craft\|Craft]] (any One) +6, [[Skill List#Intimidate\|Intimidate]] +6, [[Skill List#Jump\|Jump]] +9, [[Skill List#Spot\|Spot]] +14; | 
@@ -657,7 +657,7 @@ Most groups of fire giants include clerics. A fire giant cleric has access to tw
 |**Full Attack:**|Huge greataxe +18/+13 melee (3d6+13/x3) or 2 slams +18 melee (1d4+9) or rock +9 ranged (2d6+9)||+2 Huge frost greataxe +30/+25/+20/+15 melee (3d6+18/�3 plus 1d6 cold) or 2 slams +28 melee (1d4+11) or rock +18 ranged (2d6+11)|
 |**Space/Reach:**|10 ft./10 ft.||10 ft./10 ft.|
 |**Special Attacks:**|Rock throwing||Rock throwing, smite good, sneak attack +2d6|
-| Special Qualities: | Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Fire; | | Aura Of Despair, Aura Of Evil, Command Undead, Dark Blessing, Detect Good, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Poison Use, Resistance To Fire 10, Rock Catching, Vulnerability To Fire; | 
+| Special Qualities: | Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Fire; | | Aura Of Despair, Aura Of Evil, Command Undead, Dark Blessing, Detect Good, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Poison Use, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, Rock Catching, Vulnerability To Fire; | 
 |**Saves:**|Fort +14, Ref +3, Will +6||Fort +25, Ref +13, Will +13|
 |**Abilities:**|Str 29, Dex 9, Con 21, Int 10, Wis 14, Cha 11||Str 32, Dex 12, Con 22, Int 10, Wis 12, Cha 18|
 | Skills: | [[Skill List#Climb\|Climb]] +13, [[Skill List#Craft\|Craft]] (any One) +6, [[Skill List#Intimidate\|Intimidate]] +6, [[Skill List#Jump\|Jump]] +17, [[Skill List#Spot\|Spot]] +12; | | [[Skill List#Climb\|Climb]] +17, [[Skill List#Hide\|Hide]] +2, [[Skill List#Jump\|Jump]] +17, [[Skill List#Knowledge\|Knowledge]] (religion) +2, [[Skill List#Ride\|Ride]] +11, [[Skill List#Spot\|Spot]] +5; | 
@@ -735,7 +735,7 @@ Many groups of frost giants include clerics. A frost giant cleric has access to 
 | Full Attack: | Greatclub +16/+11 melee (2d8+10) or 2 slams +15 melee (1d4+7) or rock +8 ranged (2d6+7) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Rock throwing | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching; | 
 | Saves: | Fort +12, Ref +3, Will +4 | 
 | Abilities: | Str 25, Dex 8, Con 19, Int 6, Wis 10, Cha 7 | 
 | Skills: | [[Skill List#Climb\|Climb]] +7, [[Skill List#Jump\|Jump]] +7, [[Skill List#Listen\|Listen]] +3, [[Skill List#Spot\|Spot]] +6; | 
@@ -820,7 +820,7 @@ Goblin, Orc.
 | Full Attack: | Greatclub +17/+12 melee (2d8+12) or 2 slams +17 melee (1d4+8) or rock +11 ranged (2d8+12) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Rock throwing | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching; | 
 | Saves: | Fort +13, Ref +6, Will +7 | 
 | Abilities: | Str 27, Dex 15, Con 19, Int 10, Wis 12, Cha 11 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11, [[Skill List#Hide\|Hide]] +6\*, [[Skill List#Jump\|Jump]] +11, [[Skill List#Spot\|Spot]] +12; | 
@@ -904,7 +904,7 @@ Goblin, Orc.
 | Full Attack: | Greatsword +26/+21/+16 melee (4d6+21/19--20) or 2 slams +26 melee (1d6+14) or composite longbow (+14 Str bonus) +14/+9/+4 ranged (3d6+14/x3) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Spell-like abilities | 
-| Special Qualities: | Freedom Of Movement, Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Water Breathing; | 
+| Special Qualities | Freedom Of Movement, Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Water Breathing; | 
 | Saves: | Fort +17, Ref +8, Will +13 | 
 | Abilities: | Str 39, Dex 14, Con 23, Int 16, Wis 20, Cha 15 | 
 | Skills: | [[Skill List#Climb\|Climb]] +20, [[Skill List#Concentration\|Concentration]] +26, [[Skill List#Craft\|Craft]] (any One) +13, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Intimidate\|Intimidate]] +12, [[Skill List#Jump\|Jump]] +24, [[Skill List#Listen\|Listen]] +15, [[Skill List#Perform\|Perform]] (sing) +12, [[Skill List#Sense Motive\|Sense Motive]] +15, [[Skill List#Spot\|Spot]] +25, [[Skill List#Swim\|Swim]] +18\*; | 
@@ -955,7 +955,7 @@ About 20% of adult storm giants are sorcerers or clerics. A storm giant cleric h
 | Full Attack: | 6 bites +4 melee (1) and spittle +4 ranged touch (1d4 acid plus blindness) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Gibbering, spittle, improved grab, blood drain, engulf, ground manipulation | 
-| Special Qualities: | Amorphous, [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | Amorphous, [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +7, Ref +4, Will +5 | 
 | Abilities: | Str 10, Dex 13, Con 22, Int 4, Wis 13, Cha 13 | 
 | Skills: | [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +9, [[Skill List#Swim\|Swim]] +8; | 
@@ -1022,7 +1022,7 @@ A gibbering mouther has a +8 racial bonus on any Swim check to perform some spec
 | Full Attack: | 4 claws +12 melee (1d4+6) and bite +7 melee (1d8+3) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Rend 2d4+9 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +7, Ref +8, Will +5 | 
 | Abilities: | Str 22, Dex 17, Con 14, Int 2, Wis 12, Cha 7 | 
 | Skills: | [[Skill List#Climb\|Climb]] +14, [[Skill List#Move Silently\|Move Silently]] +8, [[Skill List#Spot\|Spot]] +6; | 
@@ -1061,7 +1061,7 @@ A girallon has a +8 racial bonus on Climb checks and can always choose to take 1
 | Full Attack: | Battleaxe +3 melee (1d8+2/x3) or shortbow +1 ranged (1d6/x3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +4, Ref +0, Will +0 | 
 | Abilities: | Str 15, Dex 10, Con 13, Int 8, Wis 11, Cha 8 | 
 | Skills: | [[Skill List#Listen\|Listen]] +2, [[Skill List#Spot\|Spot]] +3; | 
@@ -1282,7 +1282,7 @@ area.
 | Full Attack: | Morningstar +2 melee (1d6) or javelin +3 ranged (1d4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +3, Ref +1, Will --1 | 
 | Abilities: | Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 6 | 
 | Skills: | [[Skill List#Hide\|Hide]] +5, [[Skill List#Listen\|Listen]] +2, [[Skill List#Move Silently\|Move Silently]] +5, [[Skill List#Ride\|Ride]] +4, [[Skill List#Spot\|Spot]] +2; | 
@@ -1374,7 +1374,7 @@ The characteristics of a golem that come from its nature as a magic item (caster
 | Full Attack: | 2 slams +14 melee (2d10+7 plus cursed wound) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Berserk, cursed wound | 
-| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine And Bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Haste, Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine And Bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Haste, Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +3, Ref +2, Will +3 | 
 | Abilities: | Str 25, Dex 9, Con ---, Int ---, Wis 11, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -1433,7 +1433,7 @@ CL 11th; Craft Construct, *animate objects, commune, resurrection*, caster must 
 | Full Attack: | 2 slams +10 melee (2d8+5) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Berserk | 
-| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  5/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  5/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +3, Ref +2, Will +3 | 
 | Abilities: | Str 21, Dex 9, Con ---, Int ---, Wis 11, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -1484,7 +1484,7 @@ CL 8th; Craft Construct, *animate dead, bull's strength, geas/quest, limited wis
 | Full Attack: | 2 slams +23 melee (2d10+11) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Breath weapon | 
-| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  15/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  15/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +6, Ref +5, Will +6 | 
 | Abilities: | Str 33, Dex 9, Con ---, Int ---, Wis 11, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -1585,7 +1585,7 @@ A greater stone golem is 18 feet tall and weighs around 32,000 pounds. It resemb
 | Full Attack: | Gore +12 melee (1d8+7) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Breath weapon, trample 1d8+7 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Lowlight Vision, [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Lowlight Vision, [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +11, Ref +6, Will +5 | 
 | Abilities: | Str 21, Dex 10, Con 21, Int 2, Wis 12, Cha 9 | 
 | Skills: | [[Skill List#Listen\|Listen]] +9, [[Skill List#Spot\|Spot]] +8; | 
@@ -1626,7 +1626,7 @@ Reflex DC 19 half. The save DC is Strength-based.
 | Full Attack: | Bite +15 melee (2d6+6); 2 claws +10 melee (1d6+3) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Improved grab, rend 2d6+9 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +14, Ref +7, Will +4 | 
 | Abilities: | Str 23, Dex 10, Con 24, Int 3, Wis 12, Cha 8 | 
 | Skills: | [[Skill List#Hide\|Hide]] +2, [[Skill List#Spot\|Spot]] +10, [[Skill List#Survival\|Survival]] +3; | 
@@ -1672,7 +1672,7 @@ Gray renders have a +4 racial bonus on Spot checks due to their six keen eyes.
 | Full Attack: | 4 tentacles +3 melee (1d4+2); bite --2 melee (1d3+1) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +0, Ref +2, Will +5 | 
 | Abilities: | Str 14, Dex 14, Con 11, Int 3, Wis 14, Cha 5 | 
 | Skills: | [[Skill List#Climb\|Climb]] +10, [[Skill List#Hide\|Hide]] +3\*, [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +6; | 
@@ -1714,7 +1714,7 @@ A grick has a +8 racial bonus on Climb checks and can always choose to take 10 o
 | Full Attack: | Bite +11 melee (2d6+4) and 2 claws +8 melee (1d4+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Pounce, rake 1d6+2 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +8, Ref +7, Will +5 | 
 | Abilities: | Str 18, Dex 15, Con 16, Int 5, Wis 13, Cha 8 | 
 | Skills: | [[Skill List#Jump\|Jump]] +8, [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +10; | 
@@ -1766,7 +1766,7 @@ Carrying Capacity: A light load for a griffon is up to 300 pounds; a medium load
 | Full Attack: | Battleaxe +4 melee (1d8+3/3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | Blindsight 40 Ft., Immunities, [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | Blindsight 40 Ft., Immunities, [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +1, Ref +4, Will +2 | 
 | Abilities: | Str 15, Dex 13, Con 13, Int 10, Wis 8, Cha 6 | 
 | Skills: | [[Skill List#Climb\|Climb]] +4, [[Skill List#Hide\|Hide]] +3\*, [[Skill List#Listen\|Listen]] +5, [[Skill List#Spot\|Spot]] +3; | 

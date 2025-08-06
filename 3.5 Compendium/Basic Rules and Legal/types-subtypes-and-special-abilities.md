@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Basic Rules and Legal/ Types, Subtypes, and Special Abilities
+title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Types, Subtypes, and Special Abilities
 aliases: 3.5 Types, Subtypes, and Special Abilities
-tags: 3.5e/rules / v3.5_srd / basic_rules_and_legal / types,_subtypes,_and_special_abilities
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - basic_rules_and_legal
+  - types,_subtypes,_and_special_abilities
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

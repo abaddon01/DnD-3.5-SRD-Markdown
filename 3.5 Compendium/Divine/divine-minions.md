@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Divine/ Divine Minions
+title: 3.5 Compendium  - v3.5 SRD - Divine - Divine Minions
 aliases: 3.5 Divine Minions
-tags: 3.5e/rules / v3.5_srd / divine / divine_minions
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - divine
+  - divine_minions
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

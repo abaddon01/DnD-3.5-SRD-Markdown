@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Epic/ Epic Level Basics
+title: 3.5 Compendium  - v3.5 SRD - Epic - Epic Level Basics
 aliases: 3.5 Epic Level Basics
-tags: 3.5e/rules / v3.5_srd / epic / epic_level_basics
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - epic
+  - epic_level_basics
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

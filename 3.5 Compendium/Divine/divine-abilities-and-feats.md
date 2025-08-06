@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Divine/ Divine Abilities and Feats
+title: 3.5 Compendium  - v3.5 SRD - Divine - Divine Abilities and Feats
 aliases: 3.5 Divine Abilities and Feats
-tags: 3.5e/rules / v3.5_srd / divine / divine_abilities_and_feats
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - divine
+  - divine_abilities_and_feats
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -2,9 +2,15 @@
 lang: en
 ---
 lang: en
-title: 3.5 Compendium / title: v3.5 SRD/ Basic Rules and Legal/ Character Classes I
+title: 3.5 Compendium  - title: v3.5 SRD - Basic Rules and Legal - Character Classes I
 aliases: 3.5 Character Classes I
-tags: 3.5e/rules / title:_v3.5_srd / basic_rules_and_legal / character_classes_i
+tags:
+  - 3.5e
+  - rules
+  - title:_v3.5_srd
+  - basic_rules_and_legal
+  - character_classes_i
+
 ---
 
 ---

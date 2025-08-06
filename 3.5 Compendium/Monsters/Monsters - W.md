@@ -28,7 +28,7 @@ tags:
 | Full Attack: | Slam +3 melee (1d4+1 plus energy drain) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Create spawn, energy drain | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +1, Ref +2, Will +5 | 
 | Abilities: | Str 12, Dex 12, Con ---, Int 11, Wis 13, Cha 15 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +16, [[Skill List#Spot\|Spot]] +7; | 
@@ -72,7 +72,7 @@ Wights have a +8 racial bonus on Move Silently checks.
 | Full Attack: | Shock +16 melee touch (2d8 electricity) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#invisibility\|Natural Invisibility]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#invisibility\|Natural Invisibility]] ; | 
 | Saves: | Fort +3, Ref +12, Will +9 | 
 | Abilities: | Str 1, Dex 29, Con 10, Int 15, Wis 16, Cha 12 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +13, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Disguise\|Disguise]] +1 (+3 Acting), [[Skill List#Intimidate\|Intimidate]] +3, [[Skill List#Listen\|Listen]] +17, [[Skill List#Search\|Search]] +14, [[Skill List#Spot\|Spot]] +17, [[Skill List#Survival\|Survival]] +3 (+5 Following Tracks); | 
@@ -113,7 +113,7 @@ A startled or frightened will-o'-wisp can extinguish its glow, effectively becom
 | Full Attack: | Bite +9 melee (1d8+6 plus 1d6 cold) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Breath weapon, freezing bite, trip | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , Vulnerability To Fire; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , Vulnerability To Fire; | 
 | Saves: | Fort +8, Ref +6, Will +3 | 
 | Abilities: | Str 18, Dex 13, Con 16, Int 9, Wis 13, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] -1\*, [[Skill List#Listen\|Listen]] +6, [[Skill List#Move Silently\|Move Silently]] +7, [[Skill List#Spot\|Spot]] +6, [[Skill List#Survival\|Survival]] +1\*; | 
@@ -160,7 +160,7 @@ Winter wolves have a +1 racial bonus on Listen, Move Silently, and Spot checks. 
 | Full Attack: | Bite +7 melee (1d6+4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Trip | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +6, Ref +6, Will +3 | 
 | Abilities: | Str 17, Dex 15, Con 15, Int 6, Wis 14, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +4, [[Skill List#Listen\|Listen]] +6, [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Spot\|Spot]] +6, [[Skill List#Survival\|Survival]] +2\*; | 
@@ -264,7 +264,7 @@ Any humanoid slain by a dread wraith becomes a wraith in 1d4 rounds. Its body re
 | Full Attack: | Sting +10 melee (1d6+4 plus poison) and bite +8 melee (2d8+4) and 2 wings +8 melee (1d8+2) and 2 talons +8 melee (2d6+4) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Poison, improved grab | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#paralysis\|Immunity To *sleep* And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#paralysis\|Immunity To *sleep* And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +7, Ref +6, Will +6 | 
 | Abilities: | Str 19, Dex 12, Con 15, Int 6, Wis 12, Cha 9 | 
 | Skills: | [[Skill List#Hide\|Hide]] +7, [[Skill List#Listen\|Listen]] +13, [[Skill List#Move Silently\|Move Silently]] +11, [[Skill List#Spot\|Spot]] +16; | 

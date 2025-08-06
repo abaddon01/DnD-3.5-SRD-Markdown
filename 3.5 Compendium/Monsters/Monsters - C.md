@@ -85,7 +85,7 @@ Same as the base creature +2.
 | Full Attack: | Longsword +7 melee (2d6+6/19--20) and 2 hooves +3 melee (1d6+2); or composite longbow (+4 Str bonus) +5 ranged (2d6+4/x3) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +3, Ref +6, Will +5 | 
 | Abilities: | Str 18, Dex 14, Con 15, Int 8, Wis 13, Cha 11 | 
 | Skills: | [[Skill List#Listen\|Listen]] +3, [[Skill List#Move Silently\|Move Silently]] +4, [[Skill List#Spot\|Spot]] +3, [[Skill List#Survival\|Survival]] +2; | 
@@ -154,7 +154,7 @@ Halfling.
 | Full Attack: | 2 claws +10 melee (1d3+2 plus corporeal instability) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Corporeal instability | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Critical Hits And Transformation, [[Special Abilities#spell resistance\|Spell Resistance]]  15; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Critical Hits And Transformation, [[Special Abilities#spell resistance\|Spell Resistance]]  15; | 
 | Saves: | Fort +7, Ref +7, Will +6 | 
 | Abilities: | Str 14, Dex 13, Con 13, Int 10, Wis 10, Cha 10 | 
 | Skills: | [[Skill List#Climb\|Climb]] +13, [[Skill List#Escape Artist\|Escape Artist]] +12, [[Skill List#Hide\|Hide]] +12, [[Skill List#Jump\|Jump]] +9, [[Skill List#Listen\|Listen]] +11, [[Skill List#Search\|Search]] +11, [[Skill List#Spot\|Spot]] +11, [[Skill List#Survival\|Survival]] +0 (+2 Following Tracks), [[Skill List#Tumble\|Tumble]] +14, [[Skill List#Use Rope\|Use Rope]] +1 (+3 With Bindings); | 
@@ -205,7 +205,7 @@ No mortal magic can permanently affect or fix a chaos beast's form. Effects such
 | Full Attack: | Bite +12 melee (2d6+4) and bite +12 melee (1d8+4) and gore +12 melee (1d8+4) and 2 claws +10 melee (1d6+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Breath weapon | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +9, Ref +7, Will +6 | 
 | Abilities: | Str 19, Dex 13, Con 17, Int 4, Wis 13, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +1\*, [[Skill List#Listen\|Listen]] +9, [[Skill List#Spot\|Spot]] +9; | 
@@ -261,7 +261,7 @@ A light load for a chimera is up to 348 pounds; a medium load, 349--699 pounds, 
 | Full Attack: | 2 tentacles +6 melee (1d3+3) | 
 | Space/Reach: | 5 ft./10 ft. | 
 | Special Attacks: | Improved grab, constrict 1d3+3 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Quickness; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Quickness; | 
 | Saves: | Fort +2, Ref +5, Will +4 | 
 | Abilities: | Str 16, Dex 14, Con 13, Int 4, Wis 13, Cha 7 | 
 | Skills: | [[Skill List#Climb\|Climb]] +13, [[Skill List#Hide\|Hide]] +10, [[Skill List#Move Silently\|Move Silently]] +6; | 
@@ -308,7 +308,7 @@ A chokers has a +8 racial bonus on Climb checks and can always choose to take 10
 | Full Attack: | 2 claws +12 melee (2d6+5) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Constrict 3d6+5, improved grab, paralytic tentacles | 
-| Special Qualities: | Amphibious, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Poison; | 
+| Special Qualities | Amphibious, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Poison; | 
 | Saves: | Fort +7, Ref +6, Will +9 | 
 | Abilities: | Str 20, Dex 16, Con 18, Int 10, Wis 14, Cha 5 | 
 | Skills: | [[Skill List#Hide\|Hide]] +13, [[Skill List#Listen\|Listen]] +11, [[Skill List#Spot\|Spot]] +11, [[Skill List#Swim\|Swim]] +13; | 
@@ -358,7 +358,7 @@ A chuul has a +8 racial bonus on any Swim check to perform some special action o
 | Full Attack: | Tail slap +8 melee (1d6+5) and bite +3 melee (1d4+2) | 
 | Space/Reach: | 10 ft./10 ft. (5 ft. with bite) | 
 | Special Attacks: | Moan, engulf | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Shadow Shift; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Shadow Shift; | 
 | Saves: | Fort +5, Ref +5, Will +7 | 
 | Abilities: | Str 21, Dex 16, Con 17, Int 14, Wis 15, Cha 15 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +13, [[Skill List#Move Silently\|Move Silently]] +12, [[Skill List#Spot\|Spot]] +13; | 
@@ -422,7 +422,7 @@ A cloaker can manipulate shadows. This ability is effective only in shadowy area
 | Full Attack: | Bite +9 melee (1d4--2 plus petrification) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Petrification | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +4, Ref +7, Will +2 | 
 | Abilities: | Str 6, Dex 17, Con 11, Int 2, Wis 13, Cha 9 | 
 | Skills: | [[Skill List#Listen\|Listen]] +7, [[Skill List#Spot\|Spot]] +7; | 
@@ -458,7 +458,7 @@ Creatures hit by a cockatrice's bite attack must succeed on a DC 12 Fortitude sa
 | Full Attack: | Bite +12 melee (1d3+6 plus poison) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Constrict 2d8+6, improved grab, poison, psionics, spells | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Ethereal Jaunt, Telepathy 90 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Ethereal Jaunt, [[Special Abilities#telepathy\|Telepathy]]  90 Ft.; | 
 | Saves: | Fort +8, Ref +9, Will +10 | 
 | Abilities: | Str 18, Dex 16, Con 14, Int 17, Wis 19, Cha 17 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +14, [[Skill List#Diplomacy\|Diplomacy]] +17, [[Skill List#Jump\|Jump]] +0, [[Skill List#Knowledge\|Knowledge]] (any Two) +15, [[Skill List#Listen\|Listen]] +16, [[Skill List#Search\|Search]] +15, [[Skill List#Sense Motive\|Sense Motive]] +16, [[Skill List#Spellcraft\|Spellcraft]] +15 (+17 Scrolls), [[Skill List#Spot\|Spot]] +16, [[Skill List#Survival\|Survival]] +4 (+6 Following Tracks), [[Skill List#Tumble\|Tumble]] +15, [[Skill List#Use Magic Device\|Use Magic Device]] +15 (+17 Scrolls); | 

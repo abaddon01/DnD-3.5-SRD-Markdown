@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Basic Rules and Legal/ Feats
+title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Feats
 aliases: 3.5 Feats
-tags: 3.5e/rules / v3.5_srd / basic_rules_and_legal / feats
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - basic_rules_and_legal
+  - feats
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

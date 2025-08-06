@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Basic Rules and Legal/ Legal Information
+title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Legal Information
 aliases: 3.5 Legal Information
-tags: 3.5e/rules / v3.5_srd / basic_rules_and_legal / legal_information
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - basic_rules_and_legal
+  - legal_information
+
 ---
 
 # LEGAL INFORMATION

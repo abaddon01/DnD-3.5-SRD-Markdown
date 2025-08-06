@@ -28,7 +28,7 @@ tags:
 | Full Attack: | Bite +57 melee (4d8+17/18--20/x3) and 2 horns +52 melee (1d10+8) and 2 claws +52 melee (1d12+8) and tail slap +52 melee (3d8+8) | 
 | Space/Reach: | 30 ft./20 ft. | 
 | Special Attacks: | Augmented critical, frightful presence, improved grab, rush, swallow whole | 
-| Special Qualities: | Carapace, [[Special Abilities#damage reduction\|Damage Reduction]]  15/epic, Immunity To Fire, Poison, Disease, Energy Drain, And Ability Damage, [[Special Abilities#regeneration\|Regeneration]]  40, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  32; | 
+| Special Qualities | Carapace, [[Special Abilities#damage reduction\|Damage Reduction]]  15/epic, Immunity To Fire, Poison, Disease, Energy Drain, And Ability Damage, [[Special Abilities#regeneration\|Regeneration]]  40, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  32; | 
 | Saves: | Fort +38, Ref +29, Will +20 | 
 | Abilities: | Str 45, Dex 16, Con 35, Int 3, Wis 14, Cha 14 | 
 | Skills: | [[Skill List#Listen\|Listen]] +17, [[Skill List#Search\|Search]] +9, [[Skill List#Spot\|Spot]] +17, [[Skill List#Survival\|Survival]] +14 (+16 Following Tracks); | 
@@ -93,7 +93,7 @@ The tarrasque has a +8 racial bonus on Listen and Spot checks.
 | Full Attack: | Bite +13 melee (2d8+9) and 2 tendrils +8 melee (1d6+4) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Improved grab, paralysis, swallow whole | 
-| Special Qualities: | [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#regeneration\|Regeneration]]  10; | 
+| Special Qualities | [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#regeneration\|Regeneration]]  10; | 
 | Saves: | Fort +12, Ref +2, Will +4 | 
 | Abilities: | Str 28, Dex 9, Con 22, Int 3, Wis 8, Cha 3 | 
 | Skills: | [[Skill List#Hide\|Hide]] +9, [[Skill List#Listen\|Listen]] +1, [[Skill List#Move Silently\|Move Silently]] +1, [[Skill List#Spot\|Spot]] +1; | 
@@ -137,7 +137,7 @@ Bludgeoning weapons and acid deal normal damage to a tendriculos. A tendriculos 
 | Full Attack: | Slam +4 melee (1d6+3 plus 2d6 fire) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Heat, burn | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., Vulnerability To Cold; | 
 | Saves: | Fort +4, Ref +2, Will +2 | 
 | Abilities: | Str 15, Dex 13, Con 13, Int 6, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +5, [[Skill List#Move Silently\|Move Silently]] +3, [[Skill List#Survival\|Survival]] +3; | 
@@ -176,7 +176,7 @@ When a thoqqua hits with its slam attack, the opponent must succeed on a DC 12 R
 | Full Attack: | Gargantuan *+3 adamantine warhammer* +37/+32/+27/+22 melee (4d6+27/3) or *+3 javelin* +22 ranged (2d6+19) or 2 slams +34 (1d8+16) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Oversized weapon, spell-like abilities | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  15/lawful, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  32; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  15/lawful, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  32; | 
 | Saves: | Fort +26, Ref +13, Will +21 | 
 | Abilities: | Str 43, Dex 12, Con 39, Int 21, Wis 28, Cha 24 | 
 | Skills: | [[Skill List#Balance\|Balance]] +7, [[Skill List#Bluff\|Bluff]] +19, [[Skill List#Climb\|Climb]] +22, [[Skill List#Concentration\|Concentration]] +37, [[Skill List#Craft\|Craft]] (any One) +28, [[Skill List#Diplomacy\|Diplomacy]] +11, [[Skill List#Disguise\|Disguise]] +7 (+9 Acting), [[Skill List#Heal\|Heal]] +20, [[Skill List#Intimidate\|Intimidate]] +32, [[Skill List#Jump\|Jump]] +38, [[Skill List#Knowledge\|Knowledge]] (any One) +28, [[Skill List#Listen\|Listen]] +32, [[Skill List#Perform\|Perform]] (oratory) +30, [[Skill List#Sense Motive\|Sense Motive]] +32, [[Skill List#Search\|Search]] +28, [[Skill List#Spellcraft\|Spellcraft]] +17, [[Skill List#Spot\|Spot]] +32, [[Skill List#Survival\|Survival]] +9 (+11 Following Tracks), [[Skill List#Swim\|Swim]] +16; | 
@@ -238,7 +238,7 @@ A titan usually reserves its *gate* and *etherealness* abilities to escape a fig
 |**Full Attack:**|Bite +6 melee (2d6+2) and 2 claws +1 melee (1d4+1)||Bite +10 melee (2d8+3) and 2 claws +5 melee (1d6+1)||Bite +20 melee (4d6+6) and 2 claws +15 melee (1d8+3)|
 |**Space/Reach:**|5 ft./5 ft.||5 ft./5 ft.||10 ft./5 ft.|
 |**Special Attacks:**|Improved grab, ink cloud||Improved grab, ink cloud||Improved grab, ink cloud|
-| Special Qualities: | All-around Vision, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid And Cold, Resistance To Electricity 10 And Fire 10; | | All-around Vision, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid And Cold, Resistance To Electricity 10 And Fire 10; | | All-around Vision, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid And Cold, Resistance To Electricity 10 And Fire 10; | 
+| Special Qualities: | All-around Vision, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid And Cold, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10; | | All-around Vision, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid And Cold, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10; | | All-around Vision, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid And Cold, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10; | 
 |**Saves:**|Fort +5, Ref +4, Will +4||Fort +7, Ref +6, Will +6||Fort +13, Ref +10, Will +10|
 |**Abilities:**|Str 14, Dex 13, Con 15, Int 10, Wis 12, Cha 9||Str 16, Dex 13, Con 15, Int 10, Wis 12, Cha 9||Str 22, Dex 13, Con 19, Int 10, Wis 12, Cha 9|
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +1, [[Skill List#Escape Artist\|Escape Artist]] +7, [[Skill List#Hide\|Hide]] +11, [[Skill List#Knowledge\|Knowledge]] (the Planes) +6, [[Skill List#Listen\|Listen]] +7, [[Skill List#Search\|Search]] +6, [[Skill List#Spot\|Spot]] +9, [[Skill List#Sense Motive\|Sense Motive]] +7, [[Skill List#Survival\|Survival]] +1 (+3 Other Planes And Following Tracks), [[Skill List#Swim\|Swim]] +10, [[Skill List#Use Rope\|Use Rope]] +1 (+3 With Bindings); | | [[Skill List#Diplomacy\|Diplomacy]] +1, [[Skill List#Escape Artist\|Escape Artist]] +11, [[Skill List#Hide\|Hide]] +11, [[Skill List#Knowledge\|Knowledge]] (the Planes) +6, [[Skill List#Listen\|Listen]] +11, [[Skill List#Search\|Search]] +14, [[Skill List#Sense Motive\|Sense Motive]] +11, [[Skill List#Spot\|Spot]] +15, [[Skill List#Survival\|Survival]] +1 (+3 Other Planes And Following Tracks), [[Skill List#Swim\|Swim]] +11, [[Skill List#Use Rope\|Use Rope]] +1 (+3 With Bindings); | | [[Skill List#Escape Artist\|Escape Artist]] +19, [[Skill List#Hide\|Hide]] +15, [[Skill List#Intimidate\|Intimidate]] +17, [[Skill List#Knowledge\|Knowledge]] (the Planes) +18, [[Skill List#Listen\|Listen]] +21, [[Skill List#Search\|Search]] +22, [[Skill List#Sense Motive\|Sense Motive]] +17, [[Skill List#Spot\|Spot]] +25, [[Skill List#Survival\|Survival]] +1 (+3 Other Planes And Following Tracks), [[Skill List#Swim\|Swim]] +14, [[Skill List#Use Rope\|Use Rope]] +1 (+3 With Bindings); | 
@@ -286,7 +286,7 @@ A tojanida has a +8 racial bonus on any Swim check to perform some special actio
 | Full Attack: | 2 slams +12 melee (2d6+9) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Animate trees, double damage against objects, trample 2d6+13 | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/slashing, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, Vulnerability To Fire; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/slashing, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, Vulnerability To Fire; | 
 | Saves: | Fort +10, Ref +1, Will +7 | 
 | Abilities: | Str 29, Dex 8, Con 21, Int 12, Wis 16, Cha 12 | 
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Hide\|Hide]] --9\*, [[Skill List#Intimidate\|Intimidate]] +6, [[Skill List#Knowledge\|Knowledge]] (nature) +6, [[Skill List#Listen\|Listen]] +8, [[Skill List#Sense Motive\|Sense Motive]] +8, [[Skill List#Spot\|Spot]] +8, [[Skill List#Survival\|Survival]] +8 (+10 Aboveground); | 
@@ -332,7 +332,7 @@ Reflex DC 22 half. The save DC is Strength-based. Skills: \*Treants have a +16 r
 | Full Attack: | Trident +4 melee (1d8+1) or heavy crossbow +3 ranged (1d10/19--20) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +4, Ref +3, Will +4 | 
 | Abilities: | Str 12, Dex 10, Con 12, Int 13, Wis 13, Cha 11 | 
 | Skills: | [[Skill List#Craft\|Craft]] (any One) +7, [[Skill List#Diplomacy\|Diplomacy]] +2, [[Skill List#Hide\|Hide]] +6, [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Ride\|Ride]] +6, [[Skill List#Search\|Search]] +7, [[Skill List#Sense Motive\|Sense Motive]] +7, [[Skill List#Spot\|Spot]] +7, [[Skill List#Survival\|Survival]] +7 (+9 Following Tracks), [[Skill List#Swim\|Swim]] +9; | 
@@ -374,7 +374,7 @@ A triton has a +8 racial bonus on any Swim check to perform some special action 
 | Full Attack: | Club +1 melee (1d6) and claw --1 melee (1d4) and bite --1 melee (1d4); or 2 claws +1 melee (1d4) and bite --1 melee (1d4); or javelin +1 ranged (1d6) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Stench | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  90 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  90 Ft.; | 
 | Saves: | Fort +5, Ref --1, Will +0 | 
 | Abilities: | Str 10, Dex 9, Con 14, Int 8, Wis 10, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] +5\*, [[Skill List#Listen\|Listen]] +3; | 

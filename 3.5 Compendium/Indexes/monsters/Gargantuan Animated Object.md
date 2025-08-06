@@ -1,0 +1,73 @@
+---
+lang: en
+title: 3.5 Compendium / Monsters / Gargantuan Animated Object
+aliases: 
+ - Gargantuan Animated Object
+tags: 
+ - 3.5e
+ - rules
+ - monsters
+ - Gargantuan Animated Object
+type: Construct
+cr: 7
+environment: Any
+alignment: Always neutral
+---
+
+# Gargantuan Animated Object
+
+|  | Gargantuan Animated Object Gargantuan Construct | 
+| ----| ---- | 
+| Hit Dice:            |16d10+60(148) |
+| Initiative:          |-2 |
+| Speed:               |10 ft. (2 squares); 20 ft. legs, 30 ft. multiple legs, 50 ft. wheels |
+| Armor Class:         |12 (-4 size, -2 Dex, +8 natural), touch 4, flat_footed 12  |
+| Base Attack/Grapple: |+12/+31 |
+| Attack:              |Slam +15 melee (2d8+10); |
+| Full Attack:         |Slam +15 melee (2d8+10); |
+| Space/Reach:         |20 ft./15 ft. (long) 20 ft./20 ft. (tall) |
+| Special Attacks:     | |
+| Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; |
+| Saves:               |Fort: 5, Ref: 3, Will: 0 |
+| Abilities:           |Str : 24,  Dex: 6,  Con: -1,  Int: -1,  Wis: 1,  Cha: 1 |
+| Skills:              |; |
+| Feats:               |[[Feat List#--\|--]]; |
+| Environment          |Any |
+| Organization:        |Solitary |
+| Challenge Rating:    |7 |
+| Treasure:            |None |
+| Alignment:           |Always neutral |
+| Advancement:         | |
+| Level Adjustment:    | |
+
+Animated objects come in all sizes, shapes, and colors. They owe their existence as creatures to spells such as animate objects or similar supernatural abilities.
+## Combat
+
+Animated objects fight only as directed by the animator. They follow orders without question and to the best of their abilities. Since they do not need to breathe and never tire, they can be extremely capable minions.
+
+An animated object can have one or more of the following special abilities, depending on its form.
+
+### Blind (Ex)
+A sheetlike animated object such as a carpet or tapestry can grapple an opponent up to three sizes larger than itself. The object makes a normal grapple check. If it wins, it wraps itself around the opponent's head, causing that creature to be blinded until removed.
+
+### Constrict (Ex)
+A flexible animated object such as a rope, vine, or rug deals damage equal to its slam damage value plus 1- 1/2 times its Strength bonus with a successful grapple check against a creature up to one size larger than itself.
+
+An object of at least Large size can make constriction attacks against multiple creatures at once, if they all are at least two sizes smaller than the object and can fit under it.
+
+### Hardness (Ex)
+An animated object has the same hardness it had before it was animated.
+
+### Improved Speed (Ex)
+The base land speed given in the statistics block assume that an animated object lurches, rocks, or slithers along.
+
+Objects with two legs (statues, ladders) or a similar shape that allows faster movement have a +10 foot bonus to speed. Objects with multiple legs (tables, chairs) have a +20 foot bonus to speed. Wheeled objects have a +40 foot bonus to speed.
+
+Objects might have additional modes of movement. A wooden object can float and has a swim speed equal to half its land speed. A rope or similar sinuous object has a climb speed equal to half its land speed. A sheetlike object can fly (clumsy maneuverability) at half its normal speed.
+
+### Trample (Ex)
+An animated object of at least Large size and with a hardness of at least 10 can trample creatures two or more sizes smaller than itself, dealing damage equal to the object's slam damage + 1-1/2 times its Strength bonus. Opponents who do not make attacks of opportunity against the object can attempt Reflex saves (DC 10 + 1/2 object's HD + object's Str modifier) to halve the damage.
+
+
+This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+Monster images sourced from dndbeyond.com and are licensed for personal use only.

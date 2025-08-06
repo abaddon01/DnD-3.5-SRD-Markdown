@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Basic Rules and Legal/ Carrying, Movement, and Exploration
+title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Carrying, Movement, and Exploration
 aliases: 3.5 Carrying, Movement, and Exploration
-tags: 3.5e/rules / v3.5_srd / basic_rules_and_legal / carrying,_movement,_and_exploration
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - basic_rules_and_legal
+  - carrying,_movement,_and_exploration
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

@@ -28,7 +28,7 @@ tags:
 | Full Attack: | Trident +4 melee (1d8+3) and bite +2 melee (1d4+1); or 2 talons +4 melee (1d4+2) and bite +2 melee (1d4+1); or heavy crossbow +3 ranged (1d10/19--20) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Blood frenzy, rake 1d4+1 | 
-| Special Qualities: | Blindsense 30 Ft., [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Freshwater Sensitivity, Light Blindness, Speak With Sharks, Water Dependent; | 
+| Special Qualities | Blindsense 30 Ft., [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Freshwater Sensitivity, Light Blindness, Speak With Sharks, Water Dependent; | 
 | Saves: | Fort +3, Ref +4, Will +4 | 
 | Abilities: | Str 14, Dex 13, Con 12, Int 14, Wis 13, Cha 9 | 
 | Skills: | [[Skill List#Handle Animal\|Handle Animal]] +4\*, [[Skill List#Hide\|Hide]] +6\*, [[Skill List#Listen\|Listen]] +6\*, [[Skill List#Profession\|Profession]] (hunter) +1\*, [[Skill List#Ride\|Ride]] +3, [[Skill List#Spot\|Spot]] +6\*, [[Skill List#Survival\|Survival]] +1\*; | 
@@ -153,7 +153,7 @@ Salamanders have the Multiattack feat even though they do not have the requisite
 | Full Attack: | Head butt +2 melee (1d6) and dagger --3 melee (1d4/19--20); or shortbow +3 ranged (1d6/x3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Pipes | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +2, Ref +5, Will +5 | 
 | Abilities: | Str 10, Dex 13, Con 12, Int 12, Wis 13, Cha 13 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +9, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Disguise\|Disguise]] +1 (+3 Acting), [[Skill List#Hide\|Hide]] +13, [[Skill List#Intimidate\|Intimidate]] +3, [[Skill List#Knowledge\|Knowledge]] (nature) +9, [[Skill List#Listen\|Listen]] +15, [[Skill List#Move Silently\|Move Silently]] +13, [[Skill List#Perform\|Perform]] (wind Instruments) +9, [[Skill List#Spot\|Spot]] +15, [[Skill List#Survival\|Survival]] +1 (+3 Aboveground); | 
@@ -232,7 +232,7 @@ receives Alertness as a bonus feat.
 | Full Attack: | 2 claws +9 melee (1d6+4) and bite +4 melee (1d8+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Rend 2d6+6 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Hold Breath, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Hold Breath, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +8, Ref +6, Will +5 | 
 | Abilities: | Str 19, Dex 12, Con 17, Int 2, Wis 13, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +8, [[Skill List#Spot\|Spot]] +7, [[Skill List#Swim\|Swim]] +12; | 
@@ -326,7 +326,7 @@ The touch of a greater shadow deals 1d8 points of Strength damage to a living fo
 | Full Attack: | Bite +7 melee (1d6+4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Bay, trip | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Shadow Blend, [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Shadow Blend, [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +7, Ref +5, Will +5 | 
 | Abilities: | Str 17, Dex 13, Con 17, Int 4, Wis 12, Cha 13 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +8, [[Skill List#Move Silently\|Move Silently]] +8, [[Skill List#Spot\|Spot]] +8, [[Skill List#Survival\|Survival]] +8\*; | 
@@ -377,7 +377,7 @@ In any condition of illumination other than full daylight, a shadow mastiff can 
 | Full Attack: | 2 slams +11 melee (2d6+5) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Improved grab, constrict 2d6+7 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, Resistance To Fire 10; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10; | 
 | Saves: | Fort +9, Ref +2, Will +4 | 
 | Abilities: | Str 21, Dex 10, Con 17, Int 7, Wis 10, Cha 9 | 
 | Skills: | [[Skill List#Hide\|Hide]] +3\*, [[Skill List#Listen\|Listen]] +8, [[Skill List#Move Silently\|Move Silently]] +8; | 
@@ -425,7 +425,7 @@ Skills: Shamblers have a +4 racial bonus on Hide, Listen, and Move Silently chec
 | Full Attack: | 2 slams +16 melee (1d8+6) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | --- | 
-| Special Qualities: | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, Find Master, Guard, [[Special Abilities#low-light vision\|Low-light Vision]] , *shield Other, Spell Storing*; | 
+| Special Qualities | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, Find Master, Guard, [[Special Abilities#low-light vision\|Low-light Vision]] , *shield Other, Spell Storing*; | 
 | Saves: | Fort +5, Ref +5, Will +5 | 
 | Abilities: | Str 22, Dex 10, Con ---, Int ---, Wis 10, Cha 1 | 
 | Environment: | Any | 
@@ -486,7 +486,7 @@ If a shield guardian's amulet is destroyed, the guardian ceases to function unti
 | Full Attack: | Bite +3 melee (1d4) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Stunning shock, lethal shock | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Electricity Sense, Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Electricity Sense, Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +4, Ref +5, Will +1 | 
 | Abilities: | Str 10, Dex 15, Con 13, Int 2, Wis 12, Cha 6 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11, [[Skill List#Hide\|Hide]] +11, [[Skill List#Jump\|Jump]] +7, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4, [[Skill List#Swim\|Swim]] +10; | 
@@ -710,7 +710,7 @@ As base creature (or --- if the base creature advances by character class).
 | Full Attack: | Bite +5 melee (2d6+4) and 2 claws +0 melee (1d4+2) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Rake 1d6+2 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Amphibious; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Amphibious; | 
 | Saves: | Fort +1, Ref +1, Will +3 | 
 | Abilities: | Str 19, Dex 13, Con 13, Int 10, Wis 10, Cha 6 | 
 | Skills: | [[Skill List#Hide\|Hide]] +6\*, [[Skill List#Listen\|Listen]] +7\*, [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Spot\|Spot]] +7\*, [[Skill List#Swim\|Swim]] +12; | 
@@ -749,7 +749,7 @@ A skum has a +8 racial bonus on any Swim check to perform some special action or
 | Full Attack: | Incorporeal touch +6 melee (1d8 plus energy drain) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Energy drain, create spawn | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, Sunlight Powerlessness, [[Special Abilities#undead traits\|Undead Traits]] , Unnatural Aura; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, Sunlight Powerlessness, [[Special Abilities#undead traits\|Undead Traits]] , Unnatural Aura; | 
 | Saves: | Fort +2, Ref +5, Will +7 | 
 | Abilities: | Str ---, Dex 16, Con ---, Int 14, Wis 14, Cha 15 | 
 | Skills: | [[Skill List#Hide\|Hide]] +13, [[Skill List#Intimidate\|Intimidate]] +12, [[Skill List#Knowledge\|Knowledge]] (religion) +12, [[Skill List#Listen\|Listen]] +14, [[Skill List#Search\|Search]] +12, [[Skill List#Spot\|Spot]] +14, [[Skill List#Survival\|Survival]] +2 (+4 Following Tracks); | 
@@ -812,7 +812,7 @@ A sphinx that pounces onto a creature can make two rake attacks with its hind le
 | Full Attack: | 2 claws +18 melee (2d4+7) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Pounce, rake 2d4+3, roar, spells | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +12, Ref +8, Will +7 | 
 | Abilities: | Str 25, Dex 10, Con 19, Int 16, Wis 17, Cha 17 | 
 | Skills: | [[Skill List#Intimidate\|Intimidate]] +17, [[Skill List#Knowledge\|Knowledge]] (any One) +18, [[Skill List#Listen\|Listen]] +18, [[Skill List#Spot\|Spot]] +18, [[Skill List#Survival\|Survival]] +18; | 
@@ -864,7 +864,7 @@ An androsphinx casts divine spells as a 6th-level cleric from the cleric spell l
 | Full Attack: | Gore +15 melee (2d6+6) and 2 claws +10 melee (1d6+3) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Pounce, rake 1d6+3 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +10, Ref +7, Will +3 | 
 | Abilities: | Str 23, Dex 10, Con 17, Int 10, Wis 11, Cha 11 | 
 | Skills: | [[Skill List#Intimidate\|Intimidate]] +8, [[Skill List#Listen\|Listen]] +11, [[Skill List#Spot\|Spot]] +1; | 
@@ -900,7 +900,7 @@ Attack bonus +15 melee, damage 1d6+3.
 | Full Attack: | 2 claws +11 melee (1d6+4) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Pounce, rake 1d6+2, spell-like abilities | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +7, Ref +7, Will +8 | 
 | Abilities: | Str 19, Dex 12, Con 13, Int 18, Wis 19, Cha 19 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +15, [[Skill List#Concentration\|Concentration]] +12, [[Skill List#Diplomacy\|Diplomacy]] +8, [[Skill List#Disguise\|Disguise]] +4 (+6 Acting), [[Skill List#Intimidate\|Intimidate]] +13, [[Skill List#Listen\|Listen]] +17, [[Skill List#Sense Motive\|Sense Motive]] +15, [[Skill List#Spot\|Spot]] +17; | 
@@ -941,7 +941,7 @@ Attack bonus +11 melee, damage 1d6+2.
 | Full Attack: | Bite +13 melee (1d10+5) and 2 claws +8 melee (1d6+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Pounce, rake 1d6+2 | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Lowlight Vision; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Lowlight Vision; | 
 | Saves: | Fort +8, Ref +8, Will +5 | 
 | Abilities: | Str 21, Dex 14, Con 15, Int 6, Wis 15, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +10, [[Skill List#Spot\|Spot]] +14; | 
@@ -978,7 +978,7 @@ Hieracosphinxes have a +4 racial bonus on Spot checks.
 | Full Attack: | Sting +8 melee (1d8+5 plus poison) and bite +3 melee (1d8+2) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Implant, poison | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Freedom Of Movement, Lowlight Vision, [[Special Abilities#scent\|Scent]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Freedom Of Movement, Lowlight Vision, [[Special Abilities#scent\|Scent]] ; | 
 | Saves: | Fort +9, Ref +5, Will +2 | 
 | Abilities: | Str 21, Dex 13, Con 21, Int 2, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +10, [[Skill List#Spot\|Spot]] +11; | 
@@ -1045,7 +1045,7 @@ All sprites have a +2 racial bonus on Search, Spot, and Listen checks.
 | Full Attack: | Short sword +6 melee (1d3--3/19--20) or longbow +6 ranged (1d4--3/x3) | 
 | Space/Reach: | 2-1/2 ft./0 ft. | 
 | Special Attacks: | Spell-like abilities, fiddle | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  17; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  17; | 
 | Saves: | Fort +1, Ref +6, Will +3 | 
 | Abilities: | Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14 | 
 | Skills: | [[Skill List#Craft\|Craft]] (any One) +4, [[Skill List#Escape Artist\|Escape Artist]] +8, [[Skill List#Hide\|Hide]] +16, [[Skill List#Jump\|Jump]] +3, [[Skill List#Listen\|Listen]] +3, [[Skill List#Move Silently\|Move Silently]] +8\*, [[Skill List#Perform\|Perform]] (string Instruments) +6, [[Skill List#Search\|Search]] +2, [[Skill List#Spot\|Spot]] +3; | 
@@ -1090,7 +1090,7 @@ Grigs have a +8 racial bonus on Jump checks. \*They also have a +5 racial bonus 
 | Full Attack: | Short sword +4 melee (1d4--2/19--20) or light crossbow +4 ranged (1d6/19--20) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Charm person | 
-| Special Qualities: | Amphibious, [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  16, *water Breathing, * Wild Empathy; | 
+| Special Qualities | Amphibious, [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  16, *water Breathing, * Wild Empathy; | 
 | Saves: | Fort +0, Ref +5, Will +3 | 
 | Abilities: | Str 7, Dex 16, Con 11, Int 12, Wis 13, Cha 18 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +8, [[Skill List#Craft\|Craft]] (any One) +5, [[Skill List#Escape Artist\|Escape Artist]] +6, [[Skill List#Handle Animal\|Handle Animal]] +8, [[Skill List#Hide\|Hide]] +7\*, [[Skill List#Listen\|Listen]] +6, [[Skill List#Perform\|Perform]] (sing) +7, [[Skill List#Search\|Search]] +3, [[Skill List#Sense Motive\|Sense Motive]] +5, [[Skill List#Spot\|Spot]] +6, [[Skill List#Swim\|Swim]] +6; | 
@@ -1142,7 +1142,7 @@ A nixie has a +8 racial bonus on any Swim check to perform some special action o
 | Full Attack: | Short sword +5 melee (1d4--2/19--20) or longbow +5 ranged (1d6--2)/x3 | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities, special arrows | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#invisibility\|Invisibility]] , Greater, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  15; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#invisibility\|Invisibility]] , Greater, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  15; | 
 | Saves: | Fort +0, Ref +6, Will +4 | 
 | Abilities: | Str 7, Dex 18, Con 11, Int 16, Wis 15, Cha 16 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +7, [[Skill List#Concentration\|Concentration]] +4, [[Skill List#Escape Artist\|Escape Artist]] +8, [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +8, [[Skill List#Move Silently\|Move Silently]] +8, [[Skill List#Ride\|Ride]] +8, [[Skill List#Search\|Search]] +9, [[Skill List#Sense Motive\|Sense Motive]] +6, [[Skill List#Spot\|Spot]] +8; | 
@@ -1228,7 +1228,7 @@ Halfling.
 | Full Attack: | Touch +7 melee (attach) | 
 | Space/Reach: | 2-1/2 ft./0 ft. | 
 | Special Attacks: | Attach, blood drain | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +2, Ref +6, Will +1 | 
 | Abilities: | Str 3, Dex 19, Con 10, Int 1, Wis 12, Cha 6 | 
 | Skills: | [[Skill List#Hide\|Hide]] +14, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 
@@ -1295,7 +1295,7 @@ A lit lantern can be used as a thrown weapon, dealing 1d4 points of fire damage 
 | Full Attack: | Swarm (1d6) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, wounding | 
-| Special Qualities: | Blindsense 20 Ft., Half Damage From Slashing And Piercing, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#swarm traits\|Swarm Traits]] ; | 
+| Special Qualities | Blindsense 20 Ft., Half Damage From Slashing And Piercing, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#swarm traits\|Swarm Traits]] ; | 
 | Saves: | Fort +3, Ref +7, Will +3 | 
 | Abilities: | Str 3, Dex 15, Con 10, Int 2, Wis 14, Cha 4 | 
 | Skills: | [[Skill List#Listen\|Listen]] +11, [[Skill List#Spot\|Spot]] +11; | 
@@ -1340,7 +1340,7 @@ A bat swarm has a +4 racial bonus on Listen and Spot checks. These bonuses are l
 | Full Attack: | Swarm (2d6 plus poison) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, poison | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Special Abilities#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Special Abilities#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
 | Saves: | Fort +5, Ref +7, Will +3 | 
 | Abilities: | Str 1, Dex 19, Con 8, Int ---, Wis 10, Cha 2 | 
 | Skills: | [[Skill List#Climb\|Climb]] +12, [[Skill List#Spot\|Spot]] +4; | 
@@ -1380,7 +1380,7 @@ A centipede swarm has a +4 racial bonus on Spot checks and a +8 racial bonus on 
 | Full Attack: | Swarm (3d6 plus poison) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, inhabit, poison | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Hive Mind, Immune To Weapon Damage, Resistance To Fire 10, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#swarm traits\|Swarm Traits]] ; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Hive Mind, Immune To Weapon Damage, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#swarm traits\|Swarm Traits]] ; | 
 | Saves: | Fort +10, Ref +14, Will +7 | 
 | Abilities: | Str 1, Dex 22, Con 14, Int 6, Wis 13, Cha 9 | 
 | Skills: | [[Skill List#Hide\|Hide]] +19, [[Skill List#Listen\|Listen]] +10, [[Skill List#Spot\|Spot]] +10; | 
@@ -1433,7 +1433,7 @@ Any hellwasp swarm with at least 1 hit point per Hit Die (or 12 hit points, for 
 | Full Attack: | Swarm (2d6) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Special Abilities#swarm traits\|Swarm Traits]] , Vermin Traits; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Special Abilities#swarm traits\|Swarm Traits]] , Vermin Traits; | 
 | Saves: | Fort +4, Ref +6, Will +2 | 
 | Abilities: | Str 1, Dex 19, Con 8, Int ---, Wis 10, Cha 2 | 
 | Skills: | [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 
@@ -1472,7 +1472,7 @@ A locust swarm has a +4 racial bonus on Listen and Spot checks.
 | Full Attack: | Swarm (1d6 plus disease) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Disease, distraction | 
-| Special Qualities: | Half Damage From Slashing And Piercing, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , [[Special Abilities#swarm traits\|Swarm Traits]] ; | 
+| Special Qualities | Half Damage From Slashing And Piercing, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , [[Special Abilities#swarm traits\|Swarm Traits]] ; | 
 | Saves: | Fort +4, Ref +6, Will +2 | 
 | Abilities: | Str 2, Dex 15, Con 10, Int 2, Wis 12, Cha 2 | 
 | Skills: | [[Skill List#Balance\|Balance]] +10, [[Skill List#Climb\|Climb]] +10, [[Skill List#Hide\|Hide]] +14, [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +7, [[Skill List#Swim\|Swim]] +10; | 
@@ -1512,7 +1512,7 @@ A rat swarm has a +4 racial bonus on Hide and Move Silently checks, and a +8 rac
 | Full Attack: | Swarm (1d6 plus poison) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, poison | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
 | Saves: | Fort +3, Ref +3, Will +0 | 
 | Abilities: | Str 1, Dex 17, Con 10, Int ---, Wis 10, Cha 2 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 

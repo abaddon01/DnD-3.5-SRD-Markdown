@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Basic Rules and Legal/ Combat II (Movement, Modifiers, and Special Actions)
+title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Combat II (Movement, Modifiers, and Special Actions)
 aliases: 3.5 Combat II (Movement, Modifiers, and Special Actions)
-tags: 3.5e/rules / v3.5_srd / basic_rules_and_legal / combat_ii_movement,_modifiers,_and_special_actions
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - basic_rules_and_legal
+  - combat_ii_movement,_modifiers,_and_special_actions
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

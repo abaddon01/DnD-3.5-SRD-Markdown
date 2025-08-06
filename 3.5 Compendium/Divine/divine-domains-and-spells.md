@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Divine/ Divine Domains and Spells
+title: 3.5 Compendium  - v3.5 SRD - Divine - Divine Domains and Spells
 aliases: 3.5 Divine Domains and Spells
-tags: 3.5e/rules / v3.5_srd / divine / divine_domains_and_spells
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - divine
+  - divine_domains_and_spells
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

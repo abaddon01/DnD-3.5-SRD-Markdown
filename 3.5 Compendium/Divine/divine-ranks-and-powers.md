@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Divine/ Divine Ranks and Powers
+title: 3.5 Compendium  - v3.5 SRD - Divine - Divine Ranks and Powers
 aliases: 3.5 Divine Ranks and Powers
-tags: 3.5e/rules / v3.5_srd / divine / divine_ranks_and_powers
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - divine
+  - divine_ranks_and_powers
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

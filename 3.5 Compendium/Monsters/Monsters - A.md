@@ -26,7 +26,7 @@ tags:
 |  Full Attack: |           4 tentacles +12 melee (1d6+8 plus slime)                                   | 4 tentacles +18 melee (1d6+9 plus slime)|
 |  Space/Reach: |           15 ft./10 ft.                                                              | 15 ft./10 ft.|
 |  Special Attacks: |       Enslave, psionics, slime                                                   | Enslave, psionics, slime, spells|
-| Special Qualities: | Aquatic Subtype, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Mucus Cloud; | Aquatic Subtype, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Mucus Cloud, Summon Familiar; | 
+| Special Qualities: | [[Types#aquatic subtype\|Aquatic Subtype]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Mucus Cloud; | [[Types#aquatic subtype\|Aquatic Subtype]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Mucus Cloud, Summon Familiar; | 
 |  Saves: |                 Fort +7, Ref +3, Will +11                                                  | Fort +15, Ref +10, Will +15|
 |  Abilities: |             Str 26, Dex 12, Con 20, Int 15, Wis 17, Cha 17                             | Str 28, Dex 16, Con 24, Int 20, Wis 16, Cha 14|
 | Skills: | [[Skill List#Concentration\|Concentration]] +16, [[Skill List#Knowledge\|Knowledge]] (any One) +13, [[Skill List#Listen\|Listen]] +16, [[Skill List#Spot\|Spot]] +16, [[Skill List#Swim\|Swim]] +8; | [[Skill List#Bluff\|Bluff]] +13, [[Skill List#Concentration\|Concentration]] +25, [[Skill List#Decipher Script\|Decipher Script]] +15, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Intimidate\|Intimidate]] +4, [[Skill List#Knowledge\|Knowledge]] (arcana) +15, [[Skill List#Knowledge\|Knowledge]] (dungeoneering) +25, [[Skill List#Knowledge\|Knowledge]] (history) +15, [[Skill List#Knowledge\|Knowledge]] (the Planes) +15, [[Skill List#Listen\|Listen]] +15, [[Skill List#Search\|Search]] +10, [[Skill List#Sense Motive\|Sense Motive]] +15, [[Skill List#Spellcraft\|Spellcraft]] +20, [[Skill List#Spot\|Spot]] +17, [[Skill List#Survival\|Survival]] +3 (+5 Following Tracks, [[Skill List#On Other Planes\|On Other Planes]] , [[Skill List#And Underground)\|And Underground)]] , [[Skill List#Swim\|Swim]] +8; | 
@@ -75,7 +75,7 @@ The aboleth mage uses a number of spells, such as *displacement*, *greater invis
  - **Typical Wizard Spells Prepared** (4/6/5/4/4/3; save DC 15 + spell level)
  - **0:** [[Spell List#Daze\|Daze]] , [[Spell List#Detect Magic\|Detect Magic]] (2), [[Spell List#Resistance\|Resistance]] ;
  - **1st:** [[Spell List#Alarm\|Alarm]] , [[Spell List#Charm Person\|Charm Person]] , [[Spell List#Color Spray\|Color Spray]] , [[Spell List#Mage Armor\|Mage Armor]] , [[Spell List#Magic Missile\|Magic Missile]] (2);
- - **2nd:** [[Spell List#Blur\|Blur]] , [[Spell List#Bull’s Strength\|Bull’s Strength]] , [[Spell List#Darkness\|Darkness]] , [[Spell List#Foxs Cunning\|Foxs Cunning]] , [[Spell List#See Invisibility\|See Invisibility]] ;
+ - **2nd:** [[Spell List#Blur\|Blur]] , [[Spell List#Bull's Strength|Bull's Strength]] , [[Spell List#Darkness\|Darkness]] , [[Spell List#Fox's Cunning\|Foxs Cunning]] , [[Spell List#See Invisibility\|See Invisibility]] ;
  - **3rd:** [[Spell List#Dispel Magic\|Dispel Magic]] , [[Spell List#Displacement\|Displacement]] , [[Spell List#Fly\|Fly]] , [[Spell List#Lightning Bolt\|Lightning Bolt]] ;
  - **4th:** [[Spell List#Invisibility, Greater\|Invisibility, Greater]] , [[Spell List#Phantasmal Killer\|Phantasmal Killer]] , [[Spell List#Scrying\|Scrying]] , [[Spell List#Stoneskin\|Stoneskin]] ;
  - **5th:** [[Spell List#Hold Monster\|Hold Monster]] , [[Spell List#Empowered Lightning Bolt\|Empowered Lightning Bolt]] , [[Spell List#Wall Of Force\|Wall Of Force]] ;
@@ -95,7 +95,7 @@ The aboleth mage uses a number of spells, such as *displacement*, *greater invis
 | Full Attack: | 2 claws +9 melee (2d6+4) and bite +4 melee (4d6+2) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Black cloud | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  19; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  19; | 
 | Saves: | Fort +7, Ref +6, Will +7 | 
 | Abilities: | Str 19, Dex 13, Con 14, Int 11, Wis 14, Cha 16 | 
 | Skills: | [[Skill List#Balance\|Balance]] +10, [[Skill List#Climb\|Climb]] +13, [[Skill List#Diplomacy\|Diplomacy]] +5, [[Skill List#Hide\|Hide]] +6, [[Skill List#Jump\|Jump]] +21, [[Skill List#Listen\|Listen]] +11, [[Skill List#Move Silently\|Move Silently]] +10, [[Skill List#Sense Motive\|Sense Motive]] +11, [[Skill List#Spot\|Spot]] +11; | 
@@ -126,29 +126,29 @@ Those other than achaierai within 10 feet instantly take 2d6 points of damage. T
 
 
 
-|  | Medium Undead (Incorporeal) | 
-|---|---|
-| Hit Dice: | 4d12 (26 hp) | 
-| Initiative: | +5 | 
-| Speed: | Fly 30 ft. (perfect) (6 squares) | 
-| Armor Class: | 15 (+1 Dex, +4 deflection), touch 15, flat-footed 14 | 
-| Base Attack/Grapple: | +2/--- | 
-| Attack: | Incorporeal touch +3 melee (1d4 Wisdom drain) | 
-| Full Attack: | Incorporeal touch +3 melee (1d4 Wisdom drain) | 
-| Space/Reach: | 5 ft./5 ft. | 
-| Special Attacks: | Babble, madness, Wisdom drain | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, [[Special Abilities#undead traits\|Undead Traits]] ; | 
-| Saves: | Fort +1, Ref +4, Will +4 | 
-| Abilities: | Str ---, Dex 12, Con ---, Int 11, Wis 11, Cha 18 | 
-| Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Intimidate\|Intimidate]] +7, [[Skill List#Listen\|Listen]] +7, [[Skill List#Search\|Search]] +4, [[Skill List#Spot\|Spot]] +7, [[Skill List#Survival\|Survival]] +0 (+2 Following Tracks); | 
-| Feats: | [[Feat List#Improved Initiative\|Improved Initiative]] , [[Feat List#Lightning Reflexes\|Lightning Reflexes]] ; | 
-| Environment: | Any | 
-| Organization: | Solitary | 
-| Challenge Rating: | 3 | 
-| Treasure: | None | 
-| Alignment: | Always neutral evil | 
-| Advancement: | 5--12 HD (Medium) | 
-| Level Adjustment: | --- | 
+|                      | Medium Undead (Incorporeal)                                                                                                                                                                                                           |     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Hit Dice:            | 4d12 (26 hp)                                                                                                                                                                                                                          |     |
+| Initiative:          | +5                                                                                                                                                                                                                                    |     |
+| Speed:               | Fly 30 ft. (perfect) (6 squares)                                                                                                                                                                                                      |     |
+| Armor Class:         | 15 (+1 Dex, +4 deflection), touch 15, flat-footed 14                                                                                                                                                                                  |     |
+| Base Attack/Grapple: | +2/---                                                                                                                                                                                                                                |     |
+| Attack:              | Incorporeal touch +3 melee (1d4 Wisdom drain)                                                                                                                                                                                         |     |
+| Full Attack:         | Incorporeal touch +3 melee (1d4 Wisdom drain)                                                                                                                                                                                         |     |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                                           |     |
+| Special Attacks:     | Babble, madness, Wisdom drain                                                                                                                                                                                                         |     |
+| Special Qualities    | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, [[Special Abilities#undead traits\|Undead Traits]] ;                                                                                    |     |
+| Saves:               | Fort +1, Ref +4, Will +4                                                                                                                                                                                                              |     |
+| Abilities:           | Str ---, Dex 12, Con ---, Int 11, Wis 11, Cha 18                                                                                                                                                                                      |     |
+| Skills:              | [[Skill List#Hide\|Hide]] +8, [[Skill List#Intimidate\|Intimidate]] +7, [[Skill List#Listen\|Listen]] +7, [[Skill List#Search\|Search]] +4, [[Skill List#Spot\|Spot]] +7, [[Skill List#Survival\|Survival]] +0 (+2 Following Tracks); |     |
+| Feats:               | [[Feat List#Improved Initiative\|Improved Initiative]] , [[Feat List#Lightning Reflexes\|Lightning Reflexes]] ;                                                                                                                       |     |
+| Environment:         | Any                                                                                                                                                                                                                                   |     |
+| Organization:        | Solitary                                                                                                                                                                                                                              |     |
+| Challenge Rating:    | 3                                                                                                                                                                                                                                     |     |
+| Treasure:            | None                                                                                                                                                                                                                                  |     |
+| Alignment:           | Always neutral evil                                                                                                                                                                                                                   |     |
+| Advancement:         | 5--12 HD (Medium)                                                                                                                                                                                                                     |     |
+| Level Adjustment:    | ---                                                                                                                                                                                                                                   |     |
 An allip is the spectral remains of someone driven to suicide by a madness that afflicted it in life. It craves only revenge and unrelentingly pursues those who tormented it in life and pushed it over the brink. 
 
 An allip cannot speak intelligibly. 
@@ -203,29 +203,29 @@ language, as though using a *tongues* spell (caster level equal to angel's Hit D
 
 
 
-|  | Medium Outsider (Angel, Extraplanar, Good) | 
-|---|---|
-| Hit Dice: | 12d8+48 (102 hp) | 
-| Initiative: | +8 | 
-| Speed: | 50 ft. (10 squares), fly 100 ft. (good) | 
-| Armor Class: | 29 (+4 Dex, +15 natural), touch 14, flat-footed 25 | 
-| Base Attack/Grapple: | +12/+18 | 
-| Attack: | *+3 heavy mace of disruption* +21 melee (1d8+12 plus stun) or slam +18 melee (1d8+9) | 
-| Full Attack: | *+3 heavy mace of disruption* +21/+16/+11 melee (1d8+12 plus stun) or slam +18 melee (1d8+9) | 
-| Space/Reach: | 5 ft./5 ft. | 
-| Special Attacks: | Spell-like abilities, stun | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Immunity To Acid, Cold, And Petrification, Protective Aura, Resistance To Electricity 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Tongues, Uncanny Dodge; | 
-| Saves: | Fort +14 (+18 against poison), Ref +12, Will +12 | 
-| Abilities: | Str 22, Dex 18, Con 18, Int 18, Wis 18, Cha 20 | 
-| Skills: | [[Skill List#Concentration\|Concentration]] +19, [[Skill List#Craft Or Knowledge\|Craft Or Knowledge]] (any Three) +19, [[Skill List#Diplomacy\|Diplomacy]] +22, [[Skill List#Escape Artist\|Escape Artist]] +19, [[Skill List#Hide\|Hide]] +19, [[Skill List#Intimidate\|Intimidate]] +20, [[Skill List#Listen\|Listen]] +23, [[Skill List#Move Silently\|Move Silently]] +19, [[Skill List#Sense Motive\|Sense Motive]] +19, [[Skill List#Spot\|Spot]] +23, [[Skill List#Use Rope\|Use Rope]] +4 (+6 With Bindings); | 
-| Feats: | [[Feat List#Alertness\|Alertness]] , [[Feat List#Cleave\|Cleave]] , [[Feat List#Great Fortitude\|Great Fortitude]] , [[Feat List#Improved Initiative\|Improved Initiative]] , [[Feat List#Power Attack\|Power Attack]] ; | 
-| Environment: | Any good-aligned plane | 
-| Organization: | Solitary, pair, or squad (3--5) | 
-| Challenge Rating: | 14 | 
-| Treasure: | No coins; double goods; standard items | 
-| Alignment: | Always good (any) | 
-| Advancement: | 13--18 HD (Medium); 19--36 HD (Large) | 
-| Level Adjustment: | +8 | 
+|                      | Medium Outsider (Angel, Extraplanar, Good)                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Hit Dice:            | 12d8+48 (102 hp)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |     |
+| Initiative:          | +8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |
+| Speed:               | 50 ft. (10 squares), fly 100 ft. (good)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |     |
+| Armor Class:         | 29 (+4 Dex, +15 natural), touch 14, flat-footed 25                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |
+| Base Attack/Grapple: | +12/+18                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |     |
+| Attack:              | *+3 heavy mace of disruption* +21 melee (1d8+12 plus stun) or slam +18 melee (1d8+9)                                                                                                                                                                                                                                                                                                                                                                                                                                   |     |
+| Full Attack:         | *+3 heavy mace of disruption* +21/+16/+11 melee (1d8+12 plus stun) or slam +18 melee (1d8+9)                                                                                                                                                                                                                                                                                                                                                                                                                           |     |
+| Space/Reach:         | 5 ft./5 ft.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |     |
+| Special Attacks:     | Spell-like abilities, stun                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| Special Qualities    | [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Immunity To Acid, Cold, And Petrification, Protective Aura, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Tongues, Uncanny Dodge;                                                                                            |     |
+| Saves:               | Fort +14 (+18 against poison), Ref +12, Will +12                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |     |
+| Abilities:           | Str 22, Dex 18, Con 18, Int 18, Wis 18, Cha 20                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |     |
+| Skills:              | [[Skill List#Concentration\|Concentration]] +19, [[Skill List#Craft Or Knowledge\|Craft Or Knowledge]] (any Three) +19, [[Skill List#Diplomacy\|Diplomacy]] +22, [[Skill List#Escape Artist\|Escape Artist]] +19, [[Skill List#Hide\|Hide]] +19, [[Skill List#Intimidate\|Intimidate]] +20, [[Skill List#Listen\|Listen]] +23, [[Skill List#Move Silently\|Move Silently]] +19, [[Skill List#Sense Motive\|Sense Motive]] +19, [[Skill List#Spot\|Spot]] +23, [[Skill List#Use Rope\|Use Rope]] +4 (+6 With Bindings); |     |
+| Feats:               | [[Feat List#Alertness\|Alertness]] , [[Feat List#Cleave\|Cleave]] , [[Feat List#Great Fortitude\|Great Fortitude]] , [[Feat List#Improved Initiative\|Improved Initiative]] , [[Feat List#Power Attack\|Power Attack]] ;                                                                                                                                                                                                                                                                                               |     |
+| Environment:         | Any good-aligned plane                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |     |
+| Organization:        | Solitary, pair, or squad (3--5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |     |
+| Challenge Rating:    | 14                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |
+| Treasure:            | No coins; double goods; standard items                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |     |
+| Alignment:           | Always good (any)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |     |
+| Advancement:         | 13--18 HD (Medium); 19--36 HD (Large)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |     |
+| Level Adjustment:    | +8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |     |
 An astral deva is about 7-1/2 feet tall and weighs about 250 pounds. 
 
 ### Combat
@@ -262,7 +262,7 @@ An astral deva retains its Dexterity bonus to AC when flat-footed, and it cannot
 | Full Attack: | *+3 greatsword* +23/+18/+13 melee (3d6+13/19--20) or slam +20 melee (2d8+10) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Spell-like abilities, spells | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Immunity To Acid, Cold, And Petrification, Protective Aura, [[Special Abilities#regeneration\|Regeneration]]  10, Resistance To Electricity 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Tongues; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Immunity To Acid, Cold, And Petrification, Protective Aura, [[Special Abilities#regeneration\|Regeneration]]  10, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Tongues; | 
 | Saves: | Fort +14 (+18 against poison), Ref +13, Will +15 | 
 | Abilities: | Str 25, Dex 19, Con 20, Int 22, Wis 23, Cha 22 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +22, [[Skill List#Craft Or Knowledge\|Craft Or Knowledge]] (any Four) +23, [[Skill List#Diplomacy\|Diplomacy]] +25, [[Skill List#Escape Artist\|Escape Artist]] +21, [[Skill List#Hide\|Hide]] +17, [[Skill List#Intimidate\|Intimidate]] +23, [[Skill List#Listen\|Listen]] +23, [[Skill List#Move Silently\|Move Silently]] +21, [[Skill List#Sense Motive\|Sense Motive]] +23, [[Skill List#Search\|Search]] +23, [[Skill List#Spot\|Spot]] +23, [[Skill List#Use Rope\|Use Rope]] +4 (+6 With Bindings); | 
@@ -323,7 +323,7 @@ Planetars can cast divine spells as 17th-level clerics. A planetar has access to
 | Full Attack: | *+5 dancing greatsword* +35/+30/+25/+20 melee (3d6+18/19--20) or *+2 composite longbow* (+5 Str bonus) +28/+23/+18/+13 ranged (2d6+7/x3 plus slaying) or slam +30 melee (2d8+13) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Spell-like abilities, spells | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  15/epic And Evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Immunity To Acid, Cold, And Petrification, Protective Aura, [[Special Abilities#regeneration\|Regeneration]]  15, Resistance To Electricity 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  32, Tongues; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  15/epic And Evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Immunity To Acid, Cold, And Petrification, Protective Aura, [[Special Abilities#regeneration\|Regeneration]]  15, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  32, Tongues; | 
 | Saves: | Fort +18 (+22 against poison), Ref +18, Will +20 | 
 | Abilities: | Str 28, Dex 20, Con 20, Int 23, Wis 25, Cha 25 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +30, [[Skill List#Craft Or Knowledge\|Craft Or Knowledge]] (any Five) +33, [[Skill List#Diplomacy\|Diplomacy]] +34, [[Skill List#Escape Artist\|Escape Artist]] +30, [[Skill List#Hide\|Hide]] +26, [[Skill List#Listen\|Listen]] +32, [[Skill List#Move Silently\|Move Silently]] +30, [[Skill List#Search\|Search]] +31, [[Skill List#Sense Motive\|Sense Motive]] +32, [[Skill List#Spellcraft\|Spellcraft]] +31, [[Skill List#Spot\|Spot]] +32, [[Skill List#Survival\|Survival]] +7 (+9 Following Tracks), [[Skill List#Use Rope\|Use Rope]] +5 (+7 With Bindings); | 
@@ -489,7 +489,7 @@ An animated object of at least Large size and with a hardness of at least 10 can
 | Full Attack: | Bite +7 melee (2d6+7 plus 1d4 acid) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Improved grab, spit acid | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; | 
 | Saves: | Fort +6, Ref +3, Will +2 | 
 | Abilities: | Str 21, Dex 10, Con 17, Int 1, Wis 13, Cha 6 | 
 | Skills: | [[Skill List#Climb\|Climb]] +8, [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +3; | 
@@ -534,7 +534,7 @@ An ankheg does not use this ability unless it is desperate or frustrated. It mos
 | Full Attack: | Bite +5 melee (1d6 plus poison) or web +5 ranged | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Poison, spells, web | 
-| Special Qualities: | Change Shape, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | Change Shape, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +5, Ref +5, Will +4 | 
 | Abilities: | Str 11, Dex 15, Con 14, Int 14, Wis 13, Cha 14 | 
 | Skills: | [[Skill List#Climb\|Climb]] +14, [[Skill List#Concentration\|Concentration]] +8, [[Skill List#Escape Artist\|Escape Artist]] +5, [[Skill List#Jump\|Jump]] +13, [[Skill List#Listen\|Listen]] +6, [[Skill List#Spot\|Spot]] +6; | 
@@ -627,7 +627,7 @@ language, as though using a *tongues* spell (caster level 14th). This ability is
 | Full Attack : | 2 light rays +2 ranged touch (1d6) | 
 | Space/Reach : | 5 ft./5 ft. | 
 | Special Attacks : | Spell-like abilities | 
-| Special Qualities : | Aura Of Menace, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, Teleport, Tongues; | 
+| Special Qualities | Aura Of Menace, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, Teleport, Tongues; | 
 | Saves : | Fort +2 (+6 against poison), Ref +2, Will +2 | 
 | Abilities : | Str 1, Dex 11, Con 10, Int 6, Wis 11, Cha 10 | 
 | Skills : | [[Skill List#Concentration\|Concentration]] +4, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Knowledge\|Knowledge]] (the Planes) +2, [[Skill List#Listen\|Listen]] +4, [[Skill List#Sense Motive\|Sense Motive]] +4, [[Skill List#Spot\|Spot]] +4; | 
@@ -671,7 +671,7 @@ A lantern archon's light rays have a range of 30 feet. This attack overcomes dam
 | Full Attack: | Bite +8 melee (1d8+2) and slam +3 melee (1d4+1); or greatsword +8/+3 melee (2d6+3/19--20) and bite +3 melee (1d8+1) | *+2 cold iron greatsword* +25/+20/+15/+10 melee (2d6+9/19--20) and bite +17 melee (1d8+2); or bite +22 melee (1d8+5) and slam +17 melee (1d4+2) | 
 | Space/Reach: | 5 ft./5 ft. | 5 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities | Smite evil, spells, spell-like abilities, turn undead 6/day | 
-| Special Qualities: | Aura Of Menace, Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  16, Teleport, Tongues; | Aura Of Menace, Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, Paladin Abilities, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  27, Teleport, Tongues; | 
+| Special Qualities | Aura Of Menace, Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  16, Teleport, Tongues; | Aura Of Menace, Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, Paladin Abilities, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  27, Teleport, Tongues; | 
 | Saves: | Fort +6 (+10 against poison), Ref +5, Will +6 | Fort +18 (+22 against poison), Ref +11, Will +13 | 
 | Abilities: | Str 15, Dex 10, Con 13, Int 10, Wis 13, Cha 12 | Str 21, Dex 10, Con 16, Int 8, Wis 14, Cha 16 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +10, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Hide\|Hide]] +9\*, [[Skill List#Jump\|Jump]] +15, [[Skill List#Listen\|Listen]] +10, [[Skill List#Move Silently\|Move Silently]] +9, [[Skill List#Sense Motive\|Sense Motive]] +10, [[Skill List#Spot\|Spot]] +10, [[Skill List#Survival\|Survival]] +10\* (+12 Following Tracks); | [[Skill List#Concentration\|Concentration]] +20, [[Skill List#Diplomacy\|Diplomacy]] +19, [[Skill List#Hide\|Hide]] +2\*, [[Skill List#Jump\|Jump]] +0, [[Skill List#Listen\|Listen]] +10, [[Skill List#Ride\|Ride]] +14, [[Skill List#Sense Motive\|Sense Motive]] +19, [[Skill List#Spot\|Spot]] +10, [[Skill List#Survival\|Survival]] +2\*; | 
@@ -775,7 +775,7 @@ Hound archon characters possess the following racial traits.
 | Full Attack: | *+4 greatsword* +21/+16/+11 melee (2d6+11/19--20) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities, spells, trumpet | 
-| Special Qualities: | Aura Of Menace, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, [[Special Abilities#spell resistance\|Spell Resistance]]  29, Teleport, Tongues; | 
+| Special Qualities | Aura Of Menace, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, [[Special Abilities#spell resistance\|Spell Resistance]]  29, Teleport, Tongues; | 
 | Saves: | Fort +14 (+18 against poison), Ref +11, Will +11 | 
 | Abilities: | Str 20, Dex 17, Con 23, Int 16, Wis 16, Cha 16 | 
 | Skills: | [[Skill List#Concentration\|Concentration]] +21, [[Skill List#Diplomacy\|Diplomacy]] +20, [[Skill List#Escape Artist\|Escape Artist]] +18, [[Skill List#Handle Animal\|Handle Animal]] +18, [[Skill List#Knowledge\|Knowledge]] (any One) +18, [[Skill List#Listen\|Listen]] +18, [[Skill List#Move Silently\|Move Silently]] +18, [[Skill List#Perform\|Perform]] (wind Instruments) +18, [[Skill List#Ride\|Ride]] +20, [[Skill List#Sense Motive\|Sense Motive]] +18, [[Skill List#Spot\|Spot]] +18, [[Skill List#Use Rope\|Use Rope]] +3 (+5 With Bindings); | 
@@ -835,7 +835,7 @@ If a trumpet is ever stolen, it becomes a chunk of useless metal until the owner
 |**Full Attack:**|Electricity ray +9 ranged touch (2d6) or bite +9 melee (1d6+1)||Electricity ray +12 ranged touch (2d8) or bite +12 melee (1d8+3)||Electricity ray +19 ranged touch (2d8) or bite +20 melee (2d6+9)|
 |**Space/Reach:**|5 ft./5 ft.||5 ft./5 ft.||10 ft./5 ft.|
 |**Special Attacks:**|Electricity ray||Electricity ray||Electricity ray|
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Electricity, And Poison, Resistance To Cold 10 And Fire 10; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Electricity, And Poison, Resistance To Cold 10 And Fire 10; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Electricity, And Poison, Resistance To Cold 10 And Fire 10; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Electricity, And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Fire 10; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Electricity, And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Fire 10; | | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Electricity, And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Fire 10; | 
 |**Saves:**|Fort +4, Ref +8, Will +4||Fort +6, Ref +10, Will +6||Fort +12, Ref +14, Will +10|
 |**Abilities:**|Str 12, Dex 21, Con 12, Int 10, Wis 13, Cha 13||Str 14, Dex 21, Con 12, Int 10, Wis 13, Cha 13||Str 22, Dex 21, Con 16, Int 10, Wis 13, Cha 13|
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Escape Artist\|Escape Artist]] +11, [[Skill List#Knowledge\|Knowledge]] (the Planes) +6, [[Skill List#Listen\|Listen]] +7, [[Skill List#Move Silently\|Move Silently]] +11, [[Skill List#Search\|Search]] +6, [[Skill List#Sense Motive\|Sense Motive]] +7, [[Skill List#Spot\|Spot]] +7, [[Skill List#Survival\|Survival]] +7 (+9 Following Tracks, [[Skill List#\|]] +9 Plane Of Air), [[Skill List#Use Rope\|Use Rope]] +5 (+7 With Bindings); | | [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Escape Artist\|Escape Artist]] +15, [[Skill List#Knowledge\|Knowledge]] (the Planes) +10, [[Skill List#Listen\|Listen]] +11, [[Skill List#Move Silently\|Move Silently]] +15, [[Skill List#Search\|Search]] +10, [[Skill List#Sense Motive\|Sense Motive]] +11, [[Skill List#Spot\|Spot]] +11, [[Skill List#Survival\|Survival]] +11 (+13 Following Tracks, [[Skill List#\|]] +13 Plane Of Air), [[Skill List#Use Rope\|Use Rope]] +5 (+7 With Bindings); | | [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Escape Artist\|Escape Artist]] +23, [[Skill List#Knowledge\|Knowledge]] (the Planes) +18, [[Skill List#Listen\|Listen]] +21, [[Skill List#Move Silently\|Move Silently]] +23, [[Skill List#Search\|Search]] +18, [[Skill List#Sense Motive\|Sense Motive]] +19, [[Skill List#Spot\|Spot]] +21, [[Skill List#Survival\|Survival]] +19 (+21 Following Tracks, [[Skill List#\|]] +21 Plane Of Air), [[Skill List#Use Rope\|Use Rope]] +5 (+7 Involving Bindings); | 
@@ -874,7 +874,7 @@ An arrowhawk can fire this ray once per round, with a range of 50 feet.
 | Full Attack: | Slam +7 melee (1d6+7) | 
 | Space/Reach: | 10 ft./10 ft. (20 ft. with vine) | 
 | Special Attacks: | Constrict 1d6+7, entangle, improved grab | 
-| Special Qualities: | Blindsight 30 Ft., Camouflage, Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, Resistance To Cold 10 And Fire 10; | 
+| Special Qualities | Blindsight 30 Ft., Camouflage, Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Fire 10; | 
 | Saves: | Fort +7, Ref +1, Will +2 | 
 | Abilities: | Str 20, Dex 10, Con 16, Int ---, Wis 13, Cha 9 | 
 | Environment: | Temperate forests | 
@@ -935,7 +935,7 @@ Anyone with ranks in Survival or Knowledge (nature) can use one of those skills 
 | Full Attack: | Morningstar +12/+7 melee (3d6+8), and 2 morningstars +12 melee (3d6+4), and bite +12 melee (2d8+4 plus poison); or rock +5 ranged (2d6+8), and 2 rocks +5 ranged (2d6+4) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Poison | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; | 
 | Saves: | Fort +9, Ref +5, Will +10 | 
 | Abilities: | Str 26, Dex 13, Con 21, Int 7, Wis 12, Cha 6 | 
 | Skills: | [[Skill List#Climb\|Climb]] +9, [[Skill List#Jump\|Jump]] +18, [[Skill List#Listen\|Listen]] +7, [[Skill List#Spot\|Spot]] +7; | 
@@ -971,7 +971,7 @@ Injury, Fortitude DC 22, initial damage 1d6 Str, secondary damage 2d6 Str. The s
 | Full Attack: | 2 claws +13 melee (2d6+2) or 2 wings +13 melee (2d8+2) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Spell-like abilities, fear aura | 
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil Or Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Lay On Hands, [[Special Abilities#low-light vision\|Low-light Vision]] , Resistance To Cold 10 And Sonic 10, Speak With Animals, [[Special Abilities#spell resistance\|Spell Resistance]]  25, True Seeing; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil Or Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Lay On Hands, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Sonic 10, Speak With Animals, [[Special Abilities#spell resistance\|Spell Resistance]]  25, True Seeing; | 
 | Saves: | Fort +10 (+14 against poison), Ref +11, Will +8 | 
 | Abilities: | Str 15, Dex 23, Con 20, Int 15, Wis 16, Cha 16 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +13, [[Skill List#Concentration\|Concentration]] +15, [[Skill List#Diplomacy\|Diplomacy]] +7, [[Skill List#Disguise\|Disguise]] +3 (+5 Acting), [[Skill List#Handle Animal\|Handle Animal]] +13, [[Skill List#Hide\|Hide]] +16, [[Skill List#Intimidate\|Intimidate]] +5, [[Skill List#Knowledge\|Knowledge]] (any One) +12, [[Skill List#Listen\|Listen]] +13, [[Skill List#Move Silently\|Move Silently]] +16, [[Skill List#Ride\|Ride]] +8, [[Skill List#Sense Motive\|Sense Motive]] +13, [[Skill List#Spellcraft\|Spellcraft]] +12, [[Skill List#Spot\|Spot]] +21; | 
@@ -1030,7 +1030,7 @@ An avoral's sharp eyes give it a +8 racial bonus on Spot checks.
 | Full Attack: | Warhammer +3 melee (1d8+1/x3 plus 1 fire) or shortspear +3 ranged (1d6+1 plus 1 fire) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Heat | 
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#spell resistance\|Spell Resistance]]  13, Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#spell resistance\|Spell Resistance]]  13, Vulnerability To Cold; | 
 | Saves: | Fort +4, Ref +4, Will +4 | 
 | Abilities: | Str 13, Dex 13, Con 13, Int 12, Wis 12, Cha 9 | 
 | Skills: | [[Skill List#Appraise\|Appraise]] +6, [[Skill List#Climb\|Climb]] +0, [[Skill List#Craft\|Craft]] (any Two) +6, [[Skill List#Hide\|Hide]] +0, [[Skill List#Jump\|Jump]] --6, [[Skill List#Listen\|Listen]] +6, [[Skill List#Search\|Search]] +6, [[Skill List#Spot\|Spot]] +6; | 

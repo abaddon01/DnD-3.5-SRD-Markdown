@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Epic/ Epic Magic Items 1
+title: 3.5 Compendium  - v3.5 SRD - Epic - Epic Magic Items 1
 aliases: 3.5 Epic Magic Items 1
-tags: 3.5e/rules / v3.5_srd / epic / epic_magic_items_1
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - epic
+  - epic_magic_items_1
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.

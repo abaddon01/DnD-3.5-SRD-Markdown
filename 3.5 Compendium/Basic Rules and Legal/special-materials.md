@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Basic Rules and Legal/ Special Materials
+title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Special Materials
 aliases: 3.5 Special Materials
-tags: 3.5e/rules / v3.5_srd / basic_rules_and_legal / special_materials
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - basic_rules_and_legal
+  - special_materials
+
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
