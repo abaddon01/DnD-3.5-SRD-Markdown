@@ -17,7 +17,7 @@ alignment:
 
 # Young adult Black Dragon
 
-|  | Young adult Black Dragon Large Black Dragon(Young adult) | 
+|  | Young adult Black Dragon - Large (Black Dragon(Young adult)) | 
 | ----| ---- | 
 | Hit Dice:            |16d12+48 (152) |
 | Initiative:          |0 |

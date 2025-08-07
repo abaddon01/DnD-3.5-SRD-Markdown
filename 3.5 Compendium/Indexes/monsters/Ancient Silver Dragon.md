@@ -17,7 +17,7 @@ alignment:
 
 # Ancient Silver Dragon
 
-| ![[ancient-silver-dragon.png \|100]] | Ancient Silver Dragon Gargantuan Silver Dragon(Ancient) | 
+| ![[ancient-silver-dragon.png \|100]] | Ancient Silver Dragon - Gargantuan (Silver Dragon(Ancient)) | 
 | ----| ---- | 
 | Hit Dice:            |34d12+238 (459) |
 | Initiative:          |0 |

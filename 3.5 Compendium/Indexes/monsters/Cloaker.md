@@ -17,7 +17,7 @@ alignment: Usually chaotic neutral
 
 # Cloaker
 
-| ![[cloaker.png \|100]] | Cloaker Large Aberration | 
+| ![[cloaker.png \|100]] | Cloaker - Large (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+18 (45) |
 | Initiative:          |7 |

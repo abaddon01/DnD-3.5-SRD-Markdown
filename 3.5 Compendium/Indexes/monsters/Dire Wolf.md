@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Wolf
 
-| ![[dire-wolf.png \|100]] | Dire Wolf Large Animal | 
+| ![[dire-wolf.png \|100]] | Dire Wolf - Large (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+18 (45) |
 | Initiative:          |2 |

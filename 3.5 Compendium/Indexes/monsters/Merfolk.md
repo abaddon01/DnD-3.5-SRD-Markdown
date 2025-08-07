@@ -22,7 +22,7 @@ alignment: Usually neutral
 
 # Merfolk
 
-| ![[merfolk.png \|100]] | Merfolk Merfolk 1st-Level (Warrior Medium Humanoid Aquatic) | 
+| ![[merfolk.png \|100]] | Merfolk - Merfolk (1st-Level [Warrior, Medium, Humanoid, Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+2 (6) |
 | Initiative:          |1 |

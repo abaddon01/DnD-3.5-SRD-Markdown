@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Shocker Lizard
 
-|  | Shocker Lizard Small Magical (Beast) | 
+|  | Shocker Lizard - Small (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |2d10+2 (13) |
 | Initiative:          |6 |

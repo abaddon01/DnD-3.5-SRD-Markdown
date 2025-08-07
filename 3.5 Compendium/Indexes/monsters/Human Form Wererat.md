@@ -13,6 +13,7 @@ type: Humanoid
 subtypes: 
  - Human
  - Shapechanger
+ - Wererat
 cr: 2
 environment: Any
 alignment: Always lawful evil
@@ -20,7 +21,7 @@ alignment: Always lawful evil
 
 # Human Form Wererat
 
-|  | Human Form Wererat Medium Humanoid (Human Shapechanger) | 
+|  | Human Form Wererat - Medium (Humanoid [Human, Shapechanger, Wererat]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 plus 1d8+2 (12) |
 | Initiative:          |0 |

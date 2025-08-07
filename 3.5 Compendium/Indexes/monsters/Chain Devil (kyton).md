@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Chain Devil (kyton)
 
-|  | Chain Devil (kyton) Medium Outsider (Evil Extraplanar Lawful) | 
+|  | Chain Devil (kyton) - Medium (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+16 (52) |
 | Initiative:          |6 |

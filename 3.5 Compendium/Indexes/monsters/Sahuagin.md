@@ -20,7 +20,7 @@ alignment: Usually lawful evil
 
 # Sahuagin
 
-| ![[sahuagin.png \|100]] | Sahuagin Medium Monstrous (Humanoid Aquatic) | 
+| ![[sahuagin.png \|100]] | Sahuagin - Medium (Monstrous [Humanoid, Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+2 (11) |
 | Initiative:          |1 |

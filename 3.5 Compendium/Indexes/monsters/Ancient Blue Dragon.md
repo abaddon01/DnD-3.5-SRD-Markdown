@@ -17,7 +17,7 @@ alignment:
 
 # Ancient Blue Dragon
 
-| ![[ancient-blue-dragon.png \|100]] | Ancient Blue Dragon Gargantuan Blue Dragon(Ancient) | 
+| ![[ancient-blue-dragon.png \|100]] | Ancient Blue Dragon - Gargantuan (Blue Dragon(Ancient)) | 
 | ----| ---- | 
 | Hit Dice:            |33d12+231 (445) |
 | Initiative:          |0 |

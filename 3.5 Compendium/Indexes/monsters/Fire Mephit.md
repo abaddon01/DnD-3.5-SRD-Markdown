@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Fire Mephit
 
-|  | Fire Mephit Small Outsider (Extraplanar Fire) | 
+|  | Fire Mephit - Small (Outsider [Extraplanar, Fire]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |5 |

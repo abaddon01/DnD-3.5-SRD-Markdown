@@ -20,7 +20,7 @@ alignment: Always lawful neutral
 
 # Zelekhut
 
-|  | Zelekhut Large Construct (Extraplanar Lawful) | 
+|  | Zelekhut - Large (Construct [Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |8d10+30 (74) |
 | Initiative:          |0 |

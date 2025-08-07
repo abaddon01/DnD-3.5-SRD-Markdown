@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile Red Dragon
 
-|  | Juvenile Red Dragon Large Red Dragon(Juvenile) | 
+|  | Juvenile Red Dragon - Large (Red Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |16d12+64 (168) |
 | Initiative:          |0 |

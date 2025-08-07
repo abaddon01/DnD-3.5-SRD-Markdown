@@ -12,6 +12,7 @@ tags:
 type: Undead
 subtypes: 
  - Incorporeal
+ - Shadow
 cr: 8
 environment: Any
 alignment: Always chaotic evil
@@ -19,7 +20,7 @@ alignment: Always chaotic evil
 
 # Greater Shadow
 
-|  | Greater Shadow Medium Undead (Incorporeal) | 
+|  | Greater Shadow - Medium (Undead [Incorporeal, Shadow]) | 
 | ----| ---- | 
 | Hit Dice:            |9d12 (58) |
 | Initiative:          |2 |

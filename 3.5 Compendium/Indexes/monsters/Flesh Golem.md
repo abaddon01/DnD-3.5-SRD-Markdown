@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Flesh Golem
 
-| ![[flesh-golem.png \|100]] | Flesh Golem Large Construct | 
+| ![[flesh-golem.png \|100]] | Flesh Golem - Large (Construct) | 
 | ----| ---- | 
 | Hit Dice:            |9d10+30 (79) |
 | Initiative:          |-1 |

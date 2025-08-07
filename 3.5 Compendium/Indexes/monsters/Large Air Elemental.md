@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Air
  - Extraplanar
+ - Air Elemental
 cr: 5
 environment: Elemental Plane of Air
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Large Air Elemental
 
-|  | Large Air Elemental Large Elemental (Air Extraplanar) | 
+|  | Large Air Elemental - Large (Elemental [Air, Extraplanar, Air Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+24 (60) |
 | Initiative:          |11 |

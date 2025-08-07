@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 # Barghest
 
-|  | Barghest Medium Outsider (Evil Extraplanar Lawful Shapechanger) | 
+|  | Barghest - Medium (Outsider [Evil, Extraplanar, Lawful, Shapechanger]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+6 (33) |
 | Initiative:          |6 |

@@ -21,7 +21,7 @@ alignment: Always chaotic good
 
 # Bralani
 
-|  | Bralani Medium Outsider (Chaotic Extraplanar Good) | 
+|  | Bralani - Medium (Outsider [Chaotic, Extraplanar, Good]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+18 (45) |
 | Initiative:          |8 |

@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Marilith
 
-| ![[marilith.png \|100]] | Marilith Large Outsider (Chaotic Extraplanar Evil) | 
+| ![[marilith.png \|100]] | Marilith - Large (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |16d8+144 (216) |
 | Initiative:          |4 |

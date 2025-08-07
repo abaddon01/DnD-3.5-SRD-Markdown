@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Green Hag
 
-| ![[green-hag.png \|100]] | Green Hag Medium Monstrous (Humanoid) | 
+| ![[green-hag.png \|100]] | Green Hag - Medium (Monstrous [Humanoid]) | 
 | ----| ---- | 
 | Hit Dice:            |9d8+9 (49) |
 | Initiative:          |1 |

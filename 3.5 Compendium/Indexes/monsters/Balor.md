@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Balor
 
-| ![[balor.png \|100]] | Balor Large Outsider (Chaotic Extraplanar Evil) | 
+| ![[balor.png \|100]] | Balor - Large (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |20d8+200 (290) |
 | Initiative:          |11 |

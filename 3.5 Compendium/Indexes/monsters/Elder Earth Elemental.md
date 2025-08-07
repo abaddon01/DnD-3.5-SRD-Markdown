@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Earth
  - Extraplanar
+ - Earth Elemental
 cr: 11
 environment: Elemental Plane of Earth
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Elder Earth Elemental
 
-|  | Elder Earth Elemental Huge Elemental (Earth Extraplanar) | 
+|  | Elder Earth Elemental - Huge (Elemental [Earth, Extraplanar, Earth Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |24d8+120 (228) |
 | Initiative:          |-1 |

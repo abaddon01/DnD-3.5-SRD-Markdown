@@ -10,6 +10,8 @@ tags:
  - Greater_Stone_Golem
  - CR16
 type: Construct
+subtypes: 
+ - Stone Golem
 cr: 16
 environment: Any
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Greater Stone Golem
 
-|  | Greater Stone Golem Huge Construct | 
+|  | Greater Stone Golem - Huge (Construct [Stone Golem]) | 
 | ----| ---- | 
 | Hit Dice:            |42d10+40 (271) |
 | Initiative:          |-2 |

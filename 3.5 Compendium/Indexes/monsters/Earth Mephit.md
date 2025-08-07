@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Earth Mephit
 
-|  | Earth Mephit Small Outsider (Earth Extraplanar) | 
+|  | Earth Mephit - Small (Outsider [Earth, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+6 (19) |
 | Initiative:          |-1 |

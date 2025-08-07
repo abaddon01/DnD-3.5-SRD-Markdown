@@ -17,7 +17,7 @@ alignment: Usually neutral evil
 
 # Destrachan
 
-|  | Destrachan Large Aberration | 
+|  | Destrachan - Large (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+24 (60) |
 | Initiative:          |5 |

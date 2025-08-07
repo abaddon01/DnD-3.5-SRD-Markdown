@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Spider Eater
 
-|  | Spider Eater Large Magical (Beast) | 
+|  | Spider Eater - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |4d10+20 (42) |
 | Initiative:          |1 |

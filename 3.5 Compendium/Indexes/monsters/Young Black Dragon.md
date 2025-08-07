@@ -17,7 +17,7 @@ alignment:
 
 # Young Black Dragon
 
-| ![[young-black-dragon.png \|100]] | Young Black Dragon Medium Black Dragon(Young) | 
+| ![[young-black-dragon.png \|100]] | Young Black Dragon - Medium (Black Dragon(Young)) | 
 | ----| ---- | 
 | Hit Dice:            |10d12+20 (85) |
 | Initiative:          |0 |

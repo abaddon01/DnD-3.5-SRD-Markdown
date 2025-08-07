@@ -21,7 +21,7 @@ alignment: Always good (any)
 
 # Planetar Angel
 
-|  | Planetar Angel Large Outsider (Angel Extraplanar Good) | 
+|  | Planetar Angel - Large (Outsider [Angel, Extraplanar, Good]) | 
 | ----| ---- | 
 | Hit Dice:            |14d8+70 (133) |
 | Initiative:          |8 |

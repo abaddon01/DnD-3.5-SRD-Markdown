@@ -10,6 +10,8 @@ tags:
  - Tiny_Animated_Object
  - CR0.5
 type: Construct
+subtypes: 
+ - Animated Object
 cr: 0.5
 environment: Any
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Tiny Animated Object
 
-|  | Tiny Animated Object Tiny Construct | 
+|  | Tiny Animated Object - Tiny (Construct [Animated Object]) | 
 | ----| ---- | 
 | Hit Dice:            |1/2 d10 (2) |
 | Initiative:          |2 |

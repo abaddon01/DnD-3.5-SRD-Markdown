@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Air
  - Extraplanar
+ - Arrowhawk
 cr: 5
 environment: Elemental Plane of Air
 alignment: Always neutral
@@ -20,7 +21,7 @@ alignment: Always neutral
 
 # Adult Arrowhawk
 
-|  | Adult Arrowhawk Medium Outsider (Air Extraplanar) | 
+|  | Adult Arrowhawk - Medium (Outsider [Air, Extraplanar, Arrowhawk]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+7 (38) |
 | Initiative:          |5 |

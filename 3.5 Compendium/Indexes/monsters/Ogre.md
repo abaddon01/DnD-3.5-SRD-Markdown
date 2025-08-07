@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Ogre
 
-| ![[ogre.png \|100]] | Ogre Ogre Large (Giant) | 
+| ![[ogre.png \|100]] | Ogre - Ogre (Large [Giant]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+11 (29) |
 | Initiative:          |-1 |

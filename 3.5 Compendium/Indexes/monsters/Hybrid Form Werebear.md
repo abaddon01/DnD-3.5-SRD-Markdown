@@ -13,6 +13,7 @@ type: Humanoid
 subtypes: 
  - Human
  - Shapechanger
+ - Werebear
 cr: 5
 environment: Cold forests
 alignment: Always lawful good
@@ -20,7 +21,7 @@ alignment: Always lawful good
 
 # Hybrid Form Werebear
 
-|  | Hybrid Form Werebear Large Humanoid (Human Shapechanger) | 
+|  | Hybrid Form Werebear - Large (Humanoid [Human, Shapechanger, Werebear]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 plus 6d8+30 (62) |
 | Initiative:          |1 |

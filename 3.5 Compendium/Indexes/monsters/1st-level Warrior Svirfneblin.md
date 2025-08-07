@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # 1st-level Warrior Svirfneblin
 
-|  | 1st-level Warrior Svirfneblin Small Humanoid (Gnome) | 
+|  | 1st-level Warrior Svirfneblin - Small (Humanoid [Gnome]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+4 (8) |
 | Initiative:          |1 |

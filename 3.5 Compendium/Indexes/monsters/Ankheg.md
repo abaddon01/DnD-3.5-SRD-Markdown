@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Ankheg
 
-| ![[ankheg.png \|100]] | Ankheg Large Magical (Beast) | 
+| ![[ankheg.png \|100]] | Ankheg - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |3d10+12 (28) |
 | Initiative:          |0 |

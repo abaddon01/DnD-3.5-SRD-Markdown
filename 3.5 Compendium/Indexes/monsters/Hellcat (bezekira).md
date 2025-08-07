@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Hellcat (bezekira)
 
-|  | Hellcat (bezekira) Large Outsider (Evil Extraplanar Lawful) | 
+|  | Hellcat (bezekira) - Large (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+24 (60) |
 | Initiative:          |9 |

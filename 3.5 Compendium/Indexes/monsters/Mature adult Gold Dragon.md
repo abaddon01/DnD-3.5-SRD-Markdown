@@ -17,7 +17,7 @@ alignment:
 
 # Mature adult Gold Dragon
 
-|  | Mature adult Gold Dragon Huge Gold Dragon(Mature adult) | 
+|  | Mature adult Gold Dragon - Huge (Gold Dragon(Mature adult)) | 
 | ----| ---- | 
 | Hit Dice:            |26d12+156 (325) |
 | Initiative:          |0 |

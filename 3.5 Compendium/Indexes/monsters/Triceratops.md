@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Triceratops
 
-|  | Triceratops Huge Animal | 
+|  | Triceratops - Huge (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |16d8+124 (196) |
 | Initiative:          |-1 |

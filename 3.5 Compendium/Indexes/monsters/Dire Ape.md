@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Ape
 
-|  | Dire Ape Large Animal | 
+|  | Dire Ape - Large (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |5d8+13 (35) |
 | Initiative:          |2 |

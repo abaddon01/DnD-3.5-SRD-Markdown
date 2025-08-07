@@ -19,7 +19,7 @@ alignment: Always lawful evil
 
 # Xill
 
-|  | Xill Medium Outsider (Extraplanar) | 
+|  | Xill - Medium (Outsider [Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |5d8+10 (32) |
 | Initiative:          |7 |

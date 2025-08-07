@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling Blue Dragon
 
-|  | Wyrmling Blue Dragon Small Blue Dragon(Wyrmling) | 
+|  | Wyrmling Blue Dragon - Small (Blue Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |6d12+6 (45) |
 | Initiative:          |0 |

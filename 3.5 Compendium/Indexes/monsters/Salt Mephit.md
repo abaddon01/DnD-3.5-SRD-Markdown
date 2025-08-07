@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Salt Mephit
 
-|  | Salt Mephit Small Outsider (Earth Extraplanar) | 
+|  | Salt Mephit - Small (Outsider [Earth, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+6 (19) |
 | Initiative:          |-1 |

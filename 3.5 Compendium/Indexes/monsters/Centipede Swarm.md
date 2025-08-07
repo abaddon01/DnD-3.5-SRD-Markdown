@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Centipede Swarm
 
-|  | Centipede Swarm Diminutive Vermin (Swarm) | 
+|  | Centipede Swarm - Diminutive (Vermin [Swarm]) | 
 | ----| ---- | 
 | Hit Dice:            |9d8-9 (31) |
 | Initiative:          |4 |

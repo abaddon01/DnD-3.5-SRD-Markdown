@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling Brass Dragon
 
-|  | Wyrmling Brass Dragon Tiny Brass Dragon(Wyrmling) | 
+|  | Wyrmling Brass Dragon - Tiny (Brass Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |4d12+4 (30) |
 | Initiative:          |0 |

@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Clay Golem
 
-| ![[clay-golem.png \|100]] | Clay Golem Large Construct | 
+| ![[clay-golem.png \|100]] | Clay Golem - Large (Construct) | 
 | ----| ---- | 
 | Hit Dice:            |11d10+30 (90) |
 | Initiative:          |-1 |

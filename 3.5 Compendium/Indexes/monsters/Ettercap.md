@@ -17,7 +17,7 @@ alignment: Usually neutral evil
 
 # Ettercap
 
-| ![[ettercap.png \|100]] | Ettercap Medium Aberration | 
+| ![[ettercap.png \|100]] | Ettercap - Medium (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |5d8+5 (27) |
 | Initiative:          |3 |

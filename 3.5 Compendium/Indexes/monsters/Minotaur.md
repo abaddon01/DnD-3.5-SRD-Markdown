@@ -19,7 +19,7 @@ alignment: Usually chaotic Evil
 
 # Minotaur
 
-| ![[minotaur.png \|100]] | Minotaur Large Monstrous (Humanoid) | 
+| ![[minotaur.png \|100]] | Minotaur - Large (Monstrous [Humanoid]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+12 (39) |
 | Initiative:          |0 |

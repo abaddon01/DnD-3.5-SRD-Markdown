@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Earth
  - Extraplanar
+ - Earth Elemental
 cr: 1
 environment: Elemental Plane of Earth
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Small Earth Elemental
 
-|  | Small Earth Elemental Small Elemental (Earth Extraplanar) | 
+|  | Small Earth Elemental - Small (Elemental [Earth, Extraplanar, Earth Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+2 (11) |
 | Initiative:          |-1 |

@@ -19,7 +19,7 @@ alignment: Always lawful evil
 
 # Wraith
 
-| ![[wraith.png \|100]] | Wraith Medium Undead (Incorporeal) | 
+| ![[wraith.png \|100]] | Wraith - Medium (Undead [Incorporeal]) | 
 | ----| ---- | 
 | Hit Dice:            |5d12 (32) |
 | Initiative:          |7 |

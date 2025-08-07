@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 # Ice Mephit
 
-| ![[ice-mephit.png \|100]] | Ice Mephit Small Outsider (Air Cold Extraplanar) | 
+| ![[ice-mephit.png \|100]] | Ice Mephit - Small (Outsider [Air, Cold, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |7 |

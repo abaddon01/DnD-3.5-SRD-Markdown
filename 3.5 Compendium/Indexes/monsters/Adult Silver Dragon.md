@@ -17,7 +17,7 @@ alignment:
 
 # Adult Silver Dragon
 
-| ![[adult-silver-dragon.png \|100]] | Adult Silver Dragon Huge Silver Dragon(Adult) | 
+| ![[adult-silver-dragon.png \|100]] | Adult Silver Dragon - Huge (Silver Dragon(Adult)) | 
 | ----| ---- | 
 | Hit Dice:            |22d12+110 (253) |
 | Initiative:          |0 |

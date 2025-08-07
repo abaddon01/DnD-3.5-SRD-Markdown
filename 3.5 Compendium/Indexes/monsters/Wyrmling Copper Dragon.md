@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling Copper Dragon
 
-|  | Wyrmling Copper Dragon Tiny Copper Dragon(Wyrmling) | 
+|  | Wyrmling Copper Dragon - Tiny (Copper Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |5d12+5 (37) |
 | Initiative:          |0 |

@@ -10,6 +10,8 @@ tags:
  - Human_Warrior_Skeleton
  - CR1/3
 type: Undead
+subtypes: 
+ - Skeleton
 cr: 1/3
 environment: Temperate plains
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Human Warrior Skeleton
 
-|  | Human Warrior Skeleton Medium Undead | 
+|  | Human Warrior Skeleton - Medium (Undead [Skeleton]) | 
 | ----| ---- | 
 | Hit Dice:            |1d12 (6) |
 | Initiative:          |5 |

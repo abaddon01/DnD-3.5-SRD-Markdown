@@ -17,7 +17,7 @@ alignment:
 
 # Young Red Dragon
 
-| ![[young-red-dragon.png \|100]] | Young Red Dragon Large Red Dragon(Young) | 
+| ![[young-red-dragon.png \|100]] | Young Red Dragon - Large (Red Dragon(Young)) | 
 | ----| ---- | 
 | Hit Dice:            |13d12+39 (123) |
 | Initiative:          |0 |

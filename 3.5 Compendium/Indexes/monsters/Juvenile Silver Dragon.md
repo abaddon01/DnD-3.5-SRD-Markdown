@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile Silver Dragon
 
-|  | Juvenile Silver Dragon Large Silver Dragon(Juvenile) | 
+|  | Juvenile Silver Dragon - Large (Silver Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |16d12+48 (152) |
 | Initiative:          |0 |

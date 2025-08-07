@@ -17,7 +17,7 @@ alignment:
 
 # Mature adult Red Dragon
 
-|  | Mature adult Red Dragon Huge Red Dragon(Mature adult) | 
+|  | Mature adult Red Dragon - Huge (Red Dragon(Mature adult)) | 
 | ----| ---- | 
 | Hit Dice:            |25d12+150 (312) |
 | Initiative:          |0 |

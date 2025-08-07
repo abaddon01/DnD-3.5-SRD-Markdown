@@ -21,7 +21,7 @@ alignment: Always chaotic good
 
 # Ghaele
 
-|  | Ghaele Medium Outsider (Chaotic Extraplanar Good) | 
+|  | Ghaele - Medium (Outsider [Chaotic, Extraplanar, Good]) | 
 | ----| ---- | 
 | Hit Dice:            |10d8+20 (65) |
 | Initiative:          |5 |

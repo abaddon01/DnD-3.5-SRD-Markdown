@@ -17,7 +17,7 @@ alignment:
 
 # Mature adult Copper Dragon
 
-|  | Mature adult Copper Dragon Huge Copper Dragon(Mature adult) | 
+|  | Mature adult Copper Dragon - Huge (Copper Dragon(Mature adult)) | 
 | ----| ---- | 
 | Hit Dice:            |23d12+115 (264) |
 | Initiative:          |0 |

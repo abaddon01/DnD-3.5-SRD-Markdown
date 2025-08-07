@@ -17,7 +17,7 @@ alignment: Always chaotic evil
 
 # Drider
 
-| ![[drider.png \|100]] | Drider Large Aberration | 
+| ![[drider.png \|100]] | Drider - Large (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+18 (45) |
 | Initiative:          |2 |

@@ -17,7 +17,7 @@ alignment:
 
 # Wyrm Black Dragon
 
-|  | Wyrm Black Dragon Gargantuan Black Dragon(Wyrm) | 
+|  | Wyrm Black Dragon - Gargantuan (Black Dragon(Wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |34d12+238 (459) |
 | Initiative:          |0 |

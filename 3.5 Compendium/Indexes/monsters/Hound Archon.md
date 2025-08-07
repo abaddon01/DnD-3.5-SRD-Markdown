@@ -22,7 +22,7 @@ alignment: Always lawful good
 
 # Hound Archon
 
-|  | Hound Archon Medium Outsider (Archon Extraplanar Good Lawful) | 
+|  | Hound Archon - Medium (Outsider [Archon, Extraplanar, Good, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+6 (33) |
 | Initiative:          |4 |

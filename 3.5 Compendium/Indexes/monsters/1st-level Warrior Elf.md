@@ -19,7 +19,7 @@ alignment: Usually chaotic good (Wood: Usually neutral)
 
 # 1st-level Warrior Elf
 
-|  | 1st-level Warrior Elf Medium Humanoid (Elf) | 
+|  | 1st-level Warrior Elf - Medium (Humanoid [Elf]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8 (4) |
 | Initiative:          |1 |

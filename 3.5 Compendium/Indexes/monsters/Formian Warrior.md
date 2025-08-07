@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Lawful
  - Extraplanar
+ - Formian
 cr: 3
 environment: A lawful-aligned plane
 alignment: Always lawful neutral
@@ -20,7 +21,7 @@ alignment: Always lawful neutral
 
 # Formian Warrior
 
-|  | Formian Warrior Medium Outsider (Lawful Extraplanar) | 
+|  | Formian Warrior - Medium (Outsider [Lawful, Extraplanar, Formian]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+8 (26) |
 | Initiative:          |3 |

@@ -17,7 +17,7 @@ alignment:
 
 # Very young Copper Dragon
 
-|  | Very young Copper Dragon Small Copper Dragon(Very young) | 
+|  | Very young Copper Dragon - Small (Copper Dragon(Very young)) | 
 | ----| ---- | 
 | Hit Dice:            |8d12+8 (60) |
 | Initiative:          |0 |

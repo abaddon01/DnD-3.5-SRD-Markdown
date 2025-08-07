@@ -17,7 +17,7 @@ alignment:
 
 # Adult Brass Dragon
 
-| ![[adult-brass-dragon.png \|100]] | Adult Brass Dragon Large Brass Dragon(Adult) | 
+| ![[adult-brass-dragon.png \|100]] | Adult Brass Dragon - Large (Brass Dragon(Adult)) | 
 | ----| ---- | 
 | Hit Dice:            |19d12+76 (199) |
 | Initiative:          |0 |

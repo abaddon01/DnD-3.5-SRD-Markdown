@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Tendriculos
 
-|  | Tendriculos Huge Plant | 
+|  | Tendriculos - Huge (Plant) | 
 | ----| ---- | 
 | Hit Dice:            |9d8+54 (94) |
 | Initiative:          |-1 |

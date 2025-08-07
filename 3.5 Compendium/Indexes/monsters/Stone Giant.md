@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Stone Giant
 
-| ![[stone-giant.png \|100]] | Stone Giant Large Giant (Earth) | 
+| ![[stone-giant.png \|100]] | Stone Giant - Large (Giant [Earth]) | 
 | ----| ---- | 
 | Hit Dice:            |14d8+56 (119) |
 | Initiative:          |2 |

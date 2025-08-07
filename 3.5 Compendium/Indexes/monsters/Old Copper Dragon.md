@@ -17,7 +17,7 @@ alignment:
 
 # Old Copper Dragon
 
-|  | Old Copper Dragon Huge Copper Dragon(Old) | 
+|  | Old Copper Dragon - Huge (Copper Dragon(Old)) | 
 | ----| ---- | 
 | Hit Dice:            |26d12+130 (299) |
 | Initiative:          |0 |

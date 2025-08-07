@@ -17,7 +17,7 @@ alignment: Usually chaotic evil
 
 # Choker
 
-|  | Choker Small Aberration | 
+|  | Choker - Small (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+3 (16) |
 | Initiative:          |6 |

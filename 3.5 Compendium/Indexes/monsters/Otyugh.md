@@ -17,7 +17,7 @@ alignment: Usually neutral
 
 # Otyugh
 
-| ![[otyugh.png \|100]] | Otyugh Large Aberration | 
+| ![[otyugh.png \|100]] | Otyugh - Large (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+9 (36) |
 | Initiative:          |0 |

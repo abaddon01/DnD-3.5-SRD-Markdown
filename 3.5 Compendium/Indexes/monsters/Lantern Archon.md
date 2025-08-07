@@ -22,7 +22,7 @@ alignment: Always lawful good
 
 # Lantern Archon
 
-|  | Lantern Archon Small Outsider (Archon Extraplanar Good Lawful) | 
+|  | Lantern Archon - Small (Outsider [Archon, Extraplanar, Good, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8 (4) |
 | Initiative:          |4 |

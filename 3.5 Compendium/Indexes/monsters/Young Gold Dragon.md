@@ -17,7 +17,7 @@ alignment:
 
 # Young Gold Dragon
 
-| ![[young-gold-dragon.png \|100]] | Young Gold Dragon Large Gold Dragon(Young) | 
+| ![[young-gold-dragon.png \|100]] | Young Gold Dragon - Large (Gold Dragon(Young)) | 
 | ----| ---- | 
 | Hit Dice:            |14d12+42 (133) |
 | Initiative:          |0 |

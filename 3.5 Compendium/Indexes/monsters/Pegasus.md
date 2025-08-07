@@ -19,7 +19,7 @@ alignment: Usually chaotic good
 
 # Pegasus
 
-| ![[pegasus.png \|100]] | Pegasus Large Magical (Beast) | 
+| ![[pegasus.png \|100]] | Pegasus - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |4d10+12 (34) |
 | Initiative:          |2 |

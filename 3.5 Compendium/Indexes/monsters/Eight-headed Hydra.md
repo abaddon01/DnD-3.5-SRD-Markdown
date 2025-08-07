@@ -12,6 +12,7 @@ tags:
 type: Magical
 subtypes: 
  - Beast
+ - Hydra
 cr: 7
 environment: Temperate marshes (Pyro: Warm marshes) (Cyro: Cold marshes)
 alignment: Usually neutral
@@ -19,7 +20,7 @@ alignment: Usually neutral
 
 # Eight-headed Hydra
 
-|  | Eight-headed Hydra Huge Magical (Beast) | 
+|  | Eight-headed Hydra - Huge (Magical [Beast, Hydra]) | 
 | ----| ---- | 
 | Hit Dice:            |8d10+43 (87) |
 | Initiative:          |1 |

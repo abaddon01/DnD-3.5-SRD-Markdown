@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Bugbear
 
-| ![[bugbear.png \|100]] | Bugbear Medium Humanoid (Goblinoid) | 
+| ![[bugbear.png \|100]] | Bugbear - Medium (Humanoid [Goblinoid]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+3 (16) |
 | Initiative:          |1 |

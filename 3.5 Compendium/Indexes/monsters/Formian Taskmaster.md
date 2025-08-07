@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Lawful
  - Extraplanar
+ - Formian
 cr: 7
 environment: A lawful-aligned plane
 alignment: Always lawful neutral
@@ -20,7 +21,7 @@ alignment: Always lawful neutral
 
 # Formian Taskmaster
 
-|  | Formian Taskmaster Medium Outsider (Lawful Extraplanar) | 
+|  | Formian Taskmaster - Medium (Outsider [Lawful, Extraplanar, Formian]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+12 (39) |
 | Initiative:          |7 |

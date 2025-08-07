@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Steam Mephit
 
-| ![[steam-mephit.png \|100]] | Steam Mephit Small Outsider (Extraplanar Fire) | 
+| ![[steam-mephit.png \|100]] | Steam Mephit - Small (Outsider [Extraplanar, Fire]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |5 |

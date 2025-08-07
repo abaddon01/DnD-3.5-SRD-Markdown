@@ -17,7 +17,7 @@ alignment: Usually neutral
 
 # Shambling Mound
 
-| ![[shambling-mound.png \|100]] | Shambling Mound Large Plant | 
+| ![[shambling-mound.png \|100]] | Shambling Mound - Large (Plant) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+24 (60) |
 | Initiative:          |0 |

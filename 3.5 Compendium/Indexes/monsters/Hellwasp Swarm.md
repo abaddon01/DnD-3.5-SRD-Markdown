@@ -22,7 +22,7 @@ alignment: Always lawful evil
 
 # Hellwasp Swarm
 
-|  | Hellwasp Swarm Diminutive Magical (Beast Extraplanar Evil Swarm) | 
+|  | Hellwasp Swarm - Diminutive (Magical [Beast, Extraplanar, Evil, Swarm]) | 
 | ----| ---- | 
 | Hit Dice:            |12d10+27 (93) |
 | Initiative:          |10 |

@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Bulette
 
-| ![[bulette.png \|100]] | Bulette Huge Magical (Beast) | 
+| ![[bulette.png \|100]] | Bulette - Huge (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |9d10+45 (94) |
 | Initiative:          |2 |

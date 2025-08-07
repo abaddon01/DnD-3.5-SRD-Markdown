@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Water Mephit
 
-|  | Water Mephit Small Outsider (Extraplanar Water) | 
+|  | Water Mephit - Small (Outsider [Extraplanar, Water]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+6 (19) |
 | Initiative:          |0 |

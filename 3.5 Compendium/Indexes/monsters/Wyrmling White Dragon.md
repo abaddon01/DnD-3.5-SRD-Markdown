@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling White Dragon
 
-|  | Wyrmling White Dragon Tiny White Dragon(Wyrmling) | 
+|  | Wyrmling White Dragon - Tiny (White Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |3d12+3 (22) |
 | Initiative:          |0 |

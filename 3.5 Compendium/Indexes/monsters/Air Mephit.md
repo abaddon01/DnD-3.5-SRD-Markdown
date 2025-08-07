@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Air Mephit
 
-|  | Air Mephit Small Outsider (Air Extraplanar) | 
+|  | Air Mephit - Small (Outsider [Air, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |7 |

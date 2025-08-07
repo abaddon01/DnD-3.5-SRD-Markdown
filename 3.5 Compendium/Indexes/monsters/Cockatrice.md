@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Cockatrice
 
-| ![[cockatrice.png \|100]] | Cockatrice Small Magical (Beast) | 
+| ![[cockatrice.png \|100]] | Cockatrice - Small (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |5d10 (27) |
 | Initiative:          |3 |

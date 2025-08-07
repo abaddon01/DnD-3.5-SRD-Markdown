@@ -17,7 +17,7 @@ alignment:
 
 # Young adult Gold Dragon
 
-|  | Young adult Gold Dragon Huge Gold Dragon(Young adult) | 
+|  | Young adult Gold Dragon - Huge (Gold Dragon(Young adult)) | 
 | ----| ---- | 
 | Hit Dice:            |20d12+100 (230) |
 | Initiative:          |0 |

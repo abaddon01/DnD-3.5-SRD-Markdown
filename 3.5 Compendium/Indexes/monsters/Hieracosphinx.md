@@ -19,7 +19,7 @@ alignment: Always chaotic evil
 
 # Hieracosphinx
 
-|  | Hieracosphinx Large Magical (Beast) | 
+|  | Hieracosphinx - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |9d10+18 (67) |
 | Initiative:          |2 |

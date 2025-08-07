@@ -12,6 +12,7 @@ tags:
 type: Giant
 subtypes: 
  - Cold
+ - Frost Giant
 cr: 17
 environment: Cold mountains
 alignment: Always chaotic evil
@@ -19,7 +20,7 @@ alignment: Always chaotic evil
 
 # 8th-level Blackguard Frost Giant Jarl
 
-|  | 8th-level Blackguard Frost Giant Jarl Large Giant (Cold) | 
+|  | 8th-level Blackguard Frost Giant Jarl - Large (Giant [Cold, Frost Giant]) | 
 | ----| ---- | 
 | Hit Dice:            |14d8+84 plus 8d10+48 (231) |
 | Initiative:          |5 |

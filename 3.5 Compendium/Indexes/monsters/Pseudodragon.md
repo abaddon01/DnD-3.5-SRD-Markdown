@@ -17,7 +17,7 @@ alignment: Always neutral good
 
 # Pseudodragon
 
-| ![[pseudodragon.png \|100]] | Pseudodragon Tiny Dragon | 
+| ![[pseudodragon.png \|100]] | Pseudodragon - Tiny (Dragon) | 
 | ----| ---- | 
 | Hit Dice:            |2d12+2 (15) |
 | Initiative:          |2 |

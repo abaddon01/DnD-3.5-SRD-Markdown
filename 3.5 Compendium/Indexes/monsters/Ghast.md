@@ -10,6 +10,8 @@ tags:
  - Ghast
  - CR3
 type: Undead
+subtypes: 
+ - Ghoul
 cr: 3
 environment: Any
 alignment: Always chaotic evil
@@ -17,7 +19,7 @@ alignment: Always chaotic evil
 
 # Ghast
 
-| ![[ghast.png \|100]] | Ghast Medium Undead | 
+| ![[ghast.png \|100]] | Ghast - Medium (Undead [Ghoul]) | 
 | ----| ---- | 
 | Hit Dice:            |4d12+3 (29) |
 | Initiative:          |3 |

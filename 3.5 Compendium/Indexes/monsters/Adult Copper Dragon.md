@@ -17,7 +17,7 @@ alignment:
 
 # Adult Copper Dragon
 
-| ![[adult-copper-dragon.png \|100]] | Adult Copper Dragon Large Copper Dragon(Adult) | 
+| ![[adult-copper-dragon.png \|100]] | Adult Copper Dragon - Large (Copper Dragon(Adult)) | 
 | ----| ---- | 
 | Hit Dice:            |20d12+80 (210) |
 | Initiative:          |0 |

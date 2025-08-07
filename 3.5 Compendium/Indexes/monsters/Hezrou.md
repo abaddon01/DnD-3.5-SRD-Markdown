@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Hezrou
 
-| ![[hezrou.png \|100]] | Hezrou Large Outsider (Chaotic Extraplanar Evil) | 
+| ![[hezrou.png \|100]] | Hezrou - Large (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |10d8+93 (138) |
 | Initiative:          |0 |

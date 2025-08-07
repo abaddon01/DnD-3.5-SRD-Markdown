@@ -19,7 +19,7 @@ alignment: Always chaotic evil
 
 # Bodak
 
-|  | Bodak Medium Undead (Extraplanar) | 
+|  | Bodak - Medium (Undead [Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |9d12 (58) |
 | Initiative:          |6 |

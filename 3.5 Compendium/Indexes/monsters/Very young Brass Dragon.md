@@ -17,7 +17,7 @@ alignment:
 
 # Very young Brass Dragon
 
-|  | Very young Brass Dragon Small Brass Dragon(Very young) | 
+|  | Very young Brass Dragon - Small (Brass Dragon(Very young)) | 
 | ----| ---- | 
 | Hit Dice:            |7d12+7 (52) |
 | Initiative:          |0 |

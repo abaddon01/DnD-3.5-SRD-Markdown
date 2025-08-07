@@ -22,7 +22,7 @@ alignment: Usually neutral evil
 
 # Goblin
 
-| ![[goblin.png \|100]] | Goblin Goblin 1st-Level (Warrior Small Humanoid Goblinoid) | 
+| ![[goblin.png \|100]] | Goblin - Goblin (1st-Level [Warrior, Small, Humanoid, Goblinoid]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 (5) |
 | Initiative:          |1 |

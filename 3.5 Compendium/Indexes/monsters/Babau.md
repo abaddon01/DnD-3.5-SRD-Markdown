@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Babau
 
-|  | Babau Medium Outsider (Chaotic Extraplanar Evil) | 
+|  | Babau - Medium (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+35 (66) |
 | Initiative:          |1 |

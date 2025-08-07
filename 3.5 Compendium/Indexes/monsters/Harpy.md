@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Harpy
 
-| ![[harpy.png \|100]] | Harpy Medium Monstrous (Humanoid) | 
+| ![[harpy.png \|100]] | Harpy - Medium (Monstrous [Humanoid]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8 (31) |
 | Initiative:          |2 |

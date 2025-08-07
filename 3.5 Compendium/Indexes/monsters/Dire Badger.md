@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Badger
 
-|  | Dire Badger Medium Animal | 
+|  | Dire Badger - Medium (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+15 (28) |
 | Initiative:          |3 |

@@ -17,7 +17,7 @@ alignment:
 
 # Very old Gold Dragon
 
-|  | Very old Gold Dragon Gargantuan Gold Dragon(Very old) | 
+|  | Very old Gold Dragon - Gargantuan (Gold Dragon(Very old)) | 
 | ----| ---- | 
 | Hit Dice:            |32d12+256 (464) |
 | Initiative:          |0 |

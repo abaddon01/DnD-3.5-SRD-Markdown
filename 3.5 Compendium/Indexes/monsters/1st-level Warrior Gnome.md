@@ -19,7 +19,7 @@ alignment: Usually neutral good
 
 # 1st-level Warrior Gnome
 
-|  | 1st-level Warrior Gnome Small Humanoid (Gnome) | 
+|  | 1st-level Warrior Gnome - Small (Humanoid [Gnome]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+2 (6) |
 | Initiative:          |0 |

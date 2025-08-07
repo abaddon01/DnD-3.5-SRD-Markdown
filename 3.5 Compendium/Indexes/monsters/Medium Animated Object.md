@@ -10,6 +10,8 @@ tags:
  - Medium_Animated_Object
  - CR2
 type: Construct
+subtypes: 
+ - Animated Object
 cr: 2
 environment: Any
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Medium Animated Object
 
-|  | Medium Animated Object Medium Construct | 
+|  | Medium Animated Object - Medium (Construct [Animated Object]) | 
 | ----| ---- | 
 | Hit Dice:            |2d10+20 (31) |
 | Initiative:          |0 |

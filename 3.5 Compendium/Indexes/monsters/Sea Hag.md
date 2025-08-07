@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 # Sea Hag
 
-| ![[sea-hag.png \|100]] | Sea Hag Medium Monstrous (Humanoid Aquatic) | 
+| ![[sea-hag.png \|100]] | Sea Hag - Medium (Monstrous [Humanoid, Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+6 (19) |
 | Initiative:          |1 |

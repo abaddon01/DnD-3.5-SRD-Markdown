@@ -19,7 +19,7 @@ alignment: Always chaotic evil
 
 # Retriever
 
-|  | Retriever Huge Construct (Extraplanar) | 
+|  | Retriever - Huge (Construct [Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |10d10+80 (135) |
 | Initiative:          |3 |

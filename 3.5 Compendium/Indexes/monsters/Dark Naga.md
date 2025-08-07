@@ -17,7 +17,7 @@ alignment: Usually lawful evil
 
 # Dark Naga
 
-|  | Dark Naga Large Aberration | 
+|  | Dark Naga - Large (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |9d8+18 (58) |
 | Initiative:          |2 |

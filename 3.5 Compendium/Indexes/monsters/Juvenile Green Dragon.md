@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile Green Dragon
 
-|  | Juvenile Green Dragon Large Green Dragon(Juvenile) | 
+|  | Juvenile Green Dragon - Large (Green Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |14d12+42 (133) |
 | Initiative:          |0 |

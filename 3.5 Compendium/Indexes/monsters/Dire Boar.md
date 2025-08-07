@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Boar
 
-|  | Dire Boar Large Animal | 
+|  | Dire Boar - Large (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+21 (52) |
 | Initiative:          |0 |

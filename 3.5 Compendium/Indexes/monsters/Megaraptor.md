@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Megaraptor
 
-|  | Megaraptor Large Animal | 
+|  | Megaraptor - Large (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+43 (79) |
 | Initiative:          |2 |

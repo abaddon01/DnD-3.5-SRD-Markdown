@@ -21,7 +21,7 @@ alignment: Usually neutral
 
 # Thoqqua
 
-|  | Thoqqua Medium Elemental (Earth Extraplanar Fire) | 
+|  | Thoqqua - Medium (Elemental [Earth, Extraplanar, Fire]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+3 (16) |
 | Initiative:          |1 |

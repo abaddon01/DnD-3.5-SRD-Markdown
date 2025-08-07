@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling Green Dragon
 
-|  | Wyrmling Green Dragon Small Green Dragon(Wyrmling) | 
+|  | Wyrmling Green Dragon - Small (Green Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |5d12+5 (37) |
 | Initiative:          |0 |

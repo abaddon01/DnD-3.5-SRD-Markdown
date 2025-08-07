@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Iron Golem
 
-| ![[iron-golem.png \|100]] | Iron Golem Large Construct | 
+| ![[iron-golem.png \|100]] | Iron Golem - Large (Construct) | 
 | ----| ---- | 
 | Hit Dice:            |18d10+30 (129) |
 | Initiative:          |-1 |

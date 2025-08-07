@@ -13,6 +13,7 @@ type: Humanoid
 subtypes: 
  - Human
  - Shapechanger
+ - Werewolf
 cr: 3
 environment: Temperate forests
 alignment: Always chaotic evil
@@ -20,7 +21,7 @@ alignment: Always chaotic evil
 
 # Human Form Werewolf
 
-|  | Human Form Werewolf Medium Humanoid (Human Shapechanger) | 
+|  | Human Form Werewolf - Medium (Humanoid [Human, Shapechanger, Werewolf]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 plus 2d8+6 (20) |
 | Initiative:          |4 |

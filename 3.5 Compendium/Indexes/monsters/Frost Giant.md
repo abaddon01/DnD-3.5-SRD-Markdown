@@ -19,7 +19,7 @@ alignment: Often chaotic evil
 
 # Frost Giant
 
-| ![[frost-giant.png \|100]] | Frost Giant Large Giant (Cold) | 
+| ![[frost-giant.png \|100]] | Frost Giant - Large (Giant [Cold]) | 
 | ----| ---- | 
 | Hit Dice:            |14d8+70 (133) |
 | Initiative:          |-1 |

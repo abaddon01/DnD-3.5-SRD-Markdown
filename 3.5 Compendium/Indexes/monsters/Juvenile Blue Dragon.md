@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile Blue Dragon
 
-|  | Juvenile Blue Dragon Large Blue Dragon(Juvenile) | 
+|  | Juvenile Blue Dragon - Large (Blue Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |15d12+45 (142) |
 | Initiative:          |0 |

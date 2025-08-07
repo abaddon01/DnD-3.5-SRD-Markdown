@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Water
  - Extraplanar
+ - Water Elemental
 cr: 1
 environment: Elemental Plane of Water
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Small Water Elemental
 
-|  | Small Water Elemental Small Elemental (Water Extraplanar) | 
+|  | Small Water Elemental - Small (Elemental [Water, Extraplanar, Water Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+2 (11) |
 | Initiative:          |0 |

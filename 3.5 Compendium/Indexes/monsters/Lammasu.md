@@ -19,7 +19,7 @@ alignment: Always lawful good
 
 # Lammasu
 
-|  | Lammasu Large Magical (Beast) | 
+|  | Lammasu - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |7d10+21 (59) |
 | Initiative:          |1 |

@@ -17,7 +17,7 @@ alignment:
 
 # Great wyrm Gold Dragon
 
-|  | Great wyrm Gold Dragon Colossal Gold Dragon(Great wyrm) | 
+|  | Great wyrm Gold Dragon - Colossal (Gold Dragon(Great wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |41d12+451 (717) |
 | Initiative:          |0 |

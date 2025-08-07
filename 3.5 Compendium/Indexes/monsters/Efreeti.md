@@ -20,7 +20,7 @@ alignment: Always lawful evil
 
 # Efreeti
 
-| ![[efreeti.png \|100]] | Efreeti Large Outsider (Extraplanar Fire) | 
+| ![[efreeti.png \|100]] | Efreeti - Large (Outsider [Extraplanar, Fire]) | 
 | ----| ---- | 
 | Hit Dice:            |10d8+20 (65) |
 | Initiative:          |7 |

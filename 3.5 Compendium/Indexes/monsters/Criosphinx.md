@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Criosphinx
 
-|  | Criosphinx Large Magical (Beast) | 
+|  | Criosphinx - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |10d10+30 (85) |
 | Initiative:          |0 |

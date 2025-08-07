@@ -17,7 +17,7 @@ alignment:
 
 # Wyrm White Dragon
 
-|  | Wyrm White Dragon Gargantuan White Dragon(Wyrm) | 
+|  | Wyrm White Dragon - Gargantuan (White Dragon(Wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |33d12+231 (445) |
 | Initiative:          |0 |

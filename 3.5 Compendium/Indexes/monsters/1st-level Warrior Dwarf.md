@@ -19,7 +19,7 @@ alignment: Often lawful good (Deep: Usually lawful neutral or neutral)
 
 # 1st-level Warrior Dwarf
 
-|  | 1st-level Warrior Dwarf Medium Humanoid (Dwarf) | 
+|  | 1st-level Warrior Dwarf - Medium (Humanoid [Dwarf]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+2 (6) |
 | Initiative:          |0 |

@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Tiger
 
-|  | Dire Tiger Large Animal | 
+|  | Dire Tiger - Large (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |16d8+48 (120) |
 | Initiative:          |2 |

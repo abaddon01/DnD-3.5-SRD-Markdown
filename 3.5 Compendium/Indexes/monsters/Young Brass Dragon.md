@@ -17,7 +17,7 @@ alignment:
 
 # Young Brass Dragon
 
-| ![[young-brass-dragon.png \|100]] | Young Brass Dragon Medium Brass Dragon(Young) | 
+| ![[young-brass-dragon.png \|100]] | Young Brass Dragon - Medium (Brass Dragon(Young)) | 
 | ----| ---- | 
 | Hit Dice:            |10d12+20 (85) |
 | Initiative:          |0 |

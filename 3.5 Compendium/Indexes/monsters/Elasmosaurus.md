@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Elasmosaurus
 
-|  | Elasmosaurus Huge Animal | 
+|  | Elasmosaurus - Huge (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |10d8+66 (111) |
 | Initiative:          |2 |

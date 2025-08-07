@@ -17,7 +17,7 @@ alignment:
 
 # Great wyrm Silver Dragon
 
-|  | Great wyrm Silver Dragon Colossal Silver Dragon(Great wyrm) | 
+|  | Great wyrm Silver Dragon - Colossal (Silver Dragon(Great wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |40d12+400 (660) |
 | Initiative:          |0 |

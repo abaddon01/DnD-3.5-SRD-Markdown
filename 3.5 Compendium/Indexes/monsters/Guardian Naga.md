@@ -17,7 +17,7 @@ alignment: Usually lawful good
 
 # Guardian Naga
 
-| ![[guardian-naga.png \|100]] | Guardian Naga Large Aberration | 
+| ![[guardian-naga.png \|100]] | Guardian Naga - Large (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |11d8+44 (93) |
 | Initiative:          |2 |

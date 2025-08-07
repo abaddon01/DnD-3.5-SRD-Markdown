@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Griffon
 
-| ![[griffon.png \|100]] | Griffon Large Magical (Beast) | 
+| ![[griffon.png \|100]] | Griffon - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |7d10+21 (59) |
 | Initiative:          |2 |

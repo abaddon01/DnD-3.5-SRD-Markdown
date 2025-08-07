@@ -17,7 +17,7 @@ alignment:
 
 # Very young Red Dragon
 
-|  | Very young Red Dragon Large Red Dragon(Very young) | 
+|  | Very young Red Dragon - Large (Red Dragon(Very young)) | 
 | ----| ---- | 
 | Hit Dice:            |10d12+30 (95) |
 | Initiative:          |0 |

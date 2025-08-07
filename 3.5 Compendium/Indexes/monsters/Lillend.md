@@ -21,7 +21,7 @@ alignment: Always chaotic good
 
 # Lillend
 
-|  | Lillend Large Outsider (Chaotic Extraplanar Good) | 
+|  | Lillend - Large (Outsider [Chaotic, Extraplanar, Good]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+14 (45) |
 | Initiative:          |3 |

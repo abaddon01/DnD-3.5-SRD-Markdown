@@ -13,6 +13,7 @@ type: Humanoid
 subtypes: 
  - Human
  - Shapechanger
+ - Weretiger
 cr: 5
 environment: Warm forests
 alignment: Always neutral
@@ -20,7 +21,7 @@ alignment: Always neutral
 
 # Tiger Form Weretiger
 
-|  | Tiger Form Weretiger Large Humanoid (Human Shapechanger) | 
+|  | Tiger Form Weretiger - Large (Humanoid [Human, Shapechanger, Weretiger]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 plus 6d8+18 (50) |
 | Initiative:          |6 |

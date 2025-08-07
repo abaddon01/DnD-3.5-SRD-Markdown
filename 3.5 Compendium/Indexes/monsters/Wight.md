@@ -17,7 +17,7 @@ alignment: Always lawful evil
 
 # Wight
 
-| ![[wight.png \|100]] | Wight Medium Undead | 
+| ![[wight.png \|100]] | Wight - Medium (Undead) | 
 | ----| ---- | 
 | Hit Dice:            |4d12 (26) |
 | Initiative:          |1 |

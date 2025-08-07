@@ -19,7 +19,7 @@ alignment: Usually lawful evil
 
 # Medusa
 
-| ![[medusa.png \|100]] | Medusa Medium Monstrous (Humanoid) | 
+| ![[medusa.png \|100]] | Medusa - Medium (Monstrous [Humanoid]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+6 (33) |
 | Initiative:          |2 |

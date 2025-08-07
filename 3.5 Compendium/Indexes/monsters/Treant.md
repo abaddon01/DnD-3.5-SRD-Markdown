@@ -17,7 +17,7 @@ alignment: Usually neutral good
 
 # Treant
 
-| ![[treant.png \|100]] | Treant Huge Plant | 
+| ![[treant.png \|100]] | Treant - Huge (Plant) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+35 (66) |
 | Initiative:          |-1 |

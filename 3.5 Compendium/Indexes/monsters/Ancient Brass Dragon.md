@@ -17,7 +17,7 @@ alignment:
 
 # Ancient Brass Dragon
 
-| ![[ancient-brass-dragon.png \|100]] | Ancient Brass Dragon Huge Brass Dragon(Ancient) | 
+| ![[ancient-brass-dragon.png \|100]] | Ancient Brass Dragon - Huge (Brass Dragon(Ancient)) | 
 | ----| ---- | 
 | Hit Dice:            |31d12+186 (387) |
 | Initiative:          |0 |

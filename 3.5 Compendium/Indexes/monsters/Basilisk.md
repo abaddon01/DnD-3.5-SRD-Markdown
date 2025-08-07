@@ -20,7 +20,7 @@ alignment: Always neutral
 
 # Basilisk
 
-| ![[basilisk.png \|100]] | Basilisk Basilisk Medium (Magical Beast) | 
+| ![[basilisk.png \|100]] | Basilisk - Basilisk (Medium [Magical, Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |6d10+12 (45) |
 | Initiative:          |-1 |

@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Darkmantle
 
-| ![[darkmantle.png \|100]] | Darkmantle Small Magical (Beast) | 
+| ![[darkmantle.png \|100]] | Darkmantle - Small (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |1d10+1 (6) |
 | Initiative:          |4 |

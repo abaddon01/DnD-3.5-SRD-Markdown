@@ -20,7 +20,7 @@ alignment: Always lawful neutral
 
 # Marut
 
-|  | Marut Large Construct (Extraplanar Lawful) | 
+|  | Marut - Large (Construct [Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |15d10+30 (112) |
 | Initiative:          |1 |

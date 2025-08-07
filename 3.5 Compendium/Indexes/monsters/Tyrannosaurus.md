@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Tyrannosaurus
 
-|  | Tyrannosaurus Huge Animal | 
+|  | Tyrannosaurus - Huge (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |18d8+99 (180) |
 | Initiative:          |1 |

@@ -22,7 +22,7 @@ alignment: Usually neutral
 
 # Halfling
 
-|  | Halfling Halfling 1st-Level (Warrior Small Humanoid Halfling) | 
+|  | Halfling - Halfling (1st-Level [Warrior, Small, Humanoid, Halfling]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 (5) |
 | Initiative:          |1 |

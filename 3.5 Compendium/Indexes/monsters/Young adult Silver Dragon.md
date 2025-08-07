@@ -17,7 +17,7 @@ alignment:
 
 # Young adult Silver Dragon
 
-|  | Young adult Silver Dragon Large Silver Dragon(Young adult) | 
+|  | Young adult Silver Dragon - Large (Silver Dragon(Young adult)) | 
 | ----| ---- | 
 | Hit Dice:            |19d12+76 (199) |
 | Initiative:          |0 |

@@ -17,7 +17,7 @@ alignment:
 
 # Very young Silver Dragon
 
-|  | Very young Silver Dragon Medium Silver Dragon(Very young) | 
+|  | Very young Silver Dragon - Medium (Silver Dragon(Very young)) | 
 | ----| ---- | 
 | Hit Dice:            |10d12+20 (85) |
 | Initiative:          |0 |

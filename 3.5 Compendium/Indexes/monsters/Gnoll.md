@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Gnoll
 
-| ![[gnoll.png \|100]] | Gnoll Medium Humanoid (Gnoll) | 
+| ![[gnoll.png \|100]] | Gnoll - Medium (Humanoid [Gnoll]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+2 (11) |
 | Initiative:          |0 |

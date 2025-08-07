@@ -20,7 +20,7 @@ alignment: Always chaotic (any)
 
 # Titan
 
-|  | Titan Huge Outsider (Chaotic Extraplanar) | 
+|  | Titan - Huge (Outsider [Chaotic, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |20d8+280 (370) |
 | Initiative:          |1 |

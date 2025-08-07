@@ -20,7 +20,7 @@ alignment: Always neutral evil
 
 # Night Hag
 
-| ![[night-hag.png \|100]] | Night Hag Medium Outsider (Evil Extraplanar) | 
+| ![[night-hag.png \|100]] | Night Hag - Medium (Outsider [Evil, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+32 (68) |
 | Initiative:          |1 |

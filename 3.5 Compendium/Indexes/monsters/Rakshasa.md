@@ -19,7 +19,7 @@ alignment: Always lawful evil
 
 # Rakshasa
 
-| ![[rakshasa.png \|100]] | Rakshasa Medium Outsider (Native) | 
+| ![[rakshasa.png \|100]] | Rakshasa - Medium (Outsider [Native]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+21 (52) |
 | Initiative:          |2 |

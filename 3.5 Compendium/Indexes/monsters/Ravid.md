@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Ravid
 
-|  | Ravid Medium Outsider (Extraplanar) | 
+|  | Ravid - Medium (Outsider [Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+3 (16) |
 | Initiative:          |4 |

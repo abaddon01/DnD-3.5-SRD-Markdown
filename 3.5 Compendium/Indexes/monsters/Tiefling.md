@@ -22,7 +22,7 @@ alignment: Usually evil (any)
 
 # Tiefling
 
-|  | Tiefling Tiefling 1st-Level (Warrior Medium Outsider Native) | 
+|  | Tiefling - Tiefling (1st-Level [Warrior, Medium, Outsider, Native]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 (5) |
 | Initiative:          |1 |

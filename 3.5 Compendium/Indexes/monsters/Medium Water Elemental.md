@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Water
  - Extraplanar
+ - Water Elemental
 cr: 3
 environment: Elemental Plane of Water
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Medium Water Elemental
 
-|  | Medium Water Elemental Medium Elemental (Water Extraplanar) | 
+|  | Medium Water Elemental - Medium (Elemental [Water, Extraplanar, Water Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+12 (30) |
 | Initiative:          |1 |

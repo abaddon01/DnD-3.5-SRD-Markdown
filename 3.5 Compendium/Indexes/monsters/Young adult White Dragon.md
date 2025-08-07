@@ -17,7 +17,7 @@ alignment:
 
 # Young adult White Dragon
 
-|  | Young adult White Dragon Large White Dragon(Young adult) | 
+|  | Young adult White Dragon - Large (White Dragon(Young adult)) | 
 | ----| ---- | 
 | Hit Dice:            |15d12+45 (142) |
 | Initiative:          |0 |

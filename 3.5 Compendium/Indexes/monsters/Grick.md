@@ -17,7 +17,7 @@ alignment: Usually neutral
 
 # Grick
 
-| ![[grick.png \|100]] | Grick Medium Aberration | 
+| ![[grick.png \|100]] | Grick - Medium (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |2d8 (9) |
 | Initiative:          |2 |

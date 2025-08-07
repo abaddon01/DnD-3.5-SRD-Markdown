@@ -15,6 +15,7 @@ subtypes:
  - Extraplanar
  - Fire
  - Lawful
+ - Hell Hound
 cr: 3
 environment: A lawful evil plane
 alignment: Always lawful evil
@@ -22,7 +23,7 @@ alignment: Always lawful evil
 
 # Hellhound
 
-|  | Hellhound Medium Outsider (Evil Extraplanar Fire Lawful) | 
+|  | Hellhound - Medium (Outsider [Evil, Extraplanar, Fire, Lawful, Hell Hound]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+4 (22) |
 | Initiative:          |5 |

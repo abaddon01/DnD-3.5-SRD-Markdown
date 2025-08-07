@@ -17,7 +17,7 @@ alignment:
 
 # Young adult Bronze Dragon
 
-|  | Young adult Bronze Dragon Large Bronze Dragon(Young adult) | 
+|  | Young adult Bronze Dragon - Large (Bronze Dragon(Young adult)) | 
 | ----| ---- | 
 | Hit Dice:            |18d12+72 (189) |
 | Initiative:          |0 |

@@ -19,7 +19,7 @@ alignment: Always lawful evil
 
 # Spectre
 
-|  | Spectre Medium Undead (Incorporeal) | 
+|  | Spectre - Medium (Undead [Incorporeal]) | 
 | ----| ---- | 
 | Hit Dice:            |7d12 (45) |
 | Initiative:          |7 |

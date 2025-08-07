@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Earth
  - Extraplanar
+ - Earth Elemental
 cr: 9
 environment: Elemental Plane of Earth
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Greater Earth Elemental
 
-|  | Greater Earth Elemental Huge Elemental (Earth Extraplanar) | 
+|  | Greater Earth Elemental - Huge (Elemental [Earth, Extraplanar, Earth Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |21d8+105 (199) |
 | Initiative:          |-1 |

@@ -10,6 +10,8 @@ tags:
  - Bugbear_Zombie
  - CR2
 type: Undead
+subtypes: 
+ - Zombie
 cr: 2
 environment: Temperate mountains
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Bugbear Zombie
 
-|  | Bugbear Zombie Medium Undead | 
+|  | Bugbear Zombie - Medium (Undead [Zombie]) | 
 | ----| ---- | 
 | Hit Dice:            |6d12+3 (42) |
 | Initiative:          |0 |

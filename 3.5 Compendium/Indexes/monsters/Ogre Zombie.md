@@ -10,6 +10,8 @@ tags:
  - Ogre_Zombie
  - CR3
 type: Undead
+subtypes: 
+ - Zombie
 cr: 3
 environment: Temperate hills
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Ogre Zombie
 
-| ![[ogre-zombie.png \|100]] | Ogre Zombie Large Undead | 
+| ![[ogre-zombie.png \|100]] | Ogre Zombie - Large (Undead [Zombie]) | 
 | ----| ---- | 
 | Hit Dice:            |8d12+3 (55) |
 | Initiative:          |-2 |

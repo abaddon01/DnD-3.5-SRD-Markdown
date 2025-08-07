@@ -15,6 +15,7 @@ subtypes:
  - Extraplanar
  - Lawful
  - Shapechanger
+ - Barghest
 cr: 5
 environment: An evil-aligned plane
 alignment: Always lawful evil
@@ -22,7 +23,7 @@ alignment: Always lawful evil
 
 # Greater Barghest
 
-|  | Greater Barghest Large Outsider (Evil Extraplanar Lawful Shapechanger) | 
+|  | Greater Barghest - Large (Outsider [Evil, Extraplanar, Lawful, Shapechanger, Barghest]) | 
 | ----| ---- | 
 | Hit Dice:            |9d8+27 (67) |
 | Initiative:          |6 |

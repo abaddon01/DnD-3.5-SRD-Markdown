@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Dust Mephit
 
-| ![[dust-mephit.png \|100]] | Dust Mephit Small Outsider (Air Extraplanar) | 
+| ![[dust-mephit.png \|100]] | Dust Mephit - Small (Outsider [Air, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |7 |

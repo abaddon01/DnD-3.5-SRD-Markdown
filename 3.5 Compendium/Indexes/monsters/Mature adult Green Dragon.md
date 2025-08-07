@@ -17,7 +17,7 @@ alignment:
 
 # Mature adult Green Dragon
 
-|  | Mature adult Green Dragon Huge Green Dragon(Mature adult) | 
+|  | Mature adult Green Dragon - Huge (Green Dragon(Mature adult)) | 
 | ----| ---- | 
 | Hit Dice:            |23d12+115 (264) |
 | Initiative:          |0 |

@@ -19,7 +19,7 @@ alignment: Usually lawful good
 
 # Blink Dog
 
-| ![[blink-dog.png \|100]] | Blink Dog Medium Magical (Beast) | 
+| ![[blink-dog.png \|100]] | Blink Dog - Medium (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |4d10 (22) |
 | Initiative:          |3 |

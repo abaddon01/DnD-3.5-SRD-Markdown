@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling Silver Dragon
 
-|  | Wyrmling Silver Dragon Small Silver Dragon(Wyrmling) | 
+|  | Wyrmling Silver Dragon - Small (Silver Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |7d12+7 (52) |
 | Initiative:          |0 |

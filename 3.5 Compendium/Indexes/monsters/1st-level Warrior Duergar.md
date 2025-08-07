@@ -19,7 +19,7 @@ alignment: Often lawful evil
 
 # 1st-level Warrior Duergar
 
-|  | 1st-level Warrior Duergar Medium Humanoid (Dwarf) | 
+|  | 1st-level Warrior Duergar - Medium (Humanoid [Dwarf]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+5 (9) |
 | Initiative:          |0 |

@@ -17,7 +17,7 @@ alignment:
 
 # Very old White Dragon
 
-|  | Very old White Dragon Huge White Dragon(Very old) | 
+|  | Very old White Dragon - Huge (White Dragon(Very old)) | 
 | ----| ---- | 
 | Hit Dice:            |27d12+162 (337) |
 | Initiative:          |0 |

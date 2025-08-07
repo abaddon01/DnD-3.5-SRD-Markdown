@@ -17,7 +17,7 @@ alignment: Any (same as creator)
 
 # Homunculus
 
-| ![[homunculus.png \|100]] | Homunculus Tiny Construct | 
+| ![[homunculus.png \|100]] | Homunculus - Tiny (Construct) | 
 | ----| ---- | 
 | Hit Dice:            |2d10 (11) |
 | Initiative:          |2 |

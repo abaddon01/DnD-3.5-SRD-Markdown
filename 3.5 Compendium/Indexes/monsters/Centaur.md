@@ -19,7 +19,7 @@ alignment: Usually neutral good
 
 # Centaur
 
-| ![[centaur.png \|100]] | Centaur Large Monstrous (Humanoid) | 
+| ![[centaur.png \|100]] | Centaur - Large (Monstrous [Humanoid]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+8 (26) |
 | Initiative:          |2 |

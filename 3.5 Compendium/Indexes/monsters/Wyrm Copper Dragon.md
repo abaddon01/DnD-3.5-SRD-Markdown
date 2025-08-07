@@ -17,7 +17,7 @@ alignment:
 
 # Wyrm Copper Dragon
 
-|  | Wyrm Copper Dragon Gargantuan Copper Dragon(Wyrm) | 
+|  | Wyrm Copper Dragon - Gargantuan (Copper Dragon(Wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |35d12+245 (472) |
 | Initiative:          |0 |

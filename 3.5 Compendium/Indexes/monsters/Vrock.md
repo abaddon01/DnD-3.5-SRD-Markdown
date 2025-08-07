@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Vrock
 
-| ![[vrock.png \|100]] | Vrock Large Outsider (Chaotic Extraplanar Evil) | 
+| ![[vrock.png \|100]] | Vrock - Large (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |10d8+70 (115) |
 | Initiative:          |2 |

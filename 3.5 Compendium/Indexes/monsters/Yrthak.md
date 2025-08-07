@@ -19,7 +19,7 @@ alignment: Often neutral
 
 # Yrthak
 
-|  | Yrthak Huge Magical (Beast) | 
+|  | Yrthak - Huge (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |12d10+36 (102) |
 | Initiative:          |6 |

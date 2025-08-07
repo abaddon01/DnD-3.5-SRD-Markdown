@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Bone Devil (osyluth)
 
-|  | Bone Devil (osyluth) Large Outsider (Evil Extraplanar Lawful) | 
+|  | Bone Devil (osyluth) - Large (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |10d8+50 (95) |
 | Initiative:          |9 |

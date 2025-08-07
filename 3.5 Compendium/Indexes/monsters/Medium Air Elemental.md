@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Air
  - Extraplanar
+ - Air Elemental
 cr: 3
 environment: Elemental Plane of Air
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Medium Air Elemental
 
-|  | Medium Air Elemental Medium Elemental (Air Extraplanar) | 
+|  | Medium Air Elemental - Medium (Elemental [Air, Extraplanar, Air Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+8 (26) |
 | Initiative:          |9 |

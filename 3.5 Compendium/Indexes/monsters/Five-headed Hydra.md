@@ -12,6 +12,7 @@ tags:
 type: Magical
 subtypes: 
  - Beast
+ - Hydra
 cr: 4
 environment: Temperate marshes (Pyro: Warm marshes) (Cyro: Cold marshes)
 alignment: Usually neutral
@@ -19,7 +20,7 @@ alignment: Usually neutral
 
 # Five-headed Hydra
 
-|  | Five-headed Hydra Huge Magical (Beast) | 
+|  | Five-headed Hydra - Huge (Magical [Beast, Hydra]) | 
 | ----| ---- | 
 | Hit Dice:            |5d10+28 (55) |
 | Initiative:          |1 |

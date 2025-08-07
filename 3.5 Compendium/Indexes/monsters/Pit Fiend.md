@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Pit Fiend
 
-| ![[pit-fiend.png \|100]] | Pit Fiend Large Outsider (Evil Extraplanar Lawful) | 
+| ![[pit-fiend.png \|100]] | Pit Fiend - Large (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |18d8+144 (225) |
 | Initiative:          |12 |

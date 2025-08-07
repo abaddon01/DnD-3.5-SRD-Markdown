@@ -12,6 +12,7 @@ tags:
 type: Magical
 subtypes: 
  - Beast
+ - Hydra
 cr: 11
 environment: Temperate marshes (Pyro: Warm marshes) (Cyro: Cold marshes)
 alignment: Usually neutral
@@ -19,7 +20,7 @@ alignment: Usually neutral
 
 # Twelve-headed Hydra
 
-|  | Twelve-headed Hydra Huge Magical (Beast) | 
+|  | Twelve-headed Hydra - Huge (Magical [Beast, Hydra]) | 
 | ----| ---- | 
 | Hit Dice:            |12d10+63 (129) |
 | Initiative:          |1 |

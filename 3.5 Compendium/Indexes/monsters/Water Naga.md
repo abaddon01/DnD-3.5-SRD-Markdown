@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Water Naga
 
-|  | Water Naga Large Aberration (Aquatic) | 
+|  | Water Naga - Large (Aberration [Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+28 (59) |
 | Initiative:          |1 |

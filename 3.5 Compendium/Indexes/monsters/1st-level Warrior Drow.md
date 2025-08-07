@@ -19,7 +19,7 @@ alignment: Usually neutral evil
 
 # 1st-level Warrior Drow
 
-|  | 1st-level Warrior Drow Medium Humanoid (Elf) | 
+|  | 1st-level Warrior Drow - Medium (Humanoid [Elf]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8 (4) |
 | Initiative:          |1 |

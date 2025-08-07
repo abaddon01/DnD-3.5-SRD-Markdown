@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Magma Mephit
 
-| ![[magma-mephit.png \|100]] | Magma Mephit Small Outsider (Fire Extraplanar) | 
+| ![[magma-mephit.png \|100]] | Magma Mephit - Small (Outsider [Fire, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |5 |

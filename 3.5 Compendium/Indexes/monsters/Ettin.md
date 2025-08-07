@@ -17,7 +17,7 @@ alignment: Usually chaotic evil
 
 # Ettin
 
-| ![[ettin.png \|100]] | Ettin Large Giant | 
+| ![[ettin.png \|100]] | Ettin - Large (Giant) | 
 | ----| ---- | 
 | Hit Dice:            |10d8+20 (65) |
 | Initiative:          |3 |

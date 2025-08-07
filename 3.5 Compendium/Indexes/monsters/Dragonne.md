@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Dragonne
 
-|  | Dragonne Large Magical (Beast) | 
+|  | Dragonne - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |9d10+27 (76) |
 | Initiative:          |6 |

@@ -17,7 +17,7 @@ alignment:
 
 # Very young Black Dragon
 
-|  | Very young Black Dragon Small Black Dragon(Very young) | 
+|  | Very young Black Dragon - Small (Black Dragon(Very young)) | 
 | ----| ---- | 
 | Hit Dice:            |7d12+7 (52) |
 | Initiative:          |0 |

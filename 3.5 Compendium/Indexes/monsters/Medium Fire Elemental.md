@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Fire
  - Extraplanar
+ - Fire Elemental
 cr: 3
 environment: Elemental Plane of Fire
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Medium Fire Elemental
 
-|  | Medium Fire Elemental Medium Elemental (Fire Extraplanar) | 
+|  | Medium Fire Elemental - Medium (Elemental [Fire, Extraplanar, Fire Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+8 (26) |
 | Initiative:          |7 |

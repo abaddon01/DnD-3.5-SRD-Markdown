@@ -17,7 +17,7 @@ alignment: Always neutral good
 
 # Pixie
 
-|  | Pixie Small Fey | 
+|  | Pixie - Small (Fey) | 
 | ----| ---- | 
 | Hit Dice:            |1d6 (3) |
 | Initiative:          |4 |

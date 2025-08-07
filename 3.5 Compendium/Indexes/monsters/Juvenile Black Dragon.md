@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile Black Dragon
 
-|  | Juvenile Black Dragon Medium Black Dragon(Juvenile) | 
+|  | Juvenile Black Dragon - Medium (Black Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |13d12+26 (110) |
 | Initiative:          |0 |

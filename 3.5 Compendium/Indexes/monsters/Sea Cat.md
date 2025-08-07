@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Sea Cat
 
-|  | Sea Cat Large Magical (Beast) | 
+|  | Sea Cat - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |6d10+18 (51) |
 | Initiative:          |1 |

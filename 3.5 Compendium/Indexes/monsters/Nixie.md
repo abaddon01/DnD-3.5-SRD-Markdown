@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Nixie
 
-|  | Nixie Small Fey (Aquatic) | 
+|  | Nixie - Small (Fey [Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |1d6 (3) |
 | Initiative:          |3 |

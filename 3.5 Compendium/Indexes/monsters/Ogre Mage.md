@@ -17,7 +17,7 @@ alignment: Usually lawful evil
 
 # Ogre Mage
 
-|  | Ogre Mage Large Giant | 
+|  | Ogre Mage - Large (Giant) | 
 | ----| ---- | 
 | Hit Dice:            |5d8+15 (37) |
 | Initiative:          |4 |

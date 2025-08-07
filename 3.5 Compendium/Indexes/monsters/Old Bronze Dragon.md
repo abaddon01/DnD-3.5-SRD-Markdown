@@ -17,7 +17,7 @@ alignment:
 
 # Old Bronze Dragon
 
-|  | Old Bronze Dragon Huge Bronze Dragon(Old) | 
+|  | Old Bronze Dragon - Huge (Bronze Dragon(Old)) | 
 | ----| ---- | 
 | Hit Dice:            |27d12+162 (337) |
 | Initiative:          |0 |

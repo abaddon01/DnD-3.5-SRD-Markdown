@@ -21,7 +21,7 @@ alignment: Always good (any)
 
 # Solar Angel
 
-|  | Solar Angel Large Outsider (Angel Extraplanar Good) | 
+|  | Solar Angel - Large (Outsider [Angel, Extraplanar, Good]) | 
 | ----| ---- | 
 | Hit Dice:            |22d8+110 (209) |
 | Initiative:          |9 |

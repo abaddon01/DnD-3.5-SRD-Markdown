@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Ooze Mephit
 
-|  | Ooze Mephit Small Outsider (Extraplanar Water) | 
+|  | Ooze Mephit - Small (Outsider [Extraplanar, Water]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+6 (19) |
 | Initiative:          |0 |

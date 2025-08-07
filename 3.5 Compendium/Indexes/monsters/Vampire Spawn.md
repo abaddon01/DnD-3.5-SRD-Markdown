@@ -17,7 +17,7 @@ alignment: Always evil (any)
 
 # Vampire Spawn
 
-| ![[vampire-spawn.png \|100]] | Vampire Spawn Medium Undead | 
+| ![[vampire-spawn.png \|100]] | Vampire Spawn - Medium (Undead) | 
 | ----| ---- | 
 | Hit Dice:            |4d12+3 (29) |
 | Initiative:          |6 |

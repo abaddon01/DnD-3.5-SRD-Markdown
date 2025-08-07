@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Bearded Devil (barbazu)
 
-|  | Bearded Devil (barbazu) Medium Outsider (Evil Extraplanar Lawful) | 
+|  | Bearded Devil (barbazu) - Medium (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+18 (45) |
 | Initiative:          |6 |

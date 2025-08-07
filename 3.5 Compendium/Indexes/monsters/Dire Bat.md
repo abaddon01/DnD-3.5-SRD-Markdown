@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Bat
 
-|  | Dire Bat Large Animal | 
+|  | Dire Bat - Large (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+12 (30) |
 | Initiative:          |6 |

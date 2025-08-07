@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Owlbear
 
-| ![[owlbear.png \|100]] | Owlbear Large Magical (Beast) | 
+| ![[owlbear.png \|100]] | Owlbear - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |5d10+25 (52) |
 | Initiative:          |1 |

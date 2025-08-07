@@ -17,7 +17,7 @@ alignment:
 
 # Ancient Red Dragon
 
-| ![[ancient-red-dragon.png \|100]] | Ancient Red Dragon Gargantuan Red Dragon(Ancient) | 
+| ![[ancient-red-dragon.png \|100]] | Ancient Red Dragon - Gargantuan (Red Dragon(Ancient)) | 
 | ----| ---- | 
 | Hit Dice:            |34d12+306 (527) |
 | Initiative:          |0 |

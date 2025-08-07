@@ -17,7 +17,7 @@ alignment: Usually chaotic neutral
 
 # Satyr
 
-| ![[satyr.png \|100]] | Satyr Medium Fey | 
+| ![[satyr.png \|100]] | Satyr - Medium (Fey) | 
 | ----| ---- | 
 | Hit Dice:            |5d6+5 (22) |
 | Initiative:          |1 |

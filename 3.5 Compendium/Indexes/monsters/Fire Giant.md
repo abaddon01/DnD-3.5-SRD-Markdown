@@ -19,7 +19,7 @@ alignment: Often lawful evil
 
 # Fire Giant
 
-| ![[fire-giant.png \|100]] | Fire Giant Large Giant (Fire) | 
+| ![[fire-giant.png \|100]] | Fire Giant - Large (Giant [Fire]) | 
 | ----| ---- | 
 | Hit Dice:            |15d8+75 (142) |
 | Initiative:          |-1 |

@@ -10,6 +10,8 @@ tags:
  - Ettin_Skeleton
  - CR5
 type: Undead
+subtypes: 
+ - Skeleton
 cr: 5
 environment: Cold hills
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Ettin Skeleton
 
-|  | Ettin Skeleton Large Undead | 
+|  | Ettin Skeleton - Large (Undead [Skeleton]) | 
 | ----| ---- | 
 | Hit Dice:            |10d12 (65) |
 | Initiative:          |4 |

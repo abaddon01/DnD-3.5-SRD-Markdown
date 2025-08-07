@@ -10,6 +10,8 @@ tags:
  - Large_Animated_Object
  - CR3
 type: Construct
+subtypes: 
+ - Animated Object
 cr: 3
 environment: Any
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Large Animated Object
 
-|  | Large Animated Object Large Construct | 
+|  | Large Animated Object - Large (Construct [Animated Object]) | 
 | ----| ---- | 
 | Hit Dice:            |4d10+30 (52) |
 | Initiative:          |0 |

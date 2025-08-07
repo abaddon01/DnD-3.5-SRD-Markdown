@@ -12,6 +12,7 @@ tags:
 type: Magical
 subtypes: 
  - Beast
+ - Unicorn
 cr: 13
 environment: A chaotic good plane
 alignment: Always chaotic good
@@ -19,7 +20,7 @@ alignment: Always chaotic good
 
 # 7th-level Cleric Celestial Charger
 
-|  | 7th-level Cleric Celestial Charger Large Magical (Beast) | 
+|  | 7th-level Cleric Celestial Charger - Large (Magical [Beast, Unicorn]) | 
 | ----| ---- | 
 | Hit Dice:            |8d10 + 7d8 + 75 (155) |
 | Initiative:          |4 |

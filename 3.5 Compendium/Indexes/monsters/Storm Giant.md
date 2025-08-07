@@ -17,7 +17,7 @@ alignment: Often chaotic good
 
 # Storm Giant
 
-| ![[storm-giant.png \|100]] | Storm Giant Huge Giant | 
+| ![[storm-giant.png \|100]] | Storm Giant - Huge (Giant) | 
 | ----| ---- | 
 | Hit Dice:            |19d8+114 (199) |
 | Initiative:          |2 |

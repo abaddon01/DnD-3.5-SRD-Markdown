@@ -19,7 +19,7 @@ alignment: Usually chaotic neutral
 
 # Phasm
 
-|  | Phasm Medium Aberration (Shapechanger) | 
+|  | Phasm - Medium (Aberration [Shapechanger]) | 
 | ----| ---- | 
 | Hit Dice:            |15d8+30 (97) |
 | Initiative:          |6 |

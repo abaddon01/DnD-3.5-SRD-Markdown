@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Stirge
 
-| ![[stirge.png \|100]] | Stirge Tiny Magical (Beast) | 
+| ![[stirge.png \|100]] | Stirge - Tiny (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |1d10 (5) |
 | Initiative:          |4 |

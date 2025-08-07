@@ -20,7 +20,7 @@ alignment: Usually neutral evil
 
 # Kraken
 
-| ![[kraken.png \|100]] | Kraken Gargantuan Magical (Beast Aquatic) | 
+| ![[kraken.png \|100]] | Kraken - Gargantuan (Magical [Beast, Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |20d10+180 (290) |
 | Initiative:          |4 |

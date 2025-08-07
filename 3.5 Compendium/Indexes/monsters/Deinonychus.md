@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Deinonychus
 
-|  | Deinonychus Medium Animal | 
+|  | Deinonychus - Medium (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+16 (34) |
 | Initiative:          |2 |

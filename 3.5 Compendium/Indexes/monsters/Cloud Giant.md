@@ -19,7 +19,7 @@ alignment: Usually neutral good or neutral evil
 
 # Cloud Giant
 
-| ![[cloud-giant.png \|100]] | Cloud Giant Huge Giant (Air) | 
+| ![[cloud-giant.png \|100]] | Cloud Giant - Huge (Giant [Air]) | 
 | ----| ---- | 
 | Hit Dice:            |17d8+102 (178) |
 | Initiative:          |1 |

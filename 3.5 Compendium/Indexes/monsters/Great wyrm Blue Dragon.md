@@ -17,7 +17,7 @@ alignment:
 
 # Great wyrm Blue Dragon
 
-|  | Great wyrm Blue Dragon Gargantuan Blue Dragon(Great wyrm) | 
+|  | Great wyrm Blue Dragon - Gargantuan (Blue Dragon(Great wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |39d12+312 (565) |
 | Initiative:          |0 |

@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Dragon Turtle
 
-| ![[dragon-turtle.png \|100]] | Dragon Turtle Huge Dragon (Aquatic) | 
+| ![[dragon-turtle.png \|100]] | Dragon Turtle - Huge (Dragon [Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |12d12+60 (138) |
 | Initiative:          |0 |

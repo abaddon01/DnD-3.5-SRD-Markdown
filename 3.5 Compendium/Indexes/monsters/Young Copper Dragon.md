@@ -17,7 +17,7 @@ alignment:
 
 # Young Copper Dragon
 
-| ![[young-copper-dragon.png \|100]] | Young Copper Dragon Medium Copper Dragon(Young) | 
+| ![[young-copper-dragon.png \|100]] | Young Copper Dragon - Medium (Copper Dragon(Young)) | 
 | ----| ---- | 
 | Hit Dice:            |11d12+22 (93) |
 | Initiative:          |0 |

@@ -19,7 +19,7 @@ alignment: Usually lawful evil
 
 # Skum
 
-|  | Skum Medium Aberration (Aquatic) | 
+|  | Skum - Medium (Aberration [Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+2 (11) |
 | Initiative:          |1 |

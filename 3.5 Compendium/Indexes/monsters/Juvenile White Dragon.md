@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile White Dragon
 
-|  | Juvenile White Dragon Medium White Dragon(Juvenile) | 
+|  | Juvenile White Dragon - Medium (White Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |12d12+24 (102) |
 | Initiative:          |0 |

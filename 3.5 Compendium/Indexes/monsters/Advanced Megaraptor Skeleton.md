@@ -10,6 +10,8 @@ tags:
  - Advanced_Megaraptor_Skeleton
  - CRNone
 type: Undead
+subtypes: 
+ - Skeleton
 cr: None
 environment: Any
 alignment: 13-16 HD (Huge); 17-20 HD (Gargantuan)
@@ -17,7 +19,7 @@ alignment: 13-16 HD (Huge); 17-20 HD (Gargantuan)
 
 # Advanced Megaraptor Skeleton
 
-|  | Advanced Megaraptor Skeleton Huge Undead | 
+|  | Advanced Megaraptor Skeleton - Huge (Undead [Skeleton]) | 
 | ----| ---- | 
 | Hit Dice:            |12d12 (78) |
 | Initiative:          |7 |

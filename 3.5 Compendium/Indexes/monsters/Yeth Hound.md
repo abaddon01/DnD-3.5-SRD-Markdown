@@ -20,7 +20,7 @@ alignment: Always neutral evil
 
 # Yeth Hound
 
-|  | Yeth Hound Medium Outsider (Extraplanar Evil) | 
+|  | Yeth Hound - Medium (Outsider [Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+6 (19) |
 | Initiative:          |6 |

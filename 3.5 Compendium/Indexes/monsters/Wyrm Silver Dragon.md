@@ -17,7 +17,7 @@ alignment:
 
 # Wyrm Silver Dragon
 
-|  | Wyrm Silver Dragon Gargantuan Silver Dragon(Wyrm) | 
+|  | Wyrm Silver Dragon - Gargantuan (Silver Dragon(Wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |37d12+333 (573) |
 | Initiative:          |0 |

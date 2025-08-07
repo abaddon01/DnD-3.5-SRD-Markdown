@@ -17,7 +17,7 @@ alignment:
 
 # Mature adult White Dragon
 
-|  | Mature adult White Dragon Huge White Dragon(Mature adult) | 
+|  | Mature adult White Dragon - Huge (White Dragon(Mature adult)) | 
 | ----| ---- | 
 | Hit Dice:            |21d12+105 (241) |
 | Initiative:          |0 |

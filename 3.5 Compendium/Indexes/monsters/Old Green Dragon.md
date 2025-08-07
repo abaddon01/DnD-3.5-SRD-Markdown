@@ -17,7 +17,7 @@ alignment:
 
 # Old Green Dragon
 
-|  | Old Green Dragon Huge Green Dragon(Old) | 
+|  | Old Green Dragon - Huge (Green Dragon(Old)) | 
 | ----| ---- | 
 | Hit Dice:            |26d12+156 (325) |
 | Initiative:          |0 |

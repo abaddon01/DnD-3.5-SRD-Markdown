@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Frost Worm
 
-|  | Frost Worm Huge Magical (Beast Cold) | 
+|  | Frost Worm - Huge (Magical [Beast, Cold]) | 
 | ----| ---- | 
 | Hit Dice:            |14d10+70 (147) |
 | Initiative:          |4 |

@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Chuul
 
-| ![[chuul.png \|100]] | Chuul Large Aberration (Aquatic) | 
+| ![[chuul.png \|100]] | Chuul - Large (Aberration [Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |11d8+44 (93) |
 | Initiative:          |7 |

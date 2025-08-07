@@ -10,6 +10,8 @@ tags:
  - Minotaur_Zombie
  - CR4
 type: Undead
+subtypes: 
+ - Zombie
 cr: 4
 environment: Underground
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Minotaur Zombie
 
-|  | Minotaur Zombie Large Undead | 
+|  | Minotaur Zombie - Large (Undead [Zombie]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+3 (81) |
 | Initiative:          |-1 |

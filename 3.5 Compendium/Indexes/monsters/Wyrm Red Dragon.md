@@ -17,7 +17,7 @@ alignment:
 
 # Wyrm Red Dragon
 
-|  | Wyrm Red Dragon Gargantuan Red Dragon(Wyrm) | 
+|  | Wyrm Red Dragon - Gargantuan (Red Dragon(Wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |37d12+370 (610) |
 | Initiative:          |0 |

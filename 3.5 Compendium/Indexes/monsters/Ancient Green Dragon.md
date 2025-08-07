@@ -17,7 +17,7 @@ alignment:
 
 # Ancient Green Dragon
 
-| ![[ancient-green-dragon.png \|100]] | Ancient Green Dragon Gargantuan Green Dragon(Ancient) | 
+| ![[ancient-green-dragon.png \|100]] | Ancient Green Dragon - Gargantuan (Green Dragon(Ancient)) | 
 | ----| ---- | 
 | Hit Dice:            |32d12+224 (432) |
 | Initiative:          |0 |

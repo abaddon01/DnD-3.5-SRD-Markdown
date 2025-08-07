@@ -17,7 +17,7 @@ alignment: Usually chaotic evil
 
 # Troll
 
-| ![[troll.png \|100]] | Troll Large Giant | 
+| ![[troll.png \|100]] | Troll - Large (Giant) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+36 (63) |
 | Initiative:          |2 |

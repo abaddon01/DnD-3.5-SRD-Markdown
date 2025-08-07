@@ -20,7 +20,7 @@ alignment: Always lawful neutral
 
 # Kolyarut
 
-|  | Kolyarut Medium Construct (Extraplanar Lawful) | 
+|  | Kolyarut - Medium (Construct [Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |13d10+20 (91) |
 | Initiative:          |1 |

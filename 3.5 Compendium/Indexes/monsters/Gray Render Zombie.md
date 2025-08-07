@@ -10,6 +10,8 @@ tags:
  - Gray_Render_Zombie
  - CR6
 type: Undead
+subtypes: 
+ - Zombie
 cr: 6
 environment: Temperate marshes
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Gray Render Zombie
 
-|  | Gray Render Zombie Large Undead | 
+|  | Gray Render Zombie - Large (Undead [Zombie]) | 
 | ----| ---- | 
 | Hit Dice:            |20d8+3 (133) |
 | Initiative:          |-1 |

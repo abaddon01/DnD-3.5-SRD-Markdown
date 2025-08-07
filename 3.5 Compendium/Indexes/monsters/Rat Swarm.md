@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Rat Swarm
 
-|  | Rat Swarm Tiny Animal (Swarm) | 
+|  | Rat Swarm - Tiny (Animal [Swarm]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8 (13) |
 | Initiative:          |2 |

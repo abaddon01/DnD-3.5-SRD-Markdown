@@ -20,7 +20,7 @@ alignment: Always neutral evil
 
 # Nightmare
 
-| ![[nightmare.png \|100]] | Nightmare Large Outsider (Evil Extraplanar) | 
+| ![[nightmare.png \|100]] | Nightmare - Large (Outsider [Evil, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+18 (45) |
 | Initiative:          |6 |

@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Troglodyte
 
-|  | Troglodyte Medium Humanoid (Reptilian) | 
+|  | Troglodyte - Medium (Humanoid [Reptilian]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+4 (13) |
 | Initiative:          |-1 |

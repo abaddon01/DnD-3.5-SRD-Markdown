@@ -17,7 +17,7 @@ alignment:
 
 # Young adult Blue Dragon
 
-|  | Young adult Blue Dragon Large Blue Dragon(Young adult) | 
+|  | Young adult Blue Dragon - Large (Blue Dragon(Young adult)) | 
 | ----| ---- | 
 | Hit Dice:            |18d12+72 (189) |
 | Initiative:          |0 |

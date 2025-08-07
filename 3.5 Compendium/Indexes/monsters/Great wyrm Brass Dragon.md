@@ -17,7 +17,7 @@ alignment:
 
 # Great wyrm Brass Dragon
 
-|  | Great wyrm Brass Dragon Gargantuan Brass Dragon(Great wyrm) | 
+|  | Great wyrm Brass Dragon - Gargantuan (Brass Dragon(Great wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |37d12+296 (536) |
 | Initiative:          |0 |

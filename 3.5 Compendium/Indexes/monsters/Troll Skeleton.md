@@ -10,6 +10,8 @@ tags:
  - Troll_Skeleton
  - CR3
 type: Undead
+subtypes: 
+ - Skeleton
 cr: 3
 environment: Cold mountains
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Troll Skeleton
 
-|  | Troll Skeleton Large Undead | 
+|  | Troll Skeleton - Large (Undead [Skeleton]) | 
 | ----| ---- | 
 | Hit Dice:            |6d12 (39) |
 | Initiative:          |7 |

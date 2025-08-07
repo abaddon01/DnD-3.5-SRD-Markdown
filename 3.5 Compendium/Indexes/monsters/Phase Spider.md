@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Phase Spider
 
-| ![[phase-spider.png \|100]] | Phase Spider Large Magical (Beast) | 
+| ![[phase-spider.png \|100]] | Phase Spider - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |5d10+15 (42) |
 | Initiative:          |7 |

@@ -20,7 +20,7 @@ alignment: Usually neutral good
 
 # Triton
 
-|  | Triton Medium Outsider (Native Water) | 
+|  | Triton - Medium (Outsider [Native, Water]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+3 (16) |
 | Initiative:          |0 |

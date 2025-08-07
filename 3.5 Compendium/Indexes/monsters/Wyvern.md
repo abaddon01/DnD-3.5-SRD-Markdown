@@ -17,7 +17,7 @@ alignment: Usually neutral
 
 # Wyvern
 
-| ![[wyvern.png \|100]] | Wyvern Large Dragon | 
+| ![[wyvern.png \|100]] | Wyvern - Large (Dragon) | 
 | ----| ---- | 
 | Hit Dice:            |7d12+14 (59) |
 | Initiative:          |1 |

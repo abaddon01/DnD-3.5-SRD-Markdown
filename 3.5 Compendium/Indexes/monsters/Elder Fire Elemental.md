@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Fire
  - Extraplanar
+ - Fire Elemental
 cr: 11
 environment: Elemental Plane of Fire
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Elder Fire Elemental
 
-|  | Elder Fire Elemental Huge Elemental (Fire Extraplanar) | 
+|  | Elder Fire Elemental - Huge (Elemental [Fire, Extraplanar, Fire Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |24d8+96 (204) |
 | Initiative:          |13 |

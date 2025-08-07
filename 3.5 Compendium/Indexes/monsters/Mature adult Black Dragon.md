@@ -17,7 +17,7 @@ alignment:
 
 # Mature adult Black Dragon
 
-|  | Mature adult Black Dragon Huge Black Dragon(Mature adult) | 
+|  | Mature adult Black Dragon - Huge (Black Dragon(Mature adult)) | 
 | ----| ---- | 
 | Hit Dice:            |22d12+110 (253) |
 | Initiative:          |0 |

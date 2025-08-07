@@ -19,7 +19,7 @@ alignment: Always chaotic evil
 
 # Nightwalker
 
-|  | Nightwalker Huge Undead (Extraplanar) | 
+|  | Nightwalker - Huge (Undead [Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |21d12+42 (178) |
 | Initiative:          |6 |

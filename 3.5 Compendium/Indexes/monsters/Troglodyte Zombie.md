@@ -10,6 +10,8 @@ tags:
  - Troglodyte_Zombie
  - CR1
 type: Undead
+subtypes: 
+ - Zombie
 cr: 1
 environment: Underground
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Troglodyte Zombie
 
-|  | Troglodyte Zombie Medium Undead | 
+|  | Troglodyte Zombie - Medium (Undead [Zombie]) | 
 | ----| ---- | 
 | Hit Dice:            |4d12+3 (29) |
 | Initiative:          |-2 |

@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Will-o’-wisp
 
-|  | Will-o’-wisp Small Aberration (Air) | 
+|  | Will-o’-wisp - Small (Aberration [Air]) | 
 | ----| ---- | 
 | Hit Dice:            |9d8 (40) |
 | Initiative:          |13 |

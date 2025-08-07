@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Erinyes
 
-| ![[erinyes.png \|100]] | Erinyes Medium Outsider (Evil Extraplanar Lawful) | 
+| ![[erinyes.png \|100]] | Erinyes - Medium (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |9d8+45 (85) |
 | Initiative:          |5 |

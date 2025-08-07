@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Weasel
 
-|  | Dire Weasel Medium Animal | 
+|  | Dire Weasel - Medium (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |4 |

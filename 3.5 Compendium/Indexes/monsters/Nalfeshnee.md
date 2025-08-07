@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Nalfeshnee
 
-| ![[nalfeshnee.png \|100]] | Nalfeshnee Huge Outsider (Chaotic Extraplanar Evil) | 
+| ![[nalfeshnee.png \|100]] | Nalfeshnee - Huge (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |14d8+112 (175) |
 | Initiative:          |1 |

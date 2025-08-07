@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Extraplanar
  - Water
+ - Tojanida
 cr: 9
 environment: Elemental Plane of Water
 alignment: Always neutral
@@ -20,7 +21,7 @@ alignment: Always neutral
 
 # Elder Tojanida
 
-|  | Elder Tojanida Large Outsider (Extraplanar Water) | 
+|  | Elder Tojanida - Large (Outsider [Extraplanar, Water, Tojanida]) | 
 | ----| ---- | 
 | Hit Dice:            |15d8+60 (127) |
 | Initiative:          |1 |

@@ -20,7 +20,7 @@ alignment: Usually chaotic evil
 
 # Gargoyle
 
-| ![[gargoyle.png \|100]] | Gargoyle Medium Monstrous (Humanoid Earth) | 
+| ![[gargoyle.png \|100]] | Gargoyle - Medium (Monstrous [Humanoid, Earth]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+19 (37) |
 | Initiative:          |2 |

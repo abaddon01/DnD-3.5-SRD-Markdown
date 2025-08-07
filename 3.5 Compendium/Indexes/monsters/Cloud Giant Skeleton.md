@@ -10,6 +10,8 @@ tags:
  - Cloud_Giant_Skeleton
  - CRNone
 type: Undead
+subtypes: 
+ - Skeleton
 cr: None
 environment: Any
 alignment: —
@@ -17,7 +19,7 @@ alignment: —
 
 # Cloud Giant Skeleton
 
-|  | Cloud Giant Skeleton Huge Undead | 
+|  | Cloud Giant Skeleton - Huge (Undead [Skeleton]) | 
 | ----| ---- | 
 | Hit Dice:            |17d12 (110) |
 | Initiative:          |6 |

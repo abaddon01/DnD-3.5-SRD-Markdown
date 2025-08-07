@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Mimic
 
-| ![[mimic.png \|100]] | Mimic Large Aberration (Shapechanger) | 
+| ![[mimic.png \|100]] | Mimic - Large (Aberration [Shapechanger]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+21 (52) |
 | Initiative:          |1 |

@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Krenshar
 
-|  | Krenshar Medium Magical (Beast) | 
+|  | Krenshar - Medium (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |2d10 (11) |
 | Initiative:          |2 |

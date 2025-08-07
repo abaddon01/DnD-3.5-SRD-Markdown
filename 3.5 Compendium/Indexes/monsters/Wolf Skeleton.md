@@ -10,6 +10,8 @@ tags:
  - Wolf_Skeleton
  - CR1
 type: Undead
+subtypes: 
+ - Skeleton
 cr: 1
 environment: Temperate forests
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Wolf Skeleton
 
-|  | Wolf Skeleton Medium Undead | 
+|  | Wolf Skeleton - Medium (Undead [Skeleton]) | 
 | ----| ---- | 
 | Hit Dice:            |2d12 (13) |
 | Initiative:          |7 |

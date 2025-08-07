@@ -17,7 +17,7 @@ alignment:
 
 # Very old Black Dragon
 
-|  | Very old Black Dragon Huge Black Dragon(Very old) | 
+|  | Very old Black Dragon - Huge (Black Dragon(Very old)) | 
 | ----| ---- | 
 | Hit Dice:            |28d12+168 (350) |
 | Initiative:          |0 |

@@ -17,7 +17,7 @@ alignment:
 
 # Wyrm Blue Dragon
 
-|  | Wyrm Blue Dragon Gargantuan Blue Dragon(Wyrm) | 
+|  | Wyrm Blue Dragon - Gargantuan (Blue Dragon(Wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |36d12+288 (522) |
 | Initiative:          |0 |

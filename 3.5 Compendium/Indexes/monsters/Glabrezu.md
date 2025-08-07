@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Glabrezu
 
-| ![[glabrezu.png \|100]] | Glabrezu Huge Outsider (Chaotic Extraplanar Evil) | 
+| ![[glabrezu.png \|100]] | Glabrezu - Huge (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+120 (174) |
 | Initiative:          |0 |

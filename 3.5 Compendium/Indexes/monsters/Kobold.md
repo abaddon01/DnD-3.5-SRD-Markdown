@@ -22,7 +22,7 @@ alignment: Usually lawful evil
 
 # Kobold
 
-| ![[kobold.png \|100]] | Kobold Kobold 1st-Level (Warrior Small Humanoid Reptilian) | 
+| ![[kobold.png \|100]] | Kobold - Kobold (1st-Level [Warrior, Small, Humanoid, Reptilian]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8 (4) |
 | Initiative:          |1 |

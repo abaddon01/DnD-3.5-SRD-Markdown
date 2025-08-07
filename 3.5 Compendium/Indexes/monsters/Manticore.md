@@ -19,7 +19,7 @@ alignment: Usually lawful evil
 
 # Manticore
 
-| ![[manticore.png \|100]] | Manticore Large Magical (Beast) | 
+| ![[manticore.png \|100]] | Manticore - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |6d10+24 (57) |
 | Initiative:          |2 |

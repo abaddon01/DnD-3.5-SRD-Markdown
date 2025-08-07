@@ -17,7 +17,7 @@ alignment:
 
 # Great wyrm Bronze Dragon
 
-|  | Great wyrm Bronze Dragon Gargantuan Bronze Dragon(Great wyrm) | 
+|  | Great wyrm Bronze Dragon - Gargantuan (Bronze Dragon(Great wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |39d12+312 (565) |
 | Initiative:          |0 |

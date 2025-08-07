@@ -10,6 +10,8 @@ tags:
  - Chimera_Skeleton
  - CR4
 type: Undead
+subtypes: 
+ - Skeleton
 cr: 4
 environment: Temperate hills
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Chimera Skeleton
 
-|  | Chimera Skeleton Large Undead | 
+|  | Chimera Skeleton - Large (Undead [Skeleton]) | 
 | ----| ---- | 
 | Hit Dice:            |9d12 (58) |
 | Initiative:          |6 |

@@ -10,6 +10,8 @@ tags:
  - Kobold_Zombie
  - CR0.5
 type: Undead
+subtypes: 
+ - Zombie
 cr: 0.5
 environment: Temperate forests
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Kobold Zombie
 
-|  | Kobold Zombie Small Undead | 
+|  | Kobold Zombie - Small (Undead [Zombie]) | 
 | ----| ---- | 
 | Hit Dice:            |2d12+3 (16) |
 | Initiative:          |0 |

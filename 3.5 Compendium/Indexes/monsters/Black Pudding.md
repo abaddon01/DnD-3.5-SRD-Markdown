@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Black Pudding
 
-| ![[black-pudding.png \|100]] | Black Pudding Huge Ooze | 
+| ![[black-pudding.png \|100]] | Black Pudding - Huge (Ooze) | 
 | ----| ---- | 
 | Hit Dice:            |10d10+60 (115) |
 | Initiative:          |-5 |

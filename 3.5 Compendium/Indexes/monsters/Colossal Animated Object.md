@@ -10,6 +10,8 @@ tags:
  - Colossal_Animated_Object
  - CR10
 type: Construct
+subtypes: 
+ - Animated Object
 cr: 10
 environment: Any
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Colossal Animated Object
 
-|  | Colossal Animated Object Colossal Construct | 
+|  | Colossal Animated Object - Colossal (Construct [Animated Object]) | 
 | ----| ---- | 
 | Hit Dice:            |32d10+80 (256) |
 | Initiative:          |-3 |

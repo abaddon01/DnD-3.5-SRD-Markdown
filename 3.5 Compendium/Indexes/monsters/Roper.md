@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Roper
 
-| ![[roper.png \|100]] | Roper Large Magical (Beast) | 
+| ![[roper.png \|100]] | Roper - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |10d10+30 (85) |
 | Initiative:          |5 |

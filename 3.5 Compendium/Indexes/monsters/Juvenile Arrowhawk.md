@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Air
  - Extraplanar
+ - Arrowhawk
 cr: 3
 environment: Elemental Plane of Air
 alignment: Always neutral
@@ -20,7 +21,7 @@ alignment: Always neutral
 
 # Juvenile Arrowhawk
 
-|  | Juvenile Arrowhawk Small Outsider (Air Extraplanar) | 
+|  | Juvenile Arrowhawk - Small (Outsider [Air, Extraplanar, Arrowhawk]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+3 (16) |
 | Initiative:          |5 |

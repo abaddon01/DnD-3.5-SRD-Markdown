@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Hippogriff
 
-| ![[hippogriff.png \|100]] | Hippogriff Large Magical (Beast) | 
+| ![[hippogriff.png \|100]] | Hippogriff - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |3d10+9 (25) |
 | Initiative:          |2 |

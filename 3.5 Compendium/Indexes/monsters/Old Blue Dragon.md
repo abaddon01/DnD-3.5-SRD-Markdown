@@ -17,7 +17,7 @@ alignment:
 
 # Old Blue Dragon
 
-|  | Old Blue Dragon Huge Blue Dragon(Old) | 
+|  | Old Blue Dragon - Huge (Blue Dragon(Old)) | 
 | ----| ---- | 
 | Hit Dice:            |27d12+162 (337) |
 | Initiative:          |0 |

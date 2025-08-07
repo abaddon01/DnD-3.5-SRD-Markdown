@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Annis
 
-|  | Annis Large Monstrous (Humanoid) | 
+|  | Annis - Large (Monstrous [Humanoid]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+14 (45) |
 | Initiative:          |1 |

@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Bear
 
-|  | Dire Bear Large Animal | 
+|  | Dire Bear - Large (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+51 (105) |
 | Initiative:          |1 |

@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Lamia
 
-| ![[lamia.png \|100]] | Lamia Large Magical (Beast) | 
+| ![[lamia.png \|100]] | Lamia - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |9d10+9 (58) |
 | Initiative:          |2 |

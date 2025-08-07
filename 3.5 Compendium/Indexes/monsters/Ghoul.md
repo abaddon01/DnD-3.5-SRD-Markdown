@@ -17,7 +17,7 @@ alignment: Always chaotic evil
 
 # Ghoul
 
-| ![[ghoul.png \|100]] | Ghoul Medium Undead | 
+| ![[ghoul.png \|100]] | Ghoul - Medium (Undead) | 
 | ----| ---- | 
 | Hit Dice:            |2d12 (13) |
 | Initiative:          |2 |

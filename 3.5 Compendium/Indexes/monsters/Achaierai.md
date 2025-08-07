@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Achaierai
 
-|  | Achaierai Large Outsider (Evil Extraplanar Lawful) | 
+|  | Achaierai - Large (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+12 (39) |
 | Initiative:          |1 |

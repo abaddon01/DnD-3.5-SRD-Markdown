@@ -22,7 +22,7 @@ alignment: Usually lawful evil
 
 # Hobgoblin
 
-| ![[hobgoblin.png \|100]] | Hobgoblin Hobgoblin 1st-Level (Warrior Medium Humanoid Goblinoid) | 
+| ![[hobgoblin.png \|100]] | Hobgoblin - Hobgoblin (1st-Level [Warrior, Medium, Humanoid, Goblinoid]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+2 (6) |
 | Initiative:          |1 |

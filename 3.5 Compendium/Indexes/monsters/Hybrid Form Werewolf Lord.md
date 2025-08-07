@@ -13,6 +13,7 @@ type: Humanoid
 subtypes: 
  - Human
  - Shapechanger
+ - Werewolf
 cr: 14
 environment: Temperate forests
 alignment: Always chaotic evil
@@ -20,7 +21,7 @@ alignment: Always chaotic evil
 
 # Hybrid Form Werewolf Lord
 
-|  | Hybrid Form Werewolf Lord Large Humanoid (Human Shapechanger) | 
+|  | Hybrid Form Werewolf Lord - Large (Humanoid [Human, Shapechanger, Werewolf]) | 
 | ----| ---- | 
 | Hit Dice:            |10d10+20 plus 6d8+30 (132) |
 | Initiative:          |4 |

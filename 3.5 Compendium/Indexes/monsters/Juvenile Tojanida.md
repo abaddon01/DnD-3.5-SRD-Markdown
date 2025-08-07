@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Extraplanar
  - Water
+ - Tojanida
 cr: 3
 environment: Elemental Plane of Water
 alignment: Always neutral
@@ -20,7 +21,7 @@ alignment: Always neutral
 
 # Juvenile Tojanida
 
-|  | Juvenile Tojanida Small Outsider (Extraplanar Water) | 
+|  | Juvenile Tojanida - Small (Outsider [Extraplanar, Water, Tojanida]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+6 (19) |
 | Initiative:          |1 |

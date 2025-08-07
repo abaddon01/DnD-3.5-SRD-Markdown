@@ -10,6 +10,8 @@ tags:
  - Human_Commoner_Zombie
  - CR0.5
 type: Undead
+subtypes: 
+ - Zombie
 cr: 0.5
 environment: Any
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Human Commoner Zombie
 
-|  | Human Commoner Zombie Medium Undead | 
+|  | Human Commoner Zombie - Medium (Undead [Zombie]) | 
 | ----| ---- | 
 | Hit Dice:            |2d12+3 (16) |
 | Initiative:          |-1 |

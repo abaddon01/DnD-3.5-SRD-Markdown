@@ -17,7 +17,7 @@ alignment: Usually chaotic good
 
 # Dryad
 
-| ![[dryad.png \|100]] | Dryad Medium Fey | 
+| ![[dryad.png \|100]] | Dryad - Medium (Fey) | 
 | ----| ---- | 
 | Hit Dice:            |4d6 (14) |
 | Initiative:          |4 |

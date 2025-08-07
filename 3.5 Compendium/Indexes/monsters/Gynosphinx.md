@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Gynosphinx
 
-| ![[gynosphinx.png \|100]] | Gynosphinx Large Magical (Beast) | 
+| ![[gynosphinx.png \|100]] | Gynosphinx - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |8d10+8 (52) |
 | Initiative:          |5 |

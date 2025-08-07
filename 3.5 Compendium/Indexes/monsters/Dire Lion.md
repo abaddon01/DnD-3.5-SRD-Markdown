@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Lion
 
-|  | Dire Lion Large Animal | 
+|  | Dire Lion - Large (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+24 (60) |
 | Initiative:          |2 |

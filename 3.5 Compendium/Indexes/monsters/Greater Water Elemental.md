@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Water
  - Extraplanar
+ - Water Elemental
 cr: 9
 environment: Elemental Plane of Water
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Greater Water Elemental
 
-|  | Greater Water Elemental Huge Elemental (Water Extraplanar) | 
+|  | Greater Water Elemental - Huge (Elemental [Water, Extraplanar, Water Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |21d8+105 (199) |
 | Initiative:          |5 |

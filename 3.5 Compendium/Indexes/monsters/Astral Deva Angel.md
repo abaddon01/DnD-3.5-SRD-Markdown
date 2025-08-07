@@ -21,7 +21,7 @@ alignment: Always good (any)
 
 # Astral Deva Angel
 
-|  | Astral Deva Angel Medium Outsider (Angel Extraplanar Good) | 
+|  | Astral Deva Angel - Medium (Outsider [Angel, Extraplanar, Good]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+48 (102) |
 | Initiative:          |8 |

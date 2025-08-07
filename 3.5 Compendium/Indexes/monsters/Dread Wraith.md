@@ -12,6 +12,7 @@ tags:
 type: Undead
 subtypes: 
  - Incorporeal
+ - Wraith
 cr: 11
 environment: Any
 alignment: Always lawful evil
@@ -19,7 +20,7 @@ alignment: Always lawful evil
 
 # Dread Wraith
 
-|  | Dread Wraith Large Undead (Incorporeal) | 
+|  | Dread Wraith - Large (Undead [Incorporeal, Wraith]) | 
 | ----| ---- | 
 | Hit Dice:            |16d12 (104) |
 | Initiative:          |13 |

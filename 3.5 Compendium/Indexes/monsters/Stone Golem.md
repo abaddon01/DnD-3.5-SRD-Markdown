@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Stone Golem
 
-| ![[stone-golem.png \|100]] | Stone Golem Large Construct | 
+| ![[stone-golem.png \|100]] | Stone Golem - Large (Construct) | 
 | ----| ---- | 
 | Hit Dice:            |14d10+30 (107) |
 | Initiative:          |-1 |

@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Howler
 
-|  | Howler Large Outsider (Chaotic Evil Extraplanar) | 
+|  | Howler - Large (Outsider [Chaotic, Evil, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+12 (39) |
 | Initiative:          |7 |

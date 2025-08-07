@@ -10,6 +10,8 @@ tags:
  - Wyvern_Zombie
  - CR4
 type: Undead
+subtypes: 
+ - Zombie
 cr: 4
 environment: Warm hills
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Wyvern Zombie
 
-|  | Wyvern Zombie Large Undead | 
+|  | Wyvern Zombie - Large (Undead [Zombie]) | 
 | ----| ---- | 
 | Hit Dice:            |14d12+3 (94) |
 | Initiative:          |0 |

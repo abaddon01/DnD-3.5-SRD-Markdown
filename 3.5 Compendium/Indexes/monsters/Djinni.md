@@ -20,7 +20,7 @@ alignment: Always chaotic good
 
 # Djinni
 
-| ![[djinni.png \|100]] | Djinni Large Outsider (Air Extraplanar) | 
+| ![[djinni.png \|100]] | Djinni - Large (Outsider [Air, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+14 (45) |
 | Initiative:          |8 |

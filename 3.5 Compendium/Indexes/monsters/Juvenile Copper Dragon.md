@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile Copper Dragon
 
-|  | Juvenile Copper Dragon Medium Copper Dragon(Juvenile) | 
+|  | Juvenile Copper Dragon - Medium (Copper Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |14d12+28 (119) |
 | Initiative:          |0 |

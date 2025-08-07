@@ -17,7 +17,7 @@ alignment: Usually neutral
 
 # Ethereal Filcher
 
-|  | Ethereal Filcher Medium Aberration | 
+|  | Ethereal Filcher - Medium (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |5d8 (22) |
 | Initiative:          |8 |

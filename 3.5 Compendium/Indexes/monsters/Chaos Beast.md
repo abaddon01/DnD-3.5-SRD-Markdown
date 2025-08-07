@@ -20,7 +20,7 @@ alignment: Always chaotic neutral
 
 # Chaos Beast
 
-|  | Chaos Beast Medium Outsider (Chaotic Extraplanar) | 
+|  | Chaos Beast - Medium (Outsider [Chaotic, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+8 (44) |
 | Initiative:          |5 |

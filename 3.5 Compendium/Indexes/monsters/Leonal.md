@@ -20,7 +20,7 @@ alignment: Always neutral good
 
 # Leonal
 
-|  | Leonal Medium Outsider (Extraplanar Good) | 
+|  | Leonal - Medium (Outsider [Extraplanar, Good]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+60 (114) |
 | Initiative:          |3 |

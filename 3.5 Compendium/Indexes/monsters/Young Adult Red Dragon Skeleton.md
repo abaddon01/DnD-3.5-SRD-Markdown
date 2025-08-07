@@ -12,6 +12,7 @@ tags:
 type: Undead
 subtypes: 
  - Fire
+ - Skeleton
 cr: None
 environment: Any
 alignment: 20 HD (Huge)
@@ -19,7 +20,7 @@ alignment: 20 HD (Huge)
 
 # Young Adult Red Dragon Skeleton
 
-|  | Young Adult Red Dragon Skeleton Huge Undead (Fire) | 
+|  | Young Adult Red Dragon Skeleton - Huge (Undead [Fire, Skeleton]) | 
 | ----| ---- | 
 | Hit Dice:            |19d12 (123) |
 | Initiative:          |5 |

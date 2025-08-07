@@ -10,6 +10,8 @@ tags:
  - Owlbear_Skeleton
  - CR2
 type: Undead
+subtypes: 
+ - Skeleton
 cr: 2
 environment: Temperate forests
 alignment: Always neutral evil
@@ -17,7 +19,7 @@ alignment: Always neutral evil
 
 # Owlbear Skeleton
 
-|  | Owlbear Skeleton Large Undead | 
+|  | Owlbear Skeleton - Large (Undead [Skeleton]) | 
 | ----| ---- | 
 | Hit Dice:            |5d12 (32) |
 | Initiative:          |6 |

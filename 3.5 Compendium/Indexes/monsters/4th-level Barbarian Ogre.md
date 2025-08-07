@@ -14,6 +14,7 @@ subtypes:
  - Barbarian
  - Large
  - Giant
+ - Ogre
 cr: 7
 environment: Temperate hills
 alignment: Usually chaotic evil
@@ -21,7 +22,7 @@ alignment: Usually chaotic evil
 
 # 4th-level Barbarian Ogre
 
-|  | 4th-level Barbarian Ogre Ogre 4th-Level (Barbarian Large Giant) | 
+|  | 4th-level Barbarian Ogre - Ogre (4th-Level [Barbarian, Large, Giant, Ogre]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+19 plus 4d12+16 (79) |
 | Initiative:          |0 |

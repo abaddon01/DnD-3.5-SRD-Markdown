@@ -13,6 +13,7 @@ type: Humanoid
 subtypes: 
  - Human
  - Shapechanger
+ - Wereboar
 cr: 4
 environment: Temperate forests
 alignment: Always neutral
@@ -20,7 +21,7 @@ alignment: Always neutral
 
 # Hybrid Form Wereboar
 
-|  | Hybrid Form Wereboar Medium Humanoid (Human Shapechanger) | 
+|  | Hybrid Form Wereboar - Medium (Humanoid [Human, Shapechanger, Wereboar]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+4 plus 3d8+12 (34) |
 | Initiative:          |0 |

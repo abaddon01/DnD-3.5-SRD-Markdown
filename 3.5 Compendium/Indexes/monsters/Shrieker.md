@@ -10,6 +10,8 @@ tags:
  - Shrieker
  - CR1
 type: Plant
+subtypes: 
+ - Fungus
 cr: 1
 environment: Underground
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Shrieker
 
-| ![[shrieker.png \|100]] | Shrieker Medium Plant | 
+| ![[shrieker.png \|100]] | Shrieker - Medium (Plant [Fungus]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+2 (11) |
 | Initiative:          |-5 |

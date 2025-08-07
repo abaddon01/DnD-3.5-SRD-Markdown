@@ -17,7 +17,7 @@ alignment:
 
 # Ancient White Dragon
 
-| ![[ancient-white-dragon.png \|100]] | Ancient White Dragon Huge White Dragon(Ancient) | 
+| ![[ancient-white-dragon.png \|100]] | Ancient White Dragon - Huge (White Dragon(Ancient)) | 
 | ----| ---- | 
 | Hit Dice:            |30d12+180 (375) |
 | Initiative:          |0 |

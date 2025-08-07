@@ -17,7 +17,7 @@ alignment:
 
 # Great wyrm Red Dragon
 
-|  | Great wyrm Red Dragon Colossal Red Dragon(Great wyrm) | 
+|  | Great wyrm Red Dragon - Colossal (Red Dragon(Great wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |40d12+400 (660) |
 | Initiative:          |0 |

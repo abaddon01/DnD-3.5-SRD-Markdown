@@ -17,7 +17,7 @@ alignment: Often chaotic evil
 
 # Hill Giant
 
-| ![[hill-giant.png \|100]] | Hill Giant Large Giant | 
+| ![[hill-giant.png \|100]] | Hill Giant - Large (Giant) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+48 (102) |
 | Initiative:          |-1 |

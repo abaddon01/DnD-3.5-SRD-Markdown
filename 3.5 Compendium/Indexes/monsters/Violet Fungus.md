@@ -10,6 +10,8 @@ tags:
  - Violet_Fungus
  - CR3
 type: Plant
+subtypes: 
+ - Fungus
 cr: 3
 environment: Underground
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Violet Fungus
 
-| ![[violet-fungus.png \|100]] | Violet Fungus Medium Plant | 
+| ![[violet-fungus.png \|100]] | Violet Fungus - Medium (Plant [Fungus]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+6 (15) |
 | Initiative:          |-1 |

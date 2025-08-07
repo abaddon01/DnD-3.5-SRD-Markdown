@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Rat
 
-|  | Dire Rat Small Animal | 
+|  | Dire Rat - Small (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 (5) |
 | Initiative:          |3 |

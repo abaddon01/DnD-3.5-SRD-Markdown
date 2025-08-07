@@ -19,7 +19,7 @@ alignment: Always chaotic evil
 
 # Nightcrawler
 
-|  | Nightcrawler Gargantuan Undead (Extraplanar) | 
+|  | Nightcrawler - Gargantuan (Undead [Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |25d12+50 (212) |
 | Initiative:          |4 |

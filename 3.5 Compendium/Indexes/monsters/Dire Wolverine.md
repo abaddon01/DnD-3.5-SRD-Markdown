@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Dire Wolverine
 
-|  | Dire Wolverine Large Animal | 
+|  | Dire Wolverine - Large (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |5d8+23 (45) |
 | Initiative:          |3 |

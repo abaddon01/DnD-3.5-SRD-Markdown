@@ -19,7 +19,7 @@ alignment: Always neutral evil
 
 # Shadow Mastiff
 
-|  | Shadow Mastiff Medium Outsider (Extraplanar) | 
+|  | Shadow Mastiff - Medium (Outsider [Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+12 (30) |
 | Initiative:          |5 |

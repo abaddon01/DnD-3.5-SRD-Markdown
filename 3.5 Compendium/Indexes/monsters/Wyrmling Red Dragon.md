@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling Red Dragon
 
-|  | Wyrmling Red Dragon Medium Red Dragon(Wyrmling) | 
+|  | Wyrmling Red Dragon - Medium (Red Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |7d12+14 (59) |
 | Initiative:          |0 |

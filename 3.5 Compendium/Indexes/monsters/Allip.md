@@ -19,7 +19,7 @@ alignment: Always neutral evil
 
 # Allip
 
-|  | Allip Medium Undead (Incorporeal) | 
+|  | Allip - Medium (Undead [Incorporeal]) | 
 | ----| ---- | 
 | Hit Dice:            |4d12 (26) |
 | Initiative:          |5 |

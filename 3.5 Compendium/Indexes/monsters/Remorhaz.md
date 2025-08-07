@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Remorhaz
 
-| ![[remorhaz.png \|100]] | Remorhaz Huge Magical (Beast) | 
+| ![[remorhaz.png \|100]] | Remorhaz - Huge (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |7d10+35 (73) |
 | Initiative:          |1 |

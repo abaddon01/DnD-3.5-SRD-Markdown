@@ -19,7 +19,7 @@ alignment: Usually neutral good
 
 # Giant Eagle
 
-| ![[giant-eagle.png \|100]] | Giant Eagle Large Magical (Beast) | 
+| ![[giant-eagle.png \|100]] | Giant Eagle - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |4d10+4 (26) |
 | Initiative:          |3 |

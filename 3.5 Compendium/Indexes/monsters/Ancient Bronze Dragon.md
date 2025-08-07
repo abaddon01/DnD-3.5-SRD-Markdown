@@ -17,7 +17,7 @@ alignment:
 
 # Ancient Bronze Dragon
 
-| ![[ancient-bronze-dragon.png \|100]] | Ancient Bronze Dragon Gargantuan Bronze Dragon(Ancient) | 
+| ![[ancient-bronze-dragon.png \|100]] | Ancient Bronze Dragon - Gargantuan (Bronze Dragon(Ancient)) | 
 | ----| ---- | 
 | Hit Dice:            |33d12+231 (445) |
 | Initiative:          |0 |

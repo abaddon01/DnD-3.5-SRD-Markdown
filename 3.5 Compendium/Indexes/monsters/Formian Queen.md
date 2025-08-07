@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Lawful
  - Extraplanar
+ - Formian
 cr: 17
 environment: A lawful-aligned plane
 alignment: Always lawful neutral
@@ -20,7 +21,7 @@ alignment: Always lawful neutral
 
 # Formian Queen
 
-|  | Formian Queen Large Outsider (Lawful Extraplanar) | 
+|  | Formian Queen - Large (Outsider [Lawful, Extraplanar, Formian]) | 
 | ----| ---- | 
 | Hit Dice:            |20d8+100 (190) |
 | Initiative:          |-5 |

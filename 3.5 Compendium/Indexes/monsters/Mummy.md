@@ -17,7 +17,7 @@ alignment: Usually lawful evil
 
 # Mummy
 
-| ![[mummy.png \|100]] | Mummy Medium Undead | 
+| ![[mummy.png \|100]] | Mummy - Medium (Undead) | 
 | ----| ---- | 
 | Hit Dice:            |8d12+3 (55) |
 | Initiative:          |0 |

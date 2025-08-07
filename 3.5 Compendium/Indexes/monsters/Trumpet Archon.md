@@ -22,7 +22,7 @@ alignment: Always lawful good
 
 # Trumpet Archon
 
-|  | Trumpet Archon Medium Outsider (Archon Extraplanar Good Lawful) | 
+|  | Trumpet Archon - Medium (Outsider [Archon, Extraplanar, Good, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+72 (126) |
 | Initiative:          |7 |

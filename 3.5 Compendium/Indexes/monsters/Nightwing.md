@@ -19,7 +19,7 @@ alignment: Always chaotic evil
 
 # Nightwing
 
-|  | Nightwing Huge Undead (Extraplanar) | 
+|  | Nightwing - Huge (Undead [Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |17d12+34 (144) |
 | Initiative:          |8 |

@@ -17,7 +17,7 @@ alignment: Usually chaotic evil
 
 # Spirit Naga
 
-| ![[spirit-naga.png \|100]] | Spirit Naga Large Aberration | 
+| ![[spirit-naga.png \|100]] | Spirit Naga - Large (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |9d8+36 (76) |
 | Initiative:          |1 |

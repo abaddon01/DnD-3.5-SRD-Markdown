@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Earth
  - Extraplanar
+ - Earth Elemental
 cr: 3
 environment: Elemental Plane of Earth
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Medium Earth Elemental
 
-|  | Medium Earth Elemental Medium Elemental (Earth Extraplanar) | 
+|  | Medium Earth Elemental - Medium (Elemental [Earth, Extraplanar, Earth Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+12 (30) |
 | Initiative:          |-1 |

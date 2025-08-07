@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Lemure
 
-| ![[lemure.png \|100]] | Lemure Medium Outsider (Evil Extraplanar Lawful) | 
+| ![[lemure.png \|100]] | Lemure - Medium (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8 (9) |
 | Initiative:          |0 |

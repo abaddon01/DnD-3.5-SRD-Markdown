@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Barbed Devil (hamatula)
 
-|  | Barbed Devil (hamatula) Medium Outsider (Evil Extraplanar Lawful) | 
+|  | Barbed Devil (hamatula) - Medium (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+72 (126) |
 | Initiative:          |6 |

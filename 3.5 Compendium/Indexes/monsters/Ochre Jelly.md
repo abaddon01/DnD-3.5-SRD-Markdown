@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Ochre Jelly
 
-| ![[ochre-jelly.png \|100]] | Ochre Jelly Large Ooze | 
+| ![[ochre-jelly.png \|100]] | Ochre Jelly - Large (Ooze) | 
 | ----| ---- | 
 | Hit Dice:            |6d10+36 (69) |
 | Initiative:          |-5 |

@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Lizardfolk
 
-| ![[lizardfolk.png \|100]] | Lizardfolk Medium Humanoid (Reptilian) | 
+| ![[lizardfolk.png \|100]] | Lizardfolk - Medium (Humanoid [Reptilian]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+2 (11) |
 | Initiative:          |0 |

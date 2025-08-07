@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Gelatinous Cube
 
-| ![[gelatinous-cube.png \|100]] | Gelatinous Cube Large Ooze | 
+| ![[gelatinous-cube.png \|100]] | Gelatinous Cube - Large (Ooze) | 
 | ----| ---- | 
 | Hit Dice:            |4d10+32 (54) |
 | Initiative:          |-5 |

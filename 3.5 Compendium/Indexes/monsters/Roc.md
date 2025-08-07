@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Roc
 
-| ![[roc.png \|100]] | Roc Gargantuan Animal | 
+| ![[roc.png \|100]] | Roc - Gargantuan (Animal) | 
 | ----| ---- | 
 | Hit Dice:            |18d8+126 (207) |
 | Initiative:          |2 |

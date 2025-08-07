@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Imp
 
-| ![[imp.png \|100]] | Imp Tiny Outsider (Evil Extraplanar Lawful) | 
+| ![[imp.png \|100]] | Imp - Tiny (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |3 |

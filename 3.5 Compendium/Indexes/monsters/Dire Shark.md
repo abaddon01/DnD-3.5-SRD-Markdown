@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Dire Shark
 
-|  | Dire Shark Huge Animal (Aquatic) | 
+|  | Dire Shark - Huge (Animal [Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |18d8+66 (147) |
 | Initiative:          |2 |

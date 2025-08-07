@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile Brass Dragon
 
-|  | Juvenile Brass Dragon Medium Brass Dragon(Juvenile) | 
+|  | Juvenile Brass Dragon - Medium (Brass Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |13d12+26 (110) |
 | Initiative:          |0 |

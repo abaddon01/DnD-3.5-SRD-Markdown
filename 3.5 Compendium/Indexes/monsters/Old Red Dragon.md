@@ -17,7 +17,7 @@ alignment:
 
 # Old Red Dragon
 
-|  | Old Red Dragon Gargantuan Red Dragon(Old) | 
+|  | Old Red Dragon - Gargantuan (Red Dragon(Old)) | 
 | ----| ---- | 
 | Hit Dice:            |28d12+196 (378) |
 | Initiative:          |0 |

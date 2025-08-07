@@ -10,6 +10,8 @@ tags:
  - Huge_Animated_Object
  - CR5
 type: Construct
+subtypes: 
+ - Animated Object
 cr: 5
 environment: Any
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Huge Animated Object
 
-|  | Huge Animated Object Huge Construct | 
+|  | Huge Animated Object - Huge (Construct [Animated Object]) | 
 | ----| ---- | 
 | Hit Dice:            |8d10+40 (84) |
 | Initiative:          |-1 |

@@ -17,7 +17,7 @@ alignment:
 
 # Mature adult Brass Dragon
 
-|  | Mature adult Brass Dragon Huge Brass Dragon(Mature adult) | 
+|  | Mature adult Brass Dragon - Huge (Brass Dragon(Mature adult)) | 
 | ----| ---- | 
 | Hit Dice:            |22d12+110 (253) |
 | Initiative:          |0 |

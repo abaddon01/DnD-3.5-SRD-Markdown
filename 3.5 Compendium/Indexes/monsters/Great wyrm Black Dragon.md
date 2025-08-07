@@ -17,7 +17,7 @@ alignment:
 
 # Great wyrm Black Dragon
 
-|  | Great wyrm Black Dragon Gargantuan Black Dragon(Great wyrm) | 
+|  | Great wyrm Black Dragon - Gargantuan (Black Dragon(Great wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |37d12+296 (536) |
 | Initiative:          |0 |

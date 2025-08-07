@@ -20,7 +20,7 @@ alignment: Always neutral evil
 
 # Vargouille
 
-|  | Vargouille Small Outsider (Evil Extraplanar) | 
+|  | Vargouille - Small (Outsider [Evil, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 (5) |
 | Initiative:          |1 |

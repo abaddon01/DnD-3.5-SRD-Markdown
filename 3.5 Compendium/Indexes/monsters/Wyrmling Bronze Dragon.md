@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling Bronze Dragon
 
-|  | Wyrmling Bronze Dragon Small Bronze Dragon(Wyrmling) | 
+|  | Wyrmling Bronze Dragon - Small (Bronze Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |6d12+6 (45) |
 | Initiative:          |0 |

@@ -17,7 +17,7 @@ alignment:
 
 # Mature adult Bronze Dragon
 
-|  | Mature adult Bronze Dragon Huge Bronze Dragon(Mature adult) | 
+|  | Mature adult Bronze Dragon - Huge (Bronze Dragon(Mature adult)) | 
 | ----| ---- | 
 | Hit Dice:            |24d12+120 (276) |
 | Initiative:          |0 |

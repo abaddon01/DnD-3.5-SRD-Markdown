@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Extraplanar
  - Earth
+ - Xorn
 cr: 6
 environment: Elemental Plane of Earth
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Average Xorn
 
-|  | Average Xorn Medium Outsider (Extraplanar Earth) | 
+|  | Average Xorn - Medium (Outsider [Extraplanar, Earth, Xorn]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+17 (48) |
 | Initiative:          |0 |

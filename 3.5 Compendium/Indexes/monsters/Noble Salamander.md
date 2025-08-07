@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Extraplanar
  - Fire
+ - Salamander
 cr: 10
 environment: Elemental Plane of Fire
 alignment: Usually evil (any)
@@ -20,7 +21,7 @@ alignment: Usually evil (any)
 
 # Noble Salamander
 
-|  | Noble Salamander Large Outsider (Extraplanar Fire) | 
+|  | Noble Salamander - Large (Outsider [Extraplanar, Fire, Salamander]) | 
 | ----| ---- | 
 | Hit Dice:            |15d8+45 (112) |
 | Initiative:          |1 |

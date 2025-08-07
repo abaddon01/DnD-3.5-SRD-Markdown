@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Gorgon
 
-| ![[gorgon.png \|100]] | Gorgon Large Magical (Beast) | 
+| ![[gorgon.png \|100]] | Gorgon - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |8d10+40 (85) |
 | Initiative:          |4 |

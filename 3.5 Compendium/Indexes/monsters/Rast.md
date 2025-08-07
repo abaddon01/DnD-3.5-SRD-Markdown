@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Rast
 
-|  | Rast Medium Outsider (Extraplanar Fire) | 
+|  | Rast - Medium (Outsider [Extraplanar, Fire]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+7 (25) |
 | Initiative:          |5 |

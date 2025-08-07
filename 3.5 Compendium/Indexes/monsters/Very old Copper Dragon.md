@@ -17,7 +17,7 @@ alignment:
 
 # Very old Copper Dragon
 
-|  | Very old Copper Dragon Huge Copper Dragon(Very old) | 
+|  | Very old Copper Dragon - Huge (Copper Dragon(Very old)) | 
 | ----| ---- | 
 | Hit Dice:            |29d12+174 (362) |
 | Initiative:          |0 |

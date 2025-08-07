@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Extraplanar
  - Earth
+ - Xorn
 cr: 3
 environment: Elemental Plane of Earth
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Minor Xorn
 
-|  | Minor Xorn Small Outsider (Extraplanar Earth) | 
+|  | Minor Xorn - Small (Outsider [Extraplanar, Earth, Xorn]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+9 (22) |
 | Initiative:          |0 |

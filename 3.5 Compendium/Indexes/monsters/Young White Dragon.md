@@ -17,7 +17,7 @@ alignment:
 
 # Young White Dragon
 
-| ![[young-white-dragon.png \|100]] | Young White Dragon Medium White Dragon(Young) | 
+| ![[young-white-dragon.png \|100]] | Young White Dragon - Medium (White Dragon(Young)) | 
 | ----| ---- | 
 | Hit Dice:            |9d12+18 (76) |
 | Initiative:          |0 |

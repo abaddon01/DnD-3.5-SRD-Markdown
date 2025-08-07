@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Purple Worm
 
-| ![[purple-worm.png \|100]] | Purple Worm Gargantuan Magical (Beast) | 
+| ![[purple-worm.png \|100]] | Purple Worm - Gargantuan (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |16d10+112 (200) |
 | Initiative:          |-2 |

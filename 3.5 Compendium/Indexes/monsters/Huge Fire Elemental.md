@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Fire
  - Extraplanar
+ - Fire Elemental
 cr: 7
 environment: Elemental Plane of Fire
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Huge Fire Elemental
 
-|  | Huge Fire Elemental Huge Elemental (Fire Extraplanar) | 
+|  | Huge Fire Elemental - Huge (Elemental [Fire, Extraplanar, Fire Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |16d8+64 (136) |
 | Initiative:          |11 |

@@ -19,7 +19,7 @@ alignment: Always chaotic good
 
 # Androsphinx
 
-| ![[androsphinx.png \|100]] | Androsphinx Large Magical (Beast) | 
+| ![[androsphinx.png \|100]] | Androsphinx - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |12d10+48 (114) |
 | Initiative:          |0 |

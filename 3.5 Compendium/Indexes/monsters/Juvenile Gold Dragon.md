@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile Gold Dragon
 
-|  | Juvenile Gold Dragon Large Gold Dragon(Juvenile) | 
+|  | Juvenile Gold Dragon - Large (Gold Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |17d12+68 (178) |
 | Initiative:          |0 |

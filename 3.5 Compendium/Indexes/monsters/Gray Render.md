@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Gray Render
 
-|  | Gray Render Large Magical (Beast) | 
+|  | Gray Render - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |10d10+70 (125) |
 | Initiative:          |0 |

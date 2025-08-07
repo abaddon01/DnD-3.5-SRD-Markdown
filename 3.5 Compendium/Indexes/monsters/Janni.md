@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Janni
 
-|  | Janni Medium Outsider (Native) | 
+|  | Janni - Medium (Outsider [Native]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+6 (33) |
 | Initiative:          |6 |

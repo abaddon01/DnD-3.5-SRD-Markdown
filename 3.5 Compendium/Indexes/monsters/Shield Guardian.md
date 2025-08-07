@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Shield Guardian
 
-| ![[shield-guardian.png \|100]] | Shield Guardian Large Construct | 
+| ![[shield-guardian.png \|100]] | Shield Guardian - Large (Construct) | 
 | ----| ---- | 
 | Hit Dice:            |15d10+30 (112) |
 | Initiative:          |0 |

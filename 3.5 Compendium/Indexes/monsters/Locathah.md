@@ -19,7 +19,7 @@ alignment: Usually neutral
 
 # Locathah
 
-|  | Locathah Medium Humanoid (Aquatic) | 
+|  | Locathah - Medium (Humanoid [Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8 (9) |
 | Initiative:          |1 |

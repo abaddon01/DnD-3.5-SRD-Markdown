@@ -15,6 +15,7 @@ subtypes:
  - Extraplanar
  - Fire
  - Lawful
+ - Hell Hound
 cr: 9
 environment: A lawful evil plane
 alignment: Always lawful evil
@@ -22,7 +23,7 @@ alignment: Always lawful evil
 
 # Nessian Warhound
 
-|  | Nessian Warhound Large Outsider (Evil Extraplanar Fire Lawful) | 
+|  | Nessian Warhound - Large (Outsider [Evil, Extraplanar, Fire, Lawful, Hell Hound]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+60 (114) |
 | Initiative:          |6 |

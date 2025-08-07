@@ -17,7 +17,7 @@ alignment: Usually neutral
 
 # Delver
 
-|  | Delver Huge Aberration | 
+|  | Delver - Huge (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |15d8+78 (145) |
 | Initiative:          |5 |

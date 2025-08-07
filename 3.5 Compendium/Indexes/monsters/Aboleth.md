@@ -19,7 +19,7 @@ alignment: Usually lawful evil
 
 # Aboleth
 
-| ![[aboleth.png \|100]] | Aboleth Huge Aberration (Aquatic) | 
+| ![[aboleth.png \|100]] | Aboleth - Huge (Aberration [Aquatic]) | 
 | ----| ---- | 
 | Hit Dice:            |8d8+40 (76) |
 | Initiative:          |1 |

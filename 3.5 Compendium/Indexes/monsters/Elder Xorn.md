@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Extraplanar
  - Earth
+ - Xorn
 cr: 8
 environment: Elemental Plane of Earth
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Elder Xorn
 
-|  | Elder Xorn Large Outsider (Extraplanar Earth) | 
+|  | Elder Xorn - Large (Outsider [Extraplanar, Earth, Xorn]) | 
 | ----| ---- | 
 | Hit Dice:            |15d8+63 (130) |
 | Initiative:          |0 |

@@ -17,7 +17,7 @@ alignment:
 
 # Very young Bronze Dragon
 
-|  | Very young Bronze Dragon Medium Bronze Dragon(Very young) | 
+|  | Very young Bronze Dragon - Medium (Bronze Dragon(Very young)) | 
 | ----| ---- | 
 | Hit Dice:            |9d12+18 (76) |
 | Initiative:          |0 |

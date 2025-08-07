@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Locust Swarm
 
-|  | Locust Swarm Diminutive Vermin (Swarm) | 
+|  | Locust Swarm - Diminutive (Vermin [Swarm]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8-6 (21) |
 | Initiative:          |4 |

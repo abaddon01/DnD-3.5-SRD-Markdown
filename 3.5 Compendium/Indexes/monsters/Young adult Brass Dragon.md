@@ -17,7 +17,7 @@ alignment:
 
 # Young adult Brass Dragon
 
-|  | Young adult Brass Dragon Large Brass Dragon(Young adult) | 
+|  | Young adult Brass Dragon - Large (Brass Dragon(Young adult)) | 
 | ----| ---- | 
 | Hit Dice:            |16d12+48 (152) |
 | Initiative:          |0 |

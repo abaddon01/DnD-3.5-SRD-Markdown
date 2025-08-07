@@ -17,7 +17,7 @@ alignment:
 
 # Young adult Red Dragon
 
-|  | Young adult Red Dragon Huge Red Dragon(Young adult) | 
+|  | Young adult Red Dragon - Huge (Red Dragon(Young adult)) | 
 | ----| ---- | 
 | Hit Dice:            |19d12+95 (218) |
 | Initiative:          |0 |

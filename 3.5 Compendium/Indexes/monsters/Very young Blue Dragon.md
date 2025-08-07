@@ -17,7 +17,7 @@ alignment:
 
 # Very young Blue Dragon
 
-|  | Very young Blue Dragon Medium Blue Dragon(Very young) | 
+|  | Very young Blue Dragon - Medium (Blue Dragon(Very young)) | 
 | ----| ---- | 
 | Hit Dice:            |9d12+18 (76) |
 | Initiative:          |0 |

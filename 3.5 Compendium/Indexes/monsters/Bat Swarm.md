@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Bat Swarm
 
-|  | Bat Swarm Diminutive Animal (Swarm) | 
+|  | Bat Swarm - Diminutive (Animal [Swarm]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |2 |

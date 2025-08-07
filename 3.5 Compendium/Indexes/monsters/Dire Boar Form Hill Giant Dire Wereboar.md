@@ -12,6 +12,7 @@ tags:
 type: Giant
 subtypes: 
  - Shapechanger
+ - Hill Giant Dire Wereboar
 cr: 11
 environment: Temperate hills
 alignment: Always neutral
@@ -19,7 +20,7 @@ alignment: Always neutral
 
 # Dire Boar Form Hill Giant Dire Wereboar
 
-|  | Dire Boar Form Hill Giant Dire Wereboar Large Giant (Shapechanger) | 
+|  | Dire Boar Form Hill Giant Dire Wereboar - Large (Giant [Shapechanger, Hill Giant Dire Wereboar]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+51 plus 7d8+49 (185) |
 | Initiative:          |-1 |

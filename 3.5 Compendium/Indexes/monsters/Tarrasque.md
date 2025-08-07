@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Tarrasque
 
-| ![[tarrasque.png \|100]] | Tarrasque Colossal Magical (Beast) | 
+| ![[tarrasque.png \|100]] | Tarrasque - Colossal (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |48d10+594 (858) |
 | Initiative:          |7 |

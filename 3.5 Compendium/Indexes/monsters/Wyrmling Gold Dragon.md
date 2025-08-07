@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling Gold Dragon
 
-|  | Wyrmling Gold Dragon Medium Gold Dragon(Wyrmling) | 
+|  | Wyrmling Gold Dragon - Medium (Gold Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |8d12+16 (68) |
 | Initiative:          |0 |

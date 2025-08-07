@@ -10,6 +10,8 @@ tags:
  - 6th-level_Ranger_Troll_Hunter
  - CR11
 type: Giant
+subtypes: 
+ - Troll
 cr: 11
 environment: Cold mountains
 alignment: Usually chaotic evil
@@ -17,7 +19,7 @@ alignment: Usually chaotic evil
 
 # 6th-level Ranger Troll Hunter
 
-|  | 6th-level Ranger Troll Hunter Large Giant | 
+|  | 6th-level Ranger Troll Hunter - Large (Giant [Troll]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+6d8+72 (130) |
 | Initiative:          |1 |

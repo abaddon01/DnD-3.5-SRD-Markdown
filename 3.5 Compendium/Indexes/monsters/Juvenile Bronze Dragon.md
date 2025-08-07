@@ -17,7 +17,7 @@ alignment:
 
 # Juvenile Bronze Dragon
 
-|  | Juvenile Bronze Dragon Large Bronze Dragon(Juvenile) | 
+|  | Juvenile Bronze Dragon - Large (Bronze Dragon(Juvenile)) | 
 | ----| ---- | 
 | Hit Dice:            |15d12+45 (142) |
 | Initiative:          |0 |

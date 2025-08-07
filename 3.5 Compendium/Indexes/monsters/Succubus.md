@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Succubus
 
-| ![[succubus.png \|100]] | Succubus Medium Outsider (Chaotic Extraplanar Evil) | 
+| ![[succubus.png \|100]] | Succubus - Medium (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |6d8+6 (33) |
 | Initiative:          |1 |

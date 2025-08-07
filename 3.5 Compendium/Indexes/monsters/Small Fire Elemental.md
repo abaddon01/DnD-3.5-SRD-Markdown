@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Fire
  - Extraplanar
+ - Fire Elemental
 cr: 1
 environment: Elemental Plane of Fire
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Small Fire Elemental
 
-|  | Small Fire Elemental Small Elemental (Fire Extraplanar) | 
+|  | Small Fire Elemental - Small (Elemental [Fire, Extraplanar, Fire Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8 (9) |
 | Initiative:          |5 |

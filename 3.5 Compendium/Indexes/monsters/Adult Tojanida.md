@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Extraplanar
  - Water
+ - Tojanida
 cr: 5
 environment: Elemental Plane of Water
 alignment: Always neutral
@@ -20,7 +21,7 @@ alignment: Always neutral
 
 # Adult Tojanida
 
-|  | Adult Tojanida Medium Outsider (Extraplanar Water) | 
+|  | Adult Tojanida - Medium (Outsider [Extraplanar, Water, Tojanida]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+14 (45) |
 | Initiative:          |1 |

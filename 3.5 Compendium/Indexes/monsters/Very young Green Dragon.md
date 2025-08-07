@@ -17,7 +17,7 @@ alignment:
 
 # Very young Green Dragon
 
-|  | Very young Green Dragon Medium Green Dragon(Very young) | 
+|  | Very young Green Dragon - Medium (Green Dragon(Very young)) | 
 | ----| ---- | 
 | Hit Dice:            |8d12+16 (68) |
 | Initiative:          |0 |

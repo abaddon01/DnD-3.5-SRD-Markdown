@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Air
  - Extraplanar
+ - Air Elemental
 cr: 11
 environment: Elemental Plane of Air
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Elder Air Elemental
 
-|  | Elder Air Elemental Huge Elemental (Air Extraplanar) | 
+|  | Elder Air Elemental - Huge (Elemental [Air, Extraplanar, Air Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |24d8+96 (204) |
 | Initiative:          |15 |

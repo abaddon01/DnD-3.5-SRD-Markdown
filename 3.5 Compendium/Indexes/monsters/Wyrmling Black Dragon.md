@@ -17,7 +17,7 @@ alignment:
 
 # Wyrmling Black Dragon
 
-|  | Wyrmling Black Dragon Tiny Black Dragon(Wyrmling) | 
+|  | Wyrmling Black Dragon - Tiny (Black Dragon(Wyrmling)) | 
 | ----| ---- | 
 | Hit Dice:            |4d12+4 (30) |
 | Initiative:          |0 |

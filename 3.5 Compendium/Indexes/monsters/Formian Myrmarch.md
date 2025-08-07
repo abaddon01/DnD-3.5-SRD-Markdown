@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Lawful
  - Extraplanar
+ - Formian
 cr: 10
 environment: A lawful-aligned plane
 alignment: Always lawful neutral
@@ -20,7 +21,7 @@ alignment: Always lawful neutral
 
 # Formian Myrmarch
 
-|  | Formian Myrmarch Large Outsider (Lawful Extraplanar) | 
+|  | Formian Myrmarch - Large (Outsider [Lawful, Extraplanar, Formian]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+48 (102) |
 | Initiative:          |8 |

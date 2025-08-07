@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Air
  - Extraplanar
+ - Arrowhawk
 cr: 8
 environment: Elemental Plane of Air
 alignment: Always neutral
@@ -20,7 +21,7 @@ alignment: Always neutral
 
 # Elder Arrowhawk
 
-|  | Elder Arrowhawk Large Outsider (Air Extraplanar) | 
+|  | Elder Arrowhawk - Large (Outsider [Air, Extraplanar, Arrowhawk]) | 
 | ----| ---- | 
 | Hit Dice:            |15d8+45 (112) |
 | Initiative:          |5 |

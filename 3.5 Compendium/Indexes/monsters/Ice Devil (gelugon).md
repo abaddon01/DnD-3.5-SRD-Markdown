@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Ice Devil (gelugon)
 
-|  | Ice Devil (gelugon) Large Outsider (Evil Extraplanar Lawful) | 
+|  | Ice Devil (gelugon) - Large (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |14d8+84 (147) |
 | Initiative:          |5 |

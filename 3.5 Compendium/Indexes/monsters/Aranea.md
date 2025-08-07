@@ -20,7 +20,7 @@ alignment: Usually neutral
 
 # Aranea
 
-|  | Aranea Medium Magical (Beast Shapechanger) | 
+|  | Aranea - Medium (Magical [Beast, Shapechanger]) | 
 | ----| ---- | 
 | Hit Dice:            |3d10+6 (22) |
 | Initiative:          |6 |

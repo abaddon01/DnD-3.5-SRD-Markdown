@@ -10,6 +10,8 @@ tags:
  - Gargantuan_Animated_Object
  - CR7
 type: Construct
+subtypes: 
+ - Animated Object
 cr: 7
 environment: Any
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Gargantuan Animated Object
 
-|  | Gargantuan Animated Object Gargantuan Construct | 
+|  | Gargantuan Animated Object - Gargantuan (Construct [Animated Object]) | 
 | ----| ---- | 
 | Hit Dice:            |16d10+60 (148) |
 | Initiative:          |-2 |

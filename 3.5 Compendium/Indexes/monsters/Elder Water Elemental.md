@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Water
  - Extraplanar
+ - Water Elemental
 cr: 11
 environment: Elemental Plane of Water
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Elder Water Elemental
 
-|  | Elder Water Elemental Huge Elemental (Water Extraplanar) | 
+|  | Elder Water Elemental - Huge (Elemental [Water, Extraplanar, Water Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |24d8+120 (228) |
 | Initiative:          |6 |

@@ -17,7 +17,7 @@ alignment: Usually neutral
 
 # Gibbering Mouther
 
-| ![[gibbering-mouther.png \|100]] | Gibbering Mouther Medium Aberration | 
+| ![[gibbering-mouther.png \|100]] | Gibbering Mouther - Medium (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+24 (42) |
 | Initiative:          |1 |

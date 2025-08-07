@@ -17,7 +17,7 @@ alignment:
 
 # Ancient Gold Dragon
 
-| ![[ancient-gold-dragon.png \|100]] | Ancient Gold Dragon Gargantuan Gold Dragon(Ancient) | 
+| ![[ancient-gold-dragon.png \|100]] | Ancient Gold Dragon - Gargantuan (Gold Dragon(Ancient)) | 
 | ----| ---- | 
 | Hit Dice:            |35d12+315 (542) |
 | Initiative:          |0 |

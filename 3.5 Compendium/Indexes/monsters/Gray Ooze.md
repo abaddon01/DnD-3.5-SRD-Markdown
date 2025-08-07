@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Gray Ooze
 
-| ![[gray-ooze.png \|100]] | Gray Ooze Medium Ooze | 
+| ![[gray-ooze.png \|100]] | Gray Ooze - Medium (Ooze) | 
 | ----| ---- | 
 | Hit Dice:            |3d10+15 (31) |
 | Initiative:          |-5 |

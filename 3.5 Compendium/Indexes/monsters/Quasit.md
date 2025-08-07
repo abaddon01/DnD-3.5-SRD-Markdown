@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Quasit
 
-| ![[quasit.png \|100]] | Quasit Tiny Outsider (Chaotic Extraplanar Evil) | 
+| ![[quasit.png \|100]] | Quasit - Tiny (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8 (13) |
 | Initiative:          |7 |

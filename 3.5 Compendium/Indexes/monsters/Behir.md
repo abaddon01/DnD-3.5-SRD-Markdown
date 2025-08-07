@@ -19,7 +19,7 @@ alignment: Often neutral
 
 # Behir
 
-| ![[behir.png \|100]] | Behir Huge Magical (Beast) | 
+| ![[behir.png \|100]] | Behir - Huge (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |9d10+45 (94) |
 | Initiative:          |1 |

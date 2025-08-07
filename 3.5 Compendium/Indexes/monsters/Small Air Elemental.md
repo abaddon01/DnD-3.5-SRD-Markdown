@@ -13,6 +13,7 @@ type: Elemental
 subtypes: 
  - Air
  - Extraplanar
+ - Air Elemental
 cr: 1
 environment: Elemental Plane of Air
 alignment: Usually neutral
@@ -20,7 +21,7 @@ alignment: Usually neutral
 
 # Small Air Elemental
 
-|  | Small Air Elemental Small Elemental (Air Extraplanar) | 
+|  | Small Air Elemental - Small (Elemental [Air, Extraplanar, Air Elemental]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8 (9) |
 | Initiative:          |7 |

@@ -17,7 +17,7 @@ alignment:
 
 # Mature adult Blue Dragon
 
-|  | Mature adult Blue Dragon Huge Blue Dragon(Mature adult) | 
+|  | Mature adult Blue Dragon - Huge (Blue Dragon(Mature adult)) | 
 | ----| ---- | 
 | Hit Dice:            |24d12+120 (276) |
 | Initiative:          |0 |

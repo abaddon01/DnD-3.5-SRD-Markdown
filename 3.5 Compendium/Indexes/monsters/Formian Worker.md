@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Lawful
  - Extraplanar
+ - Formian
 cr: 0.5
 environment: A lawful-aligned plane
 alignment: Always lawful neutral
@@ -20,7 +21,7 @@ alignment: Always lawful neutral
 
 # Formian Worker
 
-|  | Formian Worker Small Outsider (Lawful Extraplanar) | 
+|  | Formian Worker - Small (Outsider [Lawful, Extraplanar, Formian]) | 
 | ----| ---- | 
 | Hit Dice:            |1d8+1 (5) |
 | Initiative:          |2 |

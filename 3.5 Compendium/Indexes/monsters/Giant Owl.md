@@ -19,7 +19,7 @@ alignment: Usually neutral good
 
 # Giant Owl
 
-| ![[giant-owl.png \|100]] | Giant Owl Large Magical (Beast) | 
+| ![[giant-owl.png \|100]] | Giant Owl - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |4d10+4 (26) |
 | Initiative:          |3 |

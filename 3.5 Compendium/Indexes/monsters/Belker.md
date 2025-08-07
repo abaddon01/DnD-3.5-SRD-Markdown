@@ -20,7 +20,7 @@ alignment: Usually neutral evil
 
 # Belker
 
-|  | Belker Large Elemental (Air Extraplanar) | 
+|  | Belker - Large (Elemental [Air, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+7 (38) |
 | Initiative:          |5 |

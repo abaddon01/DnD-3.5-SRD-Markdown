@@ -17,7 +17,7 @@ alignment:
 
 # Very young White Dragon
 
-|  | Very young White Dragon Small White Dragon(Very young) | 
+|  | Very young White Dragon - Small (White Dragon(Very young)) | 
 | ----| ---- | 
 | Hit Dice:            |6d12+6 (45) |
 | Initiative:          |0 |

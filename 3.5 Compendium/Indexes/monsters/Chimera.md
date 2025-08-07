@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Chimera
 
-| ![[chimera.png \|100]] | Chimera Large Magical (Beast) | 
+| ![[chimera.png \|100]] | Chimera - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |9d10+27 (76) |
 | Initiative:          |1 |

@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Assassin Vine
 
-|  | Assassin Vine Large Plant | 
+|  | Assassin Vine - Large (Plant) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+12 (30) |
 | Initiative:          |0 |

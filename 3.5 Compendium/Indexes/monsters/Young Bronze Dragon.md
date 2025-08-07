@@ -17,7 +17,7 @@ alignment:
 
 # Young Bronze Dragon
 
-| ![[young-bronze-dragon.png \|100]] | Young Bronze Dragon Medium Bronze Dragon(Young) | 
+| ![[young-bronze-dragon.png \|100]] | Young Bronze Dragon - Medium (Bronze Dragon(Young)) | 
 | ----| ---- | 
 | Hit Dice:            |12d12+24 (102) |
 | Initiative:          |0 |

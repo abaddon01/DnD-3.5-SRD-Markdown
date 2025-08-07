@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Girallon
 
-|  | Girallon Large Magical (Beast) | 
+|  | Girallon - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |7d10+20 (58) |
 | Initiative:          |3 |

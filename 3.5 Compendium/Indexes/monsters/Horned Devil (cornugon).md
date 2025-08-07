@@ -21,7 +21,7 @@ alignment: Always lawful evil
 
 # Horned Devil (cornugon)
 
-|  | Horned Devil (cornugon) Large Outsider (Evil Extraplanar Lawful) | 
+|  | Horned Devil (cornugon) - Large (Outsider [Evil, Extraplanar, Lawful]) | 
 | ----| ---- | 
 | Hit Dice:            |15d8+105 (172) |
 | Initiative:          |7 |

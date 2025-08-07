@@ -17,7 +17,7 @@ alignment:
 
 # Ancient Black Dragon
 
-| ![[ancient-black-dragon.png \|100]] | Ancient Black Dragon Huge Black Dragon(Ancient) | 
+| ![[ancient-black-dragon.png \|100]] | Ancient Black Dragon - Huge (Black Dragon(Ancient)) | 
 | ----| ---- | 
 | Hit Dice:            |31d12+186 (387) |
 | Initiative:          |0 |

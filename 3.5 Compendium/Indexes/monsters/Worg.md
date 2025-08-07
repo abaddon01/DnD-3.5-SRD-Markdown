@@ -19,7 +19,7 @@ alignment: Usually neutral evil
 
 # Worg
 
-| ![[worg.png \|100]] | Worg Medium Magical (Beast) | 
+| ![[worg.png \|100]] | Worg - Medium (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |4d10+8 (30) |
 | Initiative:          |2 |

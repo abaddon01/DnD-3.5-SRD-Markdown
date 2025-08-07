@@ -17,7 +17,7 @@ alignment: Always chaotic evil
 
 # Mohrg
 
-|  | Mohrg Medium Undead | 
+|  | Mohrg - Medium (Undead) | 
 | ----| ---- | 
 | Hit Dice:            |14d12 (91) |
 | Initiative:          |9 |

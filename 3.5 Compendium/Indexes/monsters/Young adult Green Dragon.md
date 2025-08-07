@@ -17,7 +17,7 @@ alignment:
 
 # Young adult Green Dragon
 
-|  | Young adult Green Dragon Large Green Dragon(Young adult) | 
+|  | Young adult Green Dragon - Large (Green Dragon(Young adult)) | 
 | ----| ---- | 
 | Hit Dice:            |17d12+68 (178) |
 | Initiative:          |0 |

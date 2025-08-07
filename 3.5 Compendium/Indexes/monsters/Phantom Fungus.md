@@ -17,7 +17,7 @@ alignment: Always neutral
 
 # Phantom Fungus
 
-|  | Phantom Fungus Medium Plant | 
+|  | Phantom Fungus - Medium (Plant) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+6 (15) |
 | Initiative:          |0 |

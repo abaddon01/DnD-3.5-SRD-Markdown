@@ -12,6 +12,7 @@ tags:
 type: Monstrous
 subtypes: 
  - Humanoid
+ - Harpy
 cr: 11
 environment: Temperate marshes
 alignment: Usually chaotic evil
@@ -19,7 +20,7 @@ alignment: Usually chaotic evil
 
 # 7th-level Fighter Harpy Archer
 
-|  | 7th-level Fighter Harpy Archer Medium Monstrous (Humanoid) | 
+|  | 7th-level Fighter Harpy Archer - Medium (Monstrous [Humanoid, Harpy]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8 + 7d10 + 28 (103) |
 | Initiative:          |9 |

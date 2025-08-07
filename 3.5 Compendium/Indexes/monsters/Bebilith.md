@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Bebilith
 
-|  | Bebilith Huge Outsider (Chaotic Extraplanar Evil) | 
+|  | Bebilith - Huge (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |12d8+96 (150) |
 | Initiative:          |5 |

@@ -17,7 +17,7 @@ alignment: Always neutral good
 
 # Grig
 
-|  | Grig Tiny Fey | 
+|  | Grig - Tiny (Fey) | 
 | ----| ---- | 
 | Hit Dice:            |1/2 d6+1 (2) |
 | Initiative:          |4 |

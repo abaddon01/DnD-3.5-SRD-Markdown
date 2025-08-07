@@ -19,7 +19,7 @@ alignment: Always chaotic good
 
 # Unicorn
 
-| ![[unicorn.png \|100]] | Unicorn Large Magical (Beast) | 
+| ![[unicorn.png \|100]] | Unicorn - Large (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |4d10 + 20 (42) |
 | Initiative:          |3 |

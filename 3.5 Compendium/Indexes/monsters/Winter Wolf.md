@@ -20,7 +20,7 @@ alignment: Usually neutral evil
 
 # Winter Wolf
 
-| ![[winter-wolf.png \|100]] | Winter Wolf Large Magical (Beast Cold) | 
+| ![[winter-wolf.png \|100]] | Winter Wolf - Large (Magical [Beast, Cold]) | 
 | ----| ---- | 
 | Hit Dice:            |6d10+18 (51) |
 | Initiative:          |5 |

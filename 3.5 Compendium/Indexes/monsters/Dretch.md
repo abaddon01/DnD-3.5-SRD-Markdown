@@ -21,7 +21,7 @@ alignment: Always chaotic evil
 
 # Dretch
 
-| ![[dretch.png \|100]] | Dretch Small Outsider (Chaotic Extraplanar Evil) | 
+| ![[dretch.png \|100]] | Dretch - Small (Outsider [Chaotic, Extraplanar, Evil]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+4 (13) |
 | Initiative:          |0 |

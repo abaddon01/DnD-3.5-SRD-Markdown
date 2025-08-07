@@ -19,7 +19,7 @@ alignment: Always chaotic evil
 
 # Shadow
 
-| ![[shadow.png \|100]] | Shadow Medium Undead (Incorporeal) | 
+| ![[shadow.png \|100]] | Shadow - Medium (Undead [Incorporeal]) | 
 | ----| ---- | 
 | Hit Dice:            |3d12 (19) |
 | Initiative:          |2 |

@@ -17,7 +17,7 @@ alignment: Often chaotic evil
 
 # Athach
 
-|  | Athach Huge Aberration | 
+|  | Athach - Huge (Aberration) | 
 | ----| ---- | 
 | Hit Dice:            |14d8+70 (133) |
 | Initiative:          |1 |

@@ -20,7 +20,7 @@ alignment: Always neutral
 
 # Ethereal Marauder
 
-|  | Ethereal Marauder Medium Magical (Beast Extraplanar) | 
+|  | Ethereal Marauder - Medium (Magical [Beast, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |2d10 (11) |
 | Initiative:          |5 |

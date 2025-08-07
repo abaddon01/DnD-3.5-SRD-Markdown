@@ -17,7 +17,7 @@ alignment:
 
 # Adult Black Dragon
 
-| ![[adult-black-dragon.png \|100]] | Adult Black Dragon Large Black Dragon(Adult) | 
+| ![[adult-black-dragon.png \|100]] | Adult Black Dragon - Large (Black Dragon(Adult)) | 
 | ----| ---- | 
 | Hit Dice:            |19d12+76 (199) |
 | Initiative:          |0 |

@@ -17,7 +17,7 @@ alignment:
 
 # Very old Silver Dragon
 
-|  | Very old Silver Dragon Huge Silver Dragon(Very old) | 
+|  | Very old Silver Dragon - Huge (Silver Dragon(Very old)) | 
 | ----| ---- | 
 | Hit Dice:            |31d12+186 (387) |
 | Initiative:          |0 |

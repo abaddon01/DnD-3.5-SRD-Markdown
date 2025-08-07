@@ -17,7 +17,7 @@ alignment:
 
 # Young Blue Dragon
 
-| ![[young-blue-dragon.png \|100]] | Young Blue Dragon Medium Blue Dragon(Young) | 
+| ![[young-blue-dragon.png \|100]] | Young Blue Dragon - Medium (Blue Dragon(Young)) | 
 | ----| ---- | 
 | Hit Dice:            |12d12+24 (102) |
 | Initiative:          |0 |

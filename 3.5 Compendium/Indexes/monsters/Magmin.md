@@ -20,7 +20,7 @@ alignment: Always chaotic neutral
 
 # Magmin
 
-| ![[magmin.png \|100]] | Magmin Small Elemental (Fire Extraplanar) | 
+| ![[magmin.png \|100]] | Magmin - Small (Elemental [Fire, Extraplanar]) | 
 | ----| ---- | 
 | Hit Dice:            |2d8+2 (11) |
 | Initiative:          |0 |

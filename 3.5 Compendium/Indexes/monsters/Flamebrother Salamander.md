@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Extraplanar
  - Fire
+ - Salamander
 cr: 3
 environment: Elemental Plane of Fire
 alignment: Usually evil (any)
@@ -20,7 +21,7 @@ alignment: Usually evil (any)
 
 # Flamebrother Salamander
 
-|  | Flamebrother Salamander Small Outsider (Extraplanar Fire) | 
+|  | Flamebrother Salamander - Small (Outsider [Extraplanar, Fire, Salamander]) | 
 | ----| ---- | 
 | Hit Dice:            |4d8+8 (26) |
 | Initiative:          |1 |

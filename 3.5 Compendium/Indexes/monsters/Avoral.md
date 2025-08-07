@@ -20,7 +20,7 @@ alignment: Always neutral good
 
 # Avoral
 
-|  | Avoral Medium Outsider (Extraplanar Good) | 
+|  | Avoral - Medium (Outsider [Extraplanar, Good]) | 
 | ----| ---- | 
 | Hit Dice:            |7d8+35 (66) |
 | Initiative:          |6 |

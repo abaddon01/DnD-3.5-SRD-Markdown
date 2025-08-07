@@ -10,6 +10,8 @@ tags:
  - Small_Animated_Object
  - CR1
 type: Construct
+subtypes: 
+ - Animated Object
 cr: 1
 environment: Any
 alignment: Always neutral
@@ -17,7 +19,7 @@ alignment: Always neutral
 
 # Small Animated Object
 
-|  | Small Animated Object Small Construct | 
+|  | Small Animated Object - Small (Construct [Animated Object]) | 
 | ----| ---- | 
 | Hit Dice:            |1d10+10 (15) |
 | Initiative:          |1 |

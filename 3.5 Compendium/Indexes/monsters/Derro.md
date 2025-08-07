@@ -19,7 +19,7 @@ alignment: Usually chaotic evil
 
 # Derro
 
-|  | Derro Small Monstrous (Humanoid) | 
+|  | Derro - Small (Monstrous [Humanoid]) | 
 | ----| ---- | 
 | Hit Dice:            |3d8+3 (16) |
 | Initiative:          |6 |

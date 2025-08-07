@@ -13,6 +13,7 @@ type: Outsider
 subtypes: 
  - Extraplanar
  - Fire
+ - Salamander
 cr: 6
 environment: Elemental Plane of Fire
 alignment: Usually evil (any)
@@ -20,7 +21,7 @@ alignment: Usually evil (any)
 
 # Average Salamander
 
-|  | Average Salamander Medium Outsider (Extraplanar Fire) | 
+|  | Average Salamander - Medium (Outsider [Extraplanar, Fire, Salamander]) | 
 | ----| ---- | 
 | Hit Dice:            |9d8+18 (58) |
 | Initiative:          |1 |

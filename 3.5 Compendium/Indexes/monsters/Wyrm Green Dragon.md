@@ -17,7 +17,7 @@ alignment:
 
 # Wyrm Green Dragon
 
-|  | Wyrm Green Dragon Gargantuan Green Dragon(Wyrm) | 
+|  | Wyrm Green Dragon - Gargantuan (Green Dragon(Wyrm)) | 
 | ----| ---- | 
 | Hit Dice:            |35d12+280 (507) |
 | Initiative:          |0 |

@@ -19,7 +19,7 @@ alignment: Always neutral
 
 # Digester
 
-|  | Digester Medium Magical (Beast) | 
+|  | Digester - Medium (Magical [Beast]) | 
 | ----| ---- | 
 | Hit Dice:            |8d10+24 (68) |
 | Initiative:          |6 |
