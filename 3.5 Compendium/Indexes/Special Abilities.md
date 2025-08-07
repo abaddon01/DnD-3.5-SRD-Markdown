@@ -15,7 +15,8 @@ This material is Open Game Content, and is licensed for public use under the ter
 ## Table of Contents
 *   [[#Special Abilities]]
     *   [[#Antimagic]]
-    *   [[#Blindsight and Blindsense]]
+    *   [[#Blindsense]]
+    *   [[#Blindsight]]
     *   [[#Cold Immunity]]
     *   [[#Damage Reduction]]
     *   [[#Darkvision]]
@@ -32,7 +33,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 	    * [[#Burrow]]
 		* [[#Climb]]
 		* [[#Fly]]
-    *   [[#Paralysis]]
+    *   [[#Poison Immunity]]
     *   [[#Polymorph]]
     *   [[#Regeneration]]
     *   [[#Resistance to Energy]]
@@ -438,14 +439,6 @@ even the tiniest candle flame is next to her as a source of light.
 
 Characters with low-light vision can see outdoors on a moonlit night as well as they can during the day.
 
-
-### Immune to Poison
-
-Creatures with natural poison attacks are immune to their own poison. Nonliving creatures (constructs and undead)
-and creatures without metabolisms (such as elementals) are always immune to poison. Oozes, plants, and certain
-kinds of outsiders are also immune to poison, although conceivably special poisons could be concocted specifically
-to harm them.
-
 ### Movement Modes
  Creatures may have modes of movement other than walking and running. These are
 natural, not magical, unless specifically noted in a monster description.
@@ -490,7 +483,12 @@ It has a +8 racial bonus on any Swim check to perform some special action or avo
 always can choose to take 10 on a Swim check, even if distracted or endangered. The creature can use the run
 action while swimming, provided it swims in a straight line.
 
+### Poison Immunity
 
+Creatures with natural poison attacks are immune to their own poison. Nonliving creatures (constructs and undead)
+and creatures without metabolisms (such as elementals) are always immune to poison. Oozes, plants, and certain
+kinds of outsiders are also immune to poison, although conceivably special poisons could be concocted specifically
+to harm them. See [[special-abilities-and-conditions#Poison|Poison]] for more information
 
 ### Polymorph
 
@@ -733,7 +731,7 @@ items at home. Treasure can include coins, goods, and items. Creatures can have 
 follows.
 
 #### Standard
-Refer to the treasure tables and roll d% once for each type of treasure (Coins, Goods, Items) on
+Refer to the [[3.5 Compendium/Basic Rules and Legal/treasure#Using the Treasure Table|treasure]] tables and roll d% once for each type of treasure (Coins, Goods, Items) on
 the Level section of the table that corresponds to the creature’s Challenge Rating (for groups of creatures, use
 the Encounter Level for the encounter instead). Some creatures have double, triple, or even quadruple standard
 treasure; in these cases, roll for each type of treasure two, three, or four times.
