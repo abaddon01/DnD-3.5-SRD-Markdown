@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Nightcrawler
+ - CR18
 type: Undead
 subtypes: 
  - Extraplanar
@@ -30,10 +31,10 @@ alignment: Always chaotic evil
 | Space/Reach:         |20 ft./15 ft. |
 | Special Attacks:     |Desecrating aura, energy drain, spell-like abilities, poison, summon undead, swallow whole |
 | Special Qualities    |Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  31, [[Special Abilities#telepathy\|Telepathy]]  100 Ft, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 12, Ref: 10, Will: 23 |
+| Saves:               |Fort: +12, Ref: +10, Will: +23 |
 | Abilities:           |Str : 48,  Dex: 10,  Con: -1,  Int: 20,  Wis: 20,  Cha: 18 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 32, [[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Hide\|Hide]]: 16, [[Skill List#Knowledge\|Knowledge]]: (arcana) 33, [[Skill List#Listen\|Listen]]: 33, [[Skill List#Move Silently\|Move Silently]]: 28, [[Skill List#Search\|Search]]: 33, [[Skill List#Sense Motive\|Sense Motive]]: 23, [[Skill List#Spellcraft\|Spellcraft]]: 35, [[Skill List#Spot\|Spot]]: 33, [[Skill List#Survival\|Survival]]: 5(7followingtracks)+5 (+7 following tracks); |
-| Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Critical\|Improved Critical]], [[Feat List#Improved Critical\|Improved Critical]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability\|Quicken Spell-Like Ability]]; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +32, [[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Hide\|Hide]]: +16, [[Skill List#Knowledge\|Knowledge]]: (arcana) 33, [[Skill List#Listen\|Listen]]: +33, [[Skill List#Move Silently\|Move Silently]]: +28, [[Skill List#Search\|Search]]: +33, [[Skill List#Sense Motive\|Sense Motive]]: +23, [[Skill List#Spellcraft\|Spellcraft]]: +35, [[Skill List#Spot\|Spot]]: +33, [[Skill List#Survival\|Survival]]: 5(7followingtracks)+5 (+7 following tracks); |
+| Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Critical \|Improved Critical ]](bite), [[Feat List#Improved Critical \|Improved Critical ]](sting), [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability \|Quicken Spell-Like Ability ]](cone of cold); |
 | Environment          |Plane of Shadow |
 | Organization:        |Solitary or pair |
 | Challenge Rating:    |18 |

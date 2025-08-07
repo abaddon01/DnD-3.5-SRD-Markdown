@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Worg
+ - CR2
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Trip |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 6, Ref: 6, Will: 3 |
+| Saves:               |Fort: +6, Ref: +6, Will: +3 |
 | Abilities:           |Str : 17,  Dex: 15,  Con: 15,  Int: 6,  Wis: 14,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 4, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Spot\|Spot]]: 6, [[Skill List#Survival\|Survival]]: 2*; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +4, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: +6, [[Skill List#Survival\|Survival]]: 2*; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Track\|Track]]; |
 | Environment          |Temperate plains |
 | Organization:        |Solitary, pair, or pack (6-11) |

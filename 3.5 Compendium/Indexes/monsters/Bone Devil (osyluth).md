@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Bone Devil (osyluth)
+title: 3.5 Compendium / Monsters / Bone_Devil_(osyluth)
 aliases: 
  - Bone Devil (osyluth)
 tags: 
  - 3.5e
  - rules
  - monsters
- - Bone Devil (osyluth)
+ - Bone_Devil_(osyluth)
+ - CR9
 type: Outsider
 subtypes: 
  - Evil
@@ -32,9 +33,9 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Spell-like abilities, fear aura, poison, summon devil |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  21, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 12, Ref: 12, Will: 11 |
+| Saves:               |Fort: +12, Ref: +12, Will: +11 |
 | Abilities:           |Str : 21,  Dex: 21,  Con: 21,  Int: 14,  Wis: 14,  Cha: 14 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 15, [[Skill List#Concentration\|Concentration]]: 18, [[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Disguise\|Disguise]]: +2 (+4 acting) , [[Skill List#Hide\|Hide]]: 14, [[Skill List#Intimidate\|Intimidate]]: 17, [[Skill List#Knowledge\|Knowledge]]: (any one) 15, [[Skill List#Listen\|Listen]]: 17, [[Skill List#Move Silently\|Move Silently]]: 18, [[Skill List#Search\|Search]]: 15, [[Skill List#Sense Motive\|Sense Motive]]: 15, [[Skill List#Spot\|Spot]]: 17, [[Skill List#Survival\|Survival]]: 2(4followingtracks)+2 (+4 following tracks); |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +15, [[Skill List#Concentration\|Concentration]]: +18, [[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Disguise\|Disguise]]: +2 (+4 acting) , [[Skill List#Hide\|Hide]]: +14, [[Skill List#Intimidate\|Intimidate]]: +17, [[Skill List#Knowledge\|Knowledge]]: (any one) 15, [[Skill List#Listen\|Listen]]: +17, [[Skill List#Move Silently\|Move Silently]]: +18, [[Skill List#Search\|Search]]: +15, [[Skill List#Sense Motive\|Sense Motive]]: +15, [[Skill List#Spot\|Spot]]: +17, [[Skill List#Survival\|Survival]]: 2(4followingtracks)+2 (+4 following tracks); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary, team (2-4), or squad (6-10) |

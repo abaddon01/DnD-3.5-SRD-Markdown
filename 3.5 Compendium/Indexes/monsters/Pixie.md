@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Pixie
+ - CR4 (5 with irresistible dance)
 type: Fey
 cr: 4 (5 with irresistible dance)
 environment: Temperate forests
@@ -28,9 +29,9 @@ alignment: Always neutral good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, special arrows |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#invisibility\|Invisibility]] , Greater, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  15; |
-| Saves:               |Fort: 0, Ref: 6, Will: 4 |
+| Saves:               |Fort: 0, Ref: +6, Will: +4 |
 | Abilities:           |Str : 7,  Dex: 18,  Con: 11,  Int: 16,  Wis: 15,  Cha: 16 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 7, [[Skill List#Concentration\|Concentration]]: 4, [[Skill List#Escape Artist\|Escape Artist]]: 8, [[Skill List#Hide\|Hide]]: 8, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Move Silently\|Move Silently]]: 8, [[Skill List#Ride\|Ride]]: 8, [[Skill List#Search\|Search]]: 9, [[Skill List#Sense Motive\|Sense Motive]]: 6, [[Skill List#Spot\|Spot]]: 10; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +7, [[Skill List#Concentration\|Concentration]]: +4, [[Skill List#Escape Artist\|Escape Artist]]: +8, [[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Move Silently\|Move Silently]]: +8, [[Skill List#Ride\|Ride]]: +8, [[Skill List#Search\|Search]]: +9, [[Skill List#Sense Motive\|Sense Motive]]: +6, [[Skill List#Spot\|Spot]]: +10; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge \|Dodge ]](B), [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Temperate forests |
 | Organization:        |Gang (2-4), band (6-11), or tribe (20-80) |

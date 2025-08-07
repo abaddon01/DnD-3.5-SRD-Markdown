@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Digester
+ - CR6
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Acid spray |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 10, Will: 3 |
+| Saves:               |Fort: +9, Ref: +10, Will: +3 |
 | Abilities:           |Str : 17,  Dex: 15,  Con: 17,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 9, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Jump\|Jump]]: 21, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +9, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Jump\|Jump]]: +21, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |Warm forests |
 | Organization:        |Solitary or pack (3-6) |

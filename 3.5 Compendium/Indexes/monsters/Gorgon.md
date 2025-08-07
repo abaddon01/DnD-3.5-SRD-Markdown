@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Gorgon
+ - CR8
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Breath weapon, trample 1d8+7 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 11, Ref: 6, Will: 5 |
+| Saves:               |Fort: +11, Ref: +6, Will: +5 |
 | Abilities:           |Str : 21,  Dex: 10,  Con: 21,  Int: 2,  Wis: 12,  Cha: 9 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 9, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +9, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]]; |
 | Environment          |Temperate plains |
 | Organization:        |Solitary, pair, pack (3-4), or herd (5-13) |

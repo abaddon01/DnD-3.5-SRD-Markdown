@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling Copper Dragon
+title: 3.5 Compendium / Monsters / Wyrmling_Copper_Dragon
 aliases: 
  - Wyrmling Copper Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrmling Copper Dragon
+ - Wyrmling_Copper_Dragon
+ - CR3
 type: Copper Dragon(Wyrmling)
 cr: 3
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |2-1/2 ft./0 ft. (5 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Immunity To Acid, [[Special Abilities#climb\|Spider Climb]] ; |
-| Saves:               |Fort: 5, Ref: 4, Will: 5 |
+| Saves:               |Fort: +5, Ref: +4, Will: +5 |
 | Abilities:           |Str: 11, Dex: 10, Con: 13, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young Bronze Dragon
+title: 3.5 Compendium / Monsters / Young_Bronze_Dragon
 aliases: 
  - Young Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young Bronze Dragon
+ - Young_Bronze_Dragon
+ - CR7
 type: Bronze Dragon(Young)
 cr: 7
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form; |
-| Saves:               |Fort: 10, Ref: 8, Will: 11 |
+| Saves:               |Fort: +10, Ref: +8, Will: +11 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 16, Wis: 17, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

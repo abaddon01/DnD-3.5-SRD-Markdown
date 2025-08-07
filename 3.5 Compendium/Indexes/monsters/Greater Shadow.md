@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater Shadow
+title: 3.5 Compendium / Monsters / Greater_Shadow
 aliases: 
  - Greater Shadow
 tags: 
  - 3.5e
  - rules
  - monsters
- - Greater Shadow
+ - Greater_Shadow
+ - CR8
 type: Undead
 subtypes: 
  - Incorporeal
@@ -30,9 +31,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 3, Ref: 5, Will: 7 |
+| Saves:               |Fort: +3, Ref: +5, Will: +7 |
 | Abilities:           |Str : -1,  Dex: 15,  Con: -1,  Int: 6,  Wis: 12,  Cha: 14 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 14*, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Search\|Search]]: 6, [[Skill List#Spot\|Spot]]: 9; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 14*, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Search\|Search]]: +6, [[Skill List#Spot\|Spot]]: +9; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge\|Dodge]], [[Feat List#Mobility\|Mobility]], [[Feat List#Spring Attack\|Spring Attack]]; |
 | Environment          |Any |
 | Organization:        |Solitary |

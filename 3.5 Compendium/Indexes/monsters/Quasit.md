@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Quasit
+ - CR2
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |2-1/2 ft./0 ft. |
 | Special Attacks:     |Poison, spell-like abilities |
 | Special Qualities    |Alternate Form, [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10; |
-| Saves:               |Fort: 3, Ref: 6, Will: 4 |
+| Saves:               |Fort: +3, Ref: +6, Will: +4 |
 | Abilities:           |Str : 8,  Dex: 17,  Con: 10,  Int: 10,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 6, [[Skill List#Diplomacy\|Diplomacy]]: 2, [[Skill List#Disguise\|Disguise]]: +0 (+2 acting) , [[Skill List#Hide\|Hide]]: 17, [[Skill List#Intimidate\|Intimidate]]: 2, [[Skill List#Knowledge\|Knowledge]]: (any one) 6, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Move Silently\|Move Silently]]: 9, [[Skill List#Search\|Search]]: 6, [[Skill List#Spellcraft\|Spellcraft]]: 6, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +6, [[Skill List#Diplomacy\|Diplomacy]]: +2, [[Skill List#Disguise\|Disguise]]: +0 (+2 acting) , [[Skill List#Hide\|Hide]]: +17, [[Skill List#Intimidate\|Intimidate]]: +2, [[Skill List#Knowledge\|Knowledge]]: (any one) 6, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Move Silently\|Move Silently]]: +9, [[Skill List#Search\|Search]]: +6, [[Skill List#Spellcraft\|Spellcraft]]: +6, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary |

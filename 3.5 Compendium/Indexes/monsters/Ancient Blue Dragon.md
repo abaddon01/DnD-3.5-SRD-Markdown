@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ancient Blue Dragon
+title: 3.5 Compendium / Monsters / Ancient_Blue_Dragon
 aliases: 
  - Ancient Blue Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ancient Blue Dragon
+ - Ancient_Blue_Dragon
+ - CR21
 type: Blue Dragon(Ancient)
 cr: 21
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Veil; |
-| Saves:               |Fort: 25, Ref: 18, Will: 23 |
+| Saves:               |Fort: +25, Ref: +18, Will: +23 |
 | Abilities:           |Str: 35, Dex: 10, Con: 25, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

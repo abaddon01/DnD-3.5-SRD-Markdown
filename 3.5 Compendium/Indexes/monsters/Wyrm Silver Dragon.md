@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrm Silver Dragon
+title: 3.5 Compendium / Monsters / Wyrm_Silver_Dragon
 aliases: 
  - Wyrm Silver Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrm Silver Dragon
+ - Wyrm_Silver_Dragon
+ - CR24
 type: Silver Dragon(Wyrm)
 cr: 24
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 20/magic; |
-| Saves:               |Fort: 29, Ref: 20, Will: 29 |
+| Saves:               |Fort: +29, Ref: +20, Will: +29 |
 | Abilities:           |Str: 39, Dex: 10, Con: 29, Int: 28, Wis: 29, Cha: 28 |
 | Skills:              |; |
 | Feats:               |; |

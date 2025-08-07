@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Stirge
+ - CR1/2
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |2-1/2 ft./0 ft. |
 | Special Attacks:     |Attach, blood drain |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 2, Ref: 6, Will: 1 |
+| Saves:               |Fort: +2, Ref: +6, Will: +1 |
 | Abilities:           |Str : 3,  Dex: 19,  Con: 10,  Int: 1,  Wis: 12,  Cha: 6 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 14, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +14, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Warm marshes |
 | Organization:        |Colony (2-4), flock (5-8), or storm (9-14) |

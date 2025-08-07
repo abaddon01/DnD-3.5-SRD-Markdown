@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Thoqqua
+ - CR2
 type: Elemental
 subtypes: 
  - Earth
@@ -32,9 +33,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Heat, burn |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., Vulnerability To Cold; |
-| Saves:               |Fort: 4, Ref: 2, Will: 2 |
+| Saves:               |Fort: +4, Ref: +2, Will: +2 |
 | Abilities:           |Str : 15,  Dex: 13,  Con: 13,  Int: 6,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 5, [[Skill List#Move Silently\|Move Silently]]: 3, [[Skill List#Survival\|Survival]]: 3; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +5, [[Skill List#Move Silently\|Move Silently]]: +3, [[Skill List#Survival\|Survival]]: +3; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Track\|Track]]; |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary or pair |

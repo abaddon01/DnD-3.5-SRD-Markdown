@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Great wyrm Silver Dragon
+title: 3.5 Compendium / Monsters / Great_wyrm_Silver_Dragon
 aliases: 
  - Great wyrm Silver Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Great wyrm Silver Dragon
+ - Great_wyrm_Silver_Dragon
+ - CR26
 type: Silver Dragon(Great wyrm)
 cr: 26
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |30 ft./20 ft. (30 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Reverse Gravity; |
-| Saves:               |Fort: 32, Ref: 22, Will: 32 |
+| Saves:               |Fort: +32, Ref: +22, Will: +32 |
 | Abilities:           |Str: 43, Dex: 10, Con: 31, Int: 30, Wis: 31, Cha: 30 |
 | Skills:              |; |
 | Feats:               |; |

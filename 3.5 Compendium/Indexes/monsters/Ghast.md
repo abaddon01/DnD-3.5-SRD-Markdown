@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Ghast
+ - CR3
 type: Undead
 cr: 3
 environment: Any
@@ -28,9 +29,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] , +2 Turn Resistance; |
-| Saves:               |Fort: 1, Ref: 4, Will: 6 |
+| Saves:               |Fort: +1, Ref: +4, Will: +6 |
 | Abilities:           |Str : 17,  Dex: 17,  Con: -1,  Int: 13,  Wis: 14,  Cha: 16 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 7, [[Skill List#Climb\|Climb]]: 9, [[Skill List#Hide\|Hide]]: 8, [[Skill List#Jump\|Jump]]: 9, [[Skill List#Move Silently\|Move Silently]]: 8, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +7, [[Skill List#Climb\|Climb]]: +9, [[Skill List#Hide\|Hide]]: +8, [[Skill List#Jump\|Jump]]: +9, [[Skill List#Move Silently\|Move Silently]]: +8, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Any |
 | Organization:        |Solitary, gang (2-4), or pack (2-4 plus 7-12 ghouls) |

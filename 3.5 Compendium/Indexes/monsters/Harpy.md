@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Harpy
+ - CR4
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 2, Ref: 7, Will: 6 |
+| Saves:               |Fort: +2, Ref: +7, Will: +6 |
 | Abilities:           |Str : 10,  Dex: 15,  Con: 10,  Int: 7,  Wis: 12,  Cha: 17 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 11, [[Skill List#Intimidate\|Intimidate]]: 7, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Perform (oratory)\|Perform (oratory)]]: 5, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +11, [[Skill List#Intimidate\|Intimidate]]: +7, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Perform (oratory)\|Perform (oratory)]]: +5, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Persuasive\|Persuasive]]; |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary, pair, or flight (7-12) |

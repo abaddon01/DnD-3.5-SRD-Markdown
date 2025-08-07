@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very young Gold Dragon
+title: 3.5 Compendium / Monsters / Very_young_Gold_Dragon
 aliases: 
  - Very young Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very young Gold Dragon
+ - Very_young_Gold_Dragon
+ - CR7
 type: Gold Dragon(Very young)
 cr: 7
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 10, Ref: 7, Will: 10 |
+| Saves:               |Fort: +10, Ref: +7, Will: +10 |
 | Abilities:           |Str: 21, Dex: 10, Con: 17, Int: 16, Wis: 17, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

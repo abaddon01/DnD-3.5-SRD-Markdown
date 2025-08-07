@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young Adult Red Dragon Skeleton
+title: 3.5 Compendium / Monsters / Young_Adult_Red_Dragon_Skeleton
 aliases: 
  - Young Adult Red Dragon Skeleton
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young Adult Red Dragon Skeleton
+ - Young_Adult_Red_Dragon_Skeleton
+ - CRNone
 type: Undead
 subtypes: 
  - Fire
@@ -30,7 +31,7 @@ alignment: 20 HD (Huge)
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold And Fire, [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 6, Ref: 7, Will: 8 |
+| Saves:               |Fort: +6, Ref: +7, Will: +8 |
 | Abilities:           |Str : 31,  Dex: 12,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |[[Skill List#Improved\|Improved]]: Initiative; |
 | Feats:               |[[Feat List#Warm mountains\|Warm mountains]]; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult Tojanida
+title: 3.5 Compendium / Monsters / Adult_Tojanida
 aliases: 
  - Adult Tojanida
 tags: 
  - 3.5e
  - rules
  - monsters
- - Adult Tojanida
+ - Adult_Tojanida
+ - CR5
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |All-around Vision, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid And Cold, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10; |
-| Saves:               |Fort: 7, Ref: 6, Will: 6 |
+| Saves:               |Fort: +7, Ref: +6, Will: +6 |
 | Abilities:           |Str : 16,  Dex: 13,  Con: 15,  Int: 10,  Wis: 12,  Cha: 9 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 1, [[Skill List#Escape Artist\|Escape Artist]]: 11, [[Skill List#Hide\|Hide]]: 11, [[Skill List#Knowledge (the planes)\|Knowledge (the planes)]]: 6, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Search\|Search]]: 14, [[Skill List#Sense Motive\|Sense Motive]]: 11, [[Skill List#Spot\|Spot]]: 15, [[Skill List#Survival\|Survival]]: 1 (+3 other planes and following tracks), [[Skill List#Swim\|Swim]]: 11, [[Skill List#Use Rope\|Use Rope]]: 1 (+3 with bindings); |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +1, [[Skill List#Escape Artist\|Escape Artist]]: +11, [[Skill List#Hide\|Hide]]: +11, [[Skill List#Knowledge (the planes)\|Knowledge (the planes)]]: +6, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Search\|Search]]: +14, [[Skill List#Sense Motive\|Sense Motive]]: +11, [[Skill List#Spot\|Spot]]: +15, [[Skill List#Survival\|Survival]]: 1 (+3 other planes and following tracks), [[Skill List#Swim\|Swim]]: +11, [[Skill List#Use Rope\|Use Rope]]: 1 (+3 with bindings); |
 | Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Dodge\|Dodge]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Water |
 | Organization:        |Solitary or clutch (2-4) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile Black Dragon
+title: 3.5 Compendium / Monsters / Juvenile_Black_Dragon
 aliases: 
  - Juvenile Black Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile Black Dragon
+ - Juvenile_Black_Dragon
+ - CR7
 type: Black Dragon(Juvenile)
 cr: 7
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Darkness; |
-| Saves:               |Fort: 10, Ref: 8, Will: 8 |
+| Saves:               |Fort: +10, Ref: +8, Will: +8 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 10, Wis: 11, Cha: 10 |
 | Skills:              |; |
 | Feats:               |; |

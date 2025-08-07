@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrm Green Dragon
+title: 3.5 Compendium / Monsters / Wyrm_Green_Dragon
 aliases: 
  - Wyrm Green Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrm Green Dragon
+ - Wyrm_Green_Dragon
+ - CR22
 type: Green Dragon(Wyrm)
 cr: 22
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 20/magic; |
-| Saves:               |Fort: 27, Ref: 19, Will: 24 |
+| Saves:               |Fort: +27, Ref: +19, Will: +24 |
 | Abilities:           |Str: 37, Dex: 10, Con: 27, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

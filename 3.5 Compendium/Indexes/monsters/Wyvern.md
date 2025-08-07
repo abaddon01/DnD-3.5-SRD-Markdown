@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Wyvern
+ - CR6
 type: Dragon
 cr: 6
 environment: Warm hills
@@ -28,10 +29,10 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Poison, improved grab |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#paralysis\|Immunity To Sleep And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 7, Ref: 6, Will: 6 |
+| Saves:               |Fort: +7, Ref: +6, Will: +6 |
 | Abilities:           |Str : 19,  Dex: 12,  Con: 15,  Int: 6,  Wis: 12,  Cha: 9 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 7, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Move Silently\|Move Silently]]: 11, [[Skill List#Spot\|Spot]]: 16; |
-| Feats:               |[[Monster Feats#Ability Focus\|Ability Focus]], [[Feat List#Alertness\|Alertness]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Monster Feats#Multiattack \|Multiattack ]](B); |
+| Skills:              |[[Skill List#Hide\|Hide]]: +7, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Spot\|Spot]]: +16; |
+| Feats:               |[[Monster Feats#Ability Focus \|Ability Focus ]](poison), [[Feat List#Alertness\|Alertness]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Monster Feats#Multiattack \|Multiattack ]](B); |
 | Environment          |Warm hills |
 | Organization:        |Solitary, pair, or flight (3-6) |
 | Challenge Rating:    |6 |

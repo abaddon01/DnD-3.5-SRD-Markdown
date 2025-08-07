@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Bodak
+ - CR8
 type: Undead
 subtypes: 
  - Extraplanar
@@ -30,10 +31,10 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Death gaze |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Fire 10, [[Traits#undead traits\|Undead Traits]] , Vulnerability To Sunlight; |
-| Saves:               |Fort: 3, Ref: 5, Will: 7 |
+| Saves:               |Fort: +3, Ref: +5, Will: +7 |
 | Abilities:           |Str : 13,  Dex: 15,  Con: -1,  Int: 6,  Wis: 12,  Cha: 12 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 11, [[Skill List#Move Silently\|Move Silently]]: 10, [[Skill List#Spot\|Spot]]: 11; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +10, [[Skill List#Spot\|Spot]]: +11; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Weapon Focus \|Weapon Focus ]](slam); |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary or gang (2-4) |
 | Challenge Rating:    |8 |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Delver
+ - CR9
 type: Aberration
 cr: 9
 environment: Underground
@@ -28,9 +29,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Corrosive slime |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Stone Shape, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; |
-| Saves:               |Fort: 12, Ref: 6, Will: 11 |
+| Saves:               |Fort: +12, Ref: +6, Will: +11 |
 | Abilities:           |Str : 27,  Dex: 13,  Con: 21,  Int: 14,  Wis: 14,  Cha: 12 |
-| Skills:              |[[Skill List#Knowledge\|Knowledge]]: (dungeoneering) 14, [[Skill List#Knowledge\|Knowledge]]: (nature) 4, [[Skill List#Listen\|Listen]]: 20, [[Skill List#Move Silently\|Move Silently]]: 17, [[Skill List#Spot\|Spot]]: 20, [[Skill List#Survival\|Survival]]: 14(16underground)+14 (+16 underground); |
+| Skills:              |[[Skill List#Knowledge\|Knowledge]]: (dungeoneering) 14, [[Skill List#Knowledge\|Knowledge]]: (nature) 4, [[Skill List#Listen\|Listen]]: +20, [[Skill List#Move Silently\|Move Silently]]: +17, [[Skill List#Spot\|Spot]]: +20, [[Skill List#Survival\|Survival]]: 14(16underground)+14 (+16 underground); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Underground |
 | Organization:        |Solitary |

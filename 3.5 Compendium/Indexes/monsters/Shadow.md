@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Shadow
+ - CR3
 type: Undead
 subtypes: 
  - Incorporeal
@@ -30,9 +31,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 1, Ref: 3, Will: 4 |
+| Saves:               |Fort: +1, Ref: +3, Will: +4 |
 | Abilities:           |Str : -1,  Dex: 14,  Con: -1,  Int: 6,  Wis: 12,  Cha: 13 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 8*, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Search\|Search]]: 4, [[Skill List#Spot\|Spot]]: 7; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 8*, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Search\|Search]]: +4, [[Skill List#Spot\|Spot]]: +7; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge\|Dodge]]; |
 | Environment          |Any |
 | Organization:        |Solitary, gang (2-5), or swarm (6-11) |

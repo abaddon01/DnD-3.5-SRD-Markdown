@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Bugbear
+ - CR2
 type: Humanoid
 subtypes: 
  - Goblinoid
@@ -30,10 +31,10 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 2, Ref: 4, Will: 1 |
+| Saves:               |Fort: +2, Ref: +4, Will: +1 |
 | Abilities:           |Str : 15,  Dex: 12,  Con: 13,  Int: 10,  Wis: 10,  Cha: 9 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 3, [[Skill List#Hide\|Hide]]: 4, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Spot\|Spot]]: 4; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +3, [[Skill List#Hide\|Hide]]: +4, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: +4; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Weapon Focus \|Weapon Focus ]](morningstar); |
 | Environment          |Temperate mountains |
 | Organization:        |Solitary, gang (2-4), or band (11-20 plus 150% noncombatants plus 2 2nd-level sergeants and 1 leader of 2nd-5th level) |
 | Challenge Rating:    |2 |

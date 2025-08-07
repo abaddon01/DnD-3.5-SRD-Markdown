@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dread Wraith
+title: 3.5 Compendium / Monsters / Dread_Wraith
 aliases: 
  - Dread Wraith
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dread Wraith
+ - Dread_Wraith
+ - CR11
 type: Undead
 subtypes: 
  - Incorporeal
@@ -30,9 +31,9 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Daylight Powerlessness, Incorporeal Traits, Lifesense 60 Ft., [[Traits#undead traits\|Undead Traits]] , Unnatural Aura; |
-| Saves:               |Fort: 5, Ref: 14, Will: 14 |
+| Saves:               |Fort: +5, Ref: +14, Will: +14 |
 | Abilities:           |Str : -1,  Dex: 28,  Con: -1,  Int: 17,  Wis: 18,  Cha: 24 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 9, [[Skill List#Hide\|Hide]]: 24, [[Skill List#Intimidate\|Intimidate]]: 26, [[Skill List#Knowledge (religion)\|Knowledge (religion)]]: 22, [[Skill List#Listen\|Listen]]: 25, [[Skill List#Search\|Search]]: 22, [[Skill List#Sense Motive\|Sense Motive]]: 23, [[Skill List#Spot\|Spot]]: 25, [[Skill List#Survival\|Survival]]: 4 (+6 following tracks); |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +9, [[Skill List#Hide\|Hide]]: +24, [[Skill List#Intimidate\|Intimidate]]: +26, [[Skill List#Knowledge (religion)\|Knowledge (religion)]]: +22, [[Skill List#Listen\|Listen]]: +25, [[Skill List#Search\|Search]]: +22, [[Skill List#Sense Motive\|Sense Motive]]: +23, [[Skill List#Spot\|Spot]]: +25, [[Skill List#Survival\|Survival]]: 4 (+6 following tracks); |
 | Feats:               |[[Feat List#Alertness \|Alertness ]](B), [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Monster Feats#Improved Natural Attack \|Improved Natural Attack ]](incorporeal touch), [[Feat List#Mobility\|Mobility]], [[Feat List#Spring Attack\|Spring Attack]]; |
 | Environment          |Any |
 | Organization:        |Solitary |

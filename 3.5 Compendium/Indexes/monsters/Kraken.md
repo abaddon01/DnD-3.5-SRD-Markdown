@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Kraken
+ - CR12
 type: Magical
 subtypes: 
  - Beast
@@ -31,10 +32,10 @@ alignment: Usually neutral evil
 | Space/Reach:         |20 ft./15 ft. (60 ft. with tentacle, 30 ft. with arm) |
 | Special Attacks:     |Improved grab, constrict 2d8+12 or 1d6+6 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Ink Cloud, Jet, [[Special Abilities#low-light vision\|Low-light Vision]] , Spell-like Abilities; |
-| Saves:               |Fort: 21, Ref: 12, Will: 13 |
+| Saves:               |Fort: +21, Ref: +12, Will: +13 |
 | Abilities:           |Str : 34,  Dex: 10,  Con: 29,  Int: 21,  Wis: 20,  Cha: 20 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 21, [[Skill List#Diplomacy\|Diplomacy]]: 7, [[Skill List#Hide\|Hide]]: 0, [[Skill List#Intimidate\|Intimidate]]: 16, [[Skill List#Knowledge\|Knowledge]]: (geography) 17, [[Skill List#Knowledge\|Knowledge]]: (nature) 16, [[Skill List#Listen\|Listen]]: 30, [[Skill List#Search\|Search]]: 28, [[Skill List#Sense Motive\|Sense Motive]]: 17, [[Skill List#Spot\|Spot]]: 30, [[Skill List#Survival\|Survival]]: +5 (+7 following tracks) , [[Skill List#Swim\|Swim]]: 20, [[Skill List#Use Magic Device\|Use Magic Device]]: 16; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Expertise\|Combat Expertise]], [[Feat List#Improved Critical\|Improved Critical]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Improved Trip\|Improved Trip]], [[Feat List#Iron Will\|Iron Will]]; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +21, [[Skill List#Diplomacy\|Diplomacy]]: +7, [[Skill List#Hide\|Hide]]: 0, [[Skill List#Intimidate\|Intimidate]]: +16, [[Skill List#Knowledge\|Knowledge]]: (geography) 17, [[Skill List#Knowledge\|Knowledge]]: (nature) 16, [[Skill List#Listen\|Listen]]: +30, [[Skill List#Search\|Search]]: +28, [[Skill List#Sense Motive\|Sense Motive]]: +17, [[Skill List#Spot\|Spot]]: +30, [[Skill List#Survival\|Survival]]: +5 (+7 following tracks) , [[Skill List#Swim\|Swim]]: +20, [[Skill List#Use Magic Device\|Use Magic Device]]: +16; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Expertise\|Combat Expertise]], [[Feat List#Improved Critical \|Improved Critical ]](tentacle), [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Improved Trip\|Improved Trip]], [[Feat List#Iron Will\|Iron Will]]; |
 | Environment          |Temperate aquatic |
 | Organization:        |Solitary |
 | Challenge Rating:    |12 |

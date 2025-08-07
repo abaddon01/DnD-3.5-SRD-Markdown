@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Formian Queen
+title: 3.5 Compendium / Monsters / Formian_Queen
 aliases: 
  - Formian Queen
 tags: 
  - 3.5e
  - rules
  - monsters
- - Formian Queen
+ - Formian_Queen
+ - CR17
 type: Outsider
 subtypes: 
  - Lawful
@@ -31,9 +32,9 @@ alignment: Always lawful neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#fast healing\|Fast Healing]]  2, Hive Mind, Immunity To Poison, Petrification, And Cold, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10, Fire 10, And Sonic 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, [[Special Abilities#telepathy\|Telepathy]] ; |
-| Saves:               |Fort: 19, Will: 19 |
+| Saves:               |Fort: +19, Will: +19 |
 | Abilities:           |Str : -1,  Dex: -1,  Con: 20,  Int: 20,  Wis: 20,  Cha: 21 |
-| Skills:              |[[Skill List#Appraise\|Appraise]]: 28, [[Skill List#Bluff\|Bluff]]: 28, [[Skill List#Concentration\|Concentration]]: 28, [[Skill List#Diplomacy\|Diplomacy]]: 32, [[Skill List#Disguise\|Disguise]]: 5 (+7 acting), [[Skill List#Intimidate\|Intimidate]]: 30, [[Skill List#Knowledge (any three)\|Knowledge (any three)]]: 28, [[Skill List#Listen\|Listen]]: 30, [[Skill List#Sense Motive\|Sense Motive]]: 28, [[Skill List#Spellcraft\|Spellcraft]]: 28 (+30 scrolls), [[Skill List#Spot\|Spot]]: 30, [[Skill List#Use Magic Device\|Use Magic Device]]: 28 (+30 scrolls); |
+| Skills:              |[[Skill List#Appraise\|Appraise]]: +28, [[Skill List#Bluff\|Bluff]]: +28, [[Skill List#Concentration\|Concentration]]: +28, [[Skill List#Diplomacy\|Diplomacy]]: +32, [[Skill List#Disguise\|Disguise]]: 5 (+7 acting), [[Skill List#Intimidate\|Intimidate]]: +30, [[Skill List#Knowledge (any three)\|Knowledge (any three)]]: +28, [[Skill List#Listen\|Listen]]: +30, [[Skill List#Sense Motive\|Sense Motive]]: +28, [[Skill List#Spellcraft\|Spellcraft]]: 28 (+30 scrolls), [[Skill List#Spot\|Spot]]: +30, [[Skill List#Use Magic Device\|Use Magic Device]]: 28 (+30 scrolls); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Eschew Materials \|Eschew Materials ]](B), [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Counterspell\|Improved Counterspell]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#item creation feat \|item creation feat ]](any one), [[Feat List#Maximize Spell\|Maximize Spell]], [[Feat List#Spell Focus \|Spell Focus ]](enchantment); |
 | Environment          |A lawful-aligned plane |
 | Organization:        |Hive (1 plus 100-400 workers, 11-40 warriors, 4-7 taskmasters with 1 dominated creature each, and 5-8 myrmarchs) |

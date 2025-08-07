@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling Green Dragon
+title: 3.5 Compendium / Monsters / Wyrmling_Green_Dragon
 aliases: 
  - Wyrmling Green Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrmling Green Dragon
+ - Wyrmling_Green_Dragon
+ - CR3
 type: Green Dragon(Wyrmling)
 cr: 3
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Immunity To Acid, Water Breathing; |
-| Saves:               |Fort: 5, Ref: 4, Will: 4 |
+| Saves:               |Fort: +5, Ref: +4, Will: +4 |
 | Abilities:           |Str: 13, Dex: 10, Con: 13, Int: 10, Wis: 11, Cha: 10 |
 | Skills:              |; |
 | Feats:               |; |

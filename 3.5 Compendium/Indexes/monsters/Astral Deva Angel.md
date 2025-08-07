@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Astral Deva Angel
+title: 3.5 Compendium / Monsters / Astral_Deva_Angel
 aliases: 
  - Astral Deva Angel
 tags: 
  - 3.5e
  - rules
  - monsters
- - Astral Deva Angel
+ - Astral_Deva_Angel
+ - CR14
 type: Outsider
 subtypes: 
  - Angel
@@ -32,9 +33,9 @@ alignment: Always good (any)
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, stun |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Immunity To Acid, Cold, And Petrification, Protective Aura, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Tongues, Uncanny Dodge; |
-| Saves:               |Fort: 14 (18 against poison), Ref: 12, Will: 12 |
+| Saves:               |Fort: 14 (18 against poison), Ref: +12, Will: +12 |
 | Abilities:           |Str : 22,  Dex: 18,  Con: 18,  Int: 18,  Wis: 18,  Cha: 20 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 19, [[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any three) 19, [[Skill List#Diplomacy\|Diplomacy]]: 22, [[Skill List#Escape Artist\|Escape Artist]]: 19, [[Skill List#Hide\|Hide]]: 19, [[Skill List#Intimidate\|Intimidate]]: 20, [[Skill List#Listen\|Listen]]: 23, [[Skill List#Move Silently\|Move Silently]]: 19, [[Skill List#Sense Motive\|Sense Motive]]: 19, [[Skill List#Spot\|Spot]]: 23, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +19, [[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any three) 19, [[Skill List#Diplomacy\|Diplomacy]]: +22, [[Skill List#Escape Artist\|Escape Artist]]: +19, [[Skill List#Hide\|Hide]]: +19, [[Skill List#Intimidate\|Intimidate]]: +20, [[Skill List#Listen\|Listen]]: +23, [[Skill List#Move Silently\|Move Silently]]: +19, [[Skill List#Sense Motive\|Sense Motive]]: +19, [[Skill List#Spot\|Spot]]: +23, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Any good-aligned plane |
 | Organization:        |Solitary, pair, or squad (3-5) |

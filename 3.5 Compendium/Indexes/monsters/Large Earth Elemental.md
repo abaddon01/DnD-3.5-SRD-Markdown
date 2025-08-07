@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Large Earth Elemental
+title: 3.5 Compendium / Monsters / Large_Earth_Elemental
 aliases: 
  - Large Earth Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Large Earth Elemental
+ - Large_Earth_Elemental
+ - CR5
 type: Elemental
 subtypes: 
  - Earth
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, Earth Glide, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 10, Ref: 1, Will: 2 |
+| Saves:               |Fort: +10, Ref: +1, Will: +2 |
 | Abilities:           |Str : 25,  Dex: 8,  Con: 19,  Int: 6,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 5; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +5; |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Earth |
 | Organization:        |Solitary |

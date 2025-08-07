@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Rast
+ - CR5
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Paralyzing gaze, improved grab, blood drain |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire, Vulnerability To Cold; |
-| Saves:               |Fort: 5, Ref: 5, Will: 5 |
+| Saves:               |Fort: +5, Ref: +5, Will: +5 |
 | Abilities:           |Str : 14,  Dex: 12,  Con: 13,  Int: 3,  Wis: 13,  Cha: 12 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 8, [[Skill List#Listen\|Listen]]: 8, [[Skill List#Move Silently\|Move Silently]]: 8, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Move Silently\|Move Silently]]: +8, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary, pair, or cluster (3-6) |

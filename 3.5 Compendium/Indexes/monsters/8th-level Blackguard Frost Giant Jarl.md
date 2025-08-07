@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 8th-level Blackguard Frost Giant Jarl
+title: 3.5 Compendium / Monsters / 8th-level_Blackguard_Frost_Giant_Jarl
 aliases: 
  - 8th-level Blackguard Frost Giant Jarl
 tags: 
  - 3.5e
  - rules
  - monsters
- - 8th-level Blackguard Frost Giant Jarl
+ - 8th-level_Blackguard_Frost_Giant_Jarl
+ - CR17
 type: Giant
 subtypes: 
  - Cold
@@ -30,9 +31,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Aura Of Despair, Aura Of Evil, Command Undead, Dark Blessing, Detect Good, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Poison Use, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, Rock Catching, Vulnerability To Fire; |
-| Saves:               |Fort: 25, Ref: 13, Will: 13 |
+| Saves:               |Fort: +25, Ref: +13, Will: +13 |
 | Abilities:           |Str : 32,  Dex: 12,  Con: 22,  Int: 10,  Wis: 12,  Cha: 18 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 17, [[Skill List#Hide\|Hide]]: 2, [[Skill List#Jump\|Jump]]: 17, [[Skill List#Knowledge (religion)\|Knowledge (religion)]]: 2, [[Skill List#Ride\|Ride]]: 11, [[Skill List#Spot\|Spot]]: 5; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +17, [[Skill List#Hide\|Hide]]: +2, [[Skill List#Jump\|Jump]]: +17, [[Skill List#Knowledge (religion)\|Knowledge (religion)]]: +2, [[Skill List#Ride\|Ride]]: +11, [[Skill List#Spot\|Spot]]: +5; |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Quick Draw\|Quick Draw]]; |
 | Environment          |Cold mountains |
 | Organization:        |Solitary or with tribe |

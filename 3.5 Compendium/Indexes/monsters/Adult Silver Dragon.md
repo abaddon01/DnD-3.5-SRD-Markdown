@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult Silver Dragon
+title: 3.5 Compendium / Monsters / Adult_Silver_Dragon
 aliases: 
  - Adult Silver Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Adult Silver Dragon
+ - Adult_Silver_Dragon
+ - CR15
 type: Silver Dragon(Adult)
 cr: 15
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Fog Cloud; |
-| Saves:               |Fort: 18, Ref: 13, Will: 18 |
+| Saves:               |Fort: +18, Ref: +13, Will: +18 |
 | Abilities:           |Str: 27, Dex: 10, Con: 21, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

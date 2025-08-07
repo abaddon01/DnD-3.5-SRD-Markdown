@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling Gold Dragon
+title: 3.5 Compendium / Monsters / Wyrmling_Gold_Dragon
 aliases: 
  - Wyrmling Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrmling Gold Dragon
+ - Wyrmling_Gold_Dragon
+ - CR5
 type: Gold Dragon(Wyrmling)
 cr: 5
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Immunity To Fire, Vulnerability To Cold, Water Breathing; |
-| Saves:               |Fort: 8, Ref: 6, Will: 8 |
+| Saves:               |Fort: +8, Ref: +6, Will: +8 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

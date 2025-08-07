@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young adult Black Dragon
+title: 3.5 Compendium / Monsters / Young_adult_Black_Dragon
 aliases: 
  - Young adult Black Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young adult Black Dragon
+ - Young_adult_Black_Dragon
+ - CR9
 type: Black Dragon(Young adult)
 cr: 9
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 5/magic; |
-| Saves:               |Fort: 13, Ref: 10, Will: 11 |
+| Saves:               |Fort: +13, Ref: +10, Will: +11 |
 | Abilities:           |Str: 19, Dex: 10, Con: 17, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

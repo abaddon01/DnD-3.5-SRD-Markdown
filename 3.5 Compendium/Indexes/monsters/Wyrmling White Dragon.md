@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling White Dragon
+title: 3.5 Compendium / Monsters / Wyrmling_White_Dragon
 aliases: 
  - Wyrmling White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrmling White Dragon
+ - Wyrmling_White_Dragon
+ - CR2
 type: White Dragon(Wyrmling)
 cr: 2
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |2-1/2 ft./0 ft. (5 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Icewalking, Immunity To Cold, Vulnerability To Fire; |
-| Saves:               |Fort: 4, Ref: 3, Will: 3 |
+| Saves:               |Fort: +4, Ref: +3, Will: +3 |
 | Abilities:           |Str: 11, Dex: 10, Con: 13, Int: 6, Wis: 11, Cha: 6 |
 | Skills:              |; |
 | Feats:               |; |

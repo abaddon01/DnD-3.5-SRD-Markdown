@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile Red Dragon
+title: 3.5 Compendium / Monsters / Juvenile_Red_Dragon
 aliases: 
  - Juvenile Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile Red Dragon
+ - Juvenile_Red_Dragon
+ - CR10
 type: Red Dragon(Juvenile)
 cr: 10
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Locate Object; |
-| Saves:               |Fort: 14, Ref: 10, Will: 12 |
+| Saves:               |Fort: +14, Ref: +10, Will: +12 |
 | Abilities:           |Str: 29, Dex: 10, Con: 19, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

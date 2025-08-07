@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Mature adult Green Dragon
+title: 3.5 Compendium / Monsters / Mature_adult_Green_Dragon
 aliases: 
  - Mature adult Green Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Mature adult Green Dragon
+ - Mature_adult_Green_Dragon
+ - CR16
 type: Green Dragon(Mature adult)
 cr: 16
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 10/magic; |
-| Saves:               |Fort: 18, Ref: 13, Will: 16 |
+| Saves:               |Fort: +18, Ref: +13, Will: +16 |
 | Abilities:           |Str: 29, Dex: 10, Con: 21, Int: 16, Wis: 17, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

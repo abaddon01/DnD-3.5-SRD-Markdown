@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Krenshar
+ - CR1
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Scare |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 3, Ref: 5, Will: 1 |
+| Saves:               |Fort: +3, Ref: +5, Will: +1 |
 | Abilities:           |Str : 11,  Dex: 14,  Con: 11,  Int: 6,  Wis: 12,  Cha: 13 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 4, [[Skill List#Jump\|Jump]]: 9, [[Skill List#Listen\|Listen]]: 3, [[Skill List#Move Silently\|Move Silently]]: 6; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +4, [[Skill List#Jump\|Jump]]: +9, [[Skill List#Listen\|Listen]]: +3, [[Skill List#Move Silently\|Move Silently]]: +6; |
 | Feats:               |[[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Track \|Track ]](B); |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, or pride (6-10) |

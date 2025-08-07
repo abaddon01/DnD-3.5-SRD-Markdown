@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Athach
+ - CR8
 type: Aberration
 cr: 8
 environment: Temperate hills
@@ -28,10 +29,10 @@ alignment: Often chaotic evil
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     |Poison |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 9, Ref: 5, Will: 10 |
+| Saves:               |Fort: +9, Ref: +5, Will: +10 |
 | Abilities:           |Str : 26,  Dex: 13,  Con: 21,  Int: 7,  Wis: 12,  Cha: 6 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 9, [[Skill List#Jump\|Jump]]: 18, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Spot\|Spot]]: 7; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Monster Feats#Multiweapon Fighting\|Multiweapon Fighting]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +9, [[Skill List#Jump\|Jump]]: +18, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Spot\|Spot]]: +7; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Monster Feats#Multiweapon Fighting\|Multiweapon Fighting]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Temperate hills |
 | Organization:        |Solitary, gang (2-4), or tribe (7-12) |
 | Challenge Rating:    |8 |

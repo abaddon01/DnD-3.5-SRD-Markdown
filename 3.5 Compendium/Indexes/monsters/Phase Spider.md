@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Phase Spider
+title: 3.5 Compendium / Monsters / Phase_Spider
 aliases: 
  - Phase Spider
 tags: 
  - 3.5e
  - rules
  - monsters
- - Phase Spider
+ - Phase_Spider
+ - CR5
 type: Magical
 subtypes: 
  - Beast
@@ -30,10 +31,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Poison |
 | Special Qualities    | |
-| Saves:               |Fort: 7, Ref: 7, Will: 2 |
+| Saves:               |Fort: +7, Ref: +7, Will: +2 |
 | Abilities:           |Str : 17,  Dex: 17,  Con: 16,  Int: 7,  Wis: 13,  Cha: 10 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 11, [[Skill List#Move Silently\|Move Silently]]: 11, [[Skill List#Spot\|Spot]]: 4; |
-| Feats:               |[[Monster Feats#Ability Focus\|Ability Focus]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +11, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Spot\|Spot]]: +4; |
+| Feats:               |[[Monster Feats#Ability Focus \|Ability Focus ]](poison), [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Warm hills |
 | Organization:        |Solitary or cluster (2-5) |
 | Challenge Rating:    |5 |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ooze Mephit
+title: 3.5 Compendium / Monsters / Ooze_Mephit
 aliases: 
  - Ooze Mephit
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ooze Mephit
+ - Ooze_Mephit
+ - CR3
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Breath weapon, spell-like abilities, summon mephit |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; |
-| Saves:               |Fort: 4, Ref: 3, Will: 3 |
+| Saves:               |Fort: +4, Ref: +3, Will: +3 |
 | Abilities:           |Str : 14,  Dex: 10,  Con: 13,  Int: 6,  Wis: 11,  Cha: 15 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 8, [[Skill List#Escape Artist\|Escape Artist]]: 6, [[Skill List#Hide\|Hide]]: 10, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Disguise\|Disguise]]: +2 (+4 acting) , [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Spot\|Spot]]: 6, [[Skill List#Swim\|Swim]]: 10, [[Skill List#Use Rope\|Use Rope]]: 0(2withbindings)+0 (+2 with bindings); |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +8, [[Skill List#Escape Artist\|Escape Artist]]: +6, [[Skill List#Hide\|Hide]]: +10, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Disguise\|Disguise]]: +2 (+4 acting) , [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: +6, [[Skill List#Swim\|Swim]]: +10, [[Skill List#Use Rope\|Use Rope]]: 0(2withbindings)+0 (+2 with bindings); |
 | Feats:               |[[Feat List#Power Attack\|Power Attack]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Elemental Plane of Water |
 | Organization:        |Solitary (1), gang (2-4 mephits of mixed types), or mob (5-12 mephits of mixed types) |

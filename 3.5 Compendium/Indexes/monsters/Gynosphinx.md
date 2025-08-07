@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Gynosphinx
+ - CR8
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Pounce, rake 1d6+2, spell-like abilities |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 7, Ref: 7, Will: 8 |
+| Saves:               |Fort: +7, Ref: +7, Will: +8 |
 | Abilities:           |Str : 19,  Dex: 12,  Con: 13,  Int: 18,  Wis: 19,  Cha: 19 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 15, [[Skill List#Concentration\|Concentration]]: 12, [[Skill List#Diplomacy\|Diplomacy]]: 8, [[Skill List#Disguise\|Disguise]]: +4 (+6 acting) , [[Skill List#Intimidate\|Intimidate]]: 13, [[Skill List#Listen\|Listen]]: 17, [[Skill List#Sense Motive\|Sense Motive]]: 15, [[Skill List#Spot\|Spot]]: 17; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +15, [[Skill List#Concentration\|Concentration]]: +12, [[Skill List#Diplomacy\|Diplomacy]]: +8, [[Skill List#Disguise\|Disguise]]: +4 (+6 acting) , [[Skill List#Intimidate\|Intimidate]]: +13, [[Skill List#Listen\|Listen]]: +17, [[Skill List#Sense Motive\|Sense Motive]]: +15, [[Skill List#Spot\|Spot]]: +17; |
 | Feats:               |[[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]]; |
 | Environment          |Warm deserts |
 | Organization:        |Solitary or covey (2-4) |

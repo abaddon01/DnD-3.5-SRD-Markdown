@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrm Blue Dragon
+title: 3.5 Compendium / Monsters / Wyrm_Blue_Dragon
 aliases: 
  - Wyrm Blue Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrm Blue Dragon
+ - Wyrm_Blue_Dragon
+ - CR23
 type: Blue Dragon(Wyrm)
 cr: 23
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 20/magic; |
-| Saves:               |Fort: 28, Ref: 20, Will: 25 |
+| Saves:               |Fort: +28, Ref: +20, Will: +25 |
 | Abilities:           |Str: 37, Dex: 10, Con: 27, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

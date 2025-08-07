@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Halfling
+ - CR1/2
 type: 1st-Level
 subtypes: 
  - Warrior
@@ -33,10 +34,10 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Halfling traits |
 | Special Qualities    |Halfling Traits; |
-| Saves:               |Fort: 4, Ref: 2, Will: 0 |
+| Saves:               |Fort: +4, Ref: +2, Will: 0 |
 | Abilities:           |Str : 11,  Dex: 13,  Con: 12,  Int: 10,  Wis: 9,  Cha: 8 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 2, [[Skill List#Hide\|Hide]]: 4, [[Skill List#Jump\|Jump]]: -4, [[Skill List#Listen\|Listen]]: 3, [[Skill List#Move Silently\|Move Silently]]: 1; |
-| Feats:               |[[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +2, [[Skill List#Hide\|Hide]]: +4, [[Skill List#Jump\|Jump]]: -4, [[Skill List#Listen\|Listen]]: +3, [[Skill List#Move Silently\|Move Silently]]: +1; |
+| Feats:               |[[Feat List#Weapon Focus \|Weapon Focus ]](longsword); |
 | Environment          |Warm plains (Deep halfling: Warm hills) (Tallfellow: Temperate forests) |
 | Organization:        |Company (2-4), squad (11-20 plus 2 3rd-level sergeants and 1 leader of 3rd-6th level), or band (30-100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, 6-10 dogs, and 2-5 riding dogs) |
 | Challenge Rating:    |1/2 |

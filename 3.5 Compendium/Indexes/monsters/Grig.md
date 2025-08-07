@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Grig
+ - CR1
 type: Fey
 cr: 1
 environment: Temperate forests
@@ -28,9 +29,9 @@ alignment: Always neutral good
 | Space/Reach:         |2-1/2 ft./0 ft. |
 | Special Attacks:     |Spell-like abilities, fiddle |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  17; |
-| Saves:               |Fort: 1, Ref: 6, Will: 3 |
+| Saves:               |Fort: +1, Ref: +6, Will: +3 |
 | Abilities:           |Str : 5,  Dex: 18,  Con: 13,  Int: 10,  Wis: 13,  Cha: 14 |
-| Skills:              |[[Skill List#Craft\|Craft]]: (any one) 4, [[Skill List#Escape Artist\|Escape Artist]]: 8, [[Skill List#Hide\|Hide]]: 18, [[Skill List#Jump\|Jump]]: 3, [[Skill List#Listen\|Listen]]: 3, [[Skill List#Move Silently\|Move Silently]]: 10*, [[Skill List#Perform\|Perform]]: (string instruments) 6, [[Skill List#Search\|Search]]: 2, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Craft\|Craft]]: (any one) 4, [[Skill List#Escape Artist\|Escape Artist]]: +8, [[Skill List#Hide\|Hide]]: +18, [[Skill List#Jump\|Jump]]: +3, [[Skill List#Listen\|Listen]]: +3, [[Skill List#Move Silently\|Move Silently]]: 10*, [[Skill List#Perform\|Perform]]: (string instruments) 6, [[Skill List#Search\|Search]]: +2, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Dodge \|Dodge ]](B), [[Feat List#Stealthy\|Stealthy]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Temperate forests |
 | Organization:        |Gang (2-4), band (6-11), or tribe (20-80) |

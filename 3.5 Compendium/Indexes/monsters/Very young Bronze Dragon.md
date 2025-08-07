@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very young Bronze Dragon
+title: 3.5 Compendium / Monsters / Very_young_Bronze_Dragon
 aliases: 
  - Very young Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very young Bronze Dragon
+ - Very_young_Bronze_Dragon
+ - CR5
 type: Bronze Dragon(Very young)
 cr: 5
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 8, Ref: 6, Will: 8 |
+| Saves:               |Fort: +8, Ref: +6, Will: +8 |
 | Abilities:           |Str: 15, Dex: 10, Con: 15, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

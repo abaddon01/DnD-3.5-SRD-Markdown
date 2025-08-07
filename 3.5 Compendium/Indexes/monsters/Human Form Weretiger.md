@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human Form Weretiger
+title: 3.5 Compendium / Monsters / Human_Form_Weretiger
 aliases: 
  - Human Form Weretiger
 tags: 
  - 3.5e
  - rules
  - monsters
- - Human Form Weretiger
+ - Human_Form_Weretiger
+ - CR5
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. (10 ft. with glaive) |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Tiger Empathy, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 8, Ref: 5, Will: 4 |
+| Saves:               |Fort: +8, Ref: +5, Will: +4 |
 | Abilities:           |Str : 13,  Dex: 11,  Con: 12,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 0, [[Skill List#Climb\|Climb]]: 1, [[Skill List#Handle Animal\|Handle Animal]]: 3, [[Skill List#Hide\|Hide]]: 0, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Move Silently\|Move Silently]]: 0, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Balance\|Balance]]: 0, [[Skill List#Climb\|Climb]]: +1, [[Skill List#Handle Animal\|Handle Animal]]: +3, [[Skill List#Hide\|Hide]]: 0, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Move Silently\|Move Silently]]: 0, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#Alertness \|Alertness ]](B), [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Monster Feats#Improved Natural Attack \|Improved Natural Attack ]](bite, [[Feat List#claw)\|claw)]], [[Feat List#Iron Will \|Iron Will ]](B); |
 | Environment          |Warm forests |
 | Organization:        |Solitary or pair |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Lemure
+ - CR1
 type: Outsider
 subtypes: 
  - Evil
@@ -32,7 +33,7 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/good Or Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, Mindless, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, See In Darkness; |
-| Saves:               |Fort: 3, Ref: 3, Will: 3 |
+| Saves:               |Fort: +3, Ref: +3, Will: +3 |
 | Abilities:           |Str : 10,  Dex: 10,  Con: 10,  Int: -1,  Wis: 11,  Cha: 5 |
 | Skills:              |; |
 | Feats:               |; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium Air Elemental
+title: 3.5 Compendium / Monsters / Medium_Air_Elemental
 aliases: 
  - Medium Air Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Medium Air Elemental
+ - Medium_Air_Elemental
+ - CR3
 type: Elemental
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 3, Ref: 9, Will: 1 |
+| Saves:               |Fort: +3, Ref: +9, Will: +1 |
 | Abilities:           |Str : 12,  Dex: 21,  Con: 14,  Int: 4,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 3, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +3, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary |

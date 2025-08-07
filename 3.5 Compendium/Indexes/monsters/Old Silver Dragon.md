@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Old Silver Dragon
+title: 3.5 Compendium / Monsters / Old_Silver_Dragon
 aliases: 
  - Old Silver Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Old Silver Dragon
+ - Old_Silver_Dragon
+ - CR20
 type: Silver Dragon(Old)
 cr: 20
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Control Winds; |
-| Saves:               |Fort: 22, Ref: 16, Will: 22 |
+| Saves:               |Fort: +22, Ref: +16, Will: +22 |
 | Abilities:           |Str: 31, Dex: 10, Con: 23, Int: 22, Wis: 23, Cha: 22 |
 | Skills:              |; |
 | Feats:               |; |

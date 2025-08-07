@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Shield Guardian
+title: 3.5 Compendium / Monsters / Shield_Guardian
 aliases: 
  - Shield Guardian
 tags: 
  - 3.5e
  - rules
  - monsters
- - Shield Guardian
+ - Shield_Guardian
+ - CR8
 type: Construct
 cr: 8
 environment: Any
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, Find Master, Guard, [[Special Abilities#low-light vision\|Low-light Vision]] , Shield Other, Spell Storing; |
-| Saves:               |Fort: 5, Ref: 5, Will: 5 |
+| Saves:               |Fort: +5, Ref: +5, Will: +5 |
 | Abilities:           |Str : 22,  Dex: 10,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |; |

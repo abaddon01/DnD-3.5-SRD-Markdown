@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Troll
+ - CR5
 type: Giant
 cr: 5
 environment: Cold mountains (Scrag: Cold aquatic)
@@ -28,9 +29,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  90 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#regeneration\|Regeneration]]  5, [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 11, Ref: 4, Will: 3 |
+| Saves:               |Fort: +11, Ref: +4, Will: +3 |
 | Abilities:           |Str : 23,  Dex: 14,  Con: 23,  Int: 6,  Wis: 9,  Cha: 6 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 5, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Track\|Track]]; |
 | Environment          |Cold mountains (Scrag: Cold aquatic) |
 | Organization:        |Solitary or gang (2-4) |

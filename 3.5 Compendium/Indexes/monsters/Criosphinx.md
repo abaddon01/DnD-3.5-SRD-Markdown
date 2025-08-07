@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Criosphinx
+ - CR7
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Pounce, rake 1d6+3 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 10, Ref: 7, Will: 3 |
+| Saves:               |Fort: +10, Ref: +7, Will: +3 |
 | Abilities:           |Str : 23,  Dex: 10,  Con: 17,  Int: 10,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Intimidate\|Intimidate]]: 8, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Spot\|Spot]]: 1; |
+| Skills:              |[[Skill List#Intimidate\|Intimidate]]: +8, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Spot\|Spot]]: +1; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Warm deserts |
 | Organization:        |Solitary |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Avoral
+ - CR9
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,10 +32,10 @@ alignment: Always neutral good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, fear aura |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/evil Or Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Lay On Hands, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Sonic 10, Speak With Animals, [[Special Abilities#spell resistance\|Spell Resistance]]  25, True Seeing; |
-| Saves:               |Fort: 10 (14 against poison), Ref: 11, Will: 8 |
+| Saves:               |Fort: 10 (14 against poison), Ref: +11, Will: +8 |
 | Abilities:           |Str : 15,  Dex: 23,  Con: 20,  Int: 15,  Wis: 16,  Cha: 16 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 13, [[Skill List#Concentration\|Concentration]]: 15, [[Skill List#Diplomacy\|Diplomacy]]: 7, [[Skill List#Disguise\|Disguise]]: +3 (+5 acting) , [[Skill List#Handle Animal\|Handle Animal]]: 13, [[Skill List#Hide\|Hide]]: 16, [[Skill List#Intimidate\|Intimidate]]: 5, [[Skill List#Knowledge\|Knowledge]]: (any one) 12, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Move Silently\|Move Silently]]: 16, [[Skill List#Ride\|Ride]]: 8, [[Skill List#Sense Motive\|Sense Motive]]: 13, [[Skill List#Spellcraft\|Spellcraft]]: 12, [[Skill List#Spot\|Spot]]: 21; |
-| Feats:               |[[Monster Feats#Empower Spell-Like Ability\|Empower Spell-Like Ability]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +13, [[Skill List#Concentration\|Concentration]]: +15, [[Skill List#Diplomacy\|Diplomacy]]: +7, [[Skill List#Disguise\|Disguise]]: +3 (+5 acting) , [[Skill List#Handle Animal\|Handle Animal]]: +13, [[Skill List#Hide\|Hide]]: +16, [[Skill List#Intimidate\|Intimidate]]: +5, [[Skill List#Knowledge\|Knowledge]]: (any one) 12, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Move Silently\|Move Silently]]: +16, [[Skill List#Ride\|Ride]]: +8, [[Skill List#Sense Motive\|Sense Motive]]: +13, [[Skill List#Spellcraft\|Spellcraft]]: +12, [[Skill List#Spot\|Spot]]: +21; |
+| Feats:               |[[Monster Feats#Empower Spell-Like Ability \|Empower Spell-Like Ability ]](magic missile), [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |A good-aligned plane. |
 | Organization:        |Solitary, pair, or squad (3-5) |
 | Challenge Rating:    |9 |

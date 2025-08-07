@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Minotaur
+ - CR4
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -30,9 +31,9 @@ alignment: Usually chaotic Evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Powerful charge 4d6+6 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Natural Cunning, [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 6, Ref: 5, Will: 5 |
+| Saves:               |Fort: +6, Ref: +5, Will: +5 |
 | Abilities:           |Str : 19,  Dex: 10,  Con: 15,  Int: 7,  Wis: 10,  Cha: 8 |
-| Skills:              |[[Skill List#Intimidate\|Intimidate]]: 2, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Search\|Search]]: 2, [[Skill List#Spot\|Spot]]: 7; |
+| Skills:              |[[Skill List#Intimidate\|Intimidate]]: +2, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Search\|Search]]: +2, [[Skill List#Spot\|Spot]]: +7; |
 | Feats:               |[[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Track\|Track]]; |
 | Environment          |Underground |
 | Organization:        |Solitary, pair, or gang (3-4) |

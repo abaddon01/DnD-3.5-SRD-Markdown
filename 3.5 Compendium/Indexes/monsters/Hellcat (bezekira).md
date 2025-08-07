@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hellcat (bezekira)
+title: 3.5 Compendium / Monsters / Hellcat_(bezekira)
 aliases: 
  - Hellcat (bezekira)
 tags: 
  - 3.5e
  - rules
  - monsters
- - Hellcat (bezekira)
+ - Hellcat_(bezekira)
+ - CR7
 type: Outsider
 subtypes: 
  - Evil
@@ -32,9 +33,9 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Improved grab, pounce, rake 1d8+3 |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Invisible In Light, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  19, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 9, Ref: 11, Will: 8 |
+| Saves:               |Fort: +9, Ref: +11, Will: +8 |
 | Abilities:           |Str : 23,  Dex: 21,  Con: 17,  Int: 10,  Wis: 14,  Cha: 10 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 16, [[Skill List#Climb\|Climb]]: 17, [[Skill List#Hide\|Hide]]: 13, [[Skill List#Jump\|Jump]]: 21, [[Skill List#Listen\|Listen]]: 17, [[Skill List#Move Silently\|Move Silently]]: 20, [[Skill List#Spot\|Spot]]: 13, [[Skill List#Swim\|Swim]]: 17; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +16, [[Skill List#Climb\|Climb]]: +17, [[Skill List#Hide\|Hide]]: +13, [[Skill List#Jump\|Jump]]: +21, [[Skill List#Listen\|Listen]]: +17, [[Skill List#Move Silently\|Move Silently]]: +20, [[Skill List#Spot\|Spot]]: +13, [[Skill List#Swim\|Swim]]: +17; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Track\|Track]]; |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary, pair, or pride (6-10) |

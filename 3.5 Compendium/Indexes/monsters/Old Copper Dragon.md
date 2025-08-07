@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Old Copper Dragon
+title: 3.5 Compendium / Monsters / Old_Copper_Dragon
 aliases: 
  - Old Copper Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Old Copper Dragon
+ - Old_Copper_Dragon
+ - CR19
 type: Copper Dragon(Old)
 cr: 19
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Transmute Rock To Mud/mud To Rock; |
-| Saves:               |Fort: 20, Ref: 15, Will: 19 |
+| Saves:               |Fort: +20, Ref: +15, Will: +19 |
 | Abilities:           |Str: 29, Dex: 10, Con: 21, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young adult Bronze Dragon
+title: 3.5 Compendium / Monsters / Young_adult_Bronze_Dragon
 aliases: 
  - Young adult Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young adult Bronze Dragon
+ - Young_adult_Bronze_Dragon
+ - CR12
 type: Bronze Dragon(Young adult)
 cr: 12
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 5/magic; |
-| Saves:               |Fort: 15, Ref: 11, Will: 15 |
+| Saves:               |Fort: +15, Ref: +11, Will: +15 |
 | Abilities:           |Str: 23, Dex: 10, Con: 19, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

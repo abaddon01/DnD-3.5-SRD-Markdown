@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ancient Brass Dragon
+title: 3.5 Compendium / Monsters / Ancient_Brass_Dragon
 aliases: 
  - Ancient Brass Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ancient Brass Dragon
+ - Ancient_Brass_Dragon
+ - CR20
 type: Brass Dragon(Ancient)
 cr: 20
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Control Weather; |
-| Saves:               |Fort: 23, Ref: 17, Will: 21 |
+| Saves:               |Fort: +23, Ref: +17, Will: +21 |
 | Abilities:           |Str: 33, Dex: 10, Con: 23, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

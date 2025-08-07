@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling Red Dragon
+title: 3.5 Compendium / Monsters / Wyrmling_Red_Dragon
 aliases: 
  - Wyrmling Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrmling Red Dragon
+ - Wyrmling_Red_Dragon
+ - CR4
 type: Red Dragon(Wyrmling)
 cr: 4
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Immunity To Fire, Vulnerability To Cold; |
-| Saves:               |Fort: 7, Ref: 5, Will: 5 |
+| Saves:               |Fort: +7, Ref: +5, Will: +5 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 10, Wis: 11, Cha: 10 |
 | Skills:              |; |
 | Feats:               |; |

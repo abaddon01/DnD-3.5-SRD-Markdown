@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Bear
+title: 3.5 Compendium / Monsters / Dire_Bear
 aliases: 
  - Dire Bear
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Bear
+ - Dire_Bear
+ - CR7
 type: Animal
 cr: 7
 environment: Cold forests
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Improved grab |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 12, Ref: 9, Will: 9 |
+| Saves:               |Fort: +12, Ref: +9, Will: +9 |
 | Abilities:           |Str : 31,  Dex: 13,  Con: 19,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 10, [[Skill List#Spot\|Spot]]: 10, [[Skill List#Swim\|Swim]]: 13; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Endurance\|Endurance]], [[Feat List#Run\|Run]], [[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +10, [[Skill List#Spot\|Spot]]: +10, [[Skill List#Swim\|Swim]]: +13; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Endurance\|Endurance]], [[Feat List#Run\|Run]], [[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus \|Weapon Focus ]](claw); |
 | Environment          |Cold forests |
 | Organization:        |Solitary or pair |
 | Challenge Rating:    |7 |

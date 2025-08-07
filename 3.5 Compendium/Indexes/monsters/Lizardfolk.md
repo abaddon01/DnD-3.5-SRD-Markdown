@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Lizardfolk
+ - CR1
 type: Humanoid
 subtypes: 
  - Reptilian
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |Hold Breath; |
-| Saves:               |Fort: 1, Ref: 3, Will: 0 |
+| Saves:               |Fort: +1, Ref: +3, Will: 0 |
 | Abilities:           |Str : 13,  Dex: 10,  Con: 13,  Int: 9,  Wis: 10,  Cha: 10 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 4, [[Skill List#Jump\|Jump]]: 5, [[Skill List#Swim\|Swim]]: 2; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +4, [[Skill List#Jump\|Jump]]: +5, [[Skill List#Swim\|Swim]]: +2; |
 | Feats:               |[[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |Temperate marshes |
 | Organization:        |Gang (2-3), band (6-10 plus 50% noncombatants plus 1 leader of 3rd-6th level), or tribe (30-60 plus 2 lieutenants of 3rd-6th level and 1 leader of 4th-10th level) |

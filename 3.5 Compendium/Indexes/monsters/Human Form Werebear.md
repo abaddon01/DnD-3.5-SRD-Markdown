@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human Form Werebear
+title: 3.5 Compendium / Monsters / Human_Form_Werebear
 aliases: 
  - Human Form Werebear
 tags: 
  - 3.5e
  - rules
  - monsters
- - Human Form Werebear
+ - Human_Form_Werebear
+ - CR5
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always lawful good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Bear Empathy, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 8, Ref: 5, Will: 4 |
+| Saves:               |Fort: +8, Ref: +5, Will: +4 |
 | Abilities:           |Str : 13,  Dex: 11,  Con: 12,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 3, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 4, [[Skill List#Swim\|Swim]]: 1; |
+| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: +3, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +4, [[Skill List#Swim\|Swim]]: +1; |
 | Feats:               |[[Feat List#Endurance\|Endurance]], [[Feat List#Iron Will \|Iron Will ]](B), [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Run\|Run]], [[Feat List#Track \|Track ]](B); |
 | Environment          |Cold forests |
 | Organization:        |Solitary, pair, family (3-4), or troupe (2-4 plus 1-4 brown bears) |

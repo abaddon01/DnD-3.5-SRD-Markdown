@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Tyrannosaurus
+ - CR8
 type: Animal
 cr: 8
 environment: Warm plains
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Improved grab, swallow whole |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 16, Ref: 12, Will: 8 |
+| Saves:               |Fort: +16, Ref: +12, Will: +8 |
 | Abilities:           |Str : 28,  Dex: 12,  Con: 21,  Int: 2,  Wis: 15,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: -2, [[Skill List#Listen\|Listen]]: 14, [[Skill List#Spot\|Spot]]: 14; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Improved Natural Attack\|Improved Natural Attack]], [[Feat List#Run\|Run]], [[Feat List#Toughness\|Toughness]], [[Feat List#Track\|Track]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: -2, [[Skill List#Listen\|Listen]]: +14, [[Skill List#Spot\|Spot]]: +14; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Improved Natural Attack \|Improved Natural Attack ]](bite), [[Feat List#Run\|Run]], [[Feat List#Toughness \|Toughness ]](3), [[Feat List#Track\|Track]]; |
 | Environment          |Warm plains |
 | Organization:        |Solitary or pair |
 | Challenge Rating:    |8 |

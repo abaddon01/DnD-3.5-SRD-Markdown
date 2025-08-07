@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ancient Gold Dragon
+title: 3.5 Compendium / Monsters / Ancient_Gold_Dragon
 aliases: 
  - Ancient Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ancient Gold Dragon
+ - Ancient_Gold_Dragon
+ - CR24
 type: Gold Dragon(Ancient)
 cr: 24
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Sunburst; |
-| Saves:               |Fort: 28, Ref: 19, Will: 28 |
+| Saves:               |Fort: +28, Ref: +19, Will: +28 |
 | Abilities:           |Str: 43, Dex: 10, Con: 29, Int: 28, Wis: 29, Cha: 28 |
 | Skills:              |; |
 | Feats:               |; |

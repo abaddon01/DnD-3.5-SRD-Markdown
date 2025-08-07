@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Boar
+title: 3.5 Compendium / Monsters / Dire_Boar
 aliases: 
  - Dire Boar
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Boar
+ - Dire_Boar
+ - CR4
 type: Animal
 cr: 4
 environment: Temperate forests
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Ferocity |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 8, Ref: 5, Will: 8 |
+| Saves:               |Fort: +8, Ref: +5, Will: +8 |
 | Abilities:           |Str : 27,  Dex: 10,  Con: 17,  Int: 2,  Wis: 13,  Cha: 8 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 8, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +8, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Endurance\|Endurance]], [[Feat List#Iron Will\|Iron Will]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary or herd (5-8) |

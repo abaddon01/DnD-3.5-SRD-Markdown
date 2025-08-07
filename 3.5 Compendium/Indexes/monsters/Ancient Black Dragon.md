@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ancient Black Dragon
+title: 3.5 Compendium / Monsters / Ancient_Black_Dragon
 aliases: 
  - Ancient Black Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ancient Black Dragon
+ - Ancient_Black_Dragon
+ - CR19
 type: Black Dragon(Ancient)
 cr: 19
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Insect Plague; |
-| Saves:               |Fort: 23, Ref: 17, Will: 20 |
+| Saves:               |Fort: +23, Ref: +17, Will: +20 |
 | Abilities:           |Str: 33, Dex: 10, Con: 23, Int: 16, Wis: 17, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

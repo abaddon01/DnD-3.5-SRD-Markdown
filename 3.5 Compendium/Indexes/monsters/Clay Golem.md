@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Clay Golem
+title: 3.5 Compendium / Monsters / Clay_Golem
 aliases: 
  - Clay Golem
 tags: 
  - 3.5e
  - rules
  - monsters
- - Clay Golem
+ - Clay_Golem
+ - CR10
 type: Construct
 cr: 10
 environment: Any
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Berserk, cursed wound |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine And Bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Haste, Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 3, Ref: 2, Will: 3 |
+| Saves:               |Fort: +3, Ref: +2, Will: +3 |
 | Abilities:           |Str : 25,  Dex: 9,  Con: -1,  Int: -1,  Wis: 11,  Cha: 1 |
 | Skills:              |; |
-| Feats:               |; |
+| Feats:               |[[Feat List#--\|--]]; |
 | Environment          |Any |
 | Organization:        |Solitary or gang (2-4) |
 | Challenge Rating:    |10 |

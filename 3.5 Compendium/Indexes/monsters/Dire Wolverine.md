@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Wolverine
+title: 3.5 Compendium / Monsters / Dire_Wolverine
 aliases: 
  - Dire Wolverine
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Wolverine
+ - Dire_Wolverine
+ - CR4
 type: Animal
 cr: 4
 environment: Cold forests
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Rage |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 8, Ref: 7, Will: 5 |
+| Saves:               |Fort: +8, Ref: +7, Will: +5 |
 | Abilities:           |Str : 22,  Dex: 17,  Con: 19,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 14, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Spot\|Spot]]: 7; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +14, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Spot\|Spot]]: +7; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Toughness\|Toughness]], [[Feat List#Track \|Track ]](B); |
 | Environment          |Cold forests |
 | Organization:        |Solitary or pair |

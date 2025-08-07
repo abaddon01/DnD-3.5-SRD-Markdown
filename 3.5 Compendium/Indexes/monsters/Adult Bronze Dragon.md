@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult Bronze Dragon
+title: 3.5 Compendium / Monsters / Adult_Bronze_Dragon
 aliases: 
  - Adult Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Adult Bronze Dragon
+ - Adult_Bronze_Dragon
+ - CR15
 type: Bronze Dragon(Adult)
 cr: 15
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Create Food And Water, Fog Cloud; |
-| Saves:               |Fort: 17, Ref: 12, Will: 17 |
+| Saves:               |Fort: +17, Ref: +12, Will: +17 |
 | Abilities:           |Str: 27, Dex: 10, Con: 21, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

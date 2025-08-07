@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Mohrg
+ - CR8
 type: Undead
 cr: 8
 environment: Any
@@ -28,9 +29,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Improved grab, paralyzing touch, create spawn |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 4, Ref: 10, Will: 9 |
+| Saves:               |Fort: +4, Ref: +10, Will: +9 |
 | Abilities:           |Str : 21,  Dex: 19,  Con: -1,  Int: 11,  Wis: 10,  Cha: 10 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 13, [[Skill List#Hide\|Hide]]: 21, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Move Silently\|Move Silently]]: 21, [[Skill List#Spot\|Spot]]: 15, [[Skill List#Swim\|Swim]]: 9; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +13, [[Skill List#Hide\|Hide]]: +21, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +21, [[Skill List#Spot\|Spot]]: +15, [[Skill List#Swim\|Swim]]: +9; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Mobility\|Mobility]]; |
 | Environment          |Any |
 | Organization:        |Solitary, gang (2-4), or mob (2-4 plus 5-10 zombies) |

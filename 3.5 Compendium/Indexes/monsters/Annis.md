@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Annis
+ - CR6
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Improved grab, rake 1d6+7, rend 2d6+10, spell-like abilities |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  2/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  19; |
-| Saves:               |Fort: 6, Ref: 6, Will: 6 |
+| Saves:               |Fort: +6, Ref: +6, Will: +6 |
 | Abilities:           |Str : 25,  Dex: 12,  Con: 14,  Int: 13,  Wis: 13,  Cha: 10 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 8, [[Skill List#Diplomacy\|Diplomacy]]: 2, [[Skill List#Disguise\|Disguise]]: +0 (+2 acting) , [[Skill List#Hide\|Hide]]: 5, [[Skill List#Intimidate\|Intimidate]]: 2, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Spot\|Spot]]: 10; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +8, [[Skill List#Diplomacy\|Diplomacy]]: +2, [[Skill List#Disguise\|Disguise]]: +0 (+2 acting) , [[Skill List#Hide\|Hide]]: +5, [[Skill List#Intimidate\|Intimidate]]: +2, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Spot\|Spot]]: +10; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Great Fortitude\|Great Fortitude]]; |
 | Environment          |Cold marshes |
 | Organization:        |Solitary or covey (3 hags of any kind plus 1-8 ogres and 1-4 evil giants) |

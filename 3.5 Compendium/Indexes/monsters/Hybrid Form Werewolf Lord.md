@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid Form Werewolf Lord
+title: 3.5 Compendium / Monsters / Hybrid_Form_Werewolf_Lord
 aliases: 
  - Hybrid Form Werewolf Lord
 tags: 
  - 3.5e
  - rules
  - monsters
- - Hybrid Form Werewolf Lord
+ - Hybrid_Form_Werewolf_Lord
+ - CR14
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Wolf Empathy, [[Special Abilities#damage reduction\|Damage Reduction]]  10/silver, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 17, Ref: 12, Will: 11 |
+| Saves:               |Fort: +17, Ref: +12, Will: +11 |
 | Abilities:           |Str : 32,  Dex: 18,  Con: 20 Int 10,  Wis: 12,  Cha: 12 |
-| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 4, [[Skill List#Hide\|Hide]]: 6, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Move Silently\|Move Silently]]: 12, [[Skill List#Spot\|Spot]]: 13, [[Skill List#Survival\|Survival]]: 5*; |
+| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: +4, [[Skill List#Hide\|Hide]]: +6, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Move Silently\|Move Silently]]: +12, [[Skill List#Spot\|Spot]]: +13, [[Skill List#Survival\|Survival]]: 5*; |
 | Feats:               |[[Feat List#\|]](same as human form); |
 | Environment          |Temperate forests |
 | Organization:        |(same as human form) |

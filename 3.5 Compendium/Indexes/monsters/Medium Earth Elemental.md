@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium Earth Elemental
+title: 3.5 Compendium / Monsters / Medium_Earth_Elemental
 aliases: 
  - Medium Earth Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Medium Earth Elemental
+ - Medium_Earth_Elemental
+ - CR3
 type: Elemental
 subtypes: 
  - Earth
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Earth Glide, [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 7, Ref: 0, Will: 1 |
+| Saves:               |Fort: +7, Ref: 0, Will: +1 |
 | Abilities:           |Str : 21,  Dex: 8,  Con: 17,  Int: 4,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Earth |
 | Organization:        |Solitary |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Grick
+ - CR3
 type: Aberration
 cr: 3
 environment: Underground
@@ -28,10 +29,10 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 0, Ref: 2, Will: 5 |
+| Saves:               |Fort: 0, Ref: +2, Will: +5 |
 | Abilities:           |Str : 14,  Dex: 14,  Con: 11,  Int: 3,  Wis: 14,  Cha: 5 |
 | Skills:              |[[Skill List#Climb\|Climb]]: 10Hide3*Listen6Spot6; |
-| Feats:               |; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Track \|Track ]](B); |
 | Environment          |Underground |
 | Organization:        |Solitary or cluster (2-4) |
 | Challenge Rating:    |3 |

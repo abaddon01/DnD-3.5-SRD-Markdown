@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile Brass Dragon
+title: 3.5 Compendium / Monsters / Juvenile_Brass_Dragon
 aliases: 
  - Juvenile Brass Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile Brass Dragon
+ - Juvenile_Brass_Dragon
+ - CR8
 type: Brass Dragon(Juvenile)
 cr: 8
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Endure Elements; |
-| Saves:               |Fort: 10, Ref: 8, Will: 9 |
+| Saves:               |Fort: +10, Ref: +8, Will: +9 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

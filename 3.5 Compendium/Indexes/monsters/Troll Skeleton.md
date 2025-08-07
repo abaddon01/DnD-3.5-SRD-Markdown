@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Troll Skeleton
+title: 3.5 Compendium / Monsters / Troll_Skeleton
 aliases: 
  - Troll Skeleton
 tags: 
  - 3.5e
  - rules
  - monsters
- - Troll Skeleton
+ - Troll_Skeleton
+ - CR3
 type: Undead
 cr: 3
 environment: Cold mountains
@@ -28,7 +29,7 @@ alignment: Always neutral evil
 | Space/Reach:         |10 ft./10 ft |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 2, Ref: 5, Will: 5 |
+| Saves:               |Fort: +2, Ref: +5, Will: +5 |
 | Abilities:           |Str : 23,  Dex: 16,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]]; |

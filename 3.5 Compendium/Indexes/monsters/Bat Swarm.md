@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Bat Swarm
+title: 3.5 Compendium / Monsters / Bat_Swarm
 aliases: 
  - Bat Swarm
 tags: 
  - 3.5e
  - rules
  - monsters
- - Bat Swarm
+ - Bat_Swarm
+ - CR2
 type: Animal
 subtypes: 
  - Swarm
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./0 ft. |
 | Special Attacks:     |Distraction, wounding |
 | Special Qualities    |Blindsense 20 Ft., Immune To Weapon Damage, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Traits#swarm traits\|Swarm Traits]] ; |
-| Saves:               |Fort: 3, Ref: 7, Will: 3 |
+| Saves:               |Fort: +3, Ref: +7, Will: +3 |
 | Abilities:           |Str : 3,  Dex: 15,  Con: 10,  Int: 2,  Wis: 14,  Cha: 4 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 11, [[Skill List#Spot\|Spot]]: 11; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +11, [[Skill List#Spot\|Spot]]: +11; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |Temperate deserts |
 | Organization:        |Solitary, flight (2-4 swarms), or colony (11-20 swarms) |

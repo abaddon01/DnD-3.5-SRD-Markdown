@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Balor
+ - CR20
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,10 +33,10 @@ alignment: Always chaotic evil
 | Space/Reach:         |10 ft./10 ft. (20 ft. with +1 flaming whip) |
 | Special Attacks:     |Death throes, entangle, spell-like abilities, summon demon, vorpal sword |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  15/cold Iron And Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flaming Body, Immunity To Electricity, Fire, And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, [[Special Abilities#spell resistance\|Spell Resistance]]  28, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., True Seeing; |
-| Saves:               |Fort: 22, Ref: 19, Will: 19 |
+| Saves:               |Fort: +22, Ref: +19, Will: +19 |
 | Abilities:           |Str : 35,  Dex: 25,  Con: 31,  Int: 24,  Wis: 24,  Cha: 26 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 31, [[Skill List#Concentration\|Concentration]]: 33, [[Skill List#Diplomacy\|Diplomacy]]: 35, [[Skill List#Disguise\|Disguise]]: +8 (+10 acting) , [[Skill List#Hide\|Hide]]: 26, [[Skill List#Intimidate\|Intimidate]]: 33, [[Skill List#Knowledge\|Knowledge]]: (any two) 30, [[Skill List#Listen\|Listen]]: 38, [[Skill List#Move Silently\|Move Silently]]: 30, [[Skill List#Search\|Search]]: 30, [[Skill List#Sense Motive\|Sense Motive]]: 30, [[Skill List#Spellcraft\|Spellcraft]]: +30 (+32 scrolls) , [[Skill List#Spot\|Spot]]: 38, [[Skill List#Survival\|Survival]]: +7 (+9 following tracks) , [[Skill List#Use Magic Device\|Use Magic Device]]: 31(33scrolls)+31 (+33 scrolls); |
-| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Improved Two-Weapon Fighting\|Improved Two-Weapon Fighting]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability\|Quicken Spell-Like Ability]], [[Feat List#Two-Weapon Fighting\|Two-Weapon Fighting]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +31, [[Skill List#Concentration\|Concentration]]: +33, [[Skill List#Diplomacy\|Diplomacy]]: +35, [[Skill List#Disguise\|Disguise]]: +8 (+10 acting) , [[Skill List#Hide\|Hide]]: +26, [[Skill List#Intimidate\|Intimidate]]: +33, [[Skill List#Knowledge\|Knowledge]]: (any two) 30, [[Skill List#Listen\|Listen]]: +38, [[Skill List#Move Silently\|Move Silently]]: +30, [[Skill List#Search\|Search]]: +30, [[Skill List#Sense Motive\|Sense Motive]]: +30, [[Skill List#Spellcraft\|Spellcraft]]: +30 (+32 scrolls) , [[Skill List#Spot\|Spot]]: +38, [[Skill List#Survival\|Survival]]: +7 (+9 following tracks) , [[Skill List#Use Magic Device\|Use Magic Device]]: 31(33scrolls)+31 (+33 scrolls); |
+| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Improved Two-Weapon Fighting\|Improved Two-Weapon Fighting]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability \|Quicken Spell-Like Ability ]](telekinesis), [[Feat List#Two-Weapon Fighting\|Two-Weapon Fighting]], [[Feat List#Weapon Focus \|Weapon Focus ]](longsword); |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary or troupe (1 balor, 1 marilith, and 2-5 hezrous) |
 | Challenge Rating:    |20 |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Mummy
+ - CR5
 type: Undead
 cr: 5
 environment: Any
@@ -28,9 +29,9 @@ alignment: Usually lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Despair, mummy rot |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] , Vulnerability To Fire; |
-| Saves:               |Fort: 4, Ref: 2, Will: 8 |
+| Saves:               |Fort: +4, Ref: +2, Will: +8 |
 | Abilities:           |Str : 24,  Dex: 10,  Con: -1,  Int: 6,  Wis: 14,  Cha: 15 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 7, [[Skill List#Listen\|Listen]]: 8, [[Skill List#Move Silently\|Move Silently]]: 7, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +7, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Move Silently\|Move Silently]]: +7, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Any |
 | Organization:        |Solitary, warden squad (2-4), or guardian detail (6-10) |

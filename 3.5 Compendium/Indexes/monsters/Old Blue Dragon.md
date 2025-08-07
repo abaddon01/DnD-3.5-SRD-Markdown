@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Old Blue Dragon
+title: 3.5 Compendium / Monsters / Old_Blue_Dragon
 aliases: 
  - Old Blue Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Old Blue Dragon
+ - Old_Blue_Dragon
+ - CR18
 type: Blue Dragon(Old)
 cr: 18
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Hallucinatory Terrain; |
-| Saves:               |Fort: 21, Ref: 15, Will: 19 |
+| Saves:               |Fort: +21, Ref: +15, Will: +19 |
 | Abilities:           |Str: 31, Dex: 10, Con: 23, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

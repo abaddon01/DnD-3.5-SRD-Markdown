@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gray Ooze
+title: 3.5 Compendium / Monsters / Gray_Ooze
 aliases: 
  - Gray Ooze
 tags: 
  - 3.5e
  - rules
  - monsters
- - Gray Ooze
+ - Gray_Ooze
+ - CR4
 type: Ooze
 cr: 4
 environment: Cold marshes
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Acid, constrict 1d6+1 plus 1d6 acid, improved grab |
 | Special Qualities    |Blindsight 60 Ft., Immunity To Cold And Fire, [[Traits#ooze traits\|Ooze Traits]] , Transparent; |
-| Saves:               |Fort: 6, Ref: -4, Will: -4 |
+| Saves:               |Fort: +6, Ref: -4, Will: -4 |
 | Abilities:           |Str : 12,  Dex: 1,  Con: 21,  Int: -1,  Wis: 1,  Cha: 1 |
 | Skills:              |; |
-| Feats:               |; |
+| Feats:               |[[Feat List#--\|--]]; |
 | Environment          |Cold marshes |
 | Organization:        |Solitary |
 | Challenge Rating:    |4 |

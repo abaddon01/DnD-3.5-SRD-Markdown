@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Great wyrm White Dragon
+title: 3.5 Compendium / Monsters / Great_wyrm_White_Dragon
 aliases: 
  - Great wyrm White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Great wyrm White Dragon
+ - Great_wyrm_White_Dragon
+ - CR21
 type: White Dragon(Great wyrm)
 cr: 21
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Control Weather; |
-| Saves:               |Fort: 28, Ref: 20, Will: 24 |
+| Saves:               |Fort: +28, Ref: +20, Will: +24 |
 | Abilities:           |Str: 37, Dex: 10, Con: 27, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

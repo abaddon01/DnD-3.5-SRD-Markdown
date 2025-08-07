@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Noble Salamander
+title: 3.5 Compendium / Monsters / Noble_Salamander
 aliases: 
  - Noble Salamander
 tags: 
  - 3.5e
  - rules
  - monsters
- - Noble Salamander
+ - Noble_Salamander
+ - CR10
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Usually evil (any)
 | Space/Reach:         |10 ft./10 ft. (20 ft. with tail or longspear) |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  15/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Vulnerability To Cold; |
-| Saves:               |Fort: 12, Ref: 10, Will: 11 |
+| Saves:               |Fort: +12, Ref: +10, Will: +11 |
 | Abilities:           |Str : 22,  Dex: 13,  Con: 16,  Int: 16,  Wis: 15,  Cha: 15 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 19, [[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: 25, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Hide\|Hide]]: 15, [[Skill List#Intimidate\|Intimidate]]: 4, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Move Silently\|Move Silently]]: 17, [[Skill List#Spot\|Spot]]: 13; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +19, [[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: +25, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Hide\|Hide]]: +15, [[Skill List#Intimidate\|Intimidate]]: +4, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Move Silently\|Move Silently]]: +17, [[Skill List#Spot\|Spot]]: +13; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Skill Focus \|Skill Focus ]](Craft [blacksmithing]); |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary, pair, or noble party (9-14) |

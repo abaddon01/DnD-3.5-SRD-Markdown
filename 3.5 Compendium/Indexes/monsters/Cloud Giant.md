@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Cloud Giant
+title: 3.5 Compendium / Monsters / Cloud_Giant
 aliases: 
  - Cloud Giant
 tags: 
  - 3.5e
  - rules
  - monsters
- - Cloud Giant
+ - Cloud_Giant
+ - CR11
 type: Giant
 subtypes: 
  - Air
@@ -30,9 +31,9 @@ alignment: Usually neutral good or neutral evil
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     |Rock throwing, spell-like abilities |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , Oversized Weapon, Rock Catching, [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 16, Ref: 6, Will: 10 |
+| Saves:               |Fort: +16, Ref: +6, Will: +10 |
 | Abilities:           |Str : 35,  Dex: 13,  Con: 23,  Int: 12,  Wis: 16,  Cha: 13 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 19, [[Skill List#Craft\|Craft]]: (any one) 11, [[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Intimidate\|Intimidate]]: 11, [[Skill List#Listen\|Listen]]: 15, [[Skill List#Perform\|Perform]]: (stringed instrument) 2, [[Skill List#Sense Motive\|Sense Motive]]: 9, [[Skill List#Spot\|Spot]]: 15; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +19, [[Skill List#Craft\|Craft]]: (any one) 11, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Intimidate\|Intimidate]]: +11, [[Skill List#Listen\|Listen]]: +15, [[Skill List#Perform\|Perform]]: (stringed instrument) 2, [[Skill List#Sense Motive\|Sense Motive]]: +9, [[Skill List#Spot\|Spot]]: +15; |
 | Feats:               |[[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Improved Overrun\|Improved Overrun]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Temperate mountains |
 | Organization:        |Solitary, gang (2-4), family (2-4 plus 35% noncombatants plus 1 sorcerer or cleric of 4th-7th level plus 2-5 griffons or 2-8 dire lions), or band (6-9 plus 1 sorcerer or cleric of 4th-7th level plus 2-5 griffons or 2-8 dire lions) |

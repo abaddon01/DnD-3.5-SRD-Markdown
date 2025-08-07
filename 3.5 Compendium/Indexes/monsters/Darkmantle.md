@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Darkmantle
+ - CR1
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Darkness, improved grab, constrict 1d4+4 |
 | Special Qualities    |Blindsight 90 Ft.; |
-| Saves:               |Fort: 3, Ref: 2, Will: 0 |
+| Saves:               |Fort: +3, Ref: +2, Will: 0 |
 | Abilities:           |Str : 16,  Dex: 10,  Con: 13,  Int: 2,  Wis: 10,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 10, [[Skill List#Listen\|Listen]]: 5*, [[Skill List#Spot\|Spot]]: 5*; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +10, [[Skill List#Listen\|Listen]]: 5*, [[Skill List#Spot\|Spot]]: 5*; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Underground |
 | Organization:        |Solitary, pair, clutch (3-9), or swarm (6-15) |

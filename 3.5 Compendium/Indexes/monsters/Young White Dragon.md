@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young White Dragon
+title: 3.5 Compendium / Monsters / Young_White_Dragon
 aliases: 
  - Young White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young White Dragon
+ - Young_White_Dragon
+ - CR4
 type: White Dragon(Young)
 cr: 4
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 8, Ref: 6, Will: 6 |
+| Saves:               |Fort: +8, Ref: +6, Will: +6 |
 | Abilities:           |Str: 15, Dex: 10, Con: 15, Int: 6, Wis: 11, Cha: 6 |
 | Skills:              |; |
 | Feats:               |; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Colossal Animated Object
+title: 3.5 Compendium / Monsters / Colossal_Animated_Object
 aliases: 
  - Colossal Animated Object
 tags: 
  - 3.5e
  - rules
  - monsters
- - Colossal Animated Object
+ - Colossal_Animated_Object
+ - CR10
 type: Construct
 cr: 10
 environment: Any
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |30 ft./20 ft. (long) 30 ft./30 ft. (tall) |
 | Special Attacks:     | |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; |
-| Saves:               |Fort: 10, Ref: 7, Will: 5 |
+| Saves:               |Fort: +10, Ref: +7, Will: +5 |
 | Abilities:           |Str : 28,  Dex: 4,  Con: -1,  Int: -1,  Wis: 1,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#--\|--]]; |

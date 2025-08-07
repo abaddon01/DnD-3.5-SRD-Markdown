@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Vampire Spawn
+title: 3.5 Compendium / Monsters / Vampire_Spawn
 aliases: 
  - Vampire Spawn
 tags: 
  - 3.5e
  - rules
  - monsters
- - Vampire Spawn
+ - Vampire_Spawn
+ - CR4
 type: Undead
 cr: 4
 environment: Any
@@ -28,10 +29,10 @@ alignment: Always evil (any)
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Blood drain, domination, energy drain |
 | Special Qualities    |+2 Turn Resistance, [[Special Abilities#damage reduction\|Damage Reduction]]  5/silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, [[Special Abilities#gaseous form\|Gaseous Form]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Electricity 10, [[Special Abilities#climb\|Spider Climb]] , [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 1, Ref: 5, Will: 5 |
+| Saves:               |Fort: +1, Ref: +5, Will: +5 |
 | Abilities:           |Str : 16,  Dex: 14,  Con: -1,  Int: 13,  Wis: 13,  Cha: 14 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 6, [[Skill List#Climb\|Climb]]: 8, [[Skill List#Craft\|Craft]]: or, [[Skill List#Profession\|Profession]]: (any one) 4, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Hide\|Hide]]: 10, [[Skill List#Jump\|Jump]]: 8, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Move Silently\|Move Silently]]: 10, [[Skill List#Search\|Search]]: 8, [[Skill List#Sense Motive\|Sense Motive]]: 11, [[Skill List#Spot\|Spot]]: 11; |
-| Feats:               |[[Feat List#Alertness \|Alertness ]](B), [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Lightning Reflexes \|Lightning Reflexes ]](B), [[Feat List#Skill Focus\|Skill Focus]], [[Feat List#Toughness\|Toughness]]; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +6, [[Skill List#Climb\|Climb]]: +8, [[Skill List#Craft\|Craft]]: or, [[Skill List#Profession\|Profession]]: (any one) 4, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Hide\|Hide]]: +10, [[Skill List#Jump\|Jump]]: +8, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +10, [[Skill List#Search\|Search]]: +8, [[Skill List#Sense Motive\|Sense Motive]]: +11, [[Skill List#Spot\|Spot]]: +11; |
+| Feats:               |[[Feat List#Alertness \|Alertness ]](B), [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Lightning Reflexes \|Lightning Reflexes ]](B), [[Feat List#Skill Focus \|Skill Focus ]](selected Craft or Profession skill), [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Any |
 | Organization:        |Solitary or pack (2-5) |
 | Challenge Rating:    |4 |

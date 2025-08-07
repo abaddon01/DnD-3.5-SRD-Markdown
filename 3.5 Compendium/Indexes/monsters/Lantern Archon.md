@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Lantern Archon
+title: 3.5 Compendium / Monsters / Lantern_Archon
 aliases: 
  - Lantern Archon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Lantern Archon
+ - Lantern_Archon
+ - CR2
 type: Outsider
 subtypes: 
  - Archon
@@ -33,9 +34,9 @@ alignment: Always lawful good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities |
 | Special Qualities    |Aura Of Menace, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, Teleport, Tongues; |
-| Saves:               |Fort: 2 (6 against poison), Ref: 2, Will: 2 |
+| Saves:               |Fort: 2 (6 against poison), Ref: +2, Will: +2 |
 | Abilities:           |Str : 1,  Dex: 11,  Con: 10,  Int: 6,  Wis: 11,  Cha: 10 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 4, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Knowledge\|Knowledge]]: (the planes) 2, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Sense Motive\|Sense Motive]]: 4, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +4, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Knowledge\|Knowledge]]: (the planes) 2, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Sense Motive\|Sense Motive]]: +4, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |A lawful good-aligned plane |
 | Organization:        |Solitary, pair, or squad (3-5) |

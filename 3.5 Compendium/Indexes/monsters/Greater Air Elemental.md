@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater Air Elemental
+title: 3.5 Compendium / Monsters / Greater_Air_Elemental
 aliases: 
  - Greater Air Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Greater Air Elemental
+ - Greater_Air_Elemental
+ - CR9
 type: Elemental
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 11, Ref: 22, Will: 9 |
+| Saves:               |Fort: +11, Ref: +22, Will: +9 |
 | Abilities:           |Str : 20,  Dex: 31,  Con: 18,  Int: 8,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 14, [[Skill List#Spot\|Spot]]: 14; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +14, [[Skill List#Spot\|Spot]]: +14; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-fight\|Blind-fight]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Iron Will\|Iron Will]], [[Feat List#Mobility\|Mobility]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Spring Attack\|Spring Attack]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary |

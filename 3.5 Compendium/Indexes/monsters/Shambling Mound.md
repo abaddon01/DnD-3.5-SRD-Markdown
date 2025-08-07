@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Shambling Mound
+title: 3.5 Compendium / Monsters / Shambling_Mound
 aliases: 
  - Shambling Mound
 tags: 
  - 3.5e
  - rules
  - monsters
- - Shambling Mound
+ - Shambling_Mound
+ - CR6
 type: Plant
 cr: 6
 environment: Temperate marshes
@@ -28,10 +29,10 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Improved grab, constrict 2d6+7 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10; |
-| Saves:               |Fort: 9, Ref: 2, Will: 4 |
+| Saves:               |Fort: +9, Ref: +2, Will: +4 |
 | Abilities:           |Str : 21,  Dex: 10,  Con: 17,  Int: 7,  Wis: 10,  Cha: 9 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 3*, [[Skill List#Listen\|Listen]]: 8, [[Skill List#Move Silently\|Move Silently]]: 8; |
-| Feats:               |[[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 3*, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Move Silently\|Move Silently]]: +8; |
+| Feats:               |[[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus \|Weapon Focus ]](slam); |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary |
 | Challenge Rating:    |6 |

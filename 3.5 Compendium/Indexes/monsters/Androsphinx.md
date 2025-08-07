@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Androsphinx
+ - CR9
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always chaotic good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Pounce, rake 2d4+3, roar, spells |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 12, Ref: 8, Will: 7 |
+| Saves:               |Fort: +12, Ref: +8, Will: +7 |
 | Abilities:           |Str : 25,  Dex: 10,  Con: 19,  Int: 16,  Wis: 17,  Cha: 17 |
-| Skills:              |[[Skill List#Intimidate\|Intimidate]]: 17, [[Skill List#Knowledge\|Knowledge]]: (any one) 18, [[Skill List#Listen\|Listen]]: 18, [[Skill List#Spot\|Spot]]: 18, [[Skill List#Survival\|Survival]]: 18; |
+| Skills:              |[[Skill List#Intimidate\|Intimidate]]: +17, [[Skill List#Knowledge\|Knowledge]]: (any one) 18, [[Skill List#Listen\|Listen]]: +18, [[Skill List#Spot\|Spot]]: +18, [[Skill List#Survival\|Survival]]: +18; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Track\|Track]]; |
 | Environment          |Warm deserts |
 | Organization:        |Solitary |

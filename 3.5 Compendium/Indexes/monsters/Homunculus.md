@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Homunculus
+ - CR1
 type: Construct
 cr: 1
 environment: Any
@@ -28,9 +29,9 @@ alignment: Any (same as creator)
 | Space/Reach:         |2-1/2 ft./0 ft. |
 | Special Attacks:     |Poison |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 0, Ref: 4, Will: 1 |
+| Saves:               |Fort: 0, Ref: +4, Will: +1 |
 | Abilities:           |Str : 8,  Dex: 15,  Con: -1,  Int: 10,  Wis: 12,  Cha: 7 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 14, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +14, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |Any |
 | Organization:        |Solitary |

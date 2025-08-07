@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Ettercap
+ - CR3
 type: Aberration
 cr: 3
 environment: Warm forests
@@ -28,9 +29,9 @@ alignment: Usually neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Poison, web |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 4, Ref: 4, Will: 6 |
+| Saves:               |Fort: +4, Ref: +4, Will: +6 |
 | Abilities:           |Str : 14,  Dex: 17,  Con: 13,  Int: 6,  Wis: 15,  Cha: 8 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 10, [[Skill List#Craft\|Craft]]: (trapmaking) 4, [[Skill List#Hide\|Hide]]: 9, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +10, [[Skill List#Craft\|Craft]]: (trapmaking) 4, [[Skill List#Hide\|Hide]]: +9, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Feat List#Great Fortitude\|Great Fortitude]], [[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |Warm forests |
 | Organization:        |Solitary, pair, or troupe (1-2 plus 2-4 Medium monstrous spiders) |

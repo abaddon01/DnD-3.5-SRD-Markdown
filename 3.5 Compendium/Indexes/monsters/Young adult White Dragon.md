@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young adult White Dragon
+title: 3.5 Compendium / Monsters / Young_adult_White_Dragon
 aliases: 
  - Young adult White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young adult White Dragon
+ - Young_adult_White_Dragon
+ - CR8
 type: White Dragon(Young adult)
 cr: 8
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 5/magic; |
-| Saves:               |Fort: 12, Ref: 9, Will: 9 |
+| Saves:               |Fort: +12, Ref: +9, Will: +9 |
 | Abilities:           |Str: 19, Dex: 10, Con: 17, Int: 8, Wis: 11, Cha: 10 |
 | Skills:              |; |
 | Feats:               |; |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Elasmosaurus
+ - CR7
 type: Animal
 cr: 7
 environment: Warm aquatic
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 15, Ref: 9, Will: 4 |
+| Saves:               |Fort: +15, Ref: +9, Will: +4 |
 | Abilities:           |Str : 26,  Dex: 14,  Con: 22,  Int: 2,  Wis: 13,  Cha: 9 |
-| Skills:              |[[Skill List#Hide\|Hide]]: -4*, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 9, [[Skill List#Swim\|Swim]]: 16; |
-| Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Toughness\|Toughness]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: -4*, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +9, [[Skill List#Swim\|Swim]]: +16; |
+| Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Toughness \|Toughness ]](2); |
 | Environment          |Warm aquatic |
 | Organization:        |Solitary, pair, or herd (5-8) |
 | Challenge Rating:    |7 |

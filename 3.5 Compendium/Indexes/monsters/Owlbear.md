@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Owlbear
+ - CR4
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Improved grab |
 | Special Qualities    |[[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 5, Will: 2 |
+| Saves:               |Fort: +9, Ref: +5, Will: +2 |
 | Abilities:           |Str : 21,  Dex: 12,  Con: 21,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 8, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +8, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Track\|Track]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, or pack (3-8) |

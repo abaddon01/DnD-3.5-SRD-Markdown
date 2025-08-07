@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Shocker Lizard
+title: 3.5 Compendium / Monsters / Shocker_Lizard
 aliases: 
  - Shocker Lizard
 tags: 
  - 3.5e
  - rules
  - monsters
- - Shocker Lizard
+ - Shocker_Lizard
+ - CR2
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Stunning shock, lethal shock |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Electricity Sense, Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 4, Ref: 5, Will: 1 |
+| Saves:               |Fort: +4, Ref: +5, Will: +1 |
 | Abilities:           |Str : 10,  Dex: 15,  Con: 13,  Int: 2,  Wis: 12,  Cha: 6 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 11, [[Skill List#Hide\|Hide]]: 11, [[Skill List#Jump\|Jump]]: 7, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 4, [[Skill List#Swim\|Swim]]: 10; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +11, [[Skill List#Hide\|Hide]]: +11, [[Skill List#Jump\|Jump]]: +7, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +4, [[Skill List#Swim\|Swim]]: +10; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Warm marshes |
 | Organization:        |Solitary, pair, clutch (3-5), or colony (6-11) |

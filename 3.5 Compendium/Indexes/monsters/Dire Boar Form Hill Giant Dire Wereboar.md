@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Boar Form Hill Giant Dire Wereboar
+title: 3.5 Compendium / Monsters / Dire_Boar_Form_Hill_Giant_Dire_Wereboar
 aliases: 
  - Dire Boar Form Hill Giant Dire Wereboar
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Boar Form Hill Giant Dire Wereboar
+ - Dire_Boar_Form_Hill_Giant_Dire_Wereboar
+ - CR11
 type: Giant
 subtypes: 
  - Shapechanger
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Boar Empathy, [[Special Abilities#damage reduction\|Damage Reduction]]  10/silver, Ferocity, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 20, Ref: 8, Will: 12 |
+| Saves:               |Fort: +20, Ref: +8, Will: +12 |
 | Abilities:           |Str : 41,  Dex: 8,  Con: 25,  Int: 6,  Wis: 12,  Cha: 7 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 18, [[Skill List#Jump\|Jump]]: 22, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Spot\|Spot]]: 12; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +18, [[Skill List#Jump\|Jump]]: +22, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Spot\|Spot]]: +12; |
 | Feats:               |[[Feat List#\|]](same as giant form); |
 | Environment          |Temperate hills |
 | Organization:        |(same as giant form) |

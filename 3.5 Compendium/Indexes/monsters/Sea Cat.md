@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Sea Cat
+title: 3.5 Compendium / Monsters / Sea_Cat
 aliases: 
  - Sea Cat
 tags: 
  - 3.5e
  - rules
  - monsters
- - Sea Cat
+ - Sea_Cat
+ - CR4
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Rend 2d6+6 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Hold Breath, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 8, Ref: 6, Will: 5 |
+| Saves:               |Fort: +8, Ref: +6, Will: +5 |
 | Abilities:           |Str : 19,  Dex: 12,  Con: 17,  Int: 2,  Wis: 13,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 8, [[Skill List#Spot\|Spot]]: 7, [[Skill List#Swim\|Swim]]: 12; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +8, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Swim\|Swim]]: +12; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Endurance\|Endurance]], [[Feat List#Iron Will\|Iron Will]]; |
 | Environment          |Temperate aquatic |
 | Organization:        |Solitary, pair, or pride (5-12) |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Vrock
+ - CR9
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Dance of ruin, spell-like abilities, spores, stunning screech, summon demon |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  17, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 14, Ref: 9, Will: 10 |
+| Saves:               |Fort: +14, Ref: +9, Will: +10 |
 | Abilities:           |Str : 23,  Dex: 15,  Con: 25,  Int: 14,  Wis: 16,  Cha: 16 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 20, [[Skill List#Diplomacy\|Diplomacy]]: 5, [[Skill List#Hide\|Hide]]: 11, [[Skill List#Intimidate\|Intimidate]]: 16, [[Skill List#Knowledge\|Knowledge]]: (any one) 15, [[Skill List#Listen\|Listen]]: 24, [[Skill List#Move Silently\|Move Silently]]: 15, [[Skill List#Search\|Search]]: 15, [[Skill List#Sense Motive\|Sense Motive]]: 16, [[Skill List#Spellcraft\|Spellcraft]]: 15, [[Skill List#Spot\|Spot]]: 24, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +20, [[Skill List#Diplomacy\|Diplomacy]]: +5, [[Skill List#Hide\|Hide]]: +11, [[Skill List#Intimidate\|Intimidate]]: +16, [[Skill List#Knowledge\|Knowledge]]: (any one) 15, [[Skill List#Listen\|Listen]]: +24, [[Skill List#Move Silently\|Move Silently]]: +15, [[Skill List#Search\|Search]]: +15, [[Skill List#Sense Motive\|Sense Motive]]: +16, [[Skill List#Spellcraft\|Spellcraft]]: +15, [[Skill List#Spot\|Spot]]: +24, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary, pair, gang (3-5), or squad (6-10) |

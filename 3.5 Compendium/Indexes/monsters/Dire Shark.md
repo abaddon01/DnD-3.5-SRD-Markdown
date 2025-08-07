@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Shark
+title: 3.5 Compendium / Monsters / Dire_Shark
 aliases: 
  - Dire Shark
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Shark
+ - Dire_Shark
+ - CR9
 type: Animal
 subtypes: 
  - Aquatic
@@ -30,10 +31,10 @@ alignment: Always neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Improved grab, swallow whole |
 | Special Qualities    |[[Special Abilities#scent\|Keen Scent]] ; |
-| Saves:               |Fort: 14, Ref: 13, Will: 12 |
+| Saves:               |Fort: +14, Ref: +13, Will: +12 |
 | Abilities:           |Str : 23,  Dex: 15,  Con: 17,  Int: 1,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 12, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Swim\|Swim]]: 14; |
-| Feats:               |[[Monster Feats#Improved Natural Attack\|Improved Natural Attack]], [[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +12, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Swim\|Swim]]: +14; |
+| Feats:               |[[Monster Feats#Improved Natural Attack \|Improved Natural Attack ]](bite), [[Feat List#Toughness \|Toughness ]](4), [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Cold aquatic |
 | Organization:        |Solitary or school (2-5) |
 | Challenge Rating:    |9 |

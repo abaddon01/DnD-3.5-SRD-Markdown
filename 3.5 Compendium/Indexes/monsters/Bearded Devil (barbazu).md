@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Bearded Devil (barbazu)
+title: 3.5 Compendium / Monsters / Bearded_Devil_(barbazu)
 aliases: 
  - Bearded Devil (barbazu)
 tags: 
  - 3.5e
  - rules
  - monsters
- - Bearded Devil (barbazu)
+ - Bearded_Devil_(barbazu)
+ - CR5
 type: Outsider
 subtypes: 
  - Evil
@@ -32,10 +33,10 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. (10 ft. with glaive) |
 | Special Attacks:     |Infernal wound, beard, battle frenzy, summon devil |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/silver Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  17, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 8, Ref: 7, Will: 5 |
+| Saves:               |Fort: +8, Ref: +7, Will: +5 |
 | Abilities:           |Str : 15,  Dex: 15,  Con: 17,  Int: 6,  Wis: 10,  Cha: 10 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 11, [[Skill List#Diplomacy\|Diplomacy]]: 2, [[Skill List#Hide\|Hide]]: 11, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Move Silently\|Move Silently]]: 9, [[Skill List#Sense Motive\|Sense Motive]]: 9, [[Skill List#Spot\|Spot]]: 9; |
-| Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +11, [[Skill List#Diplomacy\|Diplomacy]]: +2, [[Skill List#Hide\|Hide]]: +11, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Move Silently\|Move Silently]]: +9, [[Skill List#Sense Motive\|Sense Motive]]: +9, [[Skill List#Spot\|Spot]]: +9; |
+| Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus \|Weapon Focus ]](glaive); |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary, pair, team (3-5), or squad (6-10) |
 | Challenge Rating:    |5 |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Hieracosphinx
+ - CR5
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Pounce, rake 1d6+2 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 8, Ref: 8, Will: 5 |
+| Saves:               |Fort: +8, Ref: +8, Will: +5 |
 | Abilities:           |Str : 21,  Dex: 14,  Con: 15,  Int: 6,  Wis: 15,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 10, [[Skill List#Spot\|Spot]]: 14; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +10, [[Skill List#Spot\|Spot]]: +14; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Warm deserts |
 | Organization:        |Solitary, pair, or flock (4-7) |

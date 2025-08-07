@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human Form Wereboar
+title: 3.5 Compendium / Monsters / Human_Form_Wereboar
 aliases: 
  - Human Form Wereboar
 tags: 
  - 3.5e
  - rules
  - monsters
- - Human Form Wereboar
+ - Human_Form_Wereboar
+ - CR4
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Boar Empathy, Ferocity, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 6, Ref: 3, Will: 3 |
+| Saves:               |Fort: +6, Ref: +3, Will: +3 |
 | Abilities:           |Str : 13,  Dex: 11,  Con: 12,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 3, [[Skill List#Intimidate\|Intimidate]]: 3, [[Skill List#Listen\|Listen]]: 5, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: +3, [[Skill List#Intimidate\|Intimidate]]: +3, [[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Alertness \|Alertness ]](B), [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Iron Will \|Iron Will ]](B), [[Feat List#Power Attack\|Power Attack]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, brood (3-4), or troupe (2-4 plus 1-4 boars) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 7th-level Cleric Celestial Charger
+title: 3.5 Compendium / Monsters / 7th-level_Cleric_Celestial_Charger
 aliases: 
  - 7th-level Cleric Celestial Charger
 tags: 
  - 3.5e
  - rules
  - monsters
- - 7th-level Cleric Celestial Charger
+ - 7th-level_Cleric_Celestial_Charger
+ - CR13
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always chaotic good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Magic Circle Against Evil, Spell-like Abilities, [[Special Abilities#spell resistance\|Spell Resistance]]  20, Immunity To Poison, Charm, And Compulsion, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Electricity 10, [[Special Abilities#scent\|Scent]] , Wild Empathy; |
-| Saves:               |Fort: 16, Ref: 12, Will: 15 |
+| Saves:               |Fort: +16, Ref: +12, Will: +15 |
 | Abilities:           |Str : 24,  Dex: 18,  Con: 20,  Int: 13,  Wis: 27,  Cha: 22 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 11, [[Skill List#Knowledge (nature)\|Knowledge (nature)]]: 9, [[Skill List#Knowledge (religion)\|Knowledge (religion)]]: 8, [[Skill List#Listen\|Listen]]: 15, [[Skill List#Move Silently\|Move Silently]]: 12, [[Skill List#Spellcraft\|Spellcraft]]: 5, [[Skill List#Spot\|Spot]]: 15, [[Skill List#Survival\|Survival]]: 15 (+17 aboveground)*; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +11, [[Skill List#Knowledge (nature)\|Knowledge (nature)]]: +9, [[Skill List#Knowledge (religion)\|Knowledge (religion)]]: +8, [[Skill List#Listen\|Listen]]: +15, [[Skill List#Move Silently\|Move Silently]]: +12, [[Skill List#Spellcraft\|Spellcraft]]: +5, [[Skill List#Spot\|Spot]]: +15, [[Skill List#Survival\|Survival]]: 15 (+17 aboveground)*; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Extra Turning\|Extra Turning]], [[Feat List#Improved Turning\|Improved Turning]], [[Feat List#Run\|Run]], [[Feat List#Skill Focus \|Skill Focus ]](Survival); |
 | Environment          |A chaotic good plane |
 | Organization:        |Solitary |

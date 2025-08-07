@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Flamebrother Salamander
+title: 3.5 Compendium / Monsters / Flamebrother_Salamander
 aliases: 
  - Flamebrother Salamander
 tags: 
  - 3.5e
  - rules
  - monsters
- - Flamebrother Salamander
+ - Flamebrother_Salamander
+ - CR3
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Usually evil (any)
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Vulnerability To Cold; |
-| Saves:               |Fort: 6, Ref: 5, Will: 6 |
+| Saves:               |Fort: +6, Ref: +5, Will: +6 |
 | Abilities:           |Str : 12,  Dex: 13,  Con: 14,  Int: 14,  Wis: 15,  Cha: 13 |
-| Skills:              |[[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: 8, [[Skill List#Hide\|Hide]]: 12, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Spot\|Spot]]: 11; |
+| Skills:              |[[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: +8, [[Skill List#Hide\|Hide]]: +12, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: +11; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary, pair, or cluster (3-5) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling Bronze Dragon
+title: 3.5 Compendium / Monsters / Wyrmling_Bronze_Dragon
 aliases: 
  - Wyrmling Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrmling Bronze Dragon
+ - Wyrmling_Bronze_Dragon
+ - CR3
 type: Bronze Dragon(Wyrmling)
 cr: 3
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Immunity To Electricity, Water Breathing, Speak With Animals; |
-| Saves:               |Fort: 6, Ref: 5, Will: 7 |
+| Saves:               |Fort: +6, Ref: +5, Will: +7 |
 | Abilities:           |Str: 13, Dex: 10, Con: 13, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

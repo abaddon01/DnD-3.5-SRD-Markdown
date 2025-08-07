@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Bugbear Zombie
+title: 3.5 Compendium / Monsters / Bugbear_Zombie
 aliases: 
  - Bugbear Zombie
 tags: 
  - 3.5e
  - rules
  - monsters
- - Bugbear Zombie
+ - Bugbear_Zombie
+ - CR2
 type: Undead
 cr: 2
 environment: Temperate mountains
@@ -28,7 +29,7 @@ alignment: Always neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 2, Ref: 2, Will: 5 |
+| Saves:               |Fort: +2, Ref: +2, Will: +5 |
 | Abilities:           |Str : 17,  Dex: 10,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#Toughness\|Toughness]]; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Boar Form Wereboar
+title: 3.5 Compendium / Monsters / Boar_Form_Wereboar
 aliases: 
  - Boar Form Wereboar
 tags: 
  - 3.5e
  - rules
  - monsters
- - Boar Form Wereboar
+ - Boar_Form_Wereboar
+ - CR4
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Boar Empathy, [[Special Abilities#damage reduction\|Damage Reduction]]  10/silver, Ferocity, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 3, Will: 3 |
+| Saves:               |Fort: +9, Ref: +3, Will: +3 |
 | Abilities:           |Str : 17,  Dex: 11,  Con: 18,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 3, [[Skill List#Intimidate\|Intimidate]]: 3, [[Skill List#Listen\|Listen]]: 5, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: +3, [[Skill List#Intimidate\|Intimidate]]: +3, [[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#\|]](same as human form); |
 | Environment          |Temperate forests |
 | Organization:        |(same as human form) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Huge Animated Object
+title: 3.5 Compendium / Monsters / Huge_Animated_Object
 aliases: 
  - Huge Animated Object
 tags: 
  - 3.5e
  - rules
  - monsters
- - Huge Animated Object
+ - Huge_Animated_Object
+ - CR5
 type: Construct
 cr: 5
 environment: Any
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |15 ft./10 ft. (long) 15 ft./15 ft. (tall) |
 | Special Attacks:     | |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; |
-| Saves:               |Fort: 2, Ref: 1, Will: -3 |
+| Saves:               |Fort: +2, Ref: +1, Will: -3 |
 | Abilities:           |Str : 20,  Dex: 8,  Con: -1,  Int: -1,  Wis: 1,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#--\|--]]; |

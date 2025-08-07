@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very young Green Dragon
+title: 3.5 Compendium / Monsters / Very_young_Green_Dragon
 aliases: 
  - Very young Green Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very young Green Dragon
+ - Very_young_Green_Dragon
+ - CR4
 type: Green Dragon(Very young)
 cr: 4
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 8, Ref: 6, Will: 6 |
+| Saves:               |Fort: +8, Ref: +6, Will: +6 |
 | Abilities:           |Str: 15, Dex: 10, Con: 15, Int: 10, Wis: 11, Cha: 10 |
 | Skills:              |; |
 | Feats:               |; |

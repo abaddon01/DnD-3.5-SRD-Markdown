@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Centaur
+ - CR3
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -30,10 +31,10 @@ alignment: Usually neutral good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 3, Ref: 6, Will: 5 |
+| Saves:               |Fort: +3, Ref: +6, Will: +5 |
 | Abilities:           |Str : 18,  Dex: 14,  Con: 15,  Int: 8,  Wis: 13,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 3, [[Skill List#Move Silently\|Move Silently]]: 4, [[Skill List#Spot\|Spot]]: 3, [[Skill List#Survival\|Survival]]: 2; |
-| Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +3, [[Skill List#Move Silently\|Move Silently]]: +4, [[Skill List#Spot\|Spot]]: +3, [[Skill List#Survival\|Survival]]: +2; |
+| Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Weapon Focus \|Weapon Focus ]](hoof ); |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, company (5-8), troop (8-18 plus 1 leader of 2nd-5th level), or tribe (20-150 plus 30% noncombatants plus 10 3rd-level sergeants, 5 5th-level lieutenants, and 1 leader of 5th-9th level) |
 | Challenge Rating:    |3 |

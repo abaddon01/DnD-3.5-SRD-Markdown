@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Marilith
+ - CR17
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,10 +33,10 @@ alignment: Always chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Constrict 4d6+13, improved grab, spell-like abilities, summon demon |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/good And Cold Iron, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  25, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 19, Ref: 14, Will: 14 |
+| Saves:               |Fort: +19, Ref: +14, Will: +14 |
 | Abilities:           |Str : 29,  Dex: 19,  Con: 29,  Int: 18,  Wis: 18,  Cha: 24 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 26, [[Skill List#Concentration\|Concentration]]: 28, [[Skill List#Diplomacy\|Diplomacy]]: 30, [[Skill List#Disguise\|Disguise]]: +7 (+9 acting) , [[Skill List#Hide\|Hide]]: 19, [[Skill List#Intimidate\|Intimidate]]: 28, [[Skill List#Listen\|Listen]]: 31, [[Skill List#Move Silently\|Move Silently]]: 23, [[Skill List#Search\|Search]]: 23, [[Skill List#Sense Motive\|Sense Motive]]: 23, [[Skill List#Spellcraft\|Spellcraft]]: +23 (+25 scrolls) , [[Skill List#Spot\|Spot]]: 31, [[Skill List#Survival\|Survival]]: +4 (+6 following tracks) , [[Skill List#Use Magic Device\|Use Magic Device]]: 26(28scrolls)+26 (+28 scrolls); |
-| Feats:               |[[Feat List#Combat Expertise\|Combat Expertise]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Monster Feats#Multiattack\|Multiattack]], [[Monster Feats#Multiweapon Fighting\|Multiweapon Fighting]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +26, [[Skill List#Concentration\|Concentration]]: +28, [[Skill List#Diplomacy\|Diplomacy]]: +30, [[Skill List#Disguise\|Disguise]]: +7 (+9 acting) , [[Skill List#Hide\|Hide]]: +19, [[Skill List#Intimidate\|Intimidate]]: +28, [[Skill List#Listen\|Listen]]: +31, [[Skill List#Move Silently\|Move Silently]]: +23, [[Skill List#Search\|Search]]: +23, [[Skill List#Sense Motive\|Sense Motive]]: +23, [[Skill List#Spellcraft\|Spellcraft]]: +23 (+25 scrolls) , [[Skill List#Spot\|Spot]]: +31, [[Skill List#Survival\|Survival]]: +4 (+6 following tracks) , [[Skill List#Use Magic Device\|Use Magic Device]]: 26(28scrolls)+26 (+28 scrolls); |
+| Feats:               |[[Feat List#Combat Expertise\|Combat Expertise]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Monster Feats#Multiattack\|Multiattack]], [[Monster Feats#Multiweapon Fighting\|Multiweapon Fighting]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus \|Weapon Focus ]](longsword); |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary or pair |
 | Challenge Rating:    |17 |

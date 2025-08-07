@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Lillend
+ - CR7
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic good
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Constrict 2d6+5, improved grab, spells, spell-like abilities |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10; |
-| Saves:               |Fort: 7, Ref: 10, Will: 8 |
+| Saves:               |Fort: +7, Ref: +10, Will: +8 |
 | Abilities:           |Str : 20,  Dex: 17,  Con: 15,  Int: 14,  Wis: 16,  Cha: 18 |
-| Skills:              |[[Skill List#Appraise\|Appraise]]: 12, [[Skill List#Concentration\|Concentration]]: 12, [[Skill List#Diplomacy\|Diplomacy]]: 16, [[Skill List#Knowledge\|Knowledge]]: (arcana) 12, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Perform\|Perform]]: (any one) 14, [[Skill List#Sense Motive\|Sense Motive]]: 13, [[Skill List#Spellcraft\|Spellcraft]]: 14, [[Skill List#Spot\|Spot]]: 13, [[Skill List#Survival\|Survival]]: 17; |
+| Skills:              |[[Skill List#Appraise\|Appraise]]: +12, [[Skill List#Concentration\|Concentration]]: +12, [[Skill List#Diplomacy\|Diplomacy]]: +16, [[Skill List#Knowledge\|Knowledge]]: (arcana) 12, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Perform\|Perform]]: (any one) 14, [[Skill List#Sense Motive\|Sense Motive]]: +13, [[Skill List#Spellcraft\|Spellcraft]]: +14, [[Skill List#Spot\|Spot]]: +13, [[Skill List#Survival\|Survival]]: +17; |
 | Feats:               |[[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Extend Spell\|Extend Spell]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |A chaos-aligned plane |
 | Organization:        |Solitary or covey (2-4) |

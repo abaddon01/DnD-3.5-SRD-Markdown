@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Cloud Giant Skeleton
+title: 3.5 Compendium / Monsters / Cloud_Giant_Skeleton
 aliases: 
  - Cloud Giant Skeleton
 tags: 
  - 3.5e
  - rules
  - monsters
- - Cloud Giant Skeleton
+ - Cloud_Giant_Skeleton
+ - CRNone
 type: Undead
 cr: None
 environment: Any
@@ -28,7 +29,7 @@ alignment: —
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Oversize Weapon, [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 5, Ref: 7, Will: 10 |
+| Saves:               |Fort: +5, Ref: +7, Will: +10 |
 | Abilities:           |Str : 35,  Dex: 15,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |[[Skill List#Improved\|Improved]]: Initiative; |
 | Feats:               |[[Feat List#Temperate mountains\|Temperate mountains]]; |

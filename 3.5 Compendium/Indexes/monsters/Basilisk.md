@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Basilisk
+ - CR5
 type: Medium
 subtypes: 
  - Magical
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Petrifying gaze |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 9, Ref: 4, Will: 3 |
+| Saves:               |Fort: +9, Ref: +4, Will: +3 |
 | Abilities:           |Str : 15,  Dex: 8,  Con: 15,  Int: 2,  Wis: 12,  Cha: 11 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 0*, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Spot\|Spot]]: 7; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 0*, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Spot\|Spot]]: +7; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Great Fortitude\|Great Fortitude]]; |
 | Environment          |Warm deserts |
 | Organization:        |Solitary or colony (3-6) |

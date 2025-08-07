@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling Brass Dragon
+title: 3.5 Compendium / Monsters / Wyrmling_Brass_Dragon
 aliases: 
  - Wyrmling Brass Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrmling Brass Dragon
+ - Wyrmling_Brass_Dragon
+ - CR3
 type: Brass Dragon(Wyrmling)
 cr: 3
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |2-1/2 ft./0 ft. (5 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Immunity To Fire, Speak With Animals, Vulnerability To Cold; |
-| Saves:               |Fort: 5, Ref: 4, Will: 4 |
+| Saves:               |Fort: +5, Ref: +4, Will: +4 |
 | Abilities:           |Str: 11, Dex: 10, Con: 13, Int: 10, Wis: 11, Cha: 10 |
 | Skills:              |; |
 | Feats:               |; |

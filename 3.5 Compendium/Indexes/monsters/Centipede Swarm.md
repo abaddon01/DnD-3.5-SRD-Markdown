@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Centipede Swarm
+title: 3.5 Compendium / Monsters / Centipede_Swarm
 aliases: 
  - Centipede Swarm
 tags: 
  - 3.5e
  - rules
  - monsters
- - Centipede Swarm
+ - Centipede_Swarm
+ - CR4
 type: Vermin
 subtypes: 
  - Swarm
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./0 ft. |
 | Special Attacks:     |Distraction, poison |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; |
-| Saves:               |Fort: 5, Ref: 7, Will: 3 |
+| Saves:               |Fort: +5, Ref: +7, Will: +3 |
 | Abilities:           |Str : 1,  Dex: 19,  Con: 8,  Int: -1,  Wis: 10,  Cha: 2 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 12, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +12, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Underground |
 | Organization:        |Solitary, tangle (2-4 swarms), or colony (7-12 swarms) |

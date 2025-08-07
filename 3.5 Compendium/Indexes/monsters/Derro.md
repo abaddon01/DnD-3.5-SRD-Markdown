@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Derro
+ - CR3
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Poison use, spell-like abilities, sneak attack +1d6 |
 | Special Qualities    |Madness, [[Special Abilities#spell resistance\|Spell Resistance]]  15 Vulnerability To Sunlight; |
-| Saves:               |Fort: 2, Ref: 5, Will: 6 |
+| Saves:               |Fort: +2, Ref: +5, Will: +6 |
 | Abilities:           |Str : 11,  Dex: 14,  Con: 13,  Int: 10,  Wis: 5*,  Cha: 16* |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 5, [[Skill List#Hide\|Hide]]: 10, [[Skill List#Listen\|Listen]]: 1, [[Skill List#Move Silently\|Move Silently]]: 8; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +5, [[Skill List#Hide\|Hide]]: +10, [[Skill List#Listen\|Listen]]: +1, [[Skill List#Move Silently\|Move Silently]]: +8; |
 | Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Underground |
 | Organization:        |Team (2-4), squad (5-8 plus 1 3rd-level sorcerer), or band (11-20 plus 30% noncombatants plus 3 3rd-level sorcerers and 1 sorcerer of 5th-8th level) |

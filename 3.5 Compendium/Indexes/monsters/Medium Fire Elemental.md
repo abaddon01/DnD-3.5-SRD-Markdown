@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium Fire Elemental
+title: 3.5 Compendium / Monsters / Medium_Fire_Elemental
 aliases: 
  - Medium Fire Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Medium Fire Elemental
+ - Medium_Fire_Elemental
+ - CR3
 type: Elemental
 subtypes: 
  - Fire
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
-| Saves:               |Fort: 3, Ref: 7, Will: 1 |
+| Saves:               |Fort: +3, Ref: +7, Will: +1 |
 | Abilities:           |Str : 12,  Dex: 17,  Con: 14,  Int: 4,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 3, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +3, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Mobility\|Mobility]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary |

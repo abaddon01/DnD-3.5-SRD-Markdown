@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young Blue Dragon
+title: 3.5 Compendium / Monsters / Young_Blue_Dragon
 aliases: 
  - Young Blue Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young Blue Dragon
+ - Young_Blue_Dragon
+ - CR6
 type: Blue Dragon(Young)
 cr: 6
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 10, Ref: 8, Will: 9 |
+| Saves:               |Fort: +10, Ref: +8, Will: +9 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Dretch
+ - CR2
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, summon demon |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 5, Ref: 3, Will: 3 |
+| Saves:               |Fort: +5, Ref: +3, Will: +3 |
 | Abilities:           |Str : 12,  Dex: 10,  Con: 14,  Int: 5,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 9, [[Skill List#Listen\|Listen]]: 5, [[Skill List#Move Silently\|Move Silently]]: 5, [[Skill List#Spot\|Spot]]: 5, [[Skill List#Search\|Search]]: 2, [[Skill List#Survival\|Survival]]: 0(2followingtracks)+0 (+2 following tracks); |
+| Skills:              |[[Skill List#Hide\|Hide]]: +9, [[Skill List#Listen\|Listen]]: +5, [[Skill List#Move Silently\|Move Silently]]: +5, [[Skill List#Spot\|Spot]]: +5, [[Skill List#Search\|Search]]: +2, [[Skill List#Survival\|Survival]]: 0(2followingtracks)+0 (+2 following tracks); |
 | Feats:               |[[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary, pair, gang (3-5), crowd (6-15), or mob (10-40) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Shadow Mastiff
+title: 3.5 Compendium / Monsters / Shadow_Mastiff
 aliases: 
  - Shadow Mastiff
 tags: 
  - 3.5e
  - rules
  - monsters
- - Shadow Mastiff
+ - Shadow_Mastiff
+ - CR5
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -30,9 +31,9 @@ alignment: Always neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Bay, trip |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Shadow Blend, [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 7, Ref: 5, Will: 5 |
+| Saves:               |Fort: +7, Ref: +5, Will: +5 |
 | Abilities:           |Str : 17,  Dex: 13,  Con: 17,  Int: 4,  Wis: 12,  Cha: 13 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 8, [[Skill List#Listen\|Listen]]: 8, [[Skill List#Move Silently\|Move Silently]]: 8, [[Skill List#Spot\|Spot]]: 8, [[Skill List#Survival\|Survival]]: 8*; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Move Silently\|Move Silently]]: +8, [[Skill List#Spot\|Spot]]: +8, [[Skill List#Survival\|Survival]]: 8*; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Track \|Track ]](B); |
 | Environment          |Plane of Shadow |
 | Organization:        |Solitary, pair, or pack (5-12) |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Barghest
+ - CR4
 type: Outsider
 subtypes: 
  - Evil
@@ -33,9 +34,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 6, Ref: 7, Will: 7 |
+| Saves:               |Fort: +6, Ref: +7, Will: +7 |
 | Abilities:           |Str : 17,  Dex: 15,  Con: 13,  Int: 14,  Wis: 14,  Cha: 14 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 11, [[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Disguise\|Disguise]]: 2 (+4 acting), [[Skill List#Hide\|Hide]]: 11*, [[Skill List#Intimidate\|Intimidate]]: 13, [[Skill List#Jump\|Jump]]: 12, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Move Silently\|Move Silently]]: 10, [[Skill List#Search\|Search]]: 11, [[Skill List#Sense Motive\|Sense Motive]]: 11, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Survival\|Survival]]: 11 (+13 following tracks); |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +11, [[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Disguise\|Disguise]]: 2 (+4 acting), [[Skill List#Hide\|Hide]]: 11*, [[Skill List#Intimidate\|Intimidate]]: +13, [[Skill List#Jump\|Jump]]: +12, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +10, [[Skill List#Search\|Search]]: +11, [[Skill List#Sense Motive\|Sense Motive]]: +11, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Survival\|Survival]]: 11 (+13 following tracks); |
 | Feats:               |[[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Track\|Track]]; |
 | Environment          |An evil-aligned plane |
 | Organization:        |Solitary or pack (3-6) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater Stone Golem
+title: 3.5 Compendium / Monsters / Greater_Stone_Golem
 aliases: 
  - Greater Stone Golem
 tags: 
  - 3.5e
  - rules
  - monsters
- - Greater Stone Golem
+ - Greater_Stone_Golem
+ - CR16
 type: Construct
 cr: 16
 environment: Any
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 14, Ref: 12, Will: 14 |
+| Saves:               |Fort: +14, Ref: +12, Will: +14 |
 | Abilities:           |Str : 37,  Dex: 7,  Con: -,  Int: -,  Wis: 11,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#-\|-]]; |

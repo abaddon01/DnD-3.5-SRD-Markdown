@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Green Hag
+title: 3.5 Compendium / Monsters / Green_Hag
 aliases: 
  - Green Hag
 tags: 
  - 3.5e
  - rules
  - monsters
- - Green Hag
+ - Green_Hag
+ - CR5
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, weakness, mimicry |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  90 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  18; |
-| Saves:               |Fort: 6, Ref: 7, Will: 7 |
+| Saves:               |Fort: +6, Ref: +7, Will: +7 |
 | Abilities:           |Str : 19,  Dex: 12,  Con: 12,  Int: 13,  Wis: 13,  Cha: 14 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 7, [[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any one) 7, [[Skill List#Hide\|Hide]]: 9, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Swim\|Swim]]: 12; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +7, [[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any one) 7, [[Skill List#Hide\|Hide]]: +9, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Swim\|Swim]]: +12; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Great Fortitude\|Great Fortitude]]; |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary or covey (3 hags of any kind plus 1-8 ogres and 1-4 evil giants) |

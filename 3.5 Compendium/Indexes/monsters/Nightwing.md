@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Nightwing
+ - CR14
 type: Undead
 subtypes: 
  - Extraplanar
@@ -30,10 +31,10 @@ alignment: Always chaotic evil
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Desecrating aura, magic drain, spell-like abilities, summon undead |
 | Special Qualities    |Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  27, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 9, Ref: 11, Will: 17 |
+| Saves:               |Fort: +9, Ref: +11, Will: +17 |
 | Abilities:           |Str : 31,  Dex: 18,  Con: -1,  Int: 18,  Wis: 20,  Cha: 18 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 24, [[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Hide\|Hide]]: 16*, [[Skill List#Listen\|Listen]]: 25, [[Skill List#Move Silently\|Move Silently]]: 24, [[Skill List#Search\|Search]]: 24, [[Skill List#Sense Motive\|Sense Motive]]: 25, [[Skill List#Spellcraft\|Spellcraft]]: 24, [[Skill List#Spot\|Spot]]: 25, [[Skill List#Survival\|Survival]]: 5(7followingtracks)+5 (+7 following tracks); |
-| Feats:               |[[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Critical\|Improved Critical]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +24, [[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Hide\|Hide]]: 16*, [[Skill List#Listen\|Listen]]: +25, [[Skill List#Move Silently\|Move Silently]]: +24, [[Skill List#Search\|Search]]: +24, [[Skill List#Sense Motive\|Sense Motive]]: +25, [[Skill List#Spellcraft\|Spellcraft]]: +24, [[Skill List#Spot\|Spot]]: +25, [[Skill List#Survival\|Survival]]: 5(7followingtracks)+5 (+7 following tracks); |
+| Feats:               |[[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Critical \|Improved Critical ]](bite), [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Plane of Shadow |
 | Organization:        |Solitary, pair, or flock (3-6) |
 | Challenge Rating:    |14 |

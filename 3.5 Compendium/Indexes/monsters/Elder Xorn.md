@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder Xorn
+title: 3.5 Compendium / Monsters / Elder_Xorn
 aliases: 
  - Elder Xorn
 tags: 
  - 3.5e
  - rules
  - monsters
- - Elder Xorn
+ - Elder_Xorn
+ - CR8
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |All-around Vision, Earth Glide, [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold And Fire, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; |
-| Saves:               |Fort: 13, Ref: 9, Will: 9 |
+| Saves:               |Fort: +13, Ref: +9, Will: +9 |
 | Abilities:           |Str : 25,  Dex: 10,  Con: 19,  Int: 10,  Wis: 11,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 14, [[Skill List#Intimidate\|Intimidate]]: 18, [[Skill List#Knowledge (dungeoneering)\|Knowledge (dungeoneering)]]: 18, [[Skill List#Listen\|Listen]]: 18, [[Skill List#Move Silently\|Move Silently]]: 18, [[Skill List#Search\|Search]]: 22, [[Skill List#Spot\|Spot]]: 22, [[Skill List#Survival\|Survival]]: 18 (+20 following tracks or underground); |
+| Skills:              |[[Skill List#Hide\|Hide]]: +14, [[Skill List#Intimidate\|Intimidate]]: +18, [[Skill List#Knowledge (dungeoneering)\|Knowledge (dungeoneering)]]: +18, [[Skill List#Listen\|Listen]]: +18, [[Skill List#Move Silently\|Move Silently]]: +18, [[Skill List#Search\|Search]]: +22, [[Skill List#Spot\|Spot]]: +22, [[Skill List#Survival\|Survival]]: 18 (+20 following tracks or underground); |
 | Feats:               |[[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Cleave \|Cleave ]](B), [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Elemental Plane of Earth |
 | Organization:        |Solitary, pair, or party (6-11) |

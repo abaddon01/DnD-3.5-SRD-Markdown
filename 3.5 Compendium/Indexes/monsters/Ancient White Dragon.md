@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ancient White Dragon
+title: 3.5 Compendium / Monsters / Ancient_White_Dragon
 aliases: 
  - Ancient White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ancient White Dragon
+ - Ancient_White_Dragon
+ - CR18
 type: White Dragon(Ancient)
 cr: 18
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Wall Of Ice; |
-| Saves:               |Fort: 23, Ref: 17, Will: 19 |
+| Saves:               |Fort: +23, Ref: +17, Will: +19 |
 | Abilities:           |Str: 33, Dex: 10, Con: 23, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

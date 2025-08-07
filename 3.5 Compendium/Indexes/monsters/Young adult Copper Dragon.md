@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young adult Copper Dragon
+title: 3.5 Compendium / Monsters / Young_adult_Copper_Dragon
 aliases: 
  - Young adult Copper Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young adult Copper Dragon
+ - Young_adult_Copper_Dragon
+ - CR11
 type: Copper Dragon(Young adult)
 cr: 11
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 5/magic; |
-| Saves:               |Fort: 13, Ref: 10, Will: 13 |
+| Saves:               |Fort: +13, Ref: +10, Will: +13 |
 | Abilities:           |Str: 19, Dex: 10, Con: 17, Int: 16, Wis: 17, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

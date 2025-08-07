@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Giant Form Hill Giant Dire Wereboar
+title: 3.5 Compendium / Monsters / Giant_Form_Hill_Giant_Dire_Wereboar
 aliases: 
  - Giant Form Hill Giant Dire Wereboar
 tags: 
  - 3.5e
  - rules
  - monsters
- - Giant Form Hill Giant Dire Wereboar
+ - Giant_Form_Hill_Giant_Dire_Wereboar
+ - CR11
 type: Giant
 subtypes: 
  - Shapechanger
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Boar Empathy, Ferocity, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 17, Ref: 8, Will: 12 |
+| Saves:               |Fort: +17, Ref: +8, Will: +12 |
 | Abilities:           |Str : 25,  Dex: 8,  Con: 19,  Int: 6,  Wis: 12,  Cha: 7 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 10, [[Skill List#Jump\|Jump]]: 10, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Spot\|Spot]]: 12; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +10, [[Skill List#Jump\|Jump]]: +10, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Spot\|Spot]]: +12; |
 | Feats:               |[[Feat List#Alertness \|Alertness ]](B), [[Feat List#Cleave\|Cleave]], [[Feat List#Endurance\|Endurance]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Iron Will \|Iron Will ]](B), [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus \|Weapon Focus ]](greatclub); |
 | Environment          |Temperate hills |
 | Organization:        |Solitary, pair, brood (3-4), or troupe (2-4 plus 1-4 dire boars) |

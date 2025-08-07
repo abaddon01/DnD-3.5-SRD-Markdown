@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Rakshasa
+ - CR10
 type: Outsider
 subtypes: 
  - Native
@@ -30,9 +31,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Detect thoughts, spells |
 | Special Qualities    |Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  15/good And Piercing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  27; |
-| Saves:               |Fort: 8, Ref: 7, Will: 6 |
+| Saves:               |Fort: +8, Ref: +7, Will: +6 |
 | Abilities:           |Str : 12,  Dex: 14,  Con: 16,  Int: 13,  Wis: 13,  Cha: 17 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 17*, [[Skill List#Concentration\|Concentration]]: 13, [[Skill List#Diplomacy\|Diplomacy]]: 7, [[Skill List#Disguise\|Disguise]]: +17 (+19 acting) , [[Skill List#Intimidate\|Intimidate]]: 5, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Move Silently\|Move Silently]]: 13, [[Skill List#Perform\|Perform]]: (oratory) 13, [[Skill List#Sense Motive\|Sense Motive]]: 11, [[Skill List#Spellcraft\|Spellcraft]]: 11, [[Skill List#Spot\|Spot]]: 11; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: 17*, [[Skill List#Concentration\|Concentration]]: +13, [[Skill List#Diplomacy\|Diplomacy]]: +7, [[Skill List#Disguise\|Disguise]]: +17 (+19 acting) , [[Skill List#Intimidate\|Intimidate]]: +5, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Move Silently\|Move Silently]]: +13, [[Skill List#Perform\|Perform]]: (oratory) 13, [[Skill List#Sense Motive\|Sense Motive]]: +11, [[Skill List#Spellcraft\|Spellcraft]]: +11, [[Skill List#Spot\|Spot]]: +11; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Dodge\|Dodge]]; |
 | Environment          |Warm marshes |
 | Organization:        |Solitary |

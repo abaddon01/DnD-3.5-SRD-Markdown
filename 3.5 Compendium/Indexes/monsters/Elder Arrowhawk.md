@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder Arrowhawk
+title: 3.5 Compendium / Monsters / Elder_Arrowhawk
 aliases: 
  - Elder Arrowhawk
 tags: 
  - 3.5e
  - rules
  - monsters
- - Elder Arrowhawk
+ - Elder_Arrowhawk
+ - CR8
 type: Outsider
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Electricity, And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Fire 10; |
-| Saves:               |Fort: 12, Ref: 14, Will: 10 |
+| Saves:               |Fort: +12, Ref: +14, Will: +10 |
 | Abilities:           |Str : 22,  Dex: 21,  Con: 16,  Int: 10,  Wis: 13,  Cha: 13 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Escape Artist\|Escape Artist]]: 23, [[Skill List#Knowledge (the planes)\|Knowledge (the planes)]]: 18, [[Skill List#Listen\|Listen]]: 21, [[Skill List#Move Silently\|Move Silently]]: 23, [[Skill List#Search\|Search]]: 18, [[Skill List#Sense Motive\|Sense Motive]]: 19, [[Skill List#Spot\|Spot]]: 21, [[Skill List#Survival\|Survival]]: 19 (+21 following tracks, [[Skill List#\|]]: 21 Plane of Air), [[Skill List#Use Rope\|Use Rope]]: 5 (+7 involving bindings); |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Escape Artist\|Escape Artist]]: +23, [[Skill List#Knowledge (the planes)\|Knowledge (the planes)]]: +18, [[Skill List#Listen\|Listen]]: +21, [[Skill List#Move Silently\|Move Silently]]: +23, [[Skill List#Search\|Search]]: +18, [[Skill List#Sense Motive\|Sense Motive]]: +19, [[Skill List#Spot\|Spot]]: +21, [[Skill List#Survival\|Survival]]: 19 (+21 following tracks, [[Skill List#\|]]: 21 Plane of Air), [[Skill List#Use Rope\|Use Rope]]: 5 (+7 involving bindings); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Weapon Finesse\|Weapon Finesse]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite) ; |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary or clutch (2-4) |

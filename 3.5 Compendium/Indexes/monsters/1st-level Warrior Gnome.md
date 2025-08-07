@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 1st-level Warrior Gnome
+title: 3.5 Compendium / Monsters / 1st-level_Warrior_Gnome
 aliases: 
  - 1st-level Warrior Gnome
 tags: 
  - 3.5e
  - rules
  - monsters
- - 1st-level Warrior Gnome
+ - 1st-level_Warrior_Gnome
+ - CR0.5
 type: Humanoid
 subtypes: 
  - Gnome
@@ -30,9 +31,9 @@ alignment: Usually neutral good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Gnome Traits; |
-| Saves:               |Fort: 4, Ref: 0, Will: -1 |
+| Saves:               |Fort: +4, Ref: 0, Will: -1 |
 | Abilities:           |Str : 11,  Dex: 11,  Con: 14,  Int: 10,  Wis: 9,  Cha: 8 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 3, [[Skill List#Listen\|Listen]]: 1, [[Skill List#Spot\|Spot]]: 1; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +3, [[Skill List#Listen\|Listen]]: +1, [[Skill List#Spot\|Spot]]: +1; |
 | Feats:               |[[Feat List#Weapon Focus \|Weapon Focus ]](light crossbow); |
 | Environment          |Temperate hills (Forest gnomes: Temperate forests) |
 | Organization:        |Company (2-4), squad (11-20 plus 1 leader of 3rd-6th level and 2 3rd-level lieutenants), or band (30-50 plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, and 2-5 dire badgers) |

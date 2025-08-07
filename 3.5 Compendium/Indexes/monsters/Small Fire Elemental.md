@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small Fire Elemental
+title: 3.5 Compendium / Monsters / Small_Fire_Elemental
 aliases: 
  - Small Fire Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Small Fire Elemental
+ - Small_Fire_Elemental
+ - CR1
 type: Elemental
 subtypes: 
  - Fire
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
-| Saves:               |Fort: 0, Ref: 4, Will: 0 |
+| Saves:               |Fort: 0, Ref: +4, Will: 0 |
 | Abilities:           |Str : 10,  Dex: 13,  Con: 10,  Int: 4,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 2, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +2, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary |

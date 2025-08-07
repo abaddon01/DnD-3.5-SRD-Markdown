@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Djinni
+ - CR5 (noble 8)
 type: Outsider
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Always chaotic good
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Air mastery, spell-like abilities, whirlwind |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Plane Shift, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 7, Ref: 9, Will: 7 |
+| Saves:               |Fort: +7, Ref: +9, Will: +7 |
 | Abilities:           |Str : 18,  Dex: 19,  Con: 14,  Int: 14,  Wis: 15,  Cha: 15 |
-| Skills:              |[[Skill List#Appraise\|Appraise]]: 12, [[Skill List#Concentration\|Concentration]]: 12, [[Skill List#Craft\|Craft]]: (any one) 12, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Escape Artist\|Escape Artist]]: 14, [[Skill List#Knowledge\|Knowledge]]: (any one) 12, [[Skill List#Listen\|Listen]]: 12, [[Skill List#Move Silently\|Move Silently]]: 14, [[Skill List#Sense Motive\|Sense Motive]]: 12, [[Skill List#Spellcraft\|Spellcraft]]: 12, [[Skill List#Spot\|Spot]]: 12, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
+| Skills:              |[[Skill List#Appraise\|Appraise]]: +12, [[Skill List#Concentration\|Concentration]]: +12, [[Skill List#Craft\|Craft]]: (any one) 12, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Escape Artist\|Escape Artist]]: +14, [[Skill List#Knowledge\|Knowledge]]: (any one) 12, [[Skill List#Listen\|Listen]]: +12, [[Skill List#Move Silently\|Move Silently]]: +14, [[Skill List#Sense Motive\|Sense Motive]]: +12, [[Skill List#Spellcraft\|Spellcraft]]: +12, [[Skill List#Spot\|Spot]]: +12, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
 | Feats:               |[[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative \|Improved Initiative ]](B); |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary, company (2-4), or band (6-15) |

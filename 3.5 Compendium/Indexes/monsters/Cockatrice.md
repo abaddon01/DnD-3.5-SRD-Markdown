@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Cockatrice
+ - CR3
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Petrification |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 4, Ref: 7, Will: 2 |
+| Saves:               |Fort: +4, Ref: +7, Will: +2 |
 | Abilities:           |Str : 6,  Dex: 17,  Con: 11,  Int: 2,  Wis: 13,  Cha: 9 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 7, [[Skill List#Spot\|Spot]]: 7; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +7, [[Skill List#Spot\|Spot]]: +7; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge\|Dodge]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Temperate plains |
 | Organization:        |Solitary, pair, flight (3-5), or flock (6-13) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Giant Owl
+title: 3.5 Compendium / Monsters / Giant_Owl
 aliases: 
  - Giant Owl
 tags: 
  - 3.5e
  - rules
  - monsters
- - Giant Owl
+ - Giant_Owl
+ - CR3
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#low-light vision\|Superior Low-light Vision]] ; |
-| Saves:               |Fort: 5, Ref: 7, Will: 3 |
+| Saves:               |Fort: +5, Ref: +7, Will: +3 |
 | Abilities:           |Str : 18,  Dex: 17,  Con: 12,  Int: 10,  Wis: 14,  Cha: 10 |
-| Skills:              |[[Skill List#Knowledge\|Knowledge]]: (nature) 2, [[Skill List#Listen\|Listen]]: 17, [[Skill List#Move Silently\|Move Silently]]: 8*, [[Skill List#Spot\|Spot]]: 10; |
+| Skills:              |[[Skill List#Knowledge\|Knowledge]]: (nature) 2, [[Skill List#Listen\|Listen]]: +17, [[Skill List#Move Silently\|Move Silently]]: 8*, [[Skill List#Spot\|Spot]]: +10; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Wingover\|Wingover]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, or company (3-5) |

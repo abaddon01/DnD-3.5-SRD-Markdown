@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Spider Eater
+title: 3.5 Compendium / Monsters / Spider_Eater
 aliases: 
  - Spider Eater
 tags: 
  - 3.5e
  - rules
  - monsters
- - Spider Eater
+ - Spider_Eater
+ - CR5
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Implant, poison |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Freedom Of Movement, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 5, Will: 2 |
+| Saves:               |Fort: +9, Ref: +5, Will: +2 |
 | Abilities:           |Str : 21,  Dex: 13,  Con: 21,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 10, [[Skill List#Spot\|Spot]]: 11; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +10, [[Skill List#Spot\|Spot]]: +11; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge\|Dodge]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary |

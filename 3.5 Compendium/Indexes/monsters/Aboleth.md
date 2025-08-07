@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Aboleth
+ - CR7
 type: Aberration
 subtypes: 
  - Aquatic
@@ -30,9 +31,9 @@ alignment: Usually lawful evil
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Enslave, psionics, slime |
 | Special Qualities    |[[Types#aquatic subtype\|Aquatic Subtype]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Mucus Cloud; |
-| Saves:               |Fort: 7, Ref: 3, Will: 11 |
+| Saves:               |Fort: +7, Ref: +3, Will: +11 |
 | Abilities:           |Str : 26,  Dex: 12,  Con: 20,  Int: 15,  Wis: 17,  Cha: 17 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 16, [[Skill List#Knowledge\|Knowledge]]: (any one) 13, [[Skill List#Listen\|Listen]]: 16, [[Skill List#Spot\|Spot]]: 16, [[Skill List#Swim\|Swim]]: 8; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +16, [[Skill List#Knowledge\|Knowledge]]: (any one) 13, [[Skill List#Listen\|Listen]]: +16, [[Skill List#Spot\|Spot]]: +16, [[Skill List#Swim\|Swim]]: +8; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Iron Will\|Iron Will]]; |
 | Environment          |Underground |
 | Organization:        |Solitary, brood (2-4),or slaver brood (1d3+1 plus 7-12 skum) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid Form Weretiger
+title: 3.5 Compendium / Monsters / Hybrid_Form_Weretiger
 aliases: 
  - Hybrid Form Weretiger
 tags: 
  - 3.5e
  - rules
  - monsters
- - Hybrid Form Weretiger
+ - Hybrid_Form_Weretiger
+ - CR5
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Tiger Empathy, [[Special Abilities#damage reduction\|Damage Reduction]]  10/silver, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 10, Ref: 7, Will: 4 |
+| Saves:               |Fort: +10, Ref: +7, Will: +4 |
 | Abilities:           |Str : 25,  Dex: 15,  Con: 16,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 6, [[Skill List#Climb\|Climb]]: 12, [[Skill List#Handle Animal\|Handle Animal]]: 3, [[Skill List#Hide\|Hide]]: 2, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Move Silently\|Move Silently]]: 12, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +6, [[Skill List#Climb\|Climb]]: +12, [[Skill List#Handle Animal\|Handle Animal]]: +3, [[Skill List#Hide\|Hide]]: +2, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Move Silently\|Move Silently]]: +12, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#\|]](same as human form); |
 | Environment          |Warm forests |
 | Organization:        |(same as human form) |

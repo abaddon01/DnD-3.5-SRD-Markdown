@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Destrachan
+ - CR8
 type: Aberration
 cr: 8
 environment: Underground
@@ -28,9 +29,9 @@ alignment: Usually neutral evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Destructive harmonics |
 | Special Qualities    |Blindsight 100 Ft., Immunities, Protection From Sonics; |
-| Saves:               |Fort: 5, Ref: 5, Will: 10 |
+| Saves:               |Fort: +5, Ref: +5, Will: +10 |
 | Abilities:           |Str : 18,  Dex: 12,  Con: 16,  Int: 12,  Wis: 18,  Cha: 12 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 8, [[Skill List#Listen\|Listen]]: 25, [[Skill List#Move Silently\|Move Silently]]: 7, [[Skill List#Survival\|Survival]]: 9; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +25, [[Skill List#Move Silently\|Move Silently]]: +7, [[Skill List#Survival\|Survival]]: +9; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |Underground |
 | Organization:        |Solitary or pack (3-5) |

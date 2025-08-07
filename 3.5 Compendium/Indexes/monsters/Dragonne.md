@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Dragonne
+ - CR7
 type: Magical
 subtypes: 
  - Beast
@@ -30,10 +31,10 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Pounce, roar |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 8, Will: 4 |
+| Saves:               |Fort: +9, Ref: +8, Will: +4 |
 | Abilities:           |Str : 19,  Dex: 15,  Con: 17,  Int: 6,  Wis: 12,  Cha: 12 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 11, [[Skill List#Spot\|Spot]]: 11; |
-| Feats:               |; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +11, [[Skill List#Spot\|Spot]]: +11; |
+| Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Track\|Track]]; |
 | Environment          |Temperate deserts |
 | Organization:        |Solitary, pair, or pride (5-10) |
 | Challenge Rating:    |7 |

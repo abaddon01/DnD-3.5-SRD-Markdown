@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Minotaur Zombie
+title: 3.5 Compendium / Monsters / Minotaur_Zombie
 aliases: 
  - Minotaur Zombie
 tags: 
  - 3.5e
  - rules
  - monsters
- - Minotaur Zombie
+ - Minotaur_Zombie
+ - CR4
 type: Undead
 cr: 4
 environment: Underground
@@ -28,7 +29,7 @@ alignment: Always neutral evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 4, Ref: 3, Will: 8 |
+| Saves:               |Fort: +4, Ref: +3, Will: +8 |
 | Abilities:           |Str : 21,  Dex: 8,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#Toughness\|Toughness]]; |

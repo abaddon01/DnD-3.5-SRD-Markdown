@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Choker
+ - CR2
 type: Aberration
 cr: 2
 environment: Underground
@@ -28,9 +29,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./10 ft. |
 | Special Attacks:     |Improved grab, constrict 1d3+3 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Quickness; |
-| Saves:               |Fort: 2, Ref: 5, Will: 4 |
+| Saves:               |Fort: +2, Ref: +5, Will: +4 |
 | Abilities:           |Str : 16,  Dex: 14,  Con: 13,  Int: 4,  Wis: 13,  Cha: 7 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 13, [[Skill List#Hide\|Hide]]: 10, [[Skill List#Move Silently\|Move Silently]]: 6; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +13, [[Skill List#Hide\|Hide]]: +10, [[Skill List#Move Silently\|Move Silently]]: +6; |
 | Feats:               |[[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Stealthy\|Stealthy]]; |
 | Environment          |Underground |
 | Organization:        |Solitary |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Large Animated Object
+title: 3.5 Compendium / Monsters / Large_Animated_Object
 aliases: 
  - Large Animated Object
 tags: 
  - 3.5e
  - rules
  - monsters
- - Large Animated Object
+ - Large_Animated_Object
+ - CR3
 type: Construct
 cr: 3
 environment: Any
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. (long) 10 ft./10 ft. (tall) |
 | Special Attacks:     | |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; |
-| Saves:               |Fort: 1, Ref: 1, Will: -4 |
+| Saves:               |Fort: +1, Ref: +1, Will: -4 |
 | Abilities:           |Str : 16,  Dex: 10,  Con: -1,  Int: -1,  Wis: 1,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#--\|--]]; |

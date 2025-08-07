@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Aasimar
+ - CR1/2
 type: 1st-Level
 subtypes: 
  - Warrior
@@ -33,9 +34,9 @@ alignment: Usually good (any)
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Daylight |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 5, Cold 5, And Electricity 5; |
-| Saves:               |Fort: 3, Ref: 0, Will: 0 |
+| Saves:               |Fort: +3, Ref: 0, Will: 0 |
 | Abilities:           |Str : 13,  Dex: 11,  Con: 12,  Int: 10,  Wis: 11,  Cha: 10 |
-| Skills:              |[[Skill List#Heal\|Heal]]: 4, [[Skill List#Knowledge\|Knowledge]]: (religion) 1, [[Skill List#Listen\|Listen]]: 3, [[Skill List#Ride\|Ride]]: 1, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Heal\|Heal]]: +4, [[Skill List#Knowledge\|Knowledge]]: (religion) 1, [[Skill List#Listen\|Listen]]: +3, [[Skill List#Ride\|Ride]]: +1, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Temperate plains |
 | Organization:        |Solitary, pair, or team (3-4) |

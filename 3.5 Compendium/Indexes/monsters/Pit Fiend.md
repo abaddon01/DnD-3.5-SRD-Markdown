@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Pit Fiend
+title: 3.5 Compendium / Monsters / Pit_Fiend
 aliases: 
  - Pit Fiend
 tags: 
  - 3.5e
  - rules
  - monsters
- - Pit Fiend
+ - Pit_Fiend
+ - CR20
 type: Outsider
 subtypes: 
  - Evil
@@ -32,10 +33,10 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Constrict 2d8+26, fear aura, improved grab, spell-like abilities, summon devil |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  15/good And Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, [[Special Abilities#regeneration\|Regeneration]]  5, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  32, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 19, Ref: 19, Will: 21 |
+| Saves:               |Fort: +19, Ref: +19, Will: +21 |
 | Abilities:           |Str : 37,  Dex: 27,  Con: 27,  Int: 26,  Wis: 26,  Cha: 26 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 10, [[Skill List#Bluff\|Bluff]]: 29, [[Skill List#Climb\|Climb]]: 34, [[Skill List#Concentration\|Concentration]]: 29, [[Skill List#Diplomacy\|Diplomacy]]: 10, [[Skill List#Disguise\|Disguise]]: +29 (+31 acting) , [[Skill List#Hide\|Hide]]: 25, [[Skill List#Intimidate\|Intimidate]]: 31, [[Skill List#Jump\|Jump]]: 40, [[Skill List#Knowledge\|Knowledge]]: (arcana) 29, [[Skill List#Knowledge\|Knowledge]]: (nature) 10, [[Skill List#Knowledge\|Knowledge]]: (the planes) 29, [[Skill List#Knowledge\|Knowledge]]: (religion) 29, [[Skill List#Listen\|Listen]]: 29, [[Skill List#Move Silently\|Move Silently]]: 29, [[Skill List#Search\|Search]]: 29, [[Skill List#Spellcraft\|Spellcraft]]: 31, [[Skill List#Spot\|Spot]]: 29, [[Skill List#Survival\|Survival]]: +8 (+10 on other planes, +10 when tracking) , [[Skill List#Tumble\|Tumble]]: 31; |
-| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability\|Quicken Spell-Like Ability]]; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +10, [[Skill List#Bluff\|Bluff]]: +29, [[Skill List#Climb\|Climb]]: +34, [[Skill List#Concentration\|Concentration]]: +29, [[Skill List#Diplomacy\|Diplomacy]]: +10, [[Skill List#Disguise\|Disguise]]: +29 (+31 acting) , [[Skill List#Hide\|Hide]]: +25, [[Skill List#Intimidate\|Intimidate]]: +31, [[Skill List#Jump\|Jump]]: +40, [[Skill List#Knowledge\|Knowledge]]: (arcana) 29, [[Skill List#Knowledge\|Knowledge]]: (nature) 10, [[Skill List#Knowledge\|Knowledge]]: (the planes) 29, [[Skill List#Knowledge\|Knowledge]]: (religion) 29, [[Skill List#Listen\|Listen]]: +29, [[Skill List#Move Silently\|Move Silently]]: +29, [[Skill List#Search\|Search]]: +29, [[Skill List#Spellcraft\|Spellcraft]]: +31, [[Skill List#Spot\|Spot]]: +29, [[Skill List#Survival\|Survival]]: +8 (+10 on other planes, +10 when tracking) , [[Skill List#Tumble\|Tumble]]: +31; |
+| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability \|Quicken Spell-Like Ability ]](fireball); |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary, pair, team (3-4), or troupe (1-2 pit fiends, 2-5 horned devils, and 2-5 barbed devils) |
 | Challenge Rating:    |20 |

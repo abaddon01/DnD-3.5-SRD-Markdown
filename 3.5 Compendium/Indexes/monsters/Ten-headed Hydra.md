@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ten-headed Hydra
+title: 3.5 Compendium / Monsters / Ten-headed_Hydra
 aliases: 
  - Ten-headed Hydra
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ten-headed Hydra
+ - Ten-headed_Hydra
+ - CR9
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  20, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 12, Ref: 8, Will: 3 |
+| Saves:               |Fort: +12, Ref: +8, Will: +3 |
 | Abilities:           |Str : 21,  Dex: 12,  Con: 20,  Int: 2,  Wis: 10,  Cha: 9 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 8, [[Skill List#Spot\|Spot]]: 9, [[Skill List#Swim\|Swim]]: 13; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +8, [[Skill List#Spot\|Spot]]: +9, [[Skill List#Swim\|Swim]]: +13; |
 | Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Reflexes \|Combat Reflexes ]](B), [[Feat List#Iron Will\|Iron Will]], [[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Temperate marshes (Pyro: Warm marshes) (Cyro: Cold marshes) |
 | Organization:        |Solitary |

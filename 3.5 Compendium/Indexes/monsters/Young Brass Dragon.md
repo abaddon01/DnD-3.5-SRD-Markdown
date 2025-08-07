@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young Brass Dragon
+title: 3.5 Compendium / Monsters / Young_Brass_Dragon
 aliases: 
  - Young Brass Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young Brass Dragon
+ - Young_Brass_Dragon
+ - CR6
 type: Brass Dragon(Young)
 cr: 6
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 9, Ref: 7, Will: 8 |
+| Saves:               |Fort: +9, Ref: +7, Will: +8 |
 | Abilities:           |Str: 15, Dex: 10, Con: 15, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

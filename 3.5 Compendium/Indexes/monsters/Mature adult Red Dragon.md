@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Mature adult Red Dragon
+title: 3.5 Compendium / Monsters / Mature_adult_Red_Dragon
 aliases: 
  - Mature adult Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Mature adult Red Dragon
+ - Mature_adult_Red_Dragon
+ - CR18
 type: Red Dragon(Mature adult)
 cr: 18
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 10/magic; |
-| Saves:               |Fort: 20, Ref: 14, Will: 18 |
+| Saves:               |Fort: +20, Ref: +14, Will: +18 |
 | Abilities:           |Str: 33, Dex: 10, Con: 23, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Average Xorn
+title: 3.5 Compendium / Monsters / Average_Xorn
 aliases: 
  - Average Xorn
 tags: 
  - 3.5e
  - rules
  - monsters
- - Average Xorn
+ - Average_Xorn
+ - CR6
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |All-around Vision, Earth Glide, [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold And Fire, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; |
-| Saves:               |Fort: 7, Ref: 5, Will: 5 |
+| Saves:               |Fort: +7, Ref: +5, Will: +5 |
 | Abilities:           |Str : 17,  Dex: 10,  Con: 15,  Int: 10,  Wis: 11,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 10, [[Skill List#Intimidate\|Intimidate]]: 10, [[Skill List#Knowledge (dungeoneering)\|Knowledge (dungeoneering)]]: 10, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Move Silently\|Move Silently]]: 10, [[Skill List#Search\|Search]]: 10, [[Skill List#Spot\|Spot]]: 10, [[Skill List#Survival\|Survival]]: 10 (+12 following tracks or underground); |
+| Skills:              |[[Skill List#Hide\|Hide]]: +10, [[Skill List#Intimidate\|Intimidate]]: +10, [[Skill List#Knowledge (dungeoneering)\|Knowledge (dungeoneering)]]: +10, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Move Silently\|Move Silently]]: +10, [[Skill List#Search\|Search]]: +10, [[Skill List#Spot\|Spot]]: +10, [[Skill List#Survival\|Survival]]: 10 (+12 following tracks or underground); |
 | Feats:               |[[Feat List#Cleave \|Cleave ]](B), [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Elemental Plane of Earth |
 | Organization:        |Solitary, pair, or cluster (3-5) |

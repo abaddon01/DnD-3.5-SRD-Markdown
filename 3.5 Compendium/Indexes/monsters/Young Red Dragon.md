@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young Red Dragon
+title: 3.5 Compendium / Monsters / Young_Red_Dragon
 aliases: 
  - Young Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young Red Dragon
+ - Young_Red_Dragon
+ - CR7
 type: Red Dragon(Young)
 cr: 7
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 11, Ref: 8, Will: 9 |
+| Saves:               |Fort: +11, Ref: +8, Will: +9 |
 | Abilities:           |Str: 25, Dex: 10, Con: 17, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

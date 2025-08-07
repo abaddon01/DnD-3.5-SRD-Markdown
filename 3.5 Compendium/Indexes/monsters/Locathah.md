@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Locathah
+ - CR1/2
 type: Humanoid
 subtypes: 
  - Aquatic
@@ -30,10 +31,10 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |--; |
-| Saves:               |Fort: 3, Ref: 1, Will: 1 |
+| Saves:               |Fort: +3, Ref: +1, Will: +1 |
 | Abilities:           |Str : 10,  Dex: 12,  Con: 10,  Int: _13,  Wis: 13,  Cha: 11 |
-| Skills:              |[[Skill List#Craft\|Craft]]: (any one) 6, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 6, [[Skill List#Swim\|Swim]]: 8; |
-| Feats:               |[[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Craft\|Craft]]: (any one) 6, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +6, [[Skill List#Swim\|Swim]]: +8; |
+| Feats:               |[[Feat List#Weapon Focus \|Weapon Focus ]](longspear); |
 | Environment          |Warm aquatic |
 | Organization:        |Company (2-4), patrol (11-20 plus 2 3rd-level sergeants and 1 leader of 3rd-6th level), or tribe (30-100 plus 100% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |
 | Challenge Rating:    |1/2 |

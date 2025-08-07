@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Howler
+ - CR3
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Quills, howl |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 7, Ref: 8, Will: 7 |
+| Saves:               |Fort: +7, Ref: +8, Will: +7 |
 | Abilities:           |Str : 21,  Dex: 17,  Con: 15,  Int: 6,  Wis: 14,  Cha: 8 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 14, [[Skill List#Hide\|Hide]]: 8, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Move Silently\|Move Silently]]: 12, [[Skill List#Search\|Search]]: 7, [[Skill List#Spot\|Spot]]: 13, [[Skill List#Survival\|Survival]]: 2(4followingtracks)+2 (+4 following tracks); |
+| Skills:              |[[Skill List#Climb\|Climb]]: +14, [[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Move Silently\|Move Silently]]: +12, [[Skill List#Search\|Search]]: +7, [[Skill List#Spot\|Spot]]: +13, [[Skill List#Survival\|Survival]]: 2(4followingtracks)+2 (+4 following tracks); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |A chaotic-aligned plane |
 | Organization:        |Solitary, gang (2-4), or pack (6-10) |

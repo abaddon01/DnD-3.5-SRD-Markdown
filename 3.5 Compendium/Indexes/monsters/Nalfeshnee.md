@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Nalfeshnee
+ - CR14
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,10 +33,10 @@ alignment: Always chaotic evil
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     |Smite, spell-like abilities, summon demon |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  22, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., True Seeing; |
-| Saves:               |Fort: 17, Ref: 10, Will: 15 |
+| Saves:               |Fort: +17, Ref: +10, Will: +15 |
 | Abilities:           |Str : 25,  Dex: 13,  Con: 27,  Int: 22,  Wis: 22,  Cha: 20 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 22, [[Skill List#Concentration\|Concentration]]: 25, [[Skill List#Diplomacy\|Diplomacy]]: 26, [[Skill List#Disguise\|Disguise]]: +5 (+7 acting) , [[Skill List#Hide\|Hide]]: 10, [[Skill List#Intimidate\|Intimidate]]: 22, [[Skill List#Knowledge\|Knowledge]]: (arcana) 23, [[Skill List#Listen\|Listen]]: 31, [[Skill List#Move Silently\|Move Silently]]: 18, [[Skill List#Search\|Search]]: 23, [[Skill List#Sense Motive\|Sense Motive]]: 23, [[Skill List#Spellcraft\|Spellcraft]]: +25 (+27 scrolls) , [[Skill List#Spot\|Spot]]: 31, [[Skill List#Survival\|Survival]]: +6 (+8 following tracks) , [[Skill List#Use Magic Device\|Use Magic Device]]: 22(24scrolls)+22 (+24 scrolls); |
-| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +22, [[Skill List#Concentration\|Concentration]]: +25, [[Skill List#Diplomacy\|Diplomacy]]: +26, [[Skill List#Disguise\|Disguise]]: +5 (+7 acting) , [[Skill List#Hide\|Hide]]: +10, [[Skill List#Intimidate\|Intimidate]]: +22, [[Skill List#Knowledge\|Knowledge]]: (arcana) 23, [[Skill List#Listen\|Listen]]: +31, [[Skill List#Move Silently\|Move Silently]]: +18, [[Skill List#Search\|Search]]: +23, [[Skill List#Sense Motive\|Sense Motive]]: +23, [[Skill List#Spellcraft\|Spellcraft]]: +25 (+27 scrolls) , [[Skill List#Spot\|Spot]]: +31, [[Skill List#Survival\|Survival]]: +6 (+8 following tracks) , [[Skill List#Use Magic Device\|Use Magic Device]]: 22(24scrolls)+22 (+24 scrolls); |
+| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary or troupe (1 nalfeshnee, 1 hezrou, and 2-5 vrocks) |
 | Challenge Rating:    |14 |

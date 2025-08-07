@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Minor Xorn
+title: 3.5 Compendium / Monsters / Minor_Xorn
 aliases: 
  - Minor Xorn
 tags: 
  - 3.5e
  - rules
  - monsters
- - Minor Xorn
+ - Minor_Xorn
+ - CR3
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |All-around Vision, Earth Glide, [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold And Fire, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; |
-| Saves:               |Fort: 5, Ref: 3, Will: 3 |
+| Saves:               |Fort: +5, Ref: +3, Will: +3 |
 | Abilities:           |Str : 15,  Dex: 10,  Con: 15,  Int: 10,  Wis: 11,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 10, [[Skill List#Intimidate\|Intimidate]]: 3, [[Skill List#Knowledge (dungeoneering)\|Knowledge (dungeoneering)]]: 6, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Move Silently\|Move Silently]]: 3, [[Skill List#Search\|Search]]: 6, [[Skill List#Spot\|Spot]]: 8, [[Skill List#Survival\|Survival]]: 6 (+8 following tracks or underground); |
+| Skills:              |[[Skill List#Hide\|Hide]]: +10, [[Skill List#Intimidate\|Intimidate]]: +3, [[Skill List#Knowledge (dungeoneering)\|Knowledge (dungeoneering)]]: +6, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Move Silently\|Move Silently]]: +3, [[Skill List#Search\|Search]]: +6, [[Skill List#Spot\|Spot]]: +8, [[Skill List#Survival\|Survival]]: 6 (+8 following tracks or underground); |
 | Feats:               |[[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Elemental Plane of Earth |
 | Organization:        |Solitary, pair, or cluster (3-5) |

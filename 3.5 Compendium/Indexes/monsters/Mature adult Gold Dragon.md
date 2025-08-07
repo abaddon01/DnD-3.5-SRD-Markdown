@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Mature adult Gold Dragon
+title: 3.5 Compendium / Monsters / Mature_adult_Gold_Dragon
 aliases: 
  - Mature adult Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Mature adult Gold Dragon
+ - Mature_adult_Gold_Dragon
+ - CR19
 type: Gold Dragon(Mature adult)
 cr: 19
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 10/magic; |
-| Saves:               |Fort: 21, Ref: 15, Will: 20 |
+| Saves:               |Fort: +21, Ref: +15, Will: +20 |
 | Abilities:           |Str: 35, Dex: 10, Con: 23, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

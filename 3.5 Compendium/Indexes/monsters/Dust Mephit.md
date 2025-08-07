@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dust Mephit
+title: 3.5 Compendium / Monsters / Dust_Mephit
 aliases: 
  - Dust Mephit
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dust Mephit
+ - Dust_Mephit
+ - CR3
 type: Outsider
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Breath weapon, spell-like abilities, summon mephit |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2; |
-| Saves:               |Fort: 3, Ref: 6, Will: 3 |
+| Saves:               |Fort: +3, Ref: +6, Will: +3 |
 | Abilities:           |Str : 10,  Dex: 17,  Con: 10,  Int: 6,  Wis: 11,  Cha: 15 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 8, [[Skill List#Escape Artist\|Escape Artist]]: 9, [[Skill List#Hide\|Hide]]: 13, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Disguise\|Disguise]]: +2 (+4 acting) , [[Skill List#Intimidate\|Intimidate]]: 4, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Move Silently\|Move Silently]]: 9, [[Skill List#Spot\|Spot]]: 6, [[Skill List#Use Rope\|Use Rope]]: 3(5withbindings)+3 (+5 with bindings); |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +8, [[Skill List#Escape Artist\|Escape Artist]]: +9, [[Skill List#Hide\|Hide]]: +13, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Disguise\|Disguise]]: +2 (+4 acting) , [[Skill List#Intimidate\|Intimidate]]: +4, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Move Silently\|Move Silently]]: +9, [[Skill List#Spot\|Spot]]: +6, [[Skill List#Use Rope\|Use Rope]]: 3(5withbindings)+3 (+5 with bindings); |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary (1), gang (2-4 mephits of mixed types), or mob (5-12 mephits of mixed types) |

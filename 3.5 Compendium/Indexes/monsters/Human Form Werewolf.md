@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human Form Werewolf
+title: 3.5 Compendium / Monsters / Human_Form_Werewolf
 aliases: 
  - Human Form Werewolf
 tags: 
  - 3.5e
  - rules
  - monsters
- - Human Form Werewolf
+ - Human_Form_Werewolf
+ - CR3
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Wolf Empathy, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 6, Ref: 3, Will: 2 |
+| Saves:               |Fort: +6, Ref: +3, Will: +2 |
 | Abilities:           |Str : 13,  Dex: 11,  Con: 12,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 1, [[Skill List#Hide\|Hide]]: 1, [[Skill List#Listen\|Listen]]: 1, [[Skill List#Move Silently\|Move Silently]]: 2, [[Skill List#Spot\|Spot]]: 1, [[Skill List#Survival\|Survival]]: 2; |
+| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: +1, [[Skill List#Hide\|Hide]]: +1, [[Skill List#Listen\|Listen]]: +1, [[Skill List#Move Silently\|Move Silently]]: +2, [[Skill List#Spot\|Spot]]: +1, [[Skill List#Survival\|Survival]]: +2; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will \|Iron Will ]](B), [[Feat List#Stealthy\|Stealthy]], [[Feat List#Track \|Track ]](B), [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, pack (6-10), or troupe (2-5 plus 5-8 wolves) |

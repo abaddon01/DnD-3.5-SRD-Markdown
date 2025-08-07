@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Dryad
+ - CR3
 type: Fey
 cr: 3
 environment: Temperate forests
@@ -28,10 +29,10 @@ alignment: Usually chaotic good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, Tree Dependent, Wild Empathy; |
-| Saves:               |Fort: 3, Ref: 8, Will: 6 |
+| Saves:               |Fort: +3, Ref: +8, Will: +6 |
 | Abilities:           |Str : 10,  Dex: 19,  Con: 11,  Int: 14,  Wis: 15,  Cha: 18 |
-| Skills:              |[[Skill List#Escape Artist\|Escape Artist]]: 11, [[Skill List#Handle Animal\|Handle Animal]]: 11, [[Skill List#Hide\|Hide]]: 11, [[Skill List#Knowledge\|Knowledge]]: (nature) 11, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Move Silently\|Move Silently]]: 11, [[Skill List#Ride\|Ride]]: 6, [[Skill List#Spot\|Spot]]: 9, [[Skill List#Survival\|Survival]]: 9, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
-| Feats:               |; |
+| Skills:              |[[Skill List#Escape Artist\|Escape Artist]]: +11, [[Skill List#Handle Animal\|Handle Animal]]: +11, [[Skill List#Hide\|Hide]]: +11, [[Skill List#Knowledge\|Knowledge]]: (nature) 11, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Ride\|Ride]]: +6, [[Skill List#Spot\|Spot]]: +9, [[Skill List#Survival\|Survival]]: +9, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
+| Feats:               |[[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary or grove (4-7) |
 | Challenge Rating:    |3 |

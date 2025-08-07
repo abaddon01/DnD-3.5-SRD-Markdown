@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very old Bronze Dragon
+title: 3.5 Compendium / Monsters / Very_old_Bronze_Dragon
 aliases: 
  - Very old Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very old Bronze Dragon
+ - Very_old_Bronze_Dragon
+ - CR20
 type: Bronze Dragon(Very old)
 cr: 20
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 15/magic; |
-| Saves:               |Fort: 23, Ref: 17, Will: 23 |
+| Saves:               |Fort: +23, Ref: +17, Will: +23 |
 | Abilities:           |Str: 33, Dex: 10, Con: 23, Int: 22, Wis: 23, Cha: 22 |
 | Skills:              |; |
 | Feats:               |; |

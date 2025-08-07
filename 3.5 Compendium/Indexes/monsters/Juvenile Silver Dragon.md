@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile Silver Dragon
+title: 3.5 Compendium / Monsters / Juvenile_Silver_Dragon
 aliases: 
  - Juvenile Silver Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile Silver Dragon
+ - Juvenile_Silver_Dragon
+ - CR10
 type: Silver Dragon(Juvenile)
 cr: 10
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Feather Fall; |
-| Saves:               |Fort: 13, Ref: 10, Will: 14 |
+| Saves:               |Fort: +13, Ref: +10, Will: +14 |
 | Abilities:           |Str: 19, Dex: 10, Con: 17, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

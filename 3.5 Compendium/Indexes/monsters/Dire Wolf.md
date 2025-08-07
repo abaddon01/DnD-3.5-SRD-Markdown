@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Wolf
+title: 3.5 Compendium / Monsters / Dire_Wolf
 aliases: 
  - Dire Wolf
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Wolf
+ - Dire_Wolf
+ - CR3
 type: Animal
 cr: 3
 environment: Temperate forests
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Trip |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 8, Ref: 7, Will: 6 |
+| Saves:               |Fort: +8, Ref: +7, Will: +6 |
 | Abilities:           |Str : 25,  Dex: 15,  Con: 17,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 0, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Move Silently\|Move Silently]]: 4, [[Skill List#Spot\|Spot]]: 7, [[Skill List#Survival\|Survival]]: 2*; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Run\|Run]], [[Feat List#Track \|Track ]](B), [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 0, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Move Silently\|Move Silently]]: +4, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Survival\|Survival]]: 2*; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Run\|Run]], [[Feat List#Track \|Track ]](B), [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Temperate forests |
 | Organization:        |Solitary or pack (5-8) |
 | Challenge Rating:    |3 |

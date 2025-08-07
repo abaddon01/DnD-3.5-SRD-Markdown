@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human Form Werewolf Lord
+title: 3.5 Compendium / Monsters / Human_Form_Werewolf_Lord
 aliases: 
  - Human Form Werewolf Lord
 tags: 
  - 3.5e
  - rules
  - monsters
- - Human Form Werewolf Lord
+ - Human_Form_Werewolf_Lord
+ - CR14
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Wolf Empathy, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 16, Ref: 12, Will: 13 |
+| Saves:               |Fort: +16, Ref: +12, Will: +13 |
 | Abilities:           |Str : 18,  Dex: 14,  Con: 14 Int 10,  Wis: 12,  Cha: 12 |
-| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 4, [[Skill List#Hide\|Hide]]: 6, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Move Silently\|Move Silently]]: 8, [[Skill List#Spot\|Spot]]: 13, [[Skill List#Survival\|Survival]]: 5; |
+| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: +4, [[Skill List#Hide\|Hide]]: +6, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Move Silently\|Move Silently]]: +8, [[Skill List#Spot\|Spot]]: +13, [[Skill List#Survival\|Survival]]: +5; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Exotic Weapon Proficiency \|Exotic Weapon Proficiency ]](bastard Sword), [[Feat List#Improved Critical \|Improved Critical ]](bastard sword), [[Feat List#Improved Critical \|Improved Critical ]](bite), [[Monster Feats#Improved Natural Armor\|Improved Natural Armor]], [[Monster Feats#Improved Natural Attack \|Improved Natural Attack ]](bite), [[Feat List#Iron Will \|Iron Will ]](B), [[Feat List#Power Attack\|Power Attack]], [[Feat List#Run\|Run]], [[Feat List#Stealthy\|Stealthy]], [[Feat List#Track \|Track ]](B), [[Feat List#Weapon Focus \|Weapon Focus ]](bastard sword), [[Feat List#Weapon Focus \|Weapon Focus ]](bite), [[Feat List#Weapon Specialization \|Weapon Specialization ]](bastard sword); |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, or pack (1-2 werewolf lords plus 2-4 werewolves plus 5-8 wolves) |

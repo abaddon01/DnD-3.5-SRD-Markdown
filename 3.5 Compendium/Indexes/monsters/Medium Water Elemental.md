@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium Water Elemental
+title: 3.5 Compendium / Monsters / Medium_Water_Elemental
 aliases: 
  - Medium Water Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Medium Water Elemental
+ - Medium_Water_Elemental
+ - CR3
 type: Elemental
 subtypes: 
  - Water
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 7, Ref: 2, Will: 1 |
+| Saves:               |Fort: +7, Ref: +2, Will: +1 |
 | Abilities:           |Str : 16,  Dex: 12,  Con: 17,  Int: 4,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 3, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +3, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Water |
 | Organization:        |Solitary |

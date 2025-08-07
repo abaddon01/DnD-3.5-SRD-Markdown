@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrm Bronze Dragon
+title: 3.5 Compendium / Monsters / Wyrm_Bronze_Dragon
 aliases: 
  - Wyrm Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrm Bronze Dragon
+ - Wyrm_Bronze_Dragon
+ - CR23
 type: Bronze Dragon(Wyrm)
 cr: 23
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 20/magic; |
-| Saves:               |Fort: 28, Ref: 20, Will: 28 |
+| Saves:               |Fort: +28, Ref: +20, Will: +28 |
 | Abilities:           |Str: 37, Dex: 10, Con: 27, Int: 26, Wis: 27, Cha: 26 |
 | Skills:              |; |
 | Feats:               |; |

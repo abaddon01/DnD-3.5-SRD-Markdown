@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrm Copper Dragon
+title: 3.5 Compendium / Monsters / Wyrm_Copper_Dragon
 aliases: 
  - Wyrm Copper Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrm Copper Dragon
+ - Wyrm_Copper_Dragon
+ - CR23
 type: Copper Dragon(Wyrm)
 cr: 23
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 20/magic; |
-| Saves:               |Fort: 26, Ref: 19, Will: 25 |
+| Saves:               |Fort: +26, Ref: +19, Will: +25 |
 | Abilities:           |Str: 35, Dex: 10, Con: 25, Int: 22, Wis: 23, Cha: 22 |
 | Skills:              |; |
 | Feats:               |; |

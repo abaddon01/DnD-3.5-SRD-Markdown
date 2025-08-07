@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Ankheg
+ - CR3
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Improved grab, spit acid |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; |
-| Saves:               |Fort: 6, Ref: 3, Will: 2 |
+| Saves:               |Fort: +6, Ref: +3, Will: +2 |
 | Abilities:           |Str : 21,  Dex: 10,  Con: 17,  Int: 1,  Wis: 13,  Cha: 6 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 8, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +8, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Warm plains |
 | Organization:        |Solitary or cluster (2-4) |

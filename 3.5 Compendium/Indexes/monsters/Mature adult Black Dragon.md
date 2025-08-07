@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Mature adult Black Dragon
+title: 3.5 Compendium / Monsters / Mature_adult_Black_Dragon
 aliases: 
  - Mature adult Black Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Mature adult Black Dragon
+ - Mature_adult_Black_Dragon
+ - CR14
 type: Black Dragon(Mature adult)
 cr: 14
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 10/magic; |
-| Saves:               |Fort: 18, Ref: 13, Will: 15 |
+| Saves:               |Fort: +18, Ref: +13, Will: +15 |
 | Abilities:           |Str: 27, Dex: 10, Con: 21, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Rat
+title: 3.5 Compendium / Monsters / Dire_Rat
 aliases: 
  - Dire Rat
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Rat
+ - Dire_Rat
+ - CR1/3
 type: Animal
 cr: 1/3
 environment: Any
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Disease |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 3, Ref: 5, Will: 3 |
+| Saves:               |Fort: +3, Ref: +5, Will: +3 |
 | Abilities:           |Str : 10,  Dex: 17,  Con: 12,  Int: 1,  Wis: 12,  Cha: 4 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 11, [[Skill List#Hide\|Hide]]: 8, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Move Silently\|Move Silently]]: 4, [[Skill List#Spot\|Spot]]: 4, [[Skill List#Swim\|Swim]]: 11; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +11, [[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Move Silently\|Move Silently]]: +4, [[Skill List#Spot\|Spot]]: +4, [[Skill List#Swim\|Swim]]: +11; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Any |
 | Organization:        |Solitary or pack (11-20) |

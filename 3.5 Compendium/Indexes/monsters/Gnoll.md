@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Gnoll
+ - CR1
 type: Humanoid
 subtypes: 
  - Gnoll
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 4, Ref: 0, Will: 0 |
+| Saves:               |Fort: +4, Ref: 0, Will: 0 |
 | Abilities:           |Str : 15,  Dex: 10,  Con: 13,  Int: 8,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 2, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +2, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Warm plains |
 | Organization:        |Solitary, pair, hunting party (2-5 and 1-2 hyenas), band (10-100 plus 50% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th-6th level and 5-8 hyenas), or tribe (20-200 plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, and 7-12 hyenas; underground lairs also have 1-3 trolls) |

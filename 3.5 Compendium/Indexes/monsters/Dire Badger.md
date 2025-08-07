@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Badger
+title: 3.5 Compendium / Monsters / Dire_Badger
 aliases: 
  - Dire Badger
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Badger
+ - Dire_Badger
+ - CR2
 type: Animal
 cr: 2
 environment: Temperate forests
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Rage |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 7, Ref: 6, Will: 4 |
+| Saves:               |Fort: +7, Ref: +6, Will: +4 |
 | Abilities:           |Str : 14,  Dex: 17,  Con: 19,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Toughness\|Toughness]], [[Feat List#Track \|Track ]](B); |
 | Environment          |Temperate forests |
 | Organization:        |Solitary or cete (2-5) |

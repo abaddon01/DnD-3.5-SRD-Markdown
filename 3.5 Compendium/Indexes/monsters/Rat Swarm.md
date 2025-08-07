@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Rat Swarm
+title: 3.5 Compendium / Monsters / Rat_Swarm
 aliases: 
  - Rat Swarm
 tags: 
  - 3.5e
  - rules
  - monsters
- - Rat Swarm
+ - Rat_Swarm
+ - CR2
 type: Animal
 subtypes: 
  - Swarm
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./0 ft. |
 | Special Attacks:     |Disease, distraction |
 | Special Qualities    |Half Damage From Slashing And Piercing, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , [[Traits#swarm traits\|Swarm Traits]] ; |
-| Saves:               |Fort: 4, Ref: 6, Will: 2 |
+| Saves:               |Fort: +4, Ref: +6, Will: +2 |
 | Abilities:           |Str : 2,  Dex: 15,  Con: 10,  Int: 2,  Wis: 12,  Cha: 2 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 10, [[Skill List#Climb\|Climb]]: 10, [[Skill List#Hide\|Hide]]: 16, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 7, [[Skill List#Swim\|Swim]]: 10; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +10, [[Skill List#Climb\|Climb]]: +10, [[Skill List#Hide\|Hide]]: +16, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Swim\|Swim]]: +10; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Stealthy\|Stealthy]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Any |
 | Organization:        |Solitary, pack (2-4 swarms), or infestation (7-12 swarms) |

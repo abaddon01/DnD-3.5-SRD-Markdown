@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Gargoyle
+ - CR4
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -31,9 +32,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Freeze; |
-| Saves:               |Fort: 5, Ref: 6, Will: 4 |
+| Saves:               |Fort: +5, Ref: +6, Will: +4 |
 | Abilities:           |Str : 15,  Dex: 14,  Con: 18,  Int: 6,  Wis: 11,  Cha: 7 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 7*, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 7*, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Any |
 | Organization:        |Solitary, pair, or wing (5-16) |

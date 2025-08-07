@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Xill
+ - CR6
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -30,9 +31,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Implant, improved grab, paralysis |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Planewalk, [[Special Abilities#spell resistance\|Spell Resistance]]  21; |
-| Saves:               |Fort: 6, Ref: 7, Will: 5 |
+| Saves:               |Fort: +6, Ref: +7, Will: +5 |
 | Abilities:           |Str : 15,  Dex: 16,  Con: 15,  Int: 12,  Wis: 12,  Cha: 11 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 13, [[Skill List#Climb\|Climb]]: 10, [[Skill List#Diplomacy\|Diplomacy]]: 2, [[Skill List#Escape Artist\|Escape Artist]]: 11, [[Skill List#Intimidate\|Intimidate]]: 8, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Move Silently\|Move Silently]]: 11, [[Skill List#Sense Motive\|Sense Motive]]: 8, [[Skill List#Spot\|Spot]]: 9, [[Skill List#Tumble\|Tumble]]: 11, [[Skill List#Use Rope\|Use Rope]]: 3(5withbindings)+3 (+5 with bindings); |
+| Skills:              |[[Skill List#Balance\|Balance]]: +13, [[Skill List#Climb\|Climb]]: +10, [[Skill List#Diplomacy\|Diplomacy]]: +2, [[Skill List#Escape Artist\|Escape Artist]]: +11, [[Skill List#Intimidate\|Intimidate]]: +8, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Sense Motive\|Sense Motive]]: +8, [[Skill List#Spot\|Spot]]: +9, [[Skill List#Tumble\|Tumble]]: +11, [[Skill List#Use Rope\|Use Rope]]: 3(5withbindings)+3 (+5 with bindings); |
 | Feats:               |[[Feat List#Improved Initative\|Improved Initative]], [[Monster Feats#Multiattack \|Multiattack ]](B), [[Monster Feats#Multiweapon Fighting\|Multiweapon Fighting]]; |
 | Environment          |Ethereal Plane |
 | Organization:        |Solitary or gang (2-5) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Planetar Angel
+title: 3.5 Compendium / Monsters / Planetar_Angel
 aliases: 
  - Planetar Angel
 tags: 
  - 3.5e
  - rules
  - monsters
- - Planetar Angel
+ - Planetar_Angel
+ - CR16
 type: Outsider
 subtypes: 
  - Angel
@@ -32,9 +33,9 @@ alignment: Always good (any)
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Spell-like abilities, spells |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Immunity To Acid, Cold, And Petrification, Protective Aura, [[Special Abilities#regeneration\|Regeneration]]  10, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Tongues; |
-| Saves:               |Fort: 14 (18 against poison), Ref: 13, Will: 15 |
+| Saves:               |Fort: 14 (18 against poison), Ref: +13, Will: +15 |
 | Abilities:           |Str : 25,  Dex: 19,  Con: 20,  Int: 22,  Wis: 23,  Cha: 22 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 22, [[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any four) 23, [[Skill List#Diplomacy\|Diplomacy]]: 25, [[Skill List#Escape Artist\|Escape Artist]]: 21, [[Skill List#Hide\|Hide]]: 17, [[Skill List#Intimidate\|Intimidate]]: 23, [[Skill List#Listen\|Listen]]: 23, [[Skill List#Move Silently\|Move Silently]]: 21, [[Skill List#Sense Motive\|Sense Motive]]: 23, [[Skill List#Search\|Search]]: 23, [[Skill List#Spot\|Spot]]: 23, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +22, [[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any four) 23, [[Skill List#Diplomacy\|Diplomacy]]: +25, [[Skill List#Escape Artist\|Escape Artist]]: +21, [[Skill List#Hide\|Hide]]: +17, [[Skill List#Intimidate\|Intimidate]]: +23, [[Skill List#Listen\|Listen]]: +23, [[Skill List#Move Silently\|Move Silently]]: +21, [[Skill List#Sense Motive\|Sense Motive]]: +23, [[Skill List#Search\|Search]]: +23, [[Skill List#Spot\|Spot]]: +23, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
 | Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Any good-aligned plane |
 | Organization:        |Solitary or pair |

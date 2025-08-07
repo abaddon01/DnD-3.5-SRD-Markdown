@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Bulette
+ - CR7
 type: Magical
 subtypes: 
  - Beast
@@ -30,10 +31,10 @@ alignment: Always neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Leap |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; |
-| Saves:               |Fort: 11, Ref: 8, Will: 6 |
+| Saves:               |Fort: +11, Ref: +8, Will: +6 |
 | Abilities:           |Str : 27,  Dex: 15,  Con: 20,  Int: 2,  Wis: 13,  Cha: 6 |
-| Skills:              |[[Skill List#Jump\|Jump]]: 18, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Spot\|Spot]]: 3; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Track\|Track]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Jump\|Jump]]: +18, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Spot\|Spot]]: +3; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Track\|Track]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Temperate hills |
 | Organization:        |Solitary or pair |
 | Challenge Rating:    |7 |

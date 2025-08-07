@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very young Black Dragon
+title: 3.5 Compendium / Monsters / Very_young_Black_Dragon
 aliases: 
  - Very young Black Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very young Black Dragon
+ - Very_young_Black_Dragon
+ - CR4
 type: Black Dragon(Very young)
 cr: 4
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 6, Ref: 5, Will: 5 |
+| Saves:               |Fort: +6, Ref: +5, Will: +5 |
 | Abilities:           |Str: 13, Dex: 10, Con: 13, Int: 8, Wis: 11, Cha: 8 |
 | Skills:              |; |
 | Feats:               |; |

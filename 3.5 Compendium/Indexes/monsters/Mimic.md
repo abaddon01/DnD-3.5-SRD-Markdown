@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Mimic
+ - CR4
 type: Aberration
 subtypes: 
  - Shapechanger
@@ -30,10 +31,10 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Adhesive, crush |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Mimic Shape; |
-| Saves:               |Fort: 5, Ref: 5, Will: 6 |
+| Saves:               |Fort: +5, Ref: +5, Will: +6 |
 | Abilities:           |Str : 19,  Dex: 12,  Con: 17,  Int: 10,  Wis: 13,  Cha: 10 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 9, [[Skill List#Disguise\|Disguise]]: 13, [[Skill List#Listen\|Listen]]: 8, [[Skill List#Spot\|Spot]]: 8; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +9, [[Skill List#Disguise\|Disguise]]: +13, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Spot\|Spot]]: +8; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Weapon Focus \|Weapon Focus ]](slam); |
 | Environment          |Underground |
 | Organization:        |Solitary |
 | Challenge Rating:    |4 |

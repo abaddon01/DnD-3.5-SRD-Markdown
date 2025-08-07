@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult Arrowhawk
+title: 3.5 Compendium / Monsters / Adult_Arrowhawk
 aliases: 
  - Adult Arrowhawk
 tags: 
  - 3.5e
  - rules
  - monsters
- - Adult Arrowhawk
+ - Adult_Arrowhawk
+ - CR5
 type: Outsider
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Electricity, And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Fire 10; |
-| Saves:               |Fort: 6, Ref: 10, Will: 6 |
+| Saves:               |Fort: +6, Ref: +10, Will: +6 |
 | Abilities:           |Str : 14,  Dex: 21,  Con: 12,  Int: 10,  Wis: 13,  Cha: 13 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Escape Artist\|Escape Artist]]: 15, [[Skill List#Knowledge (the planes)\|Knowledge (the planes)]]: 10, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Move Silently\|Move Silently]]: 15, [[Skill List#Search\|Search]]: 10, [[Skill List#Sense Motive\|Sense Motive]]: 11, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Survival\|Survival]]: 11 (+13 following tracks, [[Skill List#\|]]: 13 Plane of Air), [[Skill List#Use Rope\|Use Rope]]: 5 (+7 with bindings); |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Escape Artist\|Escape Artist]]: +15, [[Skill List#Knowledge (the planes)\|Knowledge (the planes)]]: +10, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +15, [[Skill List#Search\|Search]]: +10, [[Skill List#Sense Motive\|Sense Motive]]: +11, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Survival\|Survival]]: 11 (+13 following tracks, [[Skill List#\|]]: 13 Plane of Air), [[Skill List#Use Rope\|Use Rope]]: 5 (+7 with bindings); |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary or clutch (2-4) |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Tendriculos
+ - CR6
 type: Plant
 cr: 6
 environment: Temperate forests
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     |Improved grab, paralysis, swallow whole |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#regeneration\|Regeneration]]  10; |
-| Saves:               |Fort: 12, Ref: 2, Will: 4 |
+| Saves:               |Fort: +12, Ref: +2, Will: +4 |
 | Abilities:           |Str : 28,  Dex: 9,  Con: 22,  Int: 3,  Wis: 8,  Cha: 3 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 9, [[Skill List#Listen\|Listen]]: 1, [[Skill List#Move Silently\|Move Silently]]: 1, [[Skill List#Spot\|Spot]]: 1; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +9, [[Skill List#Listen\|Listen]]: +1, [[Skill List#Move Silently\|Move Silently]]: +1, [[Skill List#Spot\|Spot]]: +1; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Stealthy\|Stealthy]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Ogre
+ - CR3
 type: Large
 subtypes: 
  - Giant
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 6, Ref: 0, Will: 1 |
+| Saves:               |Fort: +6, Ref: 0, Will: +1 |
 | Abilities:           |Str : 21,  Dex: 8,  Con: 15,  Int: 6,  Wis: 10,  Cha: 7 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 5, [[Skill List#Listen\|Listen]]: 2, [[Skill List#Spot\|Spot]]: 2; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +5, [[Skill List#Listen\|Listen]]: +2, [[Skill List#Spot\|Spot]]: +2; |
 | Feats:               |[[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus \|Weapon Focus ]](greatclub); |
 | Environment          |Temperate hills (Merrow: Temperate aquatic) |
 | Organization:        |Solitary, pair, gang (3-4), or band (5-8) |

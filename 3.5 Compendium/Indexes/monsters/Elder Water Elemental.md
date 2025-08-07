@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder Water Elemental
+title: 3.5 Compendium / Monsters / Elder_Water_Elemental
 aliases: 
  - Elder Water Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Elder Water Elemental
+ - Elder_Water_Elemental
+ - CR11
 type: Elemental
 subtypes: 
  - Water
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 19, Ref: 16, Will: 10 |
+| Saves:               |Fort: +19, Ref: +16, Will: +10 |
 | Abilities:           |Str : 28,  Dex: 22,  Con: 21,  Int: 10,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 29, [[Skill List#Spot\|Spot]]: 29; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +29, [[Skill List#Spot\|Spot]]: +29; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Critical \|Improved Critical ]](slam), [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Water |
 | Organization:        |Solitary |

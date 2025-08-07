@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Phasm
+ - CR7
 type: Aberration
 subtypes: 
  - Shapechanger
@@ -30,9 +31,9 @@ alignment: Usually chaotic neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |Alternate Form, Amorphous, Resilient, [[Special Abilities#scent\|Scent]] , [[Special Abilities#telepathy\|Telepathy]]  100 Ft., [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; |
-| Saves:               |Fort: 11, Ref: 11, Will: 11 |
+| Saves:               |Fort: +11, Ref: +11, Will: +11 |
 | Abilities:           |Str : 12,  Dex: 15,  Con: 15,  Int: 16,  Wis: 15,  Cha: 14 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 20, [[Skill List#Climb\|Climb]]: 7, [[Skill List#Craft\|Craft]]: (any one) 12, [[Skill List#Diplomacy\|Diplomacy]]: 12, [[Skill List#Disguise\|Disguise]]: +20 (+22 acting) , [[Skill List#Intimidate\|Intimidate]]: 4, [[Skill List#Knowledge\|Knowledge]]: (any one) 18, [[Skill List#Listen\|Listen]]: 12, [[Skill List#Spot\|Spot]]: 12, [[Skill List#Survival\|Survival]]: 8; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +20, [[Skill List#Climb\|Climb]]: +7, [[Skill List#Craft\|Craft]]: (any one) 12, [[Skill List#Diplomacy\|Diplomacy]]: +12, [[Skill List#Disguise\|Disguise]]: +20 (+22 acting) , [[Skill List#Intimidate\|Intimidate]]: +4, [[Skill List#Knowledge\|Knowledge]]: (any one) 18, [[Skill List#Listen\|Listen]]: +12, [[Skill List#Spot\|Spot]]: +12, [[Skill List#Survival\|Survival]]: +8; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Mobility\|Mobility]]; |
 | Environment          |Underground |
 | Organization:        |Solitary |

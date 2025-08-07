@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Ghaele
+ - CR13
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,10 +33,10 @@ alignment: Always chaotic good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, spells, gaze |
 | Special Qualities    |Alternate Form, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil And Cold Iron, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, [[Special Abilities#low-light vision\|Low-light Vision]] , Protective Aura, [[Special Abilities#spell resistance\|Resistance To Cold 10 And Fire 10 Spell Resistance]]  28, Tongues; |
-| Saves:               |Fort: 9, Ref: 8, Will: 10 |
+| Saves:               |Fort: +9, Ref: +8, Will: +10 |
 | Abilities:           |Str : 25,  Dex: 12,  Con: 15,  Int: 16,  Wis: 17,  Cha: 16 |
 | Skills:              |[[Skill List#Concentration\|Concentration]]: +15, Diplomacy +5, Escape Artist +14, Handle Animal +16, Hide +14, Knowledge (any two) 16Listen16MoveSilently14Ride16SenseMotive16Spot16UseRope1(3withbindings); |
-| Feats:               |; |
+| Feats:               |[[Feat List#Combat Expertise\|Combat Expertise]], [[Feat List#Improved Disarm\|Improved Disarm]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Improved Trip\|Improved Trip]]; |
 | Environment          |A chaotic good-aligned plane |
 | Organization:        |Solitary, pair, or squad (3-5) |
 | Challenge Rating:    |13 |

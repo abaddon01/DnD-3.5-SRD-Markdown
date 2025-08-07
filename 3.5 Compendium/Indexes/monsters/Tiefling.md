@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Tiefling
+ - CR1/2
 type: 1st-Level
 subtypes: 
  - Warrior
@@ -33,10 +34,10 @@ alignment: Usually evil (any)
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Darkness |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 5, Electricity 5, And Fire 5; |
-| Saves:               |Fort: 3, Ref: 1, Will: -1 |
+| Saves:               |Fort: +3, Ref: +1, Will: -1 |
 | Abilities:           |Str : 13,  Dex: 13,  Con: 12,  Int: 12,  Wis: 9,  Cha: 6 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 4, [[Skill List#Hide\|Hide]]: 5, [[Skill List#Move Silently\|Move Silently]]: 1, [[Skill List#Sleight of Hand\|Sleight of Hand]]: 1; |
-| Feats:               |[[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +4, [[Skill List#Hide\|Hide]]: +5, [[Skill List#Move Silently\|Move Silently]]: +1, [[Skill List#Sleight of Hand\|Sleight of Hand]]: +1; |
+| Feats:               |[[Feat List#Weapon Focus \|Weapon Focus ]](rapier); |
 | Environment          |Temperate plains |
 | Organization:        |Solitary, pair, or gang (3-4) |
 | Challenge Rating:    |1/2 |

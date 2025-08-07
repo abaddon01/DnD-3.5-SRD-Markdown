@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile Gold Dragon
+title: 3.5 Compendium / Monsters / Juvenile_Gold_Dragon
 aliases: 
  - Juvenile Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile Gold Dragon
+ - Juvenile_Gold_Dragon
+ - CR11
 type: Gold Dragon(Juvenile)
 cr: 11
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Bless; |
-| Saves:               |Fort: 14, Ref: 10, Will: 14 |
+| Saves:               |Fort: +14, Ref: +10, Will: +14 |
 | Abilities:           |Str: 29, Dex: 10, Con: 19, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

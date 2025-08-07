@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Yeth Hound
+title: 3.5 Compendium / Monsters / Yeth_Hound
 aliases: 
  - Yeth Hound
 tags: 
  - 3.5e
  - rules
  - monsters
- - Yeth Hound
+ - Yeth_Hound
+ - CR3
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Always neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Bay, trip |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 5, Ref: 5, Will: 5 |
+| Saves:               |Fort: +5, Ref: +5, Will: +5 |
 | Abilities:           |Str : 17,  Dex: 15,  Con: 15,  Int: 6,  Wis: 14,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 11, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Search\|Search]]: 7, [[Skill List#Survival\|Survival]]: +11 (+13 following tracks) ; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +11, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Search\|Search]]: +7, [[Skill List#Survival\|Survival]]: +11 (+13 following tracks) ; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Track\|Track]]; |
 | Environment          |An evil-aligned plane |
 | Organization:        |Solitary, pair, or pack (6-11) |

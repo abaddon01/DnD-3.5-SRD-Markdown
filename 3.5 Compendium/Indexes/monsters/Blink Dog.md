@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Blink Dog
+title: 3.5 Compendium / Monsters / Blink_Dog
 aliases: 
  - Blink Dog
 tags: 
  - 3.5e
  - rules
  - monsters
- - Blink Dog
+ - Blink_Dog
+ - CR2
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually lawful good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |Blink, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Dimension Door, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 4, Ref: 7, Will: 4 |
+| Saves:               |Fort: +4, Ref: +7, Will: +4 |
 | Abilities:           |Str : 10,  Dex: 17,  Con: 10,  Int: 10,  Wis: 13,  Cha: 11 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 3, [[Skill List#Listen\|Listen]]: 5, [[Skill List#Sense Motive\|Sense Motive]]: 3, [[Skill List#Spot\|Spot]]: 5, [[Skill List#Survival\|Survival]]: 4; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +3, [[Skill List#Listen\|Listen]]: +5, [[Skill List#Sense Motive\|Sense Motive]]: +3, [[Skill List#Spot\|Spot]]: +5, [[Skill List#Survival\|Survival]]: +4; |
 | Feats:               |[[Feat List#Iron Will\|Iron Will]], [[Feat List#Run\|Run]], [[Feat List#Track \|Track ]](B); |
 | Environment          |Temperate plains |
 | Organization:        |Solitary, pair, or pack (7-16) |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Efreeti
+ - CR8
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,10 +32,10 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./ 10 ft. |
 | Special Attacks:     |Change size, heat, spell-like abilities |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Plane Shift, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., Vulnerability To Cold; |
-| Saves:               |Fort: 9, Ref: 10, Will: 9 |
+| Saves:               |Fort: +9, Ref: +10, Will: +9 |
 | Abilities:           |Str : 23,  Dex: 17,  Con: 14,  Int: 12,  Wis: 15,  Cha: 15 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 15, [[Skill List#Craft\|Craft]]: (any one) 14, [[Skill List#Concentration\|Concentration]]: 15, [[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Disguise\|Disguise]]: +2 (+4 acting) , [[Skill List#Intimidate\|Intimidate]]: 17, [[Skill List#Listen\|Listen]]: 15, [[Skill List#Move Silently\|Move Silently]]: 16, [[Skill List#Sense Motive\|Sense Motive]]: 15, [[Skill List#Spellcraft\|Spellcraft]]: 14, [[Skill List#Spot\|Spot]]: 15; |
-| Feats:               |[[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Monster Feats#Quicken Spell-Like Ability\|Quicken Spell-Like Ability]]; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +15, [[Skill List#Craft\|Craft]]: (any one) 14, [[Skill List#Concentration\|Concentration]]: +15, [[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Disguise\|Disguise]]: +2 (+4 acting) , [[Skill List#Intimidate\|Intimidate]]: +17, [[Skill List#Listen\|Listen]]: +15, [[Skill List#Move Silently\|Move Silently]]: +16, [[Skill List#Sense Motive\|Sense Motive]]: +15, [[Skill List#Spellcraft\|Spellcraft]]: +14, [[Skill List#Spot\|Spot]]: +15; |
+| Feats:               |[[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Monster Feats#Quicken Spell-Like Ability \|Quicken Spell-Like Ability ]](scorching ray); |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary, company (2-4), or band (6-15) |
 | Challenge Rating:    |8 |

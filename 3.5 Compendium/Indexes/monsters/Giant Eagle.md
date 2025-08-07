@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Giant Eagle
+title: 3.5 Compendium / Monsters / Giant_Eagle
 aliases: 
  - Giant Eagle
 tags: 
  - 3.5e
  - rules
  - monsters
- - Giant Eagle
+ - Giant_Eagle
+ - CR3
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , Evasion; |
-| Saves:               |Fort: 5, Ref: 7, Will: 3 |
+| Saves:               |Fort: +5, Ref: +7, Will: +3 |
 | Abilities:           |Str : 18,  Dex: 17,  Con: 12,  Int: 10,  Wis: 14,  Cha: 10 |
-| Skills:              |[[Skill List#Knowledge\|Knowledge]]: (nature) 2, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Sense Motive\|Sense Motive]]: 4, [[Skill List#Spot\|Spot]]: 15, [[Skill List#Survival\|Survival]]: 3; |
+| Skills:              |[[Skill List#Knowledge\|Knowledge]]: (nature) 2, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Sense Motive\|Sense Motive]]: +4, [[Skill List#Spot\|Spot]]: +15, [[Skill List#Survival\|Survival]]: +3; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Flyby Attack\|Flyby Attack]]; |
 | Environment          |Temperate mountains |
 | Organization:        |Solitary, pair, or eyrie (5-12) |

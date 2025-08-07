@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Pegasus
+ - CR3
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually chaotic good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , Spell-like Abilities; |
-| Saves:               |Fort: 7, Ref: 6, Will: 4 |
+| Saves:               |Fort: +7, Ref: +6, Will: +4 |
 | Abilities:           |Str : 18,  Dex: 15,  Con: 16,  Int: 10,  Wis: 13,  Cha: 13 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Listen\|Listen]]: 8, [[Skill List#Sense Motive\|Sense Motive]]: 9, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Sense Motive\|Sense Motive]]: +9, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Iron Will\|Iron Will]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, or herd (6-10) |

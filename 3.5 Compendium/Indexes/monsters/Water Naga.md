@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Water Naga
+title: 3.5 Compendium / Monsters / Water_Naga
 aliases: 
  - Water Naga
 tags: 
  - 3.5e
  - rules
  - monsters
- - Water Naga
+ - Water_Naga
+ - CR7
 type: Aberration
 subtypes: 
  - Aquatic
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Poison, spells |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 6, Ref: 5, Will: 8 |
+| Saves:               |Fort: +6, Ref: +5, Will: +8 |
 | Abilities:           |Str : 16,  Dex: 13,  Con: 18,  Int: 10,  Wis: 17,  Cha: 15 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 12, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Spellcraft\|Spellcraft]]: 8, [[Skill List#Spot\|Spot]]: 7, [[Skill List#Swim\|Swim]]: 11; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +12, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Spellcraft\|Spellcraft]]: +8, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Swim\|Swim]]: +11; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Eschew Materials \|Eschew Materials ]](B), [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |Temperate aquatic |
 | Organization:        |Solitary, pair, or nest (3-4) |

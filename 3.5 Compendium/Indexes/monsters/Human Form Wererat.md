@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human Form Wererat
+title: 3.5 Compendium / Monsters / Human_Form_Wererat
 aliases: 
  - Human Form Wererat
 tags: 
  - 3.5e
  - rules
  - monsters
- - Human Form Wererat
+ - Human_Form_Wererat
+ - CR2
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Rat Empathy, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 5, Ref: 2, Will: 4 |
+| Saves:               |Fort: +5, Ref: +2, Will: +4 |
 | Abilities:           |Str : 13,  Dex: 11,  Con: 12,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 0, [[Skill List#Handle Animal\|Handle Animal]]: 3, [[Skill List#Hide\|Hide]]: 1, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Move Silently\|Move Silently]]: 0, [[Skill List#Spot\|Spot]]: 4, [[Skill List#Swim\|Swim]]: 9; |
+| Skills:              |[[Skill List#Climb\|Climb]]: 0, [[Skill List#Handle Animal\|Handle Animal]]: +3, [[Skill List#Hide\|Hide]]: +1, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Move Silently\|Move Silently]]: 0, [[Skill List#Spot\|Spot]]: +4, [[Skill List#Swim\|Swim]]: +9; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge\|Dodge]], [[Feat List#Iron Will \|Iron Will ]](B), [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Any |
 | Organization:        |Solitary, pair, pack (6-10), or troupe (2-5 plus 5-8 dire rats) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Kobold Zombie
+title: 3.5 Compendium / Monsters / Kobold_Zombie
 aliases: 
  - Kobold Zombie
 tags: 
  - 3.5e
  - rules
  - monsters
- - Kobold Zombie
+ - Kobold_Zombie
+ - CR0.5
 type: Undead
 cr: 0.5
 environment: Temperate forests
@@ -28,7 +29,7 @@ alignment: Always neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 0, Ref: 0, Will: 3 |
+| Saves:               |Fort: 0, Ref: 0, Will: +3 |
 | Abilities:           |Str : 8,  Dex: 11,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#Toughness\|Toughness]]; |

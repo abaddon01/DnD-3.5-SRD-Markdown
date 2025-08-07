@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater Water Elemental
+title: 3.5 Compendium / Monsters / Greater_Water_Elemental
 aliases: 
  - Greater Water Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Greater Water Elemental
+ - Greater_Water_Elemental
+ - CR9
 type: Elemental
 subtypes: 
  - Water
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 17, Ref: 14, Will: 9 |
+| Saves:               |Fort: +17, Ref: +14, Will: +9 |
 | Abilities:           |Str : 26,  Dex: 20,  Con: 21,  Int: 8,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 14, [[Skill List#Spot\|Spot]]: 14; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +14, [[Skill List#Spot\|Spot]]: +14; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Water |
 | Organization:        |Solitary |

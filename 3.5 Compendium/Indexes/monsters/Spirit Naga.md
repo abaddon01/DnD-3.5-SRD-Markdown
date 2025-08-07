@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Spirit Naga
+title: 3.5 Compendium / Monsters / Spirit_Naga
 aliases: 
  - Spirit Naga
 tags: 
  - 3.5e
  - rules
  - monsters
- - Spirit Naga
+ - Spirit_Naga
+ - CR9
 type: Aberration
 cr: 9
 environment: Temperate marshes
@@ -28,10 +29,10 @@ alignment: Usually chaotic evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Charming gaze, poison, spells |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 7, Ref: 6, Will: 9 |
+| Saves:               |Fort: +7, Ref: +6, Will: +9 |
 | Abilities:           |Str : 18,  Dex: 13,  Con: 18,  Int: 12,  Wis: 17,  Cha: 17 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 13, [[Skill List#Listen\|Listen]]: 14, [[Skill List#Spellcraft\|Spellcraft]]: 10, [[Skill List#Spot\|Spot]]: 14; |
-| Feats:               |[[Monster Feats#Ability Focus\|Ability Focus]], [[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Eschew Materials \|Eschew Materials ]](B), [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +13, [[Skill List#Listen\|Listen]]: +14, [[Skill List#Spellcraft\|Spellcraft]]: +10, [[Skill List#Spot\|Spot]]: +14; |
+| Feats:               |[[Monster Feats#Ability Focus \|Ability Focus ]](charming gaze), [[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Eschew Materials \|Eschew Materials ]](B), [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary or nest (2-4) |
 | Challenge Rating:    |9 |

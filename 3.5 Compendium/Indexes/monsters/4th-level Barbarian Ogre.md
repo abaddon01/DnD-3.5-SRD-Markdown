@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 4th-level Barbarian Ogre
+title: 3.5 Compendium / Monsters / 4th-level_Barbarian_Ogre
 aliases: 
  - 4th-level Barbarian Ogre
 tags: 
  - 3.5e
  - rules
  - monsters
- - 4th-level Barbarian Ogre
+ - 4th-level_Barbarian_Ogre
+ - CR7
 type: 4th-Level
 subtypes: 
  - Barbarian
@@ -32,9 +33,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Trap Sense+1, Uncanny Dodge; |
-| Saves:               |Fort: 12, Ref: 2, Will: 2 |
+| Saves:               |Fort: +12, Ref: +2, Will: +2 |
 | Abilities:           |Str : 26,  Dex: 11,  Con: 18,  Int: 8,  Wis: 10,  Cha: 4 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 13, [[Skill List#\|]]: Hide -6, [[Skill List#Jump\|Jump]]: 17, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 2; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +13, [[Skill List#\|]]: Hide -6, [[Skill List#Jump\|Jump]]: +17, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +2; |
 | Feats:               |[[Feat List#Power Attack\|Power Attack]], [[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus \|Weapon Focus ]](greatclub); |
 | Environment          |Temperate hills |
 | Organization:        |Solitary, pair, gang (1 plus 1-3 ogres), or band (1 plus 4-7 ogres) |

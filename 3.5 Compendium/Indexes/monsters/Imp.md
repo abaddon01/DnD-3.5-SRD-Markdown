@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Imp
+ - CR2
 type: Outsider
 subtypes: 
  - Evil
@@ -32,9 +33,9 @@ alignment: Always lawful evil
 | Space/Reach:         |2-1/2 ft./0 ft. |
 | Special Attacks:     |Poison, spell-like abilities |
 | Special Qualities    |Alternate Form, [[Special Abilities#damage reduction\|Damage Reduction]]  5/good Or Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 5; |
-| Saves:               |Fort: 3, Ref: 6, Will: 4 |
+| Saves:               |Fort: +3, Ref: +6, Will: +4 |
 | Abilities:           |Str : 10,  Dex: 17,  Con: 10,  Int: 10,  Wis: 12,  Cha: 14 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 8, [[Skill List#Hide\|Hide]]: 17, [[Skill List#Knowledge\|Knowledge]]: (any one) 6, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Move Silently\|Move Silently]]: 9, [[Skill List#Search\|Search]]: 6, [[Skill List#Spellcraft\|Spellcraft]]: 6, [[Skill List#Spot\|Spot]]: 7, [[Skill List#Survival\|Survival]]: 1(3followingtracks)+1 (+3 following tracks); |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +8, [[Skill List#Hide\|Hide]]: +17, [[Skill List#Knowledge\|Knowledge]]: (any one) 6, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Move Silently\|Move Silently]]: +9, [[Skill List#Search\|Search]]: +6, [[Skill List#Spellcraft\|Spellcraft]]: +6, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Survival\|Survival]]: 1(3followingtracks)+1 (+3 following tracks); |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary |

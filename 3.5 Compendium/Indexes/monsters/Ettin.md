@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Ettin
+ - CR6
 type: Giant
 cr: 6
 environment: Cold hills
@@ -28,9 +29,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , Superior Two-weapon Fighting; |
-| Saves:               |Fort: 9, Ref: 2, Will: 5 |
+| Saves:               |Fort: +9, Ref: +2, Will: +5 |
 | Abilities:           |Str : 23,  Dex: 8,  Con: 15,  Int: 6,  Wis: 10,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 10, [[Skill List#Search\|Search]]: 1, [[Skill List#Spot\|Spot]]: 10; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +10, [[Skill List#Search\|Search]]: +1, [[Skill List#Spot\|Spot]]: +10; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Cold hills |
 | Organization:        |Solitary, gang (2-4), troupe (1-2 plus 1-2 brown bears), band (3-5 plus 1-2 brown bears), or colony (3-5 plus 1-2 brown bears and 7-12 orcs or 9-16 goblins) |

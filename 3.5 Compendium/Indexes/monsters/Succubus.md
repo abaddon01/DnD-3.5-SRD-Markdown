@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Succubus
+ - CR7
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Energy drain, spell-like abilities, summon demon |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  18, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., Tongues; |
-| Saves:               |Fort: 6, Ref: 6, Will: 7 |
+| Saves:               |Fort: +6, Ref: +6, Will: +7 |
 | Abilities:           |Str : 13,  Dex: 13,  Con: 13,  Int: 16,  Wis: 14,  Cha: 26 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 19, [[Skill List#Concentration\|Concentration]]: 10, [[Skill List#Diplomacy\|Diplomacy]]: 12, [[Skill List#Disguise\|Disguise]]: +17* (+19 acting) , [[Skill List#Escape Artist\|Escape Artist]]: 10, [[Skill List#Hide\|Hide]]: 10, [[Skill List#Intimidate\|Intimidate]]: 19, [[Skill List#Knowledge\|Knowledge]]: (any one) 12, [[Skill List#Listen\|Listen]]: 19, [[Skill List#Move Silently\|Move Silently]]: 10, [[Skill List#Search\|Search]]: 12, [[Skill List#Spot\|Spot]]: 19, [[Skill List#Survival\|Survival]]: +2 (+4 following tracks) , [[Skill List#Use Rope\|Use Rope]]: 1(3withbindings)+1 (+3 with bindings); |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +19, [[Skill List#Concentration\|Concentration]]: +10, [[Skill List#Diplomacy\|Diplomacy]]: +12, [[Skill List#Disguise\|Disguise]]: +17* (+19 acting) , [[Skill List#Escape Artist\|Escape Artist]]: +10, [[Skill List#Hide\|Hide]]: +10, [[Skill List#Intimidate\|Intimidate]]: +19, [[Skill List#Knowledge\|Knowledge]]: (any one) 12, [[Skill List#Listen\|Listen]]: +19, [[Skill List#Move Silently\|Move Silently]]: +10, [[Skill List#Search\|Search]]: +12, [[Skill List#Spot\|Spot]]: +19, [[Skill List#Survival\|Survival]]: +2 (+4 following tracks) , [[Skill List#Use Rope\|Use Rope]]: 1(3withbindings)+1 (+3 with bindings); |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Mobility\|Mobility]], [[Feat List#Persuasive\|Persuasive]]; |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary |

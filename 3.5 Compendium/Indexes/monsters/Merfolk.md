@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Merfolk
+ - CR1/2
 type: 1st-Level
 subtypes: 
  - Warrior
@@ -33,9 +34,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |Amphibious, [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 4, Ref: 1, Will: -1 |
+| Saves:               |Fort: +4, Ref: +1, Will: -1 |
 | Abilities:           |Str : 13,  Dex: 13,  Con: 14,  Int: 10,  Wis: 9,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 3, [[Skill List#Spot\|Spot]]: 3, [[Skill List#Swim\|Swim]]: 9; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +3, [[Skill List#Spot\|Spot]]: +3, [[Skill List#Swim\|Swim]]: +9; |
 | Feats:               |[[Feat List#Alertness\|Alertness]]; |
 | Environment          |Temperate aquatic |
 | Organization:        |Company (2-4), patrol (11-20 plus 2 3rd-level lieutenants and 1 leader of 3rd-6th level), or band (30-60 plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, and 10 porpoises) |

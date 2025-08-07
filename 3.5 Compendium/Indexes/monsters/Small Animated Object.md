@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small Animated Object
+title: 3.5 Compendium / Monsters / Small_Animated_Object
 aliases: 
  - Small Animated Object
 tags: 
  - 3.5e
  - rules
  - monsters
- - Small Animated Object
+ - Small_Animated_Object
+ - CR1
 type: Construct
 cr: 1
 environment: Any
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; |
-| Saves:               |Fort: 0, Ref: 1, Will: -5 |
+| Saves:               |Fort: 0, Ref: +1, Will: -5 |
 | Abilities:           |Str : 10,  Dex: 12,  Con: -1,  Int: -1,  Wis: 1,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#--\|--]]; |

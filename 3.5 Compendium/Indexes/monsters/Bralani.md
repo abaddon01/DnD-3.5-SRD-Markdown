@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Bralani
+ - CR6
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, whirlwind blast |
 | Special Qualities    |Alternate Form, [[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron Or Evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  17, Tongues; |
-| Saves:               |Fort: 8, Ref: 9, Will: 7 |
+| Saves:               |Fort: +8, Ref: +9, Will: +7 |
 | Abilities:           |Str : 18,  Dex: 18,  Con: 17,  Int: 13,  Wis: 14,  Cha: 14 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 12, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Escape Artist\|Escape Artist]]: 13, [[Skill List#Handle Animal\|Handle Animal]]: 11, [[Skill List#Hide\|Hide]]: 13, [[Skill List#Jump\|Jump]]: 10, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Move Silently\|Move Silently]]: 13, [[Skill List#Ride\|Ride]]: 6, [[Skill List#Sense Motive\|Sense Motive]]: 11, [[Skill List#Spot\|Spot]]: 13, [[Skill List#Tumble\|Tumble]]: 13, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +12, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Escape Artist\|Escape Artist]]: +13, [[Skill List#Handle Animal\|Handle Animal]]: +11, [[Skill List#Hide\|Hide]]: +13, [[Skill List#Jump\|Jump]]: +10, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Move Silently\|Move Silently]]: +13, [[Skill List#Ride\|Ride]]: +6, [[Skill List#Sense Motive\|Sense Motive]]: +11, [[Skill List#Spot\|Spot]]: +13, [[Skill List#Tumble\|Tumble]]: +13, [[Skill List#Use Rope\|Use Rope]]: 4(6withbindings)+4 (+6 with bindings); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |A chaotic good-aligned plane |
 | Organization:        |Solitary, pair, or squad (3-5) |

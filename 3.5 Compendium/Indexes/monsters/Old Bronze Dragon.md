@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Old Bronze Dragon
+title: 3.5 Compendium / Monsters / Old_Bronze_Dragon
 aliases: 
  - Old Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Old Bronze Dragon
+ - Old_Bronze_Dragon
+ - CR19
 type: Bronze Dragon(Old)
 cr: 19
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Detect Thoughts; |
-| Saves:               |Fort: 21, Ref: 15, Will: 21 |
+| Saves:               |Fort: +21, Ref: +15, Will: +21 |
 | Abilities:           |Str: 31, Dex: 10, Con: 23, Int: 22, Wis: 23, Cha: 22 |
 | Skills:              |; |
 | Feats:               |; |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Chuul
+ - CR7
 type: Aberration
 subtypes: 
  - Aquatic
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Constrict 3d6+5, improved grab, paralytic tentacles |
 | Special Qualities    |Amphibious, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Poison; |
-| Saves:               |Fort: 7, Ref: 6, Will: 9 |
+| Saves:               |Fort: +7, Ref: +6, Will: +9 |
 | Abilities:           |Str : 20,  Dex: 16,  Con: 18,  Int: 10,  Wis: 14,  Cha: 5 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 13, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Swim\|Swim]]: 13; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +13, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Swim\|Swim]]: +13; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary, pair, or pack (3-5) |

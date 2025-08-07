@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very old Blue Dragon
+title: 3.5 Compendium / Monsters / Very_old_Blue_Dragon
 aliases: 
  - Very old Blue Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very old Blue Dragon
+ - Very_old_Blue_Dragon
+ - CR19
 type: Blue Dragon(Very old)
 cr: 19
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 15/magic; |
-| Saves:               |Fort: 23, Ref: 17, Will: 21 |
+| Saves:               |Fort: +23, Ref: +17, Will: +21 |
 | Abilities:           |Str: 33, Dex: 10, Con: 23, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

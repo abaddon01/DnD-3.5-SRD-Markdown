@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrm White Dragon
+title: 3.5 Compendium / Monsters / Wyrm_White_Dragon
 aliases: 
  - Wyrm White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrm White Dragon
+ - Wyrm_White_Dragon
+ - CR19
 type: White Dragon(Wyrm)
 cr: 19
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 20/magic; |
-| Saves:               |Fort: 25, Ref: 18, Will: 20 |
+| Saves:               |Fort: +25, Ref: +18, Will: +20 |
 | Abilities:           |Str: 35, Dex: 10, Con: 25, Int: 14, Wis: 15, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

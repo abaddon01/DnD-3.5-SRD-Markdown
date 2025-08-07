@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Belker
+ - CR6
 type: Elemental
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Usually neutral evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Smoke claws |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Smoke Form; |
-| Saves:               |Fort: 3, Ref: 10, Will: 2 |
+| Saves:               |Fort: +3, Ref: +10, Will: +2 |
 | Abilities:           |Str : 14,  Dex: 21,  Con: 13,  Int: 6,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 7, [[Skill List#Move Silently\|Move Silently]]: 9, [[Skill List#Spot\|Spot]]: 7; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +7, [[Skill List#Move Silently\|Move Silently]]: +9, [[Skill List#Spot\|Spot]]: +7; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary, pair, or clutch (3-4) |

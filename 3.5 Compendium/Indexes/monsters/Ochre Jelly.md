@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ochre Jelly
+title: 3.5 Compendium / Monsters / Ochre_Jelly
 aliases: 
  - Ochre Jelly
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ochre Jelly
+ - Ochre_Jelly
+ - CR5
 type: Ooze
 cr: 5
 environment: Temperate marshes
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Acid, constrict 2d4+3 plus 1d4 acid, improved grab |
 | Special Qualities    |Blindsight 60 Ft., Split, [[Traits#ooze traits\|Ooze Traits]] ; |
-| Saves:               |Fort: 8, Ref: -3, Will: -3 |
+| Saves:               |Fort: +8, Ref: -3, Will: -3 |
 | Abilities:           |Str : 15,  Dex: 1,  Con: 22,  Int: -1,  Wis: 1,  Cha: 1 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 10; |
-| Feats:               |; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +10; |
+| Feats:               |[[Feat List#--\|--]]; |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary |
 | Challenge Rating:    |5 |

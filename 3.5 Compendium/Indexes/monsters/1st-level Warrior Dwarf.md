@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 1st-level Warrior Dwarf
+title: 3.5 Compendium / Monsters / 1st-level_Warrior_Dwarf
 aliases: 
  - 1st-level Warrior Dwarf
 tags: 
  - 3.5e
  - rules
  - monsters
- - 1st-level Warrior Dwarf
+ - 1st-level_Warrior_Dwarf
+ - CR0.5
 type: Humanoid
 subtypes: 
  - Dwarf
@@ -30,9 +31,9 @@ alignment: Often lawful good (Deep: Usually lawful neutral or neutral)
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Dwarf Traits; |
-| Saves:               |Fort: 4, Ref: 0, Will: -1 |
+| Saves:               |Fort: +4, Ref: 0, Will: -1 |
 | Abilities:           |Str : 13,  Dex: 11,  Con: 14,  Int: 10,  Wis: 9,  Cha: 6 |
-| Skills:              |[[Skill List#Appraise\|Appraise]]: 2, [[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: 2, [[Skill List#Craft (stonemasonry)\|Craft (stonemasonry)]]: 2, [[Skill List#Listen\|Listen]]: 2, [[Skill List#Spot\|Spot]]: 2; |
+| Skills:              |[[Skill List#Appraise\|Appraise]]: +2, [[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: +2, [[Skill List#Craft (stonemasonry)\|Craft (stonemasonry)]]: +2, [[Skill List#Listen\|Listen]]: +2, [[Skill List#Spot\|Spot]]: +2; |
 | Feats:               |[[Feat List#Weapon Focus \|Weapon Focus ]](dwarven waraxe); |
 | Environment          |Temperate mountains (Deep: Underground) |
 | Organization:        |Team (2-4), squad (11-20 plus 2 3rd-level sergeants and 1 leader of 3rd-6th level), or clan (30-100 plus 30% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |

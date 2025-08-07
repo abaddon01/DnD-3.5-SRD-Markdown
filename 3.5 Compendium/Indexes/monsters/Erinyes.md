@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Erinyes
+ - CR8
 type: Outsider
 subtypes: 
  - Evil
@@ -32,9 +33,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Entangle, spell-like abilities, summon devil |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  20, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., True Seeing; |
-| Saves:               |Fort: 11, Ref: 11, Will: 10 |
+| Saves:               |Fort: +11, Ref: +11, Will: +10 |
 | Abilities:           |Str : 21,  Dex: 21,  Con: 21,  Int: 14,  Wis: 18,  Cha: 20 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 17, [[Skill List#Diplomacy\|Diplomacy]]: 7, [[Skill List#Escape Artist\|Escape Artist]]: 17, [[Skill List#Hide\|Hide]]: 17, [[Skill List#Knowledge\|Knowledge]]: (any two) 14, [[Skill List#Listen\|Listen]]: 16, [[Skill List#Move Silently\|Move Silently]]: 17, [[Skill List#Search\|Search]]: 14, [[Skill List#Sense Motive\|Sense Motive]]: 16, [[Skill List#Spot\|Spot]]: 16, [[Skill List#Survival\|Survival]]: +4 (+6 following tracks) , [[Skill List#Use Rope\|Use Rope]]: 5(7withbindings)+5 (+7 with bindings); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +17, [[Skill List#Diplomacy\|Diplomacy]]: +7, [[Skill List#Escape Artist\|Escape Artist]]: +17, [[Skill List#Hide\|Hide]]: +17, [[Skill List#Knowledge\|Knowledge]]: (any two) 14, [[Skill List#Listen\|Listen]]: +16, [[Skill List#Move Silently\|Move Silently]]: +17, [[Skill List#Search\|Search]]: +14, [[Skill List#Sense Motive\|Sense Motive]]: +16, [[Skill List#Spot\|Spot]]: +16, [[Skill List#Survival\|Survival]]: +4 (+6 following tracks) , [[Skill List#Use Rope\|Use Rope]]: 5(7withbindings)+5 (+7 with bindings); |
 | Feats:               |[[Feat List#Dodge \|Dodge ]](B), [[Feat List#Mobility \|Mobility ]](B), [[Feat List#Point Blank Shot\|Point Blank Shot]], [[Feat List#Precise Shot\|Precise Shot]], [[Feat List#Rapid Shot\|Rapid Shot]], [[Feat List#Shot on the Run\|Shot on the Run]]; |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary |

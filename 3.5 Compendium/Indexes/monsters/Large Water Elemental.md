@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Large Water Elemental
+title: 3.5 Compendium / Monsters / Large_Water_Elemental
 aliases: 
  - Large Water Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Large Water Elemental
+ - Large_Water_Elemental
+ - CR5
 type: Elemental
 subtypes: 
  - Water
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 10, Ref: 4, Will: 2 |
+| Saves:               |Fort: +10, Ref: +4, Will: +2 |
 | Abilities:           |Str : 20,  Dex: 14,  Con: 19,  Int: 6,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 5, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Water |
 | Organization:        |Solitary |

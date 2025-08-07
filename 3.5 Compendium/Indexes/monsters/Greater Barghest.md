@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater Barghest
+title: 3.5 Compendium / Monsters / Greater_Barghest
 aliases: 
  - Greater Barghest
 tags: 
  - 3.5e
  - rules
  - monsters
- - Greater Barghest
+ - Greater_Barghest
+ - CR5
 type: Outsider
 subtypes: 
  - Evil
@@ -33,9 +34,9 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 8, Will: 10 |
+| Saves:               |Fort: +9, Ref: +8, Will: +10 |
 | Abilities:           |Str : 20,  Dex: 15,  Con: 16,  Int: 18,  Wis: 18,  Cha: 18 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 16, [[Skill List#Climb\|Climb]]: 17, [[Skill List#Concentration\|Concentration]]: 15, [[Skill List#Diplomacy\|Diplomacy]]: 8, [[Skill List#Disguise\|Disguise]]: 4 (+6 acting), [[Skill List#Hide\|Hide]]: 10*, [[Skill List#Intimidate\|Intimidate]]: 18, [[Skill List#Jump\|Jump]]: 21, [[Skill List#Listen\|Listen]]: 16, [[Skill List#Move Silently\|Move Silently]]: 14, [[Skill List#Sense Motive\|Sense Motive]]: 16, [[Skill List#Spot\|Spot]]: 16 Survival +16 (+18 following tracks), [[Skill List#Tumble\|Tumble]]: 16; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +16, [[Skill List#Climb\|Climb]]: +17, [[Skill List#Concentration\|Concentration]]: +15, [[Skill List#Diplomacy\|Diplomacy]]: +8, [[Skill List#Disguise\|Disguise]]: 4 (+6 acting), [[Skill List#Hide\|Hide]]: 10*, [[Skill List#Intimidate\|Intimidate]]: +18, [[Skill List#Jump\|Jump]]: +21, [[Skill List#Listen\|Listen]]: +16, [[Skill List#Move Silently\|Move Silently]]: +14, [[Skill List#Sense Motive\|Sense Motive]]: +16, [[Skill List#Spot\|Spot]]: 16 Survival +16 (+18 following tracks), [[Skill List#Tumble\|Tumble]]: +16; |
 | Feats:               |[[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Track\|Track]]; |
 | Environment          |An evil-aligned plane |
 | Organization:        |Solitary or pack (3-6) |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Skum
+ - CR2
 type: Aberration
 subtypes: 
  - Aquatic
@@ -30,9 +31,9 @@ alignment: Usually lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Rake 1d6+2 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Amphibious; |
-| Saves:               |Fort: 1, Ref: 1, Will: 3 |
+| Saves:               |Fort: +1, Ref: +1, Will: +3 |
 | Abilities:           |Str : 19,  Dex: 13,  Con: 13,  Int: 10,  Wis: 10,  Cha: 6 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 6*, [[Skill List#Listen\|Listen]]: 7*, [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Spot\|Spot]]: 7*, [[Skill List#Swim\|Swim]]: 12; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 6*, [[Skill List#Listen\|Listen]]: 7*, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: 7*, [[Skill List#Swim\|Swim]]: +12; |
 | Feats:               |[[Feat List#Alertness\|Alertness]]; |
 | Environment          |Underground |
 | Organization:        |Brood (2-5) or pack (6-15) |

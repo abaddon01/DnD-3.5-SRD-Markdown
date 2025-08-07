@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Nine-headed Hydra
+title: 3.5 Compendium / Monsters / Nine-headed_Hydra
 aliases: 
  - Nine-headed Hydra
 tags: 
  - 3.5e
  - rules
  - monsters
- - Nine-headed Hydra
+ - Nine-headed_Hydra
+ - CR8
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  19, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 11, Ref: 7, Will: 5 |
+| Saves:               |Fort: +11, Ref: +7, Will: +5 |
 | Abilities:           |Str : 21,  Dex: 12,  Con: 20,  Int: 2,  Wis: 10,  Cha: 9 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 8, [[Skill List#Spot\|Spot]]: 8, [[Skill List#Swim\|Swim]]: 13; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +8, [[Skill List#Spot\|Spot]]: +8, [[Skill List#Swim\|Swim]]: +13; |
 | Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Reflexes \|Combat Reflexes ]](B), [[Feat List#Iron Will\|Iron Will]], [[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Temperate marshes (Pyro: Warm marshes) (Cyro: Cold marshes) |
 | Organization:        |Solitary |

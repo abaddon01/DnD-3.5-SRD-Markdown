@@ -1,64 +1,48 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Frost Giant
+title: 3.5 Compendium / Monsters / Frost_Giant
 aliases: 
  - Frost Giant
 tags: 
  - 3.5e
  - rules
  - monsters
- - Frost Giant
-type: 
-cr: 
-environment: 
-alignment: 
+ - Frost_Giant
+ - CR9
+type: Giant
+subtypes: 
+ - Cold
+cr: 9
+environment: Cold mountains
+alignment: Often chaotic evil
 ---
 
 # Frost Giant
 
-| ![[frost-giant.png \|100]] | Frost Giant   | 
+| ![[frost-giant.png \|100]] | Frost Giant Large Giant (Cold) | 
 | ----| ---- | 
-| Hit Dice:            | (0) |
-| Initiative:          |0 |
-| Speed:               | |
-| Armor Class:         |, touch , flat_footed   |
-| Base Attack/Grapple: | |
-| Attack:              |; |
-| Full Attack:         |; |
-| Space/Reach:         | |
+| Hit Dice:            |14d8+70 (133) |
+| Initiative:          |-1 |
+| Speed:               |40 ft. (8 squares) |
+| Armor Class:         |21 (-1 size, -1 Dex, +9 natural, +4 chain shirt), touch 8, flat_footed 21  |
+| Base Attack/Grapple: |+10/+23 |
+| Attack:              |Huge greataxe +18 melee (3d6+13/x3) or slam +18 melee (1d4+9) or rock +9 ranged (2d6+9); |
+| Full Attack:         |Huge greataxe +18/+13 melee (3d6+13/x3) or 2 slams +18 melee (1d4+9) or rock +9 ranged (2d6+9); |
+| Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
-| Special Qualities    | |
-| Saves:               | |
-| Abilities:           | |
-| Skills:              |; |
-| Feats:               |; |
-| Environment          | |
-| Organization:        | |
-| Challenge Rating:    | |
-| Treasure:            | |
-| Alignment:           | |
+| Special Qualities    |Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Fire; |
+| Saves:               |Fort: +14, Ref: +3, Will: +6 |
+| Abilities:           |Str : 29,  Dex: 9,  Con: 21,  Int: 10,  Wis: 14,  Cha: 11 |
+| Skills:              |[[Skill List#Climb\|Climb]]: +13, [[Skill List#Craft (any one)\|Craft (any one)]]: +6, [[Skill List#Intimidate\|Intimidate]]: +6, [[Skill List#Jump\|Jump]]: +17, [[Skill List#Spot\|Spot]]: +12; |
+| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Overrun\|Improved Overrun]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Power Attack\|Power Attack]]; |
+| Environment          |Cold mountains |
+| Organization:        |Solitary, gang (2-5), band (6-9 plus 35% noncombatants plus 1 adept or cleric of 1st or 2nd level), hunting/raiding party (6-9 plus 35% noncombatants plus 1 adept or sorcerer of 3rd-5th level plus 2-4 winter wolves and 2-3 ogres), or tribe (21-30 plus 1 adept, cleric, or sorcerer of 6th or 7th level plus 12-30 winter wolves, 12-22 ogres, and 1-2 young white dragons) |
+| Challenge Rating:    |9 |
+| Treasure:            |Standard |
+| Alignment:           |Often chaotic evil |
 | Advancement:         | |
 | Level Adjustment:    | |
 
-A frost giant’s hair can be light blue or dirty yellow, and its eyes usually match its hair color. Frost giants dress in skins and pelts, along with any jewelry they own. Frost giant warriors add chain shirts and metal helmets decorated with horns or feathers.
-An adult male is about 15 feet tall and weighs about 2,800 pounds. Females are slightly shorter and lighter, but otherwise identical with males. Frost giants can live to be 250 years old.
-Frost giants usually start combat at a distance, throwing rocks until they run out of ammunition or the opponent closes, then wading in with their enormous battleaxes.
-A favorite tactic is to lay an ambush by hiding buried in the snow at the top of an icy or snowy slope, where opponents will have difficulty reaching them.
-Rock Throwing (Ex): The range increment is 120 feet for a frost giant’s thrown rocks.
-A frost giant leader is often a barbarian, cleric, fighter, or sorcerer, but some of the most evil and ruthless frost giants become blackguards.
-The frost giant jarl described here has all the qualities and abilities of a typical frost giant, as well as other abilities (see the statistics block) from being a blackguard. Details on some of these abilities follow.
-Aura of Despair (Su): This jarl radiates a malign aura that causes enemies within 10 feet of him to take a -2 penalty on all saving throws.
-Aura of Evil (Ex): This jarl radiates a strong aura of evil (see the detect evil spell) as an 8th-level cleric of an evil deity.
-Command Undead (Su): This jarl can command and rebuke undead as a 6th-level cleric.
-Dark Blessing (Su): This jarl applies his Charisma modifier as a bonus on all saving throws.
-Detect Good (Sp): At will, this jarl can use detect good as a spell-like ability, duplicating the effect of the detect good spell.
-Poison Use: Blackguards are skilled in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.
-Smite Good (Su): Twice per day, this jarl may attempt to smite good with one normal melee attack. He adds his +4 Charisma modifier to his attack roll and deals 8 points of extra damage (1 per blackguard level) if the attack hits. If he accidentally smites a creature that is not good, the smite has no effect but it is still used up for that day.
-Typical Blackguard Spells Prepared (3/1; save DC 11 + spell level):
-1st - cause fear, doom, magic weapon;
-2nd - bull’s strength.
-Possessions: +2 frost greataxe, +2 full plate armor, cloak of Charisma +2, ring of minor energy resistance (fire), 2 doses of bloodroot poison. (Benefits of these items are included in the statistics block.)
-Many groups of frost giants include clerics. A frost giant cleric has access to two of the following domains: Chaos, Destruction, Evil, or War (most choose Destruction or War, some choose both).
 ## Combat
 
 Frost giants usually start combat at a distance, throwing rocks until they run out of ammunition or the opponent closes, then wading in with their enormous battleaxes.

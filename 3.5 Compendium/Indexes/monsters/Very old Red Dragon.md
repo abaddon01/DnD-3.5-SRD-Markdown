@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very old Red Dragon
+title: 3.5 Compendium / Monsters / Very_old_Red_Dragon
 aliases: 
  - Very old Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very old Red Dragon
+ - Very_old_Red_Dragon
+ - CR21
 type: Red Dragon(Very old)
 cr: 21
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 15/magic; |
-| Saves:               |Fort: 25, Ref: 17, Will: 23 |
+| Saves:               |Fort: +25, Ref: +17, Will: +23 |
 | Abilities:           |Str: 37, Dex: 10, Con: 27, Int: 22, Wis: 23, Cha: 22 |
 | Skills:              |; |
 | Feats:               |; |

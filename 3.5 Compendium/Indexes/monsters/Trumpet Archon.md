@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Trumpet Archon
+title: 3.5 Compendium / Monsters / Trumpet_Archon
 aliases: 
  - Trumpet Archon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Trumpet Archon
+ - Trumpet_Archon
+ - CR14
 type: Outsider
 subtypes: 
  - Archon
@@ -33,9 +34,9 @@ alignment: Always lawful good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, spells, trumpet |
 | Special Qualities    |Aura Of Menace, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, [[Special Abilities#spell resistance\|Spell Resistance]]  29, Teleport, Tongues; |
-| Saves:               |Fort: 14 (18 against poison), Ref: 11, Will: 11 |
+| Saves:               |Fort: 14 (18 against poison), Ref: +11, Will: +11 |
 | Abilities:           |Str : 20,  Dex: 17,  Con: 23,  Int: 16,  Wis: 16,  Cha: 16 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 21, [[Skill List#Diplomacy\|Diplomacy]]: 20, [[Skill List#Escape Artist\|Escape Artist]]: 18, [[Skill List#Handle Animal\|Handle Animal]]: 18, [[Skill List#Knowledge\|Knowledge]]: (any one) 18, [[Skill List#Listen\|Listen]]: 18, [[Skill List#Move Silently\|Move Silently]]: 18, [[Skill List#Perform\|Perform]]: (wind instruments) 18, [[Skill List#Ride\|Ride]]: 20, [[Skill List#Sense Motive\|Sense Motive]]: 18, [[Skill List#Spot\|Spot]]: 18, [[Skill List#Use Rope\|Use Rope]]: 3(5withbindings)+3 (+5 with bindings); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +21, [[Skill List#Diplomacy\|Diplomacy]]: +20, [[Skill List#Escape Artist\|Escape Artist]]: +18, [[Skill List#Handle Animal\|Handle Animal]]: +18, [[Skill List#Knowledge\|Knowledge]]: (any one) 18, [[Skill List#Listen\|Listen]]: +18, [[Skill List#Move Silently\|Move Silently]]: +18, [[Skill List#Perform\|Perform]]: (wind instruments) 18, [[Skill List#Ride\|Ride]]: +20, [[Skill List#Sense Motive\|Sense Motive]]: +18, [[Skill List#Spot\|Spot]]: +18, [[Skill List#Use Rope\|Use Rope]]: 3(5withbindings)+3 (+5 with bindings); |
 | Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |A lawful good-aligned plane |
 | Organization:        |Solitary, pair, or squad (3-5) |

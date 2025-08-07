@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Iron Golem
+title: 3.5 Compendium / Monsters / Iron_Golem
 aliases: 
  - Iron Golem
 tags: 
  - 3.5e
  - rules
  - monsters
- - Iron Golem
+ - Iron_Golem
+ - CR13
 type: Construct
 cr: 13
 environment: Any
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Breath weapon |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  15/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 6, Ref: 5, Will: 6 |
+| Saves:               |Fort: +6, Ref: +5, Will: +6 |
 | Abilities:           |Str : 33,  Dex: 9,  Con: -1,  Int: -1,  Wis: 11,  Cha: 1 |
 | Skills:              |; |
-| Feats:               |; |
+| Feats:               |[[Feat List#--\|--]]; |
 | Environment          |Any |
 | Organization:        |Solitary or gang (2-4) |
 | Challenge Rating:    |13 |

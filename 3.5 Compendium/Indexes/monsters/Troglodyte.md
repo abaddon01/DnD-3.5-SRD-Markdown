@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Troglodyte
+ - CR1
 type: Humanoid
 subtypes: 
  - Reptilian
@@ -30,10 +31,10 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Stench |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  90 Ft.; |
-| Saves:               |Fort: 5, Ref: -1, Will: 0 |
+| Saves:               |Fort: +5, Ref: -1, Will: 0 |
 | Abilities:           |Str : 10,  Dex: 9,  Con: 14,  Int: 8,  Wis: 10,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 5*, [[Skill List#Listen\|Listen]]: 3; |
-| Feats:               |[[Monster Feats#Multiattack \|Multiattack ]](B), [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 5*, [[Skill List#Listen\|Listen]]: +3; |
+| Feats:               |[[Monster Feats#Multiattack \|Multiattack ]](B), [[Feat List#Weapon Focus \|Weapon Focus ]](javelin); |
 | Environment          |Underground |
 | Organization:        |Clutch (2-5), squad (6-11 plus 1-2 monitor lizards), or band (20-80 plus 20% noncombatants plus 3-13 monitor lizards) |
 | Challenge Rating:    |1 |

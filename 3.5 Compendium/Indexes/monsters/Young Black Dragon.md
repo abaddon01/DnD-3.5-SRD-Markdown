@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young Black Dragon
+title: 3.5 Compendium / Monsters / Young_Black_Dragon
 aliases: 
  - Young Black Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young Black Dragon
+ - Young_Black_Dragon
+ - CR5
 type: Black Dragon(Young)
 cr: 5
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 9, Ref: 7, Will: 7 |
+| Saves:               |Fort: +9, Ref: +7, Will: +7 |
 | Abilities:           |Str: 15, Dex: 10, Con: 15, Int: 10, Wis: 11, Cha: 10 |
 | Skills:              |; |
 | Feats:               |; |

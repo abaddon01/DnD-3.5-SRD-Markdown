@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Five-headed Hydra
+title: 3.5 Compendium / Monsters / Five-headed_Hydra
 aliases: 
  - Five-headed Hydra
 tags: 
  - 3.5e
  - rules
  - monsters
- - Five-headed Hydra
+ - Five-headed_Hydra
+ - CR4
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  15, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 5, Will: 3 |
+| Saves:               |Fort: +9, Ref: +5, Will: +3 |
 | Abilities:           |Str : 17,  Dex: 12,  Con: 20,  Int: 2,  Wis: 10,  Cha: 9 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 6, [[Skill List#Swim\|Swim]]: 11; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +6, [[Skill List#Swim\|Swim]]: +11; |
 | Feats:               |[[Feat List#Combat Reflexes \|Combat Reflexes ]](B), [[Feat List#Iron Will\|Iron Will]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Temperate marshes (Pyro: Warm marshes) (Cyro: Cold marshes) |
 | Organization:        |Solitary |

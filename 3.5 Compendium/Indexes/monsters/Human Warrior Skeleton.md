@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human Warrior Skeleton
+title: 3.5 Compendium / Monsters / Human_Warrior_Skeleton
 aliases: 
  - Human Warrior Skeleton
 tags: 
  - 3.5e
  - rules
  - monsters
- - Human Warrior Skeleton
+ - Human_Warrior_Skeleton
+ - CR1/3
 type: Undead
 cr: 1/3
 environment: Temperate plains
@@ -28,7 +29,7 @@ alignment: Always neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 0, Ref: 1, Will: 2 |
+| Saves:               |Fort: 0, Ref: +1, Will: +2 |
 | Abilities:           |Str : 13,  Dex: 13,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]]; |

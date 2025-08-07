@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Assassin Vine
+title: 3.5 Compendium / Monsters / Assassin_Vine
 aliases: 
  - Assassin Vine
 tags: 
  - 3.5e
  - rules
  - monsters
- - Assassin Vine
+ - Assassin_Vine
+ - CR3
 type: Plant
 cr: 3
 environment: Temperate forests
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. (20 ft. with vine) |
 | Special Attacks:     |Constrict 1d6+7, entangle, improved grab |
 | Special Qualities    |Blindsight 30 Ft., Camouflage, Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Fire 10; |
-| Saves:               |Fort: 7, Ref: 1, Will: 2 |
+| Saves:               |Fort: +7, Ref: +1, Will: +2 |
 | Abilities:           |Str : 20,  Dex: 10,  Con: 16,  Int: -1,  Wis: 13,  Cha: 9 |
 | Skills:              |; |
 | Feats:               |; |

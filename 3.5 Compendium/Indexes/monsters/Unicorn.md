@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Unicorn
+ - CR3
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always chaotic good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Magic Circle Against Evil, Spell-like Abilities, Immunity To Poison, Charm, And Compulsion, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , Wild Empathy; |
-| Saves:               |Fort: 9, Ref: 7, Will: 6 |
+| Saves:               |Fort: +9, Ref: +7, Will: +6 |
 | Abilities:           |Str : 20,  Dex: 17,  Con: 21,  Int: 10,  Wis: 21,  Cha: 24 |
-| Skills:              |[[Skill List#Jump\|Jump]]: 21, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Move Silently\|Move Silently]]: 9, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Survival\|Survival]]: 8*; |
+| Skills:              |[[Skill List#Jump\|Jump]]: +21, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +9, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Survival\|Survival]]: 8*; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Skill Focus \|Skill Focus ]](Survival); |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, or grace (3-6) |

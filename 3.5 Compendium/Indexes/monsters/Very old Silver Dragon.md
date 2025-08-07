@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very old Silver Dragon
+title: 3.5 Compendium / Monsters / Very_old_Silver_Dragon
 aliases: 
  - Very old Silver Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very old Silver Dragon
+ - Very_old_Silver_Dragon
+ - CR21
 type: Silver Dragon(Very old)
 cr: 21
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 15/magic; |
-| Saves:               |Fort: 23, Ref: 17, Will: 24 |
+| Saves:               |Fort: +23, Ref: +17, Will: +24 |
 | Abilities:           |Str: 33, Dex: 10, Con: 23, Int: 24, Wis: 25, Cha: 24 |
 | Skills:              |; |
 | Feats:               |; |

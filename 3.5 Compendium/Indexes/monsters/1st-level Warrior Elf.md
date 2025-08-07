@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 1st-level Warrior Elf
+title: 3.5 Compendium / Monsters / 1st-level_Warrior_Elf
 aliases: 
  - 1st-level Warrior Elf
 tags: 
  - 3.5e
  - rules
  - monsters
- - 1st-level Warrior Elf
+ - 1st-level_Warrior_Elf
+ - CR0.5
 type: Humanoid
 subtypes: 
  - Elf
@@ -30,9 +31,9 @@ alignment: Usually chaotic good (Wood: Usually neutral)
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Elven Traits; |
-| Saves:               |Fort: 2, Ref: 1, Will: -1 |
+| Saves:               |Fort: +2, Ref: +1, Will: -1 |
 | Abilities:           |Str : 13,  Dex: 13,  Con: 10,  Int: 10,  Wis: 9,  Cha: 8 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 1, [[Skill List#Listen\|Listen]]: 2, [[Skill List#Search\|Search]]: 3, [[Skill List#Spot\|Spot]]: 2; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +1, [[Skill List#Listen\|Listen]]: +2, [[Skill List#Search\|Search]]: +3, [[Skill List#Spot\|Spot]]: +2; |
 | Feats:               |[[Feat List#Weapon Focus \|Weapon Focus ]](longbow); |
 | Environment          |Temperate forest (Half-elf: Temperate forests) (Aquatic: Temperate aquatic) (Gray: Temperate mountains) (Wild: Warm forests) (Wood: Temperate forests) |
 | Organization:        |Squad (2-4), company (11-20 plus 2 3rd-level sergeants and 1 leader of 3rd-6th level), or band (30-100 plus 20% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |

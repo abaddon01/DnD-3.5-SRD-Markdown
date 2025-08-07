@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Old White Dragon
+title: 3.5 Compendium / Monsters / Old_White_Dragon
 aliases: 
  - Old White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Old White Dragon
+ - Old_White_Dragon
+ - CR15
 type: White Dragon(Old)
 cr: 15
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Freezing Fog; |
-| Saves:               |Fort: 19, Ref: 14, Will: 15 |
+| Saves:               |Fort: +19, Ref: +14, Will: +15 |
 | Abilities:           |Str: 29, Dex: 10, Con: 21, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

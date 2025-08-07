@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Black Pudding
+title: 3.5 Compendium / Monsters / Black_Pudding
 aliases: 
  - Black Pudding
 tags: 
  - 3.5e
  - rules
  - monsters
- - Black Pudding
+ - Black_Pudding
+ - CR7
 type: Ooze
 cr: 7
 environment: Underground
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Acid, constrict 2d6+4 plus 2d6 acid, improved grab |
 | Special Qualities    |Blindsight 60 Ft., Split, [[Traits#ooze traits\|Ooze Traits]] ; |
-| Saves:               |Fort: 9, Ref: -2, Will: -2 |
+| Saves:               |Fort: +9, Ref: -2, Will: -2 |
 | Abilities:           |Str : 17,  Dex: 1,  Con: 22,  Int: -1,  Wis: 1,  Cha: 1 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 11; |
-| Feats:               |; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +11; |
+| Feats:               |[[Feat List#--\|--]]; |
 | Environment          |Underground |
 | Organization:        |Solitary |
 | Challenge Rating:    |7 |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 1st-level Warrior Svirfneblin
+title: 3.5 Compendium / Monsters / 1st-level_Warrior_Svirfneblin
 aliases: 
  - 1st-level Warrior Svirfneblin
 tags: 
  - 3.5e
  - rules
  - monsters
- - 1st-level Warrior Svirfneblin
+ - 1st-level_Warrior_Svirfneblin
+ - CR1
 type: Humanoid
 subtypes: 
  - Gnome
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Gnome Traits, Svirfneblin Traits, [[Special Abilities#spell resistance\|Spell Resistance]]  12; |
-| Saves:               |Fort: 5, Ref: 3, Will: 2 |
+| Saves:               |Fort: +5, Ref: +3, Will: +2 |
 | Abilities:           |Str : 11,  Dex: 13,  Con: 12,  Int: 10,  Wis: 11,  Cha: 4 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 2, [[Skill List#Listen\|Listen]]: 2, [[Skill List#Spot\|Spot]]: 2; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +2, [[Skill List#Listen\|Listen]]: +2, [[Skill List#Spot\|Spot]]: +2; |
 | Feats:               |[[Feat List#Toughness\|Toughness]]; |
 | Environment          |Underground |
 | Organization:        |Company (2-4), squad (11-20 plus 1 leader of 3rd-6th level and 2 3rd-level lieutenants), or band (30-50 plus 1 3rd-level sergeant per 20 adults, 5 5th-level lieutenants, 3 7th-level captains, and 2-5 Medium earth elementals) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile White Dragon
+title: 3.5 Compendium / Monsters / Juvenile_White_Dragon
 aliases: 
  - Juvenile White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile White Dragon
+ - Juvenile_White_Dragon
+ - CR6
 type: White Dragon(Juvenile)
 cr: 6
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Fog Cloud; |
-| Saves:               |Fort: 10, Ref: 8, Will: 8 |
+| Saves:               |Fort: +10, Ref: +8, Will: +8 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 8, Wis: 11, Cha: 8 |
 | Skills:              |; |
 | Feats:               |; |

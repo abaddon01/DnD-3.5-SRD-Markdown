@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Winter Wolf
+title: 3.5 Compendium / Monsters / Winter_Wolf
 aliases: 
  - Winter Wolf
 tags: 
  - 3.5e
  - rules
  - monsters
- - Winter Wolf
+ - Winter_Wolf
+ - CR5
 type: Magical
 subtypes: 
  - Beast
@@ -31,9 +32,9 @@ alignment: Usually neutral evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Breath weapon, freezing bite, trip |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , Vulnerability To Fire; |
-| Saves:               |Fort: 8, Ref: 6, Will: 3 |
+| Saves:               |Fort: +8, Ref: +6, Will: +3 |
 | Abilities:           |Str : 18,  Dex: 13,  Con: 16,  Int: 9,  Wis: 13,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: -1*, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Move Silently\|Move Silently]]: 7, [[Skill List#Spot\|Spot]]: 6, [[Skill List#Survival\|Survival]]: 1*; |
+| Skills:              |[[Skill List#Hide\|Hide]]: -1*, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Move Silently\|Move Silently]]: +7, [[Skill List#Spot\|Spot]]: +6, [[Skill List#Survival\|Survival]]: 1*; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Track\|Track]]; |
 | Environment          |Cold forests |
 | Organization:        |Solitary, pair, or pack (3-5) |

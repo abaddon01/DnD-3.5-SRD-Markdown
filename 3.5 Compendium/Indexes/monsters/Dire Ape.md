@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Ape
+title: 3.5 Compendium / Monsters / Dire_Ape
 aliases: 
  - Dire Ape
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Ape
+ - Dire_Ape
+ - CR3
 type: Animal
 cr: 3
 environment: Warm forests
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Rend 2d6+9 |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 6, Ref: 6, Will: 5 |
+| Saves:               |Fort: +6, Ref: +6, Will: +5 |
 | Abilities:           |Str : 22,  Dex: 15,  Con: 14,  Int: 2,  Wis: 12,  Cha: 7 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 14, [[Skill List#Listen\|Listen]]: 5, [[Skill List#Move Silently\|Move Silently]]: 4, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +14, [[Skill List#Listen\|Listen]]: +5, [[Skill List#Move Silently\|Move Silently]]: +4, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Warm forests |
 | Organization:        |Solitary or company (5-8) |

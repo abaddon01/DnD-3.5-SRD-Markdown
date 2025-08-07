@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Eight-headed Hydra
+title: 3.5 Compendium / Monsters / Eight-headed_Hydra
 aliases: 
  - Eight-headed Hydra
 tags: 
  - 3.5e
  - rules
  - monsters
- - Eight-headed Hydra
+ - Eight-headed_Hydra
+ - CR7
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  18, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 11, Ref: 7, Will: 4 |
+| Saves:               |Fort: +11, Ref: +7, Will: +4 |
 | Abilities:           |Str : 19,  Dex: 12,  Con: 20,  Int: 2,  Wis: 10,  Cha: 9 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 7, [[Skill List#Spot\|Spot]]: 8, [[Skill List#Swim\|Swim]]: 12; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +7, [[Skill List#Spot\|Spot]]: +8, [[Skill List#Swim\|Swim]]: +12; |
 | Feats:               |[[Feat List#Combat ReflexesB\|Combat ReflexesB]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Temperate marshes (Pyro: Warm marshes) (Cyro: Cold marshes) |
 | Organization:        |Solitary |

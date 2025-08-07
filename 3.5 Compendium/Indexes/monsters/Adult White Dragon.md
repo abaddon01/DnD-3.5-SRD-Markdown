@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult White Dragon
+title: 3.5 Compendium / Monsters / Adult_White_Dragon
 aliases: 
  - Adult White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Adult White Dragon
+ - Adult_White_Dragon
+ - CR10
 type: White Dragon(Adult)
 cr: 10
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Gust Of Wind; |
-| Saves:               |Fort: 15, Ref: 11, Will: 11 |
+| Saves:               |Fort: +15, Ref: +11, Will: +11 |
 | Abilities:           |Str: 23, Dex: 10, Con: 19, Int: 10, Wis: 11, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

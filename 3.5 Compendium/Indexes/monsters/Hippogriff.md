@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Hippogriff
+ - CR2
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 6, Ref: 5, Will: 2 |
+| Saves:               |Fort: +6, Ref: +5, Will: +2 |
 | Abilities:           |Str : 18,  Dex: 15,  Con: 16,  Int: 2,  Wis: 13,  Cha: 8 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Monster Feats#Wingover\|Wingover]]; |
 | Environment          |Temperate hills |
 | Organization:        |Solitary, pair, or flight (7-12) |

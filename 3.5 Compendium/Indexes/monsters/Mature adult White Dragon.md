@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Mature adult White Dragon
+title: 3.5 Compendium / Monsters / Mature_adult_White_Dragon
 aliases: 
  - Mature adult White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Mature adult White Dragon
+ - Mature_adult_White_Dragon
+ - CR12
 type: White Dragon(Mature adult)
 cr: 12
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 10/magic; |
-| Saves:               |Fort: 17, Ref: 12, Will: 13 |
+| Saves:               |Fort: +17, Ref: +12, Will: +13 |
 | Abilities:           |Str: 27, Dex: 10, Con: 21, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

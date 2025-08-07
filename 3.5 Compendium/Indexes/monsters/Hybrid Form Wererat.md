@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid Form Wererat
+title: 3.5 Compendium / Monsters / Hybrid_Form_Wererat
 aliases: 
  - Hybrid Form Wererat
 tags: 
  - 3.5e
  - rules
  - monsters
- - Hybrid Form Wererat
+ - Hybrid_Form_Wererat
+ - CR2
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Rat Empathy, [[Special Abilities#damage reduction\|Damage Reduction]]  10/silver, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 6, Ref: 5, Will: 4 |
+| Saves:               |Fort: +6, Ref: +5, Will: +4 |
 | Abilities:           |Str : 13,  Dex: 17,  Con: 14,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 4, [[Skill List#Handle Animal\|Handle Animal]]: 3, [[Skill List#Hide\|Hide]]: 5, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Move Silently\|Move Silently]]: 4, [[Skill List#Spot\|Spot]]: 4, [[Skill List#Swim\|Swim]]: 9; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +4, [[Skill List#Handle Animal\|Handle Animal]]: +3, [[Skill List#Hide\|Hide]]: +5, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Move Silently\|Move Silently]]: +4, [[Skill List#Spot\|Spot]]: +4, [[Skill List#Swim\|Swim]]: +9; |
 | Feats:               |[[Feat List#\|]](same as human form); |
 | Environment          |Any |
 | Organization:        |(same as human form) |

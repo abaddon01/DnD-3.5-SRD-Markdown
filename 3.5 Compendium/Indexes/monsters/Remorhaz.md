@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Remorhaz
+ - CR7
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Improved grab, swallow whole |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Heat, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; |
-| Saves:               |Fort: 10, Ref: 6, Will: 3 |
+| Saves:               |Fort: +10, Ref: +6, Will: +3 |
 | Abilities:           |Str : 26,  Dex: 13,  Con: 21,  Int: 5,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 8, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +8, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Cold desert |
 | Organization:        |Solitary |

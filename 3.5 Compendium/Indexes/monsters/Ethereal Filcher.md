@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ethereal Filcher
+title: 3.5 Compendium / Monsters / Ethereal_Filcher
 aliases: 
  - Ethereal Filcher
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ethereal Filcher
+ - Ethereal_Filcher
+ - CR3
 type: Aberration
 cr: 3
 environment: Underground
@@ -28,9 +29,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Detect Magic, Ethereal Jaunt; |
-| Saves:               |Fort: 1, Ref: 5, Will: 5 |
+| Saves:               |Fort: +1, Ref: +5, Will: +5 |
 | Abilities:           |Str : 10,  Dex: 18,  Con: 11,  Int: 7,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 9, [[Skill List#Sleight of Hand\|Sleight of Hand]]: 12, [[Skill List#Spot\|Spot]]: 9; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +9, [[Skill List#Sleight of Hand\|Sleight of Hand]]: +12, [[Skill List#Spot\|Spot]]: +9; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Underground |
 | Organization:        |Solitary |

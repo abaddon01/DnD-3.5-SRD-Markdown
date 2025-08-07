@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Great wyrm Bronze Dragon
+title: 3.5 Compendium / Monsters / Great_wyrm_Bronze_Dragon
 aliases: 
  - Great wyrm Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Great wyrm Bronze Dragon
+ - Great_wyrm_Bronze_Dragon
+ - CR25
 type: Bronze Dragon(Great wyrm)
 cr: 25
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Control Weather; |
-| Saves:               |Fort: 29, Ref: 21, Will: 29 |
+| Saves:               |Fort: +29, Ref: +21, Will: +29 |
 | Abilities:           |Str: 39, Dex: 10, Con: 27, Int: 26, Wis: 27, Cha: 26 |
 | Skills:              |; |
 | Feats:               |; |

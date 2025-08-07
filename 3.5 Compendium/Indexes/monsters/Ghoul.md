@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Ghoul
+ - CR1
 type: Undead
 cr: 1
 environment: Any (Lacedon: Any aquatic)
@@ -28,9 +29,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] , +2 Turn Resistance; |
-| Saves:               |Fort: 0, Ref: 2, Will: 5 |
+| Saves:               |Fort: 0, Ref: +2, Will: +5 |
 | Abilities:           |Str : 13,  Dex: 15,  Con: -1,  Int: 13,  Wis: 14,  Cha: 12 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 6, [[Skill List#Climb\|Climb]]: 5, [[Skill List#Hide\|Hide]]: 6, [[Skill List#Jump\|Jump]]: 5, [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Spot\|Spot]]: 7; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +6, [[Skill List#Climb\|Climb]]: +5, [[Skill List#Hide\|Hide]]: +6, [[Skill List#Jump\|Jump]]: +5, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: +7; |
 | Feats:               |[[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |Any (Lacedon: Any aquatic) |
 | Organization:        |Solitary, gang (2-4), or pack (7-12) |

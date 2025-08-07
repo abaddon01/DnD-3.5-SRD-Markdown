@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Phantom Fungus
+title: 3.5 Compendium / Monsters / Phantom_Fungus
 aliases: 
  - Phantom Fungus
 tags: 
  - 3.5e
  - rules
  - monsters
- - Phantom Fungus
+ - Phantom_Fungus
+ - CR3
 type: Plant
 cr: 3
 environment: Underground
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#invisibility\|Invisibility]] , Greater; |
-| Saves:               |Fort: 6, Ref: 0, Will: 0 |
+| Saves:               |Fort: +6, Ref: 0, Will: 0 |
 | Abilities:           |Str : 14,  Dex: 10,  Con: 16,  Int: 2,  Wis: 11,  Cha: 9 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 4, [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +4, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Alertness\|Alertness]]; |
 | Environment          |Underground |
 | Organization:        |Solitary |

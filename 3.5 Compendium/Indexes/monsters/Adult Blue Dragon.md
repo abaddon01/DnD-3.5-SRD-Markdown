@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult Blue Dragon
+title: 3.5 Compendium / Monsters / Adult_Blue_Dragon
 aliases: 
  - Adult Blue Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Adult Blue Dragon
+ - Adult_Blue_Dragon
+ - CR14
 type: Blue Dragon(Adult)
 cr: 14
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Ventriloquism; |
-| Saves:               |Fort: 17, Ref: 12, Will: 15 |
+| Saves:               |Fort: +17, Ref: +12, Will: +15 |
 | Abilities:           |Str: 27, Dex: 10, Con: 21, Int: 16, Wis: 17, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

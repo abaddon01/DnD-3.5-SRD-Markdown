@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ettin Skeleton
+title: 3.5 Compendium / Monsters / Ettin_Skeleton
 aliases: 
  - Ettin Skeleton
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ettin Skeleton
+ - Ettin_Skeleton
+ - CR5
 type: Undead
 cr: 5
 environment: Cold hills
@@ -28,7 +29,7 @@ alignment: Always neutral evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, Superior Twoweapon, [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 3, Ref: 3, Will: 7 |
+| Saves:               |Fort: +3, Ref: +3, Will: +7 |
 | Abilities:           |Str : 23,  Dex: 10,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]]; |

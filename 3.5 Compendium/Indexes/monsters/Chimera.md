@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Chimera
+ - CR7
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Breath weapon |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 7, Will: 6 |
+| Saves:               |Fort: +9, Ref: +7, Will: +6 |
 | Abilities:           |Str : 19,  Dex: 13,  Con: 17,  Int: 4,  Wis: 13,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 1*, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Spot\|Spot]]: 9; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 1*, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Spot\|Spot]]: +9; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Hover\|Hover]], [[Feat List#Iron Will\|Iron Will]], [[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |Temperate hills |
 | Organization:        |Solitary, pride (3-5), or flight (6-13) |

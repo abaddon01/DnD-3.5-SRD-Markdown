@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile Bronze Dragon
+title: 3.5 Compendium / Monsters / Juvenile_Bronze_Dragon
 aliases: 
  - Juvenile Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile Bronze Dragon
+ - Juvenile_Bronze_Dragon
+ - CR9
 type: Bronze Dragon(Juvenile)
 cr: 9
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 12, Ref: 9, Will: 13 |
+| Saves:               |Fort: +12, Ref: +9, Will: +13 |
 | Abilities:           |Str: 19, Dex: 10, Con: 17, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

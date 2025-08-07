@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Titan
+ - CR21
 type: Outsider
 subtypes: 
  - Chaotic
@@ -31,10 +32,10 @@ alignment: Always chaotic (any)
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     |Oversized weapon, spell-like abilities |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  15/lawful, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  32; |
-| Saves:               |Fort: 26, Ref: 13, Will: 21 |
+| Saves:               |Fort: +26, Ref: +13, Will: +21 |
 | Abilities:           |Str : 43,  Dex: 12,  Con: 39,  Int: 21,  Wis: 28,  Cha: 24 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 7, [[Skill List#Bluff\|Bluff]]: 19, [[Skill List#Climb\|Climb]]: 22, [[Skill List#Concentration\|Concentration]]: 37, [[Skill List#Craft\|Craft]]: (any one) 28, [[Skill List#Diplomacy\|Diplomacy]]: 11, [[Skill List#Disguise\|Disguise]]: +7 (+9 acting) , [[Skill List#Heal\|Heal]]: 20, [[Skill List#Intimidate\|Intimidate]]: 32, [[Skill List#Jump\|Jump]]: 38, [[Skill List#Knowledge\|Knowledge]]: (any one) 28, [[Skill List#Listen\|Listen]]: 32, [[Skill List#Perform\|Perform]]: (oratory) 30, [[Skill List#Sense Motive\|Sense Motive]]: 32, [[Skill List#Search\|Search]]: 28, [[Skill List#Spellcraft\|Spellcraft]]: 17, [[Skill List#Spot\|Spot]]: 32, [[Skill List#Survival\|Survival]]: +9 (+11 following tracks) , [[Skill List#Swim\|Swim]]: 16; |
-| Feats:               |[[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability\|Quicken Spell-Like Ability]]; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +7, [[Skill List#Bluff\|Bluff]]: +19, [[Skill List#Climb\|Climb]]: +22, [[Skill List#Concentration\|Concentration]]: +37, [[Skill List#Craft\|Craft]]: (any one) 28, [[Skill List#Diplomacy\|Diplomacy]]: +11, [[Skill List#Disguise\|Disguise]]: +7 (+9 acting) , [[Skill List#Heal\|Heal]]: +20, [[Skill List#Intimidate\|Intimidate]]: +32, [[Skill List#Jump\|Jump]]: +38, [[Skill List#Knowledge\|Knowledge]]: (any one) 28, [[Skill List#Listen\|Listen]]: +32, [[Skill List#Perform\|Perform]]: (oratory) 30, [[Skill List#Sense Motive\|Sense Motive]]: +32, [[Skill List#Search\|Search]]: +28, [[Skill List#Spellcraft\|Spellcraft]]: +17, [[Skill List#Spot\|Spot]]: +32, [[Skill List#Survival\|Survival]]: +9 (+11 following tracks) , [[Skill List#Swim\|Swim]]: +16; |
+| Feats:               |[[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability \|Quicken Spell-Like Ability ]](chain lightning); |
 | Environment          |A chaotic good-aligned plane |
 | Organization:        |Solitary or pair |
 | Challenge Rating:    |21 |

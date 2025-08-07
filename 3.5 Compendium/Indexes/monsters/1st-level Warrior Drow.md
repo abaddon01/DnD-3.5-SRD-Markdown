@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 1st-level Warrior Drow
+title: 3.5 Compendium / Monsters / 1st-level_Warrior_Drow
 aliases: 
  - 1st-level Warrior Drow
 tags: 
  - 3.5e
  - rules
  - monsters
- - 1st-level Warrior Drow
+ - 1st-level_Warrior_Drow
+ - CR1
 type: Humanoid
 subtypes: 
  - Elf
@@ -30,9 +31,9 @@ alignment: Usually neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Drow Traits, [[Special Abilities#spell resistance\|Spell Resistance]]  12; |
-| Saves:               |Fort: 2, Ref: 1, Will: -1 |
+| Saves:               |Fort: +2, Ref: +1, Will: -1 |
 | Abilities:           |Str : 13,  Dex: 13,  Con: 10,  Int: 12,  Wis: 9,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 0, [[Skill List#Listen\|Listen]]: 2, [[Skill List#Search\|Search]]: 4, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 0, [[Skill List#Listen\|Listen]]: +2, [[Skill List#Search\|Search]]: +4, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Weapon Focus \|Weapon Focus ]](rapier); |
 | Environment          |Underground |
 | Organization:        |Squad (2-4), patrol (5-8 plus 2 2nd-level sergeants and 1 leader of 3rd-6th level), or band (20-50 plus 10% noncombatants plus 1 2nd-level sergeant per 5 adults, 2d4 6th-level lieutenants, and 1d4 9th-level captains) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very old Copper Dragon
+title: 3.5 Compendium / Monsters / Very_old_Copper_Dragon
 aliases: 
  - Very old Copper Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very old Copper Dragon
+ - Very_old_Copper_Dragon
+ - CR20
 type: Copper Dragon(Very old)
 cr: 20
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 15/magic; |
-| Saves:               |Fort: 22, Ref: 16, Will: 21 |
+| Saves:               |Fort: +22, Ref: +16, Will: +21 |
 | Abilities:           |Str: 31, Dex: 10, Con: 23, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

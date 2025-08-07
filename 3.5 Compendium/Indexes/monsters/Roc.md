@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Roc
+ - CR9
 type: Animal
 cr: 9
 environment: Warm mountains
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |20 ft./15 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 18, Ref: 13, Will: 9 |
+| Saves:               |Fort: +18, Ref: +13, Will: +9 |
 | Abilities:           |Str : 34,  Dex: 15,  Con: 24,  Int: 2,  Wis: 13,  Cha: 11 |
-| Skills:              |[[Skill List#Hide\|Hide]]: -3, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Spot\|Spot]]: 14; |
+| Skills:              |[[Skill List#Hide\|Hide]]: -3, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Spot\|Spot]]: +14; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Iron Will\|Iron Will]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Snatch\|Snatch]], [[Monster Feats#Wingover\|Wingover]]; |
 | Environment          |Warm mountains |
 | Organization:        |Solitary or pair |

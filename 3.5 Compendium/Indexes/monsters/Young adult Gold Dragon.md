@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young adult Gold Dragon
+title: 3.5 Compendium / Monsters / Young_adult_Gold_Dragon
 aliases: 
  - Young adult Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young adult Gold Dragon
+ - Young_adult_Gold_Dragon
+ - CR14
 type: Gold Dragon(Young adult)
 cr: 14
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 5/magic; |
-| Saves:               |Fort: 17, Ref: 12, Will: 16 |
+| Saves:               |Fort: +17, Ref: +12, Will: +16 |
 | Abilities:           |Str: 31, Dex: 10, Con: 21, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

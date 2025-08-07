@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very young Red Dragon
+title: 3.5 Compendium / Monsters / Very_young_Red_Dragon
 aliases: 
  - Very young Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very young Red Dragon
+ - Very_young_Red_Dragon
+ - CR5
 type: Red Dragon(Very young)
 cr: 5
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 10, Ref: 7, Will: 8 |
+| Saves:               |Fort: +10, Ref: +7, Will: +8 |
 | Abilities:           |Str: 21, Dex: 10, Con: 17, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

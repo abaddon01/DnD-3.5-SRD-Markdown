@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Weasel
+title: 3.5 Compendium / Monsters / Dire_Weasel
 aliases: 
  - Dire Weasel
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Weasel
+ - Dire_Weasel
+ - CR2
 type: Animal
 cr: 2
 environment: Temperate hills
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Attach, blood drain |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 3, Ref: 7, Will: 4 |
+| Saves:               |Fort: +3, Ref: +7, Will: +4 |
 | Abilities:           |Str : 14,  Dex: 19,  Con: 10,  Int: 2,  Wis: 12,  Cha: 11 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 8, [[Skill List#Listen\|Listen]]: 3, [[Skill List#Move Silently\|Move Silently]]: 8, [[Skill List#Spot\|Spot]]: 5; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +3, [[Skill List#Move Silently\|Move Silently]]: +8, [[Skill List#Spot\|Spot]]: +5; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Stealthy\|Stealthy]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Temperate hills |
 | Organization:        |Solitary or pair |

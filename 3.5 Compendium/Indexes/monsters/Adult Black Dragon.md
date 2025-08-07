@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult Black Dragon
+title: 3.5 Compendium / Monsters / Adult_Black_Dragon
 aliases: 
  - Adult Black Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Adult Black Dragon
+ - Adult_Black_Dragon
+ - CR11
 type: Black Dragon(Adult)
 cr: 11
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Corrupt Water; |
-| Saves:               |Fort: 15, Ref: 11, Will: 12 |
+| Saves:               |Fort: +15, Ref: +11, Will: +12 |
 | Abilities:           |Str: 23, Dex: 10, Con: 19, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

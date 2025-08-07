@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile Arrowhawk
+title: 3.5 Compendium / Monsters / Juvenile_Arrowhawk
 aliases: 
  - Juvenile Arrowhawk
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile Arrowhawk
+ - Juvenile_Arrowhawk
+ - CR3
 type: Outsider
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid, Electricity, And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Fire 10; |
-| Saves:               |Fort: 4, Ref: 8, Will: 4 |
+| Saves:               |Fort: +4, Ref: +8, Will: +4 |
 | Abilities:           |Str : 12,  Dex: 21,  Con: 12,  Int: 10,  Wis: 13,  Cha: 13 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Escape Artist\|Escape Artist]]: 11, [[Skill List#Knowledge (the planes)\|Knowledge (the planes)]]: 6, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Move Silently\|Move Silently]]: 11, [[Skill List#Search\|Search]]: 6, [[Skill List#Sense Motive\|Sense Motive]]: 7, [[Skill List#Spot\|Spot]]: 7, [[Skill List#Survival\|Survival]]: 7 (+9 following tracks, [[Skill List#\|]]: 9 Plane of Air), [[Skill List#Use Rope\|Use Rope]]: 5 (+7 with bindings); |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Escape Artist\|Escape Artist]]: +11, [[Skill List#Knowledge (the planes)\|Knowledge (the planes)]]: +6, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Search\|Search]]: +6, [[Skill List#Sense Motive\|Sense Motive]]: +7, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Survival\|Survival]]: 7 (+9 following tracks, [[Skill List#\|]]: 9 Plane of Air), [[Skill List#Use Rope\|Use Rope]]: 5 (+7 with bindings); |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary or clutch (2-4) |

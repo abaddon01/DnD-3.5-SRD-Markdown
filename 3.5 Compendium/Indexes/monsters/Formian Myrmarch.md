@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Formian Myrmarch
+title: 3.5 Compendium / Monsters / Formian_Myrmarch
 aliases: 
  - Formian Myrmarch
 tags: 
  - 3.5e
  - rules
  - monsters
- - Formian Myrmarch
+ - Formian_Myrmarch
+ - CR10
 type: Outsider
 subtypes: 
  - Lawful
@@ -31,9 +32,9 @@ alignment: Always lawful neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#fast healing\|Fast Healing]]  2, Hive Mind, Immunity To Poison, Petrification, And Cold, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10, Fire 10, And Sonic 10, [[Special Abilities#spell resistance\|Spell Resistance]]  25; |
-| Saves:               |Fort: 12, Ref: 12, Will: 11 |
+| Saves:               |Fort: +12, Ref: +12, Will: +11 |
 | Abilities:           |Str : 19,  Dex: 18,  Con: 18,  Int: 16,  Wis: 16,  Cha: 17 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 19, [[Skill List#Concentration\|Concentration]]: 18, [[Skill List#Diplomacy\|Diplomacy]]: 20, [[Skill List#Hide\|Hide]]: 15, [[Skill List#Knowledge (any one)\|Knowledge (any one)]]: 18, [[Skill List#Listen\|Listen]]: 18, [[Skill List#Move Silently\|Move Silently]]: 19, [[Skill List#Search\|Search]]: 18, [[Skill List#Sense Motive\|Sense Motive]]: 18, [[Skill List#Spot\|Spot]]: 18, [[Skill List#Survival\|Survival]]: 3 (+5 following tracks); |
+| Skills:              |[[Skill List#Climb\|Climb]]: +19, [[Skill List#Concentration\|Concentration]]: +18, [[Skill List#Diplomacy\|Diplomacy]]: +20, [[Skill List#Hide\|Hide]]: +15, [[Skill List#Knowledge (any one)\|Knowledge (any one)]]: +18, [[Skill List#Listen\|Listen]]: +18, [[Skill List#Move Silently\|Move Silently]]: +19, [[Skill List#Search\|Search]]: +18, [[Skill List#Sense Motive\|Sense Motive]]: +18, [[Skill List#Spot\|Spot]]: +18, [[Skill List#Survival\|Survival]]: 3 (+5 following tracks); |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Mobility\|Mobility]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Spring Attack\|Spring Attack]]; |
 | Environment          |A lawful-aligned plane |
 | Organization:        |Solitary, team (2-4), or platoon (1 plus 7-18 workers and 6-11 warriors) |

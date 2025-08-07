@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very young White Dragon
+title: 3.5 Compendium / Monsters / Very_young_White_Dragon
 aliases: 
  - Very young White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very young White Dragon
+ - Very_young_White_Dragon
+ - CR3
 type: White Dragon(Very young)
 cr: 3
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 6, Ref: 5, Will: 5 |
+| Saves:               |Fort: +6, Ref: +5, Will: +5 |
 | Abilities:           |Str: 13, Dex: 10, Con: 13, Int: 6, Wis: 11, Cha: 6 |
 | Skills:              |; |
 | Feats:               |; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater Fire Elemental
+title: 3.5 Compendium / Monsters / Greater_Fire_Elemental
 aliases: 
  - Greater Fire Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Greater Fire Elemental
+ - Greater_Fire_Elemental
+ - CR9
 type: Elemental
 subtypes: 
  - Fire
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
-| Saves:               |Fort: 11, Ref: 20, Will: 9 |
+| Saves:               |Fort: +11, Ref: +20, Will: +9 |
 | Abilities:           |Str : 20,  Dex: 27,  Con: 18,  Int: 6,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 14, [[Skill List#Spot\|Spot]]: 14; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +14, [[Skill List#Spot\|Spot]]: +14; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-fight\|Blind-fight]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Iron Will\|Iron Will]], [[Feat List#Mobility\|Mobility]], [[Feat List#Spring Attack\|Spring Attack]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B), [[Feat List#Weapon Focus \|Weapon Focus ]](slam); |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary |

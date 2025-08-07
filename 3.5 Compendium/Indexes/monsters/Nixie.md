@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Nixie
+ - CR1
 type: Fey
 subtypes: 
  - Aquatic
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Charm person |
 | Special Qualities    |Amphibious, [[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  16, Water Breathing, Wild Empathy; |
-| Saves:               |Fort: 0, Ref: 5, Will: 3 |
+| Saves:               |Fort: 0, Ref: +5, Will: +3 |
 | Abilities:           |Str : 7,  Dex: 16,  Con: 11,  Int: 12,  Wis: 13,  Cha: 18 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 8, [[Skill List#Craft\|Craft]]: (any one) 5, [[Skill List#Escape Artist\|Escape Artist]]: 6, [[Skill List#Handle Animal\|Handle Animal]]: 8, [[Skill List#Hide\|Hide]]: 7*, [[Skill List#Listen\|Listen]]: 8, [[Skill List#Perform\|Perform]]: (sing) 7, [[Skill List#Search\|Search]]: 3, [[Skill List#Sense Motive\|Sense Motive]]: 5, [[Skill List#Spot\|Spot]]: 8, [[Skill List#Swim\|Swim]]: 6; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +8, [[Skill List#Craft\|Craft]]: (any one) 5, [[Skill List#Escape Artist\|Escape Artist]]: +6, [[Skill List#Handle Animal\|Handle Animal]]: +8, [[Skill List#Hide\|Hide]]: 7*, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Perform\|Perform]]: (sing) 7, [[Skill List#Search\|Search]]: +3, [[Skill List#Sense Motive\|Sense Motive]]: +5, [[Skill List#Spot\|Spot]]: +8, [[Skill List#Swim\|Swim]]: +6; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Dodge \|Dodge ]](B), [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Temperate aquatic |
 | Organization:        |Gang (2-4), band (6-11), or tribe (20-80) |

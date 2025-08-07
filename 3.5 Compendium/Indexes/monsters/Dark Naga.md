@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dark Naga
+title: 3.5 Compendium / Monsters / Dark_Naga
 aliases: 
  - Dark Naga
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dark Naga
+ - Dark_Naga
+ - CR8
 type: Aberration
 cr: 8
 environment: Temperate hills
@@ -28,9 +29,9 @@ alignment: Usually lawful evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Poison, spells |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Detect Thoughts, Guarded Thoughts, Immunity To Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Charm; |
-| Saves:               |Fort: 5, Ref: 7, Will: 8 |
+| Saves:               |Fort: +5, Ref: +7, Will: +8 |
 | Abilities:           |Str : 14,  Dex: 15,  Con: 14,  Int: 16,  Wis: 15,  Cha: 17 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 9, [[Skill List#Concentration\|Concentration]]: 13, [[Skill List#Diplomacy\|Diplomacy]]: 7, [[Skill List#Disguise\|Disguise]]: +5 (+7 acting) , [[Skill List#Intimidate\|Intimidate]]: 5, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Sense Motive\|Sense Motive]]: 8, [[Skill List#Spellcraft\|Spellcraft]]: 12, [[Skill List#Spot\|Spot]]: 11; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +9, [[Skill List#Concentration\|Concentration]]: +13, [[Skill List#Diplomacy\|Diplomacy]]: +7, [[Skill List#Disguise\|Disguise]]: +5 (+7 acting) , [[Skill List#Intimidate\|Intimidate]]: +5, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Sense Motive\|Sense Motive]]: +8, [[Skill List#Spellcraft\|Spellcraft]]: +12, [[Skill List#Spot\|Spot]]: +11; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Dodge\|Dodge]], [[Feat List#Eschew Materials \|Eschew Materials ]](B), [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |Temperate hills |
 | Organization:        |Solitary or nest (2-4) |

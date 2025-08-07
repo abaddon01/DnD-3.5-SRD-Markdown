@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small Air Elemental
+title: 3.5 Compendium / Monsters / Small_Air_Elemental
 aliases: 
  - Small Air Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Small Air Elemental
+ - Small_Air_Elemental
+ - CR1
 type: Elemental
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 0, Ref: 6, Will: 0 |
+| Saves:               |Fort: 0, Ref: +6, Will: 0 |
 | Abilities:           |Str : 10,  Dex: 17,  Con: 10,  Int: 4,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 2, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +2, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary |

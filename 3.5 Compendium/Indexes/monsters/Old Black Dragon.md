@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Old Black Dragon
+title: 3.5 Compendium / Monsters / Old_Black_Dragon
 aliases: 
  - Old Black Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Old Black Dragon
+ - Old_Black_Dragon
+ - CR16
 type: Black Dragon(Old)
 cr: 16
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Plant Growth; |
-| Saves:               |Fort: 19, Ref: 14, Will: 16 |
+| Saves:               |Fort: +19, Ref: +14, Will: +16 |
 | Abilities:           |Str: 29, Dex: 10, Con: 21, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium Animated Object
+title: 3.5 Compendium / Monsters / Medium_Animated_Object
 aliases: 
  - Medium Animated Object
 tags: 
  - 3.5e
  - rules
  - monsters
- - Medium Animated Object
+ - Medium_Animated_Object
+ - CR2
 type: Construct
 cr: 2
 environment: Any

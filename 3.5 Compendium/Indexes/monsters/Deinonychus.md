@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Deinonychus
+ - CR3
 type: Animal
 cr: 3
 environment: Warm forests
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Pounce |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 8, Ref: 6, Will: 2 |
+| Saves:               |Fort: +8, Ref: +6, Will: +2 |
 | Abilities:           |Str : 19,  Dex: 15,  Con: 19,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 12, [[Skill List#Jump\|Jump]]: 26, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Spot\|Spot]]: 10, [[Skill List#Survival\|Survival]]: 10; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +12, [[Skill List#Jump\|Jump]]: +26, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Spot\|Spot]]: +10, [[Skill List#Survival\|Survival]]: +10; |
 | Feats:               |[[Feat List#Run\|Run]], [[Feat List#Track\|Track]]; |
 | Environment          |Warm forests |
 | Organization:        |Solitary, pair, or pack (3-6) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Solar Angel
+title: 3.5 Compendium / Monsters / Solar_Angel
 aliases: 
  - Solar Angel
 tags: 
  - 3.5e
  - rules
  - monsters
- - Solar Angel
+ - Solar_Angel
+ - CR23
 type: Outsider
 subtypes: 
  - Angel
@@ -32,9 +33,9 @@ alignment: Always good (any)
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Spell-like abilities, spells |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  15/epic And Evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Immunity To Acid, Cold, And Petrification, Protective Aura, [[Special Abilities#regeneration\|Regeneration]]  15, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  32, Tongues; |
-| Saves:               |Fort: 18 (22 against poison), Ref: 18, Will: 20 |
+| Saves:               |Fort: 18 (22 against poison), Ref: +18, Will: +20 |
 | Abilities:           |Str : 28,  Dex: 20,  Con: 20,  Int: 23,  Wis: 25,  Cha: 25 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 30, [[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any five) 33, [[Skill List#Diplomacy\|Diplomacy]]: 34, [[Skill List#Escape Artist\|Escape Artist]]: 30, [[Skill List#Hide\|Hide]]: 26, [[Skill List#Listen\|Listen]]: 32, [[Skill List#Move Silently\|Move Silently]]: 30, [[Skill List#Search\|Search]]: 31, [[Skill List#Sense Motive\|Sense Motive]]: 32, [[Skill List#Spellcraft\|Spellcraft]]: 31, [[Skill List#Spot\|Spot]]: 32, [[Skill List#Survival\|Survival]]: +7 (+9 following tracks) , [[Skill List#Use Rope\|Use Rope]]: 5(7withbindings)+5 (+7 with bindings); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +30, [[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any five) 33, [[Skill List#Diplomacy\|Diplomacy]]: +34, [[Skill List#Escape Artist\|Escape Artist]]: +30, [[Skill List#Hide\|Hide]]: +26, [[Skill List#Listen\|Listen]]: +32, [[Skill List#Move Silently\|Move Silently]]: +30, [[Skill List#Search\|Search]]: +31, [[Skill List#Sense Motive\|Sense Motive]]: +32, [[Skill List#Spellcraft\|Spellcraft]]: +31, [[Skill List#Spot\|Spot]]: +32, [[Skill List#Survival\|Survival]]: +7 (+9 following tracks) , [[Skill List#Use Rope\|Use Rope]]: 5(7withbindings)+5 (+7 with bindings); |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Dodge\|Dodge]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Mobility\|Mobility]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Track\|Track]]; |
 | Environment          |Any good-aligned plane |
 | Organization:        |Solitary or pair |

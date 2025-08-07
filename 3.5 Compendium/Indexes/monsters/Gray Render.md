@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gray Render
+title: 3.5 Compendium / Monsters / Gray_Render
 aliases: 
  - Gray Render
 tags: 
  - 3.5e
  - rules
  - monsters
- - Gray Render
+ - Gray_Render
+ - CR8
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Improved grab, rend 2d6+9 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 14, Ref: 7, Will: 4 |
+| Saves:               |Fort: +14, Ref: +7, Will: +4 |
 | Abilities:           |Str : 23,  Dex: 10,  Con: 24,  Int: 3,  Wis: 12,  Cha: 8 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 2, [[Skill List#Spot\|Spot]]: 10, [[Skill List#Survival\|Survival]]: 3; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +2, [[Skill List#Spot\|Spot]]: +10, [[Skill List#Survival\|Survival]]: +3; |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Track\|Track]]; |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary |

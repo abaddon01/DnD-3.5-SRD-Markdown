@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gray Render Zombie
+title: 3.5 Compendium / Monsters / Gray_Render_Zombie
 aliases: 
  - Gray Render Zombie
 tags: 
  - 3.5e
  - rules
  - monsters
- - Gray Render Zombie
+ - Gray_Render_Zombie
+ - CR6
 type: Undead
 cr: 6
 environment: Temperate marshes
@@ -28,7 +29,7 @@ alignment: Always neutral evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Single Actions Only, [[Special Abilities#damage reduction\|Damage Reduction]]  5/slashing, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 6, Ref: 5, Will: 12 |
+| Saves:               |Fort: +6, Ref: +5, Will: +12 |
 | Abilities:           |Str : 25,  Dex: 8,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#Toughness\|Toughness]]; |

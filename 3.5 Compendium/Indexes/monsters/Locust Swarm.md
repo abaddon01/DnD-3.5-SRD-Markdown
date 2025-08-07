@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Locust Swarm
+title: 3.5 Compendium / Monsters / Locust_Swarm
 aliases: 
  - Locust Swarm
 tags: 
  - 3.5e
  - rules
  - monsters
- - Locust Swarm
+ - Locust_Swarm
+ - CR3
 type: Vermin
 subtypes: 
  - Swarm
@@ -30,10 +31,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./0 ft. |
 | Special Attacks:     |Distraction |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , Vermin Traits; |
-| Saves:               |Fort: 4, Ref: 6, Will: 2 |
+| Saves:               |Fort: +4, Ref: +6, Will: +2 |
 | Abilities:           |Str : 1,  Dex: 19,  Con: 8,  Int: -1,  Wis: 10,  Cha: 2 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 4; |
-| Feats:               |; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +4; |
+| Feats:               |[[Feat List#--\|--]]; |
 | Environment          |Temperate plains |
 | Organization:        |Solitary, cloud (2-7 swarms), or plague (11-20 swarms) |
 | Challenge Rating:    |3 |

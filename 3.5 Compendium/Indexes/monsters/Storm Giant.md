@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Storm Giant
+title: 3.5 Compendium / Monsters / Storm_Giant
 aliases: 
  - Storm Giant
 tags: 
  - 3.5e
  - rules
  - monsters
- - Storm Giant
+ - Storm_Giant
+ - CR13
 type: Giant
 cr: 13
 environment: Warm mountains
@@ -28,9 +29,9 @@ alignment: Often chaotic good
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     |Spell-like abilities |
 | Special Qualities    |Freedom Of Movement, Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Water Breathing; |
-| Saves:               |Fort: 17, Ref: 8, Will: 13 |
+| Saves:               |Fort: +17, Ref: +8, Will: +13 |
 | Abilities:           |Str : 39,  Dex: 14,  Con: 23,  Int: 16,  Wis: 20,  Cha: 15 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 20, [[Skill List#Concentration\|Concentration]]: 26, [[Skill List#Craft\|Craft]]: (any one) 13, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Intimidate\|Intimidate]]: 12, [[Skill List#Jump\|Jump]]: 24, [[Skill List#Listen\|Listen]]: 15, [[Skill List#Perform\|Perform]]: (sing) 12, [[Skill List#Sense Motive\|Sense Motive]]: 15, [[Skill List#Spot\|Spot]]: 25, [[Skill List#Swim\|Swim]]: 18*; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +20, [[Skill List#Concentration\|Concentration]]: +26, [[Skill List#Craft\|Craft]]: (any one) 13, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Intimidate\|Intimidate]]: +12, [[Skill List#Jump\|Jump]]: +24, [[Skill List#Listen\|Listen]]: +15, [[Skill List#Perform\|Perform]]: (sing) 12, [[Skill List#Sense Motive\|Sense Motive]]: +15, [[Skill List#Spot\|Spot]]: +25, [[Skill List#Swim\|Swim]]: 18*; |
 | Feats:               |[[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Cleave\|Cleave]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Warm mountains |
 | Organization:        |Solitary or family (2-4 plus 35% noncombatants plus 1 sorcerer or cleric of 7th-10th level plus 1-2 rocs, 2-5 griffons, or 2-8 sea cats) |

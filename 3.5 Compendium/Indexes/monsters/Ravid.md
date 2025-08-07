@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Ravid
+ - CR5
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -30,9 +31,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Positive energy lash, animate objects |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire; |
-| Saves:               |Fort: 4, Ref: 3, Will: 4 |
+| Saves:               |Fort: +4, Ref: +3, Will: +4 |
 | Abilities:           |Str : 13,  Dex: 10,  Con: 13,  Int: 7,  Wis: 12,  Cha: 14 |
-| Skills:              |[[Skill List#Escape Artist\|Escape Artist]]: 6, [[Skill List#Hide\|Hide]]: 6, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Spot\|Spot]]: 7, [[Skill List#Survival\|Survival]]: 7, [[Skill List#Use Rope\|Use Rope]]: 0(2withbindings)+0 (+2 with bindings); |
+| Skills:              |[[Skill List#Escape Artist\|Escape Artist]]: +6, [[Skill List#Hide\|Hide]]: +6, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Survival\|Survival]]: +7, [[Skill List#Use Rope\|Use Rope]]: 0(2withbindings)+0 (+2 with bindings); |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |Positive Energy Plane |
 | Organization:        |Solitary (1 plus at least 1 animated object) |

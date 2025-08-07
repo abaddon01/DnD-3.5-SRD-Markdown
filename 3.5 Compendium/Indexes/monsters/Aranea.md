@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Aranea
+ - CR4
 type: Magical
 subtypes: 
  - Beast
@@ -31,10 +32,10 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Poison, spells, web |
 | Special Qualities    |Change Shape, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 5, Ref: 5, Will: 4 |
+| Saves:               |Fort: +5, Ref: +5, Will: +4 |
 | Abilities:           |Str : 11,  Dex: 15,  Con: 14,  Int: 14,  Wis: 13,  Cha: 14 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 14, [[Skill List#Concentration\|Concentration]]: 8, [[Skill List#Escape Artist\|Escape Artist]]: 5, [[Skill List#Jump\|Jump]]: 13, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 6; |
-| Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +14, [[Skill List#Concentration\|Concentration]]: +8, [[Skill List#Escape Artist\|Escape Artist]]: +5, [[Skill List#Jump\|Jump]]: +13, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +6; |
+| Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will \|Iron Will ]](B), [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary or colony (3-6) |
 | Challenge Rating:    |4 |

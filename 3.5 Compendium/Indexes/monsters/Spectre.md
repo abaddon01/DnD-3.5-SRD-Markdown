@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Spectre
+ - CR7
 type: Undead
 subtypes: 
  - Incorporeal
@@ -30,9 +31,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Energy drain, create spawn |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, Sunlight Powerlessness, [[Traits#undead traits\|Undead Traits]] , Unnatural Aura; |
-| Saves:               |Fort: 2, Ref: 5, Will: 7 |
+| Saves:               |Fort: +2, Ref: +5, Will: +7 |
 | Abilities:           |Str : -1,  Dex: 16,  Con: -1,  Int: 14,  Wis: 14,  Cha: 15 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 13, [[Skill List#Intimidate\|Intimidate]]: 12, [[Skill List#Knowledge\|Knowledge]]: (religion) 12, [[Skill List#Listen\|Listen]]: 14, [[Skill List#Search\|Search]]: 12, [[Skill List#Spot\|Spot]]: 14, [[Skill List#Survival\|Survival]]: 2(4followingtracks)+2 (+4 following tracks); |
+| Skills:              |[[Skill List#Hide\|Hide]]: +13, [[Skill List#Intimidate\|Intimidate]]: +12, [[Skill List#Knowledge\|Knowledge]]: (religion) 12, [[Skill List#Listen\|Listen]]: +14, [[Skill List#Search\|Search]]: +12, [[Skill List#Spot\|Spot]]: +14, [[Skill List#Survival\|Survival]]: 2(4followingtracks)+2 (+4 following tracks); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Any land and underground |
 | Organization:        |Solitary, gang (2-4), or swarm (6-11) |

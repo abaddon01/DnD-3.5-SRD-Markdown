@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Violet Fungus
+title: 3.5 Compendium / Monsters / Violet_Fungus
 aliases: 
  - Violet Fungus
 tags: 
  - 3.5e
  - rules
  - monsters
- - Violet Fungus
+ - Violet_Fungus
+ - CR3
 type: Plant
 cr: 3
 environment: Underground
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits; |
-| Saves:               |Fort: 6, Ref: -1, Will: 0 |
+| Saves:               |Fort: +6, Ref: -1, Will: 0 |
 | Abilities:           |Str : 14,  Dex: 8,  Con: 16,  Int: -1,  Wis: 11,  Cha: 9 |
 | Skills:              |; |
 | Feats:               |[[Feat List#--\|--]]; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Formian Warrior
+title: 3.5 Compendium / Monsters / Formian_Warrior
 aliases: 
  - Formian Warrior
 tags: 
  - 3.5e
  - rules
  - monsters
- - Formian Warrior
+ - Formian_Warrior
+ - CR3
 type: Outsider
 subtypes: 
  - Lawful
@@ -31,9 +32,9 @@ alignment: Always lawful neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Hive Mind, Immunity To Poison, Petrification, And Cold, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10, Fire 10, And Sonic 10, [[Special Abilities#spell resistance\|Spell Resistance]]  18; |
-| Saves:               |Fort: 6, Ref: 7, Will: 5 |
+| Saves:               |Fort: +6, Ref: +7, Will: +5 |
 | Abilities:           |Str : 17,  Dex: 16,  Con: 14,  Int: 10,  Wis: 12,  Cha: 11 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 10, [[Skill List#Hide\|Hide]]: 10, [[Skill List#Jump\|Jump]]: 14, [[Skill List#Listen\|Listen]]: 8, [[Skill List#Move Silently\|Move Silently]]: 10, [[Skill List#(\|(]]: 3 following tracks), [[Skill List#Tumble\|Tumble]]: 12; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +10, [[Skill List#Hide\|Hide]]: +10, [[Skill List#Jump\|Jump]]: +14, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Move Silently\|Move Silently]]: +10, [[Skill List#(\|(]]: 3 following tracks), [[Skill List#Tumble\|Tumble]]: +12; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |A lawful-aligned plane |
 | Organization:        |Solitary, team (2-4), or troop (6-11) |

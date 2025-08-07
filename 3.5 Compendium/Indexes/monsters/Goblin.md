@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Goblin
+ - CR1/3
 type: 1st-Level
 subtypes: 
  - Warrior
@@ -33,9 +34,9 @@ alignment: Usually neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 3, Ref: 1, Will: -1 |
+| Saves:               |Fort: +3, Ref: +1, Will: -1 |
 | Abilities:           |Str : 11,  Dex: 13,  Con: 12,  Int: 10,  Wis: 9,  Cha: 6 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 5, [[Skill List#Listen\|Listen]]: 2, [[Skill List#Move Silently\|Move Silently]]: 5, [[Skill List#Ride\|Ride]]: 4, [[Skill List#Spot\|Spot]]: 2; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +5, [[Skill List#Listen\|Listen]]: +2, [[Skill List#Move Silently\|Move Silently]]: +5, [[Skill List#Ride\|Ride]]: +4, [[Skill List#Spot\|Spot]]: +2; |
 | Feats:               |[[Feat List#Alertness\|Alertness]]; |
 | Environment          |Temperate plains |
 | Organization:        |Gang (4-9), band (10-100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th-6th level), warband (10-24 with worg mounts), or tribe (40-400 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 10-24 worgs, and 2-4 dire wolves) |

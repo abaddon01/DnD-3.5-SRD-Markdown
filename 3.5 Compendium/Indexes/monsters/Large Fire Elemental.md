@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Large Fire Elemental
+title: 3.5 Compendium / Monsters / Large_Fire_Elemental
 aliases: 
  - Large Fire Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Large Fire Elemental
+ - Large_Fire_Elemental
+ - CR5
 type: Elemental
 subtypes: 
  - Fire
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
-| Saves:               |Fort: 5, Ref: 11, Will: 2 |
+| Saves:               |Fort: +5, Ref: +11, Will: +2 |
 | Abilities:           |Str : 14,  Dex: 21,  Con: 16,  Int: 6,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 5, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Mobility\|Mobility]], [[Feat List#Spring Attack\|Spring Attack]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary |

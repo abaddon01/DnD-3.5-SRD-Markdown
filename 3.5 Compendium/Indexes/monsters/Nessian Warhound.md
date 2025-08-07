@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Nessian Warhound
+title: 3.5 Compendium / Monsters / Nessian_Warhound
 aliases: 
  - Nessian Warhound
 tags: 
  - 3.5e
  - rules
  - monsters
- - Nessian Warhound
+ - Nessian_Warhound
+ - CR9
 type: Outsider
 subtypes: 
  - Evil
@@ -33,9 +34,9 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#scent\|Scent]] , Vulnerability To Cold; |
-| Saves:               |Fort: 13, Ref: 10, Will: 9 |
+| Saves:               |Fort: +13, Ref: +10, Will: +9 |
 | Abilities:           |Str : 26,  Dex: 14,  Con: 20,  Int: 4,  Wis: 12,  Cha: 6 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 17, [[Skill List#Jump\|Jump]]: 19, [[Skill List#Listen\|Listen]]: 18, [[Skill List#Move Silently\|Move Silently]]: 21, [[Skill List#Spot\|Spot]]: 18, [[Skill List#Survival\|Survival]]: 8*, [[Skill List#Tumble\|Tumble]]: 3; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +17, [[Skill List#Jump\|Jump]]: +19, [[Skill List#Listen\|Listen]]: +18, [[Skill List#Move Silently\|Move Silently]]: +21, [[Skill List#Spot\|Spot]]: +18, [[Skill List#Survival\|Survival]]: 8*, [[Skill List#Tumble\|Tumble]]: +3; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Critical \|Improved Critical ]](bite), [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Track\|Track]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |A lawful evil plane |
 | Organization:        |Solitary, pair, or pack (1-2 Nessian warhounds and 5-12 hell hounds) |

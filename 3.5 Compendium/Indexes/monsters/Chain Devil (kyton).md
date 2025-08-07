@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Chain Devil (kyton)
+title: 3.5 Compendium / Monsters / Chain_Devil_(kyton)
 aliases: 
  - Chain Devil (kyton)
 tags: 
  - 3.5e
  - rules
  - monsters
- - Chain Devil (kyton)
+ - Chain_Devil_(kyton)
+ - CR6
 type: Outsider
 subtypes: 
  - Evil
@@ -32,10 +33,10 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. (10 ft. with chains) |
 | Special Attacks:     |Dancing chains, unnerving gaze |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/silver Or Good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#regeneration\|Regeneration]]  2, [[Special Abilities#spell resistance\|Spell Resistance]]  18; |
-| Saves:               |Fort: 8, Ref: 8, Will: 6 |
+| Saves:               |Fort: +8, Ref: +8, Will: +6 |
 | Abilities:           |Str : 15,  Dex: 15,  Con: 15,  Int: 6,  Wis: 10,  Cha: 12 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 13, [[Skill List#Craft\|Craft]]: (blacksmithing) 17, [[Skill List#Escape Artist\|Escape Artist]]: 13, [[Skill List#Intimidate\|Intimidate]]: 12, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Spot\|Spot]]: 13, [[Skill List#Use Rope\|Use Rope]]: 2(4withbindings)+2 (+4 with bindings); |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Critical\|Improved Critical]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +13, [[Skill List#Craft\|Craft]]: (blacksmithing) 17, [[Skill List#Escape Artist\|Escape Artist]]: +13, [[Skill List#Intimidate\|Intimidate]]: +12, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Spot\|Spot]]: +13, [[Skill List#Use Rope\|Use Rope]]: 2(4withbindings)+2 (+4 with bindings); |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Critical \|Improved Critical ]](chain), [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary, gang (2-4), band (6-10), or mob (11-20) |
 | Challenge Rating:    |6 |

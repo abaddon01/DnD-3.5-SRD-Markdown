@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Vargouille
+ - CR2
 type: Outsider
 subtypes: 
  - Evil
@@ -31,9 +32,9 @@ alignment: Always neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Shriek, kiss, poison |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 3, Ref: 3, Will: 3 |
+| Saves:               |Fort: +3, Ref: +3, Will: +3 |
 | Abilities:           |Str : 10,  Dex: 13,  Con: 12,  Int: 5,  Wis: 12,  Cha: 8 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 11, [[Skill List#Intimidate\|Intimidate]]: 3, [[Skill List#Listen\|Listen]]: 5, [[Skill List#Move Silently\|Move Silently]]: 7, [[Skill List#Spot\|Spot]]: 5; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +11, [[Skill List#Intimidate\|Intimidate]]: +3, [[Skill List#Listen\|Listen]]: +5, [[Skill List#Move Silently\|Move Silently]]: +7, [[Skill List#Spot\|Spot]]: +5; |
 | Feats:               |[[Feat List#Stealthy\|Stealthy]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |An evil-aligned plane |
 | Organization:        |Cluster (2-5) or mob (6-11) |

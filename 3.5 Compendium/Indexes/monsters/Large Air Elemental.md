@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Large Air Elemental
+title: 3.5 Compendium / Monsters / Large_Air_Elemental
 aliases: 
  - Large Air Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Large Air Elemental
+ - Large_Air_Elemental
+ - CR5
 type: Elemental
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 5, Ref: 13, Will: 2 |
+| Saves:               |Fort: +5, Ref: +13, Will: +2 |
 | Abilities:           |Str : 14,  Dex: 25,  Con: 16,  Int: 6,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 5, [[Skill List#Spot\|Spot]]: 6; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +6; |
 | Feats:               |[[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 1st-level Warrior Duergar
+title: 3.5 Compendium / Monsters / 1st-level_Warrior_Duergar
 aliases: 
  - 1st-level Warrior Duergar
 tags: 
  - 3.5e
  - rules
  - monsters
- - 1st-level Warrior Duergar
+ - 1st-level_Warrior_Duergar
+ - CR1
 type: Humanoid
 subtypes: 
  - Dwarf
@@ -30,9 +31,9 @@ alignment: Often lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Duergar Traits; |
-| Saves:               |Fort: 4, Ref: 0, Will: -1 |
+| Saves:               |Fort: +4, Ref: 0, Will: -1 |
 | Abilities:           |Str : 13,  Dex: 11,  Con: 14,  Int: 10,  Wis: 9,  Cha: 4 |
-| Skills:              |[[Skill List#Appraise\|Appraise]]: 2, [[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: 2, [[Skill List#Craft (stonemasonry)\|Craft (stonemasonry)]]: 2, [[Skill List#Listen\|Listen]]: 3, [[Skill List#\|]]: Move Silently -4, [[Skill List#Spot\|Spot]]: 2; |
+| Skills:              |[[Skill List#Appraise\|Appraise]]: +2, [[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: +2, [[Skill List#Craft (stonemasonry)\|Craft (stonemasonry)]]: +2, [[Skill List#Listen\|Listen]]: +3, [[Skill List#\|]]: Move Silently -4, [[Skill List#Spot\|Spot]]: +2; |
 | Feats:               |[[Feat List#Toughness\|Toughness]]; |
 | Environment          |Underground |
 | Organization:        |Team (2-4), squad (9-16 plus 3 3rd-level sergeants and 1 leader of 3rd-8th level) or clan (20-80 plus 25% noncombatants plus 1 3rd-level sergeant per 5 adults, 3-6 6th-level lieutenants, and 1-4 9th-level captains) |

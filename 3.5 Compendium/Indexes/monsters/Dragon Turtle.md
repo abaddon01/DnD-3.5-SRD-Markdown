@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dragon Turtle
+title: 3.5 Compendium / Monsters / Dragon_Turtle
 aliases: 
  - Dragon Turtle
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dragon Turtle
+ - Dragon_Turtle
+ - CR9
 type: Dragon
 subtypes: 
  - Aquatic
@@ -30,10 +31,10 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Breath weapon, snatch, capsize |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Sleep, [[Special Abilities#paralysis\|And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 13, Ref: 8, Will: 9 |
+| Saves:               |Fort: +13, Ref: +8, Will: +9 |
 | Abilities:           |Str : 27,  Dex: 10,  Con: 21,  Int: 12,  Wis: 13,  Cha: 12 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Hide\|Hide]]: 7*, [[Skill List#Intimidate\|Intimidate]]: 16, [[Skill List#Listen\|Listen]]: 16, [[Skill List#Search\|Search]]: 16, [[Skill List#Sense Motive\|Sense Motive]]: 16, [[Skill List#Spot\|Spot]]: 16, [[Skill List#Survival\|Survival]]: +16 (+18 following tracks) , [[Skill List#Swim\|Swim]]: 21; |
-| Feats:               |; |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Hide\|Hide]]: 7*, [[Skill List#Intimidate\|Intimidate]]: +16, [[Skill List#Listen\|Listen]]: +16, [[Skill List#Search\|Search]]: +16, [[Skill List#Sense Motive\|Sense Motive]]: +16, [[Skill List#Spot\|Spot]]: +16, [[Skill List#Survival\|Survival]]: +16 (+18 following tracks) , [[Skill List#Swim\|Swim]]: +21; |
+| Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Snatch\|Snatch]]; |
 | Environment          |Temperate aquatic |
 | Organization:        |Solitary |
 | Challenge Rating:    |9 |

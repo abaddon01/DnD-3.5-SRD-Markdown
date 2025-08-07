@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Lion
+title: 3.5 Compendium / Monsters / Dire_Lion
 aliases: 
  - Dire Lion
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Lion
+ - Dire_Lion
+ - CR5
 type: Animal
 cr: 5
 environment: Warm plains
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Improved grab, pounce, rake 1d6+3 |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 8, Will: 7 |
+| Saves:               |Fort: +9, Ref: +8, Will: +7 |
 | Abilities:           |Str : 25,  Dex: 15,  Con: 17,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 2*, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Move Silently\|Move Silently]]: 5Spot7; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Run\|Run]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 2*, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Move Silently\|Move Silently]]: 5Spot7; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Run\|Run]], [[Feat List#Weapon Focus \|Weapon Focus ]](claw); |
 | Environment          |Warm plains |
 | Organization:        |Solitary, pair, or pride (6-10) |
 | Challenge Rating:    |5 |

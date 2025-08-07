@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gelatinous Cube
+title: 3.5 Compendium / Monsters / Gelatinous_Cube
 aliases: 
  - Gelatinous Cube
 tags: 
  - 3.5e
  - rules
  - monsters
- - Gelatinous Cube
+ - Gelatinous_Cube
+ - CR3
 type: Ooze
 cr: 3
 environment: Underground
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Acid, engulf, paralysis |
 | Special Qualities    |Blindsight 60 Ft., Immunity To Electricity, [[Traits#ooze traits\|Ooze Traits]] , Transparent; |
-| Saves:               |Fort: 9, Ref: -4, Will: -4 |
+| Saves:               |Fort: +9, Ref: -4, Will: -4 |
 | Abilities:           |Str : 10,  Dex: 1,  Con: 26,  Int: -1,  Wis: 1,  Cha: 1 |
 | Skills:              |; |
-| Feats:               |; |
+| Feats:               |[[Feat List#--\|--]]; |
 | Environment          |Underground |
 | Organization:        |Solitary |
 | Challenge Rating:    |3 |

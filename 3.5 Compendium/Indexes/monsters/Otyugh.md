@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Otyugh
+ - CR4
 type: Aberration
 cr: 4
 environment: Underground
@@ -28,10 +29,10 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. (15 ft. with tentacle) |
 | Special Attacks:     |Constrict 1d6, disease, improved grab |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 3, Ref: 2, Will: 6 |
+| Saves:               |Fort: +3, Ref: +2, Will: +6 |
 | Abilities:           |Str : 11,  Dex: 10,  Con: 13,  Int: 5,  Wis: 12,  Cha: 6 |
-| Skills:              |[[Skill List#Hide\|Hide]]: -1*, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 6; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: -1*, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +6; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Toughness\|Toughness]], [[Feat List#Weapon Focus \|Weapon Focus ]](tentacle); |
 | Environment          |Underground |
 | Organization:        |Solitary, pair, or cluster (3-4) |
 | Challenge Rating:    |4 |

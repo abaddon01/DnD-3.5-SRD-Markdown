@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hellwasp Swarm
+title: 3.5 Compendium / Monsters / Hellwasp_Swarm
 aliases: 
  - Hellwasp Swarm
 tags: 
  - 3.5e
  - rules
  - monsters
- - Hellwasp Swarm
+ - Hellwasp_Swarm
+ - CR8
 type: Magical
 subtypes: 
  - Beast
@@ -33,10 +34,10 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./0 ft. |
 | Special Attacks:     |Distraction, inhabit, poison |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Hive Mind, Immune To Weapon Damage, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Traits#swarm traits\|Swarm Traits]] ; |
-| Saves:               |Fort: 10, Ref: 14, Will: 7 |
+| Saves:               |Fort: +10, Ref: +14, Will: +7 |
 | Abilities:           |Str : 1,  Dex: 22,  Con: 14,  Int: 6,  Wis: 13,  Cha: 9 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 19, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Spot\|Spot]]: 10; |
-| Feats:               |[[Monster Feats#Ability Focus\|Ability Focus]], [[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Toughness\|Toughness]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +19, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Spot\|Spot]]: +10; |
+| Feats:               |[[Monster Feats#Ability Focus \|Ability Focus ]](poison), [[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |A evil-aligned plane |
 | Organization:        |Solitary, fright (2-4 swarms), or terror (5-8 swarms) |
 | Challenge Rating:    |8 |

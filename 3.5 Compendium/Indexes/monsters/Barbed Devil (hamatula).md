@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Barbed Devil (hamatula)
+title: 3.5 Compendium / Monsters / Barbed_Devil_(hamatula)
 aliases: 
  - Barbed Devil (hamatula)
 tags: 
  - 3.5e
  - rules
  - monsters
- - Barbed Devil (hamatula)
+ - Barbed_Devil_(hamatula)
+ - CR11
 type: Outsider
 subtypes: 
  - Evil
@@ -32,9 +33,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Fear, improved grab, impale 3d8+9, summon devil |
 | Special Qualities    |Barbed Defense, [[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  23, Spell-like Abilities, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 14, Ref: 14, Will: 12 |
+| Saves:               |Fort: +14, Ref: +14, Will: +12 |
 | Abilities:           |Str : 23,  Dex: 23,  Con: 23,  Int: 12,  Wis: 14,  Cha: 18 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 21, [[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Hide\|Hide]]: 21, [[Skill List#Intimidate\|Intimidate]]: 19, [[Skill List#Knowledge\|Knowledge]]: (any one) 16, [[Skill List#Listen\|Listen]]: 19, [[Skill List#Move Silently\|Move Silently]]: 21, [[Skill List#Search\|Search]]: 16, [[Skill List#Sense Motive\|Sense Motive]]: 17, [[Skill List#Spot\|Spot]]: 19, [[Skill List#Survival\|Survival]]: 2(4followingtracks)+2 (+4 following tracks); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +21, [[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Hide\|Hide]]: +21, [[Skill List#Intimidate\|Intimidate]]: +19, [[Skill List#Knowledge\|Knowledge]]: (any one) 16, [[Skill List#Listen\|Listen]]: +19, [[Skill List#Move Silently\|Move Silently]]: +21, [[Skill List#Search\|Search]]: +16, [[Skill List#Sense Motive\|Sense Motive]]: +17, [[Skill List#Spot\|Spot]]: +19, [[Skill List#Survival\|Survival]]: 2(4followingtracks)+2 (+4 following tracks); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Improved Grapple\|Improved Grapple]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary, pair, team (3-5), or squad (6-10) |

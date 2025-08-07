@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 7th-level Fighter Harpy Archer
+title: 3.5 Compendium / Monsters / 7th-level_Fighter_Harpy_Archer
 aliases: 
  - 7th-level Fighter Harpy Archer
 tags: 
  - 3.5e
  - rules
  - monsters
- - 7th-level Fighter Harpy Archer
+ - 7th-level_Fighter_Harpy_Archer
+ - CR11
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 11, Ref: 14, Will: 11 |
+| Saves:               |Fort: +11, Ref: +14, Will: +11 |
 | Abilities:           |Str : 12,  Dex: 20,  Con: 14,  Int: 6,  Wis: 11,  Cha: 19 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 11, [[Skill List#Intimidate\|Intimidate]]: 5, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Perform (oratory)\|Perform (oratory)]]: 10, [[Skill List#Spot\|Spot]]: 5; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +11, [[Skill List#Intimidate\|Intimidate]]: +5, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Perform (oratory)\|Perform (oratory)]]: +10, [[Skill List#Spot\|Spot]]: +5; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Critical \|Improved Critical ]](composite longbow), [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Manyshot\|Manyshot]], [[Feat List#Point Blank Shot\|Point Blank Shot]], [[Feat List#Rapid Shot\|Rapid Shot]], [[Feat List#Weapon Focus \|Weapon Focus ]](composite longbow), [[Feat List#Weapon Specialization \|Weapon Specialization ]](composite longbow); |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary |

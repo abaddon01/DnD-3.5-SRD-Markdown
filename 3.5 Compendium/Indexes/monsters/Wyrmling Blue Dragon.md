@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling Blue Dragon
+title: 3.5 Compendium / Monsters / Wyrmling_Blue_Dragon
 aliases: 
  - Wyrmling Blue Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrmling Blue Dragon
+ - Wyrmling_Blue_Dragon
+ - CR3
 type: Blue Dragon(Wyrmling)
 cr: 3
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Immunity To Electricity, Create/destroy Water; |
-| Saves:               |Fort: 6, Ref: 5, Will: 5 |
+| Saves:               |Fort: +6, Ref: +5, Will: +5 |
 | Abilities:           |Str: 13, Dex: 10, Con: 13, Int: 10, Wis: 11, Cha: 10 |
 | Skills:              |; |
 | Feats:               |; |

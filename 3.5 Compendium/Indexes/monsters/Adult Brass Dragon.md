@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult Brass Dragon
+title: 3.5 Compendium / Monsters / Adult_Brass_Dragon
 aliases: 
  - Adult Brass Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Adult Brass Dragon
+ - Adult_Brass_Dragon
+ - CR12
 type: Brass Dragon(Adult)
 cr: 12
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Suggestion; |
-| Saves:               |Fort: 15, Ref: 11, Will: 13 |
+| Saves:               |Fort: +15, Ref: +11, Will: +13 |
 | Abilities:           |Str: 23, Dex: 10, Con: 19, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

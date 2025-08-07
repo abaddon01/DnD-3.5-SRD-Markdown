@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Retriever
+ - CR11
 type: Construct
 subtypes: 
  - Extraplanar
@@ -30,10 +31,10 @@ alignment: Always chaotic evil
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Eye rays, find target, improved grab |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 3, Ref: 6, Will: 3 |
+| Saves:               |Fort: +3, Ref: +6, Will: +3 |
 | Abilities:           |Str : 31,  Dex: 17,  Con: -1,  Int: -1,  Wis: 11,  Cha: 1 |
 | Skills:              |; |
-| Feats:               |; |
+| Feats:               |[[Feat List#--\|--]]; |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary |
 | Challenge Rating:    |11 |

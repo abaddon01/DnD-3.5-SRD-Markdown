@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Old Brass Dragon
+title: 3.5 Compendium / Monsters / Old_Brass_Dragon
 aliases: 
  - Old Brass Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Old Brass Dragon
+ - Old_Brass_Dragon
+ - CR17
 type: Brass Dragon(Old)
 cr: 17
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Control Winds; |
-| Saves:               |Fort: 19, Ref: 14, Will: 17 |
+| Saves:               |Fort: +19, Ref: +14, Will: +17 |
 | Abilities:           |Str: 29, Dex: 10, Con: 21, Int: 16, Wis: 17, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

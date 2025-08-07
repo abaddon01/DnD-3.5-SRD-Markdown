@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Janni
+ - CR4
 type: Outsider
 subtypes: 
  - Native
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Change size, spell-like abilities |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Elemental Endurance, Plane Shift, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 6, Ref: 7, Will: 7 |
+| Saves:               |Fort: +6, Ref: +7, Will: +7 |
 | Abilities:           |Str : 16,  Dex: 15,  Con: 12,  Int: 14,  Wis: 15,  Cha: 13 |
-| Skills:              |[[Skill List#Appraise\|Appraise]]: 11, [[Skill List#Concentration\|Concentration]]: 10, [[Skill List#Craft\|Craft]]: (any two) 11, [[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Escape Artist\|Escape Artist]]: 6, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Ride\|Ride]]: 11, [[Skill List#Sense Motive\|Sense Motive]]: 11, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Use Rope\|Use Rope]]: 2(4withbindings)+2 (+4 with bindings); |
+| Skills:              |[[Skill List#Appraise\|Appraise]]: +11, [[Skill List#Concentration\|Concentration]]: +10, [[Skill List#Craft\|Craft]]: (any two) 11, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Escape Artist\|Escape Artist]]: +6, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Ride\|Ride]]: +11, [[Skill List#Sense Motive\|Sense Motive]]: +11, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Use Rope\|Use Rope]]: 2(4withbindings)+2 (+4 with bindings); |
 | Feats:               |[[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Mobility\|Mobility]]; |
 | Environment          |Warm deserts |
 | Organization:        |Solitary, company (2-4), or band (6-15) |

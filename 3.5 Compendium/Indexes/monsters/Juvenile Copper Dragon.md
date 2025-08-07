@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile Copper Dragon
+title: 3.5 Compendium / Monsters / Juvenile_Copper_Dragon
 aliases: 
  - Juvenile Copper Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile Copper Dragon
+ - Juvenile_Copper_Dragon
+ - CR9
 type: Copper Dragon(Juvenile)
 cr: 9
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 11, Ref: 9, Will: 11 |
+| Saves:               |Fort: +11, Ref: +9, Will: +11 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

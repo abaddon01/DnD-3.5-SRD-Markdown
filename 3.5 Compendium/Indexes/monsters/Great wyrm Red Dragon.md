@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Great wyrm Red Dragon
+title: 3.5 Compendium / Monsters / Great_wyrm_Red_Dragon
 aliases: 
  - Great wyrm Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Great wyrm Red Dragon
+ - Great_wyrm_Red_Dragon
+ - CR26
 type: Red Dragon(Great wyrm)
 cr: 26
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |30 ft./20 ft. (30 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Discern Location; |
-| Saves:               |Fort: 32, Ref: 22, Will: 30 |
+| Saves:               |Fort: +32, Ref: +22, Will: +30 |
 | Abilities:           |Str: 45, Dex: 10, Con: 31, Int: 26, Wis: 27, Cha: 26 |
 | Skills:              |; |
 | Feats:               |; |

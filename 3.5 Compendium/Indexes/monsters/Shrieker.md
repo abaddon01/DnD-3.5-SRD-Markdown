@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Shrieker
+ - CR1
 type: Plant
 cr: 1
 environment: Underground
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./0 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits; |
-| Saves:               |Fort: 4, Will: -4 |
+| Saves:               |Fort: +4, Will: -4 |
 | Abilities:           |Str : -1,  Dex: -1,  Con: 13,  Int: -1,  Wis: 2,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#--\|--]]; |

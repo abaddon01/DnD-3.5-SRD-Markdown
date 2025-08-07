@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hill Giant
+title: 3.5 Compendium / Monsters / Hill_Giant
 aliases: 
  - Hill Giant
 tags: 
  - 3.5e
  - rules
  - monsters
- - Hill Giant
+ - Hill_Giant
+ - CR7
 type: Giant
 cr: 7
 environment: Temperate hills
@@ -28,10 +29,10 @@ alignment: Often chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Rock throwing |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching; |
-| Saves:               |Fort: 12, Ref: 3, Will: 4 |
+| Saves:               |Fort: +12, Ref: +3, Will: +4 |
 | Abilities:           |Str : 25,  Dex: 8,  Con: 19,  Int: 6,  Wis: 10,  Cha: 7 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 7, [[Skill List#Jump\|Jump]]: 7, [[Skill List#Listen\|Listen]]: 3, [[Skill List#Spot\|Spot]]: 6; |
-| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +7, [[Skill List#Jump\|Jump]]: +7, [[Skill List#Listen\|Listen]]: +3, [[Skill List#Spot\|Spot]]: +6; |
+| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Weapon Focus \|Weapon Focus ]](greatclub); |
 | Environment          |Temperate hills |
 | Organization:        |Solitary, gang (2-5), band (6-9 plus 35% noncombatants), hunting/raiding party (6-9 plus 2-4 dire wolves), or tribe (21-30 plus 35% noncombatants plus 12-30 dire wolves, 2-4 ogres, and 12-22 orcs) |
 | Challenge Rating:    |7 |

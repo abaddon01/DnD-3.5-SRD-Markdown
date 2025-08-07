@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ethereal Marauder
+title: 3.5 Compendium / Monsters / Ethereal_Marauder
 aliases: 
  - Ethereal Marauder
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ethereal Marauder
+ - Ethereal_Marauder
+ - CR3
 type: Magical
 subtypes: 
  - Beast
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Ethereal Jaunt; |
-| Saves:               |Fort: 3, Ref: 4, Will: 1 |
+| Saves:               |Fort: +3, Ref: +4, Will: +1 |
 | Abilities:           |Str : 14,  Dex: 12,  Con: 11,  Int: 7,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 5, [[Skill List#Move Silently\|Move Silently]]: 5, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +5, [[Skill List#Move Silently\|Move Silently]]: +5, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Ethereal Plane |
 | Organization:        |Solitary |

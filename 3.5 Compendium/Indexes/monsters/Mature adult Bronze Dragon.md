@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Mature adult Bronze Dragon
+title: 3.5 Compendium / Monsters / Mature_adult_Bronze_Dragon
 aliases: 
  - Mature adult Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Mature adult Bronze Dragon
+ - Mature_adult_Bronze_Dragon
+ - CR17
 type: Bronze Dragon(Mature adult)
 cr: 17
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 10/magic; |
-| Saves:               |Fort: 19, Ref: 14, Will: 19 |
+| Saves:               |Fort: +19, Ref: +14, Will: +19 |
 | Abilities:           |Str: 29, Dex: 10, Con: 21, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

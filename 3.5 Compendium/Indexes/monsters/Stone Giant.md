@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Stone Giant
+title: 3.5 Compendium / Monsters / Stone_Giant
 aliases: 
  - Stone Giant
 tags: 
  - 3.5e
  - rules
  - monsters
- - Stone Giant
+ - Stone_Giant
+ - CR8 (elder 9)
 type: Giant
 subtypes: 
  - Earth
@@ -30,9 +31,9 @@ alignment: Usually neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Rock throwing |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching; |
-| Saves:               |Fort: 13, Ref: 6, Will: 7 |
+| Saves:               |Fort: +13, Ref: +6, Will: +7 |
 | Abilities:           |Str : 27,  Dex: 15,  Con: 19,  Int: 10,  Wis: 12,  Cha: 11 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 11, [[Skill List#Hide\|Hide]]: 6*, [[Skill List#Jump\|Jump]]: 11, [[Skill List#Spot\|Spot]]: 12; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +11, [[Skill List#Hide\|Hide]]: 6*, [[Skill List#Jump\|Jump]]: +11, [[Skill List#Spot\|Spot]]: +12; |
 | Feats:               |[[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Point Blank Shot\|Point Blank Shot]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Precise Shot\|Precise Shot]]; |
 | Environment          |Temperate mountains |
 | Organization:        |Solitary, gang (2-5), band (6-9 plus 35% noncombatants), hunting/raiding/trading party (6-9 plus 1 elder), or tribe (21-30 plus 35% noncombatants plus 1-3 elders and 3-6 dire bears) |

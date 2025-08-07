@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Purple Worm
+title: 3.5 Compendium / Monsters / Purple_Worm
 aliases: 
  - Purple Worm
 tags: 
  - 3.5e
  - rules
  - monsters
- - Purple Worm
+ - Purple_Worm
+ - CR12
 type: Magical
 subtypes: 
  - Beast
@@ -30,10 +31,10 @@ alignment: Always neutral
 | Space/Reach:         |20 ft./15ft. |
 | Special Attacks:     |Improved grab, swallow whole, poison |
 | Special Qualities    |[[Special Abilities#tremorsense\|Tremorsense]]  60 Ft.; |
-| Saves:               |Fort: 17, Ref: 8, Will: 4 |
+| Saves:               |Fort: +17, Ref: +8, Will: +4 |
 | Abilities:           |Str : 35,  Dex: 6,  Con: 25,  Int: 1,  Wis: 8,  Cha: 8 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 18, [[Skill List#Swim\|Swim]]: 20; |
-| Feats:               |[[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus\|Weapon Focus]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +18, [[Skill List#Swim\|Swim]]: +20; |
+| Feats:               |[[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Cleave\|Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite), [[Feat List#Weapon Focus \|Weapon Focus ]](sting); |
 | Environment          |Underground |
 | Organization:        |Solitary |
 | Challenge Rating:    |12 |

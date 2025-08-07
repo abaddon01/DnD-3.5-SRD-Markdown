@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Tiger
+title: 3.5 Compendium / Monsters / Dire_Tiger
 aliases: 
  - Dire Tiger
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Tiger
+ - Dire_Tiger
+ - CR8
 type: Animal
 cr: 8
 environment: Warm forests
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Improved grab, pounce, rake 2d4+4 |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 13, Ref: 12, Will: 11 |
+| Saves:               |Fort: +13, Ref: +12, Will: +11 |
 | Abilities:           |Str : 27,  Dex: 15,  Con: 17,  Int: 2,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 7*, [[Skill List#Jump\|Jump]]: 14, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Move Silently\|Move Silently]]: 11, [[Skill List#Spot\|Spot]]: 7, [[Skill List#Swim\|Swim]]: 10; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Improved Natural Attack\|Improved Natural Attack]], [[Monster Feats#Improved Natural Attack\|Improved Natural Attack]], [[Feat List#Run\|Run]], [[Feat List#Stealthy\|Stealthy]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 7*, [[Skill List#Jump\|Jump]]: +14, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Swim\|Swim]]: +10; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Improved Natural Attack \|Improved Natural Attack ]](claw), [[Monster Feats#Improved Natural Attack \|Improved Natural Attack ]](bite), [[Feat List#Run\|Run]], [[Feat List#Stealthy\|Stealthy]], [[Feat List#Weapon Focus \|Weapon Focus ]](claw); |
 | Environment          |Warm forests |
 | Organization:        |Solitary or pair |
 | Challenge Rating:    |8 |

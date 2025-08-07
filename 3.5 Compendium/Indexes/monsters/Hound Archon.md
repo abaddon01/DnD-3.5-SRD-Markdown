@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hound Archon
+title: 3.5 Compendium / Monsters / Hound_Archon
 aliases: 
  - Hound Archon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Hound Archon
+ - Hound_Archon
+ - CR4
 type: Outsider
 subtypes: 
  - Archon
@@ -33,9 +34,9 @@ alignment: Always lawful good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities |
 | Special Qualities    |Aura Of Menace, Change Shape, [[Special Abilities#damage reduction\|Damage Reduction]]  10/evil, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Magic Circle Against Evil, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  16, Teleport, Tongues; |
-| Saves:               |Fort: 6 (10 against poison), Ref: 5, Will: 6 |
+| Saves:               |Fort: 6 (10 against poison), Ref: +5, Will: +6 |
 | Abilities:           |Str : 15,  Dex: 10,  Con: 13,  Int: 10,  Wis: 13,  Cha: 12 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 10, [[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Hide\|Hide]]: 9*, [[Skill List#Jump\|Jump]]: 15, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Move Silently\|Move Silently]]: 9, [[Skill List#Sense Motive\|Sense Motive]]: 10, [[Skill List#Spot\|Spot]]: 10, [[Skill List#Survival\|Survival]]: 10*(12followingtracks)+10* (+12 following tracks); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +10, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Hide\|Hide]]: 9*, [[Skill List#Jump\|Jump]]: +15, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Move Silently\|Move Silently]]: +9, [[Skill List#Sense Motive\|Sense Motive]]: +10, [[Skill List#Spot\|Spot]]: +10, [[Skill List#Survival\|Survival]]: 10*(12followingtracks)+10* (+12 following tracks); |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Track\|Track]]; |
 | Environment          |A lawful good-aligned plane |
 | Organization:        |Solitary, pair, or squad (3-5) |

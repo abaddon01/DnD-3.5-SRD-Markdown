@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Will-o’-wisp
+ - CR6
 type: Aberration
 subtypes: 
  - Air
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#invisibility\|Natural Invisibility]] ; |
-| Saves:               |Fort: 3, Ref: 12, Will: 9 |
+| Saves:               |Fort: +3, Ref: +12, Will: +9 |
 | Abilities:           |Str : 1,  Dex: 29,  Con: 10,  Int: 15,  Wis: 16,  Cha: 12 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 13, [[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Disguise\|Disguise]]: +1 (+3 acting) , [[Skill List#Intimidate\|Intimidate]]: 3, [[Skill List#Listen\|Listen]]: 17, [[Skill List#Search\|Search]]: 14, [[Skill List#Spot\|Spot]]: 17, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +13, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Disguise\|Disguise]]: +1 (+3 acting) , [[Skill List#Intimidate\|Intimidate]]: +3, [[Skill List#Listen\|Listen]]: +17, [[Skill List#Search\|Search]]: +14, [[Skill List#Spot\|Spot]]: +17, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary, pair, or string (3-4) |

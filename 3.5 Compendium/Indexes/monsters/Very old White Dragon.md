@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very old White Dragon
+title: 3.5 Compendium / Monsters / Very_old_White_Dragon
 aliases: 
  - Very old White Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very old White Dragon
+ - Very_old_White_Dragon
+ - CR17
 type: White Dragon(Very old)
 cr: 17
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 15/magic; |
-| Saves:               |Fort: 21, Ref: 15, Will: 17 |
+| Saves:               |Fort: +21, Ref: +15, Will: +17 |
 | Abilities:           |Str: 31, Dex: 10, Con: 23, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

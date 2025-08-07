@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Magmin
+ - CR3
 type: Elemental
 subtypes: 
  - Fire
@@ -31,9 +32,9 @@ alignment: Always chaotic neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Combustion, fiery aura |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Melt Weapons, Vulnerability To Cold; |
-| Saves:               |Fort: 3, Ref: 3, Will: 0 |
+| Saves:               |Fort: +3, Ref: +3, Will: 0 |
 | Abilities:           |Str : 15,  Dex: 11,  Con: 13,  Int: 8,  Wis: 10,  Cha: 10 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 4, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +4, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Great Fortitude\|Great Fortitude]]; |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary, gang (2-4), or squad (6-10) |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ancient Red Dragon
+title: 3.5 Compendium / Monsters / Ancient_Red_Dragon
 aliases: 
  - Ancient Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ancient Red Dragon
+ - Ancient_Red_Dragon
+ - CR23
 type: Red Dragon(Ancient)
 cr: 23
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Find The Path; |
-| Saves:               |Fort: 28, Ref: 19, Will: 26 |
+| Saves:               |Fort: +28, Ref: +19, Will: +26 |
 | Abilities:           |Str: 39, Dex: 10, Con: 29, Int: 24, Wis: 25, Cha: 24 |
 | Skills:              |; |
 | Feats:               |; |

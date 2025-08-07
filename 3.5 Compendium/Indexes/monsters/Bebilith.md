@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Bebilith
+ - CR10
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Poison, rend armor, web |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Plane Shift, [[Special Abilities#scent\|Scent]] , [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 16, Ref: 9, Will: 9 |
+| Saves:               |Fort: +16, Ref: +9, Will: +9 |
 | Abilities:           |Str : 28,  Dex: 12,  Con: 26,  Int: 11,  Wis: 13,  Cha: 13 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 24, [[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Hide\|Hide]]: 16, [[Skill List#Jump\|Jump]]: 28, [[Skill List#Listen\|Listen]]: 16, [[Skill List#Move Silently\|Move Silently]]: 16, [[Skill List#Search\|Search]]: 15, [[Skill List#Sense Motive\|Sense Motive]]: 16, [[Skill List#Spot\|Spot]]: 16, [[Skill List#Survival\|Survival]]: 1(3followingtracks)+1 (+3 following tracks); |
+| Skills:              |[[Skill List#Climb\|Climb]]: +24, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Hide\|Hide]]: +16, [[Skill List#Jump\|Jump]]: +28, [[Skill List#Listen\|Listen]]: +16, [[Skill List#Move Silently\|Move Silently]]: +16, [[Skill List#Search\|Search]]: +15, [[Skill List#Sense Motive\|Sense Motive]]: +16, [[Skill List#Spot\|Spot]]: +16, [[Skill List#Survival\|Survival]]: 1(3followingtracks)+1 (+3 following tracks); |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Improved Grapple\|Improved Grapple]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Track\|Track]]; |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary |

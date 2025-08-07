@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Horned Devil (cornugon)
+title: 3.5 Compendium / Monsters / Horned_Devil_(cornugon)
 aliases: 
  - Horned Devil (cornugon)
 tags: 
  - 3.5e
  - rules
  - monsters
- - Horned Devil (cornugon)
+ - Horned_Devil_(cornugon)
+ - CR16
 type: Outsider
 subtypes: 
  - Evil
@@ -32,10 +33,10 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./10 ft. (20 ft. with spiked chain) |
 | Special Attacks:     |Fear aura, infernal wound, spell-like abilities, stun, summon devil |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/good And Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, [[Special Abilities#regeneration\|Regeneration]]  5, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  28, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 16, Ref: 16, Will: 15 |
+| Saves:               |Fort: +16, Ref: +16, Will: +15 |
 | Abilities:           |Str : 31,  Dex: 25,  Con: 25,  Int: 14,  Wis: 18,  Cha: 22 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 24, [[Skill List#Climb\|Climb]]: 28, [[Skill List#Concentration\|Concentration]]: 24, [[Skill List#Diplomacy\|Diplomacy]]: 10, [[Skill List#Disguise\|Disguise]]: +6 (+8 acting) , [[Skill List#Hide\|Hide]]: 21, [[Skill List#Intimidate\|Intimidate]]: 26, [[Skill List#Listen\|Listen]]: 22, [[Skill List#Move Silently\|Move Silently]]: 23, [[Skill List#Search\|Search]]: 20, [[Skill List#Sense Motive\|Sense Motive]]: 22, [[Skill List#Spot\|Spot]]: 22, [[Skill List#Survival\|Survival]]: 4(6followingtracks)+4 (+6 following tracks); |
-| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Iron Will\|Iron Will]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +24, [[Skill List#Climb\|Climb]]: +28, [[Skill List#Concentration\|Concentration]]: +24, [[Skill List#Diplomacy\|Diplomacy]]: +10, [[Skill List#Disguise\|Disguise]]: +6 (+8 acting) , [[Skill List#Hide\|Hide]]: +21, [[Skill List#Intimidate\|Intimidate]]: +26, [[Skill List#Listen\|Listen]]: +22, [[Skill List#Move Silently\|Move Silently]]: +23, [[Skill List#Search\|Search]]: +20, [[Skill List#Sense Motive\|Sense Motive]]: +22, [[Skill List#Spot\|Spot]]: +22, [[Skill List#Survival\|Survival]]: 4(6followingtracks)+4 (+6 following tracks); |
+| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Iron Will\|Iron Will]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus \|Weapon Focus ]](spiked chain); |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary, team (2-4), or squad (6-10) |
 | Challenge Rating:    |16 |

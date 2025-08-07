@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ancient Copper Dragon
+title: 3.5 Compendium / Monsters / Ancient_Copper_Dragon
 aliases: 
  - Ancient Copper Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ancient Copper Dragon
+ - Ancient_Copper_Dragon
+ - CR22
 type: Copper Dragon(Ancient)
 cr: 22
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Wall Of Stone; |
-| Saves:               |Fort: 24, Ref: 18, Will: 23 |
+| Saves:               |Fort: +24, Ref: +18, Will: +23 |
 | Abilities:           |Str: 33, Dex: 10, Con: 23, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

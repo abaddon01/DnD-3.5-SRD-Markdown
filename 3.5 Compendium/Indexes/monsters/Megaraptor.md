@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Megaraptor
+ - CR6
 type: Animal
 cr: 6
 environment: Warm forests
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Pounce |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 10, Ref: 8, Will: 4 |
+| Saves:               |Fort: +10, Ref: +8, Will: +4 |
 | Abilities:           |Str : 21,  Dex: 15,  Con: 21,  Int: 2,  Wis: 15,  Cha: 10 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 9, [[Skill List#Jump\|Jump]]: 27, [[Skill List#Listen\|Listen]]: 12, [[Skill List#Spot\|Spot]]: 12, [[Skill List#Survival\|Survival]]: 12; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +9, [[Skill List#Jump\|Jump]]: +27, [[Skill List#Listen\|Listen]]: +12, [[Skill List#Spot\|Spot]]: +12, [[Skill List#Survival\|Survival]]: +12; |
 | Feats:               |[[Feat List#Run\|Run]], [[Feat List#Toughness\|Toughness]], [[Feat List#Track\|Track]]; |
 | Environment          |Warm forests |
 | Organization:        |Solitary, pair, or pack (3-6) |

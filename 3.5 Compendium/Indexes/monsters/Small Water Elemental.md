@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small Water Elemental
+title: 3.5 Compendium / Monsters / Small_Water_Elemental
 aliases: 
  - Small Water Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Small Water Elemental
+ - Small_Water_Elemental
+ - CR1
 type: Elemental
 subtypes: 
  - Water
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 4, Ref: 0, Will: 0 |
+| Saves:               |Fort: +4, Ref: 0, Will: 0 |
 | Abilities:           |Str : 14,  Dex: 10,  Con: 13,  Int: 4,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 2, [[Skill List#Spot\|Spot]]: 3; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +2, [[Skill List#Spot\|Spot]]: +3; |
 | Feats:               |[[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Water |
 | Organization:        |Solitary |

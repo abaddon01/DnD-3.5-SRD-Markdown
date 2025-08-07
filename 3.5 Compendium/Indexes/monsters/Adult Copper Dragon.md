@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult Copper Dragon
+title: 3.5 Compendium / Monsters / Adult_Copper_Dragon
 aliases: 
  - Adult Copper Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Adult Copper Dragon
+ - Adult_Copper_Dragon
+ - CR14
 type: Copper Dragon(Adult)
 cr: 14
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Stone Shape; |
-| Saves:               |Fort: 16, Ref: 12, Will: 15 |
+| Saves:               |Fort: +16, Ref: +12, Will: +15 |
 | Abilities:           |Str: 23, Dex: 10, Con: 19, Int: 16, Wis: 17, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

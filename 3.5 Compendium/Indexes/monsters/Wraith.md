@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Wraith
+ - CR5
 type: Undead
 subtypes: 
  - Incorporeal
@@ -30,9 +31,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Daylight Powerlessness, Incorporeal Traits, +2 Turn Resistance, [[Traits#undead traits\|Undead Traits]] , Unnatural Aura; |
-| Saves:               |Fort: 1, Ref: 4, Will: 6 |
+| Saves:               |Fort: +1, Ref: +4, Will: +6 |
 | Abilities:           |Str : -1,  Dex: 16,  Con: -1,  Int: 14,  Wis: 14,  Cha: 15 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Hide\|Hide]]: 11, [[Skill List#Intimidate\|Intimidate]]: 10, [[Skill List#Listen\|Listen]]: 12, [[Skill List#Search\|Search]]: 10, [[Skill List#Sense Motive\|Sense Motive]]: 8, [[Skill List#Spot\|Spot]]: 12, [[Skill List#Survival\|Survival]]: 2 (+4 following tracks); |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Hide\|Hide]]: +11, [[Skill List#Intimidate\|Intimidate]]: +10, [[Skill List#Listen\|Listen]]: +12, [[Skill List#Search\|Search]]: +10, [[Skill List#Sense Motive\|Sense Motive]]: +8, [[Skill List#Spot\|Spot]]: +12, [[Skill List#Survival\|Survival]]: 2 (+4 following tracks); |
 | Feats:               |[[Feat List#Alertness \|Alertness ]](B), [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Initiative \|Improved Initiative ]](B); |
 | Environment          |Any |
 | Organization:        |Solitary, gang (2-5), or pack (6-11) |

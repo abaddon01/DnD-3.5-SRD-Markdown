@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very young Silver Dragon
+title: 3.5 Compendium / Monsters / Very_young_Silver_Dragon
 aliases: 
  - Very young Silver Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very young Silver Dragon
+ - Very_young_Silver_Dragon
+ - CR5
 type: Silver Dragon(Very young)
 cr: 5
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 9, Ref: 7, Will: 9 |
+| Saves:               |Fort: +9, Ref: +7, Will: +9 |
 | Abilities:           |Str: 15, Dex: 10, Con: 15, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

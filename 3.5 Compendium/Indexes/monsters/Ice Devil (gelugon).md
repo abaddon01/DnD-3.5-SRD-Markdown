@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ice Devil (gelugon)
+title: 3.5 Compendium / Monsters / Ice_Devil_(gelugon)
 aliases: 
  - Ice Devil (gelugon)
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ice Devil (gelugon)
+ - Ice_Devil_(gelugon)
+ - CR13
 type: Outsider
 subtypes: 
  - Evil
@@ -32,10 +33,10 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Fear aura, slow, spell-like abilities, summon devil |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Cold 10, [[Special Abilities#regeneration\|Regeneration]]  5, See In Darkness, [[Special Abilities#spell resistance\|Spell Resistance]]  25, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 15, Ref: 14, Will: 15 |
+| Saves:               |Fort: +15, Ref: +14, Will: +15 |
 | Abilities:           |Str : 23,  Dex: 21,  Con: 23,  Int: 22,  Wis: 22,  Cha: 20 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 22, [[Skill List#Climb\|Climb]]: 23, [[Skill List#Concentration\|Concentration]]: 23, [[Skill List#Diplomacy\|Diplomacy]]: 9, [[Skill List#Disguise\|Disguise]]: +5 (+7 acting) , [[Skill List#Intimidate\|Intimidate]]: 24, [[Skill List#Jump\|Jump]]: 27, [[Skill List#Knowledge\|Knowledge]]: (any three) 23, [[Skill List#Listen\|Listen]]: 25, [[Skill List#Move Silently\|Move Silently]]: 22, [[Skill List#Search\|Search]]: 23, [[Skill List#Sense Motive\|Sense Motive]]: 23, [[Skill List#Spellcraft\|Spellcraft]]: 23, [[Skill List#Spot\|Spot]]: 25, [[Skill List#Survival\|Survival]]: 6(8followingtracks)+6 (+8 following tracks); |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +22, [[Skill List#Climb\|Climb]]: +23, [[Skill List#Concentration\|Concentration]]: +23, [[Skill List#Diplomacy\|Diplomacy]]: +9, [[Skill List#Disguise\|Disguise]]: +5 (+7 acting) , [[Skill List#Intimidate\|Intimidate]]: +24, [[Skill List#Jump\|Jump]]: +27, [[Skill List#Knowledge\|Knowledge]]: (any three) 23, [[Skill List#Listen\|Listen]]: +25, [[Skill List#Move Silently\|Move Silently]]: +22, [[Skill List#Search\|Search]]: +23, [[Skill List#Sense Motive\|Sense Motive]]: +23, [[Skill List#Spellcraft\|Spellcraft]]: +23, [[Skill List#Spot\|Spot]]: +25, [[Skill List#Survival\|Survival]]: 6(8followingtracks)+6 (+8 following tracks); |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Weapon Focus \|Weapon Focus ]](spear); |
 | Environment          |A lawful evil-aligned plane |
 | Organization:        |Solitary, team (2-4), squad (6-10), or troupe (1-2 ice devils, 7-12 bearded devils, and 1-4 bone devils) |
 | Challenge Rating:    |13 |

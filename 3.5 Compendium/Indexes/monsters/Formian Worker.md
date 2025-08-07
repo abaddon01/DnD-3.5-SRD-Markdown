@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Formian Worker
+title: 3.5 Compendium / Monsters / Formian_Worker
 aliases: 
  - Formian Worker
 tags: 
  - 3.5e
  - rules
  - monsters
- - Formian Worker
+ - Formian_Worker
+ - CR0.5
 type: Outsider
 subtypes: 
  - Lawful
@@ -31,9 +32,9 @@ alignment: Always lawful neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Cure Serious Wounds, Hive Mind, Immunity To Poison, Petrification, And Cold, Make Whole, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10, Fire 10, And Sonic 10; |
-| Saves:               |Fort: 3, Ref: 4, Will: 2 |
+| Saves:               |Fort: +3, Ref: +4, Will: +2 |
 | Abilities:           |Str : 13,  Dex: 14,  Con: 13,  Int: 6,  Wis: 10,  Cha: 9 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 10, [[Skill List#Craft (any one)\|Craft (any one)]]: 5, [[Skill List#Hide\|Hide]]: 6, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Search\|Search]]: 2, [[Skill List#Spot\|Spot]]: 4; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +10, [[Skill List#Craft (any one)\|Craft (any one)]]: +5, [[Skill List#Hide\|Hide]]: +6, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Search\|Search]]: +2, [[Skill List#Spot\|Spot]]: +4; |
 | Feats:               |[[Feat List#Skill Focus \|Skill Focus ]](Craft [selected skill]); |
 | Environment          |A lawful-aligned plane |
 | Organization:        |Team (2-4) or crew (7-18) |

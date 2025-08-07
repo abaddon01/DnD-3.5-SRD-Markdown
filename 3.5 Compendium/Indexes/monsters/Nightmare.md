@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Nightmare
+ - CR5
 type: Outsider
 subtypes: 
  - Evil
@@ -31,9 +32,9 @@ alignment: Always neutral evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Flaming hooves, smoke |
 | Special Qualities    |Astral Projection, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#etherealness\|Etherealness]] ; |
-| Saves:               |Fort: 8, Ref: 7, Will: 6 |
+| Saves:               |Fort: +8, Ref: +7, Will: +6 |
 | Abilities:           |Str : 18,  Dex: 15,  Con: 16,  Int: 13,  Wis: 13,  Cha: 12 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 12, [[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Intimidate\|Intimidate]]: 10, [[Skill List#Knowledge\|Knowledge]]: (the planes) 10, [[Skill List#Listen\|Listen]]: 12, [[Skill List#Move Silently\|Move Silently]]: 11, [[Skill List#Search\|Search]]: 10, [[Skill List#Sense Motive\|Sense Motive]]: 10, [[Skill List#Spot\|Spot]]: 12, [[Skill List#Survival\|Survival]]: 10(12onotherplanesandfollowingtracks)+10 (+12 on other planes and following tracks); |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +12, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Intimidate\|Intimidate]]: +10, [[Skill List#Knowledge\|Knowledge]]: (the planes) 10, [[Skill List#Listen\|Listen]]: +12, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Search\|Search]]: +10, [[Skill List#Sense Motive\|Sense Motive]]: +10, [[Skill List#Spot\|Spot]]: +12, [[Skill List#Survival\|Survival]]: 10(12onotherplanesandfollowingtracks)+10 (+12 on other planes and following tracks); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Run\|Run]]; |
 | Environment          |A evil-aligned plane |
 | Organization:        |Solitary Solitary |

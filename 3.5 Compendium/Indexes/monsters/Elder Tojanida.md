@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder Tojanida
+title: 3.5 Compendium / Monsters / Elder_Tojanida
 aliases: 
  - Elder Tojanida
 tags: 
  - 3.5e
  - rules
  - monsters
- - Elder Tojanida
+ - Elder_Tojanida
+ - CR9
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |All-around Vision, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Acid And Cold, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10 And Fire 10; |
-| Saves:               |Fort: 13, Ref: 10, Will: 10 |
+| Saves:               |Fort: +13, Ref: +10, Will: +10 |
 | Abilities:           |Str : 22,  Dex: 13,  Con: 19,  Int: 10,  Wis: 12,  Cha: 9 |
-| Skills:              |[[Skill List#Escape Artist\|Escape Artist]]: 19, [[Skill List#Hide\|Hide]]: 15, [[Skill List#Intimidate\|Intimidate]]: 17, [[Skill List#Knowledge (the Planes)\|Knowledge (the Planes)]]: 18, [[Skill List#Listen\|Listen]]: 21, [[Skill List#Search\|Search]]: 22, [[Skill List#Sense Motive\|Sense Motive]]: 17, [[Skill List#Spot\|Spot]]: 25, [[Skill List#Survival\|Survival]]: 1 (+3 other planes and following tracks), [[Skill List#Swim\|Swim]]: 14, [[Skill List#Use Rope\|Use Rope]]: 1 (+3 with bindings); |
+| Skills:              |[[Skill List#Escape Artist\|Escape Artist]]: +19, [[Skill List#Hide\|Hide]]: +15, [[Skill List#Intimidate\|Intimidate]]: +17, [[Skill List#Knowledge (the Planes)\|Knowledge (the Planes)]]: +18, [[Skill List#Listen\|Listen]]: +21, [[Skill List#Search\|Search]]: +22, [[Skill List#Sense Motive\|Sense Motive]]: +17, [[Skill List#Spot\|Spot]]: +25, [[Skill List#Survival\|Survival]]: 1 (+3 other planes and following tracks), [[Skill List#Swim\|Swim]]: +14, [[Skill List#Use Rope\|Use Rope]]: 1 (+3 with bindings); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Dodge\|Dodge]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Water |
 | Organization:        |Solitary or clutch (2-4) |

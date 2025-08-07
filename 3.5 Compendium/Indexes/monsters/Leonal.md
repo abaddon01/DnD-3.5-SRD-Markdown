@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Leonal
+ - CR12
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,10 +32,10 @@ alignment: Always neutral good
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Roar, pounce, improved grab, rake 1d6+8, spell-like abilities |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/evil And Silver, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Petrification, Lay On Hands, [[Special Abilities#low-light vision\|Low-light Vision]] , Protective Aura, [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10 And Sonic 10, Speak With Animals, [[Special Abilities#spell resistance\|Spell Resistance]]  28; |
-| Saves:               |Fort: 13 (17 against poison), Ref: 11, Will: 10 |
+| Saves:               |Fort: 13 (17 against poison), Ref: +11, Will: +10 |
 | Abilities:           |Str : 27,  Dex: 17,  Con: 20,  Int: 14,  Wis: 14,  Cha: 15 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 22, [[Skill List#Concentration\|Concentration]]: 12, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Hide\|Hide]]: 22, [[Skill List#Intimidate\|Intimidate]]: 10, [[Skill List#Jump\|Jump]]: 35, [[Skill List#Knowledge\|Knowledge]]: (any) 17, [[Skill List#Listen\|Listen]]: 17, [[Skill List#Move Silently\|Move Silently]]: 22, [[Skill List#Sense Motive\|Sense Motive]]: 17, [[Skill List#Spot\|Spot]]: 17, [[Skill List#Survival\|Survival]]: 17; |
-| Feats:               |[[Monster Feats#Ability Focus\|Ability Focus]], [[Feat List#Dodge\|Dodge]], [[Feat List#Mobility\|Mobility]], [[Feat List#Spring Attack\|Spring Attack]], [[Feat List#Track\|Track]]; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +22, [[Skill List#Concentration\|Concentration]]: +12, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Hide\|Hide]]: +22, [[Skill List#Intimidate\|Intimidate]]: +10, [[Skill List#Jump\|Jump]]: +35, [[Skill List#Knowledge\|Knowledge]]: (any) 17, [[Skill List#Listen\|Listen]]: +17, [[Skill List#Move Silently\|Move Silently]]: +22, [[Skill List#Sense Motive\|Sense Motive]]: +17, [[Skill List#Spot\|Spot]]: +17, [[Skill List#Survival\|Survival]]: +17; |
+| Feats:               |[[Monster Feats#Ability Focus \|Ability Focus ]](roar), [[Feat List#Dodge\|Dodge]], [[Feat List#Mobility\|Mobility]], [[Feat List#Spring Attack\|Spring Attack]], [[Feat List#Track\|Track]]; |
 | Environment          |A good-aligned plane. |
 | Organization:        |Solitary or pride (4-9) |
 | Challenge Rating:    |12 |

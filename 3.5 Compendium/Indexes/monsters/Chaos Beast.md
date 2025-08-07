@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Chaos Beast
+title: 3.5 Compendium / Monsters / Chaos_Beast
 aliases: 
  - Chaos Beast
 tags: 
  - 3.5e
  - rules
  - monsters
- - Chaos Beast
+ - Chaos_Beast
+ - CR7
 type: Outsider
 subtypes: 
  - Chaotic
@@ -31,9 +32,9 @@ alignment: Always chaotic neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Corporeal instability |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Critical Hits And Transformation, [[Special Abilities#spell resistance\|Spell Resistance]]  15; |
-| Saves:               |Fort: 7, Ref: 7, Will: 6 |
+| Saves:               |Fort: +7, Ref: +7, Will: +6 |
 | Abilities:           |Str : 14,  Dex: 13,  Con: 13,  Int: 10,  Wis: 10,  Cha: 10 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 13, [[Skill List#Escape Artist\|Escape Artist]]: 12, [[Skill List#Hide\|Hide]]: 12, [[Skill List#Jump\|Jump]]: 9, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Search\|Search]]: 11, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Survival\|Survival]]: +0 (+2 following tracks) , [[Skill List#Tumble\|Tumble]]: 14, [[Skill List#Use Rope\|Use Rope]]: 1(3withbindings)+1 (+3 with bindings); |
+| Skills:              |[[Skill List#Climb\|Climb]]: +13, [[Skill List#Escape Artist\|Escape Artist]]: +12, [[Skill List#Hide\|Hide]]: +12, [[Skill List#Jump\|Jump]]: +9, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Search\|Search]]: +11, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Survival\|Survival]]: +0 (+2 following tracks) , [[Skill List#Tumble\|Tumble]]: +14, [[Skill List#Use Rope\|Use Rope]]: 1(3withbindings)+1 (+3 with bindings); |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Mobility\|Mobility]]; |
 | Environment          |Ever-Changing Chaos of Limbo |
 | Organization:        |Solitary |

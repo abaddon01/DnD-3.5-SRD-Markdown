@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile Green Dragon
+title: 3.5 Compendium / Monsters / Juvenile_Green_Dragon
 aliases: 
  - Juvenile Green Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Juvenile Green Dragon
+ - Juvenile_Green_Dragon
+ - CR8
 type: Green Dragon(Juvenile)
 cr: 8
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 12, Ref: 9, Will: 11 |
+| Saves:               |Fort: +12, Ref: +9, Will: +11 |
 | Abilities:           |Str: 19, Dex: 10, Con: 17, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrm Black Dragon
+title: 3.5 Compendium / Monsters / Wyrm_Black_Dragon
 aliases: 
  - Wyrm Black Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrm Black Dragon
+ - Wyrm_Black_Dragon
+ - CR20
 type: Black Dragon(Wyrm)
 cr: 20
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 20/magic; |
-| Saves:               |Fort: 26, Ref: 19, Will: 23 |
+| Saves:               |Fort: +26, Ref: +19, Will: +23 |
 | Abilities:           |Str: 35, Dex: 10, Con: 25, Int: 18, Wis: 19, Cha: 18 |
 | Skills:              |; |
 | Feats:               |; |

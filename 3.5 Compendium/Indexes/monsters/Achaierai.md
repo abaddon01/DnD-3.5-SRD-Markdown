@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Achaierai
+ - CR5
 type: Outsider
 subtypes: 
  - Evil
@@ -32,9 +33,9 @@ alignment: Always lawful evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Black cloud |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  19; |
-| Saves:               |Fort: 7, Ref: 6, Will: 7 |
+| Saves:               |Fort: +7, Ref: +6, Will: +7 |
 | Abilities:           |Str : 19,  Dex: 13,  Con: 14,  Int: 11,  Wis: 14,  Cha: 16 |
-| Skills:              |[[Skill List#Balance\|Balance]]: 10, [[Skill List#Climb\|Climb]]: 13, [[Skill List#Diplomacy\|Diplomacy]]: 5, [[Skill List#Hide\|Hide]]: 6, [[Skill List#Jump\|Jump]]: 21, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Move Silently\|Move Silently]]: 10, [[Skill List#Sense Motive\|Sense Motive]]: 11, [[Skill List#Spot\|Spot]]: 11; |
+| Skills:              |[[Skill List#Balance\|Balance]]: +10, [[Skill List#Climb\|Climb]]: +13, [[Skill List#Diplomacy\|Diplomacy]]: +5, [[Skill List#Hide\|Hide]]: +6, [[Skill List#Jump\|Jump]]: +21, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +10, [[Skill List#Sense Motive\|Sense Motive]]: +11, [[Skill List#Spot\|Spot]]: +11; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Mobility\|Mobility]], [[Feat List#Spring Attack\|Spring Attack]]; |
 | Environment          |A lawful-aligned plane |
 | Organization:        |Solitary or flock (5-8) |

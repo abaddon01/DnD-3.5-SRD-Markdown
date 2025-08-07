@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young Gold Dragon
+title: 3.5 Compendium / Monsters / Young_Gold_Dragon
 aliases: 
  - Young Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young Gold Dragon
+ - Young_Gold_Dragon
+ - CR9
 type: Gold Dragon(Young)
 cr: 9
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 12, Ref: 9, Will: 12 |
+| Saves:               |Fort: +12, Ref: +9, Will: +12 |
 | Abilities:           |Str: 25, Dex: 10, Con: 17, Int: 16, Wis: 17, Cha: 16 |
 | Skills:              |; |
 | Feats:               |; |

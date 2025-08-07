@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Manticore
+ - CR5
 type: Magical
 subtypes: 
  - Beast
@@ -30,10 +31,10 @@ alignment: Usually lawful evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Spikes |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 9, Ref: 7, Will: 3 |
+| Saves:               |Fort: +9, Ref: +7, Will: +3 |
 | Abilities:           |Str : 20,  Dex: 15,  Con: 19,  Int: 7,  Wis: 12,  Cha: 9 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 5, [[Skill List#Spot\|Spot]]: 9, [[Skill List#Survival\|Survival]]: 1; |
-| Feats:               |[[Monster Feats#Flyby Attack\|Flyby Attack]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Track \|Track ]](B), [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +9, [[Skill List#Survival\|Survival]]: +1; |
+| Feats:               |[[Monster Feats#Flyby Attack\|Flyby Attack]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Track \|Track ]](B), [[Feat List#Weapon Focus \|Weapon Focus ]](spikes); |
 | Environment          |Warm marshes |
 | Organization:        |Solitary, pair, or pride (3-6) |
 | Challenge Rating:    |5 |

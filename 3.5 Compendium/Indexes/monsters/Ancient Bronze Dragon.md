@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ancient Bronze Dragon
+title: 3.5 Compendium / Monsters / Ancient_Bronze_Dragon
 aliases: 
  - Ancient Bronze Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ancient Bronze Dragon
+ - Ancient_Bronze_Dragon
+ - CR22
 type: Bronze Dragon(Ancient)
 cr: 22
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Control Water; |
-| Saves:               |Fort: 25, Ref: 18, Will: 25 |
+| Saves:               |Fort: +25, Ref: +18, Will: +25 |
 | Abilities:           |Str: 35, Dex: 10, Con: 25, Int: 24, Wis: 25, Cha: 24 |
 | Skills:              |; |
 | Feats:               |; |

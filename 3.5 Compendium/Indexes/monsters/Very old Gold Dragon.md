@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very old Gold Dragon
+title: 3.5 Compendium / Monsters / Very_old_Gold_Dragon
 aliases: 
  - Very old Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very old Gold Dragon
+ - Very_old_Gold_Dragon
+ - CR22
 type: Gold Dragon(Very old)
 cr: 22
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 15/magic; |
-| Saves:               |Fort: 26, Ref: 18, Will: 26 |
+| Saves:               |Fort: +26, Ref: +18, Will: +26 |
 | Abilities:           |Str: 41, Dex: 10, Con: 27, Int: 26, Wis: 27, Cha: 26 |
 | Skills:              |; |
 | Feats:               |; |

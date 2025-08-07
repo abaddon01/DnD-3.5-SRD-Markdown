@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Girallon
+ - CR6
 type: Magical
 subtypes: 
  - Beast
@@ -30,10 +31,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Rend 2d4+9 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 7, Ref: 8, Will: 5 |
+| Saves:               |Fort: +7, Ref: +8, Will: +5 |
 | Abilities:           |Str : 22,  Dex: 17,  Con: 14,  Int: 2,  Wis: 12,  Cha: 7 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 14, [[Skill List#Move Silently\|Move Silently]]: 8, [[Skill List#Spot\|Spot]]: 6; |
-| Feats:               |[[Feat List#Iron Will\|Iron Will]], [[Feat List#Toughness\|Toughness]]; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +14, [[Skill List#Move Silently\|Move Silently]]: +8, [[Skill List#Spot\|Spot]]: +6; |
+| Feats:               |[[Feat List#Iron Will\|Iron Will]], [[Feat List#Toughness \|Toughness ]](2); |
 | Environment          |Warm forests |
 | Organization:        |Solitary or company (5-8) |
 | Challenge Rating:    |6 |

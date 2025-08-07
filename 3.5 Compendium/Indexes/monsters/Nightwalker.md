@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Nightwalker
+ - CR16
 type: Undead
 subtypes: 
  - Extraplanar
@@ -30,10 +31,10 @@ alignment: Always chaotic evil
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     |Crush item, desecrating aura, evil gaze, spell-like abilities, summon undead |
 | Special Qualities    |Aversion To Daylight, [[Special Abilities#damage reduction\|Damage Reduction]]  15/silver And Magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#spell resistance\|Spell Resistance]]  29, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 11, Ref: 11, Will: 19 |
+| Saves:               |Fort: +11, Ref: +11, Will: +19 |
 | Abilities:           |Str : 38,  Dex: 14,  Con: -1,  Int: 20,  Wis: 20,  Cha: 18 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 28, [[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Hide\|Hide]]: 18*, [[Skill List#Knowledge\|Knowledge]]: (arcana) 29, [[Skill List#Listen\|Listen]]: 29, [[Skill List#Move Silently\|Move Silently]]: 26, [[Skill List#Search\|Search]]: 29, [[Skill List#Sense Motive\|Sense Motive]]: 29, [[Skill List#Spellcraft\|Spellcraft]]: 31, [[Skill List#Spot\|Spot]]: 29, [[Skill List#Survival\|Survival]]: 5(7followingtracks)+5 (+7 following tracks); |
-| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Combat Expertise\|Combat Expertise]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Disarm\|Improved Disarm]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability\|Quicken Spell-Like Ability]]; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +28, [[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Hide\|Hide]]: 18*, [[Skill List#Knowledge\|Knowledge]]: (arcana) 29, [[Skill List#Listen\|Listen]]: +29, [[Skill List#Move Silently\|Move Silently]]: +26, [[Skill List#Search\|Search]]: +29, [[Skill List#Sense Motive\|Sense Motive]]: +29, [[Skill List#Spellcraft\|Spellcraft]]: +31, [[Skill List#Spot\|Spot]]: +29, [[Skill List#Survival\|Survival]]: 5(7followingtracks)+5 (+7 following tracks); |
+| Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Combat Expertise\|Combat Expertise]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Disarm\|Improved Disarm]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Power Attack\|Power Attack]], [[Monster Feats#Quicken Spell-Like Ability \|Quicken Spell-Like Ability ]](unholy blight); |
 | Environment          |Plane of Shadow |
 | Organization:        |Solitary, pair, or gang (3-4) |
 | Challenge Rating:    |16 |

@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrm Red Dragon
+title: 3.5 Compendium / Monsters / Wyrm_Red_Dragon
 aliases: 
  - Wyrm Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrm Red Dragon
+ - Wyrm_Red_Dragon
+ - CR24
 type: Red Dragon(Wyrm)
 cr: 24
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 20/magic; |
-| Saves:               |Fort: 30, Ref: 20, Will: 27 |
+| Saves:               |Fort: +30, Ref: +20, Will: +27 |
 | Abilities:           |Str: 41, Dex: 10, Con: 31, Int: 24, Wis: 25, Cha: 24 |
 | Skills:              |; |
 | Feats:               |; |

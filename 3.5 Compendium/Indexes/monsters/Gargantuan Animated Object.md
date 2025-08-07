@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gargantuan Animated Object
+title: 3.5 Compendium / Monsters / Gargantuan_Animated_Object
 aliases: 
  - Gargantuan Animated Object
 tags: 
  - 3.5e
  - rules
  - monsters
- - Gargantuan Animated Object
+ - Gargantuan_Animated_Object
+ - CR7
 type: Construct
 cr: 7
 environment: Any
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |20 ft./15 ft. (long) 20 ft./20 ft. (tall) |
 | Special Attacks:     | |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]]  Also See Text; |
-| Saves:               |Fort: 5, Ref: 3, Will: 0 |
+| Saves:               |Fort: +5, Ref: +3, Will: 0 |
 | Abilities:           |Str : 24,  Dex: 6,  Con: -1,  Int: -1,  Wis: 1,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#--\|--]]; |

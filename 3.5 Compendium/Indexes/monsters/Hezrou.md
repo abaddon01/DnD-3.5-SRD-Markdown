@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Hezrou
+ - CR11
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Spell-like abilities, stench, improved grab, summon demon |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  19, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 16, Ref: 7, Will: 9 |
+| Saves:               |Fort: +16, Ref: +7, Will: +9 |
 | Abilities:           |Str : 21,  Dex: 10,  Con: 29,  Int: 14,  Wis: 14,  Cha: 18 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 18, [[Skill List#Concentration\|Concentration]]: 22, [[Skill List#Hide\|Hide]]: 13, [[Skill List#Escape Artist\|Escape Artist]]: 13, [[Skill List#Intimidate\|Intimidate]]: 17, [[Skill List#Listen\|Listen]]: 23, [[Skill List#Move Silently\|Move Silently]]: 13, [[Skill List#Search\|Search]]: 15, [[Skill List#Spellcraft\|Spellcraft]]: 15, [[Skill List#Spot\|Spot]]: 23, [[Skill List#Survival\|Survival]]: +2 (+4 following tracks) , [[Skill List#Use Rope\|Use Rope]]: 0(2withbindings)+0 (+2 with bindings); |
+| Skills:              |[[Skill List#Climb\|Climb]]: +18, [[Skill List#Concentration\|Concentration]]: +22, [[Skill List#Hide\|Hide]]: +13, [[Skill List#Escape Artist\|Escape Artist]]: +13, [[Skill List#Intimidate\|Intimidate]]: +17, [[Skill List#Listen\|Listen]]: +23, [[Skill List#Move Silently\|Move Silently]]: +13, [[Skill List#Search\|Search]]: +15, [[Skill List#Spellcraft\|Spellcraft]]: +15, [[Skill List#Spot\|Spot]]: +23, [[Skill List#Survival\|Survival]]: +2 (+4 following tracks) , [[Skill List#Use Rope\|Use Rope]]: 0(2withbindings)+0 (+2 with bindings); |
 | Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary or gang (2-4) |

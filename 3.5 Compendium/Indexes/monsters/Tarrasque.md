@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Tarrasque
+ - CR20
 type: Magical
 subtypes: 
  - Beast
@@ -30,10 +31,10 @@ alignment: Always neutral
 | Space/Reach:         |30 ft./20 ft. |
 | Special Attacks:     |Augmented critical, frightful presence, improved grab, rush, swallow whole |
 | Special Qualities    |Carapace, [[Special Abilities#damage reduction\|Damage Reduction]]  15/epic, Immunity To Fire, Poison, Disease, Energy Drain, And Ability Damage, [[Special Abilities#regeneration\|Regeneration]]  40, [[Special Abilities#scent\|Scent]] , [[Special Abilities#spell resistance\|Spell Resistance]]  32; |
-| Saves:               |Fort: 38, Ref: 29, Will: 20 |
+| Saves:               |Fort: +38, Ref: +29, Will: +20 |
 | Abilities:           |Str : 45,  Dex: 16,  Con: 35,  Int: 3,  Wis: 14,  Cha: 14 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 17, [[Skill List#Search\|Search]]: 9, [[Skill List#Spot\|Spot]]: 17, [[Skill List#Survival\|Survival]]: 14(16followingtracks)+14 (+16 following tracks); |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Toughness\|Toughness]]; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +17, [[Skill List#Search\|Search]]: +9, [[Skill List#Spot\|Spot]]: +17, [[Skill List#Survival\|Survival]]: 14(16followingtracks)+14 (+16 following tracks); |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Toughness \|Toughness ]](6); |
 | Environment          |Any |
 | Organization:        |Solitary |
 | Challenge Rating:    |20 |

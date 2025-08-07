@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Drider
+ - CR7
 type: Aberration
 cr: 7
 environment: Underground
@@ -28,10 +29,10 @@ alignment: Always chaotic evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Spells, spell-like abilities, poison |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#spell resistance\|Spell Resistance]]  17; |
-| Saves:               |Fort: 5, Ref: 4, Will: 8 |
+| Saves:               |Fort: +5, Ref: +4, Will: +8 |
 | Abilities:           |Str : 15,  Dex: 15,  Con: 16,  Int: 15,  Wis: 16,  Cha: 16 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 14, [[Skill List#Concentration\|Concentration]]: 9, [[Skill List#Hide\|Hide]]: 10, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Move Silently\|Move Silently]]: 12Spot9; |
-| Feats:               |; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +14, [[Skill List#Concentration\|Concentration]]: +9, [[Skill List#Hide\|Hide]]: +10, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Move Silently\|Move Silently]]: 12Spot9; |
+| Feats:               |[[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Two-Weapon Fighting\|Two-Weapon Fighting]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Underground |
 | Organization:        |Solitary, pair, or troupe (1-2 plus 7-12 Medium monstrous spiders) |
 | Challenge Rating:    |7 |

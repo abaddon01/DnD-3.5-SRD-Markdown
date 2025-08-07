@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Fire Giant
+title: 3.5 Compendium / Monsters / Fire_Giant
 aliases: 
  - Fire Giant
 tags: 
  - 3.5e
  - rules
  - monsters
- - Fire Giant
+ - Fire_Giant
+ - CR10
 type: Giant
 subtypes: 
  - Fire
@@ -30,9 +31,9 @@ alignment: Often lawful evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Rock throwing |
 | Special Qualities    |Immunity To Fire, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Cold; |
-| Saves:               |Fort: 14, Ref: 4, Will: 9 |
+| Saves:               |Fort: +14, Ref: +4, Will: +9 |
 | Abilities:           |Str : 31,  Dex: 9,  Con: 21,  Int: 10,  Wis: 14,  Cha: 11 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 9, [[Skill List#Craft\|Craft]]: (any one) 6, [[Skill List#Intimidate\|Intimidate]]: 6, [[Skill List#Jump\|Jump]]: 9, [[Skill List#Spot\|Spot]]: 14; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +9, [[Skill List#Craft\|Craft]]: (any one) 6, [[Skill List#Intimidate\|Intimidate]]: +6, [[Skill List#Jump\|Jump]]: +9, [[Skill List#Spot\|Spot]]: +14; |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Feat List#Improved Overrun\|Improved Overrun]], [[Feat List#Improved Sunder\|Improved Sunder]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Warm mountains |
 | Organization:        |Solitary, gang (2-5), band (6-9 plus 35% noncombatants plus 1 adept or cleric of 1st or 2nd level), hunting/raiding party (6-9 plus 1 adept or sorcerer of 3rd-5th level plus 2-4 hell hounds and 2-3 trolls or ettins), or tribe (21-30 plus 1 adept, cleric, or sorcerer of 6th or 7th level plus 12-30 hell hounds, 12-22 trolls, 5-12 ettins, and 1-2 young red dragons) |

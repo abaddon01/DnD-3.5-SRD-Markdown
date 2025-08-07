@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire Bat
+title: 3.5 Compendium / Monsters / Dire_Bat
 aliases: 
  - Dire Bat
 tags: 
  - 3.5e
  - rules
  - monsters
- - Dire Bat
+ - Dire_Bat
+ - CR2
 type: Animal
 cr: 2
 environment: Temperate deserts
@@ -28,9 +29,9 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |Blindsense 40 Ft.; |
-| Saves:               |Fort: 7, Ref: 10, Will: 6 |
+| Saves:               |Fort: +7, Ref: +10, Will: +6 |
 | Abilities:           |Str : 17,  Dex: 22,  Con: 17,  Int: 2,  Wis: 14,  Cha: 6 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 4, [[Skill List#Listen\|Listen]]: 12*, [[Skill List#Move Silently\|Move Silently]]: 11, [[Skill List#Spot\|Spot]]: 8*; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +4, [[Skill List#Listen\|Listen]]: 12*, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Spot\|Spot]]: 8*; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Stealthy\|Stealthy]]; |
 | Environment          |Temperate deserts |
 | Organization:        |Solitary or colony (5-8) |

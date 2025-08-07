@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gibbering Mouther
+title: 3.5 Compendium / Monsters / Gibbering_Mouther
 aliases: 
  - Gibbering Mouther
 tags: 
  - 3.5e
  - rules
  - monsters
- - Gibbering Mouther
+ - Gibbering_Mouther
+ - CR5
 type: Aberration
 cr: 5
 environment: Underground
@@ -28,9 +29,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Gibbering, spittle, improved grab, blood drain, engulf, ground manipulation |
 | Special Qualities    |Amorphous, [[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 7, Ref: 4, Will: 5 |
+| Saves:               |Fort: +7, Ref: +4, Will: +5 |
 | Abilities:           |Str : 10,  Dex: 13,  Con: 22,  Int: 4,  Wis: 13,  Cha: 13 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 9, [[Skill List#Swim\|Swim]]: 8; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +9, [[Skill List#Swim\|Swim]]: +8; |
 | Feats:               |[[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |Underground |
 | Organization:        |Solitary |

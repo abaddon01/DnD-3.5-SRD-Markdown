@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Sahuagin
+ - CR2
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -31,9 +32,9 @@ alignment: Usually lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Blood frenzy, rake 1d4+1 |
 | Special Qualities    |Blindsense 30 Ft., [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Freshwater Sensitivity, Light Blindness, Speak With Sharks, Water Dependent; |
-| Saves:               |Fort: 3, Ref: 4, Will: 4 |
+| Saves:               |Fort: +3, Ref: +4, Will: +4 |
 | Abilities:           |Str : 14,  Dex: 13,  Con: 12,  Int: 14,  Wis: 13,  Cha: 9 |
-| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 4*, [[Skill List#Hide\|Hide]]: 6*, [[Skill List#Listen\|Listen]]: 6*, [[Skill List#Profession\|Profession]]: (hunter) 1*, [[Skill List#Ride\|Ride]]: 3, [[Skill List#Spot\|Spot]]: 6*, [[Skill List#Survival\|Survival]]: 1*; |
+| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 4*, [[Skill List#Hide\|Hide]]: 6*, [[Skill List#Listen\|Listen]]: 6*, [[Skill List#Profession\|Profession]]: (hunter) 1*, [[Skill List#Ride\|Ride]]: +3, [[Skill List#Spot\|Spot]]: 6*, [[Skill List#Survival\|Survival]]: 1*; |
 | Feats:               |[[Feat List#Great Fortitude\|Great Fortitude]], [[Monster Feats#Multiattack \|Multiattack ]](B); |
 | Environment          |Warm aquatic |
 | Organization:        |Solitary, pair, team (5-8), patrol (11-20 plus 1 3rd-level lieutenant and 1-2 sharks), band (20-80 plus 100% noncombatants plus 1 3rd-level lieutenant and 1 4th-level chieftain per 20 adults plus 1-2 sharks), or tribe (70-160 plus 100% noncombatants plus 1 3rd-level lieutenant per 20 adults, 1 4th-level chieftain per 40 adults, 9 4th-level guards, 1-4 underpriestesses of 3rd-6th level, 1 7th-level priestess, and 1 baron of 6th-8th level plus 5-8 sharks) |

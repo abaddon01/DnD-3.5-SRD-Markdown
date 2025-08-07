@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Hobgoblin
+ - CR1/2
 type: 1st-Level
 subtypes: 
  - Warrior
@@ -33,9 +34,9 @@ alignment: Usually lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |-- |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 4, Ref: 1, Will: -1 |
+| Saves:               |Fort: +4, Ref: +1, Will: -1 |
 | Abilities:           |Str : 13,  Dex: 13,  Con: 14,  Int: 10,  Wis: 9,  Cha: 8 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 3, [[Skill List#Listen\|Listen]]: 2, [[Skill List#Move Silently\|Move Silently]]: 3, [[Skill List#Spot\|Spot]]: 2; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +3, [[Skill List#Listen\|Listen]]: +2, [[Skill List#Move Silently\|Move Silently]]: +3, [[Skill List#Spot\|Spot]]: +2; |
 | Feats:               |[[Feat List#Alertness\|Alertness]]; |
 | Environment          |Warm hills |
 | Organization:        |Gang (4-9), band (10-100 plus 50% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th-6th level), warband (10-24), or tribe (30-300 plus 50% noncombatants plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th-8th level, 2-4 dire wolves, and 1-4 ogres or 1-2 trolls) |

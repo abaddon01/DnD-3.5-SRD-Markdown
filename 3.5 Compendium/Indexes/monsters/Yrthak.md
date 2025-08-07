@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Yrthak
+ - CR9
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Often neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Sonic lance, explosion |
 | Special Qualities    |Blindsight 120 Ft., Immunities, Vulnerability To Sonic; |
-| Saves:               |Fort: 11, Ref: 10, Will: 5 |
+| Saves:               |Fort: +11, Ref: +10, Will: +5 |
 | Abilities:           |Str : 20,  Dex: 14,  Con: 17,  Int: 7,  Wis: 13,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 12, [[Skill List#Move Silently\|Move Silently]]: 10; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +12, [[Skill List#Move Silently\|Move Silently]]: +10; |
 | Feats:               |[[Feat List#Endurance\|Endurance]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Monster Feats#Multiattack\|Multiattack]], [[Monster Feats#Snatch\|Snatch]]; |
 | Environment          |Temperate mountains |
 | Organization:        |Solitary or clutch (2-4) |

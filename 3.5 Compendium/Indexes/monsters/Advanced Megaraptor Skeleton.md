@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Advanced Megaraptor Skeleton
+title: 3.5 Compendium / Monsters / Advanced_Megaraptor_Skeleton
 aliases: 
  - Advanced Megaraptor Skeleton
 tags: 
  - 3.5e
  - rules
  - monsters
- - Advanced Megaraptor Skeleton
+ - Advanced_Megaraptor_Skeleton
+ - CRNone
 type: Undead
 cr: None
 environment: Any
@@ -28,7 +29,7 @@ alignment: 13-16 HD (Huge); 17-20 HD (Gargantuan)
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 4, Ref: 7, Will: 8 |
+| Saves:               |Fort: +4, Ref: +7, Will: +8 |
 | Abilities:           |Str : 21,  Dex: 17,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |[[Skill List#Improved\|Improved]]: Initiative; |
 | Feats:               |[[Feat List#Warm forests\|Warm forests]]; |

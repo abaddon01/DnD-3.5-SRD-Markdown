@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Triceratops
+ - CR9
 type: Animal
 cr: 9
 environment: Temperate plains
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Powerful charge, trample 2d12+15 |
 | Special Qualities    |[[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 19, Ref: 9, Will: 6 |
+| Saves:               |Fort: +19, Ref: +9, Will: +6 |
 | Abilities:           |Str : 30,  Dex: 9,  Con: 25,  Int: 1,  Wis: 12,  Cha: 7 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 13, [[Skill List#Spot\|Spot]]: 12; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Toughness\|Toughness]]; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +13, [[Skill List#Spot\|Spot]]: +12; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Toughness \|Toughness ]](4); |
 | Environment          |Temperate plains |
 | Organization:        |Solitary, pair, or herd (5-8) |
 | Challenge Rating:    |9 |

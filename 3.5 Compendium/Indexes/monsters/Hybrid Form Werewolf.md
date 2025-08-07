@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid Form Werewolf
+title: 3.5 Compendium / Monsters / Hybrid_Form_Werewolf
 aliases: 
  - Hybrid Form Werewolf
 tags: 
  - 3.5e
  - rules
  - monsters
- - Hybrid Form Werewolf
+ - Hybrid_Form_Werewolf
+ - CR3
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Wolf Empathy, [[Special Abilities#damage reduction\|Damage Reduction]]  10/silver, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 8, Ref: 5, Will: 2 |
+| Saves:               |Fort: +8, Ref: +5, Will: +2 |
 | Abilities:           |Str : 15,  Dex: 15,  Con: 16,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 1, [[Skill List#Hide\|Hide]]: 6, [[Skill List#Listen\|Listen]]: 1, [[Skill List#Move Silently\|Move Silently]]: 6, [[Skill List#Spot\|Spot]]: 1, [[Skill List#Survival\|Survival]]: 2*; |
+| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: +1, [[Skill List#Hide\|Hide]]: +6, [[Skill List#Listen\|Listen]]: +1, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: +1, [[Skill List#Survival\|Survival]]: 2*; |
 | Feats:               |[[Feat List#\|]](same as human form); |
 | Environment          |Temperate forests |
 | Organization:        |(same as human form) |

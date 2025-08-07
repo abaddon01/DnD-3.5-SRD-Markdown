@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Very young Copper Dragon
+title: 3.5 Compendium / Monsters / Very_young_Copper_Dragon
 aliases: 
  - Very young Copper Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Very young Copper Dragon
+ - Very_young_Copper_Dragon
+ - CR5
 type: Copper Dragon(Very young)
 cr: 5
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    | |
-| Saves:               |Fort: 7, Ref: 6, Will: 7 |
+| Saves:               |Fort: +7, Ref: +6, Will: +7 |
 | Abilities:           |Str: 13, Dex: 10, Con: 13, Int: 12, Wis: 13, Cha: 12 |
 | Skills:              |; |
 | Feats:               |; |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Kolyarut
+ - CR12
 type: Construct
 subtypes: 
  - Extraplanar
@@ -31,10 +32,10 @@ alignment: Always lawful neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Enervation ray, spell-like abilities, vampiric touch |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/chaotic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  22; |
-| Saves:               |Fort: 6, Ref: 7, Will: 7 |
+| Saves:               |Fort: +6, Ref: +7, Will: +7 |
 | Abilities:           |Str : 14,  Dex: 13,  Con: -1,  Int: 10,  Wis: 17,  Cha: 16 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 5, [[Skill List#Disguise\|Disguise]]: 12, [[Skill List#Gather Information\|Gather Information]]: 12, [[Skill List#Listen\|Listen]]: 11, [[Skill List#Search\|Search]]: 5, [[Skill List#Sense Motive\|Sense Motive]]: 12, [[Skill List#Spot\|Spot]]: 11, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Quickened Spell-Like Ability\|Quickened Spell-Like Ability]]; |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +5, [[Skill List#Disguise\|Disguise]]: +12, [[Skill List#Gather Information\|Gather Information]]: +12, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Search\|Search]]: +5, [[Skill List#Sense Motive\|Sense Motive]]: +12, [[Skill List#Spot\|Spot]]: +11, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]], [[Feat List#Quickened Spell-Like Ability \|Quickened Spell-Like Ability ]](suggestion); |
 | Environment          |A lawful-aligned plane |
 | Organization:        |Solitary |
 | Challenge Rating:    |12 |

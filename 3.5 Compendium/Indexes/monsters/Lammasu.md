@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Lammasu
+ - CR8
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Always lawful good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Pounce, rake 1d6+3, spells |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , Magic Circle Against Evil, Spell-like Abilities; |
-| Saves:               |Fort: 8, Ref: 8, Will: 7 |
+| Saves:               |Fort: +8, Ref: +8, Will: +7 |
 | Abilities:           |Str : 23,  Dex: 12,  Con: 17,  Int: 16,  Wis: 17,  Cha: 14 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 13, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Knowledge\|Knowledge]]: (arcana) 13, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Sense Motive\|Sense Motive]]: 13, [[Skill List#Spot\|Spot]]: 15; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +13, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Knowledge\|Knowledge]]: (arcana) 13, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Sense Motive\|Sense Motive]]: +13, [[Skill List#Spot\|Spot]]: +15; |
 | Feats:               |[[Feat List#Blind-Fight\|Blind-Fight]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |Temperate deserts |
 | Organization:        |Solitary |

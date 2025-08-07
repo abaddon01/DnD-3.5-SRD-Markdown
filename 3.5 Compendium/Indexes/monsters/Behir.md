@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Behir
+ - CR8
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Often neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Breath weapon, constrict 2d8+8, improved grab, rake 1d4+4, swallow whole |
 | Special Qualities    |Can't Be Tripped, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 11, Ref: 7, Will: 5 |
+| Saves:               |Fort: +11, Ref: +7, Will: +5 |
 | Abilities:           |Str : 26,  Dex: 13,  Con: 21,  Int: 7,  Wis: 14,  Cha: 12 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 16, [[Skill List#Hide\|Hide]]: 5, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 4, [[Skill List#Survival\|Survival]]: 2; |
+| Skills:              |[[Skill List#Climb\|Climb]]: +16, [[Skill List#Hide\|Hide]]: +5, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +4, [[Skill List#Survival\|Survival]]: +2; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Cleave\|Cleave]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Track\|Track]]; |
 | Environment          |Warm hills |
 | Organization:        |Solitary or pair |

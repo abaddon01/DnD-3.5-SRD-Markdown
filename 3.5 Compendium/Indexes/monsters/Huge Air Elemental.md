@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Huge Air Elemental
+title: 3.5 Compendium / Monsters / Huge_Air_Elemental
 aliases: 
  - Huge Air Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Huge Air Elemental
+ - Huge_Air_Elemental
+ - CR7
 type: Elemental
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 9, Ref: 19, Will: 5 |
+| Saves:               |Fort: +9, Ref: +19, Will: +5 |
 | Abilities:           |Str : 18,  Dex: 29,  Con: 18,  Int: 6,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 11, [[Skill List#Spot\|Spot]]: 12; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +11, [[Skill List#Spot\|Spot]]: +12; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Dodge\|Dodge]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Mobility\|Mobility]], [[Feat List#Spring Attack\|Spring Attack]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary |

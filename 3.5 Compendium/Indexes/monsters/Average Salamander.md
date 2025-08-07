@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Average Salamander
+title: 3.5 Compendium / Monsters / Average_Salamander
 aliases: 
  - Average Salamander
 tags: 
  - 3.5e
  - rules
  - monsters
- - Average Salamander
+ - Average_Salamander
+ - CR6
 type: Outsider
 subtypes: 
  - Extraplanar
@@ -31,9 +32,9 @@ alignment: Usually evil (any)
 | Space/Reach:         |5 ft./5 ft. (10 ft. with tail) |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Vulnerability To Cold; |
-| Saves:               |Fort: 8, Ref: 7, Will: 8 |
+| Saves:               |Fort: +8, Ref: +7, Will: +8 |
 | Abilities:           |Str : 14,  Dex: 13,  Con: 14,  Int: 14,  Wis: 15,  Cha: 13 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 11, [[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: 19, [[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Disguise\|Disguise]]: 1 (+3 acting), [[Skill List#Hide\|Hide]]: 11, [[Skill List#Intimidate\|Intimidate]]: 3, [[Skill List#Listen\|Listen]]: 8, [[Skill List#Move Silently\|Move Silently]]: 11, [[Skill List#Search\|Search]]: 12, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +11, [[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: +19, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Disguise\|Disguise]]: 1 (+3 acting), [[Skill List#Hide\|Hide]]: +11, [[Skill List#Intimidate\|Intimidate]]: +3, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Search\|Search]]: +12, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Fire |
 | Organization:        |Solitary, pair, or cluster (3-5) |

@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Lamia
+ - CR6
 type: Magical
 subtypes: 
  - Beast
@@ -30,9 +31,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, Wisdom drain |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 7, Ref: 8, Will: 7 |
+| Saves:               |Fort: +7, Ref: +8, Will: +7 |
 | Abilities:           |Str : 18,  Dex: 15,  Con: 12,  Int: 13,  Wis: 15,  Cha: 12 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 14, [[Skill List#Concentration\|Concentration]]: 10, [[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Disguise\|Disguise]]: +1 (+3 acting) , [[Skill List#Hide\|Hide]]: 11, [[Skill List#Intimidate\|Intimidate]]: 3, [[Skill List#Spot\|Spot]]: 11; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +14, [[Skill List#Concentration\|Concentration]]: +10, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Disguise\|Disguise]]: +1 (+3 acting) , [[Skill List#Hide\|Hide]]: +11, [[Skill List#Intimidate\|Intimidate]]: +3, [[Skill List#Spot\|Spot]]: +11; |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Mobility\|Mobility]], [[Feat List#Spring Attack\|Spring Attack]]; |
 | Environment          |Temperate deserts |
 | Organization:        |Solitary, pair, or gang (3-4) |

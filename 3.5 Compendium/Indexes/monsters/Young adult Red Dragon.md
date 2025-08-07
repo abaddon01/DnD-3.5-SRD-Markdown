@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young adult Red Dragon
+title: 3.5 Compendium / Monsters / Young_adult_Red_Dragon
 aliases: 
  - Young adult Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young adult Red Dragon
+ - Young_adult_Red_Dragon
+ - CR13
 type: Red Dragon(Young adult)
 cr: 13
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |15 ft./10 ft. (15 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 5/magic; |
-| Saves:               |Fort: 16, Ref: 11, Will: 13 |
+| Saves:               |Fort: +16, Ref: +11, Will: +13 |
 | Abilities:           |Str: 31, Dex: 10, Con: 21, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

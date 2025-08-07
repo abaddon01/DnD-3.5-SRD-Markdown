@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Medusa
+ - CR7
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -30,9 +31,9 @@ alignment: Usually lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Petrifying gaze, poison |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 3, Ref: 7, Will: 6 |
+| Saves:               |Fort: +3, Ref: +7, Will: +6 |
 | Abilities:           |Str : 10,  Dex: 15,  Con: 12,  Int: 12,  Wis: 13,  Cha: 15 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 9, [[Skill List#Diplomacy\|Diplomacy]]: 4, [[Skill List#Disguise\|Disguise]]: +9 (+11 acting) , [[Skill List#Intimidate\|Intimidate]]: 4, [[Skill List#Move Silently\|Move Silently]]: 8, [[Skill List#Spot\|Spot]]: 8; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +9, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Disguise\|Disguise]]: +9 (+11 acting) , [[Skill List#Intimidate\|Intimidate]]: +4, [[Skill List#Move Silently\|Move Silently]]: +8, [[Skill List#Spot\|Spot]]: +8; |
 | Feats:               |[[Feat List#Point Blank Shot\|Point Blank Shot]], [[Feat List#Precise Shot\|Precise Shot]], [[Feat List#Weapon Finesse\|Weapon Finesse]]; |
 | Environment          |Temperate marshes |
 | Organization:        |Solitary or covey (2-4) |

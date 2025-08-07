@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Great wyrm Gold Dragon
+title: 3.5 Compendium / Monsters / Great_wyrm_Gold_Dragon
 aliases: 
  - Great wyrm Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Great wyrm Gold Dragon
+ - Great_wyrm_Gold_Dragon
+ - CR27
 type: Gold Dragon(Great wyrm)
 cr: 27
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |30 ft./20 ft. (30 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Foresight; |
-| Saves:               |Fort: 33, Ref: 22, Will: 33 |
+| Saves:               |Fort: +33, Ref: +22, Will: +33 |
 | Abilities:           |Str: 47, Dex: 10, Con: 33, Int: 32, Wis: 33, Cha: 32 |
 | Skills:              |; |
 | Feats:               |; |

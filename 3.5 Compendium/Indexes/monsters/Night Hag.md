@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Night Hag
+title: 3.5 Compendium / Monsters / Night_Hag
 aliases: 
  - Night Hag
 tags: 
  - 3.5e
  - rules
  - monsters
- - Night Hag
+ - Night_Hag
+ - CR9
 type: Outsider
 subtypes: 
  - Evil
@@ -31,9 +32,9 @@ alignment: Always neutral evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Spell-like abilities, dream haunting |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron And Magic, Immunity To Fire, Cold, Charm, Sleep, [[Special Abilities#fear\|And Fear]] , [[Special Abilities#spell resistance\|Spell Resistance]]  25; |
-| Saves:               |Fort: 12, Ref: 9, Will: 10 |
+| Saves:               |Fort: +12, Ref: +9, Will: +10 |
 | Abilities:           |Str : 19,  Dex: 12,  Con: 18,  Int: 11,  Wis: 15,  Cha: 12 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 12, [[Skill List#Concentration\|Concentration]]: 15, [[Skill List#Diplomacy\|Diplomacy]]: 5, [[Skill List#Disguise\|Disguise]]: +1 (+3 acting) , [[Skill List#Intimidate\|Intimidate]]: 14, [[Skill List#Listen\|Listen]]: 15, [[Skill List#Ride\|Ride]]: 12, [[Skill List#Sense Motive\|Sense Motive]]: 13, [[Skill List#Spellcraft\|Spellcraft]]: 11, [[Skill List#Spot\|Spot]]: 15; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +12, [[Skill List#Concentration\|Concentration]]: +15, [[Skill List#Diplomacy\|Diplomacy]]: +5, [[Skill List#Disguise\|Disguise]]: +1 (+3 acting) , [[Skill List#Intimidate\|Intimidate]]: +14, [[Skill List#Listen\|Listen]]: +15, [[Skill List#Ride\|Ride]]: +12, [[Skill List#Sense Motive\|Sense Motive]]: +13, [[Skill List#Spellcraft\|Spellcraft]]: +11, [[Skill List#Spot\|Spot]]: +15; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Mounted Combat\|Mounted Combat]]; |
 | Environment          |A evil-aligned plane |
 | Organization:        |Solitary, mounted (1, on nightmare), or covey (3, on nightmares) |

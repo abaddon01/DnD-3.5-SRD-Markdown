@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Glabrezu
+ - CR13
 type: Outsider
 subtypes: 
  - Chaotic
@@ -32,9 +33,9 @@ alignment: Always chaotic evil
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     |Improved grab, spell-like abilities, summon demon |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/good, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity And Poison, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10, Cold 10, And Fire 10, [[Special Abilities#spell resistance\|Spell Resistance]]  21, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., True Seeing; |
-| Saves:               |Fort: 18, Ref: 8, Will: 11 |
+| Saves:               |Fort: +18, Ref: +8, Will: +11 |
 | Abilities:           |Str : 31,  Dex: 10,  Con: 31,  Int: 16,  Wis: 16,  Cha: 20 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 22, [[Skill List#Concentration\|Concentration]]: 25, [[Skill List#Diplomacy\|Diplomacy]]: 9, [[Skill List#Disguise\|Disguise]]: +5 (+7 acting) , [[Skill List#Intimidate\|Intimidate]]: 24, [[Skill List#Knowledge\|Knowledge]]: (any two) 18, [[Skill List#Listen\|Listen]]: 26, [[Skill List#Move Silently\|Move Silently]]: 18, [[Skill List#Search\|Search]]: 18, [[Skill List#Sense Motive\|Sense Motive]]: 18, [[Skill List#Spellcraft\|Spellcraft]]: 18, [[Skill List#Spot\|Spot]]: 26, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +22, [[Skill List#Concentration\|Concentration]]: +25, [[Skill List#Diplomacy\|Diplomacy]]: +9, [[Skill List#Disguise\|Disguise]]: +5 (+7 acting) , [[Skill List#Intimidate\|Intimidate]]: +24, [[Skill List#Knowledge\|Knowledge]]: (any two) 18, [[Skill List#Listen\|Listen]]: +26, [[Skill List#Move Silently\|Move Silently]]: +18, [[Skill List#Search\|Search]]: +18, [[Skill List#Sense Motive\|Sense Motive]]: +18, [[Skill List#Spellcraft\|Spellcraft]]: +18, [[Skill List#Spot\|Spot]]: +26, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
 | Feats:               |[[Feat List#Cleave\|Cleave]], [[Feat List#Great Cleave\|Great Cleave]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Persuasive\|Persuasive]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |A chaotic evil-aligned plane |
 | Organization:        |Solitary or troupe (1 glabrezu, 1 succubus, and 2-5 vrocks) |

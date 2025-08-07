@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Griffon
+ - CR4
 type: Magical
 subtypes: 
  - Beast
@@ -30,10 +31,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Pounce, rake 1d6+2 |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 8, Ref: 7, Will: 5 |
+| Saves:               |Fort: +8, Ref: +7, Will: +5 |
 | Abilities:           |Str : 18,  Dex: 15,  Con: 16,  Int: 5,  Wis: 13,  Cha: 8 |
-| Skills:              |[[Skill List#Jump\|Jump]]: 8, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 10; |
-| Feats:               |[[Feat List#Iron Will\|Iron Will]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Jump\|Jump]]: +8, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +10; |
+| Feats:               |[[Feat List#Iron Will\|Iron Will]], [[Monster Feats#Multiattack\|Multiattack]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Temperate hills |
 | Organization:        |Solitary, pair, or pride (6-10) |
 | Challenge Rating:    |4 |

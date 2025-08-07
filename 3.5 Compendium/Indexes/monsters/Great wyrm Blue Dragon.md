@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Great wyrm Blue Dragon
+title: 3.5 Compendium / Monsters / Great_wyrm_Blue_Dragon
 aliases: 
  - Great wyrm Blue Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Great wyrm Blue Dragon
+ - Great_wyrm_Blue_Dragon
+ - CR25
 type: Blue Dragon(Great wyrm)
 cr: 25
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Mirage Arcana; |
-| Saves:               |Fort: 29, Ref: 21, Will: 27 |
+| Saves:               |Fort: +29, Ref: +21, Will: +27 |
 | Abilities:           |Str: 39, Dex: 10, Con: 27, Int: 22, Wis: 23, Cha: 22 |
 | Skills:              |; |
 | Feats:               |; |

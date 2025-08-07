@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Wight
+ - CR3
 type: Undead
 cr: 3
 environment: Any
@@ -28,9 +29,9 @@ alignment: Always lawful evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Create spawn, energy drain |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 1, Ref: 2, Will: 5 |
+| Saves:               |Fort: +1, Ref: +2, Will: +5 |
 | Abilities:           |Str : 12,  Dex: 12,  Con: -1,  Int: 11,  Wis: 13,  Cha: 15 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 8, [[Skill List#Listen\|Listen]]: 7, [[Skill List#Move Silently\|Move Silently]]: 16, [[Skill List#Spot\|Spot]]: 7; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Move Silently\|Move Silently]]: +16, [[Skill List#Spot\|Spot]]: +7; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-Fight\|Blind-Fight]]; |
 | Environment          |Any |
 | Organization:        |Solitary, pair, gang (3-5), or pack (6-11) |

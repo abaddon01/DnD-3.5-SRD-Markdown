@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Guardian Naga
+title: 3.5 Compendium / Monsters / Guardian_Naga
 aliases: 
  - Guardian Naga
 tags: 
  - 3.5e
  - rules
  - monsters
- - Guardian Naga
+ - Guardian_Naga
+ - CR10
 type: Aberration
 cr: 10
 environment: Temperate plains
@@ -28,9 +29,9 @@ alignment: Usually lawful good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Poison, spit, spells |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft.; |
-| Saves:               |Fort: 7, Ref: 7, Will: 11 |
+| Saves:               |Fort: +7, Ref: +7, Will: +11 |
 | Abilities:           |Str : 21,  Dex: 14,  Con: 19,  Int: 16,  Wis: 19,  Cha: 18 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 18, [[Skill List#Concentration\|Concentration]]: 19, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Diplomacy\|Diplomacy]]: 8, [[Skill List#Disguise\|Disguise]]: +4 (+6 acting) , [[Skill List#Intimidate\|Intimidate]]: 6, [[Skill List#Sense Motive\|Sense Motive]]: 18, [[Skill List#Spellcraft\|Spellcraft]]: 17, [[Skill List#Spot\|Spot]]: 13; |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +18, [[Skill List#Concentration\|Concentration]]: +19, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Diplomacy\|Diplomacy]]: +8, [[Skill List#Disguise\|Disguise]]: +4 (+6 acting) , [[Skill List#Intimidate\|Intimidate]]: +6, [[Skill List#Sense Motive\|Sense Motive]]: +18, [[Skill List#Spellcraft\|Spellcraft]]: +17, [[Skill List#Spot\|Spot]]: +13; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Dodge\|Dodge]], [[Feat List#Eschew Materials \|Eschew Materials ]](B), [[Feat List#Lightning Reflexes\|Lightning Reflexes]]; |
 | Environment          |Temperate plains |
 | Organization:        |Solitary or nest (2-4) |

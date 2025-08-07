@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Old Red Dragon
+title: 3.5 Compendium / Monsters / Old_Red_Dragon
 aliases: 
  - Old Red Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Old Red Dragon
+ - Old_Red_Dragon
+ - CR20
 type: Red Dragon(Old)
 cr: 20
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |20 ft./15 ft. (20 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |Suggestion; |
-| Saves:               |Fort: 23, Ref: 16, Will: 21 |
+| Saves:               |Fort: +23, Ref: +16, Will: +21 |
 | Abilities:           |Str: 35, Dex: 10, Con: 25, Int: 20, Wis: 21, Cha: 20 |
 | Skills:              |; |
 | Feats:               |; |

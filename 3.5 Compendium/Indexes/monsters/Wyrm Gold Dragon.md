@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrm Gold Dragon
+title: 3.5 Compendium / Monsters / Wyrm_Gold_Dragon
 aliases: 
  - Wyrm Gold Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrm Gold Dragon
+ - Wyrm_Gold_Dragon
+ - CR25
 type: Gold Dragon(Wyrm)
 cr: 25
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |30 ft./20 ft. (30 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 20/magic; |
-| Saves:               |Fort: 31, Ref: 21, Will: 31 |
+| Saves:               |Fort: +31, Ref: +21, Will: +31 |
 | Abilities:           |Str: 45, Dex: 10, Con: 31, Int: 30, Wis: 31, Cha: 30 |
 | Skills:              |; |
 | Feats:               |; |

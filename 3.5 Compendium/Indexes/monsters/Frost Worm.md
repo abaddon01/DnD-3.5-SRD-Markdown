@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Frost Worm
+title: 3.5 Compendium / Monsters / Frost_Worm
 aliases: 
  - Frost Worm
 tags: 
  - 3.5e
  - rules
  - monsters
- - Frost Worm
+ - Frost_Worm
+ - CR12
 type: Magical
 subtypes: 
  - Beast
@@ -31,10 +32,10 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Trill, cold, breath weapon |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Death Throes, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Vulnerability To Fire; |
-| Saves:               |Fort: 14, Ref: 9, Will: 6 |
+| Saves:               |Fort: +14, Ref: +9, Will: +6 |
 | Abilities:           |Str : 26,  Dex: 10,  Con: 20,  Int: 2,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 3*, [[Skill List#Listen\|Listen]]: 5, [[Skill List#Spot\|Spot]]: 5; |
-| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Monster Feats#Improved Natural Attack\|Improved Natural Attack]], [[Feat List#Iron Will\|Iron Will]], [[Feat List#Weapon Focus\|Weapon Focus]]; |
+| Skills:              |[[Skill List#Hide\|Hide]]: 3*, [[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +5; |
+| Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Monster Feats#Improved Natural Attack \|Improved Natural Attack ]](bite), [[Feat List#Iron Will\|Iron Will]], [[Feat List#Weapon Focus \|Weapon Focus ]](bite); |
 | Environment          |Cold plains |
 | Organization:        |Solitary |
 | Challenge Rating:    |12 |

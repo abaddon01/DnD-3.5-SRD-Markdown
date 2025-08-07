@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Bear Form Werebear
+title: 3.5 Compendium / Monsters / Bear_Form_Werebear
 aliases: 
  - Bear Form Werebear
 tags: 
  - 3.5e
  - rules
  - monsters
- - Bear Form Werebear
+ - Bear_Form_Werebear
+ - CR5
 type: Humanoid
 subtypes: 
  - Human
@@ -31,9 +32,9 @@ alignment: Always lawful good
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Bear Empathy, [[Special Abilities#damage reduction\|Damage Reduction]]  10/silver, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
-| Saves:               |Fort: 12, Ref: 6, Will: 4 |
+| Saves:               |Fort: +12, Ref: +6, Will: +4 |
 | Abilities:           |Str : 29,  Dex: 13,  Con: 20,  Int: 10,  Wis: 11,  Cha: 8 |
-| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: 3, [[Skill List#Listen\|Listen]]: 4, [[Skill List#Spot\|Spot]]: 4, [[Skill List#Swim\|Swim]]: 13; |
+| Skills:              |[[Skill List#Handle Animal\|Handle Animal]]: +3, [[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +4, [[Skill List#Swim\|Swim]]: +13; |
 | Feats:               |[[Feat List#\|]](same as human form); |
 | Environment          |Cold forests |
 | Organization:        |(same as human form) |

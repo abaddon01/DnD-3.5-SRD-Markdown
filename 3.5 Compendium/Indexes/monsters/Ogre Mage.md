@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ogre Mage
+title: 3.5 Compendium / Monsters / Ogre_Mage
 aliases: 
  - Ogre Mage
 tags: 
  - 3.5e
  - rules
  - monsters
- - Ogre Mage
+ - Ogre_Mage
+ - CR8
 type: Giant
 cr: 8
 environment: Cold hills
@@ -28,9 +29,9 @@ alignment: Usually lawful evil
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Spell-like abilities |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  90 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#regeneration\|Regeneration]]  5, [[Special Abilities#spell resistance\|Spell Resistance]]  19; |
-| Saves:               |Fort: 7, Ref: 1, Will: 3 |
+| Saves:               |Fort: +7, Ref: +1, Will: +3 |
 | Abilities:           |Str : 21,  Dex: 10,  Con: 17,  Int: 14,  Wis: 14,  Cha: 17 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 11, [[Skill List#Listen\|Listen]]: 10, [[Skill List#Spellcraft\|Spellcraft]]: 10, [[Skill List#Spot\|Spot]]: 10; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +11, [[Skill List#Listen\|Listen]]: +10, [[Skill List#Spellcraft\|Spellcraft]]: +10, [[Skill List#Spot\|Spot]]: +10; |
 | Feats:               |[[Feat List#Combat Expertise\|Combat Expertise]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Cold hills |
 | Organization:        |Solitary, pair, or troupe (1-2 plus 2-4 ogres) |

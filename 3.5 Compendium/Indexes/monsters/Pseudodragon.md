@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Pseudodragon
+ - CR1
 type: Dragon
 cr: 1
 environment: Temperate forests
@@ -28,9 +29,9 @@ alignment: Always neutral good
 | Space/Reach:         |2-1/2 ft./0 ft. (5 ft. with tail) |
 | Special Attacks:     |Poison |
 | Special Qualities    |Blindsense 60 Ft., [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#paralysis\|Immunity To Sleep And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  19, [[Special Abilities#telepathy\|Telepathy]]  60 Ft.; |
-| Saves:               |Fort: 4, Ref: 5, Will: 4 |
+| Saves:               |Fort: +4, Ref: +5, Will: +4 |
 | Abilities:           |Str : 6,  Dex: 15,  Con: 13,  Int: 10,  Wis: 12,  Cha: 10 |
-| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: 2, [[Skill List#Hide\|Hide]]: 20*, [[Skill List#Listen\|Listen]]: 9, [[Skill List#Search\|Search]]: 6, [[Skill List#Sense Motive\|Sense Motive]]: 7, [[Skill List#Spot\|Spot]]: 9, [[Skill List#Survival\|Survival]]: 1(3followingtracks)+1 (+3 following tracks); |
+| Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +2, [[Skill List#Hide\|Hide]]: 20*, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Search\|Search]]: +6, [[Skill List#Sense Motive\|Sense Motive]]: +7, [[Skill List#Spot\|Spot]]: +9, [[Skill List#Survival\|Survival]]: 1(3followingtracks)+1 (+3 following tracks); |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, or clutch (3-5) |

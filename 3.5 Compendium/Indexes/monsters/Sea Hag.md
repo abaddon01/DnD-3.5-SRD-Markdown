@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Sea Hag
+title: 3.5 Compendium / Monsters / Sea_Hag
 aliases: 
  - Sea Hag
 tags: 
  - 3.5e
  - rules
  - monsters
- - Sea Hag
+ - Sea_Hag
+ - CR4
 type: Monstrous
 subtypes: 
  - Humanoid
@@ -31,9 +32,9 @@ alignment: Usually chaotic evil
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Horrific appearance, evil eye |
 | Special Qualities    |Amphibious, [[Special Abilities#spell resistance\|Spell Resistance]]  14; |
-| Saves:               |Fort: 2, Ref: 4, Will: 4 |
+| Saves:               |Fort: +2, Ref: +4, Will: +4 |
 | Abilities:           |Str : 19,  Dex: 12,  Con: 12,  Int: 10,  Wis: 13,  Cha: 14 |
-| Skills:              |[[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any one) 3, [[Skill List#Hide\|Hide]]: 4, [[Skill List#Listen\|Listen]]: 6, [[Skill List#Spot\|Spot]]: 6, [[Skill List#Swim\|Swim]]: 12; |
+| Skills:              |[[Skill List#Craft\|Craft]]: or, [[Skill List#Knowledge\|Knowledge]]: (any one) 3, [[Skill List#Hide\|Hide]]: +4, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Spot\|Spot]]: +6, [[Skill List#Swim\|Swim]]: +12; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Toughness\|Toughness]]; |
 | Environment          |Temperate aquatic |
 | Organization:        |Solitary or covey (3 hags of any kind plus 1-8 ogres and 1-4 evil giants) |

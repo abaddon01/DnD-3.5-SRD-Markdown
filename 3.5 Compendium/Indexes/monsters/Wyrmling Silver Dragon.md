@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling Silver Dragon
+title: 3.5 Compendium / Monsters / Wyrmling_Silver_Dragon
 aliases: 
  - Wyrmling Silver Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Wyrmling Silver Dragon
+ - Wyrmling_Silver_Dragon
+ - CR4
 type: Silver Dragon(Wyrmling)
 cr: 4
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Alternate Form, Immunity To Acid And Cold, Cloudwalking, Vulnerability To Fire; |
-| Saves:               |Fort: 6, Ref: 5, Will: 7 |
+| Saves:               |Fort: +6, Ref: +5, Will: +7 |
 | Abilities:           |Str: 13, Dex: 10, Con: 13, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

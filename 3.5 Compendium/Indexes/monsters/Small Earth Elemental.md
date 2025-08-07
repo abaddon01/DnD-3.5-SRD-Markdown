@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small Earth Elemental
+title: 3.5 Compendium / Monsters / Small_Earth_Elemental
 aliases: 
  - Small Earth Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Small Earth Elemental
+ - Small_Earth_Elemental
+ - CR1
 type: Elemental
 subtypes: 
  - Earth
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Earth Glide, [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 4, Ref: -1, Will: 0 |
+| Saves:               |Fort: +4, Ref: -1, Will: 0 |
 | Abilities:           |Str : 17,  Dex: 8,  Con: 13,  Int: 4,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 3, [[Skill List#Spot\|Spot]]: 2; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +3, [[Skill List#Spot\|Spot]]: +2; |
 | Feats:               |[[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |Elemental Plane of Earth |
 | Organization:        |Solitary |

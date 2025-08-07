@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Formian Taskmaster
+title: 3.5 Compendium / Monsters / Formian_Taskmaster
 aliases: 
  - Formian Taskmaster
 tags: 
  - 3.5e
  - rules
  - monsters
- - Formian Taskmaster
+ - Formian_Taskmaster
+ - CR7
 type: Outsider
 subtypes: 
  - Lawful
@@ -31,9 +32,9 @@ alignment: Always lawful neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
 | Special Qualities    |Hive Mind, Immunity To Poison, Petrification, And Cold, [[Special Abilities#Resistance To Energy\|Resistance]] To Electricity 10, Fire 10, And Sonic 10, [[Special Abilities#spell resistance\|Spell Resistance]]  21, [[Special Abilities#telepathy\|Telepathy]]  100 Ft.; |
-| Saves:               |Fort: 7, Ref: 8, Will: 8 |
+| Saves:               |Fort: +7, Ref: +8, Will: +8 |
 | Abilities:           |Str : 18,  Dex: 16,  Con: 14,  Int: 11,  Wis: 16,  Cha: 19 |
-| Skills:              |[[Skill List#Climb\|Climb]]: 13, [[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Hide\|Hide]]: 12, [[Skill List#Intimidate\|Intimidate]]: 13, [[Skill List#Listen\|Listen]]: 12, [[Skill List#Move Silently\|Move Silently]]: 12, [[Skill List#Search\|Search]]: 9, [[Skill List#Sense Motive\|Sense Motive]]: 12, [[Skill List#Spot\|Spot]]: 12, [[Skill List#Survival\|Survival]]: 3 (+5 following tracks); |
+| Skills:              |[[Skill List#Climb\|Climb]]: +13, [[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Hide\|Hide]]: +12, [[Skill List#Intimidate\|Intimidate]]: +13, [[Skill List#Listen\|Listen]]: +12, [[Skill List#Move Silently\|Move Silently]]: +12, [[Skill List#Search\|Search]]: +9, [[Skill List#Sense Motive\|Sense Motive]]: +12, [[Skill List#Spot\|Spot]]: +12, [[Skill List#Survival\|Survival]]: 3 (+5 following tracks); |
 | Feats:               |[[Feat List#Dodge\|Dodge]], [[Feat List#Improved Initiative\|Improved Initiative]], [[Monster Feats#Multiattack\|Multiattack]]; |
 | Environment          |A lawful-aligned plane |
 | Organization:        |Solitary (1 plus 1 dominated creature) or conscription team (2-4 plus 1 dominated creature per team member) |

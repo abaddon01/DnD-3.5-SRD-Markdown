@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Marut
+ - CR15
 type: Construct
 subtypes: 
  - Extraplanar
@@ -31,10 +32,10 @@ alignment: Always lawful neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Fists of thunder and lightning, spell-like abilities |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  15/chaotic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  10, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#spell resistance\|Spell Resistance]]  25; |
-| Saves:               |Fort: 7, Ref: 6, Will: 8 |
+| Saves:               |Fort: +7, Ref: +6, Will: +8 |
 | Abilities:           |Str : 35,  Dex: 13,  Con: -1,  Int: 12,  Wis: 17,  Cha: 18 |
-| Skills:              |[[Skill List#Concentration\|Concentration]]: 13, [[Skill List#Diplomacy\|Diplomacy]]: 6, [[Skill List#Knowledge\|Knowledge]]: (religion) 10, [[Skill List#Listen\|Listen]]: 16, [[Skill List#Search\|Search]]: 10, [[Skill List#Sense Motive\|Sense Motive]]: 12, [[Skill List#Spot\|Spot]]: 16, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
-| Feats:               |[[Monster Feats#Ability Focus\|Ability Focus]], [[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Power Attack\|Power Attack]]; |
+| Skills:              |[[Skill List#Concentration\|Concentration]]: +13, [[Skill List#Diplomacy\|Diplomacy]]: +6, [[Skill List#Knowledge\|Knowledge]]: (religion) 10, [[Skill List#Listen\|Listen]]: +16, [[Skill List#Search\|Search]]: +10, [[Skill List#Sense Motive\|Sense Motive]]: +12, [[Skill List#Spot\|Spot]]: +16, [[Skill List#Survival\|Survival]]: 3(5followingtracks)+3 (+5 following tracks); |
+| Feats:               |[[Monster Feats#Ability Focus \|Ability Focus ]](fists), [[Monster Feats#Awesome Blow\|Awesome Blow]], [[Feat List#Combat Casting\|Combat Casting]], [[Feat List#Great Fortitude\|Great Fortitude]], [[Feat List#Improved Bull Rush\|Improved Bull Rush]], [[Feat List#Power Attack\|Power Attack]]; |
 | Environment          |A lawful-aligned plane |
 | Organization:        |Solitary |
 | Challenge Rating:    |15 |

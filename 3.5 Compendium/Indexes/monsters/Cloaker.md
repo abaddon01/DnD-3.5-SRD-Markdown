@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Cloaker
+ - CR5
 type: Aberration
 cr: 5
 environment: Underground
@@ -28,9 +29,9 @@ alignment: Usually chaotic neutral
 | Space/Reach:         |10 ft./10 ft. (5 ft. with bite) |
 | Special Attacks:     |Moan, engulf |
 | Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Shadow Shift; |
-| Saves:               |Fort: 5, Ref: 5, Will: 7 |
+| Saves:               |Fort: +5, Ref: +5, Will: +7 |
 | Abilities:           |Str : 21,  Dex: 16,  Con: 17,  Int: 14,  Wis: 15,  Cha: 15 |
-| Skills:              |[[Skill List#Hide\|Hide]]: 8, [[Skill List#Listen\|Listen]]: 13, [[Skill List#Move Silently\|Move Silently]]: 12, [[Skill List#Spot\|Spot]]: 13; |
+| Skills:              |[[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Move Silently\|Move Silently]]: +12, [[Skill List#Spot\|Spot]]: +13; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Feat List#Improved Initiative\|Improved Initiative]]; |
 | Environment          |Underground |
 | Organization:        |Solitary, mob (3-6), or flock (7-12) |

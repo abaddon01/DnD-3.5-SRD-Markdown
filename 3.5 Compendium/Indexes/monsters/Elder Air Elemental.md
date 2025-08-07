@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder Air Elemental
+title: 3.5 Compendium / Monsters / Elder_Air_Elemental
 aliases: 
  - Elder Air Elemental
 tags: 
  - 3.5e
  - rules
  - monsters
- - Elder Air Elemental
+ - Elder_Air_Elemental
+ - CR11
 type: Elemental
 subtypes: 
  - Air
@@ -31,9 +32,9 @@ alignment: Usually neutral
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] ; |
-| Saves:               |Fort: 12, Ref: 25, Will: 10 |
+| Saves:               |Fort: +12, Ref: +25, Will: +10 |
 | Abilities:           |Str : 22,  Dex: 33,  Con: 18,  Int: 10,  Wis: 11,  Cha: 11 |
-| Skills:              |[[Skill List#Listen\|Listen]]: 29, [[Skill List#Spot\|Spot]]: 29; |
+| Skills:              |[[Skill List#Listen\|Listen]]: +29, [[Skill List#Spot\|Spot]]: +29; |
 | Feats:               |[[Feat List#Alertness\|Alertness]], [[Feat List#Blind-fight\|Blind-fight]], [[Feat List#Cleave\|Cleave]], [[Feat List#Combat Reflexes\|Combat Reflexes]], [[Monster Feats#Flyby Attack\|Flyby Attack]], [[Feat List#Improved Initiative \|Improved Initiative ]](B), [[Feat List#Iron Will\|Iron Will]], [[Feat List#Mobility\|Mobility]], [[Feat List#Power Attack\|Power Attack]], [[Feat List#Spring Attack\|Spring Attack]], [[Feat List#Weapon Finesse \|Weapon Finesse ]](B); |
 | Environment          |Elemental Plane of Air |
 | Organization:        |Solitary |

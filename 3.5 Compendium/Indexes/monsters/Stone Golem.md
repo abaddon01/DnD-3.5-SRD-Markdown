@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Stone Golem
+title: 3.5 Compendium / Monsters / Stone_Golem
 aliases: 
  - Stone Golem
 tags: 
  - 3.5e
  - rules
  - monsters
- - Stone Golem
+ - Stone_Golem
+ - CR11
 type: Construct
 cr: 11
 environment: Any
@@ -28,7 +29,7 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  10/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 4, Ref: 3, Will: 4 |
+| Saves:               |Fort: +4, Ref: +3, Will: +4 |
 | Abilities:           |Str : 29,  Dex: 9,  Con: -,  Int: -,  Wis: 11,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#-\|-]]; |

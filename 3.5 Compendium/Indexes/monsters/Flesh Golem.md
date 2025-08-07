@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Flesh Golem
+title: 3.5 Compendium / Monsters / Flesh_Golem
 aliases: 
  - Flesh Golem
 tags: 
  - 3.5e
  - rules
  - monsters
- - Flesh Golem
+ - Flesh_Golem
+ - CR7
 type: Construct
 cr: 7
 environment: Any
@@ -28,10 +29,10 @@ alignment: Always neutral
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Berserk |
 | Special Qualities    |[[Traits#construct traits\|Construct Traits]] , [[Special Abilities#damage reduction\|Damage Reduction]]  5/adamantine, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Magic, [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 3, Ref: 2, Will: 3 |
+| Saves:               |Fort: +3, Ref: +2, Will: +3 |
 | Abilities:           |Str : 21,  Dex: 9,  Con: -1,  Int: -1,  Wis: 11,  Cha: 1 |
 | Skills:              |; |
-| Feats:               |; |
+| Feats:               |[[Feat List#--\|--]]; |
 | Environment          |Any |
 | Organization:        |Solitary or gang (2-4) |
 | Challenge Rating:    |7 |

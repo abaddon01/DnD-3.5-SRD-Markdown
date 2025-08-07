@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Chimera Skeleton
+title: 3.5 Compendium / Monsters / Chimera_Skeleton
 aliases: 
  - Chimera Skeleton
 tags: 
  - 3.5e
  - rules
  - monsters
- - Chimera Skeleton
+ - Chimera_Skeleton
+ - CR4
 type: Undead
 cr: 4
 environment: Temperate hills
@@ -28,7 +29,7 @@ alignment: Always neutral evil
 | Space/Reach:         |10 ft./5 ft |
 | Special Attacks:     | |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/bludgeoning, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Traits#undead traits\|Undead Traits]] ; |
-| Saves:               |Fort: 3, Ref: 5, Will: 6 |
+| Saves:               |Fort: +3, Ref: +5, Will: +6 |
 | Abilities:           |Str : 19,  Dex: 15,  Con: -1,  Int: -1,  Wis: 10,  Cha: 1 |
 | Skills:              |; |
 | Feats:               |[[Feat List#Improved Initiative\|Improved Initiative]]; |

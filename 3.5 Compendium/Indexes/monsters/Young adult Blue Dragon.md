@@ -1,13 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young adult Blue Dragon
+title: 3.5 Compendium / Monsters / Young_adult_Blue_Dragon
 aliases: 
  - Young adult Blue Dragon
 tags: 
  - 3.5e
  - rules
  - monsters
- - Young adult Blue Dragon
+ - Young_adult_Blue_Dragon
+ - CR11
 type: Blue Dragon(Young adult)
 cr: 11
 environment: 
@@ -28,7 +29,7 @@ alignment:
 | Space/Reach:         |10 ft./5 ft. (10 ft. with bite) |
 | Special Attacks:     | |
 | Special Qualities    |DR 5/magic; |
-| Saves:               |Fort: 15, Ref: 11, Will: 13 |
+| Saves:               |Fort: +15, Ref: +11, Will: +13 |
 | Abilities:           |Str: 23, Dex: 10, Con: 19, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
 | Feats:               |; |

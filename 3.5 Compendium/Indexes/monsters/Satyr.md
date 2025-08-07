@@ -8,6 +8,7 @@ tags:
  - rules
  - monsters
  - Satyr
+ - CR2 (without pipes) or 4 (with pipes)
 type: Fey
 cr: 2 (without pipes) or 4 (with pipes)
 environment: Temperate forests
@@ -28,9 +29,9 @@ alignment: Usually chaotic neutral
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Pipes |
 | Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/cold Iron, [[Special Abilities#low-light vision\|Low-light Vision]] ; |
-| Saves:               |Fort: 2, Ref: 5, Will: 5 |
+| Saves:               |Fort: +2, Ref: +5, Will: +5 |
 | Abilities:           |Str : 10,  Dex: 13,  Con: 12,  Int: 12,  Wis: 13,  Cha: 13 |
-| Skills:              |[[Skill List#Bluff\|Bluff]]: 9, [[Skill List#Diplomacy\|Diplomacy]]: 3, [[Skill List#Disguise\|Disguise]]: +1 (+3 acting) , [[Skill List#Hide\|Hide]]: 13, [[Skill List#Intimidate\|Intimidate]]: 3, [[Skill List#Knowledge\|Knowledge]]: (nature) 9, [[Skill List#Listen\|Listen]]: 15, [[Skill List#Move Silently\|Move Silently]]: 13, [[Skill List#Perform\|Perform]]: (wind instruments) 9, [[Skill List#Spot\|Spot]]: 15, [[Skill List#Survival\|Survival]]: 1(3aboveground)+1 (+3 aboveground); |
+| Skills:              |[[Skill List#Bluff\|Bluff]]: +9, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Disguise\|Disguise]]: +1 (+3 acting) , [[Skill List#Hide\|Hide]]: +13, [[Skill List#Intimidate\|Intimidate]]: +3, [[Skill List#Knowledge\|Knowledge]]: (nature) 9, [[Skill List#Listen\|Listen]]: +15, [[Skill List#Move Silently\|Move Silently]]: +13, [[Skill List#Perform\|Perform]]: (wind instruments) 9, [[Skill List#Spot\|Spot]]: +15, [[Skill List#Survival\|Survival]]: 1(3aboveground)+1 (+3 aboveground); |
 | Feats:               |[[Feat List#Alertness \|Alertness ]](B), [[Feat List#Dodge\|Dodge]], [[Feat List#Mobility\|Mobility]]; |
 | Environment          |Temperate forests |
 | Organization:        |Solitary, pair, band (3-5), or troop (6-11) |
