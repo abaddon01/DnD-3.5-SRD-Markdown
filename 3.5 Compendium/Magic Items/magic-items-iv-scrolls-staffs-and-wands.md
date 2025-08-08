@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Magic Items - Magic Items IV (Scrolls, Staffs, and Wands)
-aliases: 3.5 Magic Items IV (Scrolls, Staffs, and Wands)
+aliases:
+  - 3.5 Magic Items IV (Scrolls Staffs and Wands)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - magic_items
   - magic_items_iv_scrolls,_staffs,_and_wands
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -64,15 +64,15 @@ To have any chance of activating a scroll spell, the scroll user must meet the f
 *   The user must have the spell on his or her class list.
 *   The user must have the requisite ability score.
 
-If the user meets all the requirements noted above, and her caster level is at least equal to the spell’s caster
+If the user meets all the requirements noted above, and her caster level is at least equal to the spell's caster
 level, she can automatically activate the spell without a check. If she meets all three requirements but her own
-caster level is lower than the scroll spell’s caster level, then she has to make a caster level check (DC =
-scroll’s caster level + 1) to cast the spell successfully. If she fails, she must make a DC 5 Wisdom check to
+caster level is lower than the scroll spell's caster level, then she has to make a caster level check (DC =
+scroll's caster level + 1) to cast the spell successfully. If she fails, she must make a DC 5 Wisdom check to
 avoid a mishap (see Scroll Mishaps, below). A natural roll of 1 always fails, whatever the modifiers.
 
 _Determine Effect:_ A spell successfully activated from a scroll works exactly like a spell prepared and
-cast the normal way. Assume the scroll spell’s caster level is always the minimum level required to cast the spell
-for the character who scribed the scroll (usually twice the spell’s level, minus 1), unless the caster
+cast the normal way. Assume the scroll spell's caster level is always the minimum level required to cast the spell
+for the character who scribed the scroll (usually twice the spell's level, minus 1), unless the caster
 specifically desires otherwise.
 
 The writing for an activated spell disappears from the scroll.
@@ -83,18 +83,18 @@ mishaps are given below.
 *   A surge of uncontrolled magical energy deals 1d6 points of damage per spell level to the scroll user.
 *   Spell strikes the scroll user or an ally instead of the intended target, or a random target nearby if the scroll user was the intended recipient.
 *   Spell takes effect at some random location within spell range.
-*   Spell’s effect on the target is contrary to the spell’s normal effect.
-*   The scroll user suffers some minor but bizarre effect related to the spell in some way. Most such effects should last only as long as the original spell’s duration, or 2d10 minutes for instantaneous spells.
-*   Some innocuous item or items appear in the spell’s area.
-*   Spell has delayed effect. Sometime within the next 1d12 hours, the spell activates. If the scroll user was the intended recipient, the spell takes effect normally. If the user was not the intended recipient, the spell goes off in the general direction of the original recipient or target, up to the spell’s maximum range, if the target has moved away.
+*   Spell's effect on the target is contrary to the spell's normal effect.
+*   The scroll user suffers some minor but bizarre effect related to the spell in some way. Most such effects should last only as long as the original spell's duration, or 2d10 minutes for instantaneous spells.
+*   Some innocuous item or items appear in the spell's area.
+*   Spell has delayed effect. Sometime within the next 1d12 hours, the spell activates. If the scroll user was the intended recipient, the spell takes effect normally. If the user was not the intended recipient, the spell goes off in the general direction of the original recipient or target, up to the spell's maximum range, if the target has moved away.
 
 Several arcane spells are different in level for sorcerers and wizards than they are for bards. Such spells appear
 on the table at the level appropriate to a sorcerer or wizard (considered the default because bards typically
-don’t involve themselves in scribing scrolls).
+don't involve themselves in scribing scrolls).
 
 Likewise, some divine spells are different in level for clerics and druids than they are for paladins and rangers.
 Such spells appear at the level appropriate to a cleric or druid (considered the default because paladins and
-rangers typically don’t involve themselves in scribing scrolls).
+rangers typically don't involve themselves in scribing scrolls).
 
 If a divine spell is cast at different levels by clerics and druids, it appears at the level appropriate to a
 cleric (considered the default choice between clerics and druids).
@@ -119,18 +119,18 @@ the level appropriate to the class of the arcane or divine caster.
 
 **Table: Scroll Spell Levels**
 
-| Minor | Medium | Major | Spell Level | Spell’s Caster Level<sup>1</sup> |
+| Minor | Medium | Major | Spell Level | Spell's Caster Level<sup>1</sup> |
 | --- | --- | --- | --- | --- |
-| 01-05 | --- | --- | 0 | 1st |
-| 06-50 | --- | --- | 1st | 1st |
-| 51-95 | 01-05 | --- | 2nd | 3rd |
-| 96-100 | 06-65 | --- | 3rd | 5th |
-| --- | 66-95 | 01-05 | 4th | 7th |
-| --- | 96-100 | 06-50 | 5th | 9th |
-| --- | --- | 51-70 | 6th | 11th |
-| --- | --- | 71-85 | 7th | 13th |
-| --- | --- | 86-95 | 8th | 15th |
-| --- | --- | 95-100 | 9th | 17th |
+| 01-05 | -- | -- | 0 | 1st |
+| 06-50 | -- | -- | 1st | 1st |
+| 51-95 | 01-05 | -- | 2nd | 3rd |
+| 96-100 | 06-65 | -- | 3rd | 5th |
+| -- | 66-95 | 01-05 | 4th | 7th |
+| -- | 96-100 | 06-50 | 5th | 9th |
+| -- | -- | 51-70 | 6th | 11th |
+| -- | -- | 71-85 | 7th | 13th |
+| -- | -- | 86-95 | 8th | 15th |
+| -- | -- | 95-100 | 9th | 17th |
 | 1 These numbers assume that the creator is a cleric, druid, or wizard. |
 
 **Table: Arcane Spell Scrolls**
@@ -210,12 +210,12 @@ the level appropriate to the class of the arcane or divine caster.
 | 01 | _animal messenger_ | 200 gp |
 | 02 | _animal trance_ | 200 gp |
 | 03 | _arcane lock_ | 175 gp |
-| 04-06 | _bear’s endurance_ | 150 gp |
+| 04-06 | _bear's endurance_ | 150 gp |
 | 07-08 | _blindness/deafness_ | 150 gp |
 | 09-10 | _blur_ | 150 gp |
-| 11-13 | _bull’s strength_ | 150 gp |
+| 11-13 | _bull's strength_ | 150 gp |
 | 14 | _calm emotions_ | 200 gp |
-| 15-17 | _cat’s grace_ | 150 gp |
+| 15-17 | _cat's grace_ | 150 gp |
 | 18-19 | _command undead_ | 150 gp |
 | 20 | _continual flame_ | 200 gp |
 | 21 | _cure moderate wounds_ | 200 gp |
@@ -225,12 +225,12 @@ the level appropriate to the class of the arcane or divine caster.
 | 27 | _delay poison_ | 200 gp |
 | 28-29 | _detect thoughts_ | 150 gp |
 | 30-31 | _disguise self_ | 150 gp |
-| 32-34 | _eagle’s splendor_ | 150 gp |
+| 32-34 | _eagle's splendor_ | 150 gp |
 | 35 | _enthrall_ | 200 gp |
 | 36-37 | _false life_ | 150 gp |
 | 38-39 | _flaming sphere_ | 150 gp |
 | 40 | _fog cloud_ | 150 gp |
-| 41-43 | _fox’s cunning_ | 150 gp |
+| 41-43 | _fox's cunning_ | 150 gp |
 | 44 | _ghoul touch_ | 150 gp |
 | 45-46 | _glitterdust_ | 150 gp |
 | 47 | _gust of wind_ | 150 gp |
@@ -246,7 +246,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 64-65 | _mirror image_ | 150 gp |
 | 66 | _misdirection_ | 150 gp |
 | 67 | _obscure object_ | 150 gp |
-| 68-70 | _owl’s wisdom_ | 150 gp |
+| 68-70 | _owl's wisdom_ | 150 gp |
 | 71-73 | _protection from arrows_ | 150 gp |
 | 74-75 | _pyrotechnics_ | 150 gp |
 | 76-78 | _resist energy_ | 150 gp |
@@ -388,8 +388,8 @@ the level appropriate to the class of the arcane or divine caster.
 | 42-43 | _major creation_ | 1,125 gp |
 | 44-45 | _mind fog_ | 1,125 gp |
 | 46-47 | _mirage arcana_ | 1,125 gp |
-| 48-49 | _mage’s faithful hound_ | 1,125 gp |
-| 50-51 | _mage’s private sanctum_ | 1,125 gp |
+| 48-49 | _mage's faithful hound_ | 1,125 gp |
+| 50-51 | _mage's private sanctum_ | 1,125 gp |
 | 52-53 | _nightmare_ | 1,125 gp |
 | 54-57 | _overland flight_ | 1,125 gp |
 | 58-60 | _passwall_ | 1,125 gp |
@@ -419,10 +419,10 @@ the level appropriate to the class of the arcane or divine caster.
 | 03-05 | _analyze dweomer_ | 1,650 gp |
 | 06 | _animate objects_ | 2,400 gp |
 | 07-09 | _antimagic field_ | 1,650 gp |
-| 10-12 | _bear’s endurance, mass_ | 1,650 gp |
+| 10-12 | _bear's endurance, mass_ | 1,650 gp |
 | 13-14 | _forceful hand_ | 1,650 gp |
-| 15-17 | _bull’s strength, mass_ | 1,650 gp |
-| 18-20 | _cat’s grace, mass_ | 1,650 gp |
+| 15-17 | _bull's strength, mass_ | 1,650 gp |
+| 18-20 | _cat's grace, mass_ | 1,650 gp |
 | 21-23 | _chain lightning_ | 1,650 gp |
 | 24-25 | _circle of death_ | 2,150 gp |
 | 26 | _contingency_ | 1,650 gp |
@@ -431,22 +431,22 @@ the level appropriate to the class of the arcane or divine caster.
 | 30 | _cure moderate wounds, mass_ | 2,400 gp |
 | 31-33 | _disintegrate_ | 1,650 gp |
 | 34-37 | _dispel magic, greater_ | 1,650 gp |
-| 38-40 | _eagle’s splendor, mass_ | 1,650 gp |
+| 38-40 | _eagle's splendor, mass_ | 1,650 gp |
 | 41-42 | _eyebite_ | 1,650 gp |
 | 43 | _find the path_ | 2,400 gp |
 | 44-45 | _flesh to stone_ | 1,650 gp |
-| 46-48 | _fox’s cunning, mass_ | 1,650 gp |
+| 46-48 | _fox's cunning, mass_ | 1,650 gp |
 | 49 | _geas/quest_ | 1,650 gp |
 | 50-52 | _globe of invulnerability_ | 1,650 gp |
 | 53 | _guards and wards_ | 1,650 gp |
-| 54 | _heroes’ feast_ | 2,400 gp |
+| 54 | _heroes' feast_ | 2,400 gp |
 | 55-56 | _heroism, greater_ | 1,650 gp |
 | 57 | _legend lore_ | 1,900 gp |
 | 58-59 | _mislead_ | 1,650 gp |
-| 60 | _mage’s lucubration_ | 1,650 gp |
+| 60 | _mage's lucubration_ | 1,650 gp |
 | 61-62 | _move earth_ | 1,650 gp |
 | 63-64 | _freezing sphere_ | 1,650 gp |
-| 65-67 | _owl’s wisdom, mass_ | 1,650 gp |
+| 65-67 | _owl's wisdom, mass_ | 1,650 gp |
 | 68-69 | _permanent image_ | 1,650 gp |
 | 70-71 | _planar binding_ | 1,650 gp |
 | 72-73 | _programmed image_ | 1,675 gp |
@@ -479,8 +479,8 @@ the level appropriate to the class of the arcane or divine caster.
 | 36-38 | _insanity_ | 2,275 gp |
 | 39-42 | _invisibility, mass_ | 2,275 gp |
 | 43 | _limited wish_ | 3,775 gp<sup>1</sup> |
-| 44-45 | _mage’s magnificent mansion_ | 2,275 gp |
-| 46-48 | _mage’s sword_ | 2,275 gp |
+| 44-45 | _mage's magnificent mansion_ | 2,275 gp |
+| 46-48 | _mage's sword_ | 2,275 gp |
 | 49-51 | _phase door_ | 2,275 gp |
 | 52-54 | _plane shift_ | 2,275 gp |
 | 55-57 | _power word blind_ | 2,275 gp |
@@ -553,7 +553,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 37-40 | _hold monster, mass_ | 3,825 gp |
 | 41-44 | _imprisonment_ | 3,825 gp |
 | 45-49 | _meteor swarm_ | 3,825 gp |
-| 50-53 | _mage’s disjunction_ | 3,825 gp |
+| 50-53 | _mage's disjunction_ | 3,825 gp |
 | 54-58 | _power word kill_ | 3,825 gp |
 | 59-62 | _prismatic sphere_ | 3,825 gp |
 | 63-66 | _refuge_ | 3,825 gp |
@@ -631,17 +631,17 @@ the level appropriate to the class of the arcane or divine caster.
 | 93-94 | _shillelagh_ | 25 gp |
 | 95-96 | _speak with animals_ | 25 gp |
 | 97-98 | _summon monster I_ | 25 gp |
-| 99-100 | _summon nature’s ally I_ | 25 gp |
+| 99-100 | _summon nature's ally I_ | 25 gp |
 | _2nd-Level Divine Spells_ |
 | d% | Spell | Market Price |
 | 01 | _animal messenger_ | 150 gp |
 | 02 | _animal trance_ | 150 gp |
 | 03-04 | _augury_ | 175 gp |
 | 05-06 | _barkskin_ | 150 gp |
-| 07-09 | _bear’s endurance_ | 150 gp |
-| 10-12 | _bull’s strength_ | 150 gp |
+| 07-09 | _bear's endurance_ | 150 gp |
+| 10-12 | _bull's strength_ | 150 gp |
 | 13-14 | _calm emotions_ | 150 gp |
-| 15-17 | _cat’s grace_ | 150 gp |
+| 15-17 | _cat's grace_ | 150 gp |
 | 18 | _chill metal_ | 150 gp |
 | 19-20 | _consecrate_ | 200 gp |
 | 21-24 | _cure moderate wounds_ | 150 gp |
@@ -649,7 +649,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 27 | _death knell_ | 150 gp |
 | 28-30 | _delay poison_ | 150 gp |
 | 31-32 | _desecrate_ | 200 gp |
-| 33-35 | _eagle’s splendor_ | 150 gp |
+| 33-35 | _eagle's splendor_ | 150 gp |
 | 36-37 | _enthrall_ | 150 gp |
 | 38-39 | _find traps_ | 150 gp |
 | 40 | _fire trap_ | 175 gp |
@@ -663,7 +663,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 52-54 | _hold person_ | 150 gp |
 | 55-56 | _inflict moderate wounds_ | 150 gp |
 | 57-58 | _make whole_ | 150 gp |
-| 59-61 | _owl’s wisdom_ | 150 gp |
+| 59-61 | _owl's wisdom_ | 150 gp |
 | 62 | _reduce animal_ | 150 gp |
 | 63-64 | _remove paralysis_ | 150 gp |
 | 65-67 | _resist energy_ | 150 gp |
@@ -679,7 +679,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 84-85 | _spiritual weapon_ | 150 gp |
 | 86 | _status_ | 150 gp |
 | 87-88 | _summon monster II_ | 150 gp |
-| 89-90 | _summon nature’s ally II_ | 150 gp |
+| 89-90 | _summon nature's ally II_ | 150 gp |
 | 91-92 | _summon swarm_ | 150 gp |
 | 93 | _tree shape_ | 150 gp |
 | 94-95 | _undetectable alignment_ | 150 gp |
@@ -729,7 +729,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 86-87 | _spike growth_ | 375 gp |
 | 88-89 | _stone shape_ | 375 gp |
 | 90-91 | _summon monster III_ | 375 gp |
-| 92-93 | _summon nature’s ally III_ | 375 gp |
+| 92-93 | _summon nature's ally III_ | 375 gp |
 | 94-96 | _water breathing_ | 375 gp |
 | 97-98 | _water walk_ | 375 gp |
 | 99-100 | _wind wall_ | 375 gp |
@@ -765,7 +765,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 82-85 | _spell immunity_ | 700 gp |
 | 86-87 | _spike stones_ | 700 gp |
 | 88-90 | _summon monster IV_ | 700 gp |
-| 91-93 | _summon nature’s ally IV_ | 700 gp |
+| 91-93 | _summon nature's ally IV_ | 700 gp |
 | 94-98 | _tongues_ | 700 gp |
 | 99-100 | _tree stride_ | 700 gp |
 | _5th-Level Divine Spells_ |
@@ -797,7 +797,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 67-69 | _spell resistance_ | 1,125 gp |
 | 70-71 | _stoneskin_ | 1,375 gp |
 | 72-74 | _summon monster V_ | 1,125 gp |
-| 75-77 | _summon nature’s ally V_ | 1,125 gp |
+| 75-77 | _summon nature's ally V_ | 1,125 gp |
 | 78 | _symbol of pain_ | 2,125 gp |
 | 79 | _symbol of sleep_ | 2,125 gp |
 | 80-82 | _transmute mud to rock_ | 1,125 gp |
@@ -813,14 +813,14 @@ the level appropriate to the class of the arcane or divine caster.
 | 01-03 | _animate objects_ | 1,650 gp |
 | 04-06 | _antilife shell_ | 1,650 gp |
 | 07-09 | _banishment_ | 1,650 gp |
-| 10-13 | _bear’s endurance, mass_ | 1,650 gp |
+| 10-13 | _bear's endurance, mass_ | 1,650 gp |
 | 14-16 | _blade barrier_ | 1,650 gp |
-| 17-20 | _bull’s strength, mass_ | 1,650 gp |
-| 21-24 | _cat’s grace, mass_ | 1,650 gp |
+| 17-20 | _bull's strength, mass_ | 1,650 gp |
+| 21-24 | _cat's grace, mass_ | 1,650 gp |
 | 25 | _create undead_ | 1,650 gp |
 | 26-29 | _cure moderate wounds, mass_ | 1,650 gp |
 | 30-33 | _dispel magic, greater_ | 1,650 gp |
-| 34-37 | _eagle’s splendor, mass_ | 1,650 gp |
+| 34-37 | _eagle's splendor, mass_ | 1,650 gp |
 | 38-40 | _find the path_ | 1,650 gp |
 | 41-43 | _fire seeds_ | 1,650 gp |
 | 44 | _forbiddance_ | 4,650 gp<sup>1</sup> |
@@ -828,18 +828,18 @@ the level appropriate to the class of the arcane or divine caster.
 | 46 | _glyph of warding, greater_ | 1,650 gp |
 | 47-49 | _harm_ | 1,650 gp |
 | 50-52 | _heal_ | 1,650 gp |
-| 53-55 | _heroes’ feast_ | 1,650 gp |
+| 53-55 | _heroes' feast_ | 1,650 gp |
 | 56-58 | _inflict moderate wounds, mass_ | 1,650 gp |
 | 59-61 | _ironwood_ | 1,650 gp |
 | 62 | _liveoak_ | 1,650 gp |
 | 63-65 | _move earth_ | 1,650 gp |
-| 66-69 | _owl’s wisdom, mass_ | 1,650 gp |
+| 66-69 | _owl's wisdom, mass_ | 1,650 gp |
 | 70-71 | _planar ally_ | 2,400 gp |
 | 72-74 | _repel wood_ | 1,650 gp |
 | 75-77 | _spellstaff_ | 1,650 gp |
 | 78-80 | _stone tell_ | 1,650 gp |
 | 81-83 | _summon monster VI_ | 1,650 gp |
-| 84-86 | _summon nature’s ally VI_ | 1,650 gp |
+| 84-86 | _summon nature's ally VI_ | 1,650 gp |
 | 87 | _symbol of fear_ | 2,650 gp |
 | 88 | _symbol of persuasion_ | 6,650 gp |
 | 89-91 | _transport via plants_ | 1,650 gp |
@@ -867,7 +867,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 70-71 | _resurrection_ | 12,275 gp |
 | 72-76 | _scrying, greater_ | 2,275 gp |
 | 77-81 | _summon monster VII_ | 2,275 gp |
-| 82-85 | _summon nature’s ally VII_ | 2,275 gp |
+| 82-85 | _summon nature's ally VII_ | 2,275 gp |
 | 86-90 | _sunbeam_ | 2,275 gp |
 | 91 | _symbol of stunning_ | 7,275 gp |
 | 92 | _symbol of weakness_ | 7,275 gp |
@@ -894,7 +894,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 70-72 | _shield of law_ | 3,000 gp |
 | 73-76 | _spell immunity, greater_ | 3,000 gp |
 | 77-80 | _summon monster VIII_ | 3,000 gp |
-| 81-84 | _summon nature’s ally VIII_ | 3,000 gp |
+| 81-84 | _summon nature's ally VIII_ | 3,000 gp |
 | 85-89 | _sunburst_ | 3,000 gp |
 | 90-91 | _symbol of death_ | 8,000 gp |
 | 92-93 | _symbol of insanity_ | 8,000 gp |
@@ -918,7 +918,7 @@ the level appropriate to the class of the arcane or divine caster.
 | 73-77 | _soul bind_ | 3,825 gp |
 | 78-83 | _storm of vengeance_ | 3,825 gp |
 | 84-89 | _summon monster IX_ | 3,825 gp |
-| 90-95 | _summon nature’s ally IX_ | 3,825 gp |
+| 90-95 | _summon nature's ally IX_ | 3,825 gp |
 | 96-99 | _sympathy_ | 5,325 gp |
 | 100 | _true resurrection_ | 28,825 gp |
 | 1 Assumes powerful request but no expensive material components in excess of 100 gp and no additional XP cost. |
@@ -937,14 +937,14 @@ AC 7, 10 hit points, hardness 5, and a break DC of 24.
 
 ### Activation:
  Staffs use the spell trigger activation method, so casting a spell from a staff is
-usually a standard action that doesn’t provoke attacks of opportunity. (If the spell being cast, however, has a
+usually a standard action that doesn't provoke attacks of opportunity. (If the spell being cast, however, has a
 longer casting time than 1 standard action, it takes that long to cast the spell from a staff.) To activate a
 staff, a character must hold it forth in at least one hand (or whatever passes for a hand, for nonhumanoid
 creatures).
 
 ### Special Qualities:
  Roll d%. A 01-30 result indicates that something (a design, inscription, or
-the like) provides some clue to the staff ’s function, and 31-100 indicates no special qualities.
+the like) provides some clue to the staff 's function, and 31-100 indicates no special qualities.
 
 **Table: Staffs**
 
@@ -958,31 +958,31 @@ the like) provides some clue to the staff ’s function, and 31-100 indicates no
 | 76-90 | 20-24 | _Illumination_ | 48,250 gp |
 | 91-95 | 25-31 | _Frost_ | 56,250 gp |
 | 96-100 | 32-38 | _Defense_ | 58,250 gp |
-| --- | 39-43 | _Abjuration_ | 65,000 gp |
-| --- | 44-48 | _Conjuration_ | 65,000 gp |
-| --- | 49-53 | _Enchantment_ | 65,000 gp |
-| --- | 54-58 | _Evocation_ | 65,000 gp |
-| --- | 59-63 | _Illusion_ | 65,000 gp |
-| --- | 64-68 | _Necromancy_ | 65,000 gp |
-| --- | 69-73 | _Transmutation_ | 65,000 gp |
-| --- | 74-77 | _Divination_ | 73,500 gp |
-| --- | 78-82 | _Earth and stone_ | 80,500 gp |
-| --- | 83-87 | _Woodlands_ | 101,250 gp |
-| --- | 88-92 | _Life_ | 155,750 gp |
-| --- | 93-97 | _Passage_ | 170,500 gp |
-| --- | 98-100 | _Power_ | 211,000 gp |
+| -- | 39-43 | _Abjuration_ | 65,000 gp |
+| -- | 44-48 | _Conjuration_ | 65,000 gp |
+| -- | 49-53 | _Enchantment_ | 65,000 gp |
+| -- | 54-58 | _Evocation_ | 65,000 gp |
+| -- | 59-63 | _Illusion_ | 65,000 gp |
+| -- | 64-68 | _Necromancy_ | 65,000 gp |
+| -- | 69-73 | _Transmutation_ | 65,000 gp |
+| -- | 74-77 | _Divination_ | 73,500 gp |
+| -- | 78-82 | _Earth and stone_ | 80,500 gp |
+| -- | 83-87 | _Woodlands_ | 101,250 gp |
+| -- | 88-92 | _Life_ | 155,750 gp |
+| -- | 93-97 | _Passage_ | 170,500 gp |
+| -- | 98-100 | _Power_ | 211,000 gp |
 
 ## Staff Descriptions
 
-Staffs use the wielder’s ability score and relevant feats to set the DC for saves against their spells. Unlike
-with other sorts of magic items, the wielder can use his caster level when activating the power of a staff if it’s
+Staffs use the wielder's ability score and relevant feats to set the DC for saves against their spells. Unlike
+with other sorts of magic items, the wielder can use his caster level when activating the power of a staff if it's
 higher than the caster level of the staff.
 
-This means that staffs are far more potent in the hands of a powerful spellcaster. Because they use the wielder’s
+This means that staffs are far more potent in the hands of a powerful spellcaster. Because they use the wielder's
 ability score to set the save DC for the spell, spells from a staff are often harder to resist than ones from
 other magic items, which use the minimum ability score required to cast the spell. Not only are aspects of the
 spell dependant on caster level (range, duration, and so on) potentially higher, but spells from a staff are
-harder to dispel and have a better chance of overcoming a target’s spell resistance.
+harder to dispel and have a better chance of overcoming a target's spell resistance.
 
 Furthermore, a staff can hold a spell of any level, unlike a wand, which is limited to spells of 4th level or
 lower. The minimum caster level of a staff is 8th. Standard staffs are described below.
@@ -1267,7 +1267,7 @@ use of the following spells:
 *   _Speak with animals_ (1 charge)
 *   _Barkskin_ (2 charges)
 *   _Wall of thorns_ (3 charges)
-*   _Summon nature’s ally VI_ (3 charges)
+*   _Summon nature's ally VI_ (3 charges)
 *   _Animate plants_ (4 charges)
 
 The staff may be used as a weapon, functioning as a
@@ -1275,13 +1275,13 @@ _+2 quarterstaff_. The _staff of the woodlands_ also allows its wielder to _pass
 will, with no charge cost. These two attributes continue to function after all the charges are expended.
 
 Moderate varied; CL 13th; Craft Staff, Craft Magic Arms and Armor,
-_animate plants, barkskin, charm animal, pass without trace, speak with animals, summon nature’s ally VI, wall of thorns;_
+_animate plants, barkskin, charm animal, pass without trace, speak with animals, summon nature's ally VI, wall of thorns;_
 Price 101,250 gp.
 
 ## Wands
 
 A wand is a thin baton that contains a single spell of 4th level or lower. Each wand has 50 charges when created,
-and each charge expended allows the user to use the wand’s spell one time. A wand that runs out of charges is just
+and each charge expended allows the user to use the wand's spell one time. A wand that runs out of charges is just
 a stick.
 
 ### Physical Description:
@@ -1292,100 +1292,100 @@ decorated with carvings or runes. A typical wand has AC 7, 5 hit points, hardnes
 
 ### Activation:
  Wands use the spell trigger activation method, so casting a spell from a wand is
-usually a standard action that doesn’t provoke attacks of opportunity. (If the spell being cast, however, has a
+usually a standard action that doesn't provoke attacks of opportunity. (If the spell being cast, however, has a
 longer casting time than 1 action, it takes that long to cast the spell from a wand.) To activate a wand, a
 character must hold it in hand (or whatever passes for a hand, for nonhumanoid creatures) and point it in the
 general direction of the target or area. A wand may be used while grappling or while swallowed whole.
 
 ### Special Qualities:
  Roll d%. A 01-30 result indicates that something (a design, inscription, or
-the like) provides some clue to the wand’s function, and 31-100 indicates no special qualities.
+the like) provides some clue to the wand's function, and 31-100 indicates no special qualities.
 
 **Table: Wands**
 
 | Minor | Medium | Major | Wand | Market Price |
 | --- | --- | --- | --- | --- |
-| 01-02 | --- | --- | _Detect magic_ | 375 gp |
-| 03-04 | --- | --- | _Light_ | 375 gp |
-| 05-07 | --- | --- | _Burning hands_ | 750 gp |
-| 08-10 | --- | --- | _Charm animal_ | 750 gp |
-| 11-13 | --- | --- | _Charm person_ | 750 gp |
-| 14-16 | --- | --- | _Color spray_ | 750 gp |
-| 17-19 | --- | --- | _Cure light wounds_ | 750 gp |
-| 20-22 | --- | --- | _Detect secret doors_ | 750 gp |
-| 23-25 | --- | --- | _Enlarge person_ | 750 gp |
-| 26-28 | --- | --- | _Magic missile (1st)_ | 750 gp |
-| 29-31 | --- | --- | _Shocking grasp_ | 750 gp |
-| 32-34 | --- | --- | _Summon monster I_ | 750 gp |
-| 35-36 | --- | --- | _Magic missile (3rd)_ | 2,250 gp |
-| 37 | 01-03 | --- | _Magic missile (5th)_ | 3,750 gp |
-| 38-40 | 04-07 | --- | _Bear’s endurance_ | 4,500 gp |
-| 41-43 | 08-11 | --- | _Bull’s strength_ | 4,500 gp |
-| 44-46 | 12-15 | --- | _Cat’s grace_ | 4,500 gp |
-| 47-49 | 16-20 | --- | _Cure moderate wounds_ | 4,500 gp |
-| 50-51 | 21-22 | --- | _Darkness_ | 4,500 gp |
-| 52-54 | 23-24 | --- | _Daylight_ | 4,500 gp |
-| 55-57 | 25-27 | --- | _Delay poison_ | 4,500 gp |
-| 58-60 | 28-31 | --- | _Eagle’s splendor_ | 4,500 gp |
-| 61-63 | 32-33 | --- | _False life_ | 4,500 gp |
-| 64-66 | 34-37 | --- | _Fox’s cunning_ | 4,500 gp |
-| 67-68 | 38 | --- | _Ghoul touch_ | 4,500 gp |
-| 69-71 | 39 | --- | _Hold person_ | 4,500 gp |
-| 72-74 | 40-42 | --- | _Invisibility_ | 4,500 gp |
-| 75-77 | 43-44 | --- | _Knock_ | 4,500 gp |
-| 78-80 | 45 | --- | _Levitate_ | 4,500 gp |
-| 81-83 | 46-47 | --- | _Acid arrow_ | 4,500 gp |
-| 84-86 | 48-49 | --- | _Mirror image_ | 4,500 gp |
-| 87-89 | 50-53 | --- | _Owl’s wisdom_ | 4,500 gp |
-| 90-91 | 54 | --- | _Shatter_ | 4,500 gp |
-| 92-94 | 55-56 | --- | _Silence_ | 4,500 gp |
-| 95-97 | 57 | --- | _Summon monster II_ | 4,500 gp |
-| 98-100 | 58-59 | --- | _Web_ | 4,500 gp |
-| --- | 60-62 | 01-02 | _Magic missile (7th)_ | 5,250 gp |
-| --- | 63-64 | 03-05 | _Magic missile (9th)_ | 6,750 gp |
-| --- | 65-67 | 06-07 | _Call lightning (5th)_ | 11,250 gp |
-| --- | 68 | 08 | _Charm person,_ heightened (3rd-level spell) | 11,250 gp |
-| --- | 69-70 | 09-10 | _Contagion_ | 11,250 gp |
-| --- | 71-74 | 11-13 | _Cure serious wounds_ | 11,250 gp |
-| --- | 75-77 | 14-15 | _Dispel magic_ | 11,250 gp |
-| --- | 78-81 | 16-17 | _Fireball (5th)_ | 11,250 gp |
-| --- | 82-83 | 18-19 | _Keen edge_ | 11,250 gp |
-| --- | 84-87 | 20-21 | _Lightning bolt (5th)_ | 11,250 gp |
-| --- | 88-89 | 22-23 | _Major image_ | 11,250 gp |
-| --- | 90-91 | 24-25 | _Slow_ | 11,250 gp |
-| --- | 92-94 | 26-27 | _Suggestion_ | 11,250 gp |
-| --- | 95-97 | 28-29 | _Summon monster III_ | 11,250 gp |
-| --- | 98 | 30-31 | _Fireball (6th)_ | 13,500 gp |
-| --- | 99 | 32-33 | _Lightning bolt (6th)_ | 13,500 gp |
-| --- | 100 | 34-35 | _Searing light (6th)_ | 13,500 gp |
-| --- | --- | 36-37 | _Call lightning (8th)_ | 18,000 gp |
-| --- | --- | 38-39 | _Fireball (8th)_ | 18,000 gp |
-| --- | --- | 40-41 | _Lightning bolt (8th)_ | 18,000 gp |
-| --- | --- | 42-45 | _Charm monster_ | 21,000 gp |
-| --- | --- | 46-50 | _Cure critical wounds_ | 21,000 gp |
-| --- | --- | 51-52 | _Dimensional anchor_ | 21,000 gp |
-| --- | --- | 53-55 | _Fear_ | 21,000 gp |
-| --- | --- | 56-59 | _Greater invisibility_ | 21,000 gp |
-| --- | --- | 60 | _Hold person,_ heightened (4th level) | 21,000 gp |
-| --- | --- | 61-65 | _Ice storm_ | 21,000 gp |
-| --- | --- | 66-68 | _Inflict critical wounds_ | 21,000 gp |
-| --- | --- | 69-72 | _Neutralize poison_ | 21,000 gp |
-| --- | --- | 73-74 | _Poison_ | 21,000 gp |
-| --- | --- | 75-77 | _Polymorph_ | 21,000 gp |
-| --- | --- | 78 | _Ray of enfeeblement,_ heightened (4th level) | 21,000 gp |
-| --- | --- | 79 | _Suggestion,_ heightened (4th level) | 21,000 gp |
-| --- | --- | 80-82 | _Summon monster IV_ | 21,000 gp |
-| --- | --- | 83-86 | _Wall of fire_ | 21,000 gp |
-| --- | --- | 87-90 | _Wall of ice_ | 21,000 gp |
-| --- | --- | 91 | _Dispel magic (10th)_ | 22,500 gp |
-| --- | --- | 92 | _Fireball (10th)_ | 22,500 gp |
-| --- | --- | 93 | _Lightning bolt (10th)_ | 22,500 gp |
-| --- | --- | 94 | _Chaos hammer (8th)_ | 24,000 gp |
-| --- | --- | 95 | _Holy smite (8th)_ | 24,000 gp |
-| --- | --- | 96 | _Order’s wrath (8th)_ | 24,000 gp |
-| --- | --- | 97 | _Unholy blight (8th)_ | 24,000 gp |
-| --- | --- | 98-99 | _Restoration_<sup>1</sup> | 26,000 gp |
-| --- | --- | 100 | _Stoneskin_<sup>2</sup> | 33,500 gp |
+| 01-02 | -- | -- | _Detect magic_ | 375 gp |
+| 03-04 | -- | -- | _Light_ | 375 gp |
+| 05-07 | -- | -- | _Burning hands_ | 750 gp |
+| 08-10 | -- | -- | _Charm animal_ | 750 gp |
+| 11-13 | -- | -- | _Charm person_ | 750 gp |
+| 14-16 | -- | -- | _Color spray_ | 750 gp |
+| 17-19 | -- | -- | _Cure light wounds_ | 750 gp |
+| 20-22 | -- | -- | _Detect secret doors_ | 750 gp |
+| 23-25 | -- | -- | _Enlarge person_ | 750 gp |
+| 26-28 | -- | -- | _Magic missile (1st)_ | 750 gp |
+| 29-31 | -- | -- | _Shocking grasp_ | 750 gp |
+| 32-34 | -- | -- | _Summon monster I_ | 750 gp |
+| 35-36 | -- | -- | _Magic missile (3rd)_ | 2,250 gp |
+| 37 | 01-03 | -- | _Magic missile (5th)_ | 3,750 gp |
+| 38-40 | 04-07 | -- | _Bear's endurance_ | 4,500 gp |
+| 41-43 | 08-11 | -- | _Bull's strength_ | 4,500 gp |
+| 44-46 | 12-15 | -- | _Cat's grace_ | 4,500 gp |
+| 47-49 | 16-20 | -- | _Cure moderate wounds_ | 4,500 gp |
+| 50-51 | 21-22 | -- | _Darkness_ | 4,500 gp |
+| 52-54 | 23-24 | -- | _Daylight_ | 4,500 gp |
+| 55-57 | 25-27 | -- | _Delay poison_ | 4,500 gp |
+| 58-60 | 28-31 | -- | _Eagle's splendor_ | 4,500 gp |
+| 61-63 | 32-33 | -- | _False life_ | 4,500 gp |
+| 64-66 | 34-37 | -- | _Fox's cunning_ | 4,500 gp |
+| 67-68 | 38 | -- | _Ghoul touch_ | 4,500 gp |
+| 69-71 | 39 | -- | _Hold person_ | 4,500 gp |
+| 72-74 | 40-42 | -- | _Invisibility_ | 4,500 gp |
+| 75-77 | 43-44 | -- | _Knock_ | 4,500 gp |
+| 78-80 | 45 | -- | _Levitate_ | 4,500 gp |
+| 81-83 | 46-47 | -- | _Acid arrow_ | 4,500 gp |
+| 84-86 | 48-49 | -- | _Mirror image_ | 4,500 gp |
+| 87-89 | 50-53 | -- | _Owl's wisdom_ | 4,500 gp |
+| 90-91 | 54 | -- | _Shatter_ | 4,500 gp |
+| 92-94 | 55-56 | -- | _Silence_ | 4,500 gp |
+| 95-97 | 57 | -- | _Summon monster II_ | 4,500 gp |
+| 98-100 | 58-59 | -- | _Web_ | 4,500 gp |
+| -- | 60-62 | 01-02 | _Magic missile (7th)_ | 5,250 gp |
+| -- | 63-64 | 03-05 | _Magic missile (9th)_ | 6,750 gp |
+| -- | 65-67 | 06-07 | _Call lightning (5th)_ | 11,250 gp |
+| -- | 68 | 08 | _Charm person,_ heightened (3rd-level spell) | 11,250 gp |
+| -- | 69-70 | 09-10 | _Contagion_ | 11,250 gp |
+| -- | 71-74 | 11-13 | _Cure serious wounds_ | 11,250 gp |
+| -- | 75-77 | 14-15 | _Dispel magic_ | 11,250 gp |
+| -- | 78-81 | 16-17 | _Fireball (5th)_ | 11,250 gp |
+| -- | 82-83 | 18-19 | _Keen edge_ | 11,250 gp |
+| -- | 84-87 | 20-21 | _Lightning bolt (5th)_ | 11,250 gp |
+| -- | 88-89 | 22-23 | _Major image_ | 11,250 gp |
+| -- | 90-91 | 24-25 | _Slow_ | 11,250 gp |
+| -- | 92-94 | 26-27 | _Suggestion_ | 11,250 gp |
+| -- | 95-97 | 28-29 | _Summon monster III_ | 11,250 gp |
+| -- | 98 | 30-31 | _Fireball (6th)_ | 13,500 gp |
+| -- | 99 | 32-33 | _Lightning bolt (6th)_ | 13,500 gp |
+| -- | 100 | 34-35 | _Searing light (6th)_ | 13,500 gp |
+| -- | -- | 36-37 | _Call lightning (8th)_ | 18,000 gp |
+| -- | -- | 38-39 | _Fireball (8th)_ | 18,000 gp |
+| -- | -- | 40-41 | _Lightning bolt (8th)_ | 18,000 gp |
+| -- | -- | 42-45 | _Charm monster_ | 21,000 gp |
+| -- | -- | 46-50 | _Cure critical wounds_ | 21,000 gp |
+| -- | -- | 51-52 | _Dimensional anchor_ | 21,000 gp |
+| -- | -- | 53-55 | _Fear_ | 21,000 gp |
+| -- | -- | 56-59 | _Greater invisibility_ | 21,000 gp |
+| -- | -- | 60 | _Hold person,_ heightened (4th level) | 21,000 gp |
+| -- | -- | 61-65 | _Ice storm_ | 21,000 gp |
+| -- | -- | 66-68 | _Inflict critical wounds_ | 21,000 gp |
+| -- | -- | 69-72 | _Neutralize poison_ | 21,000 gp |
+| -- | -- | 73-74 | _Poison_ | 21,000 gp |
+| -- | -- | 75-77 | _Polymorph_ | 21,000 gp |
+| -- | -- | 78 | _Ray of enfeeblement,_ heightened (4th level) | 21,000 gp |
+| -- | -- | 79 | _Suggestion,_ heightened (4th level) | 21,000 gp |
+| -- | -- | 80-82 | _Summon monster IV_ | 21,000 gp |
+| -- | -- | 83-86 | _Wall of fire_ | 21,000 gp |
+| -- | -- | 87-90 | _Wall of ice_ | 21,000 gp |
+| -- | -- | 91 | _Dispel magic (10th)_ | 22,500 gp |
+| -- | -- | 92 | _Fireball (10th)_ | 22,500 gp |
+| -- | -- | 93 | _Lightning bolt (10th)_ | 22,500 gp |
+| -- | -- | 94 | _Chaos hammer (8th)_ | 24,000 gp |
+| -- | -- | 95 | _Holy smite (8th)_ | 24,000 gp |
+| -- | -- | 96 | _Order's wrath (8th)_ | 24,000 gp |
+| -- | -- | 97 | _Unholy blight (8th)_ | 24,000 gp |
+| -- | -- | 98-99 | _Restoration_<sup>1</sup> | 26,000 gp |
+| -- | -- | 100 | _Stoneskin_<sup>2</sup> | 33,500 gp |
 | 1 The cost to create a _wand of restoration_ is 10,500 gp, 840 XP, plus 5,000 gp for the material components. |
 | 2 The cost to create a _wand of stoneskin_ is 10,500 gp, 840 XP, plus 12,500 gp for the material components. |
 

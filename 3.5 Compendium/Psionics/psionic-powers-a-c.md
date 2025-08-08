@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Psionics - Psionic Powers (A-C)
-aliases: 3.5 Psionic Powers (A-C)
+aliases:
+  - 3.5 Psionic Powers (A-C)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - psionics
   - psionic_powers_a-c
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -131,7 +131,7 @@ lost persist after this power ends.
 Creatures in range are also subject to magical and psionic effects of 3rd level or lower. Creatures that have an
 affinity to you gain a saving throw against each new power transferred through the _affinity field_ as if the
 power were manifested upon them normally. All magical and psionic effects transferred to subjects fade at the end
-of this power’s duration, although instantaneous effects remain. If you suddenly become immune to a particular
+of this power's duration, although instantaneous effects remain. If you suddenly become immune to a particular
 effect or power, the effect or power to which you are immune cannot be transferred to creatures that have affinity
 to you.
 
@@ -218,8 +218,8 @@ Telepathy [Mind-Affecting]
 ### Power Points:
  17, XP
 
-By using this power, you delete 1d4 powers permanently from the subject’s mind. You specify the level of each
-power, and the DM randomly determines which of the subject’s powers is actually deleted.
+By using this power, you delete 1d4 powers permanently from the subject's mind. You specify the level of each
+power, and the DM randomly determines which of the subject's powers is actually deleted.
 _Psychic chirurgery_ or _reality revision_ can be used to restore the lost powers, but it must be
 performed within 1 week of losing the powers.
 
@@ -247,7 +247,7 @@ Psychometabolism
 
 Your pointing finger turns black as obsidian. A creature touched by you is partially assimilated into your form
 and takes 20d6 points of damage. Any creature reduced to 0 or fewer hit points by this power is killed, entirely
-assimilated into your form, leaving behind only a trace of fine dust. An assimilated creature’s equipment is
+assimilated into your form, leaving behind only a trace of fine dust. An assimilated creature's equipment is
 unaffected.
 
 A creature that is partially assimilated into your form (that is, a creature that has at least 1 hit point
@@ -282,7 +282,7 @@ other planes, you can travel astrally to any of these other planes as you wish, 
 below).
 
 You can bring other willing creatures with you, provided that these subjects have each manifested
-_astral traveler_ and are linked hand to hand with you at the time of the _astral caravan_’s
+_astral traveler_ and are linked hand to hand with you at the time of the _astral caravan_'s
 manifestation. These fellow travelers are dependent upon you and must accompany you at all times. If something
 happens to you during the journey that causes you to break hand-to-hand contact, your companions are stranded
 wherever you leave them. Because the planes are a dangerous place, those who lead _astral caravans_ usually
@@ -298,7 +298,7 @@ power ends, you and your fellow travelers halt in whatever portion of the Astral
 any other).
 
 While you are traveling through the Astral Plane, those natives who happen to glimpse you and your fellow
-travelers perceive you to be moving at a speed of 30 feet (you can’t run), with you flying in the lead and your
+travelers perceive you to be moving at a speed of 30 feet (you can't run), with you flying in the lead and your
 fellow travelers strung out behind you, each linked to the next by one hand.
 
 Depending on your knowledge of the planes, your journey through the subjective space that is the Astral Plane may
@@ -322,7 +322,7 @@ you have with the place; see the tables below.
 | Connection | Check Modifier |
 | Likeness or picture of destination | +2 |
 | Object from destination | +4 |
-| Planar Cartographer’s map of destination | +10 |
+| Planar Cartographer's map of destination | +10 |
 
 Each successful check indicates that you are one step closer to your goal. To finally arrive at your location, you
 must succeed on six checks within a span of 12 days. (If you fail to make six successful checks within the first
@@ -365,7 +365,7 @@ Metacreativity (Creation)
 This power creates one 1st-level astral construct of solidified ectoplasm that attacks your enemies. It appears
 where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. As a
 free action, you can mentally direct it not to attack, to attack particular enemies, or to perform other actions.
-The astral construct acts normally on the last round of the power’s duration and dissipates at the end of its
+The astral construct acts normally on the last round of the power's duration and dissipates at the end of its
 turn.
 
 Astral constructs are not summoned; they are created on the plane you inhabit (using ectoplasm drawn from the
@@ -406,13 +406,13 @@ Upon transference, your physical remains (should they still exist) become inert 
 restored to life. The transfer from the slain body to the _astral seed_ works over any distance, physical or
 extradimensional.
 
-Once your body’s physical demise activates the storage crystal, you have the abilities of a psicrystal of the
+Once your body's physical demise activates the storage crystal, you have the abilities of a psicrystal of the
 appropriate level, plus all the powers you knew and the maximum power points you possessed when
-_astral seed_ was manifested---but you also have a negative level that cannot be healed and that does not
+_astral seed_ was manifested--but you also have a negative level that cannot be healed and that does not
 convert to real level loss in your current crystalline form. You have thirty days to grow an organic body, after
-which time your sentience fades and your soul passes on if it hasn’t entered a new body.
+which time your sentience fades and your soul passes on if it hasn't entered a new body.
 
-To grow a body, you (in the storage crystal) must spend ten days in uninterrupted solitude. The body’s constituent
+To grow a body, you (in the storage crystal) must spend ten days in uninterrupted solitude. The body's constituent
 parts are pulled as ectoplasm from the Astral Plane, then slowly molded and transformed into a living, breathing
 body that is an exact duplicate of your body at the time you manifested _astral seed_ (the crystal itself
 breaks down and becomes a part of the new organic body). When the tenth day ends, you completely and totally
@@ -423,7 +423,7 @@ If the body is struck for any amount of damage during the ten-day period when it
 your soul passes on.
 
 Conceivably, you could manifest _mind switch_ to utilize a temporary body, but only an evil creature would
-smash his own temporarily empty storage crystal to permanently usurp a subject’s organic body (unless the subject
+smash his own temporarily empty storage crystal to permanently usurp a subject's organic body (unless the subject
 is itself irredeemably evil).
 
 ## Astral Traveler
@@ -462,7 +462,7 @@ exist that can damage a silvery cord.
 The last creature in the line of those making up the caravan is sometimes referred to as the rear guard, because
 he or she has one hand free and can use it to wield a weapon without relinquishing his or her grip on the next
 traveler in line. The weightless, subjective environment of the Astral Plane allows the caravan to flex and bend
-as necessary to bring the rear guard’s weapon to bear.
+as necessary to bring the rear guard's weapon to bear.
 
 ## Attraction
 Telepathy (Charm) [Mind-Affecting]
@@ -487,15 +487,15 @@ Telepathy (Charm) [Mind-Affecting]
 
 You plant a compelling attraction in the mind of the subject. The attraction can be toward a particular person or
 an object. The subject will take reasonable steps to meet, get close to, attend, or find the object of its
-implanted attraction. For the purpose of this power, "reasonable" means that, while attracted, the subject doesn’t
-suffer from blind obsession. He will act on this attraction only when not engaged in combat. The subject won’t
+implanted attraction. For the purpose of this power, "reasonable" means that, while attracted, the subject doesn't
+suffer from blind obsession. He will act on this attraction only when not engaged in combat. The subject won't
 perform obviously suicidal actions. He can still recognize danger but will not flee unless the threat is
-immediate. If you make the subject feel an attraction to yourself, you can’t command him indiscriminately,
+immediate. If you make the subject feel an attraction to yourself, you can't command him indiscriminately,
 although he will be willing to listen to you (even if he disagrees). This power grants you a +4 bonus on any
 interaction checks you make involving the subject (such as Bluff, Diplomacy, Intimidate, and Sense Motive).
 
 ### Augment:
- For every 2 additional power points you spend, this power’s save DC increases by 1 and
+ For every 2 additional power points you spend, this power's save DC increases by 1 and
 the bonus on interaction checks increases by 1.
 
 ## Aura Alteration
@@ -515,14 +515,14 @@ Telepathy [Mind-Affecting]
 ### Power Points:
  11
 
-You can use this power in one of two ways: to disguise the subject’s aura (alignment) and level, or to remove a
+You can use this power in one of two ways: to disguise the subject's aura (alignment) and level, or to remove a
 compulsion or charm effect from the subject.
 
-_Disguise:_ If you use this power to disguise the subject’s alignment and level, the power has a duration
-of 10 minutes per level. You can change the subject’s alignment by only one step. You can adjust the subject’s
+_Disguise:_ If you use this power to disguise the subject's alignment and level, the power has a duration
+of 10 minutes per level. You can change the subject's alignment by only one step. You can adjust the subject's
 apparent level up or down by a number equal to one-half your own level (rounded down) or less.
 
-_Remove Compulsion:_ If you use this power to attempt to cleanse the subject’s aura of a baleful or
+_Remove Compulsion:_ If you use this power to attempt to cleanse the subject's aura of a baleful or
 controlling effect, the duration is instantaneous. This power can remove the compulsion of a curse or a
 _geas/quest_ effect. It can also negate any charm and compulsion powers of 6th level or lower, such as
 _crisis of breath_ or _death urge._ When _aura alteration_ is manifested for this purpose, the
@@ -533,8 +533,8 @@ subject gains another saving throw to remove the compulsion afflicting it agains
  You can augment this power in one or both of the following ways.
 1. For every additional power point you spend, the duration of the disguise aura increases by 10 minutes.
 
-2. If you spend 2 additional power points, the subject’s alignment shifts an additional step; if you spend 4
-additional power points, the subject’s alignment changes to its opposite.
+2. If you spend 2 additional power points, the subject's alignment shifts an additional step; if you spend 4
+additional power points, the subject's alignment changes to its opposite.
 
 ## Aura Sight
 Clairsentience
@@ -562,19 +562,19 @@ appear as glowing halos or envelopes of colored light that surround all objects.
 information to the psionic character. The amount of information revealed depends on how long you study a
 particular area.
 
-_1st Round:_ Presence of good and evil auras in the area. You can’t pin an aura to a particular object or
+_1st Round:_ Presence of good and evil auras in the area. You can't pin an aura to a particular object or
 individual at this stage; instead, you see a colored haze suffusing the area. (This power can detect lawful and
 chaotic auras as well, but doing so requires a separate manifestation that focuses only on that alignment axis.)
 
 _2nd Round:_ Number of auras (creatures, objects, powers, or spells) in the area. You know how many auras
-are in the area, even though each aura doesn’t resolve to its actual location quite yet.
+are in the area, even though each aura doesn't resolve to its actual location quite yet.
 
 _3rd Round:_ The owner of each aura is revealed, unless the individual is outside your line of sight. If a
 creature whose aura you detect has 5 or more Hit Dice than you do, you are overwhelmed by its presence and dazed
 for 1 round, and the power ends.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s range increases by 5 feet.
+ For every 2 additional power points you spend, this power's range increases by 5 feet.
 
 ## Aversion
 Telepathy (Compulsion) [Mind-Affecting]
@@ -607,7 +607,7 @@ If the subject is forced into taking an action she has an aversion to, she takes
 ability checks, or skill checks involved.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s save DC increases by 1 and
+ For every 2 additional power points you spend, this power's save DC increases by 1 and
 the duration increases by 1 hour.
 
 ## Baleful Teleport
@@ -636,8 +636,8 @@ protected from the effects of
 _baleful teleport_ by _dimensional anchor_.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by 1d6 points.
-For each extra 2d6 points of damage, this power’s save DC increases by 1 and your manifester level increases by 1
+ For every additional power point you spend, this power's damage increases by 1d6 points.
+For each extra 2d6 points of damage, this power's save DC increases by 1 and your manifester level increases by 1
 for the purpose of overcoming power resistance.
 
 ## Banishment, Psionic
@@ -666,7 +666,7 @@ As the _banishment_ spell, except as noted here.
 Psions gain no benefit from presenting objects or substances that the target hates, fears, or otherwise opposes.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s save DC increases by 1 and
+ For every 2 additional power points you spend, this power's save DC increases by 1 and
 your manifester level increases by 1 for the purpose of overcoming power resistance.
 
 ## Bend Reality
@@ -695,8 +695,8 @@ following:
 
 *   Duplicate any psion power of 6th level or lower, provided the power is not of a discipline prohibited to you.
 *   Duplicate any other power (but not a spell) of 5th level or lower, provided the power is not of a discipline prohibited to you.
-*   Duplicate any psion power of 5th level or lower, even if it’s of a prohibited discipline.
-*   Duplicate any other power (but not a spell) of 4th level or lower, even if it’s of a prohibited discipline.
+*   Duplicate any psion power of 5th level or lower, even if it's of a prohibited discipline.
+*   Duplicate any other power (but not a spell) of 4th level or lower, even if it's of a prohibited discipline.
 *   Undo the harmful effects of many powers, such as _psionic dominate, geas/quest,_ or _insanity_.
 *   Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a -8 penalty on its next saving throw.
 
@@ -728,11 +728,11 @@ Telepathy [Mind-Affecting]
 ### Power Points:
  3
 
-You link your mind with another psionic creature’s mind, creating a brief conduit through which mental energy can
+You link your mind with another psionic creature's mind, creating a brief conduit through which mental energy can
 be shared. When you manifest this power, the subject gains up to 2 power points. You can transfer only as many
 power points to a subject as it has manifester levels.
 
-Because of the intimate nature of this power, it cannot be fabricated into a psionic item---only power points
+Because of the intimate nature of this power, it cannot be fabricated into a psionic item--only power points
 generated by a psionic creature in the moment can be shared using _bestow power_.
 
 ### Augment:
@@ -789,7 +789,7 @@ with your bite, taking the standard -4 penalty on your attack roll. If you bite 
 highest base attack bonus on the attack roll, and you can apply your full Strength bonus to damage. If you bite in
 addition to making other attacks, the bite is a secondary attack.
 
-If you are not a Medium creature, your bite attack’s base damage varies as follows: Fine 1d2, Diminutive 1d3, Tiny
+If you are not a Medium creature, your bite attack's base damage varies as follows: Fine 1d2, Diminutive 1d3, Tiny
 1d4, Small 1d6, Large 2d6, Huge 2d8, Gargantuan 4d6, Colossal 6d6.
 
 Based on your psychic warrior level, your bite increases in ferocity as noted here: at 5th level your bite deals
@@ -813,7 +813,7 @@ Psychometabolism (Healing)
 ### Power Points:
  Psion/wilder 5, psychic warrior 3
 
-You take control of your body’s healing process, curing yourself of 1d12 points of damage. As usual, when regular
+You take control of your body's healing process, curing yourself of 1d12 points of damage. As usual, when regular
 damage is healed, an equal amount of nonlethal damage is also healed.
 
 ### Augment:
@@ -837,8 +837,8 @@ Psychometabolism
 ### Power Points:
  3
 
-You can adjust your body’s equilibrium to correspond with any solid or liquid that you stand on. Thus, you can
-walk on water, quicksand, or even a spider’s web without sinking or breaking through (this effect does not confer
+You can adjust your body's equilibrium to correspond with any solid or liquid that you stand on. Thus, you can
+walk on water, quicksand, or even a spider's web without sinking or breaking through (this effect does not confer
 any resistance to particularly sticky webs). You can move at your normal speed, but you cannot run (x4 speed) on
 an unfirm surface without sinking or breaking through.
 
@@ -893,7 +893,7 @@ into their constituent ectoplasmic particles when the duration ends or after bei
 has a +1 enhancement bonus on attack rolls and damage rolls.
 
 ### Augment:
- For every 3 additional power points you spend, this power improves the ammunition’s
+ For every 3 additional power points you spend, this power improves the ammunition's
 enhancement bonus on attack rolls and damage rolls by 1.
 
 ## Brain Lock
@@ -917,7 +917,7 @@ Telepathy (Compulsion) [Mind-Affecting]
 ### Power Points:
  3
 
-The subject’s higher mind is locked away. He stands dazed, unable to take any psionic actions (including
+The subject's higher mind is locked away. He stands dazed, unable to take any psionic actions (including
 manifesting powers or using psionic feats that require a decision to be used) nor any mental actions at all.
 
 A _brain locked_ subject is not stunned, so attackers get no special advantage against him.
@@ -958,7 +958,7 @@ Psychometabolism [Acid]
 Your mouth spews forth vitriolic acid that deals 11d6 points of acid damage to any targets in the area.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by 1d6 points.
+ For every additional power point you spend, this power's damage increases by 1d6 points.
 
 ## Burst
 Psychoportation
@@ -981,7 +981,7 @@ This power increases your land speed by 10 feet. (This adjustment counts as an e
 
 You can manifest this power with an instant thought, quickly enough to gain the benefit of the power on your turn
 before you move. Manifesting this power is a swift action, like manifesting a quickened power, and it counts
-toward the normal limit of one quickened power per round. You cannot manifest this power when it isn’t your turn.
+toward the normal limit of one quickened power per round. You cannot manifest this power when it isn't your turn.
 
 ## Call to Mind
 Telepathy [Mind-Affecting]
@@ -1027,7 +1027,7 @@ Psychoportation (Teleportation)
  1
 
 You call a weapon "from thin air" into your waiting hand (actually, it is a real weapon hailing from another
-location in space and time). You don’t have to see or know of a weapon to call it---in fact, you can’t call a
+location in space and time). You don't have to see or know of a weapon to call it--in fact, you can't call a
 specific weapon; you just specify the kind. If you call a projectile weapon, it comes with 3d6 nonmagical bolts,
 arrows, or sling bullets, as appropriate. The weapon is made of ordinary materials as appropriate for its kind. If
 you relinquish your grip on the weapon you called for 2 or more consecutive rounds, it automatically returns to
@@ -1037,7 +1037,7 @@ Weapons gained by _call weaponry_ are distinctive due to their astral glimmer. T
 weapons and thus are effective against damage reduction that requires a magic weapon to overcome.
 
 ### Augment:
- For every 4 additional power points you spend, this power improves the weapon’s
+ For every 4 additional power points you spend, this power improves the weapon's
 enhancement bonus on attack rolls and damage rolls by 1.
 
 ## Catapsi
@@ -1074,7 +1074,7 @@ available power points or his spending limits, the manifestation fails automatic
 expended.
 
 ### Augment:
- For every 4 additional power points you spend, this power’s range and the radius of its
+ For every 4 additional power points you spend, this power's range and the radius of its
 area both increase by 5 feet.
 
 ## Catfall
@@ -1099,7 +1099,7 @@ you fall, and you take damage as if the fall were 10 feet shorter than it actual
 anything you carry or hold (up to your maximum load). You can manifest this power with an instant thought, quickly
 enough to gain the benefit of the power while you fall. Manifesting the power is an immediate action, like
 manifesting a quickened power, and it counts toward the normal limit of one quickened power per round. You can
-manifest this power even when it isn’t your turn.
+manifest this power even when it isn't your turn.
 
 ### Augment:
  For every additional power point you spend, this power reduces your damage as if the
@@ -1156,9 +1156,9 @@ monstrous humanoid.
 2. If you spend 4 additional power points, this power can also affect an aberration, dragon, elemental, or
 outsider in addition to the creature types mentioned above.
 
-3. If you spend 4 additional power points, this power’s duration increases to one day per level.
+3. If you spend 4 additional power points, this power's duration increases to one day per level.
 
-In addition, for every 2 additional power points you spend to achieve any of these effects, this power’s save DC
+In addition, for every 2 additional power points you spend to achieve any of these effects, this power's save DC
 increases by 1.
 
 ## Clairtangent Hand
@@ -1184,12 +1184,12 @@ Clairsentience (Scrying)
 
 You can emulate a _far hand_ effect at any distance while simultaneously emulating
 _clairvoyant sense_ to target your _far hand;_ see the appropriate power descriptions.
-_Clairtangent hand_’s duration is up to 1 minute per level when used with a _far hand_ effect.
+_Clairtangent hand_'s duration is up to 1 minute per level when used with a _far hand_ effect.
 
 ### Augment:
  If you spend 8 additional power points, you can emulate _clairvoyant sense_ in
 conjunction with either _telekinetic force, telekinetic maneuver,_ or _telekinetic thrust,_ but this
-power’s duration expires as soon as any of the noted telekinetic powers deals damage.
+power's duration expires as soon as any of the noted telekinetic powers deals damage.
 
 ## Clairvoyant Sense
 Clairsentience (Scrying)
@@ -1212,14 +1212,14 @@ Clairsentience (Scrying)
 ### Power Points:
  3
 
-You can see and hear a distant location almost as if you were there. You don’t need line of sight or line of
-effect, but the locale must be known---a place familiar to you or an obvious one, such as behind a door, around a
+You can see and hear a distant location almost as if you were there. You don't need line of sight or line of
+effect, but the locale must be known--a place familiar to you or an obvious one, such as behind a door, around a
 corner, or in a grove of trees. Once you have selected the locale, the focus of your
-_clairvoyant sense_ doesn’t move, but you can rotate it in all directions to view the area as desired. Unlike
+_clairvoyant sense_ doesn't move, but you can rotate it in all directions to view the area as desired. Unlike
 other scrying powers, this power does not allow psionically or supernaturally enhanced senses to work through it.
 
 If the chosen locale is magically or psionically dark, you see nothing. If it is naturally pitch black, you can
-see in a 10- foot radius around the center of the power’s effect or out to the extent of your natural darkvision.
+see in a 10- foot radius around the center of the power's effect or out to the extent of your natural darkvision.
 The power does not work across planes.
 
 ## Claw of Energy
@@ -1242,7 +1242,7 @@ Psychokinesis [see text]
 If you have a claw attack (either from an actual natural weapon or from an effect such as
 _claws of the beast_), you can use this power to energize that weapon. The claw attack deals an extra 1d6
 points of cold, electricity, or fire damage (as chosen by you at the time of manifestation) on a successful hit.
-On a critical hit, it deals an extra 1d10 points of energy damage. If the claw’s critical multiplier is x3, add
+On a critical hit, it deals an extra 1d10 points of energy damage. If the claw's critical multiplier is x3, add
 2d10 points of energy damage instead; if the multiplier is x4, add 3d10 points of energy damage.
 
 This power can be manifested on a claw attack that already deals energy damage, but if the claw already deals the
@@ -1250,7 +1250,7 @@ same type of damage as the power, the effects stack. If this power is manifested
 benefiting from the effect of the power, the newer manifestation supersedes the older manifestation, even if both
 manifestations are of different energy types.
 
-This power’s subtype is the same as the type of energy infused in the natural weapon.
+This power's subtype is the same as the type of energy infused in the natural weapon.
 ## Claws of the Beast
 Psychometabolism
 ### Level:
@@ -1279,14 +1279,14 @@ claws, taking the standard -4 penalty on your attack roll.
 Your claws work just like the natural weapons of many monsters. You can make an attack with one claw or a full
 attack with two claws at your normal attack bonus, replacing your normal attack routine. You take no penalties for
 two-weapon fighting, and neither attack is a secondary attack. If your base attack bonus is +6 or higher, you do
-not gain any additional attacks---you simply have two claw attacks at your normal attack bonus.
+not gain any additional attacks--you simply have two claw attacks at your normal attack bonus.
 
 You can manifest this power with an instant thought, quickly enough to gain the benefit of the power on your turn
 before you attack. Manifesting this power is a swift action, like manifesting a quickened power, and it counts
-toward the normal limit of one quickened power per round. You cannot manifest this power when it isn’t your turn.
+toward the normal limit of one quickened power per round. You cannot manifest this power when it isn't your turn.
 
 You can call or dismiss the claws as a swift action during the duration of the power. If you attack with a
-manufactured weapon or another natural attack, you can’t make any claw attacks in that round. You can still hold
+manufactured weapon or another natural attack, you can't make any claw attacks in that round. You can still hold
 and manipulate items with your claws or cast spells just as well as you could with your hands.
 
 ### Augment:
@@ -1364,10 +1364,10 @@ First, you are invisible and inaudible to the creature. It cannot even detect yo
 blindsense, blindsight, scent, or tremorsense. It cannot pinpoint your location by any means.
 
 Second, the subject remains unaware of your actions, provided you do not make any attacks or cause any obvious or
-directly threatening changes in the subject’s environment. If you attack the subject creature, the effect ends.
+directly threatening changes in the subject's environment. If you attack the subject creature, the effect ends.
 
-If you take an action that creates a sustained and obvious change in the subject’s environment---for example,
-attacking a creature aside from the subject or moving a large or attended object the subject can see---the subject
+If you take an action that creates a sustained and obvious change in the subject's environment--for example,
+attacking a creature aside from the subject or moving a large or attended object the subject can see--the subject
 immediately gains a new saving throw against the power. An ally of the subject creature that is able to see or
 perceive you can use a move action to warn the subject and thereby grant it a new saving throw.
 
@@ -1402,14 +1402,14 @@ This power causes instant diminution, halving your height, length, and width and
 decrease changes your size category to the next smaller one. You gain a +2 size bonus to Dexterity, a -2 size
 penalty to Strength (to a minimum effective Strength score of 1), a +1 size bonus on attack rolls, and a +1 size
 bonus to Armor Class due to your reduced size. If your new size is Tiny, you have a space of 2 1/2 feet and a
-natural reach of 0 feet (meaning that you must enter an opponent’s square to attack). If your new size is
-Diminutive, you have a space of 1 foot and a natural reach of 0 feet. This power doesn’t change your speed.
+natural reach of 0 feet (meaning that you must enter an opponent's square to attack). If your new size is
+Diminutive, you have a space of 1 foot and a natural reach of 0 feet. This power doesn't change your speed.
 
 All your equipment, worn or carried, is similarly reduced by the power. Melee and projectile weapons deal less
 damage. Other psionic or magical properties are not affected by this power. Any affected item that leaves your
 possession (including a projectile or thrown weapon) instantly returns to its normal size. This means that thrown
 weapons deal their normal damage (projectiles deal damage based on the size of the weapon that fired them).
-Multiple effects that reduce size do not stack, which means (among other things) that you can’t use a second
+Multiple effects that reduce size do not stack, which means (among other things) that you can't use a second
 manifestation of this power to further reduce yourself.
 
 ### Augment:
@@ -1422,7 +1422,7 @@ bonus on attack rolls, and a +2 size bonus to Armor Class due to your reduced si
 2. If you spend 6 additional power points, you can manifest this power as a swift action instead of a standard
 action.
 
-3. If you spend 2 additional power points, this power’s duration is 1 minute per level rather than 1 round per
+3. If you spend 2 additional power points, this power's duration is 1 minute per level rather than 1 round per
 level.
 
 ## Conceal Thoughts
@@ -1446,7 +1446,7 @@ Telepathy [Mind-Affecting]
 ### Power Points:
  1
 
-You protect the subject’s thoughts from analysis. While the duration lasts, the subject gains a +10 circumstance
+You protect the subject's thoughts from analysis. While the duration lasts, the subject gains a +10 circumstance
 bonus on Bluff checks against those attempting to discern its true intentions with Sense Motive. It also gains a
 +4 bonus on its saving throw against any power or spell used to read its mind (such as _read thoughts_ or
 _mind probe_).
@@ -1515,7 +1515,7 @@ against creatures with total cover or total concealment).
 Nonmagical, unattended objects (including doors, walls, locks, and so on) may also be damaged by this power.
 ### Augment:
  You can augment this power in one or both of the following ways.
-1. For every 2 additional power points you spend, this power’s damage increases by 1d6 points.
+1. For every 2 additional power points you spend, this power's damage increases by 1d6 points.
 
 2. For every 2 additional power points you spend, this power can affect an additional target. Any additional
 target cannot be more than 15 feet from another target of the power.
@@ -1608,8 +1608,8 @@ Psychokinesis
  7
 
 You psychokinetically control the actions of any humanoid (including undead or outsiders with a humanoid
-physiology) that is within range and to which you have line of sight. _Control body_ doesn’t require mental
-contact with the subject, since you are actually forcing limb movements independent of the target’s mind. You can
+physiology) that is within range and to which you have line of sight. _Control body_ doesn't require mental
+contact with the subject, since you are actually forcing limb movements independent of the target's mind. You can
 force the subject to stand up, sit down, walk, turn around, and so on, but operating the vocal cords is too
 difficult. You can also hold the subject immobile, rendering it helpless. You cannot force the subject to manifest
 powers, cast spells, or use any special ability that is not a function of just its body movements. If you lose
@@ -1620,7 +1620,7 @@ Intelligence bonus, and its bonus on damage rolls is equal to your Intelligence 
 cannot make attacks of opportunity. The subject gains no benefit to Armor Class from its Dexterity, but it does
 gain a bonus to its AC equal to your Intelligence bonus.
 
-Although the subject’s body is under your control, the subject’s mind is not. Creatures capable of taking purely
+Although the subject's body is under your control, the subject's mind is not. Creatures capable of taking purely
 mental actions (such as manifesting powers) can do so.
 
 ### Augment:
@@ -1670,7 +1670,7 @@ An animated fire can enter any square, even if a creature already occupies it. I
 occupied by a creature, that creature can make a Reflex save to get out of the way (DC 11 + the number of dice of
 damage the fire does + your Int modifier if you are a psion or your Cha modifier if you are a wilder). A
 successful Reflex save moves the creature to the nearest unoccupied square. The flames deal the indicated damage
-to any creature that is either on fire or surrounded by the flames (in the fire’s space); see the accompanying
+to any creature that is either on fire or surrounded by the flames (in the fire's space); see the accompanying
 table).
 
 At the start of your turn, the animated fire deals damage to any creature in its space, and the creature catches
@@ -1725,7 +1725,7 @@ Psychokinesis [Light]
 
 By manipulating the ambient light level, you can decrease or increase the illumination of an area. The change in
 illumination can be gradual (taking as long as 1 minute) or sudden (occurring immediately when you manifest this
-power). You can alter the level of illumination from its original level at any time during the power’s duration.
+power). You can alter the level of illumination from its original level at any time during the power's duration.
 
 _Decrease:_ You can decrease the illumination of an area by as little as 5% (barely perceptible) or as much
 as 100% (total darkness). If you decrease the light by 50% or more, the visual ability of creatures that depend on
@@ -1738,7 +1738,7 @@ as 100%. If you increase the light by 50% or more, the visual ability of creatur
 improves accordingly.
 
 You can use this power to increase the illumination of an area by 200% (improving visual abilities accordingly),
-but in such a case the power’s duration is only 1 round.
+but in such a case the power's duration is only 1 round.
 
 ## Control Object
 Psychokinesis
@@ -1799,7 +1799,7 @@ You shape and alter existing sounds. You can target one sound, such as a person 
 related sounds, such as the patter of many raindrops or the tramp of soldiers passing by. A sound as quiet as a
 snapping finger can be controlled. You can substitute any sound you have heard for the target sound. If you
 attempt to exactly duplicate the voice of a specific individual, or an inherently terrifying sound (such as a
-dragon’s roar), you must succeed on a Bluff check with a +5 circumstance bonus opposed by the intended listener’s
+dragon's roar), you must succeed on a Bluff check with a +5 circumstance bonus opposed by the intended listener's
 Sense Motive check to avoid arousing suspicion.
 
 You can entirely muffle a noise or magnify a sound to such loudness that it drowns out all other conversation in
@@ -1901,8 +1901,8 @@ sixteen humans, while a roaring dire lion is equal to the noise from twenty huma
 
 If you wish to create a specific message, up to twenty-five words can be created, and those words repeat over and
 over until the duration expires or the power is dismissed. If you attempt to exactly duplicate the voice of a
-specific individual or an inherently terrifying sound (such as a dragon’s roar), you must succeed on a Bluff check
-with a +2 circumstance bonus opposed by the listener’s Sense Motive check to avoid arousing suspicion.
+specific individual or an inherently terrifying sound (such as a dragon's roar), you must succeed on a Bluff check
+with a +2 circumstance bonus opposed by the listener's Sense Motive check to avoid arousing suspicion.
 
 _Create sound_ can be used to bring sounds into existence that you later manipulate by manifesting
 _control sound._
@@ -1929,7 +1929,7 @@ Telepathy (Compulsion) [Mind-Affecting]
  5
 
 You compel the subject to purge its entire store of air in one explosive exhalation, and thereby disrupt the
-subject’s autonomic breathing cycle. The subject’s lungs do not automatically function again while the power’s
+subject's autonomic breathing cycle. The subject's lungs do not automatically function again while the power's
 duration lasts.
 
 If the target succeeds on a Will save when _crisis of breath_ is manifested, it is unaffected by this power.
@@ -1943,7 +1943,7 @@ take a breath. The DC of this save increases by 1 in every consecutive round aft
 without a breath; the DC drops back to its original value if the subject spends an action to take a breath.
 
 If a subject fails a Fortitude save, it is disabled (0 hp). In the following round, it drops to -1 hit points and
-is dying. Curing powers or spells can revive a dying subject normally, so long as this power’s duration has
+is dying. Curing powers or spells can revive a dying subject normally, so long as this power's duration has
 expired; if the power is still in effect, a revived creature is still subject to Fortitude saves in each round
 when it does not consciously breathe.
 
@@ -1959,7 +1959,7 @@ outsider in addition to the creature types mentioned above.
 3. If you spend 6 additional power points, this power can affect up to four creatures all within a 20-ft.-radius
 burst.
 
-In addition, for every 2 additional power points you spend to achieve any of these effects, this power’s save DC
+In addition, for every 2 additional power points you spend to achieve any of these effects, this power's save DC
 increases by 1.
 
 ## Crisis of Life
@@ -1983,7 +1983,7 @@ Telepathy [Mind-Affecting, Death]
 ### Power Points:
  13
 
-You interrupt the subject’s autonomic heart rhythm, killing it instantly on a failed saving throw if it has 11 Hit
+You interrupt the subject's autonomic heart rhythm, killing it instantly on a failed saving throw if it has 11 Hit
 Dice or less. If the target makes its saving throw or has more than 11 Hit Dice, it takes 7d6 points of damage.
 
 ### Augment:
@@ -2015,7 +2015,7 @@ Upon manifesting this power, you propel a razor-sharp crystal shard at your targ
 touch attack with the ray to deal damage to a target. The ray deals 1d6 points of piercing damage.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by 1d6 points.
+ For every additional power point you spend, this power's damage increases by 1d6 points.
 
 ## Crystallize
 Metacreativity
@@ -2038,7 +2038,7 @@ Metacreativity
 ### Power Points:
  11
 
-You seed the subject’s flesh with supersaturated crystal. In an eyeblink, the subject’s form seems to freeze over,
+You seed the subject's flesh with supersaturated crystal. In an eyeblink, the subject's form seems to freeze over,
 as its flesh and fluids are instantly crystallized. Following the application of this power, the subject appears
 lifeless. In fact, it is not dead (though no life can be detected with powers or spells that detect such).
 

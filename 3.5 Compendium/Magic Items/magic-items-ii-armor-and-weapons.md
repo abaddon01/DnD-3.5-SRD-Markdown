@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Magic Items - Magic Items II (Armor and Weapons)
-aliases: 3.5 Magic Items II (Armor and Weapons)
+aliases:
+  - 3.5 Magic Items II (Armor and Weapons)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - magic_items
   - magic_items_ii_armor_and_weapons
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -44,25 +44,25 @@ switched for other magic boots or gauntlets.
 
 | Minor | Medium | Major | Item | Base Price |
 | --- | --- | --- | --- | --- |
-| 01-60 | 01-05 | --- | _+1 shield_ | 1,000 gp |
+| 01-60 | 01-05 | -- | _+1 shield_ | 1,000 gp |
 | 61-80 | 06-10 | - | _+1 armor_ | 1,000 gp |
-| 81-85 | 11-20 | --- | _+2 shield_ | 4,000 gp |
-| 86-87 | 21-30 | --- | _+2 armor_ | 4,000 gp |
-| --- | 31-40 | 01-08 | _+3 shield_ | 9,000 gp |
-| --- | 41-50 | 09-16 | _+3 armor_ | 9,000 gp |
-| --- | 51-55 | 17-27 | _+4 shield_ | 16,000 gp |
-| --- | 56-57 | 28-38 | _+4 armor_ | 16,000 gp |
-| --- | --- | 39-49 | _+5 shield_ | 25,000 gp |
-| --- | --- | 50-57 | _+5 armor_ | 25,000 gp |
-| --- | --- | --- | _+6 armor/shield_<sup>1</sup> | 36,000 gp |
-| --- | --- | --- | _+7 armor/shield_<sup>1</sup> | 49,000 gp |
-| --- | --- | --- | _+8 armor/shield_<sup>1</sup> | 64,000 gp |
-| --- | --- | --- | _+9 armor/shield_<sup>1</sup> | 81,000 gp |
-| --- | --- | --- | _+10 armor/shield_<sup>1</sup> | 100,000 gp |
-| 88-89 | 58-60 | 58-60 | Specific armor<sup>2</sup> | --- |
-| 90-91 | 61-63 | 61-63 | Specific shield<sup>3</sup> | --- |
-| 92-100 | 64-100 | 64-100 | Special ability and roll again<sup>4</sup> | --- |
-| 1 Armor and shields can’t actually have bonuses this high. Use these lines to determine price when special abilities are added in. |
+| 81-85 | 11-20 | -- | _+2 shield_ | 4,000 gp |
+| 86-87 | 21-30 | -- | _+2 armor_ | 4,000 gp |
+| -- | 31-40 | 01-08 | _+3 shield_ | 9,000 gp |
+| -- | 41-50 | 09-16 | _+3 armor_ | 9,000 gp |
+| -- | 51-55 | 17-27 | _+4 shield_ | 16,000 gp |
+| -- | 56-57 | 28-38 | _+4 armor_ | 16,000 gp |
+| -- | -- | 39-49 | _+5 shield_ | 25,000 gp |
+| -- | -- | 50-57 | _+5 armor_ | 25,000 gp |
+| -- | -- | -- | _+6 armor/shield_<sup>1</sup> | 36,000 gp |
+| -- | -- | -- | _+7 armor/shield_<sup>1</sup> | 49,000 gp |
+| -- | -- | -- | _+8 armor/shield_<sup>1</sup> | 64,000 gp |
+| -- | -- | -- | _+9 armor/shield_<sup>1</sup> | 81,000 gp |
+| -- | -- | -- | _+10 armor/shield_<sup>1</sup> | 100,000 gp |
+| 88-89 | 58-60 | 58-60 | Specific armor<sup>2</sup> | -- |
+| 90-91 | 61-63 | 61-63 | Specific shield<sup>3</sup> | -- |
+| 92-100 | 64-100 | 64-100 | Special ability and roll again<sup>4</sup> | -- |
+| 1 Armor and shields can't actually have bonuses this high. Use these lines to determine price when special abilities are added in. |
 | 2 Roll on Table: Specific Armors. |
 | 3 Roll on Table: Specific Shields. |
 | 4 Roll on Table: Armor Special Abilities or Table: Shield Special Abilities. |
@@ -119,12 +119,12 @@ special ability bonus equivalents) higher than +10. A shield with a special abil
 enhancement bonus.
 
 ### Shield Hardness and Hit Points:
- Each +1 of enhancement bonus adds 2 to a shield’s hardness and
+ Each +1 of enhancement bonus adds 2 to a shield's hardness and
 +10 to its hit points.
 
 ### Activation:
  Usually a character benefits from magic armor and shields in exactly the way a
-character benefits from nonmagical armor and shields---by wearing them. If armor or a shield has a special ability
+character benefits from nonmagical armor and shields--by wearing them. If armor or a shield has a special ability
 that the user needs to activate then the user usually needs to utter the command word (a standard action).
 
 ### Armor for Unusual Creatures:
@@ -143,42 +143,42 @@ abilities detailed below. Armor or a shield with a special ability must have at 
 | --- | --- | --- | --- | --- |
 | 01-25 | 01-05 | 01-03 | Glamered | +2,700 gp |
 | 26-32 | 06-08 | 04 | Fortification, light | +1 bonus<sup>1</sup> |
-| 33-52 | 09-11 | --- | Slick | +3,750 gp |
-| 53-72 | 12-14 | --- | Shadow | +3,750 gp |
-| 73-92 | 15-17 | --- | Silent moves | +3,750 gp |
-| 93-96 | 18-19 | --- | Spell resistance (13) | +2 bonus<sup>1</sup> |
+| 33-52 | 09-11 | -- | Slick | +3,750 gp |
+| 53-72 | 12-14 | -- | Shadow | +3,750 gp |
+| 73-92 | 15-17 | -- | Silent moves | +3,750 gp |
+| 93-96 | 18-19 | -- | Spell resistance (13) | +2 bonus<sup>1</sup> |
 | 97 | 20-29 | 05-07 | Slick, improved | +15,000 gp |
 | 98 | 30-39 | 08-10 | Shadow, improved | +15,000 gp |
 | 99 | 40-49 | 11-13 | Silent moves, improved | +15,000 gp |
-| --- | 50-54 | 14-16 | Acid resistance | +18,000 gp |
-| --- | 55-59 | 17-19 | Cold resistance | +18,000 gp |
-| --- | 60-64 | 20-22 | Electricity resistance | +18,000 gp |
-| --- | 65-69 | 23-25 | Fire resistance | +18,000 gp |
-| --- | 70-74 | 26-28 | Sonic resistance | +18,000 gp |
-| --- | 75-79 | 29-33 | Ghost touch | +3 bonus<sup>1</sup> |
-| --- | 80-84 | 34-35 | Invulnerability | +3 bonus<sup>1</sup> |
-| --- | 85-89 | 36-40 | Fortification, moderate | +3 bonus<sup>1</sup> |
-| --- | 90-94 | 41-42 | Spell resistance (15) | +3 bonus<sup>1</sup> |
-| --- | 95-99 | 43 | Wild | +3 bonus<sup>1</sup> |
-| --- | --- | 44-48 | Slick, greater | +33,750 gp |
-| --- | --- | 49-53 | Shadow, greater | +33,750 gp |
-| --- | --- | 54-58 | Silent moves, greater | +33,750 gp |
-| --- | --- | 59-63 | Acid resistance, improved | +42,000 gp |
-| --- | --- | 64-68 | Cold resistance, improved | +42,000 gp |
-| --- | --- | 69-73 | Electricity resistance, improved | +42,000 gp |
-| --- | --- | 74-78 | Fire resistance, improved | +42,000 gp |
-| --- | --- | 79-83 | Sonic resistance, improved | +42,000 gp |
-| --- | --- | 84-88 | Spell resistance (17) | +4 bonus<sup>1</sup> |
-| --- | --- | 89 | Etherealness | +49,000 gp |
-| --- | --- | 90 | Undead controlling | +49,000 gp |
-| --- | --- | 91-92 | Fortification, heavy | +5 bonus<sup>1</sup> |
-| --- | --- | 93-94 | Spell resistance (19) | +5 bonus<sup>1</sup> |
-| --- | --- | 95 | Acid resistance, greater | +66,000 gp |
-| --- | --- | 96 | Cold resistance, greater | +66,000 gp |
-| --- | --- | 97 | Electricity resistance, greater | +66,000 gp |
-| --- | --- | 98 | Fire resistance, greater | +66,000 gp |
-| --- | --- | 99 | Sonic resistance, greater | +66,000 gp |
-| 100 | 100 | 100 | Roll twice again<sup>2</sup> | --- |
+| -- | 50-54 | 14-16 | Acid resistance | +18,000 gp |
+| -- | 55-59 | 17-19 | Cold resistance | +18,000 gp |
+| -- | 60-64 | 20-22 | Electricity resistance | +18,000 gp |
+| -- | 65-69 | 23-25 | Fire resistance | +18,000 gp |
+| -- | 70-74 | 26-28 | Sonic resistance | +18,000 gp |
+| -- | 75-79 | 29-33 | Ghost touch | +3 bonus<sup>1</sup> |
+| -- | 80-84 | 34-35 | Invulnerability | +3 bonus<sup>1</sup> |
+| -- | 85-89 | 36-40 | Fortification, moderate | +3 bonus<sup>1</sup> |
+| -- | 90-94 | 41-42 | Spell resistance (15) | +3 bonus<sup>1</sup> |
+| -- | 95-99 | 43 | Wild | +3 bonus<sup>1</sup> |
+| -- | -- | 44-48 | Slick, greater | +33,750 gp |
+| -- | -- | 49-53 | Shadow, greater | +33,750 gp |
+| -- | -- | 54-58 | Silent moves, greater | +33,750 gp |
+| -- | -- | 59-63 | Acid resistance, improved | +42,000 gp |
+| -- | -- | 64-68 | Cold resistance, improved | +42,000 gp |
+| -- | -- | 69-73 | Electricity resistance, improved | +42,000 gp |
+| -- | -- | 74-78 | Fire resistance, improved | +42,000 gp |
+| -- | -- | 79-83 | Sonic resistance, improved | +42,000 gp |
+| -- | -- | 84-88 | Spell resistance (17) | +4 bonus<sup>1</sup> |
+| -- | -- | 89 | Etherealness | +49,000 gp |
+| -- | -- | 90 | Undead controlling | +49,000 gp |
+| -- | -- | 91-92 | Fortification, heavy | +5 bonus<sup>1</sup> |
+| -- | -- | 93-94 | Spell resistance (19) | +5 bonus<sup>1</sup> |
+| -- | -- | 95 | Acid resistance, greater | +66,000 gp |
+| -- | -- | 96 | Cold resistance, greater | +66,000 gp |
+| -- | -- | 97 | Electricity resistance, greater | +66,000 gp |
+| -- | -- | 98 | Fire resistance, greater | +66,000 gp |
+| -- | -- | 99 | Sonic resistance, greater | +66,000 gp |
+| 100 | 100 | 100 | Roll twice again<sup>2</sup> | -- |
 | 1 Add to enhancement bonus on Table: Armor and Shields to determine total market price. |
 | 2 If you roll a special ability twice, only one counts. If you roll two versions of the same special ability, use the better. |
 
@@ -192,32 +192,32 @@ abilities detailed below. Armor or a shield with a special ability must have at 
 | 51-75 | 26-40 | 11-15 | Fortification, light | +1 bonus<sup>1</sup> |
 | 76-92 | 41-50 | 16-20 | Arrow deflection | +2 bonus<sup>1</sup> |
 | 93-97 | 51-57 | 21-25 | Animated | +2 bonus<sup>1</sup> |
-| 98-99 | 58-59 | --- | Spell resistance (13) | +2 bonus<sup>1</sup> |
-| --- | 60-63 | 26-28 | Acid resistance | +18,000 gp |
-| --- | 64-67 | 29-31 | Cold resistance | +18,000 gp |
-| --- | 68-71 | 32-34 | Electricity resistance | +18,000 gp |
-| --- | 72-75 | 35-37 | Fire resistance | +18,000 gp |
-| --- | 76-79 | 38-40 | Sonic resistance | +18,000 gp |
-| --- | 80-85 | 41-46 | Ghost touch | +3 bonus<sup>1</sup> |
-| --- | 86-95 | 47-56 | Fortification, moderate | +3 bonus<sup>1</sup> |
-| --- | 96-98 | 57-58 | Spell resistance (15) | +3 bonus<sup>1</sup> |
-| --- | 99 | 59 | Wild | +3 bonus<sup>1</sup> |
-| --- | --- | 60-64 | Acid resistance, improved | +42,000 gp |
-| --- | --- | 65-69 | Cold resistance, improved | +42,000 gp |
-| --- | --- | 70-74 | Electricity resistance, improved | +42,000 gp |
-| --- | --- | 75-79 | Fire resistance, improved | +42,000 gp |
-| --- | --- | 80-84 | Sonic resistance, improved | +42,000 gp |
-| --- | --- | 85-86 | Spell resistance (17) | +4 bonus<sup>1</sup> |
-| --- | --- | 87 | Undead controlling | +49,000 gp |
-| --- | --- | 88-91 | Fortification, heavy | +5 bonus<sup>1</sup> |
-| --- | --- | 92-93 | Reflecting | +5 bonus<sup>1</sup> |
-| --- | --- | 94 | Spell resistance (19) | +5 bonus<sup>1</sup> |
-| --- | --- | 95 | Acid resistance, greater | +66,000 gp |
-| --- | --- | 96 | Cold resistance, greater | +66,000 gp |
-| --- | --- | 97 | Electricity resistance, greater | +66,000 gp |
-| --- | --- | 98 | Fire resistance, greater | +66,000 gp |
-| --- | --- | 99 | Sonic resistance, greater | +66,000 gp |
-| 100 | 100 | 100 | Roll twice again2 | --- |
+| 98-99 | 58-59 | -- | Spell resistance (13) | +2 bonus<sup>1</sup> |
+| -- | 60-63 | 26-28 | Acid resistance | +18,000 gp |
+| -- | 64-67 | 29-31 | Cold resistance | +18,000 gp |
+| -- | 68-71 | 32-34 | Electricity resistance | +18,000 gp |
+| -- | 72-75 | 35-37 | Fire resistance | +18,000 gp |
+| -- | 76-79 | 38-40 | Sonic resistance | +18,000 gp |
+| -- | 80-85 | 41-46 | Ghost touch | +3 bonus<sup>1</sup> |
+| -- | 86-95 | 47-56 | Fortification, moderate | +3 bonus<sup>1</sup> |
+| -- | 96-98 | 57-58 | Spell resistance (15) | +3 bonus<sup>1</sup> |
+| -- | 99 | 59 | Wild | +3 bonus<sup>1</sup> |
+| -- | -- | 60-64 | Acid resistance, improved | +42,000 gp |
+| -- | -- | 65-69 | Cold resistance, improved | +42,000 gp |
+| -- | -- | 70-74 | Electricity resistance, improved | +42,000 gp |
+| -- | -- | 75-79 | Fire resistance, improved | +42,000 gp |
+| -- | -- | 80-84 | Sonic resistance, improved | +42,000 gp |
+| -- | -- | 85-86 | Spell resistance (17) | +4 bonus<sup>1</sup> |
+| -- | -- | 87 | Undead controlling | +49,000 gp |
+| -- | -- | 88-91 | Fortification, heavy | +5 bonus<sup>1</sup> |
+| -- | -- | 92-93 | Reflecting | +5 bonus<sup>1</sup> |
+| -- | -- | 94 | Spell resistance (19) | +5 bonus<sup>1</sup> |
+| -- | -- | 95 | Acid resistance, greater | +66,000 gp |
+| -- | -- | 96 | Cold resistance, greater | +66,000 gp |
+| -- | -- | 97 | Electricity resistance, greater | +66,000 gp |
+| -- | -- | 98 | Fire resistance, greater | +66,000 gp |
+| -- | -- | 99 | Sonic resistance, greater | +66,000 gp |
+| 100 | 100 | 100 | Roll twice again2 | -- |
 | 1 Add to enhancement bonus on Table: Armor and Shields to determine total market price. |
 | 2 If you roll a special ability twice, only one counts. If you roll two versions of the same special ability, use the better. |
 
@@ -255,11 +255,11 @@ _animate objects;_ Price +2 bonus.
 ### Arrow Catching:
  A shield with this ability attracts ranged weapons to it. It has a deflection
 bonus of +1 against ranged weapons because projectiles and thrown weapons veer toward it. Additionally, any
-projectile or thrown weapon aimed at a target within 5 feet of the shield’s wearer diverts from its original
-target and targets the shield’s bearer instead. (If the wielder has total cover relative to the attacker, the
+projectile or thrown weapon aimed at a target within 5 feet of the shield's wearer diverts from its original
+target and targets the shield's bearer instead. (If the wielder has total cover relative to the attacker, the
 projectile or thrown weapon is not diverted.) Additionally, those attacking the wearer with ranged weapons ignore
 any miss chances that would normally apply. Projectiles and thrown weapons that have an enhancement bonus higher
-than the shield’s base AC bonus are not diverted to the wearer (but the shield’s increased AC bonus still applies
+than the shield's base AC bonus are not diverted to the wearer (but the shield's increased AC bonus still applies
 against these weapons). The wielder can activate or deactivate this ability with a command word.
 
 Moderate abjuration; CL 8th; Craft Magic Arms and Armor,
@@ -269,8 +269,8 @@ _entropic shield_; Price +1 bonus.
  This shield protects the wielder as if he had the Deflect Arrows feat. Once per
 round when he would normally be struck by a ranged weapon, he can make a DC 20 Reflex save. If the ranged weapon
 has an enhancement bonus, the DC increases by that amount. If he succeeds, the shield deflects the weapon. He must
-be aware of the attack and not flat-footed. Attempting to deflect a ranged weapon doesn’t count as an action.
-Exceptional ranged weapons, such as boulders hurled by giants or _acid arrows_, can’t be deflected.
+be aware of the attack and not flat-footed. Attempting to deflect a ranged weapon doesn't count as an action.
+Exceptional ranged weapons, such as boulders hurled by giants or _acid arrows_, can't be deflected.
 
 Faint abjuration; CL 5th; Craft Magic Arms and Armor, _shield;_ Price +2 bonus.
 
@@ -281,7 +281,7 @@ points of damage and a Medium heavy shield deals 1d8 points of damage). The shie
 to bash. (Only light and heavy shields can have this ability.)
 
 Moderate transmutation; CL 8th; Craft Magic Arms and Armor,
-_bull’s strength;_ Price +1 bonus.
+_bull's strength;_ Price +1 bonus.
 
 ### Blinding:
  A shield with this ability flashes with a brilliant light up to twice per day upon
@@ -382,7 +382,7 @@ _limited wish_ or _miracle;_ Price varies (see above).
 ### Ghost Touch:
  This armor or shield seems almost translucent. Both its enhancement bonus and its
 armor bonus count against the attacks of incorporeal creatures. It can be picked up, moved, and worn by
-incorporeal creatures at any time. Incorporeal creatures gain the armor or shield’s enhancement bonus against both
+incorporeal creatures at any time. Incorporeal creatures gain the armor or shield's enhancement bonus against both
 corporeal and incorporeal attacks, and they can still pass freely through solid objects.
 
 Strong transmutation; CL 15th; Craft Magic Arms and Armor,
@@ -412,7 +412,7 @@ _spell turning;_ Price +5 bonus.
 
 ### Shadow:
  This armor is jet black and blurs the wearer whenever she tries to hide, granting a +5
-competence bonus on Hide checks. (The armor’s armor check penalty still applies normally.)
+competence bonus on Hide checks. (The armor's armor check penalty still applies normally.)
 
 Faint illusion; CL 5th; Craft Magic Arms and Armor,
 _invisibility;_ Price +3,750 gp.
@@ -431,8 +431,8 @@ _invisibility;_ Price +33,750 gp.
 
 ### Silent Moves:
  This armor is well oiled and magically constructed so that it not only makes little
-sound, but it dampens sound around it. It provides a +5 competence bonus on its wearer’s Move Silently checks.
-(The armor’s armor check penalty still applies normally.)
+sound, but it dampens sound around it. It provides a +5 competence bonus on its wearer's Move Silently checks.
+(The armor's armor check penalty still applies normally.)
 
 Faint illusion; CL 5th; Craft Magic Arms and Armor, _silence;_ Price +3,750 gp.
 
@@ -452,7 +452,7 @@ _silence;_ Price +33,750 gp.
 
 ### Slick:
  Slick armor seems coated at all times with a slightly greasy oil. It provides a +5
-competence bonus on its wearer’s Escape Artist checks. (The armor’s armor check penalty still applies normally.)
+competence bonus on its wearer's Escape Artist checks. (The armor's armor check penalty still applies normally.)
 
 Faint conjuration; CL 4th; Craft Magic Arms and Armor,
 _grease;_ Price +3,750 gp.
@@ -492,7 +492,7 @@ Moderate abjuration; CL 11th; Craft Magic Arms and Armor,
 _resist energy;_ Price +66,000 gp.
 
 ### Spell Resistance:
- This property grants the armor’s wearer spell resistance while the armor is
+ This property grants the armor's wearer spell resistance while the armor is
 worn. The spell resistance can be 13, 15, 17, or 19, depending on the armor.
 
 Strong abjuration; CL 15th; Craft Magic Arms and Armor,
@@ -519,18 +519,18 @@ _baleful polymorph_; Price +3 bonus.
 
 | Minor | Medium | Major | Specific Armor | Market Price |
 | --- | --- | --- | --- | --- |
-| 01-50 | 01-25 | --- | Mithral shirt | 1,100 gp |
-| 51-80 | 26-45 | --- | Dragonhide plate | 3,300 gp |
-| 81-100 | 46-57 | --- | Elven chain | 4,150 gp |
-| --- | 58-67 | --- | _Rhino hide_ | 5,165 gp |
-| --- | 68-82 | 01-10 | Adamantine breastplate | 10,200 gp |
-| --- | 83-97 | 11-20 | Dwarven plate | 16,500 gp |
-| --- | 98-100 | 21-32 | _Banded mail of luck_ | 18,900 gp |
-| --- | --- | 33-50 | _Celestial armor_ | 22,400 gp |
-| --- | --- | 51-60 | _Plate armor of the deep_ | 24,650 gp |
-| --- | --- | 61-75 | _Breastplate of command_ | 25,400 gp |
-| --- | --- | 76-90 | Mithral full plate of speed | 26,500 gp |
-| --- | --- | 91-100 | _Demon armor_ | 52,260 gp |
+| 01-50 | 01-25 | -- | Mithral shirt | 1,100 gp |
+| 51-80 | 26-45 | -- | Dragonhide plate | 3,300 gp |
+| 81-100 | 46-57 | -- | Elven chain | 4,150 gp |
+| -- | 58-67 | -- | _Rhino hide_ | 5,165 gp |
+| -- | 68-82 | 01-10 | Adamantine breastplate | 10,200 gp |
+| -- | 83-97 | 11-20 | Dwarven plate | 16,500 gp |
+| -- | 98-100 | 21-32 | _Banded mail of luck_ | 18,900 gp |
+| -- | -- | 33-50 | _Celestial armor_ | 22,400 gp |
+| -- | -- | 51-60 | _Plate armor of the deep_ | 24,650 gp |
+| -- | -- | 61-75 | _Breastplate of command_ | 25,400 gp |
+| -- | -- | 76-90 | Mithral full plate of speed | 26,500 gp |
+| -- | -- | 91-100 | _Demon armor_ | 52,260 gp |
 
 ## Specific Armors
 The following specific suits of armor usually are preconstructed with exactly the qualities described here.
@@ -544,7 +544,7 @@ No aura (nonmagical); Price 10,200 gp.
 ### Banded Mail of Luck:
  Ten 100-gp gems adorn this _+3 banded mail._ Once per week, the armor
 allows its wearer to require that an attack roll made against him be rerolled. He must take whatever consequences
-come from the second roll. The wearer’s player must decide whether to have the attack roll rerolled before damage
+come from the second roll. The wearer's player must decide whether to have the attack roll rerolled before damage
 is rolled.
 
 Strong enchantment; CL 12th; Craft Magic Arms and Armor,
@@ -575,7 +575,7 @@ Cost 12,550 gp + 1,004 XP.
 shaped to look like a horned demon head, and its wearer looks out of the open, tooth-filled mouth. This
 _+4 full plate_ allows the wearer to make claw attacks that deal 1d10 points of damage, strike as +1 weapons,
 and afflict the target as if she had been struck by a _contagion_ spell (Fortitude DC 14 negates). Use of
-_contagion_ requires a normal melee attack with the claws. The "claws" are built into the armor’s vambraces
+_contagion_ requires a normal melee attack with the claws. The "claws" are built into the armor's vambraces
 and gauntlets.
 
 The armor bestows one negative level on any nonevil creature wearing it. This negative level persists as long as
@@ -638,20 +638,20 @@ enhancement bonus to AC, it has a -1 armor check penalty and deals an additional
 successful charge attack made by the wearer, including a mounted charge.
 
 Moderate transmutation; CL 9th; Craft Magic Arms and Armor,
-_bull’s strength;_ Price 5,165 gp; Cost 2,665 gp + 200 XP.
+_bull's strength;_ Price 5,165 gp; Cost 2,665 gp + 200 XP.
 
 **Table: Specific Shields**
 
 | Minor | Medium | Major | Specific Shield | Market Price |
 | --- | --- | --- | --- | --- |
-| 01-30 | 01-20 | --- | Darkwood buckler | 205 gp |
-| 31-80 | 21-45 | --- | Darkwood shield | 257 gp |
-| 81-95 | 46-70 | --- | Mithral heavy shield | 1,020 gp |
-| 96-100 | 71-85 | 01-20 | _Caster’s shield_ | 3,153 gp |
-| --- | 86-90 | 21-40 | _Spined shield_ | 5,580 gp |
-| --- | 91-95 | 41-60 | _Lion’s shield_ | 9,170 gp |
-| --- | 96-100 | 61-90 | _Winged shield_ | 17,257 gp |
-| --- | --- | 91-100 | _Absorbing shield_ | 50,170 gp |
+| 01-30 | 01-20 | -- | Darkwood buckler | 205 gp |
+| 31-80 | 21-45 | -- | Darkwood shield | 257 gp |
+| 81-95 | 46-70 | -- | Mithral heavy shield | 1,020 gp |
+| 96-100 | 71-85 | 01-20 | _Caster's shield_ | 3,153 gp |
+| -- | 86-90 | 21-40 | _Spined shield_ | 5,580 gp |
+| -- | 91-95 | 41-60 | _Lion's shield_ | 9,170 gp |
+| -- | 96-100 | 61-90 | _Winged shield_ | 17,257 gp |
+| -- | -- | 91-100 | _Absorbing shield_ | 50,170 gp |
 
 ### Specific Shields
 The following specific shields usually are preconstructed with exactly the qualities described here.
@@ -664,16 +664,16 @@ melee touch attack.
 Strong transmutation; CL 17th; Craft Magic Arms and Armor,
 _disintegrate;_ Price 50,170 gp; Cost 25,170 gp + 2,000 XP.
 
-### Caster’s Shield:
+### Caster's Shield:
  This _+1 light wooden shield_ has a small leather strip on the back on
 which a spellcaster can scribe a single spell as on a scroll. A spell so scribed has only half the base raw
 material cost. Experience point and component costs remain the same. The strip cannot accommodate spells of higher
 than 3rd level. The strip is reusable.
 
-A random _caster ’s shield_ has a 50% chance of having a single medium scroll spell on it. The spell is
+A random _caster 's shield_ has a 50% chance of having a single medium scroll spell on it. The spell is
 divine (01-80 on d%) or arcane (81-100).
 
-A _caster’s shield_ has a 5% arcane spell failure chance.
+A _caster's shield_ has a 5% arcane spell failure chance.
 
 Moderate abjuration; CL 6th; Craft Magic Arms and Armor, Scribe Scroll, creator must be at least 6th level; Price
 3,153 gp (plus the value of the scroll spell if one is currently scribed); Cost 1,653 gp + 120 XP.
@@ -692,14 +692,14 @@ enhancement bonus, but its construction material makes it lighter than a normal 
 It weighs 5 pounds and has no armor check penalty.
 No aura (nonmagical); Price 257 gp.
 
-### Lion’s Shield:
- This _+2 heavy steel shield_ is fashioned to appear to be a roaring lion’s
-head. Three times per day as a free action, the lion’s head can be commanded to attack (independently of the
-shield wearer), biting with the wielder’s base attack bonus (including multiple attacks, if the wielder has them)
+### Lion's Shield:
+ This _+2 heavy steel shield_ is fashioned to appear to be a roaring lion's
+head. Three times per day as a free action, the lion's head can be commanded to attack (independently of the
+shield wearer), biting with the wielder's base attack bonus (including multiple attacks, if the wielder has them)
 and dealing 2d6 points of damage. This attack is in addition to any actions performed by the wielder.
 
 Moderate conjuration; CL 10th; Craft Magic Arms and Armor,
-_summon nature’s ally IV;_ Price 9,170 gp; Cost 4,670 gp + 360 XP.
+_summon nature's ally IV;_ Price 9,170 gp; Cost 4,670 gp + 360 XP.
 
 ### Mithral Heavy Shield:
  This heavy shield is made of mithral and thus is much lighter than a
@@ -709,7 +709,7 @@ No aura (nonmagical); Price 1,020 gp.
 
 ### Spined Shield:
  This _+1 heavy steel shield_ is covered in spines. It acts as a normal spiked
-shield. On command up to three times per day, the shield’s wearer can fire one of the shield’s spines. A fired
+shield. On command up to three times per day, the shield's wearer can fire one of the shield's spines. A fired
 spine has a +1 enhancement bonus, a range increment of 120 feet, and deals 1d10 points of damage (19-20/x2). Fired
 spines regenerate each day.
 
@@ -769,17 +769,17 @@ is destroyed.
 ### Light Generation:
  Fully 30% of magic weapons shed light equivalent to a _light_ spell
 (bright light in a 20-foot radius, shadowy light in a 40-foot radius). These glowing weapons are quite obviously
-magical. Such a weapon can’t be concealed when drawn, nor can its light be shut off. Some of the specific weapons
+magical. Such a weapon can't be concealed when drawn, nor can its light be shut off. Some of the specific weapons
 detailed below always or never glow, as defined in their descriptions.
 
 ### Hardness and Hit Points:
  An attacker cannot damage a magic weapon that has an enhancement bonus
 unless his own weapon has at least as high an enhancement bonus as the weapon or shield struck. Each +1 of
-enhancement bonus also adds 1 to the weapon’s or shield’s hardness and hit points.
+enhancement bonus also adds 1 to the weapon's or shield's hardness and hit points.
 
 ### Activation:
  Usually a character benefits from a magic weapon in the same way a character benefits
-from a mundane weapon---by attacking with it. If a weapon has a special ability that the user needs to activate then
+from a mundane weapon--by attacking with it. If a weapon has a special ability that the user needs to activate then
 the user usually needs to utter a command word (a standard action).
 
 ### Magic Weapons and Critical Hits:
@@ -787,26 +787,26 @@ the user usually needs to utter a command word (a standard action).
 effect on a critical hit. This special effect functions against creatures not subject to critical hits, such as
 undead, elementals, and constructs. When fighting against such creatures, roll for critical hits as you would
 against humanoids or any other creature subject to critical hits. On a successful critical roll, apply the special
-effect, but do not multiply the weapon’s regular damage.
+effect, but do not multiply the weapon's regular damage.
 
 **Table: Weapons**
 
 | Minor | Medium | Major | Weapon Bonus | Base Price<sup>1</sup> |
 | --- | --- | --- | --- | --- |
-| 01-70 | 01-10 | --- | +1 | 2,000 gp |
-| 71-85 | 11-29 | --- | +2 | 8,000 gp |
-| --- | 30-58 | 01-20 | +3 | 18,000 gp |
-| --- | 59-62 | 21-38 | +4 | 32,000 gp |
-| --- | --- | 39-49 | +5 | 50,000 gp |
-| --- | --- | --- | +6<sup>2</sup> | 72,000 gp |
-| --- | --- | --- | +7<sup>2</sup> | 98,000 gp |
-| --- | --- | --- | +8<sup>2</sup> | 128,000 gp |
-| --- | --- | --- | +9<sup>2</sup> | 162,000 gp |
-| --- | --- | --- | +10<sup>2</sup> | 200,000 gp |
-| 86-90 | 63-68 | 50-63 | Specific weapon<sup>3</sup> | --- |
-| 91-100 | 69-100 | 64-100 | Special ability and roll again<sup>4</sup> | --- |
+| 01-70 | 01-10 | -- | +1 | 2,000 gp |
+| 71-85 | 11-29 | -- | +2 | 8,000 gp |
+| -- | 30-58 | 01-20 | +3 | 18,000 gp |
+| -- | 59-62 | 21-38 | +4 | 32,000 gp |
+| -- | -- | 39-49 | +5 | 50,000 gp |
+| -- | -- | -- | +6<sup>2</sup> | 72,000 gp |
+| -- | -- | -- | +7<sup>2</sup> | 98,000 gp |
+| -- | -- | -- | +8<sup>2</sup> | 128,000 gp |
+| -- | -- | -- | +9<sup>2</sup> | 162,000 gp |
+| -- | -- | -- | +10<sup>2</sup> | 200,000 gp |
+| 86-90 | 63-68 | 50-63 | Specific weapon<sup>3</sup> | -- |
+| 91-100 | 69-100 | 64-100 | Special ability and roll again<sup>4</sup> | -- |
 | 1 This price is for 50 arrows, crossbow bolts, or sling bullets. |
-| 2 A weapon can’t actually have a bonus higher than +5. Use these lines to determine price when special abilities are added in. |
+| 2 A weapon can't actually have a bonus higher than +5. Use these lines to determine price when special abilities are added in. |
 | 3 See Table: Specific Weapons. |
 | 4 See Table: Melee Weapon Special Abilities for melee weapons or Table: Ranged Weapon Special Abilities for ranged weapons. |
 
@@ -918,37 +918,37 @@ effect, but do not multiply the weapon’s regular damage.
 | Minor | Medium | Major | Special Ability | Base Price Modifier<sup>1</sup> |
 | --- | --- | --- | --- | --- |
 | 01-10 | 01-06 | 01-03 | Bane | +1 bonus |
-| 11-17 | 07-12 | --- | Defending | +1 bonus |
+| 11-17 | 07-12 | -- | Defending | +1 bonus |
 | 18-27 | 13-19 | 04-06 | Flaming | +1 bonus |
 | 28-37 | 20-26 | 07-09 | Frost | +1 bonus |
 | 38-47 | 27-33 | 10-12 | Shock | +1 bonus |
 | 48-56 | 34-38 | 13-15 | Ghost touch | +1 bonus |
-| 57-67 | 39-44 | --- | Keen<sup>2</sup> | +1 bonus |
+| 57-67 | 39-44 | -- | Keen<sup>2</sup> | +1 bonus |
 | 68-71 | 45-48 | 16-19 | Ki Focus | +1 bonus |
-| 72-75 | 49-50 | --- | Merciful | +1 bonus |
+| 72-75 | 49-50 | -- | Merciful | +1 bonus |
 | 76-82 | 51-54 | 20-21 | Mighty cleaving | +1 bonus |
 | 83-87 | 55-59 | 22-24 | Spell storing | +1 bonus |
 | 88-91 | 60-63 | 25-28 | Throwing | +1 bonus |
 | 92-95 | 64-65 | 29-32 | Thundering | +1 bonus |
 | 96-99 | 66-69 | 33-36 | Vicious | +1 bonus |
-| --- | 70-72 | 37-41 | Anarchic | +2 bonus |
-| --- | 73-75 | 42-46 | Axiomatic | +2 bonus |
-| --- | 76-78 | 47-49 | Disruption<sup>3</sup> | +2 bonus |
-| --- | 79-81 | 50-54 | Flaming burst | +2 bonus |
-| --- | 82-84 | 55-59 | Icy burst | +2 bonus |
-| --- | 85-87 | 60-64 | Holy | +2 bonus |
-| --- | 88-90 | 65-69 | Shocking burst | +2 bonus |
-| --- | 91-93 | 70-74 | Unholy | +2 bonus |
-| --- | 94-95 | 75-78 | Wounding | +2 bonus |
-| --- | --- | 79-83 | Speed | +3 bonus |
-| --- | --- | 84-86 | Brilliant energy | +4 bonus |
-| --- | --- | 87-88 | Dancing | +4 bonus |
-| --- | --- | 89-90 | Vorpal<sup>2</sup> | +5 bonus |
-| 100 | 96-100 | 91-100 | Roll again twice<sup>4</sup> | --- |
+| -- | 70-72 | 37-41 | Anarchic | +2 bonus |
+| -- | 73-75 | 42-46 | Axiomatic | +2 bonus |
+| -- | 76-78 | 47-49 | Disruption<sup>3</sup> | +2 bonus |
+| -- | 79-81 | 50-54 | Flaming burst | +2 bonus |
+| -- | 82-84 | 55-59 | Icy burst | +2 bonus |
+| -- | 85-87 | 60-64 | Holy | +2 bonus |
+| -- | 88-90 | 65-69 | Shocking burst | +2 bonus |
+| -- | 91-93 | 70-74 | Unholy | +2 bonus |
+| -- | 94-95 | 75-78 | Wounding | +2 bonus |
+| -- | -- | 79-83 | Speed | +3 bonus |
+| -- | -- | 84-86 | Brilliant energy | +4 bonus |
+| -- | -- | 87-88 | Dancing | +4 bonus |
+| -- | -- | 89-90 | Vorpal<sup>2</sup> | +5 bonus |
+| 100 | 96-100 | 91-100 | Roll again twice<sup>4</sup> | -- |
 | 1 Add to enhancement bonus on Table: Weapons to determine total market price. |
 | 2 Piercing or slashing weapons only. Reroll if randomly generated for a bludgeoning weapon. |
 | 3 Bludgeoning weapons only. Reroll if randomly generated for a piercing or slashing weapon. |
-| 4 Reroll if you get a duplicate special ability, an ability incompatible with an ability that you’ve already rolled, or if the extra ability puts you over the +10 limit. A weapon’s enhancement bonus and special ability bonus equivalents can’t total more than +10. |
+| 4 Reroll if you get a duplicate special ability, an ability incompatible with an ability that you've already rolled, or if the extra ability puts you over the +10 limit. A weapon's enhancement bonus and special ability bonus equivalents can't total more than +10. |
 
 **Table: Ranged Weapon Special Abilities**
 
@@ -958,23 +958,23 @@ effect, but do not multiply the weapon’s regular damage.
 | 13-25 | 09-16 | 05-08 | Distance | +1 bonus |
 | 26-40 | 17-28 | 09-12 | Flaming | +1 bonus |
 | 41-55 | 29-40 | 13-16 | Frost | +1 bonus |
-| 56-60 | 41-42 | --- | Merciful | +1 bonus |
+| 56-60 | 41-42 | -- | Merciful | +1 bonus |
 | 61-68 | 43-47 | 17-21 | Returning | +1 bonus |
 | 69-83 | 48-59 | 22-25 | Shock | +1 bonus |
 | 84-93 | 60-64 | 26-27 | Seeking | +1 bonus |
 | 94-99 | 65-68 | 28-29 | Thundering | +1 bonus |
-| --- | 69-71 | 30-34 | Anarchic | +2 bonus |
-| --- | 72-74 | 35-39 | Axiomatic | +2 bonus |
-| --- | 75-79 | 40-49 | Flaming burst | +2 bonus |
-| --- | 80-82 | 50-54 | Holy | +2 bonus |
-| --- | 83-87 | 55-64 | Icy burst | +2 bonus |
-| --- | 88-92 | 65-74 | Shocking burst | +2 bonus |
-| --- | 93-95 | 75-79 | Unholy | +2 bonus |
-| --- | --- | 80-84 | Speed | +3 bonus |
-| --- | --- | 85-90 | Brilliant energy | +4 bonus |
-| 100 | 96-100 | 91-100 | Roll again twice<sup>2</sup> | --- |
+| -- | 69-71 | 30-34 | Anarchic | +2 bonus |
+| -- | 72-74 | 35-39 | Axiomatic | +2 bonus |
+| -- | 75-79 | 40-49 | Flaming burst | +2 bonus |
+| -- | 80-82 | 50-54 | Holy | +2 bonus |
+| -- | 83-87 | 55-64 | Icy burst | +2 bonus |
+| -- | 88-92 | 65-74 | Shocking burst | +2 bonus |
+| -- | 93-95 | 75-79 | Unholy | +2 bonus |
+| -- | -- | 80-84 | Speed | +3 bonus |
+| -- | -- | 85-90 | Brilliant energy | +4 bonus |
+| 100 | 96-100 | 91-100 | Roll again twice<sup>2</sup> | -- |
 | 1 Add to enhancement bonus on Table: Weapons to determine total market price. |
-| 2 Reroll if you get a duplicate special ability, an ability incompatible with an ability that you’ve already rolled, or if the extra ability puts you over the +10 limit. A weapon’s enhancement bonus and special ability bonus equivalents can’t total more than +10. |
+| 2 Reroll if you get a duplicate special ability, an ability incompatible with an ability that you've already rolled, or if the extra ability puts you over the +10 limit. A weapon's enhancement bonus and special ability bonus equivalents can't total more than +10. |
 
 ### Weapons for Unusually Sized Creatures:
  The cost of weapons for creatures who are neither Small
@@ -982,11 +982,11 @@ nor Medium varies. The cost of the masterwork quality and any magical enhancemen
 
 ### Special Qualities:
  Roll d%. If the item is a melee weapon, a 01-30 result indicates that the item
-sheds light, 31-45 indicates that something (a design, inscription, or the like) provides a clue to the weapon’s
+sheds light, 31-45 indicates that something (a design, inscription, or the like) provides a clue to the weapon's
 function, and 46-100 indicates no special qualities.
 
 If the item is a ranged weapon, a 01-15 result indicates that something (a design, inscription, or the like)
-provides a clue to the weapon’s function, and 16-100 indicates no special qualities.
+provides a clue to the weapon's function, and 16-100 indicates no special qualities.
 
 ## Magic Weapon Special Ability Descriptions
 
@@ -1015,13 +1015,13 @@ _restoration_ spells) while the weapon is wielded. Bows, crossbows, and slings s
 power upon their ammunition.
 
 Moderate evocation [lawful]; CL 7th; Craft Magic Arms and Armor,
-_order’s wrath,_ creator must be lawful; Price +2 bonus.
+_order's wrath,_ creator must be lawful; Price +2 bonus.
 
 ### Bane:
  A bane weapon excels at attacking one type or subtype of creature. Against its designated
 foe, its effective enhancement bonus is +2 better than its normal enhancement bonus. It deals an extra 2d6 points
 of damage against the foe. Bows, crossbows, and slings so crafted bestow the bane quality upon their ammunition.
-To randomly determine a weapon’s designated foe, roll on the following table.
+To randomly determine a weapon's designated foe, roll on the following table.
 
 | d% | Designated Foe |
 | --- | --- |
@@ -1062,7 +1062,7 @@ _summon monster I_; Price +1 bonus.
 
 ### Brilliant Energy:
  A brilliant energy weapon has its significant portion transformed into light,
-although this does not modify the item’s weight. It always gives off light as a torch (20-foot radius). A
+although this does not modify the item's weight. It always gives off light as a torch (20-foot radius). A
 brilliant energy weapon ignores nonliving matter. Armor and shield bonuses to AC (including any enhancement
 bonuses to that armor) do not count against it because the weapon passes through armor. (Dexterity, deflection,
 dodge, natural armor, and other such bonuses still apply.) A brilliant energy weapon cannot harm undead,
@@ -1079,16 +1079,16 @@ respects, it is considered wielded or attended by the creature for all maneuvers
 While dancing, it takes up the same space as the activating character and can attack adjacent foes (weapons with
 reach can attack opponents up to 10 feet away). The dancing weapon accompanies the person who activated it
 everywhere, whether she moves by physical or magical means. If the wielder who loosed it has an unoccupied hand,
-she can grasp it while it is attacking on its own as a free action; when so retrieved the weapon can’t dance
+she can grasp it while it is attacking on its own as a free action; when so retrieved the weapon can't dance
 (attack on its own) again for 4 rounds.
 
 Strong transmutation; CL 15th; Craft Magic Arms and Armor,
 _animate objects;_ Price +4 bonus.
 
 ### Defending:
- A defending weapon allows the wielder to transfer some or all of the sword’s
+ A defending weapon allows the wielder to transfer some or all of the sword's
 enhancement bonus to his AC as a bonus that stacks with all others. As a free action, the wielder chooses how to
-allocate the weapon’s enhancement bonus at the start of his turn before using the weapon, and the effect to AC
+allocate the weapon's enhancement bonus at the start of his turn before using the weapon, and the effect to AC
 lasts until his next turn.
 
 Moderate abjuration; CL 8th; Craft Magic Arms and Armor, _shield_ or _shield of faith;_ Price +1 bonus.
@@ -1120,7 +1120,7 @@ _flame blade, flame strike,_ or _fireball;_ Price +1 bonus.
  A flaming burst weapon functions as a flaming weapon that also explodes with flame
 upon striking a successful critical hit. The fire does not harm the wielder. In addition to the extra fire damage
 from the flaming ability (see above), a flaming burst weapon deals an extra 1d10 points of fire damage on a
-successful critical hit. If the weapon’s critical multiplier is x3, add an extra 2d10 points of fire damage
+successful critical hit. If the weapon's critical multiplier is x3, add an extra 2d10 points of fire damage
 instead, and if the multiplier is x4, add an extra 3d10 points of fire damage. Bows, crossbows, and slings so
 crafted bestow the fire energy upon their ammunition.
 
@@ -1140,7 +1140,7 @@ _chill metal_ or _ice storm;_ Price +1 bonus.
 
 ### Ghost Touch:
  A ghost touch weapon deals damage normally against incorporeal creatures, regardless
-of its bonus. (An incorporeal creature’s 50% chance to avoid damage does not apply to attacks with ghost touch
+of its bonus. (An incorporeal creature's 50% chance to avoid damage does not apply to attacks with ghost touch
 weapons.) The weapon can be picked up and moved by an incorporeal creature at any time. A manifesting ghost can
 wield the weapon against corporeal foes. Essentially, a ghost touch weapon counts as either corporeal or
 incorporeal at any given time, whichever is more beneficial to the wielder.
@@ -1163,7 +1163,7 @@ _holy smite,_ creator must be good; Price +2 bonus.
  An icy burst weapon functions as a frost weapon that also explodes with frost upon
 striking a successful critical hit. The frost does not harm the wielder. In addition to the extra damage from the
 frost ability, an icy burst weapon deals an extra 1d10 points of cold damage on a successful critical hit. If the
-weapon’s critical multiplier is x3, add an extra 2d10 points of cold damage instead, and if the multiplier is x4,
+weapon's critical multiplier is x3, add an extra 2d10 points of cold damage instead, and if the multiplier is x4,
 add an extra 3d10 points. Bows, crossbows, and slings so crafted bestow the cold energy upon their ammunition.
 
 Even if the frost ability is not active, the weapon still deals its extra cold damage on a successful critical
@@ -1174,7 +1174,7 @@ _chill metal_ or _ice storm;_ Price +2 bonus.
 
 ### Keen:
  This ability doubles the threat range of a weapon. Only piercing or slashing weapons can be
-keen. (If you roll this property randomly for an inappropriate weapon, reroll.) This benefit doesn’t stack with
+keen. (If you roll this property randomly for an inappropriate weapon, reroll.) This benefit doesn't stack with
 any other effect that expands the threat range of a weapon (such as the _keen edge_ spell or the Improved
 Critical feat).
 
@@ -1182,9 +1182,9 @@ Moderate transmutation; CL 10th; Craft Magic Arms and Armor,
 _keen edge;_ Price +1 bonus.
 
 ### _Ki_ Focus:
- The magic weapon serves as a channel for the wielder’s _ki_, allowing her
+ The magic weapon serves as a channel for the wielder's _ki_, allowing her
 to use her special _ki_ attacks through the weapon as if they were unarmed attacks. These attacks include the
-monk’s stunning attack, _ki_ strike, and quivering palm, as well as the Stunning Fist feat. Only melee
+monk's stunning attack, _ki_ strike, and quivering palm, as well as the Stunning Fist feat. Only melee
 weapons can have the _ki_ focus ability.
 
 Moderate transmutation; CL 8th; Craft Magic Arms and Armor, creator must be a monk; Price +1 bonus.
@@ -1207,9 +1207,9 @@ _divine power;_ Price +1 bonus.
 ### Returning:
  This special ability can only be placed on a weapon that can be thrown. A returning
 weapon flies through the air back to the creature that threw it. It returns to the thrower just before the
-creature’s next turn (and is therefore ready to use again in that turn).
+creature's next turn (and is therefore ready to use again in that turn).
 
-Catching a returning weapon when it comes back is a free action. If the character can’t catch it, or if the
+Catching a returning weapon when it comes back is a free action. If the character can't catch it, or if the
 character has moved since throwing it, the weapon drops to the ground in the square from which it was thrown.
 
 Moderate transmutation; CL 7th; Craft Magic Arms and Armor,
@@ -1237,7 +1237,7 @@ _call lightning_ or _lightning bolt;_ Price +1 bonus.
  A shocking burst weapon functions as a shock weapon that also explodes with
 electricity upon striking a successful critical hit. The electricity does not harm the wielder. In addition to the
 extra electricity damage from the shock ability, a shocking burst weapon deals an extra 1d10 points of electricity
-damage on a successful critical hit. If the weapon’s critical multiplier is x3, add an extra 2d10 points of
+damage on a successful critical hit. If the weapon's critical multiplier is x3, add an extra 2d10 points of
 electricity damage instead, and if the multiplier is x4, add an extra 3d10 points. Bows, crossbows, and slings so
 crafted bestow the electricity energy upon their ammunition.
 
@@ -1249,7 +1249,7 @@ _call lightning_ or _lightning bolt;_ Price +2 bonus.
 
 ### Speed:
  When making a full attack action, the wielder of a speed weapon may make one extra attack
-with it. The attack uses the wielder’s full base attack bonus, plus any modifiers appropriate to the situation.
+with it. The attack uses the wielder's full base attack bonus, plus any modifiers appropriate to the situation.
 (This benefit is not cumulative with similar effects, such as a _haste_ spell.)
 
 Moderate transmutation; CL 7th; Craft Magic Arms and Armor,
@@ -1271,7 +1271,7 @@ least 12th level; Price +1 bonus.
 ### Thundering:
  A thundering weapon creates a cacophonous roar like thunder upon striking a
 successful critical hit. The sonic energy does not harm the wielder. A thundering weapon deals an extra 1d8 points
-of sonic damage on a successful critical hit. If the weapon’s critical multiplier is x3, add an extra 2d8 points
+of sonic damage on a successful critical hit. If the weapon's critical multiplier is x3, add an extra 2d8 points
 of sonic damage instead, and if the multiplier is x4, add an extra 3d8 points of sonic damage. Bows, crossbows,
 and slings so crafted bestow the sonic energy upon their ammunition. Subjects dealt a critical hit by a thundering
 weapon must make a DC 14 Fortitude save or be deafened permanently.
@@ -1308,7 +1308,7 @@ _enervation_; Price +1 bonus.
 ### Vorpal:
  This potent and feared ability allows the weapon to sever the heads of those it strikes.
 Upon a roll of natural 20 (followed by a successful roll to confirm the critical hit), the weapon severs the
-opponent’s head (if it has one) from its body. Some creatures, such as many aberrations and all oozes, have no
+opponent's head (if it has one) from its body. Some creatures, such as many aberrations and all oozes, have no
 heads. Others, such as golems and undead creatures other than vampires, are not affected by the loss of their
 heads. Most other creatures, however, die when their heads are cut off. A vorpal weapon must be a slashing weapon.
 (If you roll this property randomly for an inappropriate weapon, reroll.)
@@ -1322,46 +1322,46 @@ creature. A critical hit does not multiply the Constitution damage. Creatures im
 plants and constructs) are immune to the Constitution damage dealt by this weapon.
 
 Moderate evocation; CL 10th; Craft Magic Arms and Armor,
-_mage’s sword;_ Price +2 bonus.
+_mage's sword;_ Price +2 bonus.
 
 **Table: Specific Weapons**
 
 | Minor | Medium | Major | Specific Weapon | Market Price |
 | --- | --- | --- | --- | --- |
-| 01-15 | --- | --- | _Sleep arrow_ | 132 gp |
-| 16-25 | --- | --- | _Screaming bolt_ | 267 gp |
-| 26-45 | --- | --- | Silver dagger, masterwork | 322 gp |
-| 46-65 | --- | --- | Cold iron longsword, masterwork | 330 gp |
-| 66-75 | 01-09 | --- | _Javelin of lightning_ | 1,500 gp |
-| 76-80 | 10-15 | --- | _Slaying arrow_ | 2,282 gp |
-| 81-90 | 16-24 | --- | Adamantine dagger | 3,002 gp |
-| 91-100 | 25-33 | --- | Adamantine battleaxe | 3,010 gp |
-| --- | 34-37 | --- | _Slaying arrow (greater)_ | 4,057 gp |
-| --- | 38-40 | --- | _Shatterspike_ | 4,315 gp |
-| --- | 41-46 | --- | _Dagger of venom_ | 8,302 gp |
-| --- | 47-51 | --- | _Trident of warning_ | 10,115 gp |
-| --- | 52-57 | 01-04 | _Assassin’s dagger_ | 10,302 gp |
-| --- | 58-62 | 05-07 | _Shifter’s sorrow_ | 12,780 gp |
-| --- | 63-66 | 08-09 | _Trident of fish command_ | 18,650 gp |
-| --- | 67-74 | 10-13 | _Flame tongue_ | 20,715 gp |
-| --- | 75-79 | 14-17 | _Luck blade (0 wishes)_ | 22,060 gp |
-| --- | 80-86 | 18-24 | _Sword of subtlety_ | 22,310 gp |
-| --- | 87-91 | 25-31 | _Sword of the planes_ | 22,315 gp |
-| --- | 92-95 | 32-37 | _Nine lives stealer_ | 23,057 gp |
-| --- | 96-98 | 38-42 | _Sword of life stealing_ | 25,715 gp |
-| --- | 99-100 | 43-46 | _Oathbow_ | 25,600 gp |
-| --- | --- | 47-51 | _Mace of terror_ | 38,552 gp |
-| --- | --- | 52-57 | _Life-drinker_ | 40,320 gp |
-| --- | --- | 58-62 | _Sylvan scimitar_ | 47,315 gp |
-| --- | --- | 63-67 | _Rapier of puncturing_ | 50,320 gp |
-| --- | --- | 68-73 | _Sun blade_ | 50,335 gp |
-| --- | --- | 74-79 | _Frost brand_ | 54,475 gp |
-| --- | --- | 80-84 | _Dwarven thrower_ | 60,312 gp |
-| --- | --- | 85-91 | _Luck blade (1 wish)_ | 62,360 gp |
-| --- | --- | 92-95 | _Mace of smiting_ | 75,312 gp |
-| --- | --- | 96-97 | _Luck blade (2 wishes)_ | 102,660 gp |
-| --- | --- | 98-99 | _Holy avenger_ | 120,630 gp |
-| --- | --- | 100 | _Luck blade (3 wishes)_ | 142,960 gp |
+| 01-15 | -- | -- | _Sleep arrow_ | 132 gp |
+| 16-25 | -- | -- | _Screaming bolt_ | 267 gp |
+| 26-45 | -- | -- | Silver dagger, masterwork | 322 gp |
+| 46-65 | -- | -- | Cold iron longsword, masterwork | 330 gp |
+| 66-75 | 01-09 | -- | _Javelin of lightning_ | 1,500 gp |
+| 76-80 | 10-15 | -- | _Slaying arrow_ | 2,282 gp |
+| 81-90 | 16-24 | -- | Adamantine dagger | 3,002 gp |
+| 91-100 | 25-33 | -- | Adamantine battleaxe | 3,010 gp |
+| -- | 34-37 | -- | _Slaying arrow (greater)_ | 4,057 gp |
+| -- | 38-40 | -- | _Shatterspike_ | 4,315 gp |
+| -- | 41-46 | -- | _Dagger of venom_ | 8,302 gp |
+| -- | 47-51 | -- | _Trident of warning_ | 10,115 gp |
+| -- | 52-57 | 01-04 | _Assassin's dagger_ | 10,302 gp |
+| -- | 58-62 | 05-07 | _Shifter's sorrow_ | 12,780 gp |
+| -- | 63-66 | 08-09 | _Trident of fish command_ | 18,650 gp |
+| -- | 67-74 | 10-13 | _Flame tongue_ | 20,715 gp |
+| -- | 75-79 | 14-17 | _Luck blade (0 wishes)_ | 22,060 gp |
+| -- | 80-86 | 18-24 | _Sword of subtlety_ | 22,310 gp |
+| -- | 87-91 | 25-31 | _Sword of the planes_ | 22,315 gp |
+| -- | 92-95 | 32-37 | _Nine lives stealer_ | 23,057 gp |
+| -- | 96-98 | 38-42 | _Sword of life stealing_ | 25,715 gp |
+| -- | 99-100 | 43-46 | _Oathbow_ | 25,600 gp |
+| -- | -- | 47-51 | _Mace of terror_ | 38,552 gp |
+| -- | -- | 52-57 | _Life-drinker_ | 40,320 gp |
+| -- | -- | 58-62 | _Sylvan scimitar_ | 47,315 gp |
+| -- | -- | 63-67 | _Rapier of puncturing_ | 50,320 gp |
+| -- | -- | 68-73 | _Sun blade_ | 50,335 gp |
+| -- | -- | 74-79 | _Frost brand_ | 54,475 gp |
+| -- | -- | 80-84 | _Dwarven thrower_ | 60,312 gp |
+| -- | -- | 85-91 | _Luck blade (1 wish)_ | 62,360 gp |
+| -- | -- | 92-95 | _Mace of smiting_ | 75,312 gp |
+| -- | -- | 96-97 | _Luck blade (2 wishes)_ | 102,660 gp |
+| -- | -- | 98-99 | _Holy avenger_ | 120,630 gp |
+| -- | -- | 100 | _Luck blade (3 wishes)_ | 142,960 gp |
 
 ## Specific Weapons
 The following specific weapons usually are preconstructed with exactly the qualities described here.
@@ -1378,7 +1378,7 @@ has a +1 enhancement bonus on attack rolls.
 
 No aura (nonmagical); Price 3,002 gp.
 
-### Assassin’s Dagger:
+### Assassin's Dagger:
  This wicked-looking, curved _+2 dagger_ provides a +1 bonus to the DC of
 a Fortitude save forced by the death attack of an assassin.
 
@@ -1428,7 +1428,7 @@ _ice storm, dispel magic, protection from energy;_ Price 54,475 gp; Cost 27,375 
  This _+2 cold iron longsword_ becomes a _+5 holy cold iron longsword_ in
 the hands of a paladin.
 
-It provides spell resistance of 5 + the paladin’s level to the wielder and anyone adjacent to her. It also enables
+It provides spell resistance of 5 + the paladin's level to the wielder and anyone adjacent to her. It also enables
 the wielder to use
 _greater dispel magic_ (once per round as a standard action) at the class level of the paladin. (Only the
 area dispel is possible, not the targeted dispel or counterspell versions of _greater dispel magic._)
@@ -1458,7 +1458,7 @@ _enervation;_ Price 40,320 gp; Cost 20,320 gp + 1,600 XP.
 ### Luck Blade:
  This _+2 short sword_ gives its possessor a +1 luck bonus on all saving throws.
 Its possessor also gains the power of good fortune, usable once per day. This extraordinary ability allows its
-possessor to reroll one roll that she just made. She must take the result of the reroll, even if it’s worse than
+possessor to reroll one roll that she just made. She must take the result of the reroll, even if it's worse than
 the original roll. In addition, a _luck blade_ may contain up to three _wishes_ (when randomly rolled, a
 _luck blade_ holds 1d4-1 _wishes,_ minimum 0). When the last _wish_ is used, the sword remains a
 _+2 short sword,_ still grants the +1 luck bonus, and still grants its reroll power.
@@ -1477,7 +1477,7 @@ Moderate transmutation; CL 11th; Craft Magic Arms and Armor,
 _disintegrate;_ Price 75,312 gp; Cost 39,312 gp + 2,880 XP.
 
 ### Mace of Terror:
- On command, this _+2 heavy mace_ causes the wielder’s clothes and appearance
+ On command, this _+2 heavy mace_ causes the wielder's clothes and appearance
 to transform into an illusion of darkest horror such that living creatures in a 30-foot cone become panicked as if
 by a _fear_ spell (Will DC 16 partial). They take a -2 morale penalty on saving throws, and they flee from
 the wielder. The wielder may use this ability up to three times per day.
@@ -1494,9 +1494,9 @@ No aura (nonmagical); Price 330 gp.
  This longsword always performs as a _+2 longsword,_ but it also has the
 power to draw the life force from an opponent. It can do this nine times before the ability is lost. At that
 point, the sword becomes a simple _+2 longsword_ (with a hint of evil about it). A critical hit must be dealt
-for the sword’s death-dealing ability to function, and this weapon has no effect on creatures not subject to
+for the sword's death-dealing ability to function, and this weapon has no effect on creatures not subject to
 critical hits. The victim is entitled to a DC 20 Fortitude save to avoid death. If the save is successful, the
-sword’s death-dealing ability does not function, no use of the ability is expended, and normal critical damage is
+sword's death-dealing ability does not function, no use of the ability is expended, and normal critical damage is
 determined. This sword is evil, and any good character attempting to wield it gains two negative levels. These
 negative levels remain as long as the sword is in hand and disappear when the sword is no longer wielded. These
 negative levels never result in actual level loss, but they cannot be overcome in any way (including
@@ -1508,7 +1508,7 @@ _finger of death;_ Price 23,057 gp; Cost 11,528 gp 5 sp + 922 XP.
 ### Oathbow:
  Of elven make, this white _+2 composite longbow_ (+2 Str bonus) whispers "Swift
 defeat to my enemies" in Elven when nocked and pulled. Once per day, if the firer swears aloud to slay her target
-(a free action), the bow’s whisper becomes the low shout "Swift death to those who have wronged me." Against such
+(a free action), the bow's whisper becomes the low shout "Swift death to those who have wronged me." Against such
 a sworn enemy, the bow has a +5 enhancement bonus, and arrows launched from it deal an additional 2d6 points of
 damage (and x4 on a critical hit instead of the normal x3). However, the bow is treated as only a masterwork
 weapon against all foes other than the sworn enemy, and the wielder takes a -1 penalty on attack rolls with any
@@ -1517,7 +1517,7 @@ slain or destroyed by the wielder of the _oathbow,_ whichever comes first.
 
 The _oathbow_ may only have one sworn enemy at a time. Once the wielder swears to slay a target, he cannot
 make a new oath until he has slain that target or seven days have passed. Even if the wielder slays the sworn
-enemy on the same day that he makes the oath, he cannot activate the _oathbow_’s special power again until 24
+enemy on the same day that he makes the oath, he cannot activate the _oathbow_'s special power again until 24
 hours have passed from the time he made the oath.
 
 Strong evocation; CL 15th; Craft Magic Arms and Armor, creator must be an elf; Price 25,600 gp; Cost 13,100 gp +
@@ -1539,16 +1539,16 @@ Faint enchantment; CL 5th; Craft Magic Arms and Armor, _doom;_ Price 267gp; Cost
 
 ### Shatterspike:
  Wielders without the Improved Sunder feat use _Shatterspike_ as a
-_+1 longsword_ only; wielders with the Improved Sunder feat add a +4 bonus (including the sword’s +1
-enhancement bonus) to the opposed roll when attempting to strike a foe’s weapon. If successful,
-_Shatterspike_ deals 1d8+4 points of damage plus the wielder’s Strength modifier to the target weapon (the
-target weapon’s hardness must still be overcome with each hit). _Shatterspike_ can damage weapons with an
+_+1 longsword_ only; wielders with the Improved Sunder feat add a +4 bonus (including the sword's +1
+enhancement bonus) to the opposed roll when attempting to strike a foe's weapon. If successful,
+_Shatterspike_ deals 1d8+4 points of damage plus the wielder's Strength modifier to the target weapon (the
+target weapon's hardness must still be overcome with each hit). _Shatterspike_ can damage weapons with an
 enhancement bonus of +4 or lower.
 
 Strong evocation; CL 13th; Str 13, Craft Arms and Armor, Power Attack, Improved Sunder, _shatter_; Price
 4,315 gp; Cost 2,315 gp + 160 XP; Weight 4 lb.
 
-### Shifter’s Sorrow:
+### Shifter's Sorrow:
  This _+1/+1 two-bladed sword_ has blades of alchemical silver. The weapon
 deals an extra 2d6 points of damage against any creature with the shapechanger subtype. When a shapechanger or a
 creature in an alternate form (such as a druid using wild shape) is struck by the weapon, it must make a DC 15
@@ -1666,7 +1666,7 @@ _plane shift;_ Price 22,315 gp; Cost 11,157 gp and 5 sp + 893 XP.
 
 ### Sword of Subtlety:
  A _+1 short sword_ with a thin, dull gray blade, this weapon provides a
-+4 bonus on its wielder’s attack and damage rolls when he is making a sneak attack with it.
++4 bonus on its wielder's attack and damage rolls when he is making a sneak attack with it.
 
 Moderate illusion; CL 7th; Craft Magic Arms and Armor, _blur;_ Price 22,310 gp; Cost 11,155 gp + 892 XP.
 

@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Psionics - Psionic Spells
-aliases: 3.5 Psionic Spells
+aliases:
+  - 3.5 Psionic Spells
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - psionics
   - psionic_spells
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -78,7 +78,7 @@ Will saves against enchantment spells and effects.
 | 3 | **Telepathic Bond, Lesser:** Link with subject within 30 ft. for 10 min./level. |
 | 4 | **Discern Lies:** Reveals deliberate falsehoods. |
 | 5 | **Telepathic Bond:** Link lets allies communicate. |
-| 6 | **Probe Thoughts:** Read subject’s memories, one question/ round. |
+| 6 | **Probe Thoughts:** Read subject's memories, one question/ round. |
 | 7 | **Brain Spider:** Eavesdrop on thoughts of up to eight other creatures. |
 | 8 | **Mind Blank:** Subject is immune to mental/emotional magic and scrying. |
 | 9 | **Weird:** Fearful illusion affects all within 30 ft., either killing or dealing 3d6 damage. |
@@ -97,7 +97,7 @@ Will saves against enchantment spells and effects.
 ### Mental Pinnacle<sup>M</sup>:
  You gain the mental powers of a psion.
 ### Probe Thoughts:
- Read subject’s memories, one question/ round.
+ Read subject's memories, one question/ round.
 ### 7th-Level Sorcerer/Wizard Spell
 
 ### Psychic Turmoil, Greater:
@@ -132,7 +132,7 @@ hearing as desired:
 *   Information from all minds about one particular topic, thing, or being, one nugget of information per caster level.
 *   A study of the thoughts and memories of one creature of the group in detail.
 
-Once per round, if you do not perform a detailed study of one creature’s mind, you can attempt (as a standard
+Once per round, if you do not perform a detailed study of one creature's mind, you can attempt (as a standard
 action) to implant a
 _suggestion_ in the mind of any one of the affected creatures. The creature can make another Will saving
 throw to resist the _suggestion,_ using the save DC of the _brain spider_ spell. (Creatures with special
@@ -166,16 +166,16 @@ Evocation
 
 With this spell, you form a radiating corona around the head of a psionic ally, then convert some of your spells
 into psionic power points. When you finish casting _dweomer of transference,_ a red-orange glow surrounds the
-psionic creature’s head. For the duration of the spell, any spells cast at the subject don’t have their usual
+psionic creature's head. For the duration of the spell, any spells cast at the subject don't have their usual
 effect, instead converting themselves harmlessly into psionic energy that the subject can use as energy for
 psionic powers. You can cast any spell you like at the subject, even area spells, effect spells, and spells for
-whom the subject would ordinarily not be a legitimate target. The spells don’t do anything other than provide the
+whom the subject would ordinarily not be a legitimate target. The spells don't do anything other than provide the
 subject with power points, but you must still cast them normally, obeying the component and range requirements
 listed in the description of each spell.
 
 For each spell you cast into the _dweomer of transference,_ the psionic creature gets temporary power points,
-according to the following table. The transference isn’t perfectly efficient. The temporary power points acquired
-through a _dweomer of transference_ dissipate after 1 hour if they haven’t already been spent.
+according to the following table. The transference isn't perfectly efficient. The temporary power points acquired
+through a _dweomer of transference_ dissipate after 1 hour if they haven't already been spent.
 
 | Spell Level | Power Points Acquired |
 | --- | --- |
@@ -210,10 +210,10 @@ Evocation [Sonic, Mind-Affecting]
  Yes
 
 You utter shrieks of nonsense and gibberish that thinking creatures find distracting and confusing. The spell
-affects only creatures with Intelligence scores of 3 or higher. Any such creatures within the spell’s area must
+affects only creatures with Intelligence scores of 3 or higher. Any such creatures within the spell's area must
 succeed on Fortitude saves or be stunned for 1 round (if they have Intelligence scores of 20 or higher), dazed for
 1 round (if they have Intelligence scores between 10 and 19), or shaken for 1 round (if they have Intelligence
-scores between 3 and 9). In addition, a creature within the spell’s area loses any psionic focus it might have had
+scores between 3 and 9). In addition, a creature within the spell's area loses any psionic focus it might have had
 and takes a -4 penalty on Concentration checks for 1 round. These effects happen whether or not the creature
 succeeded on its save.
 
@@ -241,9 +241,9 @@ caster level, and access to the following powers.
 *   Ego Whip<sup>A</sup>: Deal 1d4 Cha damage and daze for 1 round.
 *   Psionic Blast<sup>A</sup>: Stun creatures in 30-ft. cone for 1 round.
 *   Id Insinuation: Swift tendrils of thought disrupt and confuse your target.
-*   Psychic Crush<sup>A</sup>: Brutally crush subject’s mental essence, reducing subject to -1 hit points.
+*   Psychic Crush<sup>A</sup>: Brutally crush subject's mental essence, reducing subject to -1 hit points.
 
-You manifest the powers as a psion of your caster level does, creating displays as described in each power’s
+You manifest the powers as a psion of your caster level does, creating displays as described in each power's
 description. You lose your spellcasting ability, including your ability to use spell activation or spell
 completion magic items, just as if those spells were no longer on your class list. For the duration of this spell,
 you use magic items and psionic items as if you were a psion with only the five powers given above on your class
@@ -251,7 +251,7 @@ list.
 
 Any unspent power points dissipate when the spell ends.
 
-_Material Component:_ A _potion of fox’s cunning,_ which you drink (its effect is overridden by the
+_Material Component:_ A _potion of fox's cunning,_ which you drink (its effect is overridden by the
 effect of this spell).
 
 ### Probe Thoughts
@@ -273,12 +273,12 @@ Divination [Mind-Affecting]
 ### Spell Resistance:
  Yes
 
-All the subject’s memories and knowledge are accessible to you, ranging from memories deep below the surface to
+All the subject's memories and knowledge are accessible to you, ranging from memories deep below the surface to
 those still easily called to mind. You can learn the answer to one question per round, to the best of the
-subject’s knowledge. You can also probe a sleeping subject, though the subject may make a Will save against the DC
+subject's knowledge. You can also probe a sleeping subject, though the subject may make a Will save against the DC
 of the
 _probe thoughts_ spell to wake after each question. Subjects who do not wish to be probed can attempt to move
-beyond the power’s range, unless somehow hindered. You pose the questions telepathically, and the answers to those
+beyond the power's range, unless somehow hindered. You pose the questions telepathically, and the answers to those
 questions are imparted directly to your mind. You and the target do not need to speak the same language, though
 less intelligent creatures may yield up only appropriate visual images in answer to your questions.
 
@@ -309,7 +309,7 @@ the
 _psychic turmoil_ lose 1 power point per manifester level they have. Characters who succeed on a Will save
 when they first come into contact with the emanation lose only half as many power points (round down) each round.
 Characters get only one save attempt against any particular _psychic turmoil_ effect, even if they leave the
-spell’s area and later return.
+spell's area and later return.
 
 _Material Component:_ Five playing cards, which are torn in half when the spell is cast.
 ### Psychic Turmoil, Greater

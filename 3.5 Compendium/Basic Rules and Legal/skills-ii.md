@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Skills II
-aliases: 3.5 Skills II
+aliases:
+  - 3.5 Skills II
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - skills_ii
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -47,8 +47,8 @@ This material is Open Game Content, and is licensed for public use under the ter
 | First aid | 15 |
 | Long-term care | 15 |
 | Treat wound from caltrop, _spike growth,_ or _spike stones_ | 15 |
-| Treat poison | Poison’s save DC |
-| Treat disease | Disease’s save DC |
+| Treat poison | Poison's save DC |
+| Treat disease | Disease's save DC |
 
 _First Aid:_ You usually use first aid to save a dying character. If a character has negative hit points
 and is losing hit points (at the rate of 1 per round, 1 per hour, or 1 per day), you can make him or her stable. A
@@ -69,7 +69,7 @@ moves at one-half normal speed. A successful Heal check removes this movement pe
 
 A creature wounded by a _spike growth_ or _spike stones_ spell must succeed on a Reflex save or take
 injuries that reduce his speed by one-third. Another character can remove this penalty by taking 10 minutes to
-dress the victim’s injuries and succeeding on a Heal check against the spell’s save DC.
+dress the victim's injuries and succeeding on a Heal check against the spell's save DC.
 
 _Treat Poison:_ To treat poison means to tend a single character who has been poisoned and who is going to
 take more damage from the poison (or suffer some other effect). Every time the poisoned character makes a saving
@@ -86,19 +86,19 @@ a disease or tending a creature wounded by a _spike growth_ or _spike stones_ sp
 work. Providing long-term care requires 8 hours of light activity.
 
 ### Try Again:
- Varies. Generally speaking, you can’t try a Heal check again without proof of the
-original check’s failure. You can always retry a check to provide first aid, assuming the target of the previous
+ Varies. Generally speaking, you can't try a Heal check again without proof of the
+original check's failure. You can always retry a check to provide first aid, assuming the target of the previous
 attempt is still alive.
 
 ### Special:
  A character with the Self-Sufficient feat gets a +2 bonus on Heal checks.
-A healer’s kit gives you a +2 circumstance bonus on Heal checks.
+A healer's kit gives you a +2 circumstance bonus on Heal checks.
 ## Hide (Dex; Armor Check Penalty)
 
 ### Check:
  Your Hide check is opposed by the Spot check of anyone who might see you. You can move up
 to one-half your normal speed and hide at no penalty. When moving at a speed greater than one-half but less than
-your normal speed, you take a -5 penalty. It’s practically impossible (-20 penalty) to hide while attacking,
+your normal speed, you take a -5 penalty. It's practically impossible (-20 penalty) to hide while attacking,
 running or charging.
 
 A creature larger or smaller than Medium takes a size bonus or penalty on Hide checks depending on its size
@@ -107,60 +107,60 @@ category: Fine +16, Diminutive +12, Tiny +8, Small +4, Large -4, Huge -8, Gargan
 You need cover or concealment in order to attempt a Hide check. Total cover or total concealment usually (but not
 always; see Special, below) obviates the need for a Hide check, since nothing can see you anyway.
 
-If people are observing you, even casually, you can’t hide. You can run around a corner or behind cover so that
-you’re out of sight and then hide, but the others then know at least where you went.
+If people are observing you, even casually, you can't hide. You can run around a corner or behind cover so that
+you're out of sight and then hide, but the others then know at least where you went.
 
 If your observers are momentarily distracted (such as by a Bluff check; see below), though, you can attempt to
 hide. While the others turn their attention from you, you can attempt a Hide check if you can get to a hiding
 place of some kind. (As a general guideline, the hiding place has to be within 1 foot per rank you have in Hide.)
 This check, however, is made at a -10 penalty because you have to move fast.
 
-_Sniping:_ If you’ve already successfully hidden at least 10 feet from your target, you can make one ranged
+_Sniping:_ If you've already successfully hidden at least 10 feet from your target, you can make one ranged
 attack, then immediately hide again. You take a -20 penalty on your Hide check to conceal yourself after the shot.
 
 _Creating a Diversion to Hide:_ You can use Bluff to help you hide. A successful Bluff check can give you
 the momentary diversion you need to attempt a Hide check while people are aware of you.
 
 ### Action:
- Usually none. Normally, you make a Hide check as part of movement, so it doesn’t take a
+ Usually none. Normally, you make a Hide check as part of movement, so it doesn't take a
 separate action. However, hiding immediately after a ranged attack (see Sniping, above) is a move action.
 
 ### Special:
  If you are invisible, you gain a +40 bonus on Hide checks if you are immobile, or a +20
-bonus on Hide checks if you’re moving.
+bonus on Hide checks if you're moving.
 
 If you have the Stealthy feat, you get a +2 bonus on Hide checks.
 
-A 13th-level ranger can attempt a Hide check in any sort of natural terrain, even if it doesn’t grant cover or
+A 13th-level ranger can attempt a Hide check in any sort of natural terrain, even if it doesn't grant cover or
 concealment. A 17thlevel ranger can do this even while being observed.
 
 ## Intimidate (Cha)
 
 ### Check:
- You can change another’s behavior with a successful check. Your Intimidate check is
-opposed by the target’s modified level check (1d20 + character level or Hit Dice + target’s Wisdom bonus [if any]
-+ target’s modifiers on saves against fear). If you beat your target’s check result, you may treat the target as
+ You can change another's behavior with a successful check. Your Intimidate check is
+opposed by the target's modified level check (1d20 + character level or Hit Dice + target's Wisdom bonus [if any]
++ target's modifiers on saves against fear). If you beat your target's check result, you may treat the target as
 friendly, but only for the purpose of actions taken while it remains intimidated. (That is, the target retains its
 normal attitude, but will chat, advise, offer limited help, or advocate on your behalf while intimidated. See the
 Diplomacy skill, above, for additional details.) The effect lasts as long as the target remains in your presence,
-and for 1d6x10 minutes afterward. After this time, the target’s default attitude toward you shifts to unfriendly
+and for 1d6x10 minutes afterward. After this time, the target's default attitude toward you shifts to unfriendly
 (or, if normally unfriendly, to hostile).
 
 If you fail the check by 5 or more, the target provides you with incorrect or useless information, or otherwise
 frustrates your efforts.
 
-_Demoralize Opponent:_ You can also use Intimidate to weaken an opponent’s resolve in combat. To do so,
-make an Intimidate check opposed by the target’s modified level check (see above). If you win, the target becomes
+_Demoralize Opponent:_ You can also use Intimidate to weaken an opponent's resolve in combat. To do so,
+make an Intimidate check opposed by the target's modified level check (see above). If you win, the target becomes
 shaken for 1 round. A shaken character takes a -2 penalty on attack rolls, ability checks, and saving throws. You
 can intimidate only an opponent that you threaten in melee combat and that can see you.
 
 ### Action:
- Varies. Changing another’s behavior requires 1 minute of interaction. Intimidating an
+ Varies. Changing another's behavior requires 1 minute of interaction. Intimidating an
 opponent in combat is a standard action.
 
 ### Try Again:
  Optional, but not recommended because retries usually do not work. Even if the initial
-check succeeds, the other character can be intimidated only so far, and a retry doesn’t help. If the initial check
+check succeeds, the other character can be intimidated only so far, and a retry doesn't help. If the initial check
 fails, the other character has probably become more firmly resolved to resist the intimidator, and a retry is
 futile.
 
@@ -169,7 +169,7 @@ futile.
 than your target. Conversely, you take a -4 penalty on your Intimidate check for every size category that you are
 smaller than your target.
 
-A character immune to fear can’t be intimidated, nor can nonintelligent creatures.
+A character immune to fear can't be intimidated, nor can nonintelligent creatures.
 If you have the Persuasive feat, you get a +2 bonus on Intimidate checks.
 ### Synergy:
  If you have 5 or more ranks in Bluff, you get a +2 bonus on Intimidate checks.
@@ -195,7 +195,7 @@ _Long Jump:_ A long jump is a horizontal jump, made across a gap like a chasm or
 the jump, you attain a vertical height equal to one-quarter of the horizontal distance. The DC for the jump is
 equal to the distance jumped (in feet).
 
-If your check succeeds, you land on your feet at the far end. If you fail the check by less than 5, you don’t
+If your check succeeds, you land on your feet at the far end. If you fail the check by less than 5, you don't
 clear the distance, but you can make a DC 15 Reflex save to grab the far edge of the gap. You end your movement
 grasping the far edge. If that leaves you dangling over a chasm or gap, getting up requires a move action and a DC
 15 Climb check.
@@ -235,7 +235,7 @@ Obviously, the difficulty of reaching a given height varies according to the siz
 The maximum vertical reach (height the creature can reach without jumping) for an average creature of a given size
 is shown on the table below. (As a Medium creature, a typical human can reach 8 feet without jumping.)
 
-Quadrupedal creatures don’t have the same vertical reach as a bipedal creature; treat them as being one size
+Quadrupedal creatures don't have the same vertical reach as a bipedal creature; treat them as being one size
 category smaller.
 
 | Creature Size | Vertical Reach |
@@ -298,18 +298,18 @@ Below are listed typical fields of study.
 questions), 15 (for basic questions), or 20 to 30 (for really tough questions).
 
 In many cases, you can use this skill to identify monsters and their special powers or vulnerabilities. In
-general, the DC of such a check equals 10 + the monster’s HD. A successful check allows you to remember a bit of
+general, the DC of such a check equals 10 + the monster's HD. A successful check allows you to remember a bit of
 useful information about that monster.
 
 For every 5 points by which your check result exceeds the DC, you recall another piece of useful information.
 
 ### Action:
- Usually none. In most cases, making a Knowledge check doesn’t take an action---you simply
-know the answer or you don’t.
+ Usually none. In most cases, making a Knowledge check doesn't take an action--you simply
+know the answer or you don't.
 
 ### Try Again:
  No. The check represents what you know, and thinking about a topic a second time
-doesn’t let you know something that you never learned in the first place.
+doesn't let you know something that you never learned in the first place.
 
 ### Synergy:
  If you have 5 or more ranks in Knowledge (arcana), you get a +2 bonus on Spellcraft
@@ -346,7 +346,7 @@ you know only common knowledge (DC 10 or lower).
 
 ### Check:
  Your Listen check is either made against a DC that reflects how quiet the noise is that
-you might hear, or it is opposed by your target’s Move Silently check.
+you might hear, or it is opposed by your target's Move Silently check.
 
 | Listen DC | Sound |
 | --- | --- |
@@ -358,7 +358,7 @@ you might hear, or it is opposed by your target’s Move Silently check.
 | 15 | People whispering<sup>1</sup> |
 | 19 | A cat stalking |
 | 30 | An owl gliding in for a kill |
-| 1 If you beat the DC by 10 or more, you can make out what’s being said, assuming that you understand the language. |
+| 1 If you beat the DC by 10 or more, you can make out what's being said, assuming that you understand the language. |
 
 | Listen DC Modifier | Condition |
 | --- | --- |
@@ -380,7 +380,7 @@ hear something you failed to hear previously is a move action.
 
 ### Special:
  When several characters are listening to the same thing, a single 1d20 roll can be used
-for all the individuals’ Listen checks.
+for all the individuals' Listen checks.
 
 A fascinated creature takes a -4 penalty on Listen checks made as reactions.
 If you have the Alertness feat, you get a +2 bonus on Listen checks.
@@ -393,7 +393,7 @@ A sleeping character may make Listen checks at a -10 penalty. A successful check
 ### Check:
  Your Move Silently check is opposed by the Listen check of anyone who might hear you. You
 can move up to one-half your normal speed at no penalty. When moving at a speed greater than one-half but less
-than your full speed, you take a -5 penalty. It’s practically impossible (-20 penalty) to move silently while
+than your full speed, you take a -5 penalty. It's practically impossible (-20 penalty) to move silently while
 running or charging.
 
 Noisy surfaces, such as bogs or undergrowth, are tough to move silently across. When you try to sneak across such
@@ -414,8 +414,8 @@ A halfling has a +2 racial bonus on Move Silently checks.
 If you have the Stealthy feat, you get a +2 bonus on Move Silently checks.
 ## Open Lock (Dex; Trained Only)
 
-Attempting an Open Lock check without a set of thieves’ tools imposes a -2 circumstance penalty on the check, even
-if a simple tool is employed. If you use masterwork thieves’ tools, you gain a +2 circumstance bonus on the check.
+Attempting an Open Lock check without a set of thieves' tools imposes a -2 circumstance penalty on the check, even
+if a simple tool is employed. If you use masterwork thieves' tools, you gain a +2 circumstance bonus on the check.
 
 ### Check:
  The DC for opening a lock varies from 20 to 40, depending on the quality of the lock, as
@@ -463,12 +463,12 @@ small list of which is provided for each category below.
 A masterwork musical instrument gives you a +2 circumstance bonus on Perform checks that involve its use.
 
 ### Action:
- Varies. Trying to earn money by playing in public requires anywhere from an evening’s
-work to a full day’s performance. The bard’s special Perform-based abilities are described in that class’s
+ Varies. Trying to earn money by playing in public requires anywhere from an evening's
+work to a full day's performance. The bard's special Perform-based abilities are described in that class's
 description.
 
 ### Try Again:
- Yes. Retries are allowed, but they don’t negate previous failures, and an audience
+ Yes. Retries are allowed, but they don't negate previous failures, and an audience
 that has been unimpressed in the past is likely to be prejudiced against future performances. (Increase the DC by
 2 for each previous failure.)
 
@@ -492,7 +492,7 @@ range of less specific knowledge.
 ### Check:
  You can practice your trade and make a decent living, earning about half your Profession
 check result in gold pieces per week of dedicated work. You know how to use the tools of your trade, how to
-perform the profession’s daily tasks, how to supervise helpers, and how to handle common problems.
+perform the profession's daily tasks, how to supervise helpers, and how to handle common problems.
 
 ### Action:
  Not applicable. A single check generally represents a week of work.
@@ -511,7 +511,7 @@ Profession) earn an average of 1 silver piece per day.
 If you attempt to ride a creature that is ill suited as a mount, you take a -5 penalty on your Ride checks.
 
 ### Check:
- Typical riding actions don’t require checks. You can saddle, mount, ride, and dismount
+ Typical riding actions don't require checks. You can saddle, mount, ride, and dismount
 from a mount without a problem.
 
 The following tasks do require checks.
@@ -535,21 +535,21 @@ unexpectedly or when you take damage. This usage does not take an action.
 _Fight with Warhorse:_ If you direct your war-trained mount to attack in battle, you can still make your
 own attack or attacks normally. This usage is a free action.
 
-_Cover:_ You can react instantly to drop down and hang alongside your mount, using it as cover. You can’t
-attack or cast spells while using your mount as cover. If you fail your Ride check, you don’t get the cover
+_Cover:_ You can react instantly to drop down and hang alongside your mount, using it as cover. You can't
+attack or cast spells while using your mount as cover. If you fail your Ride check, you don't get the cover
 benefit. This usage does not take an action.
 
-_Soft Fall:_ You can react instantly to try to take no damage when you fall off a mount---when it is killed
+_Soft Fall:_ You can react instantly to try to take no damage when you fall off a mount--when it is killed
 or when it falls, for example. If you fail your Ride check, you take 1d6 points of falling damage. This usage does
 not take an action.
 
 _Leap:_ You can get your mount to leap obstacles as part of its movement. Use your Ride modifier or the
-mount’s Jump modifier, whichever is lower, to see how far the creature can jump. If you fail your Ride check, you
+mount's Jump modifier, whichever is lower, to see how far the creature can jump. If you fail your Ride check, you
 fall off the mount when it leaps and take the appropriate falling damage (at least 1d6 points). This usage does
-not take an action, but is part of the mount’s movement.
+not take an action, but is part of the mount's movement.
 
 _Spur Mount:_ You can spur your mount to greater speed with a move action. A successful Ride check
-increases the mount’s speed by 10 feet for 1 round but deals 1 point of damage to the creature. You can use this
+increases the mount's speed by 10 feet for 1 round but deals 1 point of damage to the creature. You can use this
 ability every round, but each consecutive round of additional speed deals twice as much damage to the mount as the
 previous round (2 points, 4 points, 8 points, and so on).
 
@@ -559,7 +559,7 @@ in that round. You do not need to roll for warhorses or warponies.
 
 _Fast Mount or Dismount:_ You can attempt to mount or dismount from a mount of up to one size category
 larger than yourself as a free action, provided that you still have a move action available that round. If you
-fail the Ride check, mounting or dismounting is a move action. You can’t use fast mount or dismount on a mount
+fail the Ride check, mounting or dismounting is a move action. You can't use fast mount or dismount on a mount
 more than one size category larger than yourself.
 
 ### Action:
@@ -593,7 +593,7 @@ below gives DCs for typical tasks involving the Search skill.
 | Notice a well-hidden secret door | 30 |
 | Find a footprint | Varies<sup>2</sup> |
 | 1 Dwarves (even if they are not rogues) can use Search to find traps built into or out of stone. |
-| 2 A successful Search check can find a footprint or similar sign of a creature’s passage, but it won’t let you find or follow a trail. See the Track feat for the appropriate DC. |
+| 2 A successful Search check can find a footprint or similar sign of a creature's passage, but it won't let you find or follow a trail. See the Track feat for the appropriate DC. |
 
 ### Action:
  It takes a full-round action to search a 5-foot-by-5-foot area or a volume of goods 5
@@ -636,7 +636,7 @@ stonecunning ability.
 
 ### Check:
  A successful check lets you avoid being bluffed (see the Bluff skill). You can also use
-this skill to determine when "something is up" (that is, something odd is going on) or to assess someone’s
+this skill to determine when "something is up" (that is, something odd is going on) or to assess someone's
 trustworthiness.
 
 | Task | Sense Motive DC |
@@ -646,20 +646,20 @@ trustworthiness.
 | Discern secret message | Varies |
 
 _Hunch:_ This use of the skill involves making a gut assessment of the social situation. You can get the
-feeling from another’s behavior that something is wrong, such as when you’re talking to an impostor.
+feeling from another's behavior that something is wrong, such as when you're talking to an impostor.
 Alternatively, you can get the feeling that someone is trustworthy.
 
-_Sense Enchantment:_ You can tell that someone’s behavior is being influenced by an enchantment effect (by
-definition, a mind-affecting effect),even if that person isn’t aware of it. The usual DC is 25, but if the target
-is dominated (see _dominate person_), the DC is only 15 because of the limited range of the target’s
+_Sense Enchantment:_ You can tell that someone's behavior is being influenced by an enchantment effect (by
+definition, a mind-affecting effect),even if that person isn't aware of it. The usual DC is 25, but if the target
+is dominated (see _dominate person_), the DC is only 15 because of the limited range of the target's
 activities.
 
 _Discern Secret Message:_ You may use Sense Motive to detect that a hidden message is being transmitted via
 the Bluff skill. In this case, your Sense Motive check is opposed by the Bluff check of the character transmitting
 the message. For each piece of information relating to the message that you are missing, you take a -2 penalty on
 your Sense Motive check. If you succeed by 4 or less, you know that something hidden is being communicated, but
-you can’t learn anything specific about its content. If you beat the DC by 5 or more, you intercept and understand
-the message. If you fail by 4 or less, you don’t detect any hidden communication. If you fail by 5 or more, you
+you can't learn anything specific about its content. If you beat the DC by 5 or more, you intercept and understand
+the message. If you fail by 4 or less, you don't detect any hidden communication. If you fail by 5 or more, you
 infer some false information.
 
 ### Action:
@@ -685,18 +685,18 @@ If you have the Negotiator feat, you get a +2 bonus on Sense Motive checks.
 minor feat of legerdemain, such as making a coin disappear, also has a DC of 10 unless an observer is determined
 to note where the item went.
 
-When you use this skill under close observation, your skill check is opposed by the observer’s Spot check. The
-observer’s success doesn’t prevent you from performing the action, just from doing it unnoticed.
+When you use this skill under close observation, your skill check is opposed by the observer's Spot check. The
+observer's success doesn't prevent you from performing the action, just from doing it unnoticed.
 
 You can hide a small object (including a light weapon or an easily concealed ranged weapon, such as a dart, sling,
 or hand crossbow) on your body. Your Sleight of Hand check is opposed by the Spot check of anyone observing you or
 the Search check of anyone frisking you. In the latter case, the searcher gains a +4 bonus on the Search check,
-since it’s generally easier to find such an object than to hide it. A dagger is easier to hide than most light
+since it's generally easier to find such an object than to hide it. A dagger is easier to hide than most light
 weapons, and grants you a +2 bonus on your Sleight of Hand check to conceal it. An extraordinarily small object,
 such as a coin, shuriken, or ring, grants you a +4 bonus on your Sleight of Hand check to conceal it, and heavy or
 baggy clothing (such as a cloak) grants you a +2 bonus on the check.
 
-Drawing a hidden weapon is a standard action and doesn’t provoke an attack of opportunity.
+Drawing a hidden weapon is a standard action and doesn't provoke an attack of opportunity.
 
 If you try to take something from another creature, you must make a DC 20 Sleight of Hand check to obtain it. The
 opponent makes a Spot check to detect the attempt, opposed by the same Sleight of Hand check result you achieved
@@ -727,7 +727,7 @@ for the task by 10.
 
 ### Untrained:
  An untrained Sleight of Hand check is simply a Dexterity check. Without actual
-training, you can’t succeed on any Sleight of Hand check with a DC higher than 10, except for hiding an object on
+training, you can't succeed on any Sleight of Hand check with a DC higher than 10, except for hiding an object on
 your body.
 
 ## Speak Language (None; Trained Only)
@@ -760,10 +760,10 @@ your body.
  Not applicable.
 ### Try Again:
  Not applicable. There are no Speak Language checks to fail.
-The Speak Language skill doesn’t work like other skills. Languages work as follows.
+The Speak Language skill doesn't work like other skills. Languages work as follows.
 *   You start at 1st level knowing one or two languages (based on your race), plus an additional number of languages equal to your starting Intelligence bonus.
 *   You can purchase Speak Language just like any other skill, but instead of buying a rank in it, you choose a new language that you can speak.
-*   You don’t make Speak Language checks. You either know a language or you don’t.
+*   You don't make Speak Language checks. You either know a language or you don't.
 *   A literate character (anyone but a barbarian who has not spent skill points to become literate) can read and write any language she speaks. Each language has an alphabet, though sometimes several spoken languages share a single alphabet.
 
 ## Spellcraft (Int; Trained Only)
@@ -772,12 +772,12 @@ Use this skill to identify spells as they are cast or spells already in place.
 | Spellcraft DC | Task |
 | --- | --- |
 | 13 | When using _read magic,_ identify a _glyph of warding._ No action required. |
-| 15 + spell level | Identify a spell being cast. (You must see or hear the spell’s verbal or somatic components.) No action required. No retry. |
+| 15 + spell level | Identify a spell being cast. (You must see or hear the spell's verbal or somatic components.) No action required. No retry. |
 | 15 + spell level | Learn a spell from a spellbook or scroll (wizard only). No retry for that spell until you gain at least 1 rank in Spellcraft (even if you find another source to try to learn the spell from). Requires 8 hours. |
 | 15 + spell level | Prepare a spell from a borrowed spellbook (wizard only). One try per day. No extra time required. |
 | 15 + spell level | When casting _detect magic,_ determine the school of magic involved in the aura of a single item or creature you can see. (If the aura is not a spell effect, the DC is 15 + one-half caster level.) No action required. |
 | 19 | When using _read magic,_ identify a _symbol._ No action required. |
-| 20 + spell level | Identify a spell that’s already in place and in effect. You must be able to see or detect the effects of the spell. No action required. No retry. |
+| 20 + spell level | Identify a spell that's already in place and in effect. You must be able to see or detect the effects of the spell. No action required. No retry. |
 | 20 + spell level | Identify materials created or shaped by magic, such as noting that an iron wall is the result of a _wall of iron_ spell. No action required. No retry. |
 | 20 + spell level | Decipher a written spell (such as a scroll) without using _read magic._ One try per day. Requires a full-round action. |
 | 25 + spell level | After rolling a saving throw against a spell targeted on you, determine what that spell was. No action required. No retry. |
@@ -818,13 +818,13 @@ Spellcraft check as detailed in the spell description.
 ### Check:
  The Spot skill is used primarily to detect characters or creatures who are hiding.
 Typically, your Spot check is opposed by the Hide check of the creature trying not to be seen. Sometimes a
-creature isn’t intentionally hiding but is still difficult to see, so a successful Spot check is necessary to
+creature isn't intentionally hiding but is still difficult to see, so a successful Spot check is necessary to
 notice it.
 
 A Spot check result higher than 20 generally lets you become aware of an invisible creature near you, though you
-can’t actually see it.
+can't actually see it.
 
-Spot is also used to detect someone in disguise (see the Disguise skill), and to read lips when you can’t hear or
+Spot is also used to detect someone in disguise (see the Disguise skill), and to read lips when you can't hear or
 understand what someone is saying.
 
 Spot checks may be called for to determine the distance at which an encounter begins. A penalty applies on such
@@ -837,19 +837,19 @@ the character making the Spot check is distracted (not concentrating on being ob
 | Spotter distracted | -5 |
 
 _Read Lips:_ To understand what someone is saying by reading lips, you must be within 30 feet of the
-speaker, be able to see him or her speak, and understand the speaker’s language. (This use of the skill is
+speaker, be able to see him or her speak, and understand the speaker's language. (This use of the skill is
 language-dependent.) The base DC is 15, but it increases for complex speech or an inarticulate speaker. You must
 maintain a line of sight to the lips being read.
 
-If your Spot check succeeds, you can understand the general content of a minute’s worth of speaking, but you
-usually still miss certain details. If the check fails by 4 or less, you can’t read the speaker’s lips. If the
+If your Spot check succeeds, you can understand the general content of a minute's worth of speaking, but you
+usually still miss certain details. If the check fails by 4 or less, you can't read the speaker's lips. If the
 check fails by 5 or more, you draw some incorrect conclusion about the speech. The check is rolled secretly in
-this case, so that you don’t know whether you succeeded or missed by 5.
+this case, so that you don't know whether you succeeded or missed by 5.
 
 ### Action:
  Varies. Every time you have a chance to spot something in a reactive manner you can make
 a Spot check without using an action. Trying to spot something you failed to see previously is a move action. To
-read lips, you must concentrate for a full minute before making a Spot check, and you can’t perform any other
+read lips, you must concentrate for a full minute before making a Spot check, and you can't perform any other
 action (other than moving at up to half speed) during this minute.
 
 ### Try Again:
@@ -946,7 +946,7 @@ The DC for the Swim check depends on the water, as given on the table below.
 | Calm water | 10 |
 | Rough water | 15 |
 | Stormy water | 20<sup>1</sup> |
-| 1 You can’t take 10 on a Swim check in stormy water, even if you aren’t otherwise being threatened or distracted. |
+| 1 You can't take 10 on a Swim check in stormy water, even if you aren't otherwise being threatened or distracted. |
 
 Each hour that you swim, you must make a DC 20 Swim check or take 1d6 points of nonlethal damage from fatigue.
 
@@ -969,7 +969,7 @@ take 10 on a Swim check, even if distracted or endangered when swimming. Such a 
 while swimming, provided that it swims in a straight line.
 
 ## Tumble (Dex; Trained Only; Armor Check Penalty)
-You can’t use this skill if your speed has been reduced by armor, excess equipment, or loot.
+You can't use this skill if your speed has been reduced by armor, excess equipment, or loot.
 
 ### Check:
  You can land softly when you fall or tumble past opponents. You can also tumble to
@@ -979,7 +979,7 @@ are given on the table below.
 | Tumble DC | Task |
 | --- | --- |
 | 15 | Treat a fall as if it were 10 feet shorter than it really is when determining damage. |
-| 15 | Tumble at one-half speed as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you provoke attacks of opportunity normally. Check separately for each opponent you move past, in the order in which you pass them (player’s choice of order in case of a tie). Each additional enemy after the first adds +2 to the Tumble DC. |
+| 15 | Tumble at one-half speed as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you provoke attacks of opportunity normally. Check separately for each opponent you move past, in the order in which you pass them (player's choice of order in case of a tie). Each additional enemy after the first adds +2 to the Tumble DC. |
 | 25 | Tumble at one-half speed through an area occupied by an enemy (over, under, or around the opponent) as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you stop before entering the enemy-occupied area and provoke an attack of opportunity from that enemy. Check separately for each opponent. Each additional enemy after the first adds +2 to the Tumble DC. |
 
 Obstructed or otherwise treacherous surfaces, such as natural cavern floors or undergrowth, are tough to tumble
@@ -1047,12 +1047,12 @@ checks are summarized on the table below.
 | Emulate an alignment | 30 |
 
 _Activate Blindly:_ Some magic items are activated by special words, thoughts, or actions. You can activate
-such an item as if you were using the activation word, thought, or action, even when you’re not and even if you
-don’t know it. You do have to perform some equivalent activity in order to make the check. That is, you must
+such an item as if you were using the activation word, thought, or action, even when you're not and even if you
+don't know it. You do have to perform some equivalent activity in order to make the check. That is, you must
 speak, wave the item around, or otherwise attempt to get it to activate. You get a special +2 bonus on your Use
-Magic Device check if you’ve activated the item in question at least once before. If you fail by 9 or less, you
-can’t activate the device. If you fail by 10 or more, you suffer a mishap. A mishap means that magical energy gets
-released but it doesn’t do what you wanted it to do. The default mishaps are that the item affects the wrong
+Magic Device check if you've activated the item in question at least once before. If you fail by 9 or less, you
+can't activate the device. If you fail by 10 or more, you suffer a mishap. A mishap means that magical energy gets
+released but it doesn't do what you wanted it to do. The default mishaps are that the item affects the wrong
 target or that uncontrolled magical energy is released, dealing 2d6 points of damage to you. This mishap is in
 addition to the chance for a mishap that you normally run when you cast a spell from a scroll that you could not
 otherwise cast yourself.
@@ -1062,11 +1062,11 @@ skill, except that the DC is 5 points higher. Deciphering a written spell requir
 
 _Emulate an Ability Score:_ To cast a spell from a scroll, you need a high score in the appropriate ability
 (Intelligence for wizard spells, Wisdom for divine spells, or Charisma for sorcerer or bard spells). Your
-effective ability score (appropriate to the class you’re emulating when you try to cast the spell from the scroll)
+effective ability score (appropriate to the class you're emulating when you try to cast the spell from the scroll)
 is your Use Magic Device check result minus 15. If you already have a high enough score in the appropriate
-ability, you don’t need to make this check.
+ability, you don't need to make this check.
 
-_Emulate an Alignment:_ Some magic items have positive or negative effects based on the user’s alignment.
+_Emulate an Alignment:_ Some magic items have positive or negative effects based on the user's alignment.
 Use Magic Device lets you use these items as if you were of an alignment of your choice. You can emulate only one
 alignment at a time.
 
@@ -1081,15 +1081,15 @@ those races. You can use such an item as if you were a race of your choice. You 
 time.
 
 _Use a Scroll:_ If you are casting a spell from a scroll, you have to decipher it first. Normally, to cast
-a spell from a scroll, you must have the scroll’s spell on your class spell list. Use Magic Device allows you to
+a spell from a scroll, you must have the scroll's spell on your class spell list. Use Magic Device allows you to
 use a scroll as if you had a particular spell on your class spell list. The DC is equal to 20 + the caster level
 of the spell you are trying to cast from the scroll. In addition, casting a spell from a scroll requires a minimum
-score (10 + spell level) in the appropriate ability. If you don’t have a sufficient score in that ability, you
+score (10 + spell level) in the appropriate ability. If you don't have a sufficient score in that ability, you
 must emulate the ability score with a separate Use Magic Device check (see above).
 
 This use of the skill also applies to other spell completion magic items.
 
-_Use a Wand:_ Normally, to use a wand, you must have the wand’s spell on your class spell list. This use of
+_Use a Wand:_ Normally, to use a wand, you must have the wand's spell on your class spell list. This use of
 the skill allows you to use a wand as if you had a particular spell on your class spell list. This use of the
 skill also applies to other spell trigger magic items, such as staffs.
 
@@ -1099,11 +1099,11 @@ activate the magic item.
 
 ### Try Again:
  Yes, but if you ever roll a natural 1 while attempting to activate an item and you
-fail, then you can’t try to activate that item again for 24 hours.
+fail, then you can't try to activate that item again for 24 hours.
 
 ### Special:
  You cannot take 10 with this skill.
-You can’t aid another on Use Magic Device checks. Only the user of the item may attempt such a check.
+You can't aid another on Use Magic Device checks. Only the user of the item may attempt such a check.
 If you have the Magical Aptitude feat, you get a +2 bonus on Use Magic Device checks.
 
 ### Synergy:
@@ -1135,12 +1135,12 @@ _Secure a Grappling Hook:_ Securing a grappling hook requires a Use Rope check (
 of distance the grappling hook is thrown, to a maximum DC of 20 at 50 feet). Failure by 4 or less indicates that
 the hook fails to catch and falls, allowing you to try again. Failure by 5 or more indicates that the grappling
 hook initially holds, but comes loose after 1d4 rounds of supporting weight. This check is made secretly, so that
-you don’t know whether the rope will hold your weight.
+you don't know whether the rope will hold your weight.
 
 _Bind a Character:_ When you bind another character with a rope, any Escape Artist check that the bound
 character makes is opposed by your Use Rope check.
 
-You get a +10 bonus on this check because it is easier to bind someone than to escape from bonds. You don’t even
+You get a +10 bonus on this check because it is easier to bind someone than to escape from bonds. You don't even
 make your Use Rope check until someone tries to escape.
 
 ### Action:

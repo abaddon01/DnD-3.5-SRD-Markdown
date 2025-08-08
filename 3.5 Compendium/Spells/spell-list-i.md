@@ -1,21 +1,21 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Spells - Spell List I
-aliases: 3.5 Spell List I
+aliases:
+  - 3.5 Spell List I
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - spells
   - spell_list_i
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 # SPELL LIST I
 
-An <sup>M</sup>or <sup>F</sup>appearing at the end of a spell’s name in the spell lists denotes a spell with a
+An <sup>M</sup>or <sup>F</sup>appearing at the end of a spell's name in the spell lists denotes a spell with a
 material or focus component, respectively, that is not normally included in a spell component pouch. An
 <sup>X</sup>denotes a spell with an XP component paid by the caster.
 
@@ -23,7 +23,7 @@ material or focus component, respectively, that is not normally included in a sp
  In the spell lists and the spell descriptions that follow them, the spells
 are presented in alphabetical order by name except for those belonging to certain spell chains.
 
-When a spell’s name begins with "lesser," "greater," or "mass," the spell description is alphabetized under the
+When a spell's name begins with "lesser," "greater," or "mass," the spell description is alphabetized under the
 second word of the spell name instead.
 
 ### Hit Dice:
@@ -32,7 +32,7 @@ affect a number of Hit Dice of creatures. Creatures with Hit Dice only from thei
 character levels equal to their Hit Dice.
 
 ### Caster Level:
- A spell’s power often depends on caster level, which is defined as the caster’s
+ A spell's power often depends on caster level, which is defined as the caster's
 class level for the purpose of casting a particular spell. A creature with no classes has a caster level equal to
 its Hit Dice unless otherwise specified. The word "level" in the spell lists that follow always refers to caster
 level.
@@ -143,7 +143,7 @@ _sleep_.
 ### Resistance:
  Subject gains +1 on saving throws.
 ### Summon Instrument:
- Summons one instrument of the caster’s choice.
+ Summons one instrument of the caster's choice.
 ### 1st-Level Bard Spells
 ### Alarm:
  Wards an area for 2 hours/level.
@@ -184,7 +184,7 @@ _sleep_.
  Speaks once when triggered.
 
 ### Magic Aura:
- Alters object’s magic aura.
+ Alters object's magic aura.
 ### Obscure Object:
  Masks object against scrying.
 
@@ -217,7 +217,7 @@ levels.
  Attacks miss subject 20% of the time.
 ### Calm Emotions:
  Calms creatures, negating emotion effects.
-### Cat’s Grace:
+### Cat's Grace:
  Subject gains +4 to Dex for 1 min./level.
 ### Cure Moderate Wounds:
  Cures 2d8 damage +1/level (max +10).
@@ -229,11 +229,11 @@ levels.
  Stops poison from harming subject for 1 hour/ level.
 ### Detect Thoughts:
  Allows "listening" to surface thoughts.
-### Eagle’s Splendor:
+### Eagle's Splendor:
  Subject gains +4 to Cha for 1 min./level.
 ### Enthrall:
  Captivates all within 100 ft. + 10 ft./level.
-### Fox’s Cunning:
+### Fox's Cunning:
  Subject gains +4 to Int for 1 min./level.
 ### Glitterdust:
  Blinds creatures, outlines invisible creatures.
@@ -372,7 +372,7 @@ like).
 ### Locate Creature:
  Indicates direction to familiar creature.
 ### Modify Memory:
- Changes 5 minutes of subject’s memories.
+ Changes 5 minutes of subject's memories.
 ### Neutralize Poison:
  Immunizes subject against poison, detoxifies venom in or on subject.
 ### Rainbow Pattern:
@@ -435,23 +435,23 @@ temporary hp.
 
 ### Animate Objects:
  Objects attack your foes.
-### Cat’s Grace, Mass:
- As _cat’s grace_, affects one subject/level.
+### Cat's Grace, Mass:
+ As _cat's grace_, affects one subject/level.
 ### Charm Monster, Mass:
  As _charm monster,_ but all within 30 ft.
 ### Cure Moderate Wounds, Mass:
  Cures 2d8 damage +1/level for many creatures.
-### Eagle’s Splendor, Mass:
- As _eagle’s splendor_, affects one subject/level.
+### Eagle's Splendor, Mass:
+ As _eagle's splendor_, affects one subject/level.
 ### Eyebite:
  Target becomes panicked, sickened, and comatose.
 ### Find the Path:
  Shows most direct way to a location.
-### Fox’s Cunning, Mass:
- As _fox’s cunning_, affects one subject/level.
+### Fox's Cunning, Mass:
+ As _fox's cunning_, affects one subject/level.
 ### Geas/Quest:
  As _lesser geas,_ plus it affects any creature.
-### Heroes’ Feast:
+### Heroes' Feast:
  Food for one creature/level cures and grants combat bonuses.
 ### Irresistible Dance:
  Forces subject to dance.
@@ -535,7 +535,7 @@ temporary hp.
 ### Entropic Shield:
  Ranged attacks against you have 20% miss chance.
 ### Hide from Undead:
- Undead can’t perceive one subject/level.
+ Undead can't perceive one subject/level.
 ### Inflict Light Wounds:
  Touch deals 1d8 damage +1/level (max +5).
 ### Magic Stone:
@@ -554,7 +554,7 @@ elementals and outsiders.
 levels.
 
 ### Sanctuary:
- Opponents can’t attack you, and you can’t attack.
+ Opponents can't attack you, and you can't attack.
 ### Shield of Faith:
  Aura grants +2 or higher deflection bonus.
 ### Summon Monster I:
@@ -568,9 +568,9 @@ levels.
 ### Augury <sup>MF</sup>:
  Learns whether an action will be good or bad.
 
-### Bear’s Endurance:
+### Bear's Endurance:
  Subject gains +4 to Con for 1 min./level.
-### Bull’s Strength:
+### Bull's Strength:
  Subject gains +4 to Str for 1 min./level.
 ### Calm Emotions:
  Calms creatures, negating emotion effects.
@@ -590,7 +590,7 @@ levels.
 ### Desecrate <sup>M</sup>:
  Fills area with negative energy, making undead stronger.
 
-### Eagle’s Splendor:
+### Eagle's Splendor:
  Subject gains +4 to Cha for 1 min./level.
 ### Enthrall:
  Captivates all within 100 ft. + 10 ft./level.
@@ -604,7 +604,7 @@ levels.
  Touch attack, 2d8 damage +1/level (max +10).
 ### Make Whole:
  Repairs an object.
-### Owl’s Wisdom:
+### Owl's Wisdom:
  Subject gains +4 to Wis for 1 min./level.
 ### Remove Paralysis:
  Frees one or more creatures from paralysis or _slow_ effect.
@@ -616,7 +616,7 @@ levels.
  Sonic vibration damages objects or crystalline creatures.
 
 ### Shield Other <sup>F</sup>:
- You take half of subject’s damage.
+ You take half of subject's damage.
 
 ### Silence:
  Negates sound in 20-ft. radius.
@@ -831,20 +831,20 @@ min./level.
  10-ft. field hedges out living creatures.
 ### Banishment:
  Banishes 2 HD/level of extraplanar creatures.
-### Bear’s Endurance, Mass:
- As _bear’s endurance_, affects one subject/ level.
+### Bear's Endurance, Mass:
+ As _bear's endurance_, affects one subject/ level.
 ### Blade Barrier:
  Wall of blades deals 1d6/level damage.
-### Bull’s Strength, Mass:
- As _bull’s strength_, affects one subject/level.
+### Bull's Strength, Mass:
+ As _bull's strength_, affects one subject/level.
 ### Create Undead:
  Create ghouls, ghasts, mummies, or mohrgs.
 ### Cure Moderate Wounds, Mass:
  Cures 2d8 damage +1/level for many creatures.
 ### Dispel Magic, Greater:
  As _dispel magic,_ but up to +20 on check.
-### Eagle’s Splendor, Mass:
- As _eagle’s splendor_, affects one subject/level.
+### Eagle's Splendor, Mass:
+ As _eagle's splendor_, affects one subject/level.
 ### Find the Path:
  Shows most direct way to a location.
 
@@ -861,12 +861,12 @@ min./level.
  Deals 10 points/level damage to target.
 ### Heal:
  Cures 10 points/level of damage, all diseases and mental conditions.
-### Heroes’ Feast:
+### Heroes' Feast:
  Food for one creature/level cures and grants combat bonuses.
 ### Inflict Moderate Wounds, Mass:
  Deals 2d8 damage +1/level to many creatures.
-### Owl’s Wisdom, Mass:
- As _owl’s wisdom_, affects one subject/level.
+### Owl's Wisdom, Mass:
+ As _owl's wisdom_, affects one subject/level.
 
 ### Planar Ally <sup>X</sup>:
  As _lesser planar ally,_ but up to 12 HD.
@@ -911,9 +911,9 @@ min./level.
  Alters item to transport its possessor to you.
 
 ### Regenerate:
- Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
+ Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
 ### Repulsion:
- Creatures can’t approach you.
+ Creatures can't approach you.
 
 ### Restoration, Greater <sup>X</sup>:
  As _restoration,_ plus restores all levels and ability
@@ -1001,7 +1001,7 @@ scores.
  Kills one creature/round.
 
 ### Miracle <sup>X</sup>:
- Requests a deity’s intercession.
+ Requests a deity's intercession.
 
 ### Soul Bind <sup>F</sup>:
  Traps newly dead soul to prevent _resurrection_.
@@ -1012,7 +1012,7 @@ scores.
  Calls extraplanar creature to fight for you.
 
 ### True Resurrection <sup>M</sup>:
- As _resurrection_, plus remains aren’t needed.
+ As _resurrection_, plus remains aren't needed.
 
 ## Cleric Domains
 ### Air Domain
@@ -1046,11 +1046,11 @@ Add Knowledge (nature) to your list of cleric class skills.
 | --- | --- |
 | 2 | **Hold Animal:** Paralyzes one animal for 1 round/level. |
 | 3 | **Dominate Animal:** Subject animal obeys silent mental commands. |
-| 4 | **Summon Nature’s Ally IV*:** Calls creature to fight. |
+| 4 | **Summon Nature's Ally IV*:** Calls creature to fight. |
 | 5 | **Commune with Nature:** Learn about terrain for 1 mile/level. |
 | 6 | **Antilife Shell:** 10-ft. field hedges out living creatures. |
 | 7 | **Animal Shapes:** One ally/level polymorphs into chosen animal. |
-| 8 | **Summon Nature’s Ally VIII*:** Calls creature to fight. |
+| 8 | **Summon Nature's Ally VIII*:** Calls creature to fight. |
 | 9 | **Shapechange <sup>F</sup>:** Transforms you into any creature, and change forms once per round. |
 
 *Can only summon animals.
@@ -1077,7 +1077,7 @@ Add Knowledge (nature) to your list of cleric class skills.
  You may use a death touch once per day. Your death touch is a supernatural ability
 that produces a death effect. You must succeed on a melee touch attack against a living creature (using the rules
 for touch spells). When you touch, roll 1d6 per cleric level you possess. If the total at least equals the
-creature’s current hit points, it dies (no save).
+creature's current hit points, it dies (no save).
 
 #### Death Domain Spells
 
@@ -1164,7 +1164,7 @@ to 3 + your Charisma modifier. This granted power is a supernatural ability.
 | 2 | **Produce Flame:** 1d6 damage +1/ level, touch or thrown. |
 | 3 | **Resist Energy*:** Ignores 10 (or more) points of damage/attack from specified energy type. |
 | 4 | **Wall of Fire:** Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level. |
-| 5 | **Fire Shield:** Creatures attacking you take fire damage; you’re protected from heat or cold. |
+| 5 | **Fire Shield:** Creatures attacking you take fire damage; you're protected from heat or cold. |
 | 6 | **Fire Seeds:** Acorns and berries become grenades and bombs. |
 | 7 | **Fire Storm:** Deals 1d6/level fire damage. |
 | 8 | **Incendiary Cloud:** Cloud deals 4d6 fire damage/round. |
@@ -1201,7 +1201,7 @@ to 3 + your Charisma modifier. This granted power is a supernatural ability.
 | 4 | **Cure Critical Wounds:** Cures 4d8 damage +1/level (max +20). |
 | 5 | **Cure Light Wounds, Mass:** Cures 1d8 damage +1/level (max +25) for many creatures. |
 | 6 | **Heal:** Cures 10 points/level of damage, all diseases and mental conditions. |
-| 7 | **Regenerate:** Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). |
+| 7 | **Regenerate:** Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35). |
 | 8 | **Cure Critical Wounds, Mass:** Cures 4d8 damage +1/level (max +40) for many creatures. |
 | 9 | **Heal, Mass:** As _heal_, but with several subjects. |
 
@@ -1231,7 +1231,7 @@ You cast divination spells at +1 caster level.
 | --- | --- |
 | 2 | **Calm Emotions:** Calms creatures, negating emotion effects. |
 | 3 | **Magic Circle against Chaos:** As _protection_ spells, but 10-ft. radius and 10 min./level. |
-| 4 | **Order’s Wrath:** Damages and dazes chaotic creatures. |
+| 4 | **Order's Wrath:** Damages and dazes chaotic creatures. |
 | 5 | **Dispel Chaos:** +4 bonus against attacks by chaotic creatures. |
 | 6 | **Hold Monster:** As _hold person_, but any creature. |
 | 7 | **Dictum:** Kills, paralyzes, slows, or deafens nonlawful subjects. |
@@ -1244,7 +1244,7 @@ You cast divination spells at +1 caster level.
 ### Granted Power:
  You gain the power of good fortune, which is usable once per day. This
 extraordinary ability allows you to reroll one roll that you have just made before the DM declares whether the
-roll results in success or failure. You must take the result of the reroll, even if it’s worse than the original
+roll results in success or failure. You must take the result of the reroll, even if it's worse than the original
 roll.
 
 #### Luck Domain Spells
@@ -1258,7 +1258,7 @@ roll.
 | 6 | **Mislead:** Turns you invisible and creates illusory double. |
 | 7 | **Spell Turning:** Reflect 1d4+6 spell levels back at caster. |
 | 8 | **Moment of Prescience:** You gain insight bonus on single attack roll, check, or save. |
-| 9 | **Miracle <sup>X</sup>:** Requests a deity’s intercession. |
+| 9 | **Miracle <sup>X</sup>:** Requests a deity's intercession. |
 
 ### Magic Domain
 
@@ -1269,7 +1269,7 @@ other magic device, if you are also a wizard, actual wizard levels and these eff
 
 #### Magic Domain Spells
 
-| 1 | **Magic Aura:** Alters object’s magic aura. |
+| 1 | **Magic Aura:** Alters object's magic aura. |
 | --- | --- |
 | 2 | **Identify:** Determines properties of magic item. |
 | 3 | **Dispel Magic:** Cancels magical spells and effects. |
@@ -1278,7 +1278,7 @@ other magic device, if you are also a wizard, actual wizard levels and these eff
 | 6 | **Antimagic Field:** Negates magic within 10 ft. |
 | 7 | **Spell Turning:** Reflect 1d4+6 spell levels back at caster. |
 | 8 | **Protection from Spells <sup>MF</sup>:** Confers +8 resistance bonus. |
-| 9 | **Mage’s Disjunction:** Dispels magic, disenchants magic items. |
+| 9 | **Mage's Disjunction:** Dispels magic, disenchants magic items. |
 
 ### Plant Domain
 
@@ -1311,14 +1311,14 @@ once per day.
 
 #### Protection Domain Spells
 
-| 1 | **Sanctuary:** Opponents can’t attack you, and you can’t attack. |
+| 1 | **Sanctuary:** Opponents can't attack you, and you can't attack. |
 | --- | --- |
-| 2 | **Shield Other <sup>F</sup>:** You take half of subject’s damage. |
+| 2 | **Shield Other <sup>F</sup>:** You take half of subject's damage. |
 | 3 | **Protection from Energy:** Absorb 12 points/level of damage from one kind of energy. |
 | 4 | **Spell Immunity:** Subject is immune to one spell per four levels. |
 | 5 | **Spell Resistance:** Subject gains SR 12 + level. |
 | 6 | **Antimagic Field:** Negates magic within 10 ft. |
-| 7 | **Repulsion:** Creatures can’t approach you. |
+| 7 | **Repulsion:** Creatures can't approach you. |
 | 8 | **Mind Blank:** Subject is immune to mental/emotional magic and scrying. |
 | 9 | **Prismatic Sphere:** As _prismatic wall_, but surrounds on all sides. |
 
@@ -1333,7 +1333,7 @@ round, and it is usable once per day.
 
 | 1 | **Enlarge Person:** Humanoid creature doubles in size. |
 | --- | --- |
-| 2 | **Bull’s Strength:** Subject gains +4 to Str for 1 min./level. |
+| 2 | **Bull's Strength:** Subject gains +4 to Str for 1 min./level. |
 | 3 | **Magic Vestment:** Armor or shield gains +1 enhancement per four levels. |
 | 4 | **Spell Immunity:** Subject is immune to one spell per four levels. |
 | 5 | **Righteous Might:** Your size increases, and you gain combat bonuses. |
@@ -1355,7 +1355,7 @@ turned are destroyed instead.
 | --- | --- |
 | 2 | **Heat Metal:** Make metal so hot it damages those who touch it. |
 | 3 | **Searing Light:** Ray deals 1d8/two levels, more against undead. |
-| 4 | **Fire Shield:** Creatures attacking you take fire damage; you’re protected from heat or cold. |
+| 4 | **Fire Shield:** Creatures attacking you take fire damage; you're protected from heat or cold. |
 | 5 | **Flame Strike:** Smite foes with divine fire (1d6/level damage). |
 | 6 | **Fire Seeds:** Acorns and berries become grenades and bombs. |
 | 7 | **Sunbeam:** Beam blinds and deals 4d6 damage. |
@@ -1404,8 +1404,8 @@ Add Survival to your list of cleric class skills.
 ### War Domain
 
 ### Granted Power:
- Free Martial Weapon Proficiency with deity’s favored weapon (if necessary) and
-Weapon Focus with the deity’s favored weapon.
+ Free Martial Weapon Proficiency with deity's favored weapon (if necessary) and
+Weapon Focus with the deity's favored weapon.
 
 #### War Domain Spells
 

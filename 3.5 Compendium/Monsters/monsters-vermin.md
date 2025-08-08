@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Monsters/ Monsters (Vermin)
-aliases: 3.5 Monsters (Vermin)
-tags: 3.5e rules v3.5-srd monsters monsters-vermin
+title: 3.5 Compendium  - v3.5 SRD - Monsters - Monsters (Vermin)
+aliases:
+  - 3.5 Monsters (Vermin)
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - monsters
+  - monsters_vermin
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -13,16 +19,16 @@ These creatures operate on instinct, driven by simple needs such as food and rep
 vermin attack only when hungry or threatened.
 
 #### Vermin Traits:
- Vermin possess the following traits (unless otherwise noted in a creature’s
+ Vermin possess the following traits (unless otherwise noted in a creature's
 entry).
 
----Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms,
+--Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms,
 patterns, and morale effects).
 
----Darkvision out to 60 feet.
----_Alignment:_ Always neutral. Vermin are not governed by a human sense of morality.
+--Darkvision out to 60 feet.
+--_Alignment:_ Always neutral. Vermin are not governed by a human sense of morality.
 
----_Treasure:_ Vermin generally possess no treasure. For those that do, this treasure consists of possessions
+--_Treasure:_ Vermin generally possess no treasure. For those that do, this treasure consists of possessions
 formerly owned by a creature that the monster has killed.
 
 ## Table of Contents
@@ -53,15 +59,15 @@ formerly owned by a creature that the monster has killed.
 | Special Attacks: | Improved grab | Improved grab, acid sting | Improved grab |
 | Special Qualities: | Scent, vermin traits | Scent, vermin traits | Scent, vermin traits |
 | Saves: | Fort +3, Ref +0, Will +0 | Fort +4, Ref +0, Will +1 | Fort +5, Ref +0, Will +2 |
-| Abilities: | Str 10, Dex 10, Con 10, Int ---, Wis 11, Cha 9 | Str 14, Dex 10, Con 13, Int ---, Wis 13, Cha 11 | Str 16, Dex 9, Con 13, Int ---, Wis 13, Cha 11 |
-| Skills: | Climb +8 | Climb +10 | --- |
+| Abilities: | Str 10, Dex 10, Con 10, Int --, Wis 11, Cha 9 | Str 14, Dex 10, Con 13, Int --, Wis 13, Cha 11 | Str 16, Dex 9, Con 13, Int --, Wis 13, Cha 11 |
+| Skills: | Climb +8 | Climb +10 | -- |
 | Feats: | Track<sup>B</sup> | Track<sup>B</sup> | Track<sup>B</sup> |
 | Environment: | Temperate plains | Temperate plains | Temperate plains |
 | Organization: | Gang (2-6) or crew (6-11 plus 1 giant ant soldier) | Solitary or gang (2-4) | Hive (1 plus 10-100 workers and 5-20 soldiers) |
 | Challenge Rating: | 1 | 2 | 2 |
 | Treasure: | None | None | 1/10 coins; 50% goods; 50% items |
 | Advancement: | 3-4 HD (Medium); 5-6 HD (Large) | 3-4 HD (Medium); 5-6 HD (Large) | 5-6 HD (Large); 7-8 HD (Huge) |
-| Level Adjustment: | --- | --- | --- |
+| Level Adjustment: | -- | -- | -- |
 
 Giant ants are among the hardiest and most adaptable vermin. Soldiers and workers are about 6 feet long, while
 queens can grow to a length of 9 feet.
@@ -95,15 +101,15 @@ threatened.
 | Special Attacks: | Poison |
 | Special Qualities: | Darkvision 60 ft., vermin traits |
 | Saves: | Fort +3, Ref +3, Will +2 |
-| Abilities: | Str 11, Dex 14, Con 11, Int ---, Wis 12, Cha 9 |
+| Abilities: | Str 11, Dex 14, Con 11, Int --, Wis 12, Cha 9 |
 | Skills: | Spot +5, Survival +1* |
-| Feats: | --- |
+| Feats: | -- |
 | Environment: | Temperate plains |
 | Organization: | Solitary, buzz (2-5), or hive (11-20) |
 | Challenge Rating: | 1 |
 | Treasure: | No coins; 1/4 goods (honey only); no items |
 | Advancement: | 4-6 HD (Medium); 7-9 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Although many times larger, growing to a length of about 5 feet, giant bees behave generally the same as their
 smaller cousins. Giant bees are usually not aggressive except when defending themselves or their hive.
@@ -132,14 +138,14 @@ Survival checks to orient themselves.
 | Special Attacks: | Acid spray |
 | Special Qualities: | Darkvision 60 ft., vermin traits |
 | Saves: | Fort +5, Ref +0, Will +0 |
-| Abilities: | Str 13, Dex 10, Con 14, Int ---, Wis 10, Cha 9 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 13, Dex 10, Con 14, Int --, Wis 10, Cha 9 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Warm forests |
 | Organization: | Cluster (2-5) or click (6-11) |
 | Challenge Rating: | 2 |
 | Advancement: | 3-4 HD (Medium); 5-6 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These creatures feed primarily on carrion and offal, gathering heaps of the stuff in which to build nests and lay
 eggs. A giant bombardier beetle is about 6 feet long. Giant bombardier beetles normally attack only to defend
@@ -162,20 +168,20 @@ damage. The save DC is Constitution-based.
 | Attack: | Bite +1 melee (2d4) |
 | Full Attack: | Bite +1 melee (2d4) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Darkvision 60 ft., vermin traits |
 | Saves: | Fort +2, Ref +0, Will +0 |
-| Abilities: | Str 10, Dex 11, Con 11, Int ---, Wis 10, Cha 7 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 10, Dex 11, Con 11, Int --, Wis 10, Cha 7 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Warm plains |
 | Organization: | Cluster (2-5) or colony (6-11) |
 | Challenge Rating: | 1/3 |
 | Advancement: | 2-3 HD (Small) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These luminous nocturnal insects are prized by miners and adventurers. They have two glands, one above each eye,
-that produce a red glow. The glands’ luminosity persists for 1d6 days after removal from the beetle, illuminating
+that produce a red glow. The glands' luminosity persists for 1d6 days after removal from the beetle, illuminating
 a roughly circular area with a 10-foot radius. Giant fire beetles are about 2 feet long.
 
 ## Giant Stag Beetle
@@ -193,15 +199,15 @@ a roughly circular area with a 10-foot radius. Giant fire beetles are about 2 fe
 | Special Attacks: | Trample 2d8+3 |
 | Special Qualities: | Darkvision 60 ft., vermin traits |
 | Saves: | Fort +8, Ref +2, Will +2 |
-| Abilities: | Str 23, Dex 10, Con 17, Int ---, Wis 10, Cha 9 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 23, Dex 10, Con 17, Int --, Wis 10, Cha 9 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Temperate forests |
 | Organization: | Cluster (2-5) or mass (6-11) |
 | Challenge Rating: | 4 |
 | Alignment: | Always neutral |
 | Advancement: | 8-10 HD (Large); 11-21 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These creatures are serious pests that greedily devour cultivated crops. A single beetle can strip an entire farm
 in short order. An adult giant stag beetle is about 10 feet long.
@@ -223,14 +229,14 @@ in short order. An adult giant stag beetle is about 10 feet long.
 | Special Attacks: | Improved grab |
 | Special Qualities: | Darkvision 60 ft., vermin traits |
 | Saves: | Fort +6, Ref +0, Will +3 |
-| Abilities: | Str 19, Dex 8, Con 15, Int ---, Wis 14, Cha 11 |
+| Abilities: | Str 19, Dex 8, Con 15, Int --, Wis 14, Cha 11 |
 | Skills: | Hide -1*, Spot +6 |
-| Feats: | --- |
+| Feats: | -- |
 | Environment: | Temperate forests |
 | Organization: | Solitary |
 | Challenge Rating: | 3 |
 | Advancement: | 5-8 HD (Large); 9-12 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 This patient carnivore remains completely still as it waits for prey to come near.
 
@@ -258,14 +264,14 @@ camouflage, the Hide bonus increases to +12 when a mantis is surrounded by folia
 | Special Attacks: | Poison |
 | Special Qualities: | Darkvision 60 ft., vermin traits |
 | Saves: | Fort +6, Ref +2, Will +2 |
-| Abilities: | Str 18, Dex 12, Con 14, Int ---, Wis 13, Cha 11 |
+| Abilities: | Str 18, Dex 12, Con 14, Int --, Wis 13, Cha 11 |
 | Skills: | Spot +9, Survival +1* |
-| Feats: | --- |
+| Feats: | -- |
 | Environment: | Temperate forests |
 | Organization: | Solitary, swarm (2-5), or nest (11-20) |
 | Challenge Rating: | 3 |
 | Advancement: | 6-8 HD (Large); 9-15 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Giant wasps attack when hungry or threatened, stinging their prey to death. They take dead or incapacitated
 opponents back to their lairs as food for their unhatched young.
@@ -294,14 +300,14 @@ Survival checks to orient themselves.
 | Special Attacks: | Poison | Poison | Poison |
 | Special Qualities: | Darkvision 60 ft., vermin traits | Darkvision 60 ft., vermin traits | Darkvision 60 ft., vermin traits |
 | Saves: | Fort +2, Ref +2, Will +0 | Fort +2, Ref +2, Will +0 | Fort +2, Ref +2, Will +0 |
-| Abilities: | Str 1, Dex 15, Con 10, Int ---, Wis 10, Cha 2 | Str 5, Dex 15, Con 10, Int ---, Wis 10, Cha 2 | Str 9, Dex 15, Con 10, Int ---, Wis 10, Cha 2 |
+| Abilities: | Str 1, Dex 15, Con 10, Int --, Wis 10, Cha 2 | Str 5, Dex 15, Con 10, Int --, Wis 10, Cha 2 | Str 9, Dex 15, Con 10, Int --, Wis 10, Cha 2 |
 | Skills: | Climb +10, Hide +18, Spot +4 | Climb +10, Hide +14, Spot +4 | Climb +10, Hide +10, Spot +4 |
 | Feats: | Weapon Finesse<sup>B</sup> | Weapon Finesse<sup>B</sup> | Weapon Finesse<sup>B</sup> |
 | Environment: | Underground | Underground | Underground |
 | Organization: | Colony (8-16) | Colony (2-5) or swarm (6-11) | Solitary or colony (2-5) |
 | Challenge Rating: | 1/8 | 1/4 | 1/2 |
-| Advancement: | --- | --- | --- |
-| Level Adjustment: | --- | --- | --- |
+| Advancement: | -- | -- | -- |
+| Level Adjustment: | -- | -- | -- |
 
 |  | Monstrous Centipede, Large | Monstrous Centipede, Huge |
 | --- | --- | --- |
@@ -317,14 +323,14 @@ Survival checks to orient themselves.
 | Special Attacks: | Poison | Poison |
 | Special Qualities: | Darkvision 60 ft., vermin traits | Darkvision 60 ft., vermin traits |
 | Saves: | Fort +3, Ref +3, Will +1 | Fort +6, Ref +4, Will +2 |
-| Abilities: | Str 13, Dex 15, Con 10, Int ---, Wis 10, Cha 2 | Str 17, Dex 15, Con 12, Int ---, Wis 10, Cha 2 |
+| Abilities: | Str 13, Dex 15, Con 10, Int --, Wis 10, Cha 2 | Str 17, Dex 15, Con 12, Int --, Wis 10, Cha 2 |
 | Skills: | Climb +10, Hide +6, Spot +4 | Climb +11, Hide +2, Spot +4 |
-| Feats: | Weapon Finesse<sup>B</sup> | --- |
+| Feats: | Weapon Finesse<sup>B</sup> | -- |
 | Environment: | Underground | Underground |
 | Organization: | Solitary or colony (2-5) | Solitary or colony (2-5) |
 | Challenge Rating: | 1 | 2 |
 | Advancement: | 4-5 HD (Large) | 7-11 HD (Huge) |
-| Level Adjustment: | --- | --- |
+| Level Adjustment: | -- | -- |
 
 |  | Monstrous Centipede, Gargantuan | Monstrous Centipede, Colossal |
 | --- | --- | --- |
@@ -340,14 +346,14 @@ Survival checks to orient themselves.
 | Special Attacks: | Poison | Poison |
 | Special Qualities: | Darkvision 60 ft., vermin traits | Darkvision 60 ft., vermin traits |
 | Saves: | Fort +9, Ref +6, Will +4 | Fort +15, Ref +9, Will +8 |
-| Abilities: | Str 23, Dex 15, Con 12, Int ---, Wis 10, Cha 2 | Str 27, Dex 13, Con 12, Int ---, Wis 10, Cha 2 |
+| Abilities: | Str 23, Dex 15, Con 12, Int --, Wis 10, Cha 2 | Str 27, Dex 13, Con 12, Int --, Wis 10, Cha 2 |
 | Skills: | Climb +14, Hide -2, Spot +4 | Climb +16, Hide -7, Spot +4 |
-| Feats: | --- | --- |
+| Feats: | -- | -- |
 | Environment: | Underground | Underground |
 | Organization: | Solitary | Solitary |
 | Challenge Rating: | 6 | 9 |
 | Advancement: | 17-23 HD (Gargantuan) | 25-48 HD (Colossal) |
-| Level Adjustment: | --- | --- |
+| Level Adjustment: | -- | -- |
 
 Monstrous centipedes tend to attack anything that resembles food, biting with their jaws and injecting their
 poison.
@@ -360,7 +366,7 @@ poison.
 | Large | 11 | 1d4 Dex |  |  |  |
 
 #### Poison (Ex):
- A monstrous centipede has a poisonous bite. The details vary by the centipede’s
+ A monstrous centipede has a poisonous bite. The details vary by the centipede's
 size, as shown on the table above. The save DCs are Constitution-based. The indicated damage is both initial and
 secondary damage.
 
@@ -385,15 +391,15 @@ higher. Monstrous scorpions can take 10 on Climb checks, even if threatened or d
 | Special Attacks: | Constrict 1d2-4, improved grab, poison | Constrict 1d3-1, improved grab, poison | Constrict 1d4+1, improved grab, poison |
 | Special Qualities: | Darkvision 60 ft., tremorsense 60 ft., vermin traits | Darkvision 60 ft., tremorsense 60 ft., vermin traits | Darkvision 60 ft., tremorsense 60 ft., vermin traits |
 | Saves: | Fort +4, Ref +0, Will +0 | Fort +4, Ref +0, Will +0 | Fort +5, Ref +0, Will +0 |
-| Abilities: | Str 3, Dex 10, Con 14, Int ---, Wis 10, Cha 2 | Str 9, Dex 10, Con 14, Int ---, Wis 10, Cha 2 | Str 13, Dex 10, Con 14, Int ---, Wis 10, Cha 2 |
+| Abilities: | Str 3, Dex 10, Con 14, Int --, Wis 10, Cha 2 | Str 9, Dex 10, Con 14, Int --, Wis 10, Cha 2 | Str 13, Dex 10, Con 14, Int --, Wis 10, Cha 2 |
 | Skills: | Climb +0, Hide +12, Spot +4 | Climb +3, Hide +8, Spot +4 | Climb +5, Hide +4, Spot +4 |
-| Feats: | Weapon Finesse<sup>B</sup> | Weapon Finesse<sup>B</sup> | --- |
+| Feats: | Weapon Finesse<sup>B</sup> | Weapon Finesse<sup>B</sup> | -- |
 | Environment: | Warm deserts | Warm deserts | Warm deserts |
 | Organization: | Colony (8-16) | Colony (2-5) or swarm (6-11) | Solitary or colony (2-5) |
 | Challenge Rating: | 1/4 | 1/2 | 1 |
 | Alignment: | Always neutral | Always neutral | Always neutral |
-| Advancement: | --- | --- | 3-4 HD (Medium) |
-| Level Adjustment: | --- | --- | --- |
+| Advancement: | -- | -- | 3-4 HD (Medium) |
+| Level Adjustment: | -- | -- | -- |
 
 |  | Monstrous Scorpion, Large | Monstrous Scorpion, Huge |
 | --- | --- | --- |
@@ -409,15 +415,15 @@ higher. Monstrous scorpions can take 10 on Climb checks, even if threatened or d
 | Special Attacks: | Constrict 1d6+4, improved grab, poison | Constrict 1d8+6, improved grab, poison |
 | Special Qualities: | Darkvision 60 ft., tremorsense 60 ft., vermin traits | Darkvision 60 ft., tremorsense 60 ft., vermin traits |
 | Saves: | Fort +6, Ref +1, Will +1 | Fort +10, Ref +3, Will +3 |
-| Abilities: | Str 19, Dex 10, Con 14, Int ---, Wis 10, Cha 2 | Str 23, Dex 10, Con 16, Int ---, Wis 10, Cha 2 |
+| Abilities: | Str 19, Dex 10, Con 14, Int --, Wis 10, Cha 2 | Str 23, Dex 10, Con 16, Int --, Wis 10, Cha 2 |
 | Skills: | Climb +8, Hide +0, Spot +4 | Climb +10, Hide -4, Spot +4 |
-| Feats: | --- | --- |
+| Feats: | -- | -- |
 | Environment: | Warm deserts | Warm deserts |
 | Organization: | Solitary or colony (2-5) | Solitary or colony (2-5) |
 | Challenge Rating: | 3 | 7 |
 | Treasure: | 1/10 coins; 50% goods; 50% items | 1/10 coins; 50% goods; 50% items |
 | Advancement: | 6-9 HD (Large) | 11-19 HD (Huge) |
-| Level Adjustment: | --- | --- |
+| Level Adjustment: | -- | -- |
 
 |  | Monstrous Scorpion, Gargantuan | Monstrous Scorpion, Colossal |
 | --- | --- | --- |
@@ -433,15 +439,15 @@ higher. Monstrous scorpions can take 10 on Climb checks, even if threatened or d
 | Special Attacks: | Constrict 2d6+10, improved grab, poison | Constrict 2d8+12, improved grab, poison |
 | Special Qualities: | Darkvision 60 ft., tremorsense 60 ft., vermin traits | Darkvision 60 ft., tremorsense 60 ft., vermin traits |
 | Saves: | Fort +15, Ref +6, Will +6 | Fort +25, Ref +12, Will +13 |
-| Abilities: | Str 31, Dex 10, Con 16, Int ---, Wis 10, Cha 2 | Str 35, Dex 8, Con 16, Int ---, Wis 10, Cha 2 |
+| Abilities: | Str 31, Dex 10, Con 16, Int --, Wis 10, Cha 2 | Str 35, Dex 8, Con 16, Int --, Wis 10, Cha 2 |
 | Skills: | Climb +14, Hide -8, Spot +4 | Climb +16, Hide -12, Spot +4 |
-| Feats: | --- | --- |
+| Feats: | -- | -- |
 | Environment: | Warm deserts | Warm deserts |
 | Organization: | Solitary | Solitary |
 | Challenge Rating: | 10 | 12 |
 | Treasure: | 1/10 coins; 50% goods; 50% items | 1/10 coins; 50% goods; 50% items |
 | Advancement: | 21-39 HD (Gargantuan) | 41-60 HD (Colossal) |
-| Level Adjustment: | --- | --- |
+| Level Adjustment: | -- | -- |
 
 Monstrous scorpions are likely to attack any creature that approaches, and they usually charge when attacking
 prey.
@@ -455,7 +461,7 @@ monstrous scorpion can use either its Strength modifier or Dexterity modifier fo
 better.
 
 #### Poison (Ex):
- A monstrous scorpion has a poisonous sting. The details vary by the scorpion’s size,
+ A monstrous scorpion has a poisonous sting. The details vary by the scorpion's size,
 as follows. The save DCs are Constitution- based. The indicated damage is initial and secondary damage.
 
 | Size | Fort DC | Damage | Size | Fort DC | Damage |
@@ -483,15 +489,15 @@ as follows. The save DCs are Constitution- based. The indicated damage is initia
 | Special Attacks: | Poison, web | Poison, web | Poison, web |
 | Special Qualities: | Darkvision 60 ft., tremorsense 60 ft., vermin traits | Darkvision 60 ft., tremorsense 60 ft., vermin traits | Darkvision 60 ft., tremorsense 60 ft., vermin traits |
 | Saves: | Fort +2, Ref +3, Will +0 | Fort +2, Ref +3, Will +0 | Fort +4, Ref +3, Will +0 |
-| Abilities: | Str 3, Dex 17, Con 10, Int ---, Wis 10, Cha 2 | Str 7, Dex 17, Con 10, Int ---, Wis 10, Cha 2 | Str 11, Dex 17, Con 12, Int ---, Wis 10, Cha 2 |
+| Abilities: | Str 3, Dex 17, Con 10, Int --, Wis 10, Cha 2 | Str 7, Dex 17, Con 10, Int --, Wis 10, Cha 2 | Str 11, Dex 17, Con 12, Int --, Wis 10, Cha 2 |
 | Skills: | Climb +11, Hide +15*, Jump -4*, Spot +4* | Climb +11, Hide +11*, Jump -2*, Spot +4* | Climb +11, Hide +7*, Jump +0*, Spot +4* |
 | Feats: | Weapon Finesse<sup>B</sup> | Weapon Finesse<sup>B</sup> | Weapon Finesse<sup>B</sup> |
 | Environment: | Temperate forests | Temperate forests | Temperate forests |
 | Organization: | Colony (8-16) | Colony (2-5) or swarm (6-11) | Solitary or colony (2-5) |
 | Challenge Rating: | 1/4 | 1/2 | 1 |
 | Treasure: | None | None | 1/10 coins; 50% goods; 50% items |
-| Advancement: | --- | --- | 3 HD (Medium) |
-| Level Adjustment: | --- | --- | --- |
+| Advancement: | -- | -- | 3 HD (Medium) |
+| Level Adjustment: | -- | -- | -- |
 
 |  | Monstrous Spider, Large | Monstrous Spider, Huge |
 | --- | --- | --- |
@@ -507,15 +513,15 @@ as follows. The save DCs are Constitution- based. The indicated damage is initia
 | Special Attacks: | Poison, web | Poison, web |
 | Special Qualities: | Darkvision 60 ft., tremorsense 60 ft., vermin traits | Darkvision 60 ft., tremorsense 60 ft., vermin traits |
 | Saves: | Fort +5, Ref +4, Will +1 | Fort +8, Ref +5, Will +2 |
-| Abilities: | Str 15, Dex 17, Con 12, Int ---, Wis 10, Cha 2 | Str 19, Dex 17, Con 14, Int ---, Wis 10, Cha 2 |
+| Abilities: | Str 15, Dex 17, Con 12, Int --, Wis 10, Cha 2 | Str 19, Dex 17, Con 14, Int --, Wis 10, Cha 2 |
 | Skills: | Climb +11, Hide +3*, Jump +2*, Spot +4* | Climb +12, Hide -1*, Jump +4*, Spot +4* |
-| Feats: | --- | --- |
+| Feats: | -- | -- |
 | Environment: | Temperate forests | Temperate forests |
 | Organization: | Solitary or colony (2-5) | Solitary or colony (2-5) |
 | Challenge Rating: | 2 | 5 |
 | Treasure: | 1/10 coins; 50% goods; 50% items | 1/10 coins; 50% goods; 50% items |
 | Advancement: | 5-7 HD (Large) | 9-15 HD (Huge) |
-| Level Adjustment: | --- | --- |
+| Level Adjustment: | -- | -- |
 
 |  | Monstrous Spider, Gargantuan | Monstrous Spider, Colossal |
 | --- | --- | --- |
@@ -531,15 +537,15 @@ as follows. The save DCs are Constitution- based. The indicated damage is initia
 | Special Attacks: | Poison, web | Poison, web |
 | Special Qualities: | Darkvision 60 ft., tremorsense 60 ft., vermin traits | Darkvision 60 ft., tremorsense 60 ft., vermin traits |
 | Saves: | Fort +12, Ref +8, Will +5 | Fort +20, Ref +12, Will +10 |
-| Abilities: | Str 25, Dex 17, Con 14, Int ---, Wis 10, Cha 2 | Str 31, Dex 15, Con 14, Int ---, Wis 10, Cha 2 |
+| Abilities: | Str 25, Dex 17, Con 14, Int --, Wis 10, Cha 2 | Str 31, Dex 15, Con 14, Int --, Wis 10, Cha 2 |
 | Skills: | Climb +14, Hide -5*, Jump +7*, Spot +4* | Climb +16, Hide -10*, Jump +10*, Spot +7* |
-| Feats: | --- | --- |
+| Feats: | -- | -- |
 | Environment: | Temperate forests | Temperate forests |
 | Organization: | Solitary | Solitary |
 | Challenge Rating: | 8 | 11 |
 | Treasure: | 1/10 coins; 50% goods; 50% items | 1/10 coins; 50% goods; 50% items |
 | Advancement: | 17-31 HD (Gargantuan) | 33-60 HD (Colossal) |
-| Level Adjustment: | --- | --- |
+| Level Adjustment: | -- | -- |
 
 All monstrous spiders are aggressive predators that use their poisonous bites to subdue or kill prey.
 
@@ -549,7 +555,7 @@ the way web-spinners can. A hunting spider has a base land speed 10 feet faster 
 statistics blocks.
 
 #### Poison (Ex):
- A monstrous spider has a poisonous bite. The details vary by the spider’s size, as
+ A monstrous spider has a poisonous bite. The details vary by the spider's size, as
 shown on the table below. The save DCs are Constitution-based. The indicated damage is initial and secondary
 damage.
 
@@ -574,7 +580,7 @@ They usually position these sheets to snare flying creatures but can also try to
 Approaching creatures must succeed on a DC 20 Spot check to notice a web; otherwise they stumble into it and
 become trapped as though by a successful web attack. Attempts to escape or burst the webbing gain a +5 bonus if
 the trapped creature has something to walk on or grab while pulling free. Each 5-foot section has the hit points
-given on the table, and sheet webs have damage reduction 5/---.
+given on the table, and sheet webs have damage reduction 5/--.
 
 A monstrous spider can move across its own web at its climb speed and can pinpoint the location of any creature
 touching its web.
@@ -591,7 +597,7 @@ touching its web.
 
 #### Tremorsense (Ex):
  A monstrous spider can detect and pinpoint any creature or object within 60
-feet in contact with the ground, or within any range in contact with the spider’s webs.
+feet in contact with the ground, or within any range in contact with the spider's webs.
 
 #### Skills:
  Monstrous spiders have a +4 racial bonus on Hide and Spot checks and a +8 racial bonus on

@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Spells - Spells C
-aliases: 3.5 Spells C
+aliases:
+  - 3.5 Spells C
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - spells
   - spells_c
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -19,8 +19,8 @@ This material is Open Game Content, and is licensed for public use under the ter
 *   [[#Call Lightning Storm]]
 *   [[#Calm Animals]]
 *   [[#Calm Emotions]]
-*   [[#Cat’s Grace]]
-*   [[#Cat’s Grace, Mass]]
+*   [[#Cat's Grace]]
+*   [[#Cat's Grace, Mass]]
 *   [[#Cause Fear]]
 *   [[#Chain Lightning]]
 *   [[#Changestaff]]
@@ -97,15 +97,15 @@ Evocation [Electricity]
 
 Immediately upon completion of the spell, and once per round thereafter, you may call down a 5-foot-wide,
 30-foot-long, vertical bolt of lightning that deals 3d6 points of electricity damage. The bolt of lightning
-flashes down in a vertical stroke at whatever target point you choose within the spell’s range (measured from your
+flashes down in a vertical stroke at whatever target point you choose within the spell's range (measured from your
 position at the time). Any creature in the target square or in the path of the bolt is affected.
 
 You need not call a bolt of lightning immediately; other actions, even spellcasting, can be performed. However,
 each round after the first you may use a standard action (concentrating on the spell) to call a bolt. You may call
 a total number of bolts equal to your caster level (maximum 10 bolts).
 
-If you are outdoors and in a stormy area---a rain shower, clouds and wind, hot and cloudy conditions, or even a
-tornado (including a whirlwind formed by a djinni or an air elemental of at least Large size)---each bolt deals 3d10
+If you are outdoors and in a stormy area--a rain shower, clouds and wind, hot and cloudy conditions, or even a
+tornado (including a whirlwind formed by a djinni or an air elemental of at least Large size)--each bolt deals 3d10
 points of electricity damage instead of 3d6.
 
 This spell functions indoors or underground but not underwater.
@@ -172,13 +172,13 @@ actions (although they can defend themselves) or do anything destructive. Any ag
 dealt to a calmed creature immediately breaks the spell on all calmed creatures.
 
 This spell automatically suppresses (but does not dispel) any morale bonuses granted by spells such as
-_bless, good hope,_ and _rage,_ as well as negating a bard’s ability to inspire courage or a barbarian’s
+_bless, good hope,_ and _rage,_ as well as negating a bard's ability to inspire courage or a barbarian's
 rage ability. It also suppresses any fear effects and removes the _confused_ condition from all targets.
 While the spell lasts, a suppressed spell or effect has no effect. When the _calm emotions_ spell ends, the
 original spell or effect takes hold of the creature again, provided that its duration has not expired in the
 meantime.
 
-## Cat’s Grace
+## Cat's Grace
 Transmutation
 ### Level:
  Brd 2, Drd 2, Rgr 2, Sor/Wiz 2
@@ -201,7 +201,7 @@ The transmuted creature becomes more graceful, agile, and coordinated. The spell
 Dexterity, adding the usual benefits to AC, Reflex saves, and other uses of the Dexterity modifier.
 
 _Material Component:_ A pinch of cat fur.
-## Cat’s Grace, Mass
+## Cat's Grace, Mass
 Transmutation
 ### Level:
  Brd 6, Drd 6, Sor/Wiz 6
@@ -210,7 +210,7 @@ Transmutation
 ### Targets:
  One creature/level, no two of which can be more than 30 ft. apart
 
-This spell functions like _cat’s grace_, except that it affects multiple creatures.
+This spell functions like _cat's grace_, except that it affects multiple creatures.
 ## Cause Fear
 Necromancy [Fear, Mind-Affecting]
 ### Level:
@@ -386,16 +386,16 @@ Enchantment (Charm) [Mind-Affecting]
 ### Spell Resistance:
  Yes
 
-This charm makes a humanoid creature regard you as its trusted friend and ally (treat the target’s attitude as
+This charm makes a humanoid creature regard you as its trusted friend and ally (treat the target's attitude as
 friendly). If the creature is currently being threatened or attacked by you or your allies, however, it receives a
 +5 bonus on its saving throw.
 
 The spell does not enable you to control the _charmed_ person as if it were an automaton, but it perceives
 your words and actions in the most favorable way. You can try to give the subject orders, but you must win an
-opposed Charisma check to convince it to do anything it wouldn’t ordinarily do. (Retries are not allowed.) An
+opposed Charisma check to convince it to do anything it wouldn't ordinarily do. (Retries are not allowed.) An
 affected creature never obeys suicidal or obviously harmful orders, but it might be convinced that something very
 dangerous is worth doing. Any act by you or your apparent allies that threatens the _charmed_ person breaks
-the spell. You must speak the person’s language to communicate your commands, or else be good at pantomiming.
+the spell. You must speak the person's language to communicate your commands, or else be good at pantomiming.
 
 ## Chill Metal
 Transmutation [Cold]
@@ -420,16 +420,16 @@ apart; or 25 lb. of metal/level, none of which can be more than 30 ft. away from
  Yes (object)
 
 _Chill metal_ makes metal extremely cold. Unattended, nonmagical metal gets no saving throw. Magical metal is
-allowed a saving throw against the spell. An item in a creature’s possession uses the creature’s saving throw
+allowed a saving throw against the spell. An item in a creature's possession uses the creature's saving throw
 bonus unless its own is higher.
 
 A creature takes cold damage if its equipment is chilled. It takes full damage if its armor is affected or if it
 is holding, touching, wearing, or carrying metal weighing one-fifth of its weight. The creature takes minimum
-damage (1 point or 2 points; see the table) if it’s not wearing metal armor and the metal that it’s carrying
+damage (1 point or 2 points; see the table) if it's not wearing metal armor and the metal that it's carrying
 weighs less than one-fifth of its weight.
 
 On the first round of the spell, the metal becomes chilly and uncomfortable to touch but deals no damage. The same
-effect also occurs on the last round of the spell’s duration. During the second (and also the next-to-last) round,
+effect also occurs on the last round of the spell's duration. During the second (and also the next-to-last) round,
 icy coldness causes pain and damage. In the third, fourth, and fifth rounds, the metal is freezing cold, causing
 more damage, as shown on the table below.
 
@@ -495,7 +495,7 @@ Necromancy [Death]
 A _circle of death_ snuffs out the life force of living creatures, killing them instantly.
 
 The spell slays 1d4 HD worth of living creatures per caster level (maximum 20d4). Creatures with the fewest HD are
-affected first; among creatures with equal HD, those who are closest to the burst’s point of origin are affected
+affected first; among creatures with equal HD, those who are closest to the burst's point of origin are affected
 first. No creature of 9 or more HD can be affected, and Hit Dice that are not sufficient to affect a creature are
 wasted.
 
@@ -520,12 +520,12 @@ Divination (Scrying)
  No
 
 _Clairaudience/clairvoyance_ creates an invisible magical sensor at a specific location that enables you to
-hear or see (your choice) almost as if you were there. You don’t need line of sight or line of effect, but the
-locale must be known---a place familiar to you or an obvious one. Once you have selected the locale, the sensor
-doesn’t move, but you can rotate it in all directions to view the area as desired. Unlike other scrying spells,
+hear or see (your choice) almost as if you were there. You don't need line of sight or line of effect, but the
+locale must be known--a place familiar to you or an obvious one. Once you have selected the locale, the sensor
+doesn't move, but you can rotate it in all directions to view the area as desired. Unlike other scrying spells,
 this spell does not allow magically or supernaturally enhanced senses to work through it. If the chosen locale is
 magically dark, you see nothing. If it is naturally pitch black, you can see in a 10- foot radius around the
-center of the spell’s effect. _Clairaudience/clairvoyance_ functions only on the plane of existence you are
+center of the spell's effect. _Clairaudience/clairvoyance_ functions only on the plane of existence you are
 currently occupying.
 
 _Arcane Focus:_ A small horn (for hearing) or a glass eye (for seeing).
@@ -542,9 +542,9 @@ this hand is directed by you, its ability to notice or attack invisible or conce
 yours.
 
 The hand attacks once per round, and its attack bonus equals your caster level + your Intelligence, Wisdom, or
-Charisma modifier (for a wizard, cleric, or sorcerer, respectively), +11 for the hand’s Strength score (33), -1
+Charisma modifier (for a wizard, cleric, or sorcerer, respectively), +11 for the hand's Strength score (33), -1
 for being Large. The hand deals 1d8+11 points of damage on each attack, and any creature struck must make a
-Fortitude save (against this spell’s save DC) or be stunned for 1 round. Directing the spell to a new target is a
+Fortitude save (against this spell's save DC) or be stunned for 1 round. Directing the spell to a new target is a
 move action.
 
 The _clenched fist_ can also interpose itself as _interposing hand_ does, or it can bull rush an
@@ -612,16 +612,16 @@ Necromancy
 
 This spell makes an inert duplicate of a creature. If the original individual has been slain, its soul immediately
 transfers to the clone, creating a replacement (provided that the soul is free and willing to return). The
-original’s physical remains, should they still exist, become inert and cannot thereafter be restored to life. If
+original's physical remains, should they still exist, become inert and cannot thereafter be restored to life. If
 the original creature has reached the end of its natural life span (that is, it has died of natural causes), any
 cloning attempt fails.
 
 To create the duplicate, you must have a piece of flesh (not hair, nails, scales, or the like) with a volume of at
-least 1 cubic inch that was taken from the original creature’s living body. The piece of flesh need not be fresh,
+least 1 cubic inch that was taken from the original creature's living body. The piece of flesh need not be fresh,
 but it must be kept from rotting. Once the spell is cast, the duplicate must be grown in a laboratory for 2d4
 months.
 
-When the clone is completed, the original’s soul enters it immediately, if that creature is already dead. The
+When the clone is completed, the original's soul enters it immediately, if that creature is already dead. The
 clone is physically identical with the original and possesses the same personality and memories as the original.
 In other respects, treat the clone as if it were the original character raised from the dead, including the loss
 of one level or 2 points of Constitution (if the original was a 1st-level character). If this Constitution
@@ -629,7 +629,7 @@ adjustment would give the clone a Constitution score of 0, the spell fails. If t
 levels since the flesh sample was taken and died at a lower level than the clone would otherwise be, the clone is
 one level below the level at which the original died.
 
-The spell duplicates only the original’s body and mind, not its equipment.
+The spell duplicates only the original's body and mind, not its equipment.
 
 A duplicate can be grown while the original still lives, or when the original soul is unavailable, but the
 resulting body is merely a soulless bit of inert flesh, which rots if not preserved.
@@ -661,13 +661,13 @@ with 4 to 6 HD is slain unless it succeeds on a Fortitude save (in which case it
 damage on your turn each round while in the cloud).
 
 A living creature with 6 or more HD takes 1d4 points of Constitution damage on your turn each round while in the
-cloud (a successful Fortitude save halves this damage). Holding one’s breath doesn’t help, but creatures immune to
+cloud (a successful Fortitude save halves this damage). Holding one's breath doesn't help, but creatures immune to
 poison are unaffected by the spell.
 
 Unlike a _fog cloud_, the _cloudkill_ moves away from you at 10 feet per round, rolling along the
 surface of the ground.
 
-Figure out the cloud’s new spread each round based on its new point of origin, which is 10 feet farther away from
+Figure out the cloud's new spread each round based on its new point of origin, which is 10 feet farther away from
 the point of origin where you cast the spell.
 
 Because the vapors are heavier than air, they sink to the lowest level of the land, even pouring down den or
@@ -730,7 +730,7 @@ _Approach:_ On its turn, the subject moves toward you as quickly and directly as
 creature may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as
 normal.
 
-_Drop:_ On its turn, the subject drops whatever it is holding. It can’t pick up any dropped item until its
+_Drop:_ On its turn, the subject drops whatever it is holding. It can't pick up any dropped item until its
 next turn.
 
 _Fall:_ On its turn, the subject falls to the ground and remains prone for 1 round. It may act normally
@@ -742,7 +742,7 @@ but move during its turn, and it provokes attacks of opportunity for this moveme
 _Halt:_ The subject stands in place for 1 round. It may not take any actions but is not considered
 helpless.
 
-If the subject can’t carry out your command on its next turn, the spell automatically fails.
+If the subject can't carry out your command on its next turn, the spell automatically fails.
 ## Command, Greater
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
 ### Level:
@@ -753,7 +753,7 @@ Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
  1 round/level
 
 This spell functions like _command,_ except that up to one creature per level may be affected, and the
-activities continue beyond 1 round. At the start of each commanded creature’s action after the first, it gets
+activities continue beyond 1 round. At the start of each commanded creature's action after the first, it gets
 another Will save to attempt to break free from the spell. Each creature must receive the same command.
 
 ## Command Plants
@@ -778,7 +778,7 @@ Transmutation
 This spell allows you some degree of control over one or more plant creatures. Affected plant creatures can
 understand you, and they perceive your words and actions in the most favorable way (treat their attitude as
 friendly). They will not attack you while the spell lasts. You can try to give a subject orders, but you must win
-an opposed Charisma check to convince it to do anything it wouldn’t ordinarily do. (Retries are not allowed.) A
+an opposed Charisma check to convince it to do anything it wouldn't ordinarily do. (Retries are not allowed.) A
 commanded plant never obeys suicidal or obviously harmful orders, but it might be convinced that something very
 dangerous is worth doing.
 
@@ -805,13 +805,13 @@ Necromancy
 This spell allows you some degree of control over an undead creature. Assuming the subject is intelligent, it
 perceives your words and actions in the most favorable way (treat its attitude as friendly). It will not attack
 you while the spell lasts. You can try to give the subject orders, but you must win an opposed Charisma check to
-convince it to do anything it wouldn’t ordinarily do. (Retries are not allowed.) An intelligent commanded undead
+convince it to do anything it wouldn't ordinarily do. (Retries are not allowed.) An intelligent commanded undead
 never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth
 doing.
 
 A nonintelligent undead creature gets no saving throw against this spell. When you control a mindless being, you
 can communicate only basic commands, such as "come here," "go there," "fight," "stand still," and so on.
-Nonintelligent undead won’t resist suicidal or obviously harmful orders.
+Nonintelligent undead won't resist suicidal or obviously harmful orders.
 
 Any act by you or your apparent allies that threatens the commanded undead (regardless of its Intelligence) breaks
 the spell.
@@ -833,11 +833,11 @@ Divination
 ### Duration:
  1 round/level
 
-You contact your deity---or agents thereof ---and ask questions that can be answered by a simple yes or no. (A cleric
+You contact your deity--or agents thereof --and ask questions that can be answered by a simple yes or no. (A cleric
 of no particular deity contacts a philosophically allied deity.) You are allowed one such question per caster
-level. The answers given are correct within the limits of the entity’s knowledge. "Unclear" is a legitimate
+level. The answers given are correct within the limits of the entity's knowledge. "Unclear" is a legitimate
 answer, because powerful beings of the Outer Planes are not necessarily omniscient. In cases where a one-word
-answer would be misleading or contrary to the deity’s interests, a short phrase (five words or less) may be given
+answer would be misleading or contrary to the deity's interests, a short phrase (five words or less) may be given
 as an answer instead.
 
 The spell, at best, provides information to aid character decisions. The entities contacted structure their
@@ -867,7 +867,7 @@ people, general animal population, presence of woodland creatures, presence of p
 even the general state of the natural setting.
 
 In outdoor settings, the spell operates in a radius of 1 mile per caster level. In natural underground
-settings---caves, caverns, and the like---the radius is limited to 100 feet per caster level. The spell does not
+settings--caves, caverns, and the like--the radius is limited to 100 feet per caster level. The spell does not
 function where nature has been replaced by construction or settlement, such as in dungeons and towns.
 
 ## Comprehend Languages
@@ -942,7 +942,7 @@ Enchantment (Compulsion) [Mind-Affecting]
 This spell causes the targets to become _confused,_ making them unable to independently determine what they
 will do.
 
-Roll on the following table at the beginning of each subject’s turn each round to see what the subject does in
+Roll on the following table at the beginning of each subject's turn each round to see what the subject does in
 that round.
 
 | d% | Behavior |
@@ -951,9 +951,9 @@ that round.
 | 11-20 | Act normally. |
 | 21-50 | Do nothing but babble incoherently. |
 | 51-70 | Flee away from caster at top possible speed. |
-| 71-100 | Attack nearest creature (for this purpose, a familiar counts as part of the subject’s self). |
+| 71-100 | Attack nearest creature (for this purpose, a familiar counts as part of the subject's self). |
 
-A _confused_ character who can’t carry out the indicated action does nothing but babble incoherently.
+A _confused_ character who can't carry out the indicated action does nothing but babble incoherently.
 Attackers are not at any special advantage when attacking a _confused_ character. Any
 _confused_ character who is attacked automatically attacks its attackers on its next turn, as long as it is
 still _confused_ when its turn comes. Note that a _confused_ character will not make attacks of
@@ -1051,7 +1051,7 @@ obtained from the table are subject to the personalities of individual deities.)
 
 On rare occasions, this divination may be blocked by an act of certain deities or forces.
 
-| Plane Contacted | Avoid Int/Cha Decrease | True Answer | Don’t Know | Lie | Random Answer |
+| Plane Contacted | Avoid Int/Cha Decrease | True Answer | Don't Know | Lie | Random Answer |
 | --- | --- | --- | --- | --- | --- |
 | Elemental Plane | DC 7/1 week | 01-34 | 35-62 | 63-83 | 84-100 |
 |     (appropriate) | (DC 7/1 week) | (01-68) | (69-75) | (76-98) | (99-100) |
@@ -1074,9 +1074,9 @@ that pertain to the appropriate Elemental Plane.)
 _True Answer:_ You get a true, one-word answer. Questions that cannot be answered in this way are answered
 randomly.
 
-_Don’t Know:_ The entity tells you that it doesn’t know.
+_Don't Know:_ The entity tells you that it doesn't know.
 _Lie:_ The entity intentionally lies to you.
-_Random Answer:_ The entity tries to lie but doesn’t know the answer, so it makes one up.
+_Random Answer:_ The entity tries to lie but doesn't know the answer, so it makes one up.
 ## Contagion
 Necromancy [Evil]
 ### Level:
@@ -1097,7 +1097,7 @@ Necromancy [Evil]
  Yes
 
 The subject contracts a disease selected from the table below, which strikes immediately (no incubation period).
-The DC noted is for the subsequent saves (use _contagion_’s normal save DC for the initial saving throw).
+The DC noted is for the subsequent saves (use _contagion_'s normal save DC for the initial saving throw).
 
 | Disease | DC | Damage |
 | --- | --- | --- |
@@ -1108,7 +1108,7 @@ The DC noted is for the subsequent saves (use _contagion_’s normal save DC for
 | Red ache | 15 | 1d6 Str |
 | Shakes | 13 | 1d8 Dex |
 | Slimy doom | 14 | 1d4 Con |
-| 1 Each time a victim takes 2 or more points of Strength damage from blinding sickness, he or she must make another Fortitude save (using the disease’s save DC) or be permanently blinded. |
+| 1 Each time a victim takes 2 or more points of Strength damage from blinding sickness, he or she must make another Fortitude save (using the disease's save DC) or be permanently blinded. |
 
 ## Contingency
 Evocation
@@ -1171,7 +1171,7 @@ Evocation [Light]
  No
 
 A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a
-regular flame, but it creates no heat and doesn’t use oxygen. A _continual flame_ can be covered and hidden
+regular flame, but it creates no heat and doesn't use oxygen. A _continual flame_ can be covered and hidden
 but not smothered or quenched.
 
 Light spells counter and dispel darkness spells of an equal or lower level.
@@ -1295,7 +1295,7 @@ the effects to manifest.You can call forth weather appropriate to the climate an
 | Late winter | Hurricane-force winds or early spring (coastal area) |
 
 You control the general tendencies of the weather, such as the direction and intensity of the wind. You cannot
-control specific applications of the weather---where lightning strikes, for example, or the exact path of a tornado.
+control specific applications of the weather--where lightning strikes, for example, or the exact path of a tornado.
 When you select a certain weather condition to occur, the weather assumes that condition 10 minutes later
 (changing gradually, not abruptly). The weather continues as you left it for the duration, or until you use a
 standard action to designate a new kind of weather (which fully manifests itself 10 minutes later). Contradictory
@@ -1330,7 +1330,7 @@ or until you choose to alter your handiwork, which requires concentration. You m
 to 80 feet in diameter at the center of the area if you so desire, and you may choose to limit the area to any
 cylindrical area less than your full limit.
 
-_Wind Direction:_ You may choose one of four basic wind patterns to function over the spell’s area.
+_Wind Direction:_ You may choose one of four basic wind patterns to function over the spell's area.
 *   A downdraft blows from the center outward in equal strength in all directions.
 *   An updraft blows from the outer edges in toward the center in equal strength from all directions, veering upward before impinging on the eye in the center.
 *   A rotation causes the winds to circle the center in clockwise or counterclockwise fashion.
@@ -1369,10 +1369,10 @@ Conjuration (Creation)
 ### Spell Resistance:
  No
 
-The food that this spell creates is simple fare of your choice---highly nourishing, if rather bland. Food so created
+The food that this spell creates is simple fare of your choice--highly nourishing, if rather bland. Food so created
 decays and becomes inedible within 24 hours, although it can be kept fresh for another 24 hours by casting a
 _purify food and water_ spell on it. The water created by this spell is just like clean rain water, and it
-doesn’t go bad as the food does.
+doesn't go bad as the food does.
 
 ## Create Greater Undead
 Necromancy [Evil]
@@ -1451,10 +1451,10 @@ Conjuration (Creation) [Water]
  No
 
 This spell generates wholesome, drinkable water, just like clean rain water. Water can be created in an area as
-small as will actually contain the liquid, or in an area three times as large---possibly creating a downpour or
+small as will actually contain the liquid, or in an area three times as large--possibly creating a downpour or
 filling many small receptacles.
 
-_Note:_ Conjuration spells can’t create substances or objects within a creature. Water weighs about 8
+_Note:_ Conjuration spells can't create substances or objects within a creature. Water weighs about 8
 pounds per gallon. One cubic foot of water contains roughly 8 gallons and weighs about 60 pounds.
 
 ## Creeping Doom
@@ -1522,7 +1522,7 @@ opponent that you select.
 
 The _crushing hand_ can grapple an opponent like _grasping hand_ does. Its grapple bonus equals your
 caster level + your Intelligence, Wisdom, or Charisma modifier (for a wizard, cleric, or sorcerer, respectively),
-+12 for the hand’s Strength score (35), +4 for being Large. The hand deals 2d6+12 points of damage (lethal, not
++12 for the hand's Strength score (35), +4 for being Large. The hand deals 2d6+12 points of damage (lethal, not
 nonlethal) on each successful grapple check against an opponent.
 
 The _crushing hand_ can also interpose itself as _interposing hand_ does, or it can bull rush an

@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Special Abilities and Conditions
-aliases: 3.5 Special Abilities and Conditions
+aliases:
+  - 3.5 Special Abilities and Conditions
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - special_abilities_and_conditions
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -74,7 +74,7 @@ _antimagic field_).
 ### Supernatural Abilities (Su):
  Supernatural abilities are magical but not spell-like. Supernatural
 abilities are not subject to spell resistance and do not function in areas where magic is suppressed or negated
-(such as an _antimagic field_). A supernatural ability’s effect cannot be dispelled and is not subject to
+(such as an _antimagic field_). A supernatural ability's effect cannot be dispelled and is not subject to
 counterspells. See the table below for a summary of the types of special abilities.
 
 **Table: Special Ability Types**
@@ -105,16 +105,16 @@ While any loss is debilitating, losing all points in an ability score can be dev
 *   Wisdom 0 means that the character is withdrawn into a deep sleep filled with nightmares, helpless.
 *   Charisma 0 means that the character is withdrawn into a catatonic, coma-like stupor, helpless.
 
-Keeping track of negative ability score points is never necessary. A character’s ability score can’t drop below 0.
+Keeping track of negative ability score points is never necessary. A character's ability score can't drop below 0.
 
 Having a score of 0 in an ability is different from having no ability score whatsoever.
 
 Some spells or abilities impose an effective ability score reduction, which is different from ability score loss.
-Any such reduction disappears at the end of the spell’s or ability’s duration, and the ability score immediately
+Any such reduction disappears at the end of the spell's or ability's duration, and the ability score immediately
 returns to its former value.
 
-If a character’s Constitution score drops, then he loses 1 hit point per Hit Die for every point by which his
-Constitution modifier drops. A hit point score can’t be reduced by Constitution damage or drain to less than 1 hit
+If a character's Constitution score drops, then he loses 1 hit point per Hit Die for every point by which his
+Constitution modifier drops. A hit point score can't be reduced by Constitution damage or drain to less than 1 hit
 point per Hit Die.
 
 The ability that some creatures have to drain ability scores is a supernatural one, requiring some sort of attack.
@@ -128,19 +128,19 @@ and characteristics.
 
 *   No supernatural ability, spell-like ability, or spell works in an area of antimagic (but extraordinary abilities still work).
 *   Antimagic does not dispel magic; it suppresses it. Once a magical effect is no longer affected by the antimagic (the antimagic fades, the center of the effect moves away, and so on), the magic returns. Spells that still have part of their duration left begin functioning again, magic items are once again useful, and so forth.
-*   Spell areas that include both an antimagic area and a normal area, but are not centered in the antimagic area, still function in the normal area. If the spell’s center is in the antimagic area, then the spell is suppressed.
+*   Spell areas that include both an antimagic area and a normal area, but are not centered in the antimagic area, still function in the normal area. If the spell's center is in the antimagic area, then the spell is suppressed.
 *   Golems and other constructs, elementals, outsiders, and corporeal undead, still function in an antimagic area (though the antimagic area suppresses their spellcasting and their supernatural and spell-like abilities normally). If such creatures are summoned or conjured, however, see below.
 *   Summoned or conjured creatures of any type, as well as incorporeal undead, wink out if they enter the area of an antimagic effect. They reappear in the same spot once the field goes away.
 *   Magic items with continuous effectsdo not function in the area of an antimagic effect, but their effects are not canceled (so the contents of a _bag of holding_ are unavailable, but neither spill out nor disappear forever).
 *   Two antimagic areas in the same place do not cancel each other out, nor do they stack.
-*   _Wall of force, prismatic wall,_ and _prismatic sphere_ are not affected by antimagic. _Break enchantment, dispel magic,_ and _greater dispel magic_ spells do not dispel antimagic. _Mage’s disjunction_ has a 1% chance per caster level of destroying an _antimagic field._ If the _antimagic field_ survives the _disjunction,_ no items within it are disjoined.
+*   _Wall of force, prismatic wall,_ and _prismatic sphere_ are not affected by antimagic. _Break enchantment, dispel magic,_ and _greater dispel magic_ spells do not dispel antimagic. _Mage's disjunction_ has a 1% chance per caster level of destroying an _antimagic field._ If the _antimagic field_ survives the _disjunction,_ no items within it are disjoined.
 
 ### Blindsight and Blindsense
 
 Some creatures have blindsight, the extraordinary ability to use a nonvisual sense (or a combination of such
 senses) to operate effectively without vision. Such sense may include sensitivity to vibrations, acute scent, keen
 hearing, or echolocation. This ability makes invisibility and concealment (even magical darkness) irrelevant to
-the creature (though it still can’t see ethereal creatures). This ability operates out to a range specified in the
+the creature (though it still can't see ethereal creatures). This ability operates out to a range specified in the
 creature description.
 
 *   Blindsight never allows a creature to distinguish color or visual contrast. A creature cannot read with blindsight.
@@ -169,7 +169,7 @@ to save their breath weapon until they really need it.
 
 *   Using a breath weapon is typically a standard action.
 *   No attack roll is necessary. The breath simply fills its stated area.
-*   Any character caught in the area must make the appropriate saving throw or suffer the breath weapon’s full effect. In many cases, a character who succeeds on his saving throw still takes half damage or some other reduced effect.
+*   Any character caught in the area must make the appropriate saving throw or suffer the breath weapon's full effect. In many cases, a character who succeeds on his saving throw still takes half damage or some other reduced effect.
 *   Breath weapons are supernatural abilities except where noted.
 *   Creatures are immune to their own breath weapons.
 *   Creatures unable to breathe can still use breath weapons. (The term is something of a misnomer.)
@@ -177,7 +177,7 @@ to save their breath weapon until they really need it.
 ### Charm and Compulsion
 
 Many abilities and spells can cloud the minds of characters and monsters, leaving them unable to tell friend from
-foe---or worse yet, deceiving them into thinking that their former friends are now their worst enemies. Two general
+foe--or worse yet, deceiving them into thinking that their former friends are now their worst enemies. Two general
 types of enchantments affect characters and creatures: charms and compulsions.
 
 Charming another creature gives the charming character the ability to befriend and suggest courses of actions to
@@ -185,20 +185,20 @@ his minion, but the servitude is not absolute or mindless. Charms of this type i
 _charm_ spells. Essentially, a _charmed_ character retains free will but makes choices according to a
 skewed view of the world.
 
-*   A _charmed_ creature doesn’t gain any magical ability to understand his new friend’s language.
+*   A _charmed_ creature doesn't gain any magical ability to understand his new friend's language.
 *   A _charmed_ character retains his original alignment and allegiances, generally with the exception that he now regards the _charming_ creature as a dear friend and will give great weight to his suggestions and directions.
 *   A _charmed_ character fights his former allies only if they threaten his new friend, and even then he uses the least lethal means at his disposal as long as these tactics show any possibility of success (just as he would in a fight between two actual friends).
-*   A _charmed_ character is entitled to an opposed Charisma check against his master in order to resist instructions or commands that would make him do something he wouldn’t normally do even for a close friend. If he succeeds, he decides not to go along with that order but remains _charmed._
+*   A _charmed_ character is entitled to an opposed Charisma check against his master in order to resist instructions or commands that would make him do something he wouldn't normally do even for a close friend. If he succeeds, he decides not to go along with that order but remains _charmed._
 *   A _charmed_ character never obeys a command that is obviously suicidal or grievously harmful to her.
 *   If the charming creature commands his minion to do something that the influenced character would be violently opposed to, the subject may attempt a new saving throw to break free of the influence altogether.
-*   A _charmed_ character who is openly attacked by the creature who _charmed_ him or by that creature’s apparent allies is automatically freed of the spell or effect.
+*   A _charmed_ character who is openly attacked by the creature who _charmed_ him or by that creature's apparent allies is automatically freed of the spell or effect.
 
-Compulsion is a different matter altogether. A compulsion overrides the subject’s free will in some way or simply
-changes the way the subject’s mind works. A charm makes the subject a friend of the caster; a compulsion makes the
+Compulsion is a different matter altogether. A compulsion overrides the subject's free will in some way or simply
+changes the way the subject's mind works. A charm makes the subject a friend of the caster; a compulsion makes the
 subject obey the caster.
 
-Regardless of whether a character is charmed or compelled, he won’t volunteer information or tactics that his
-master doesn’t ask for.
+Regardless of whether a character is charmed or compelled, he won't volunteer information or tactics that his
+master doesn't ask for.
 
 ### Cold Immunity
 
@@ -211,7 +211,7 @@ is a success or failure.
 Some magic creatures have the supernatural ability to instantly heal damage from weapons or to ignore blows
 altogether as though they were invulnerable.
 
-The numerical part of a creature’s damage reduction is the amount of hit points the creature ignores from normal
+The numerical part of a creature's damage reduction is the amount of hit points the creature ignores from normal
 attacks. Usually, a certain type of weapon can overcome this reduction. This information is separated from the
 damage reduction number by a slash. Damage reduction may be overcome by special materials, by magic weapons (any
 weapon with a +1 or higher enhancement bonus, not counting the enhancement from masterwork quality), certain types
@@ -223,15 +223,15 @@ for the purpose of overcoming damage reduction. Similarly, ammunition fired from
 alignment gains the alignment of that projectile weapon (in addition to any alignment it may already have).
 
 Whenever damage reduction completely negates the damage from an attack, it also negates most special effects that
-accompany the attack, such as injury type poison, a monk’s stunning, and injury type disease. Damage reduction
+accompany the attack, such as injury type poison, a monk's stunning, and injury type disease. Damage reduction
 does not negate touch attacks, energy damage dealt along with an attack, or energy drains. Nor does it affect
 poisons or diseases delivered by inhalation, ingestion, or contact.
 
-Attacks that deal no damage because of the target’s damage reduction do not disrupt spells.
+Attacks that deal no damage because of the target's damage reduction do not disrupt spells.
 Spells, spell-like abilities, and energy attacks (even nonmagical fire) ignore damage reduction.
 
-Sometimes damage reduction is instant healing. Sometimes damage reduction represents the creature’s tough hide or
-body,. In either case, characters can see that conventional attacks don’t work.
+Sometimes damage reduction is instant healing. Sometimes damage reduction represents the creature's tough hide or
+body,. In either case, characters can see that conventional attacks don't work.
 
 If a creature has damage reduction from more than one source, the two forms of damage reduction do not stack.
 Instead, the creature gets the benefit of the best damage reduction in a given situation.
@@ -240,7 +240,7 @@ Instead, the creature gets the benefit of the best damage reduction in a given s
 
 Darkvision is the extraordinary ability to see with no light source at all, out to a range specified for the
 creature. Darkvision is black and white only (colors cannot be discerned). It does not allow characters to see
-anything that they could not see otherwise---invisible objects are still invisible, and illusions are still visible
+anything that they could not see otherwise--invisible objects are still invisible, and illusions are still visible
 as what they seem to be. Likewise, darkvision subjects a creature to gaze attacks normally. The presence of light
 does not spoil darkvision.
 
@@ -249,7 +249,7 @@ does not spoil darkvision.
 In most cases, a death attack allows the victim a Fortitude save to avoid the affect, but if the save fails, the
 character dies instantly.
 
-*   _Raise dead_ doesn’t work on someone killed by a death attack.
+*   _Raise dead_ doesn't work on someone killed by a death attack.
 *   Death attacks slay instantly. A victim cannot be made stable and thereby kept alive.
 *   In case it matters, a dead character, no matter how she died, has -10 hit points.
 *   The spell _death ward_ protects a character against these attacks.
@@ -258,11 +258,11 @@ character dies instantly.
 
 When a character is injured by a contaminated attack touches an item smeared with diseased matter, or consumes
 disease-tainted food or drink, he must make an immediate Fortitude saving throw. If he succeeds, the disease has
-no effect---his immune system fought off the infection. If he fails, he takes damage after an incubation period.
+no effect--his immune system fought off the infection. If he fails, he takes damage after an incubation period.
 Once per day afterward, he must make a successful Fortitude saving throw to avoid repeated damage. Two successful
 saving throws in a row indicate that he has fought off the disease and recovers, taking no more damage.
 
-These Fortitude saving throws can be rolled secretly so that the player doesn’t know whether the disease has taken
+These Fortitude saving throws can be rolled secretly so that the player doesn't know whether the disease has taken
 hold.
 
 #### Disease Descriptions
@@ -273,7 +273,7 @@ diseases are summarized on Table: Diseases and defined below.
 _Disease:_ Diseases whose names are printed in _italic_ in the table are supernatural in nature. The
 others are extraordinary.
 
-_Infection:_ The disease’s method of delivery---ingested, inhaled, via injury, or contact. Keep in mind that
+_Infection:_ The disease's method of delivery--ingested, inhaled, via injury, or contact. Keep in mind that
 some injury diseases may be transmitted by as small an injury as a flea bite and that most inhaled diseases can
 also be ingested (and vice versa).
 
@@ -328,8 +328,8 @@ _Slimy Doom:_ Victim turns into infectious goo from the inside out. Can cause pe
 #### Healing a Disease
 
 Use of the Heal skill can help a diseased character. Every time a diseased character makes a saving throw against
-disease effects, the healer makes a check. The diseased character can use the healer’s result in place of his
-saving throw if the Heal check result is higher. The diseased character must be in the healer’s care and must have
+disease effects, the healer makes a check. The diseased character can use the healer's result in place of his
+saving throw if the Heal check result is higher. The diseased character must be in the healer's care and must have
 spent the previous 8 hours resting.
 
 Characters recover points lost to ability score damage at a rate of 1 per day per ability damaged, and this rule
@@ -339,8 +339,8 @@ withstand it without accumulating any damage.
 ### Energy Drain and Negative Levels
 
 Some horrible creatures, especially undead monsters, possess a fearsome supernatural ability to drain levels from
-those they strike in combat. The creature making an energy drain attack draws a portion of its victim’s life force
-from her. Most energy drain attacks require a successful melee attack roll---mere physical contact is not enough.
+those they strike in combat. The creature making an energy drain attack draws a portion of its victim's life force
+from her. Most energy drain attacks require a successful melee attack roll--mere physical contact is not enough.
 Each successful energy drain attack bestows one or more negative levels on the opponent. A creature takes the
 following penalties for each negative level it has gained.
 
@@ -348,7 +348,7 @@ following penalties for each negative level it has gained.
 -1 on attack rolls and saving throws.
 -5 hit points.
 
--1 effective level (whenever the creature’s level is used in a die roll or calculation, reduce it by one for each
+-1 effective level (whenever the creature's level is used in a die roll or calculation, reduce it by one for each
 negative level).
 
 If the victim casts spells, she loses access to one spell as if she had cast her highest-level, currently
@@ -356,10 +356,10 @@ available spell. (If she has more than one spell at her highest level, she choos
 when she next prepares spells or regains spell slots, she gets one less spell slot at her highest spell level.
 
 Negative levels remain for 24 hours or until removed with a spell, such as
-_restoration._ After 24 hours, the afflicted creature must attempt a Fortitude save (DC 10 + 1/2 attacker’s
-HD + attacker’s Cha modifier). (The DC is provided in the attacker’s description.) If the saving throw succeeds,
+_restoration._ After 24 hours, the afflicted creature must attempt a Fortitude save (DC 10 + 1/2 attacker's
+HD + attacker's Cha modifier). (The DC is provided in the attacker's description.) If the saving throw succeeds,
 the negative level goes away with no harm to the creature. The afflicted creature makes a separate saving throw
-for each negative level it has gained. If the save fails, the negative level goes away, but the creature’s level
+for each negative level it has gained. If the save fails, the negative level goes away, but the creature's level
 is also reduced by one.
 
 A character with negative levels at least equal to her current level, or drained below 1st level, is instantly
@@ -377,9 +377,9 @@ most magical attacks have no effect on them. _See invisibility_ and _true seeing
 creatures.
 
 An ethereal creature can see and hear into the Material Plane in a 60-foot radius, though material objects still
-block sight and sound. (An ethereal creature can’t see through a material wall, for instance.) An ethereal
+block sight and sound. (An ethereal creature can't see through a material wall, for instance.) An ethereal
 creature inside an object on the Material Plane cannot see. Things on the Material Plane, however, look gray,
-indistinct, and ghostly. An ethereal creature can’t affect the Material Plane, not even magically. An ethereal
+indistinct, and ghostly. An ethereal creature can't affect the Material Plane, not even magically. An ethereal
 creature, however, interacts with other ethereal creatures and objects the way material creatures interact with
 material creatures and objects.
 
@@ -393,7 +393,7 @@ spellcaster can see the ethereal target). Gaze effects and abjurations also exte
 Ethereal Plane. None of these effects extend from the Ethereal Plane to the Material Plane.
 
 Ethereal creatures move in any direction (including up or down) at will. They do not need to walk on the ground,
-and material objects don’t block them (though they can’t see while their eyes are within solid material).
+and material objects don't block them (though they can't see while their eyes are within solid material).
 
 Ghosts have a power called manifestation that allows them to appear on the Material Plane as incorporeal
 creatures. Still, they are on the Ethereal Plane, and another ethereal creature can interact normally with a
@@ -424,7 +424,7 @@ Improved evasion is like evasion, except that even on a failed saving throw the 
 A creature with fast healing has the extraordinary ability to regain hit points at an exceptional rate. Except for
 what is noted here, fast healing is like natural healing.
 
-At the beginning of each of the creature’s turns, it heals a certain number of hit points (defined in its
+At the beginning of each of the creature's turns, it heals a certain number of hit points (defined in its
 description).
 
 Unlike regeneration, fast healing does not allow a creature to regrow or reattach lost body parts.
@@ -468,9 +468,9 @@ is a success or failure.
 ### Gaseous Form
 Some creatures have the supernatural or spell-like ability to take the form of a cloud of vapor or gas.
 
-Creatures in gaseous form can’t run but can fly. A gaseous creature can move about and do the things that a cloud
-of gas can conceivably do, such as flow through the crack under a door. It can’t, however, pass through solid
-matter. Gaseous creatures can’t attack physically or cast spells with verbal, somatic, material, or focus
+Creatures in gaseous form can't run but can fly. A gaseous creature can move about and do the things that a cloud
+of gas can conceivably do, such as flow through the crack under a door. It can't, however, pass through solid
+matter. Gaseous creatures can't attack physically or cast spells with verbal, somatic, material, or focus
 components. They lose their supernatural abilities (except for the supernatural ability to assume gaseous form, of
 course).
 
@@ -481,22 +481,22 @@ though size, Dexterity, deflection bonuses, and armor bonuses from force armor s
 Gaseous creatures do not need to breathe and are immune to attacks involving breathing (troglodyte stench, poison
 gas, and the like).
 
-Gaseous creatures can’t enter water or other liquid. They are not ethereal or incorporeal. They are affected by
+Gaseous creatures can't enter water or other liquid. They are not ethereal or incorporeal. They are affected by
 winds or other forms of moving air to the extent that the wind pushes them in the direction the wind is moving.
-However, even the strongest wind can’t disperse or damage a creature in gaseous form.
+However, even the strongest wind can't disperse or damage a creature in gaseous form.
 
 Discerning a creature in gaseous form from natural mist requires a DC 15 Spot check. Creatures in gaseous form
 attempting to hide in an area with mist, smoke, or other gas gain a +20 bonus.
 
 ### Gaze Attacks
 
-While the medusa’s gaze is well known, gaze attacks can also charm, curse, or even kill. Gaze attacks not produced
+While the medusa's gaze is well known, gaze attacks can also charm, curse, or even kill. Gaze attacks not produced
 by a spell are supernatural.
 
 Each character within range of a gaze attack must attempt a saving throw (which can be a Fortitude or Will save)
 each round at the beginning of his turn.
 
-An opponent can avert his eyes from the creature’s face, looking at the creature’s body, watching its shadow, or
+An opponent can avert his eyes from the creature's face, looking at the creature's body, watching its shadow, or
 tracking the creature in a reflective surface. Each round, the opponent has a 50% chance of not having to make a
 saving throw. The creature with the gaze attack gains concealment relative to the opponent. An opponent can shut
 his eyes, turn his back on the creature, or wear a blindfold. In these cases, the opponent does not need to make a
@@ -505,16 +505,16 @@ saving throw. The creature with the gaze attack gains total concealment relative
 A creature with a gaze attack can actively attempt to use its gaze as an attack action. The creature simply
 chooses a target within range, and that opponent must attempt a saving throw. If the target has chosen to defend
 against the gaze as discussed above, the opponent gets a chance to avoid the saving throw (either 50% chance for
-averting eyes or 100% chance for shutting eyes). It is possible for an opponent to save against a creature’s gaze
-twice during the same round, once before its own action and once during the creature’s action.
+averting eyes or 100% chance for shutting eyes). It is possible for an opponent to save against a creature's gaze
+twice during the same round, once before its own action and once during the creature's action.
 
-Looking at the creature’s image (such as in a mirror or as part of an illusion) does not subject the viewer to a
+Looking at the creature's image (such as in a mirror or as part of an illusion) does not subject the viewer to a
 gaze attack.
 
 A creature is immune to its own gaze attack.
 
 If visibility is limited (by dim lighting, a fog, or the like) so that it results in concealment, there is a
-percentage chance equal to the normal miss chance for that degree of concealment that a character won’t need to
+percentage chance equal to the normal miss chance for that degree of concealment that a character won't need to
 make a saving throw in a given round. This chance is not cumulative with the chance for averting your eyes, but is
 rolled separately.
 
@@ -526,7 +526,7 @@ desired.
 
 ### Incorporeality
 
-Spectres, wraiths, and a few other creatures lack physical bodies. Such creatures are insubstantial and can’t be
+Spectres, wraiths, and a few other creatures lack physical bodies. Such creatures are insubstantial and can't be
 touched by nonmagical matter or energy. Likewise, they cannot manipulate objects or exert physical force on
 objects. However, incorporeal beings have a tangible presence that sometimes seems like a physical attack against
 a corporeal creature.
@@ -539,7 +539,7 @@ spell-like effects, or supernatural effects. They are immune to all nonmagical a
 by normal fires, affected by natural cold, or harmed by mundane acids.
 
 Even when struck by magic or magic weapons, an incorporeal creature has a 50% chance to ignore any damage from a
-corporeal source---except for a force effector damage dealt by a ghost touch weapon.
+corporeal source--except for a force effector damage dealt by a ghost touch weapon.
 
 Incorporeal creatures are immune to critical hits, extra damage from being favored enemies, and from sneak
 attacks. They move in any direction (including up or down) at will. They do not need to walk on the ground. They
@@ -564,27 +564,27 @@ then they only make noise intentionally.
 
 ### Invisibility
 
-The ability to move about unseen is not foolproof. While they can’t be seen, invisible creatures can be heard,
+The ability to move about unseen is not foolproof. While they can't be seen, invisible creatures can be heard,
 smelled, or felt.
 
 Invisibility makes a creature undetectable by vision, including darkvision.
 
 Invisibility does not, by itself, make a creature immune to critical hits, but it does make the creature immune to
-extra damage from being a ranger’s favored enemy and from sneak attacks.
+extra damage from being a ranger's favored enemy and from sneak attacks.
 
 A creature can generally notice the presence of an active invisible creature within 30 feet with a DC 20 Spot
-check. The observer gains a hunch that "something’s there" but can’t see it or target it accurately with an
+check. The observer gains a hunch that "something's there" but can't see it or target it accurately with an
 attack. A creature who is holding still is very hard to notice (DC 30). An inanimate object, an unliving creature
-holding still, or a completely immobile creature is even harder to spot (DC 40). It’s practically impossible (+20
-DC) to pinpoint an invisible creature’s location with a Spot check, and even if a character succeeds on such a
+holding still, or a completely immobile creature is even harder to spot (DC 40). It's practically impossible (+20
+DC) to pinpoint an invisible creature's location with a Spot check, and even if a character succeeds on such a
 check, the invisible creature still benefits from total concealment (50% miss chance).
 
 A creature can use hearing to find an invisible creature. A character can make a Listen check for this purpose as
-a free action each round. A Listen check result at least equal to the invisible creature’s Move Silently check
+a free action each round. A Listen check result at least equal to the invisible creature's Move Silently check
 result reveals its presence. (A creature with no ranks in Move Silently makes a Move Silently check as a Dexterity
 check to which an armor check penalty applies.) A successful check lets a character hear an invisible creature
-"over there somewhere." It’s practically impossible to pinpoint the location of an invisible creature. A Listen
-check that beats the DC by 20 pinpoints the invisible creature’s location.
+"over there somewhere." It's practically impossible to pinpoint the location of an invisible creature. A Listen
+check that beats the DC by 20 pinpoints the invisible creature's location.
 
 | Listen Check DCs to Detect Invisible Creatures |
 | --- |
@@ -600,7 +600,7 @@ check that beats the DC by 20 pinpoints the invisible creature’s location.
 A creature can grope about to find an invisible creature. A character can make a touch attack with his hands or a
 weapon into two adjacent 5-foot squares using a standard action. If an invisible target is in the designated area,
 there is a 50% miss chance on the touch attack. If successful, the groping character deals no damage but has
-successfully pinpointed the invisible creature’s current location. (If the invisible creature moves, its location,
+successfully pinpointed the invisible creature's current location. (If the invisible creature moves, its location,
 obviously, is once again unknown.)
 
 If an invisible creature strikes a character, the character struck still knows the location of the creature that
@@ -614,9 +614,9 @@ slow creature might get a smaller miss chance.
 
 If a character tries to attack an invisible creature whose location he has not pinpointed, have the player choose
 the space where the character will direct the attack. If the invisible creature is there, conduct the attack
-normally. If the enemy’s not there, roll the miss chance as if it were there, don’t let the player see the result,
-and tell him that the character has missed. That way the player doesn’t know whether the attack missed because the
-enemy’s not there or because you successfully rolled the miss chance.
+normally. If the enemy's not there, roll the miss chance as if it were there, don't let the player see the result,
+and tell him that the character has missed. That way the player doesn't know whether the attack missed because the
+enemy's not there or because you successfully rolled the miss chance.
 
 If an invisible character picks up a visible object, the object remains visible. One could coat an invisible
 object with flour to at least keep track of its position (until the flour fell off or blew away). An invisible
@@ -624,7 +624,7 @@ creature can pick up a small visible item and hide it on his person (tucked in a
 render it effectively invisible.
 
 Invisible creatures leave tracks. They can be tracked normally. Footprints in sand, mud, or other soft surfaces
-can give enemies clues to an invisible creature’s location.
+can give enemies clues to an invisible creature's location.
 
 An invisible creature in the water displaces water, revealing its location. The invisible creature, however, is
 still hard to see and benefits from concealment.
@@ -641,8 +641,8 @@ An invisible burning torch still gives off light, as does an invisible object wi
 spell) cast upon it.
 
 Ethereal creatures are invisible. Since ethereal creatures are not materially present, Spot checks, Listen checks,
-Scent, Blind-Fight, and blindsight don’t help locate them. Incorporeal creatures are often invisible. Scent,
-Blind-Fight, and blindsight don’t help creatures find or attack invisible, incorporeal creatures, but Spot checks
+Scent, Blind-Fight, and blindsight don't help locate them. Incorporeal creatures are often invisible. Scent,
+Blind-Fight, and blindsight don't help creatures find or attack invisible, incorporeal creatures, but Spot checks
 and possibly Listen checks can help.
 
 Invisible creatures cannot use gaze attacks.
@@ -653,15 +653,15 @@ invisible.
 
 ### Level Loss
 
-A character who loses a level instantly loses one Hit Die. The character’s base attack bonus, base saving throw
+A character who loses a level instantly loses one Hit Die. The character's base attack bonus, base saving throw
 bonuses, and special class abilities are now reduced to the new, lower level. Likewise, the character loses any
 ability score gain, skill ranks, and any feat associated with the level (if applicable). If the exact ability
 score or skill ranks increased from a level now lost is unknown (or the player has forgotten), lose 1 point from
 the highest ability score or ranks from the highest-ranked skills. If a familiar or companion creature has
-abilities tied to a character who has lost a level, the creature’s abilities are adjusted to fit the character’s
+abilities tied to a character who has lost a level, the creature's abilities are adjusted to fit the character's
 new level.
 
-The victim’s experience point total is immediately set to the midpoint of the previous level.
+The victim's experience point total is immediately set to the midpoint of the previous level.
 ### Low-Light Vision
 
 Characters with low-light vision have eyes that are so sensitive to light that they can see twice as far as normal
@@ -679,13 +679,13 @@ helpless. Not even friends can move his limbs. He may take purely mental actions
 components.
 
 A winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A
-swimmer can’t swim and may drown.
+swimmer can't swim and may drown.
 
 ### Poison
 
 When a character takes damage from an attack with a poisoned weapon, touches an item smeared with contact poison,
 consumes poisoned food or drink, or is otherwise poisoned, he must make a Fortitude saving throw. If he fails, he
-takes the poison’s initial damage (usually ability damage). Even if he succeeds, he typically faces more damage 1
+takes the poison's initial damage (usually ability damage). Even if he succeeds, he typically faces more damage 1
 minute later, which he can also avoid with a successful Fortitude saving throw.
 
 One dose of poison smeared on a weapon or some other object affects just a single target. A poisoned weapon or
@@ -713,7 +713,7 @@ poisoned. Assassins and other characters tend to use ingested poisons outside of
  Inhaled poisons are usually contained in fragile vials or eggshells. They can be thrown
 as a ranged attack with a range increment of 10 feet. When it strikes a hard surface (or is struck hard), the
 container releases its poison. One dose spreads to fill the volume of a 10-foot cube. Each creature within the
-area must make a saving throw. (Holding one’s breath is ineffective against inhaled poisons; they affect the nasal
+area must make a saving throw. (Holding one's breath is ineffective against inhaled poisons; they affect the nasal
 membranes, tear ducts, and other parts of the body.)
 
 ### Injury:
@@ -723,8 +723,8 @@ weapons, needles, and the like sometimes contain injury poisons.
 
 The characteristics of poisons are summarized on Table: Poisons. Terms on the table are defined below.
 
-_Type:_ The poison’s method of delivery (contact, ingested, inhaled, or via an injury) and the Fortitude
-save DC to avoid the poison’s damage.
+_Type:_ The poison's method of delivery (contact, ingested, inhaled, or via an injury) and the Fortitude
+save DC to avoid the poison's damage.
 
 _Initial Damage:_ The damage the character takes immediately upon failing his saving throw against this
 poison. Ability damage is temporary unless marked with an asterisk (*), in which case the loss is a permanent
@@ -787,7 +787,7 @@ to harm them.
 
 ### Polymorph
 
-Magic can cause creatures and characters to change their shapes---sometimes against their will, but usually to gain
+Magic can cause creatures and characters to change their shapes--sometimes against their will, but usually to gain
 an advantage. Polymorphed creatures retain their own minds but have new physical forms.
 
 The _polymorph_ spell defines the general polymorph effect.
@@ -796,17 +796,17 @@ Since creatures do not change types, a slaying or bane weapon designed to kill o
 type affects those creatures even if they are polymorphed. Likewise, a creature polymorphed into the form of a
 creature of a different type is not subject to slaying and bane effects directed at that type of creature.
 
-A ranger’s favored enemy bonus is based on knowing what the foe is, so if a creature that is a ranger’s favored
+A ranger's favored enemy bonus is based on knowing what the foe is, so if a creature that is a ranger's favored
 enemy polymorphs into another form, the ranger is denied his bonus.
 
-A dwarf ’s bonus for fighting giants is based on shape and size, so he does not gain a bonus against a giant
+A dwarf 's bonus for fighting giants is based on shape and size, so he does not gain a bonus against a giant
 polymorphed into something else, but does gain the bonus against any creature polymorphed into a giant.
 
 ### Psionics
 
-Telepathy, mental combat and psychic powers---psionics is a catchall word that describes special mental abilities
+Telepathy, mental combat and psychic powers--psionics is a catchall word that describes special mental abilities
 possessed by various creatures. These are spell-like abilities that a creature generates from the power of its
-mind alone---no other outside magical force or ritual is needed. Each psionic creature’s description contains
+mind alone--no other outside magical force or ritual is needed. Each psionic creature's description contains
 details on its psionic abilities.
 
 Psionic attacks almost always allow Will saving throws to resist them. However, not all psionic attacks are mental
@@ -817,9 +817,9 @@ well as read the minds of others.
 ### Rays
 
 All ray attacks require the attacker to make a successful ranged touch attack against the target. Rays have
-varying ranges, which are simple maximums. A ray’s attack roll never takes a range penalty. Even if a ray hits, it
+varying ranges, which are simple maximums. A ray's attack roll never takes a range penalty. Even if a ray hits, it
 usually allows the target to make a saving throw (Fortitude or Will). Rays never allow a Reflex saving throw, but
-if a character’s Dexterity bonus to AC is high, it might be hard to hit her with the ray in the first place.
+if a character's Dexterity bonus to AC is high, it might be hard to hit her with the ray in the first place.
 
 ### Regeneration
 
@@ -827,14 +827,14 @@ Creatures with this extraordinary ability recover from wounds quickly and can ev
 parts. Damage dealt to the creature is treated as nonlethal damage, and the creature automatically cures itself of
 nonlethal damage at a fixed rate.
 
-Certain attack forms, typically fire and acid, deal damage to the creature normally; that sort of damage doesn’t
-convert to nonlethal damage and so doesn’t go away. The creature’s description includes the details.
+Certain attack forms, typically fire and acid, deal damage to the creature normally; that sort of damage doesn't
+convert to nonlethal damage and so doesn't go away. The creature's description includes the details.
 
 Creatures with regeneration can regrow lost portions of their bodies and can reattach severed limbs or body parts.
 Severed parts die if they are not reattached.
 
 Regeneration does not restore hit points lost from starvation, thirst, or suffocation.
-Attack forms that don’t deal hit point damage ignore regeneration.
+Attack forms that don't deal hit point damage ignore regeneration.
 
 An attack that can cause instant death only threatens the creature with death if it is delivered by weapons that
 deal it lethal damage.
@@ -845,7 +845,7 @@ A creature with resistance to energy has the ability (usually extraordinary) to 
 type each round, but it does not have total immunity.
 
 Each resistance ability is defined by what energy type it resists and how many points of damage are resisted. It
-doesn’t matter whether the damage has a mundane or magical source.
+doesn't matter whether the damage has a mundane or magical source.
 
 When resistance completely negates the damage from an energy attack, the attack does not disrupt a spell. This
 resistance does not stack with the resistance that a spellmight provide.
@@ -860,12 +860,12 @@ opponent is upwind, the range is 60 feet. If it is downwind, the range is 15 fee
 rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or
 troglodyte stench, can be detected at three times these ranges.
 
-The creature detects another creature’s presence but not its specific location. Noting the direction of the scent
-is a move action. If it moves within 5 feet of the scent’s source, the creature can pinpoint that source.
+The creature detects another creature's presence but not its specific location. Noting the direction of the scent
+is a move action. If it moves within 5 feet of the scent's source, the creature can pinpoint that source.
 
 A creature with the Track feat and the scent ability can follow tracks by smell, making a Wisdom check to find or
 follow a track. The typical DC for a fresh trail is 10. The DC increases or decreases depending on how strong the
-quarry’s odor is, the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC
+quarry's odor is, the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC
 increases by 2. The ability otherwise follows the rules for the Track feat. Creatures tracking by scent ignore the
 effects of surface conditions and poor visibility.
 
@@ -883,8 +883,8 @@ Spell resistance is the extraordinary ability to avoid being affected by spells.
 resistance.)
 
 To affect a creature that has spell resistance, a spellcaster must make a caster level check (1d20 + caster level)
-at least equal to the creature’s spell resistance. (The defender’s spell resistance is like an Armor Class against
-magical attacks.) If the caster fails the check, the spell doesn’t affect the creature. The possessor does not
+at least equal to the creature's spell resistance. (The defender's spell resistance is like an Armor Class against
+magical attacks.) If the caster fails the check, the spell doesn't affect the creature. The possessor does not
 have to do anything special to use spell resistance. The creature need not even be aware of the threat for its
 spell resistance to operate.
 
@@ -894,11 +894,11 @@ spell resistance and some that are not. Even some spells ignore spell resistance
 Applies, below.
 
 A creature can voluntarily lower its spell resistance. Doing so is a standard action that does not provoke an
-attack of opportunity. Once a creature lowers its resistance, it remains down until the creature’s next turn. At
-the beginning of the creature’s next turn, the creature’s spell resistance automatically returns unless the
+attack of opportunity. Once a creature lowers its resistance, it remains down until the creature's next turn. At
+the beginning of the creature's next turn, the creature's spell resistance automatically returns unless the
 creature intentionally keeps it down (also a standard action that does not provoke an attack of opportunity).
 
-A creature’s spell resistance never interferes with its own spells, items, or abilities.
+A creature's spell resistance never interferes with its own spells, items, or abilities.
 
 A creature with spell resistance cannot impart this power to others by touching them or standing in their midst.
 Only the rarest of creatures and a few magic items have the ability to bestow spell resistance upon another.
@@ -911,12 +911,12 @@ spell resistance applies depends on what the spell does:
 
 ### Targeted Spells:
  Spell resistance applies if the spell is targeted at the creature. Some
-individually targeted spells can be directed at several creatures simultaneously. In such cases, a creature’s
+individually targeted spells can be directed at several creatures simultaneously. In such cases, a creature's
 spell resistance applies only to the portion of the spell actually targeted at that creature. If several different
 resistant creatures are subjected to such a spell, each checks its spell resistance separately.
 
 ### Area Spells:
- Spell resistance applies if the resistant creature is within the spell’s area. It
+ Spell resistance applies if the resistant creature is within the spell's area. It
 protects the resistant creature without affecting the spell itself.
 
 ### Effect Spells:
@@ -924,7 +924,7 @@ protects the resistant creature without affecting the spell itself.
 resistance. Sometimes, however, spell resistance applies to effect spells, usually to those that act upon a
 creature more or less directly, such as _web._
 
-Spell resistance can protect a creature from a spell that’s already been cast. Check spell resistance when the
+Spell resistance can protect a creature from a spell that's already been cast. Check spell resistance when the
 creature is first affected by the spell.
 
 Check spell resistance only once for any particular casting of a spell or use of a spell-like ability. If spell
@@ -934,22 +934,22 @@ lowered its spell resistance and is then subjected to a spell, the creature stil
 that spell later, when its spell resistance is up.
 
 Spell resistance has no effect unless the energy created or released by the spell actually goes to work on the
-resistant creature’s mind or body. If the spell acts on anything else and the creature is affected as a
+resistant creature's mind or body. If the spell acts on anything else and the creature is affected as a
 consequence, no roll is required. Creatures can be harmed by a spell without being directly affected.
 
-Spell resistance does not apply if an effect fools the creature’s senses or reveals something about the creature.
+Spell resistance does not apply if an effect fools the creature's senses or reveals something about the creature.
 
 Magic actually has to be working for spell resistance to apply. Spells that have instantaneous durations but
-lasting results aren’t subject to spell resistance unless the resistant creature is exposed to the spell the
+lasting results aren't subject to spell resistance unless the resistant creature is exposed to the spell the
 instant it is cast.
 
-When in doubt about whether a spell’s effect is direct or indirect, consider the spell’s school:
+When in doubt about whether a spell's effect is direct or indirect, consider the spell's school:
 
 ### Abjuration:
  The target creature must be harmed, changed, or restricted in some manner for spell
-resistance to apply. Perception changes aren’t subject to spell resistance.
+resistance to apply. Perception changes aren't subject to spell resistance.
 
-Abjurations that block or negate attacks are not subject to an attacker’s spell resistance---it is the protected
+Abjurations that block or negate attacks are not subject to an attacker's spell resistance--it is the protected
 creature that is affected by the spell (becoming immune or resistant to the attack).
 
 ### Conjuration:
@@ -962,7 +962,7 @@ to spell resistance.
 resistance, even though what they reveal about a creature might be very damaging.
 
 ### Enchantment:
- Since enchantment spells affect creatures’ minds, they are typically subject to
+ Since enchantment spells affect creatures' minds, they are typically subject to
 spell resistance.
 
 ### Evocation:
@@ -974,8 +974,8 @@ spell damages something else, it has an indirect effect.
 direct attack are exceptions.
 
 ### Necromancy:
- Most of these spells alter the target creature’s life force and are subject to spell
-resistance. Unusual necromancy spells that don’t affect other creatures directly are not subject to spell
+ Most of these spells alter the target creature's life force and are subject to spell
+resistance. Unusual necromancy spells that don't affect other creatures directly are not subject to spell
 resistance.
 
 ### Transmutation:
@@ -989,7 +989,7 @@ spell resistance is holding the stones when the cleric casts _magic stone_ on th
 #### Successful Spell Resistance
 
 Spell resistance prevents a spell or a spell-like ability from affecting or harming the resistant creature, but it
-never removes a magical effect from another creature or negates a spell’s effect on another creature. Spell
+never removes a magical effect from another creature or negates a spell's effect on another creature. Spell
 resistance prevents a spell from disrupting another spell.
 
 Against an ongoing spell that has already been cast, a failed check against spell resistance allows the resistant
@@ -1000,24 +1000,24 @@ creature to ignore any effect the spell might have. The magic continues to affec
 A creature with tremorsense automatically senses the location of anything that is in contact with the ground and
 within range.
 
-If no straight path exists through the ground from the creature to those that it’s sensing, then the range defines
+If no straight path exists through the ground from the creature to those that it's sensing, then the range defines
 the maximum distance of the shortest indirect path. It must itself be in contact with the ground, and the
 creatures must be moving.
 
 As long as the other creatures are taking physical actions, including casting spells with somatic components,
-they’re considered moving; they don’t have to move from place to place for a creature with tremorsense to detect
+they're considered moving; they don't have to move from place to place for a creature with tremorsense to detect
 them.
 
 ### Turn Resistance
 Some creatures (usually undead) are less easily affected by the turning ability of clerics or paladins.
 Turn resistance is an extraordinary ability.
 
-When resolving a turn, rebuke, command, or bolster attempt, added the appropriate bonus to the creature’s Hit Dice
+When resolving a turn, rebuke, command, or bolster attempt, added the appropriate bonus to the creature's Hit Dice
 total.
 
 ## Conditions
 
-If more than one condition affects a character, apply them all. If certain effects can’t combine, apply the most
+If more than one condition affects a character, apply them all. If certain effects can't combine, apply the most
 severe effect.
 
 ### Ability Damaged:
@@ -1053,11 +1053,11 @@ creatures on the ground merely stop. Checked flying creatures move back a distan
 the effect.
 
 ### _Confused:_
- A _confused_ character’s actions are determined by rolling d% at the
+ A _confused_ character's actions are determined by rolling d% at the
 beginning of his turn: 01-10, attack caster with melee or ranged weapons (or close with caster if attacking is not
 possible); 11-20, act normally; 21-50, do nothing but babble incoherently; 51-70, flee away from caster at top
-possible speed; 71-100, attack nearest creature (for this purpose, a familiar counts as part of the subject’s self
-). A _confused_ character who can’t carry out the indicated action does nothing but babble incoherently.
+possible speed; 71-100, attack nearest creature (for this purpose, a familiar counts as part of the subject's self
+). A _confused_ character who can't carry out the indicated action does nothing but babble incoherently.
 Attackers are not at any special advantage when attacking a _confused_ character. Any
 _confused_ character who is attacked automatically attacks its attackers on its next turn, as long as it is
 still _confused_ when its turn comes. A _confused_ character does not make attacks of opportunity
@@ -1079,8 +1079,8 @@ A dazed condition typically lasts 1 round.
 creature takes a -1 penalty on attack rolls, Search checks, and Spot checks.
 
 ### Dead:
- The character’s hit points are reduced to -10, his Constitution drops to 0, or he is killed
-outright by a spell or effect. The character’s soul leaves his body. Dead characters cannot benefit from normal or
+ The character's hit points are reduced to -10, his Constitution drops to 0, or he is killed
+outright by a spell or effect. The character's soul leaves his body. Dead characters cannot benefit from normal or
 magical healing, but they can be restored to life via magic. A dead body decays normally unless magically
 preserved, but magic that restores a dead character to life also restores the body either to full health or to its
 condition at the time of death (depending on the spell or device). Either way, resurrected characters need not
@@ -1095,10 +1095,10 @@ some of them.
 ### Disabled:
  A character with 0 hit points, or one who has negative hit points but has become stable
 and conscious, is disabled. A disabled character may take a single move action or standard action each round (but
-not both, nor can she take full-round actions). She moves at half speed. Taking move actions doesn’t risk further
+not both, nor can she take full-round actions). She moves at half speed. Taking move actions doesn't risk further
 injury, but performing any standard action (or any other action the DM deems strenuous, including some free
 actions such as casting a quickened spell) deals 1 point of damage after the completion of the act. Unless the
-action increased the disabled character’s hit points, she is now in negative hit points and dying.
+action increased the disabled character's hit points, she is now in negative hit points and dying.
 
 A disabled character with negative hit points recovers hit points naturally if she is being helped. Otherwise,
 each day she has a 10% chance to start recovering hit points naturally (starting with that day); otherwise, she
@@ -1114,7 +1114,7 @@ is dead.
 
 ### Energy Drained:
  The character gains one or more negative levels, which might permanently drain
-the character’s levels. If the subject has at least as many negative levels as Hit Dice, he dies. Each negative
+the character's levels. If the subject has at least as many negative levels as Hit Dice, he dies. Each negative
 level gives a creature the following penalties: -1 penalty on attack rolls, saving throws, skill checks, ability
 checks; loss of 5 hit points; and -1 to effective level (for determining the power, duration, DC, and other
 details of spells or special abilities). In addition, a spellcaster loses one spell or spell slot from the highest
@@ -1125,7 +1125,7 @@ spell level castable.
 prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled
 creature moves at half speed, cannot run or charge, and takes a -2 penalty on all attack rolls and a -4 penalty to
 Dexterity. An entangled character who attempts to cast a spell must make a Concentration check (DC 15 + the
-spell’s level) or lose the spell.
+spell's level) or lose the spell.
 
 ### Exhausted:
  An exhausted character moves at half speed and takes a -6 penalty to Strength and
@@ -1138,7 +1138,7 @@ stands or sits quietly, taking no actions other than to pay attention to the fas
 the effect lasts. It takes a -4 penalty on skill checks made as reactions, such as Listen and Spot checks. Any
 potential threat, such as a hostile creature approaching, allows the fascinated creature a new saving throw
 against the fascinating effect. Any obvious threat, such as someone drawing a weapon, casting a spell, or aiming a
-ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature’s ally may shake
+ranged weapon at the fascinated creature, automatically breaks the effect. A fascinated creature's ally may shake
 it free of the spell as a standard action.
 
 ### Fatigued:
@@ -1163,11 +1163,11 @@ fear.
 ### Grappling:
  Engaged in wrestling or some other form of hand-to-hand struggle with one or more
 attackers. A grappling character can undertake only a limited number of actions. He does not threaten any squares,
-and loses his Dexterity bonus to AC (if any) against opponents he isn’t grappling.
+and loses his Dexterity bonus to AC (if any) against opponents he isn't grappling.
 
 ### Helpless:
  A helpless character is paralyzed, _held_, bound, sleeping, unconscious, or
-otherwise completely at an opponent’s mercy. A helpless target is treated as having a Dexterity of 0 (-5
+otherwise completely at an opponent's mercy. A helpless target is treated as having a Dexterity of 0 (-5
 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a prone target). Ranged
 attacks gets no special bonus against helpless targets. Rogues can sneak attack helpless targets.
 
@@ -1188,7 +1188,7 @@ effects, or supernatural effects.
 
 ### Invisible:
  Visually undetectable. An invisible creature gains a +2 bonus on attack rolls against
-sighted opponents, and ignores its opponents’ Dexterity bonuses to AC (if any). (See Invisibility, under Special
+sighted opponents, and ignores its opponents' Dexterity bonuses to AC (if any). (See Invisibility, under Special
 Abilities.)
 
 ### Knocked Down:
@@ -1203,7 +1203,7 @@ single move action per turn.
 
 ### Panicked:
  A panicked creature must drop anything it holds and flee at top speed from the source
-of its fear, as well as any other dangers it encounters, along a random path. It can’t take any other actions. In
+of its fear, as well as any other dangers it encounters, along a random path. It can't take any other actions. In
 addition, the creature takes a -2 penalty on all saving throws, skill checks, and ability checks. If cornered, a
 panicked creature cowers and does not attack, typically using the total defense action in combat. A panicked
 creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they
@@ -1215,13 +1215,13 @@ Panicked is a more extreme state of fear than shaken or frightened.
  A paralyzed character is frozen in place and unable to move or act. A paralyzed
 character has effective Dexterity and Strength scores of 0 and is helpless, but can take purely mental actions. A
 winged creature flying in the air at the time that it becomes paralyzed cannot flap its wings and falls. A
-paralyzed swimmer can’t swim and may drown. A creature can move through a space occupied by a paralyzed
-creature---ally or not. Each square occupied by a paralyzed creature, however, counts as 2 squares.
+paralyzed swimmer can't swim and may drown. A creature can move through a space occupied by a paralyzed
+creature--ally or not. Each square occupied by a paralyzed creature, however, counts as 2 squares.
 
 ### Petrified:
  A petrified character has been turned to stone and is considered unconscious. If a
 petrified character cracks or breaks, but the broken pieces are joined with the body as he returns to flesh, he is
-unharmed. If the character’s petrified body is incomplete when it returns to flesh, the body is likewise
+unharmed. If the character's petrified body is incomplete when it returns to flesh, the body is likewise
 incomplete and there is some amount of permanent hit point loss and/or debilitation.
 
 ### Pinned:
@@ -1251,7 +1251,7 @@ stable because of aid from another character (such as a Heal check or magical he
 longer loses hit points. He has a 10% chance each hour of becoming conscious and disabled (even though his hit
 points are still negative).
 
-If the character became stable on his own and hasn’t had help, he is still at risk of losing hit points. Each
+If the character became stable on his own and hasn't had help, he is still at risk of losing hit points. Each
 hour, he has a 10% chance of becoming conscious and disabled. Otherwise he loses 1 hit point.
 
 ### Staggered:
@@ -1263,7 +1263,7 @@ A character whose current hit points exceed his nonlethal damage is no longer st
 nonlethal damage exceeds his hit points becomes unconscious.
 
 ### Stunned:
- A stunned creature drops everything held, can’t take actions, takes a -2 penalty to AC,
+ A stunned creature drops everything held, can't take actions, takes a -2 penalty to AC,
 and loses his Dexterity bonus to AC (if any).
 
 ### Turned:

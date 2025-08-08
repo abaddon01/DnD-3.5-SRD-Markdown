@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Psionics - Psionic Feats
-aliases: 3.5 Psionic Feats
+aliases:
+  - 3.5 Psionic Feats
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - psionics
   - psionic_feats
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -18,8 +18,8 @@ This material is Open Game Content, and is licensed for public use under the ter
 Psionic feats are available only to characters and creatures with the ability to manifest powers. (In other words,
 they either have a power point reserve or have psi-like abilities.)
 
-Because psionic feats are supernatural abilities---a departure from the general rule that feats do not grant
-supernatural abilities---they cannot be disrupted in combat (as powers can be) and generally do not provoke attacks
+Because psionic feats are supernatural abilities--a departure from the general rule that feats do not grant
+supernatural abilities--they cannot be disrupted in combat (as powers can be) and generally do not provoke attacks
 of opportunity (except as noted in their descriptions). Supernatural abilities are not subject to power resistance
 and cannot be dispelled; however, they do not function in areas where psionics is suppressed, such as a
 _null psionics field._ Leaving such an area immediately allows psionic feats to be used.
@@ -135,7 +135,7 @@ consumed in the process. The cost of these materials equals 1/2 the cost of the 
 
 Using a psionic item creation feat also requires access to a laboratory or psionic workshop, special tools, and
 other equipment. A character generally has access to what he or she needs unless unusual circumstances apply (such
-as if he’s traveling far from home).
+as if he's traveling far from home).
 
 ### Time:
  The time to create a psionic item depends on the feat and the cost of the item. The minimum
@@ -143,19 +143,19 @@ time is one day.
 
 ### Item Cost:
  Craft Dorje, Imprint Stone, and Scribe Tattoo create items that directly reproduce the
-effects of powers, and the strength of these items depends on their manifester level---that is, a power from such an
+effects of powers, and the strength of these items depends on their manifester level--that is, a power from such an
 item has the strength it would have if manifested by a manifester of that level. Often, that is the minimum
 manifester level necessary to manifest the power. (Randomly discovered items usually follow this rule.) However,
-when making such an item, the item’s strength can be set higher than the minimum. Any time a character creates an
-item using a power augmented by spending additional power points, the character’s effective manifester level for
-the purpose of calculating the item’s cost increases by 1 for each 1 additional power point spent. (Augmentation
+when making such an item, the item's strength can be set higher than the minimum. Any time a character creates an
+item using a power augmented by spending additional power points, the character's effective manifester level for
+the purpose of calculating the item's cost increases by 1 for each 1 additional power point spent. (Augmentation
 is a feature of many powers that allows the power to be amplified in various ways if additional power points are
 spent.) All other level-dependent parameters of the power forged into the item are set according to the effective
 manifester level.
 
 The price of psionic items (and thus the XP cost and the cost of the raw materials) depends on the level of the
-power and a character’s manifester level. The character’s manifester level must be high enough that the item
-creator can manifest the power at the chosen level. To find the final price in each case, multiply the character’s
+power and a character's manifester level. The character's manifester level must be high enough that the item
+creator can manifest the power at the chosen level. To find the final price in each case, multiply the character's
 manifester level by the power level, then multiply the result by a constant, as shown below.
 
 _Power Stones:_ Base price = power level x manifester level x 25 gp
@@ -172,7 +172,7 @@ creator must pay fifty times the XP cost.
 Some psionic items similarly incur extra costs in XP, as noted in their descriptions.
 ## Metapsionic Feats
 
-As a manifester’s knowledge of psionics grows, he can learn to manifest powers in ways slightly different from how
+As a manifester's knowledge of psionics grows, he can learn to manifest powers in ways slightly different from how
 the powers were originally designed or learned. Of course, manifesting a power while using a metapsionic feat is
 more expensive than manifesting the power normally.
 
@@ -193,7 +193,7 @@ this rule.
 ### Effects of Metapsionic Feats on a Power:
  In all ways, a metapsionic power operates at its
 original power level, even though it costs additional power points. The modifications to a power made by a
-metapsionic feat have only their noted effect on the power. A manifester can’t use a metapsionic feat to alter a
+metapsionic feat have only their noted effect on the power. A manifester can't use a metapsionic feat to alter a
 power being cast from a power stone, dorje, or other device.
 
 Manifesting a power modified by the Quicken Power feat does not provoke attacks of opportunity.
@@ -202,16 +202,16 @@ Some metapsionic feats apply only to certain powers, as described in each specif
 ### Psionic Items and Metapsionic Powers:
  With the right psionic item creation feat, you can store a
 metapsionic power in a power stone, psionic tattoo, or dorje. Level limits for psionic tattoos apply to the
-power’s higher metapsionic level.
+power's higher metapsionic level.
 
-A character doesn’t need the appropriate metapsionic feat to activate an item in which a metapsionic power is
+A character doesn't need the appropriate metapsionic feat to activate an item in which a metapsionic power is
 stored, but does need the metapsionic feat to create such an item.
 
 ## Feat Descriptions
 These feat descriptions follow the standard format.
 ### Aligned Attack [Psionic]
 
-Your melee or ranged attack overcomes your opponent’s alignment-based damage reduction and deals additional
+Your melee or ranged attack overcomes your opponent's alignment-based damage reduction and deals additional
 damage.
 
 ### Prerequisite:
@@ -219,7 +219,7 @@ damage.
 
 ### Benefit:
  When you take this feat, choose either chaos, good, evil or law. (Your choice must match
-one of your alignment components. Once you’ve made this alignment choice, it cannot be changed.
+one of your alignment components. Once you've made this alignment choice, it cannot be changed.
 
 To use this feat, you must expend your psionic focus. When you make a successful melee or ranged attack, you deal
 an extra 1d6 points of damage, and your attack is treated as either a good, evil, chaotic, or lawful attack
@@ -234,7 +234,7 @@ Your spells are more potent when used against psionic characters and creatures.
  Spellcraft 5 ranks.
 
 ### Benefit:
- You get a get a +2 bonus on caster level checks made to overcome a psionic creature’s
+ You get a get a +2 bonus on caster level checks made to overcome a psionic creature's
 power resistance.
 
 This bonus stacks with the bonus conferred by Spell Penetration and Greater Spell Penetration. Moreover, whenever
@@ -289,7 +289,7 @@ thickness unless noted otherwise.
 
 If a power requires line of sight (which includes most powers that affect a target or targets instead of an area),
 you cannot manifest it as a burrowing power unless you can somehow see the target, such as with
-_clairvoyant sense_. Using this feat increases the power point cost of the power by 2. The power’s total cost
+_clairvoyant sense_. Using this feat increases the power point cost of the power by 2. The power's total cost
 cannot exceed your manifester level.
 
 ### Chain Power [Metapsionic]
@@ -306,7 +306,7 @@ Each target gets to make a saving throw, if one is allowed by the power. You cho
 but they must all be within 30 feet of the primary target, and no target can be struck more than once. You can
 choose to affect fewer secondary targets than the maximum (to avoid allies in the area, for example).
 
-Using this feat increases the power point cost of the power by 6. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 6. The power's total cost cannot exceed your
 manifester level.
 
 ### Chaotic Mind [General]
@@ -374,7 +374,7 @@ You can create slender crystal wands called dorjes than manifest powers when cha
 
 ### Benefit:
  You can create a dorje of any psionic power you know (barring exceptions, such as
-_bestow power_, as noted in a power’s description). Crafting a dorje takes one day for each 1,000 gp in its
+_bestow power_, as noted in a power's description). Crafting a dorje takes one day for each 1,000 gp in its
 base price. The base price of a dorje is its manifester level x the power level x 750 gp. To craft a dorje, you
 must spend 1/25 of this base price in XP and use up raw materials costing one-half of this base price.
 
@@ -392,7 +392,7 @@ You can create psicrowns, which have multiple psionic effects.
  You can create any psicrown whose prerequisites you meet. Crafting a psicrown takes one
 day for each 1,000 gp in its base price. To craft a psicrown, you must spend 1/25 of its base price in XP and use
 up raw materials costing one-half of its base price. Some psicrowns incur extra costs in XP as noted in their
-descriptions. These costs are in addition to those derived from the psicrown’s base price.
+descriptions. These costs are in addition to those derived from the psicrown's base price.
 
 ### Craft Psionic Arms and Armor [Item Creation]
 You can create psionic weapons, armor, and shields.
@@ -402,7 +402,7 @@ You can create psionic weapons, armor, and shields.
 ### Benefit:
  You can create any psionic weapon, armor, or shield whose prerequisites you meet.
 Enhancing a weapon, suit of armor, or shield takes one day for each 1,000 gp in the price of its psionic features.
-To enhance a weapon, you must spend 1/25 of its features’ total price in XP and use up raw materials costing
+To enhance a weapon, you must spend 1/25 of its features' total price in XP and use up raw materials costing
 one-half of this total price.
 
 The weapon, armor, or shield to be enhanced must be a masterwork item that you provide. Its cost is not included
@@ -419,7 +419,7 @@ You can create golems and other psionic automatons that obey your orders.
 
 ### Benefit:
  You can create any psionic construct whose prerequisites you meet. Creating a construct
-takes one day for each 1,000 gp in its base price. To create a construct, you must spend 1/25 of the construct’s
+takes one day for each 1,000 gp in its base price. To create a construct, you must spend 1/25 of the construct's
 base price in XP and use up raw materials costing one-half of this price. A newly created construct has average
 hit points for its Hit Dice.
 
@@ -431,13 +431,13 @@ You can create universal psionic items.
 ### Benefit:
  You can create any universal psionic item whose prerequisites you meet. Crafting a
 universal psionic item takes one day for each 1,000 gp in its base price. To craft a universal psionic item, you
-must spend 1/25 of the item’s base price in XP and use up raw materials costing one-half of this price.
+must spend 1/25 of the item's base price in XP and use up raw materials costing one-half of this price.
 
 You can also mend a broken universal item if it is one that you could make. Doing so costs half the XP, half the
 raw materials, and half the time it would take to craft that item in the first place.
 
 Some universal items incur extra costs in XP, as noted in their descriptions. These costs are in addition to those
-derived from the item’s base price. You must pay such a cost to create an item or to mend a broken one.
+derived from the item's base price. You must pay such a cost to create an item or to mend a broken one.
 
 ### Deadly Precision [General]
 You empty your mind of all distracting emotion, becoming an instrument of deadly precision.
@@ -446,7 +446,7 @@ You empty your mind of all distracting emotion, becoming an instrument of deadly
 
 ### Benefit:
  You have deadly accuracy with your sneak attacks. You can reroll any result of 1 on your
-sneak attack’s extra damage dice. You must keep the result of the reroll, even if it is another 1.
+sneak attack's extra damage dice. You must keep the result of the reroll, even if it is another 1.
 
 ### Deep Impact [Psionic]
 You can strike your foe with a melee weapon as if making a touch attack.
@@ -463,7 +463,7 @@ You can manifest powers that go off up to 5 rounds later.
 
 ### Benefit:
  To use this feat, you must expend your psionic focus. You can manifest a power as a
-delayed power. A delayed power doesn’t activate immediately. When you manifest the power, you choose one of three
+delayed power. A delayed power doesn't activate immediately. When you manifest the power, you choose one of three
 trigger mechanisms: (1) The power activates when you take a standard action to activate it; (2) It activates when
 a creature enters the area that the power will affect (only powers that affect areas can use this trigger
 condition); or (3) It activates on your turn after 5 rounds pass. If you choose one of the first two triggers and
@@ -478,7 +478,7 @@ including saving throws, are decided when the delay period ends.
 A delayed power can be dispelled normally during the delay, and can be detected normally in the area or on the
 target by the use of powers that can detect psionic effects.
 
-Using this feat increases the power point cost of the power by 2. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 2. The power's total cost cannot exceed your
 manifester level.
 
 ### Empower Power [Metapsionic]
@@ -492,7 +492,7 @@ as many targets, and so forth, as appropriate. Augmented powers can also be empo
 damage total of the augmented power). Saving throws and opposed checks (such as the one you make when you manifest
 _dispel psionics_) are not affected, nor are powers without random variables.
 
-Using this feat increases the power point cost of the power by 2. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 2. The power's total cost cannot exceed your
 manifester level.
 
 ### Enlarge Power [Metapsionic]
@@ -515,8 +515,8 @@ You learn another power.
 
 ### Benefit:
  Add to your powers known one additional power of any level up to one level lower than
-the highest-level power you can manifest. You can choose any power, including powers from another discipline’s
-list or even from another class’s list.
+the highest-level power you can manifest. You can choose any power, including powers from another discipline's
+list or even from another class's list.
 
 ### Special:
  You can gain this feat multiple times. Each time, you learn one new power at any level
@@ -530,7 +530,7 @@ You can manifest powers that last longer than normal.
 You can manifest an extended power. An extended power lasts twice as long as normal. A power with a duration of
 concentration, instantaneous, or permanent is not affected by this feat.
 
-Using this feat increases the power point cost of the power by 2. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 2. The power's total cost cannot exceed your
 manifester level.
 
 ### Fell Shot [Psionic]
@@ -546,18 +546,18 @@ You must decide whether or not to use this feat prior to making an attack. If yo
 your psionic focus.
 
 ### Focused Sunder [Psionic]
-You can sense the stress points on others’ weapons.
+You can sense the stress points on others' weapons.
 ### Prerequisite:
  Str 13, Power Attack, Improved Sunder.
 ### Benefit:
  To use this feat, you must expend your psionic focus.
 
-When you strike at an opponent’s weapon, you ignore half of the weapon’s total hardness (round down). Total
+When you strike at an opponent's weapon, you ignore half of the weapon's total hardness (round down). Total
 hardness includes any magical or psionic enhancements possessed by the weapon that increase its hardness.
 
 ### Special:
  You can also sense the stress points in any hard construction, such as wooden doors or
-stone walls, and can ignore half of the object’s total hardness (round down) when attacking that object.
+stone walls, and can ignore half of the object's total hardness (round down) when attacking that object.
 
 ### Force of Will [General]
 You are able to resist psionic attacks with extreme force of will.
@@ -606,7 +606,7 @@ Your powers are especially potent at breaking through power resistance.
 
 ### Benefit:
  To use this feat, you must expend your psionic focus. You get a +4 bonus on manifester
-level checks to overcome a creature’s power resistance. This bonus stacks with the bonus from Power Penetration.
+level checks to overcome a creature's power resistance. This bonus stacks with the bonus from Power Penetration.
 
 ### Greater Power Specialization [Psionic]
 You deal more damage with your powers.
@@ -692,14 +692,14 @@ You can upgrade your psicrystal.
 
 ### Benefit:
  You can implant another personality fragment in your psicrystal. You gain the benefits
-of both psicrystal personalities. Your psicrystal’s personality adjusts and becomes a blend between all implanted
+of both psicrystal personalities. Your psicrystal's personality adjusts and becomes a blend between all implanted
 personality fragments. From now on, when determining the abilities of your psicrystal, treat your manifester level
 as one higher than your normal manifester level.
 
 ### Special:
  You can gain this feat multiple times. Each time, you implant a new personality fragment
 in your psicrystal, from which you derive the noted benefits, and you treat your level as one higher for the
-purpose of determining your psicrystal’s abilities.
+purpose of determining your psicrystal's abilities.
 
 ### Inquisitor [Psionic]
 You know when others lie.
@@ -710,7 +710,7 @@ You know when others lie.
 You gain a +10 bonus on a Sense Motive check to oppose a Bluff check.
 
 You must decide whether or not to use this feat prior to making a Sense Motive check. If your check fails, or if
-the opponent isn’t lying, you still expend your psionic focus.
+the opponent isn't lying, you still expend your psionic focus.
 
 ### Maximize Power [Metapsionic]
 You can manifest powers to maximum effect.
@@ -728,7 +728,7 @@ points, and so on) of the augmented power.
 An empowered and maximized power gains the separate benefits of each feat: the maximum result plus one-half the
 normally rolled result.
 
-Using this feat increases the power point cost of the power by 4. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 4. The power's total cost cannot exceed your
 manifester level.
 
 ### Mental Leap [Psionic]
@@ -764,7 +764,7 @@ You can gain a supernatural ability of a metamorphed form.
 
 ### Benefit:
  Each time you change your form, such as through the _metamorphosis_ power, you gain
-one of the new form’s supernatural abilities, if it has any.
+one of the new form's supernatural abilities, if it has any.
 
 You gain only three uses of the metamorphic ability per day, even if the creature into which you metamorph has a
 higher limit on uses (You are still subject to other restrictions on the use of the ability.) The save DC to
@@ -820,7 +820,7 @@ opportunity, you can use any power you know with a range of touch, if you have a
 Manifesting this power is an immediate action.
 You cannot use this feat with a touch power whose manifesting time is longer than 1 full-round action.
 
-Using this feat increases the power point cost of the power by 6. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 6. The power's total cost cannot exceed your
 manifester level.
 
 ### Normal:
@@ -845,7 +845,7 @@ Your powers are especially potent, breaking through power resistance more readil
 
 ### Benefit:
  To use this feat, you must expend your psionic focus. You get a +4 bonus on manifester
-level checks made to overcome a creature’s power resistance.
+level checks made to overcome a creature's power resistance.
 
 ### Power Specialization [Psionic]
 You deal more damage with your powers.
@@ -870,9 +870,9 @@ Your psicrystal has advanced enough that it can hold a psionic focus that you st
 
 ### Benefit:
  You can spend a full-round action attempting to psionically focus your psicrystal. At
-any time when you need to expend your psionic focus, you can expend your psicrystal’s psionic focus instead, as
+any time when you need to expend your psionic focus, you can expend your psicrystal's psionic focus instead, as
 long as the crystal is within 5 feet of you. Psionically focusing your psicrystal works just like focusing
-yourself. The psicrystal cannot focus itself---only the owner can spend the time to focus the crystal.
+yourself. The psicrystal cannot focus itself--only the owner can spend the time to focus the crystal.
 
 ### Psionic Affinity [General]
 You have a knack for psionic endeavors.
@@ -983,7 +983,7 @@ Your attack with a melee weapon deals an extra 2d6 points of damage. You must de
 feat prior to making an attack. If your attack misses, you still expend your psionic focus.
 
 ### Quicken Power [Metapsionic]
-You can manifest a power with a moment’s thought.
+You can manifest a power with a moment's thought.
 
 ### Benefit:
  To use this feat, you must expend your psionic focus. You can quicken a power. You can
@@ -991,7 +991,7 @@ perform another action, even manifest another power, in the same round that you 
 can manifest only one quickened power per round. A power whose manifesting time is longer than 1 round cannot be
 quickened.
 
-Using this feat increases the power point cost of the power by 6. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 6. The power's total cost cannot exceed your
 manifester level.
 
 Manifesting a quickened power does not provoke attacks of opportunity.
@@ -1079,7 +1079,7 @@ You can affect two targets with a single ray.
 
 ### Benefit:
  To use this feat, you must expend your psionic focus. You can split psionic rays you
-manifest. The split ray affects any two targets that are both within the power’s range and within 30 feet of each
+manifest. The split ray affects any two targets that are both within the power's range and within 30 feet of each
 other. If the ray deals damage, each target takes as much damage as a single target would take.
 
 Using this feat increases the power point cost of the power by 2.
@@ -1089,7 +1089,7 @@ You can prevent foes from fleeing or closing.
  Str 13.
 
 ### Benefit:
- When a foe’s movement out of a square you threaten grants you an attack of opportunity,
+ When a foe's movement out of a square you threaten grants you an attack of opportunity,
 you can give up that attack and instead attempt to stop your foe in his tracks. Make your attack of opportunity
 normally. If you hit your foe, he must succeed on a Reflex save against a DC of 10 + your damage roll (the
 opponent does not actually take damage), or immediately halt as if he had used up his move actions for the round.
@@ -1121,7 +1121,7 @@ some cases, such as a twinned _psionic charm_, failing both saving throws result
 (although, in this example, any ally of the target would have to succeed on two dispel attempts to free the target
 from the charm effect).
 
-Using this feat increases the power point cost of the power by 6. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 6. The power's total cost cannot exceed your
 manifester level.
 
 ### Unavoidable Strike [Psionic]
@@ -1146,7 +1146,7 @@ _confused,_ nauseated, shaken, or stunned.
 
 Only personal powers and powers that affect your person can be manifested as unconditional powers.
 
-Using this feat increases the power point cost of the power by 8. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 8. The power's total cost cannot exceed your
 manifester level.
 
 ### Up the Walls [Psionic]
@@ -1175,9 +1175,9 @@ You can increase the area of your powers.
 ### Benefit:
  To use this feat, you must expend your psionic focus. You can alter a burst, emanation,
 line, or spread-shaped power to increase its area. (Powers that do not have an area of one of these four sorts are
-not affected by this feat.) Any numeric measurements of the power’s area increase by 100%.
+not affected by this feat.) Any numeric measurements of the power's area increase by 100%.
 
-Using this feat increases the power point cost of the power by 4. The power’s total cost cannot exceed your
+Using this feat increases the power point cost of the power by 4. The power's total cost cannot exceed your
 manifester level.
 
 ### Wild Talent [General]

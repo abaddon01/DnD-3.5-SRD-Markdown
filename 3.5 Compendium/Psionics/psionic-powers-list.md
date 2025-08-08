@@ -1,21 +1,21 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Psionics - Psionic Powers List
-aliases: 3.5 Psionic Powers List
+aliases:
+  - 3.5 Psionic Powers List
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - psionics
   - psionic_powers_list
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
 # POWER LIST
 
-An <sup>A</sup>appearing at the end of a power’s name in the power lists denotes an augmentable power. An
+An <sup>A</sup>appearing at the end of a power's name in the power lists denotes an augmentable power. An
 <sup>X</sup>denotes a power with an XP component paid by the manifester.
 
 ### Power Chains:
@@ -27,15 +27,15 @@ point cost.
 
 ### Order of Presentation:
  In the power lists and the power descriptions that follow them, the powers
-are presented in alphabetical order by name---except for those belonging to certain power chains and those that are
-psionic equivalents of spells. When a power’s name begins with "lesser," "greater," "mass," or a similar kind of
+are presented in alphabetical order by name--except for those belonging to certain power chains and those that are
+psionic equivalents of spells. When a power's name begins with "lesser," "greater," "mass," or a similar kind of
 qualifier, the power description is alphabetized under the second word of the power description instead. When the
-effect of a power is essentially the same as that of a spell, the power’s name is simply "Psionic" followed by the
+effect of a power is essentially the same as that of a spell, the power's name is simply "Psionic" followed by the
 name of the spell, and it is alphabetized according to the spell name.
 
 ### Manifester Level:
- A power’s effect often depends on the manifester level, which is the
-manifester’s psionic class level. A creature with no classes has a manifester level equal to its Hit Dice unless
+ A power's effect often depends on the manifester level, which is the
+manifester's psionic class level. A creature with no classes has a manifester level equal to its Hit Dice unless
 otherwise specified. The word "level" in the power lists always refers to manifester level.
 
 ### Creatures and Characters:
@@ -104,7 +104,7 @@ spend on manifesting the power.
 ### Daze, Psionic<sup>A</sup>:
  Humanoid creature of 4 HD or less loses next action.
 ### Deceleration<sup>A</sup>:
- Target’s speed is halved.
+ Target's speed is halved.
 ### Déjà Vu<sup>A</sup>:
  Your target repeats his last action.
 ### Demoralize<sup>A</sup>:
@@ -122,7 +122,7 @@ spend on manifesting the power.
  An astral construct gains bonus against _dismiss ectoplasm_.
 
 ### Empathy<sup>A</sup>:
- You know the subject’s surface emotions.
+ You know the subject's surface emotions.
 ### Empty Mind<sup>A</sup>:
  You gain +2 on Will saves until your next action.
 ### Energy Ray<sup>A</sup>:
@@ -164,7 +164,7 @@ spend on manifesting the power.
 ### Synesthete:
  You receive one kind of sense when another sense is stimulated.
 ### Telempathic Projection:
- Alter the subject’s mood.
+ Alter the subject's mood.
 ### Vigor<sup>A</sup>:
  Gain 5 temporary hit points.
 ### 2nd-Level Psion/Wilder Powers
@@ -175,7 +175,7 @@ spend on manifesting the power.
 ### Body Equilibrium:
  You can walk on nonsolid surfaces.
 ### Cloud Mind:
- You erase knowledge of your presence from target’s mind.
+ You erase knowledge of your presence from target's mind.
 ### Concealing Amorpha:
  Quasi-real membrane grants you concealment.
 ### Concussion Blast<sup>A</sup>:
@@ -197,7 +197,7 @@ spend on manifesting the power.
 ### Energy Stun<sup>A</sup>:
  Deal 1d6 damage and stun target if it fails both saves.
 ### Feat Leech<sup>A</sup>:
- Borrow another’s psionic or metapsionic feats.
+ Borrow another's psionic or metapsionic feats.
 ### Id Insinuation<sup>A</sup>:
  Swift tendrils of thought disrupt and confuse your target.
 ### Identify, Psionic:
@@ -258,7 +258,7 @@ once each round.
 ### Eradicate Invisibility<sup>A</sup>:
  Negate invisibility in 50-ft. burst.
 ### Keen Edge, Psionic:
- Doubles normal weapon’s threat range.
+ Doubles normal weapon's threat range.
 ### Mental Barrier<sup>A</sup>:
  Gain +4 deflection bonus to AC until your next action.
 
@@ -308,10 +308,10 @@ once each round.
 psi-like abilities until your next action.
 
 ### Mindwipe<sup>A</sup>:
- Subject’s recent experiences wiped away, bestowing negative levels.
+ Subject's recent experiences wiped away, bestowing negative levels.
 
 ### Personality Parasite:
- Subject’s mind calves self-antagonistic splinter personality for 1
+ Subject's mind calves self-antagonistic splinter personality for 1
 round/level.
 
 ### Power Leech:
@@ -326,7 +326,7 @@ levels.
 target.
 
 ### Trace Teleport<sup>A</sup>:
- Learn destination of subject’s _teleport_.
+ Learn destination of subject's _teleport_.
 ### Wall of Ectoplasm:
  You create a protective barrier.
 ### 5th-Level Psion/Wilder Powers
@@ -350,11 +350,11 @@ target.
  Grant PR equal to 12 + level.
 
 ### Psychic Crush<sup>A</sup>:
- Brutally crush subject’s mental essence, reducing subject to -1 hit
+ Brutally crush subject's mental essence, reducing subject to -1 hit
 points.
 
 ### Shatter Mind Blank:
- Cancels target’s _mind blank_ effect.
+ Cancels target's _mind blank_ effect.
 
 ### Tower of Iron Will<sup>A</sup>:
  Grant PR 19 against mind-affecting powers to all creatures within
@@ -372,11 +372,11 @@ points.
 ### Contingency, Psionic<sup>X</sup>:
  Sets trigger condition for another power.
 ### Co-opt Concentration:
- Take control of foe’s concentration power.
+ Take control of foe's concentration power.
 ### Disintegrate, Psionic<sup>A</sup>:
  Turn one creature or object to dust.
 ### Fuse Flesh<sup>A</sup>:
- Fuse subject’s flesh, creating a helpless mass.
+ Fuse subject's flesh, creating a helpless mass.
 ### Overland Flight, Psionic:
  You fly at a speed of 40 ft. and can hustle over long distances.
 
@@ -391,11 +391,11 @@ points.
  Your time frame accelerates for 1 round.
 ### 7th-Level Psion/Wilder Powers
 ### Decerebrate:
- Remove portion of subject’s brain stem.
+ Remove portion of subject's brain stem.
 ### Divert Teleport:
- Choose destination for another’s _teleport_.
+ Choose destination for another's _teleport_.
 ### Energy Conversion:
- Offensively channel energy you’ve absorbed.
+ Offensively channel energy you've absorbed.
 ### Energy Wave<sup>A</sup>:
  Deal 13d4 damage of your chosen energy type in 120-ft. cone.
 ### Evade Burst<sup>A</sup>:
@@ -426,7 +426,7 @@ comatose.
 ### Iron Body, Psionic:
  Your body becomes living iron.
 ### Matter Manipulation<sup>X</sup>:
- Increase or decrease an object’s base hardness by 5.
+ Increase or decrease an object's base hardness by 5.
 
 ### Mind Blank, Psionic:
  Subject immune to mental/emotional effects, scrying, and remote viewing.
@@ -446,7 +446,7 @@ arrival.
 ### Affinity Field:
  Effects that affect you also affect others.
 ### Apopsi<sup>X</sup>:
- You delete target’s psionic powers.
+ You delete target's psionic powers.
 ### Assimilate:
  Incorporate creature into your own body.
 ### Etherealness, Psionic:
@@ -464,7 +464,7 @@ arrival.
 
 | 1 | **Thicken Skin<sup>A</sup>:** Gain +1 enhancement bonus to your AC for 10 min./level. |
 | --- | --- |
-| 2 | **Animal Affinity<sup>A</sup>:** Gain +4 enhancement to one ability. **Chameleon:** Gain +10 enhancement bonus on Hide checks. **Empathic Transfer<sup>A</sup>:** Transfer another’s wounds to yourself. |
+| 2 | **Animal Affinity<sup>A</sup>:** Gain +4 enhancement to one ability. **Chameleon:** Gain +10 enhancement bonus on Hide checks. **Empathic Transfer<sup>A</sup>:** Transfer another's wounds to yourself. |
 | 3 | **Ectoplasmic Form:** You gain benefits of being insubstantial and can fly slowly. **Hustle:** Instantly gain a move action. |
 | 4 | **Metamorphosis:** Assume shape of creature or object. **Psychic Vampire:** Touch attack drains 2 power points/level from foe. |
 | 5 | **Psionic Revivify<sup>AX</sup>:** Return the dead to life before the psyche leaves the corpse. **Psychofeedback:** Boost Strength, Dexterity, or Constitution at the expense of one or more other scores. **Restore Extremity:** Return a lost digit, limb, or other appendage to subject. |
@@ -479,7 +479,7 @@ arrival.
 | --- | --- |
 | 2 | **Control Air<sup>A</sup>:** You have control over wind speed and direction. **Energy Missile<sup>A</sup>:** Deal 3d6 energy damage to up to five subjects. |
 | 3 | **Energy Cone<sup>A</sup>:** Deal 5d6 energy damage in 60-ft. cone. |
-| 4 | **Control Body<sup>A</sup>:** Take rudimentary control of your foe’s limbs. **Energy Ball<sup>A</sup>:** Deal 7d6 energy damage in 20-ft. radius. **Inertial Barrier:** Gain DR 5/-. |
+| 4 | **Control Body<sup>A</sup>:** Take rudimentary control of your foe's limbs. **Energy Ball<sup>A</sup>:** Deal 7d6 energy damage in 20-ft. radius. **Inertial Barrier:** Gain DR 5/-. |
 | 5 | **Energy Current<sup>A</sup>:** Deal 9d6 damage to one foe and half to another foe as long as you concentrate. **Fiery Discorporation<sup>A</sup>:** Cheat death by discorporating into nearby fire for one day. |
 | 6 | **Dispelling Buffer:** Subject is buffered from one _dispel psionics_ effect. **Null Psionics Field:** Create a field where psionic power does not function. |
 | 7 | **Reddopsi:** Powers targeting you rebound on manifester. |
@@ -503,7 +503,7 @@ arrival.
 
 | 1 | **Destiny Dissonance:** Your dissonant touch sickens a foe. **Precognition:** Gain +2 insight bonus to one roll. |
 | --- | --- |
-| 2 | **Clairvoyant Sense:** See and hear a distant location. **Object Reading<sup>A</sup>:** Learn details about an object’s previous owner. **Sensitivity to Psychic Impressions:** You can find out about an area’s past. |
+| 2 | **Clairvoyant Sense:** See and hear a distant location. **Object Reading<sup>A</sup>:** Learn details about an object's previous owner. **Sensitivity to Psychic Impressions:** You can find out about an area's past. |
 | 3 | **Escape Detection:** You become difficult to detect with clairsentience powers. **Fate Link<sup>A</sup>:** You link the fates of two targets. |
 | 4 | **Anchored Navigation<sup>A</sup>:** Establish a mishap-free _teleport_ beacon. **Remote Viewing<sup>X</sup>:** See, hear, and potentially interact with subjects at a distance. |
 | 5 | **Clairtangent Hand<sup>A</sup>:** Emulate _far hand_ at a distance. **Second Chance<sup>X</sup>:** Gain a reroll. |
@@ -517,7 +517,7 @@ arrival.
 | 1 | **Astral Construct<sup>A</sup>:** Creates astral construct to fight for you. **Minor Creation, Psionic:** Creates one cloth or wood object. |
 | --- | --- |
 | 2 | **Psionic Repair Damage:** Repairs construct of 3d8 hit points +1 hp/level. |
-| 3 | **Concealing Amorpha, Greater:** Quasi-real membrane grants you total concealment. **Ectoplasmic Cocoon<sup>A</sup>:** You encapsulate a foe so it can’t move. |
+| 3 | **Concealing Amorpha, Greater:** Quasi-real membrane grants you total concealment. **Ectoplasmic Cocoon<sup>A</sup>:** You encapsulate a foe so it can't move. |
 | 4 | **Fabricate, Psionic:** Transforms raw goods to finished items. **Quintessence:** You collapse a bit of time into a physical substance. |
 | 5 | **Hail of Crystals<sup>A</sup>:** A crystal explodes in an area, dealing 9d4 slashing damage. |
 | 6 | **Crystallize:** Turn subject permanently to crystal. **Fabricate, Greater Psionic:** Transforms a lot of raw goods to finished items. |
@@ -530,11 +530,11 @@ arrival.
 | 1 | **Charm, Psionic<sup>A</sup>:** Makes one person your friend. **Mindlink<sup>A</sup>:** You forge a limited mental bond with another creature. |
 | --- | --- |
 | 2 | **Aversion<sup>A</sup>:** Subject has aversion you specify. **Brain Lock<sup>A</sup>:** Subject cannot move or take any mental actions. **Read Thoughts:** Detect surface thoughts of creatures in range. **Suggestion, Psionic:** Compels subject to follow stated course of action. |
-| 3 | **Crisis of Breath<sup>A</sup>:** Disrupt subject’s breathing. **Empathic Transfer, Hostile<sup>A</sup>:** Your touch transfers your hurt to another. **False Sensory Input<sup>A</sup>:** Subject sees what isn’t there. |
-| 4 | **Dominate, Psionic<sup>A</sup>:** Control target telepathically. **Mindlink, Thieving<sup>A</sup>:** Borrow knowledge of a subject’s power. **Modify Memory, Psionic:** Changes 5 minutes of subject’s memories. **Schism:** Your partitioned mind can manifest lower level powers. |
-| 5 | **Metaconcert<sup>A</sup>:** Mental concert of two or more increases the total power of the participants. **Mind Probe:** You discover the subject’s secret thoughts. |
+| 3 | **Crisis of Breath<sup>A</sup>:** Disrupt subject's breathing. **Empathic Transfer, Hostile<sup>A</sup>:** Your touch transfers your hurt to another. **False Sensory Input<sup>A</sup>:** Subject sees what isn't there. |
+| 4 | **Dominate, Psionic<sup>A</sup>:** Control target telepathically. **Mindlink, Thieving<sup>A</sup>:** Borrow knowledge of a subject's power. **Modify Memory, Psionic:** Changes 5 minutes of subject's memories. **Schism:** Your partitioned mind can manifest lower level powers. |
+| 5 | **Metaconcert<sup>A</sup>:** Mental concert of two or more increases the total power of the participants. **Mind Probe:** You discover the subject's secret thoughts. |
 | 6 | **Mind Switch<sup>A, X</sup>:** You switch minds with another. |
-| 7 | **Crisis of Life<sup>A</sup>:** Stop subject’s heart. |
+| 7 | **Crisis of Life<sup>A</sup>:** Stop subject's heart. |
 | 8 | **Mind Seed<sup>X</sup>:** Subject slowly becomes you. |
 | 9 | **Mind Switch, True<sup>X</sup>:** A permanent brain swap. **Psychic Chirurgery<sup>X</sup>:** You repair psychic damage or impart knowledge of new powers. |
 
@@ -632,11 +632,11 @@ arrival.
 ### Dissolving Weapon<sup>A</sup>:
  Your weapon deals 4d6 acid damage.
 ### Empathic Transfer<sup>A</sup>:
- Transfer another’s wounds to yourself.
+ Transfer another's wounds to yourself.
 ### Energy Adaptation, Specified<sup>A</sup>:
  Gain resistance 10 to one energy type.
 ### Feat Leech<sup>A</sup>:
- Borrow another’s psionic or metapsionic feats.
+ Borrow another's psionic or metapsionic feats.
 ### Hustle:
  Instantly gain a move action.
 ### Levitate, Psionic:
@@ -647,10 +647,10 @@ arrival.
  Instantly gain another attack of opportunity.
 ### Psionic Scent:
  Gain the scent ability.
-### Psionic Lion’s Charge<sup>A</sup>:
+### Psionic Lion's Charge<sup>A</sup>:
  You can make full attack in same round you charge.
 ### Strength of My Enemy<sup>A</sup>:
- Siphon away your enemy’s strength and grow stronger.
+ Siphon away your enemy's strength and grow stronger.
 ### Sustenance:
  You can go without food and water for one day.
 ### Thought Shield<sup>A</sup>:
@@ -659,7 +659,7 @@ arrival.
  Grants ability to walk on walls and ceilings.
 ### 3rd-Level Psychic Warrior Powers
 ### Claws of the Vampire:
- Heal half of your claw’s base damage.
+ Heal half of your claw's base damage.
 ### Concealing Amorpha, Greater:
  Quasi-real membrane grants you total concealment.
 ### Danger Sense:
@@ -667,7 +667,7 @@ arrival.
 ### Dimension Slide<sup>A</sup>:
  Teleports you very short distance.
 ### Duodimensional Claw:
- Increases your natural weapon’s threat range.
+ Increases your natural weapon's threat range.
 ### Ectoplasmic Form:
  You gain benefits of being insubstantial and can fly slowly.
 ### Empathic Feedback<sup>A</sup>:
@@ -685,7 +685,7 @@ arrival.
 ### Graft Weapon:
  Your hand is replaced seamlessly by your weapon.
 ### Keen Edge, Psionic:
- Doubles normal weapon’s threat range.
+ Doubles normal weapon's threat range.
 ### Mental Barrier<sup>A</sup>:
  Gain +4 deflection bonus to AC until your next action.
 ### Ubiquitous Vision:

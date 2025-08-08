@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Epic - Epic Feats
-aliases: 3.5 Epic Feats
+aliases:
+  - 3.5 Epic Feats
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - epic
   - epic_feats
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -206,13 +206,13 @@ the list of bonus epic feats for that class.
 Most epic feats have prerequisites. A character must have the listed ability score, feat, skill, class feature, or
 base attack modifier in order to select or use that feat. A character can gain an epic feat at the same level at
 which he or she gains the prerequisite, just as with regular feats. A prerequisite expressed as a numerical value
-is a minimum; any value higher than the one given also meets the prerequisite. A character can’t use an epic feat
+is a minimum; any value higher than the one given also meets the prerequisite. A character can't use an epic feat
 if he or she has lost a prerequisite.
 
 ## Types of Epic Feats
 
 Most epic feats are general, meaning that no special rules govern them as a group. Others may be item creation
-feats or metamagic feats, which follow all the normal rules for such feats, except as specified in the feat’s
+feats or metamagic feats, which follow all the normal rules for such feats, except as specified in the feat's
 description. In addition, some feats are defined as divine feats or as wild feats. Such feats are described below.
 
 ### Divine Feats
@@ -222,7 +222,7 @@ The feats in this category share a few characteristics. First, they all have as 
 prestige class that has that ability. (An ability to turn other creatures does not qualify a character to select
 one of these feats.) Second, the force that powers a divine feat is the ability to channel positive or negative
 energy to turn or rebuke undead. Each use of a divine feat costs the character one turn/rebuke attempt from his or
-her number of attempts each day. If a character doesn’t have any turn/rebuke attempts left, he or she can’t use
+her number of attempts each day. If a character doesn't have any turn/rebuke attempts left, he or she can't use
 the feat. Since turning or rebuking is a standard action, activating any of these feats is also a standard action.
 
 ### Wild Feats
@@ -236,8 +236,8 @@ Psionic characters can acquire epic "psionically flavored" feats. Some feats req
 converted feats are provided. Whenever a feat concerns conferring or altering a spell in some fashion, some
 translation must be done to use it with psionics. Sometimes this translation is as straightforward as changing a
 few names. Translating epic metamagic feats to epic metapsionic feats requires that Spellcraft prerequisites be
-replaced with Psicraft. It also requires a little math---instead of casting a spell at a higher level, a psionic
-character pays more power points. For every spell slot one level higher than the spell’s actual level the
+replaced with Psicraft. It also requires a little math--instead of casting a spell at a higher level, a psionic
+character pays more power points. For every spell slot one level higher than the spell's actual level the
 metamagic feat requires, the metapsionic feat requires a character to pay a power point cost equal to its standard
 cost +2. Likewise, when a feat allows a spellcaster to "pay" one less level to use a metamagic feat, the psionic
 version allows a character to pay 2 power points less for a given metapsionic feat.
@@ -275,9 +275,9 @@ natural armor bonus increases by 1.
 ### Benefit:
  Whenever creating an alchemical item or substance, the character can choose to make it
 more powerful than normal by adding +20 to the DC required to create it and multiplying its price by 5. If the
-item or substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the
-duration of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration
-(or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of
+item or substance deals damage, double the damage dealt. If the item or substance doesn't deal damage, double the
+duration of its effect. If the item or substance doesn't deal damage and doesn't have a specific listed duration
+(or has an instantaneous duration), double all dimensions of its area. If the item or substance doesn't fit any of
 these categories, then it cannot be affected by this feat. See the Craft (alchemy) skill description.
 
 ### Automatic Quicken Spell [Epic]
@@ -289,12 +289,12 @@ spells.
 ### Benefit:
  The character may cast all 0-, 1st-, 2nd-, and 3rd-level spells as quickened spells
 without using higher-level spell slots. The normal limit to the number of quickened spells a character may cast
-per round applies. Spells with a casting time of more than 1 full round can’t be quickened.
+per round applies. Spells with a casting time of more than 1 full round can't be quickened.
 
 ### Special:
  A character can gain this feat multiple times. Each time a character takes the feat, the
 spells of his or her next three lowest spell levels can now be quickened with no adjustment to their spell slots.
-This feat doesn’t increase the casting time for those spells that normally become full-round actions when cast in
+This feat doesn't increase the casting time for those spells that normally become full-round actions when cast in
 metamagic form.
 
 ### Automatic Silent Spell [Epic]
@@ -310,8 +310,8 @@ using higher-level spell slots.
 ### Special:
  A character can gain this feat multiple times. Each time a character takes the feat, the
 spells of his or her next three lowest spell levels can now be silenced with no adjustment to their spell slots.
-This feat doesn’t increase the casting time for those spells that normally become full-round actions when cast in
-metamagic form. However, since bard spells can’t be enhanced with the Silent Spell feat, they can’t be affected by
+This feat doesn't increase the casting time for those spells that normally become full-round actions when cast in
+metamagic form. However, since bard spells can't be enhanced with the Silent Spell feat, they can't be affected by
 this feat either.
 
 ### Automatic Still Spell [Epic]
@@ -327,7 +327,7 @@ without using higher-level spell slots.
 ### Special:
  A character can gain this feat multiple times. Each time a character takes the feat, the
 spells of his or her next three lowest spell levels can now be stilled with no adjustment to their spell slots.
-This feat doesn’t increase the casting time for those spells that normally become full-round actions when cast in
+This feat doesn't increase the casting time for those spells that normally become full-round actions when cast in
 metamagic form.
 
 ### Bane of Enemies [Epic]
@@ -337,7 +337,7 @@ metamagic form.
 ### Benefit:
  Any weapon the character wields against one of his or her favored enemies is treated as
 a bane weapon for that creature type (thus, its enhancement bonus is increased by +2 and it deals +2d6 points of
-damage). This ability doesn’t stack with similar abilities.
+damage). This ability doesn't stack with similar abilities.
 
 ### Blinding Speed [Epic]
 ### Prerequisite:
@@ -356,8 +356,8 @@ grants an additional 5 rounds of _haste_ per day.
  Wis 21, ability to cast 9th-level divine spells.
 
 ### Benefit:
- Choose an additional domain from the character’s deity’s domain list. The character now
-has access to that domain’s spells as normal for his or her domain spells and the domain’s granted powers.
+ Choose an additional domain from the character's deity's domain list. The character now
+has access to that domain's spells as normal for his or her domain spells and the domain's granted powers.
 
 ### Special:
  A character can gain this feat multiple times. Each time he or she takes the feat, it
@@ -368,7 +368,7 @@ applies to a different domain.
  Con 25, defensive stance 3/day.
 
 ### Benefit:
- The character’s defensive stance bonuses increase to +4 Strength, +6 Constitution, +4
+ The character's defensive stance bonuses increase to +4 Strength, +6 Constitution, +4
 resistance bonus on all saves, and +6 dodge bonus to AC.
 
 ### Chaotic Rage [Epic]
@@ -448,12 +448,12 @@ or her damage reduction increases by 3.
 
 ### Benefit:
  The character can use song or poetics to temporarily deafen all enemies within a 30-foot
-spread from him or her. A successful Fortitude save (DC 10 + 1/2 the character’s class level + the character’s
+spread from him or her. A successful Fortitude save (DC 10 + 1/2 the character's class level + the character's
 Charisma modifier) negates the effect. The deafening effect lasts for as long as the character continues the
 deafening song. The character can choose to exclude any characters from this effect. The character may sing, play,
-or recite a deafening song while taking other mundane actions, but not magical ones (see the bard’s inspire
+or recite a deafening song while taking other mundane actions, but not magical ones (see the bard's inspire
 courage ability for more details). The character may keep up the deafening song for a maximum of 10 rounds. Using
-the deafening song counts as one of the character’s uses of song or poetics for the day.
+the deafening song counts as one of the character's uses of song or poetics for the day.
 
 ### Death of Enemies [Epic]
 ### Prerequisites:
@@ -461,11 +461,11 @@ the deafening song counts as one of the character’s uses of song or poetics fo
 
 ### Benefit:
  Any time the character scores a critical hit against one of his or her favored enemies,
-it must make a Fortitude save (DC 10 + 1/2 character’s ranger class level + character’s Wisdom modifier) or die
+it must make a Fortitude save (DC 10 + 1/2 character's ranger class level + character's Wisdom modifier) or die
 instantly.
 
 ### Special:
- Creatures immune to critical hits can’t be affected by this feat.
+ Creatures immune to critical hits can't be affected by this feat.
 ### Devastating Critical [Epic]
 
 ### Prerequisites:
@@ -474,8 +474,8 @@ Critical (chosen weapon), Power Attack, Weapon Focus (chosen weapon).
 
 ### Benefit:
  Whenever the character scores a critical hit with the chosen weapon, the target must
-make a Fortitude save (DC 10 + 1/2 character level + character’s Strength modifier) or die instantly. (Creatures
-immune to critical hits can’t be affected by this feat.)
+make a Fortitude save (DC 10 + 1/2 character level + character's Strength modifier) or die instantly. (Creatures
+immune to critical hits can't be affected by this feat.)
 
 ### Special:
  A character can gain this feat multiple times. Its effects do not stack. Each time a
@@ -531,7 +531,7 @@ no penalty for range.
 
 ### Benefit:
  The character may use _wild shape_ to change into a dragon (black, blue, green,
-red, white, brass, bronze, copper, gold, or silver). The size limitation is the same as the character’s limitation
+red, white, brass, bronze, copper, gold, or silver). The size limitation is the same as the character's limitation
 on animal size. The character gains all extraordinary and supernatural abilities of the dragon whose form he or
 she takes.
 
@@ -543,10 +543,10 @@ ranks.
 
 ### Benefit:
  Select an item creation feat. Creating a magic item using that feat requires one day per
-10,000 gp of the item’s market price, with a minimum of one day.
+10,000 gp of the item's market price, with a minimum of one day.
 
 ### Normal:
- Without this feat, creating a magic item requires one day for each 1,000 gp of the item’s
+ Without this feat, creating a magic item requires one day for each 1,000 gp of the item's
 market price.
 
 ### Special:
@@ -557,7 +557,7 @@ character takes the feat, it applies to a different item creation feat.
 
 ### Benefit:
  Choose a type of energy (acid, cold, electricity, fire, or sonic). The character gains
-resistance 10 to that type of energy, or the character’s existing resistance to that type of energy increases by
+resistance 10 to that type of energy, or the character's existing resistance to that type of energy increases by
 10. This feat does not stack with energy resistance granted by magic items or nonpermanent magical effects.
 
 ### Special:
@@ -569,14 +569,14 @@ effects stack.
  Maximize Spell.
 
 ### Benefit:
- The damage cap for the character’s spells increases by 10 dice (for spells that deal a
+ The damage cap for the character's spells increases by 10 dice (for spells that deal a
 number of dice of damage equal to caster level) or by 5 dice (for spells that deal a number of dice of damage
-equal to half caster level). An enhanced spell uses up a spell slot four levels higher than the spell’s actual
-level. This feat has no effect on spells that don’t specifically deal a number of dice of damage equal to the
-caster’s level or half level, even if the spell’s effect is largely dictated by the caster’s level.
+equal to half caster level). An enhanced spell uses up a spell slot four levels higher than the spell's actual
+level. This feat has no effect on spells that don't specifically deal a number of dice of damage equal to the
+caster's level or half level, even if the spell's effect is largely dictated by the caster's level.
 
 ### Normal:
- Without this feat, use the damage dice caps indicated in the spell’s description.
+ Without this feat, use the damage dice caps indicated in the spell's description.
 
 ### Special:
  A character may gain this feat multiple times. Each time he or she selects this feat,
@@ -609,7 +609,7 @@ in at least one psionic class.
 
 ### Benefit:
  You learn one additional power at any level up to the highest level of power you can
-manifest. You can choose any power, even one that is part of another discipline’s list or another class’s list.
+manifest. You can choose any power, even one that is part of another discipline's list or another class's list.
 
 ### Special:
  You can gain this feat multiple times. Each time, you learn one new power at any level
@@ -623,7 +623,7 @@ up to the highest level of power you can manifest.
  Cha 25, Perform 30 ranks, bardic music class feature.
 
 ### Benefit:
- All competence bonuses, dodge bonuses, and morale bonuses granted by the character’s
+ All competence bonuses, dodge bonuses, and morale bonuses granted by the character's
 bardic music ability increase by +1. If you have the inspire greatness bardic music ability, it grants one
 additional bonus HD.
 
@@ -645,31 +645,31 @@ In all other ways Epic Leadership functions as the Leadership feat.
 | Leadership Score | Cohort Level | Number of Followers by Level |
 | --- | --- | --- |
 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | 10th |
-| 25 | 17th | 135 | 13 | 7 | 4 | 2 | 2 | 1 | --- | --- | --- |
-| 26 | 18th | 160 | 16 | 8 | 4 | 2 | 2 | 1 | --- | --- | --- |
-| 27 | 18th | 190 | 19 | 10 | 5 | 3 | 2 | 1 | --- | --- | --- |
-| 28 | 19th | 220 | 22 | 11 | 6 | 3 | 2 | 1 | --- | --- | --- |
-| 29 | 19th | 260 | 26 | 13 | 7 | 4 | 2 | 1 | --- | --- | --- |
-| 30 | 20th | 300 | 30 | 15 | 8 | 4 | 2 | 1 | --- | --- | --- |
-| 31 | 20th | 350 | 35 | 18 | 9 | 5 | 3 | 2 | 1 | --- | --- |
-| 32 | 21st | 400 | 40 | 20 | 10 | 5 | 3 | 2 | 1 | --- | --- |
-| 33 | 21st | 460 | 46 | 23 | 12 | 6 | 3 | 2 | 1 | --- | --- |
-| 34 | 22nd | 520 | 52 | 26 | 13 | 6 | 3 | 2 | 1 | --- | --- |
-| 35 | 22nd | 590 | 59 | 30 | 15 | 8 | 4 | 2 | 1 | --- | --- |
-| 36 | 23rd | 660 | 66 | 33 | 17 | 9 | 5 | 3 | 2 | 1 | --- |
-| 37 | 23rd | 740 | 74 | 37 | 19 | 10 | 5 | 3 | 2 | 1 | --- |
-| 38 | 24th | 820 | 82 | 41 | 21 | 11 | 6 | 3 | 2 | 1 | --- |
-| 39 | 24th | 910 | 91 | 46 | 23 | 12 | 6 | 3 | 2 | 1 | --- |
-| 40 | 25th | 1000 | 100 | 50 | 25 | 13 | 7 | 4 | 2 | 1 | --- |
+| 25 | 17th | 135 | 13 | 7 | 4 | 2 | 2 | 1 | -- | -- | -- |
+| 26 | 18th | 160 | 16 | 8 | 4 | 2 | 2 | 1 | -- | -- | -- |
+| 27 | 18th | 190 | 19 | 10 | 5 | 3 | 2 | 1 | -- | -- | -- |
+| 28 | 19th | 220 | 22 | 11 | 6 | 3 | 2 | 1 | -- | -- | -- |
+| 29 | 19th | 260 | 26 | 13 | 7 | 4 | 2 | 1 | -- | -- | -- |
+| 30 | 20th | 300 | 30 | 15 | 8 | 4 | 2 | 1 | -- | -- | -- |
+| 31 | 20th | 350 | 35 | 18 | 9 | 5 | 3 | 2 | 1 | -- | -- |
+| 32 | 21st | 400 | 40 | 20 | 10 | 5 | 3 | 2 | 1 | -- | -- |
+| 33 | 21st | 460 | 46 | 23 | 12 | 6 | 3 | 2 | 1 | -- | -- |
+| 34 | 22nd | 520 | 52 | 26 | 13 | 6 | 3 | 2 | 1 | -- | -- |
+| 35 | 22nd | 590 | 59 | 30 | 15 | 8 | 4 | 2 | 1 | -- | -- |
+| 36 | 23rd | 660 | 66 | 33 | 17 | 9 | 5 | 3 | 2 | 1 | -- |
+| 37 | 23rd | 740 | 74 | 37 | 19 | 10 | 5 | 3 | 2 | 1 | -- |
+| 38 | 24th | 820 | 82 | 41 | 21 | 11 | 6 | 3 | 2 | 1 | -- |
+| 39 | 24th | 910 | 91 | 46 | 23 | 12 | 6 | 3 | 2 | 1 | -- |
+| 40 | 25th | 1000 | 100 | 50 | 25 | 13 | 7 | 4 | 2 | 1 | -- |
 | per +1 | +1/2* | +100** | † | † | † | † | † | † | † | † | † |
 
 ### Leadership Score:
- A character’s Leadership score equals his or her level plus any Charisma
-modifier. Outside factors can affect a character’s Leadership score, as detailed in the Leadership feat.
+ A character's Leadership score equals his or her level plus any Charisma
+modifier. Outside factors can affect a character's Leadership score, as detailed in the Leadership feat.
 
 ### Cohort Level:
  The character can attract a cohort of up to this level. Regardless of the
-character’s Leadership score, he or she can’t recruit a cohort of his or her level or higher.
+character's Leadership score, he or she can't recruit a cohort of his or her level or higher.
 
 ### Number of Followers by Level:
  The character can lead up to the indicated number of characters of
@@ -680,7 +680,7 @@ followers increases by 100 for every point of Leadership above 40.
 
 †A character can command one-tenth as many 2nd-level followers as 1st-level followers. A character can command
 one-half as many 3rd-level followers as 2nd-level followers, one-half as many 4th-level followers as 3rd-level
-followers, and so on (round fractions up, except any fraction less than 1 rounds to 0). A character can’t have a
+followers, and so on (round fractions up, except any fraction less than 1 rounds to 0). A character can't have a
 follower of higher than 20th level.
 
 **Table: Example Special Epic Cohorts presents some creatures that make good cohorts for epic characters.**
@@ -752,7 +752,7 @@ character takes the feat, it applies to a different skill.
  Dex 21, Run.
 
 ### Benefit:
- The character’s speed increases by 30 feet. This benefit does not stack with increased
+ The character's speed increases by 30 feet. This benefit does not stack with increased
 speed granted by magic items or nonpermanent magical effects.
 
 ### Special:
@@ -778,7 +778,7 @@ character takes the feat, it applies to a different school of magic.
  Greater Spell Penetration, Spell Penetration.
 
 ### Benefit:
- The character gets a +2 bonus on caster level checks to beat a creature’s spell
+ The character gets a +2 bonus on caster level checks to beat a creature's spell
 resistance. This stacks with the bonuses from Spell Penetration and Greater Spell Penetration.
 
 ### Epic Spellcasting [Epic]
@@ -840,21 +840,21 @@ attacks) as if they were arrows.
 ### Extended Life Span [Epic]
 
 ### Benefit:
- Add one-half the maximum result of the character’s race’s maximum age modifier to the
-character’s normal middle age, old, and venerable age categories. Calculate the character’s maximum age using the
-new venerable number. This feat can’t lower the character’s current age category.
+ Add one-half the maximum result of the character's race's maximum age modifier to the
+character's normal middle age, old, and venerable age categories. Calculate the character's maximum age using the
+new venerable number. This feat can't lower the character's current age category.
 
 ### Special:
  A character can gain this feat multiple times. Its effects stack.
 ### Familiar Spell [Epic]
 
 ### Prerequisite:
- Int 25 (if the character’s spellcasting is controlled by Intelligence) or Cha 25
-(if the character’s spellcasting is controlled by Charisma).
+ Int 25 (if the character's spellcasting is controlled by Intelligence) or Cha 25
+(if the character's spellcasting is controlled by Charisma).
 
 ### Benefit:
- Choose one arcane spell the character knows of 8th level or lower. The character’s
-familiar can now use this spell once per day as a spell-like ability, at a caster level equal to the character’s
+ Choose one arcane spell the character knows of 8th level or lower. The character's
+familiar can now use this spell once per day as a spell-like ability, at a caster level equal to the character's
 caster level. A character cannot bestow a spell to his or her familiar if the spell normally has a material
 component cost of more than 1 gp or an XP cost.
 
@@ -868,7 +868,7 @@ ability.
  Con 25.
 
 ### Benefit:
- The character gains fast healing 3, or the character’s existing fast healing increases
+ The character gains fast healing 3, or the character's existing fast healing increases
 by 3. This feat does not stack with fast healing granted by magic items or nonpermanent magical effects.
 
 ### Special:
@@ -902,22 +902,22 @@ size.
 
 ### Great Charisma [Epic]
 ### Benefit:
- The character’s Charisma increases by 1 point.
+ The character's Charisma increases by 1 point.
 ### Special:
  A character can gain this feat multiple times. Its effects stack.
 ### Great Constitution [Epic]
 ### Benefit:
- The character’s Constitution increases by 1 point.
+ The character's Constitution increases by 1 point.
 ### Special:
  A character can gain this feat multiple times. Its effects stack.
 ### Great Dexterity [Epic]
 ### Benefit:
- The character’s Dexterity increases by 1 point.
+ The character's Dexterity increases by 1 point.
 ### Special:
  A character can gain this feat multiple times. Its effects stack.
 ### Great Intelligence [Epic]
 ### Benefit:
- The character’s Intelligence increases by 1 point.
+ The character's Intelligence increases by 1 point.
 ### Special:
  A character can gain this feat multiple times. Its effects stack.
 ### Great Smiting [Epic]
@@ -926,7 +926,7 @@ size.
 
 ### Benefit:
  Whenever the character makes a successful smite attack, add twice the appropriate level
-to damage (rather than just the character’s level).
+to damage (rather than just the character's level).
 
 ### Special:
  A character may select this feat multiple times. Its effects stack. Remember that two
@@ -934,12 +934,12 @@ doublings equals a tripling, and so forth.
 
 ### Great Strength [Epic]
 ### Benefit:
- The character’s Strength increases by 1 point.
+ The character's Strength increases by 1 point.
 ### Special:
  A character can gain this feat multiple times. Its effects stack.
 ### Great Wisdom [Epic]
 ### Benefit:
- The character’s Wisdom increases by 1 point.
+ The character's Wisdom increases by 1 point.
 ### Special:
  A character can gain this feat multiple times. Its effects stack.
 ### Group Inspiration [Epic]
@@ -962,11 +962,11 @@ doublings equals a tripling, and so forth.
 ### Benefit:
  The character can use song or poetics to hinder enemy spellcasters within a 30-foot
 spread from the character. To successfully cast a spell within this area, a spellcaster must make a Concentration
-check as if he or she were casting defensively, and all such checks have a penalty equal to half the character’s
+check as if he or she were casting defensively, and all such checks have a penalty equal to half the character's
 level. The character can choose to exclude any characters from this effect. The character may sing, play, or
-recite a hindering song while taking other mundane actions, but not magical ones (see the bard’s inspire courage
+recite a hindering song while taking other mundane actions, but not magical ones (see the bard's inspire courage
 ability for more details). The character may keep up the hindering song for a maximum of 10 rounds. Using the
-hindering song counts as one of the character’s uses of song or poetics for the day.
+hindering song counts as one of the character's uses of song or poetics for the day.
 
 ### Holy Strike [Epic]
 ### Prerequisites:
@@ -1007,7 +1007,7 @@ character takes the feat, it applies to a different alignment-based domain to wh
  Dex 19, Wis 19, Point Blank Shot, Precise Shot, arrow of death class feature.
 
 ### Benefit:
- Add +2 to the DC of the character’s arrows of death. This feat may be taken multiple
+ Add +2 to the DC of the character's arrows of death. This feat may be taken multiple
 times. Its effects stack.
 
 ### Improved Aura of Courage [Epic]
@@ -1015,20 +1015,20 @@ times. Its effects stack.
  Cha 25, aura of courage class ability.
 
 ### Benefit:
- The character’s aura of courage grants a +8 morale bonus on saving throws against fear
+ The character's aura of courage grants a +8 morale bonus on saving throws against fear
 effects.
 
 ### Improved Aura of Despair [Epic]
 ### Prerequisite:
  Cha 25, aura of despair class ability.
 ### Benefit:
- The character’s aura of despair causes a -4 morale penalty on all saving throws.
+ The character's aura of despair causes a -4 morale penalty on all saving throws.
 ### Improved Combat Casting [Epic]
 ### Prerequisites:
  Combat Casting, Concentration 25 ranks.
 
 ### Benefit:
- The character doesn’t incur attacks of opportunity for casting spells when threatened.
+ The character doesn't incur attacks of opportunity for casting spells when threatened.
 
 ### Improved Combat Reflexes [Epic]
 ### Prerequisites:
@@ -1036,14 +1036,14 @@ effects.
 
 ### Benefit:
  There is no limit to the number of attacks of opportunity the character can make in one
-round. (the character still can’t make more than one attack of opportunity for a given oppertunity.)
+round. (the character still can't make more than one attack of opportunity for a given oppertunity.)
 
 ### Improved Darkvision [Epic]
 ### Prerequisite:
  Darkvision.
 
 ### Benefit:
- The range of the character’s darkvision doubles. This feat does not stack with
+ The range of the character's darkvision doubles. This feat does not stack with
 darkvision granted by magic items or nonpermanent magical effects.
 
 ### Special:
@@ -1054,7 +1054,7 @@ equals a tripling, and so on.
 ### Prerequisites:
  Death attack class feature, sneak attack +5d6.
 ### Benefit:
- Add +2 to the DC of the character’s death attack.
+ Add +2 to the DC of the character's death attack.
 ### Special:
  This feat may be taken multiple times. Its effects stack.
 ### Improved Elemental Wild Shape [Wild][Epic]
@@ -1062,7 +1062,7 @@ equals a tripling, and so on.
  Wis 25, ability to _wild shape_ into an elemental.
 
 ### Benefit:
- The character’s ability to _wild shape_ into an elemental is expanded to include
+ The character's ability to _wild shape_ into an elemental is expanded to include
 all elemental creatures (not just air, earth, fire, and water elementals) of any size that the character can take
 when using _wild shape_ to become an animal. The character gains all extraordinary and supernatural abilities
 of the elemental whose form he or she takes.
@@ -1077,7 +1077,7 @@ Large air, earth, fire, or water elemental.
 
 ### Benefit:
  Add +1 to the bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks and damage
-rolls against all the character’s favored enemies.
+rolls against all the character's favored enemies.
 
 ### Special:
  This feat may be taken multiple times. Its effects stack.
@@ -1096,7 +1096,7 @@ heighten the spell.
  Wis 21, _Ki_ strike (adamantine).
 
 ### Benefit:
- The character’s unarmed strikes are treated as epic magic weapons for the purposes of
+ The character's unarmed strikes are treated as epic magic weapons for the purposes of
 damage reduction.
 
 ### Improved Low-Light Vision [Epic]
@@ -1104,7 +1104,7 @@ damage reduction.
  Low-light vision.
 
 ### Benefit:
- The range of the character’s low-light vision doubles. This feat does not stack with
+ The range of the character's low-light vision doubles. This feat does not stack with
 low-light vision granted by magic items or nonpermanent magical effects.
 
 ### Special:
@@ -1134,25 +1134,25 @@ bonus (two arrows, plus one arrow for every 5 points of base attack bonus above 
 
 ### Special:
  Regardless of the number of arrows the character fires, he or she only applies
-precision-based damage (such as sneak attack damage or the ranger’s favored enemy bonus) once. If the character
-scores a critical hit, only one of the arrows deals critical damage (character’s choice); all others deal normal
+precision-based damage (such as sneak attack damage or the ranger's favored enemy bonus) once. If the character
+scores a critical hit, only one of the arrows deals critical damage (character's choice); all others deal normal
 damage.
 
 ### Normal:
  With the Manyshot feat, the character is limited to a maximum of four arrows fired (when
-the character’s base attack bonus is +16 or higher).
+the character's base attack bonus is +16 or higher).
 
 ### Improved Metamagic [Epic]
 ### Prerequisites:
  Four metamagic feats, Spellcraft 30 ranks.
 
 ### Benefit:
- The spell slot modifier of all the character’s metamagic feats is reduced by one level,
+ The spell slot modifier of all the character's metamagic feats is reduced by one level,
 to a minimum of +1. This feat has no effect on metamagic feats whose spell slot modifier is +1 or less.
 
 ### Special:
  A character can gain this feat multiple times. The effects stack, though a character
-can’t reduce any metamagic feat’s spell slot modifier to less than +1.
+can't reduce any metamagic feat's spell slot modifier to less than +1.
 
 ### Improved Metapsionics [Epic, Psionic]
 You can manifest powers using metapsionic feats more easily than normal.
@@ -1166,14 +1166,14 @@ power point).
 This feat has no effect on metapsionic powers that inflate the cost by only 2 power points.
 
 ### Special:
- You can gain this feat multiple times. The effects stack, though you can’t lower the
+ You can gain this feat multiple times. The effects stack, though you can't lower the
 cost of any metapsionic power to less than 1 power point.
 
 ### Improved Sneak Attack [Epic]
 ### Prerequisite:
  Sneak attack +8d6.
 ### Benefit:
- Add +1d6 to the character’s sneak attack damage.
+ Add +1d6 to the character's sneak attack damage.
 ### Special:
  This feat may be taken multiple times. Its effects stack.
 ### Improved Spell Capacity [Epic]
@@ -1201,7 +1201,7 @@ A character with a very high score in the ability associated with his or her spe
 wizards; Wisdom for clerics, druids, paladins, and rangers; or Charisma for bards and sorcerers) may receive bonus
 spells of those levels, as shown on Table: Expanded Ability Modifiers and Bonus Spells, but only if they already
 have at least one spell slot of that level (such as from the Improved Spell Capacity feat). A character without
-any spell slots of a level can’t receive any bonus spells of that level, even if the appropriate ability score is
+any spell slots of a level can't receive any bonus spells of that level, even if the appropriate ability score is
 high enough to award them.
 
 Even though the table only includes ability scores up to 61 and spell slots up to 25th level, the progression
@@ -1213,31 +1213,31 @@ the table to follow the same patterns as shown.
 |  | Spells per Day |
 | --- | --- |
 | Score | Modifier | 10th | 11th | 12th | 13th | 14th | 15th | 16th | 17th | 18th | 19th | 20th | 21st | 22nd | 23rd | 24th | 25th |
-| 10-11 | +0 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 12-13 | +1 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 14-15 | +2 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 16-17 | +3 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 18-19 | +4 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 20-21 | +5 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 22-23 | +6 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 24-25 | +7 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 26-27 | +8 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 28-29 | +9 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 30-31 | +10 | 1 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 32-33 | +11 | 1 | 1 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 34-35 | +12 | 1 | 1 | 1 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 36-37 | +13 | 1 | 1 | 1 | 1 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 38-39 | +14 | 2 | 1 | 1 | 1 | 1 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 40-41 | +15 | 2 | 2 | 1 | 1 | 1 | 1 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 42-43 | +16 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 44-45 | +17 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 46-47 | +18 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | --- | --- | --- | --- | --- | --- | --- |
-| 48-49 | +19 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | --- | --- | --- | --- | --- | --- |
-| 50-51 | +20 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | --- | --- | --- | --- | --- |
-| 52-53 | +21 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | --- | --- | --- | --- |
-| 54-55 | +22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | --- | --- | --- |
-| 56-57 | +23 | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | --- | --- |
-| 58-59 | +24 | 4 | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | --- |
+| 10-11 | +0 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 12-13 | +1 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 14-15 | +2 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 16-17 | +3 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 18-19 | +4 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 20-21 | +5 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 22-23 | +6 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 24-25 | +7 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 26-27 | +8 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 28-29 | +9 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 30-31 | +10 | 1 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 32-33 | +11 | 1 | 1 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 34-35 | +12 | 1 | 1 | 1 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 36-37 | +13 | 1 | 1 | 1 | 1 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 38-39 | +14 | 2 | 1 | 1 | 1 | 1 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 40-41 | +15 | 2 | 2 | 1 | 1 | 1 | 1 | -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 42-43 | +16 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| 44-45 | +17 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 46-47 | +18 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | -- | -- | -- | -- | -- | -- | -- |
+| 48-49 | +19 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | -- | -- | -- | -- | -- | -- |
+| 50-51 | +20 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | -- | -- | -- | -- | -- |
+| 52-53 | +21 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | -- | -- | -- | -- |
+| 54-55 | +22 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | -- | -- | -- |
+| 56-57 | +23 | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | -- | -- |
+| 58-59 | +24 | 4 | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 | -- |
 | 60-61 | +25 | 4 | 4 | 4 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 2 | 2 | 1 | 1 | 1 | 1 |
 | etc. . . |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
@@ -1247,14 +1247,14 @@ the table to follow the same patterns as shown.
  Must have spell resistance from a feat, class feature, or other permanent effect.
 
 ### Benefit:
- The character’s spell resistance increases by +2.
+ The character's spell resistance increases by +2.
 ### Special:
  A character can gain this feat multiple times. Its effects stack.
 ### Improved Stunning Fist [Epic]
 ### Prerequisite:
  Dex 19, Wis 19, Improved Unarmed Strike, Stunning Fist.
 ### Benefit:
- Add +2 to the DC of the character’s stunning attack.
+ Add +2 to the DC of the character's stunning attack.
 ### Special:
  This feat may be taken multiple times. Its effects stack.
 ### Improved Whirlwind Attack [Epic]
@@ -1268,12 +1268,12 @@ Attack.
 his or her base attack bonus (including epic attack bonus, round fractions down).
 
 The character cannot attack any one opponent more than once as part of this action. These attacks (as well as all
-other attacks made until the start of the character’s next turn) suffer a -4 penalty.
+other attacks made until the start of the character's next turn) suffer a -4 penalty.
 
 When using the Improved Whirlwind feat, the character also forfeits any bonus or extra attacks granted by other
 spells or abilities (such as Cleave or the haste spell).
 
-Since these attacks are made as part of a standard action the character can’t make a 5-foot step between any two
+Since these attacks are made as part of a standard action the character can't make a 5-foot step between any two
 of the attacks.
 
 ### Normal:
@@ -1286,7 +1286,7 @@ character can take a 5-foot step between any two of the attacks.
 
 ### Benefit:
  When the character enters a rage, he or she can incite a barbarian rage in any or all
-allies within 60 feet. (Any ally who doesn’t wish to become enraged is unaffected.) The ally gains +4 to Strength,
+allies within 60 feet. (Any ally who doesn't wish to become enraged is unaffected.) The ally gains +4 to Strength,
 +4 to Constitution, and a +2 morale bonus on Will saves, but takes a -2 penalty to AC, for as long as the
 character remains raging. The rage of affected allies lasts a number of rounds equal to 3 + their Constitution
 modifier, regardless of whether they remain within 60 feet of the character. This is otherwise identical with
@@ -1313,7 +1313,7 @@ sings and for 5 rounds after the bard stops singing (or 5 rounds after the ally 
 While singing, the bard can fight but cannot cast spells, activate magic items by spell completion (such as
 scrolls), or activate magic items by command word (such as wands). Each ally to be inspired gains a +4 competence
 bonus to the same ability score, which the character must choose before he or she begins inspiring. Inspire
-excellence is a supernatural, mind-affecting ability. Use of this feat counts as one of the character’s bardic
+excellence is a supernatural, mind-affecting ability. Use of this feat counts as one of the character's bardic
 music uses for the day.
 
 ### Special:
@@ -1342,7 +1342,7 @@ arcane or divine spells.
  All variable, numeric effects of an intensified spell are maximized, then doubled. An
 intensified spell deals twice maximum damage, cures twice the maximum number of hit points, affects twice the
 maximum number of targets, and so forth, as appropriate. Saving throws and opposed rolls are not affected. An
-intensified spell uses up a spell slot seven levels higher than the spell’s actual level. A character can’t
+intensified spell uses up a spell slot seven levels higher than the spell's actual level. A character can't
 combine the effects of this feat with any other feat that affects the variable, numeric effects of a spell.
 
 ### Keen Strike [Epic]
@@ -1352,17 +1352,17 @@ combine the effects of this feat with any other feat that affects the variable, 
 Stunning fist, _ki_ strike (adamantine).
 
 ### Benefit:
- The character’s unarmed strike has a critical threat range of 18-20 and deals slashing
-damage (at the character’s option any attack can deal bludgeoning damage, but cannot then take advantage of the
-enhanced threat range). This ability doesn’t stack with other abilities that expand that character’s unarmed
-strike’s threat range.
+ The character's unarmed strike has a critical threat range of 18-20 and deals slashing
+damage (at the character's option any attack can deal bludgeoning damage, but cannot then take advantage of the
+enhanced threat range). This ability doesn't stack with other abilities that expand that character's unarmed
+strike's threat range.
 
 ### Lasting Inspiration [Epic]
 ### Prerequisite:
  Perform 25 ranks, bardic music class feature.
 
 ### Benefit:
- The effects of the character’s bardic music inspiration abilities last for ten times as
+ The effects of the character's bardic music inspiration abilities last for ten times as
 long as normal after he or she stops singing. This feat has no effect on inspiration abilities that have no
 duration after the character stops singing.
 
@@ -1404,9 +1404,9 @@ attempting a running jump.
  Ride 24 ranks.
 
 ### Benefit:
- The character doesn’t take a penalty on Ride checks when riding a mount without a saddle
+ The character doesn't take a penalty on Ride checks when riding a mount without a saddle
 (bareback). The character never needs to make a Ride check to control a mount in combat (and even controlling a
-mount not trained for combat doesn’t require an action).
+mount not trained for combat doesn't require an action).
 
 ### Normal:
  Without this feat, a character takes a -5 penalty on Ride checks without a saddle, and
@@ -1438,7 +1438,7 @@ adds the surfaces of water, underwater, and air to the list of surfaces found un
 
 ### Benefit:
  Any time the character deals damage with a sneak attack, that target takes damage equal
-to the character’s sneak attack bonus damage on the character’s next turn as well.
+to the character's sneak attack bonus damage on the character's next turn as well.
 
 ### Magical Beast Companion [Wild][Epic]
 ### Prerequisites:
@@ -1480,7 +1480,7 @@ Gray render
 
 ### Benefit:
  The character can use his or her normal _wild shape_ ability to take the form of a
-magical beast. The size limitation is the same as the character’s limitation on animal size. The character gains
+magical beast. The size limitation is the same as the character's limitation on animal size. The character gains
 all supernatural abilities of the magical beast whose form he or she takes.
 
 ### Master Staff [Epic]
@@ -1523,7 +1523,7 @@ including any level-increasing metamagic enhancements.
 without losing the benefits of the stance.
 
 ### Normal:
- Without this feat, a character can’t move while in a defensive stance.
+ Without this feat, a character can't move while in a defensive stance.
 ### Multispell [Epic]
 ### Prerequisites:
  Quicken Spell, ability to cast 9th-level arcane or divine spells.
@@ -1538,7 +1538,7 @@ without losing the benefits of the stance.
 ### Benefit:
  If the character hits an opponent with two or more weapons (wielded in different hands)
 in the same round, he or she may automatically rend the opponent. This rending deals additional damage equal to
-the base damage of the smallest weapon that hit plus 1 1/2 times the character’s Strength modifier. The character
+the base damage of the smallest weapon that hit plus 1 1/2 times the character's Strength modifier. The character
 can only rend once per round, regardless of how many successful attacks he or she makes.
 
 ### Special:
@@ -1548,7 +1548,7 @@ can only rend once per round, regardless of how many successful attacks he or sh
  Cha 25, Perform 30 ranks, bardic music class feature.
 
 ### Benefit:
- The character’s bardic music can affect even those normally immune to mind-affecting
+ The character's bardic music can affect even those normally immune to mind-affecting
 effects. However, such creatures gain a +10 bonus on their Will saves to resist such effects.
 
 ### Negative Energy Burst [Divine][Epic]
@@ -1562,7 +1562,7 @@ _inflict critical wounds,_any evil alignment.
 energy in a 60-foot-burst. Roll a normal rebuke (or command) check, except that the negative energy burst affects
 living creatures rather than undead. Any creature that would be rebuked by this result gains one negative level.
 Any creature that would be commanded by this check gains two negative levels. The Fortitude save DC to remove
-these levels one day later is equal to 10 + 1/2 the character’s effective turning level + the character’s Charisma
+these levels one day later is equal to 10 + 1/2 the character's effective turning level + the character's Charisma
 modifier.
 
 ### Overwhelming Critical [Epic]
@@ -1573,9 +1573,9 @@ Weapon Focus (chosen weapon).
 
 ### Benefit:
  When using the weapon the character has selected, he or she deals an extra 1d6 points of
-bonus damage on a successful critical hit. If the weapon’s critical multiplier is x3, add +2d6 points of bonus
+bonus damage on a successful critical hit. If the weapon's critical multiplier is x3, add +2d6 points of bonus
 damage instead, and if the multiplier is x4, add +3d6 points of bonus damage instead. Creatures immune to critical
-hits can’t be affected by this feat.
+hits can't be affected by this feat.
 
 ### Special:
  A character can gain this feat multiple times. Its effects do not stack. Each time a
@@ -1587,11 +1587,11 @@ Select a special material, such as adamantine.
 ### Benefit:
  The character melee weapons (including natural weapons) are treated as being crafted
 from the chosen special material for the purposes of bypassing the damage reduction of any creature the character
-strikes. None of the other special properties of special materials are gained by the character’s melee weapons.
+strikes. None of the other special properties of special materials are gained by the character's melee weapons.
 
 ### Special:
  A character can gain this feat multiple times. Each time the feat is selected the
-character selects a different special material. The character’s melee attacks are treated as being crafted of all
+character selects a different special material. The character's melee attacks are treated as being crafted of all
 chosen materials for the purposes of bypassing damage reduction.
 
 ### Perfect Health [Epic]
@@ -1643,8 +1643,8 @@ off-hand weapon if he or she has Greater Two-Weapon Fighting).
  Spellcraft 25 ranks, ability to cast the spell to be made permanent.
 
 ### Benefit:
- Designate any one of the character’s spells whose area is an emanation from the
-character. This spell’s effect is permanent (though the character can dismiss or restart it as a free action).
+ Designate any one of the character's spells whose area is an emanation from the
+character. This spell's effect is permanent (though the character can dismiss or restart it as a free action).
 Effects that would normally dispel this spell instead suppress it for 2d4 rounds.
 
 ### Special:
@@ -1667,7 +1667,7 @@ rebuke undead, he or she rebukes (or commands) all evil outsiders and turns (or 
 
 ### Benefit:
  The character can use his or her normal _wild shape_ ability to take the form of a
-plant. The size limitation is the same as the character’s limitation on animal size.
+plant. The size limitation is the same as the character's limitation on animal size.
 
 ### Polyglot [Epic]
 ### Prerequisites:
@@ -1683,11 +1683,11 @@ read and write all languages (not including magical script).
 
 ### Benefit:
  Every undead creature that comes within 15 feet of the character is automatically
-affected as if the character had turned it. This doesn’t cost a turning attempt, and the character doesn’t have to
+affected as if the character had turned it. This doesn't cost a turning attempt, and the character doesn't have to
 roll turning damage (it automatically affects all undead in a 15-foot burst), but it only turns undead with Hit
-Dice equal to or less than the character’s effective cleric level minus 10 (and automatically destroys undead with
-Hit Dice equal to or less than the character’s effective cleric level minus 20). Just as with normal turning, the
-character can’t affect undead that have total cover relative to him or her.
+Dice equal to or less than the character's effective cleric level minus 10 (and automatically destroys undead with
+Hit Dice equal to or less than the character's effective cleric level minus 20). Just as with normal turning, the
+character can't affect undead that have total cover relative to him or her.
 
 ### Power Knowledge [Epic, Psionic]
 You add two additional powers to your list of powers known.
@@ -1729,8 +1729,8 @@ used to manifest the powers it knows as you desire.
 
 ### Benefit:
  Double the range of any bardic music ability that has a range. (If the creature must
-hear the bard to be affected by the ability, that requirement doesn’t change regardless of any extended range the
-bard’s ability may have.)
+hear the bard to be affected by the ability, that requirement doesn't change regardless of any extended range the
+bard's ability may have.)
 
 ### Special:
  A character can gain this feat multiple times. Its effects stack. Remember that two
@@ -1749,9 +1749,9 @@ action. The inspiration takes effect immediately after the character concludes t
  Combat Reflexes, Perform 30 ranks, bardic music class feature.
 
 ### Benefit:
- The character can begin a countersong at any time, even when it isn’t his or her turn
-(much like a wizard who has readied a counterspell action), though the character doesn’t have to ready an action
-to do so. The character can’t use Reactive Countersong at the same time he or she isusing another bardic music
+ The character can begin a countersong at any time, even when it isn't his or her turn
+(much like a wizard who has readied a counterspell action), though the character doesn't have to ready an action
+to do so. The character can't use Reactive Countersong at the same time he or she isusing another bardic music
 ability (though the character could stop the other bardic music ability to begin Reactive Countersong if so
 desired).
 
@@ -1763,15 +1763,15 @@ desired).
 
 ### Benefit:
  When the character deflects an arrow or other ranged attack, the attack is reflected
-back upon the attacker at the character’s base ranged attack bonus.
+back upon the attacker at the character's base ranged attack bonus.
 
 ### Righteous Strike [Epic]
 ### Prerequisites:
  Wis 19, Improved Unarmed Strike, Stunning Fist, any lawful alignment.
 
 ### Benefit:
- The character’s unarmed strike is treated as an axiomatic weapon (it is lawfully aligned
-and deals an extra 2d6 points of damage against creatures of chaotic alignment). This ability doesn’t stack with
+ The character's unarmed strike is treated as an axiomatic weapon (it is lawfully aligned
+and deals an extra 2d6 points of damage against creatures of chaotic alignment). This ability doesn't stack with
 similar abilities.
 
 ### Ruinous Rage [Epic]
@@ -1780,7 +1780,7 @@ similar abilities.
 
 ### Benefit:
  While in a rage, the character ignores the hardness of any object he or she strikes.
-Also, double the character’s Strength bonus for the purposes of any Strength check made to break an object with
+Also, double the character's Strength bonus for the purposes of any Strength check made to break an object with
 sudden force rather than by dealing normal damage (including bursting bindings, such as ropes or manacles).
 
 ### Scribe Epic Scroll [Item Creation][Epic]
@@ -1812,7 +1812,7 @@ by 10% to a maximum of 50% after it has been taken five times.
 ### Benefit:
  When using an unarmed strike to attempt to break an object with sudden force (rather
 than by dealing normal damage), make a Concentration check rather than a Strength check. The break DC remains the
-same. Using Shattering Strike is a full-round action that incurs attacks of opportunity. The character can’t use
+same. Using Shattering Strike is a full-round action that incurs attacks of opportunity. The character can't use
 Shattering Strike to escape bonds (unless he or she is so bound as to allow the character to make an unarmed
 strike against his or her bindings).
 
@@ -1825,7 +1825,7 @@ strike against his or her bindings).
 ### Prerequisites:
  Wis 19, ability to turn or rebuke undead.
 ### Benefit:
- The character’s attacks deal damage normally against incorporeal creatures.
+ The character's attacks deal damage normally against incorporeal creatures.
 
 ### Normal:
  Without this feat, even attacks that can damage an incorporeal creature have a 50% chance
@@ -1849,7 +1849,7 @@ she can cast. This feat does not grant any additional spell slots.
 
 ### Benefit:
  Whenever the character is allowed an attack of opportunity, he or she may cast (and
-attack with) a touch spell as the character’s attack of opportunity. This incurs attacks of opportunity just as if
+attack with) a touch spell as the character's attack of opportunity. This incurs attacks of opportunity just as if
 the character had cast the spell normally.
 
 ### Normal:
@@ -1862,10 +1862,10 @@ the character had cast the spell normally.
 ### Benefit:
  Choose a spell-like ability the character knows, or a spell the character cam cast. The
 character is attuned to the magic he or she chooses. If another spellcaster within 300 feet of the character uses
-this magic, the character also immediately gains the magic’s effect as if it had been used on the character by the
+this magic, the character also immediately gains the magic's effect as if it had been used on the character by the
 same caster. The character must have direct line of effect to the spellcaster in order to gain the benefit of the
 attuned magic (though the character does not have to know the spellcaster is present, and he or she can be
-flat-footed). The magic’s duration, effect, and other specifics are determined by its original caster’s level.
+flat-footed). The magic's duration, effect, and other specifics are determined by its original caster's level.
 
 ### Special:
  A character can gain this feat multiple times. Its effects do not stack. Each time a
@@ -1900,7 +1900,7 @@ spell-casting class.
 
 ### Benefit:
  Select a spell the character can cast. The character may spontaneously convert any
-prepared spell of the selected spell’s level into the selected spell, just as a cleric channels energy to convert
+prepared spell of the selected spell's level into the selected spell, just as a cleric channels energy to convert
 spells into _cure_ spells.
 
 ### Special:
@@ -1962,7 +1962,7 @@ applies to a different spell or spell-like ability.
 
 ### Benefit:
  Any weapon the character wields while in a rage is treated as a thundering weapon. The
-DC of the Fortitude save to resist deafness is equal to 10 + 1/2 the character’s level. This ability does not
+DC of the Fortitude save to resist deafness is equal to 10 + 1/2 the character's level. This ability does not
 stack with similar abilities.
 
 ### Trap Sense [Epic]
@@ -1981,7 +1981,7 @@ to notice it as if the character was actively looking for it.
 ### Benefit:
  If the character hits an opponent with a weapon in each hand in the same round, he or
 she may automatically rend the opponent. This deals additional damage equal to the base damage of the smaller
-weapon plus 1 1/2 times the character’s Strength modifier. Base weapon damage includes an enhancement bonus on
+weapon plus 1 1/2 times the character's Strength modifier. Base weapon damage includes an enhancement bonus on
 damage, if any. The character can only rend once per round, regardless of how many successful attacks he or she
 makes.
 
@@ -1992,7 +1992,7 @@ makes.
 Shot, Spot 20 ranks.
 
 ### Benefit:
- The character’s ranged attacks ignore the miss chance granted to targets by total
+ The character's ranged attacks ignore the miss chance granted to targets by total
 concealment. The character must aim his or her attacks at the correct square to gain advantage of this feat.
 
 ### Normal:
@@ -2014,7 +2014,7 @@ she does not have the prerequisites for it, but can only use it when wearing lig
 
 ### Benefit:
  Any weapon the character wields is treated as an unholy weapon (it is evil-aligned and
-deals an extra 2d6 points of damage against creatures of good alignment). This ability doesn’t stack with similar
+deals an extra 2d6 points of damage against creatures of good alignment). This ability doesn't stack with similar
 abilities. If the weapon already has an alignment, this feat has no effect on the weapon.
 
 ### Vermin Wild Shape [Wild][Epic]
@@ -2023,7 +2023,7 @@ abilities. If the weapon already has an alignment, this feat has no effect on th
 
 ### Benefit:
  The character can use his or her normal _wild shape_ ability to take the form of a
-vermin. The size limitation is the same as the character’s limitation on animal size.
+vermin. The size limitation is the same as the character's limitation on animal size.
 
 ### Vorpal Strike [Epic]
 
@@ -2032,23 +2032,23 @@ vermin. The size limitation is the same as the character’s limitation on anima
 Strike, Stunning Fist, _ki_ strike (adamantine).
 
 ### Benefit:
- The character’s unarmed strike is considered to be a slashing vorpal weapon. (At the
-character’s option, any unarmed strike can do bludgeoning damage instead, but it loses the vorpal quality.) This
-ability doesn’t stack with similar abilities
+ The character's unarmed strike is considered to be a slashing vorpal weapon. (At the
+character's option, any unarmed strike can do bludgeoning damage instead, but it loses the vorpal quality.) This
+ability doesn't stack with similar abilities
 
 ### Widen Aura of Courage [Epic]
 ### Prerequisite:
  Cha 25, aura of courage class ability.
 
 ### Benefit:
- The character’s aura of courage extends to all allies within 100 feet of the character.
+ The character's aura of courage extends to all allies within 100 feet of the character.
 
 ### Widen Aura of Despair [Epic]
 ### Prerequisite:
  Cha 25, aura of despair class ability.
 
 ### Benefit:
- The character’s aura of despair extends to all allies within 100 feet of the character.
+ The character's aura of despair extends to all allies within 100 feet of the character.
 
 ### Zone of Animation [Divine][Epic]
 ### Prerequisite:
@@ -2057,10 +2057,10 @@ ability doesn’t stack with similar abilities
 ### Benefit:
  The character can use a rebuke or command undead attempt to animate corpses within range
 of his or her rebuke or command attempt. The character animates a total number of HD of undead equal to the number
-of undead that would be commanded by the character’s result (though the character can’t animate more undead than
-there are available corpses within range). The character can’t animate more undead with any single attempt than
+of undead that would be commanded by the character's result (though the character can't animate more undead than
+there are available corpses within range). The character can't animate more undead with any single attempt than
 the maximum number he or she can command (including any undead already under his or her command). These undead are
-automatically under the character’s command, though his or her normal limit of commanded undead still applies. If
+automatically under the character's command, though his or her normal limit of commanded undead still applies. If
 the corpses are relatively fresh, the animated undead are zombies. Otherwise, they are skeletons.
 
 These feats are not epic feats, so they may be selected by character any time he or she could select a new feat.
@@ -2097,11 +2097,11 @@ provokes attacks of opportunity as normal from moving out of squares threatened 
  Three or more natural weapons, Multiattack
 
 ### Benefit:
- The creature’s secondary attacks with natural weapons have no penalty. They still add
-only one-half the creature’s Strength bonus, if any, to damage dealt.
+ The creature's secondary attacks with natural weapons have no penalty. They still add
+only one-half the creature's Strength bonus, if any, to damage dealt.
 
 ### Normal:
- Without this feat, the creature’s secondary natural attacks have a -5 penalty (or a -2
+ Without this feat, the creature's secondary natural attacks have a -5 penalty (or a -2
 penalty if it has the Multiattack feat).
 
 ### Improved Multiweapon Fighting [General]

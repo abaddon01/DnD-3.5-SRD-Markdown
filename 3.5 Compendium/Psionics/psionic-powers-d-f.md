@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Psionics - Psionic Powers (D-F)
-aliases: 3.5 Psionic Powers (D-F)
+aliases:
+  - 3.5 Psionic Powers (D-F)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - psionics
   - psionic_powers_d-f
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -190,7 +190,7 @@ Telepathy (Compulsion) [Mind-Affecting]
 ### Power Points:
  7
 
-You plant a hidden death-urge impulse in the subject’s unconscious. On the subject’s next turn, it looks for the
+You plant a hidden death-urge impulse in the subject's unconscious. On the subject's next turn, it looks for the
 quickest method to end its life and attempts to do so. The subject takes no other action on its turn except
 attempting to harm itself.
 
@@ -203,7 +203,7 @@ immediate and lethal hazard such as a cliff or a fire might hurl itself off the 
 striking itself with a weapon.
 
 ### Augment:
- For every 4 additional power points you spend, this power’s save DC increases by 2 and
+ For every 4 additional power points you spend, this power's save DC increases by 2 and
 its duration increases by 1 round.
 
 ## Deceleration
@@ -227,7 +227,7 @@ Psychoportation
 ### Power Points:
  1
 
-You warp space around an individual, hindering the subject’s ability to move. The subject’s speed (in any movement
+You warp space around an individual, hindering the subject's ability to move. The subject's speed (in any movement
 mode it possesses) is halved. A subsequent manifestation of _deceleration_ on the subject does not further
 decrease its speed.
 
@@ -256,7 +256,7 @@ Psychoportation [Teleportation]
 ### Power Points:
  13
 
-With _decerebrate,_ you selectively remove a portion of the subject’s brain stem. The creature loses all
+With _decerebrate,_ you selectively remove a portion of the subject's brain stem. The creature loses all
 cerebral function, vision, hearing, and other sensory abilities, and all voluntary motor activity. The subject
 becomes limp and unresponsive. Without extreme measures, such as _greater restoration_ or some other suitable
 effect of 7th level or higher, the creature perishes in 1d4 days.
@@ -283,12 +283,12 @@ Telepathy [Mind-Affecting]
  1
 
 Your mental impulse forces the subject to repeat the actions it took on its previous turn. If the situation has
-changed in such a way that the subject can’t take the same actions again (if its foe is dead, or the subject has
+changed in such a way that the subject can't take the same actions again (if its foe is dead, or the subject has
 run out of power points, and so on), the subject stands still and takes no actions for 1 round. In any event, the
 subject can still defend itself, and it retains its Dexterity bonus to AC even if it stands still.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s save DC increases by 1.
+ For every 2 additional power points you spend, this power's save DC increases by 1.
 ## Demoralize
 Telepathy [Mind-Affecting]
 ### Level:
@@ -314,8 +314,8 @@ You fill your enemies with self-doubt. Any enemy in the area that fails its save
 of the power. Allies and creatures without an Intelligence score are unaffected.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s range and the radius of its
-area both increase by 5 feet, and the power’s save DC increases by 1.
+ For every 2 additional power points you spend, this power's range and the radius of its
+area both increase by 5 feet, and the power's save DC increases by 1.
 
 ## Destiny Dissonance
 Clairsentience
@@ -411,7 +411,7 @@ that of a psionic item.)
 Psionically charged locations, multiple disciplines, or strong local psionic emanations may confuse or conceal
 weaker auras.
 
-_Aura Strength:_ A psionic aura’s strength depends on a functioning power’s level or an item’s manifester
+_Aura Strength:_ A psionic aura's strength depends on a functioning power's level or an item's manifester
 level. If an aura falls into more than one category, _detect psionics_ indicates the stronger of the two.
 Detection of an overwhelming aura (see the accompanying table) dazes you for 1 round and the power ends.
 
@@ -460,13 +460,13 @@ Clairsentience
  7
 
 You immediately become aware of any attempt to observe you by means of a clairsentience (scrying) power or
-divination (scrying) spell. The power’s effect radiates from you and moves as you move. You know the location of
-every psionic or magical sensor within the power’s area.
+divination (scrying) spell. The power's effect radiates from you and moves as you move. You know the location of
+every psionic or magical sensor within the power's area.
 
-If the viewing attempt originates within the area, you also know the viewer’s location. Otherwise, you and the
-remote viewer immediately make opposed manifester level checks (1d20 + manifester level, or viewer’s caster level
-as appropriate). If you at least match the remote viewer’s result, you get a visual image of the remote viewer and
-an accurate sense of the remote viewer’s direction and distance from you.
+If the viewing attempt originates within the area, you also know the viewer's location. Otherwise, you and the
+remote viewer immediately make opposed manifester level checks (1d20 + manifester level, or viewer's caster level
+as appropriate). If you at least match the remote viewer's result, you get a visual image of the remote viewer and
+an accurate sense of the remote viewer's direction and distance from you.
 
 ## Detect Teleportation
 Clairsentience
@@ -495,7 +495,7 @@ When you sense the use of an appropriate power, you know the direction in which 
 distance or the exact effect.
 
 ### Augment:
- If you spend 2 additional power points, this power’s range increases to Medium (100 ft.
+ If you spend 2 additional power points, this power's range increases to Medium (100 ft.
 + 10 ft./level).
 
 ## Dimension Door, Psionic
@@ -546,7 +546,7 @@ of sight. You can bring along possessions that amount to as much as a medium loa
 weigh as much as 20 pounds. Movement caused by the use of
 _dimension slide_ does not provoke attacks of opportunity.
 
-If you somehow attempt to transfer yourself to a location occupied by a solid body or a location you can’t see the
+If you somehow attempt to transfer yourself to a location occupied by a solid body or a location you can't see the
 power simply fails to function.
 
 ### Augment:
@@ -630,13 +630,13 @@ Telepathy (Compulsion) [Mind-Affecting]
 
 You broadcast a mental compulsion that convinces one or more creatures of 4 Hit Dice or less that they are
 disabled (see page 307 of the
-_Player’s Handbook_). Creatures with the fewest HD are affected first. Among creatures with equal Hit Dice,
-those who are closest to the power’s point of origin are affected first. Hit Dice that are not sufficient to
+_Player's Handbook_). Creatures with the fewest HD are affected first. Among creatures with equal Hit Dice,
+those who are closest to the power's point of origin are affected first. Hit Dice that are not sufficient to
 affect a creature are wasted. Creatures that are rendered helpless or are destroyed when they reach 0 hit points
 cannot be affected.
 
 Creatures affected by this power believe that they have somehow been brought to the brink of unconsciousness and
-must act accordingly. While it’s possible for an important nonplayer character to attempt some sort of "heroic"
+must act accordingly. While it's possible for an important nonplayer character to attempt some sort of "heroic"
 action, common NPCs and creatures under the effect of this power typically cower or retreat.
 
 Any creature that attempts to take a standard action immediately breaks the compulsion and can act normally. A
@@ -645,7 +645,7 @@ not actually wounded, the healing is wasted. A creature that takes damage is als
 compulsion (although the damage still counts against its actual current hit points).
 
 ### Augment:
- For every 2 additional power points you spend, this power’s range increases by 5 feet
+ For every 2 additional power points you spend, this power's range increases by 5 feet
 and its save DC increases by 1.
 
 In addition, for every additional power point you spend to increase the range and the save DC, this power can
@@ -674,7 +674,7 @@ Psychoportation
 
 A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any
 creature struck by the ray takes 22d6 points of damage. Any creature reduced to 0 or fewer hit points by this
-power is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature’s equipment is
+power is entirely disintegrated, leaving behind only a trace of fine dust. A disintegrated creature's equipment is
 unaffected.
 
 When used against an object, the ray simply disintegrates as much as one 10-foot cube of nonliving matter. Thus,
@@ -748,7 +748,7 @@ out right or physically shifted to a random location on the Astral Plane (50% ch
 
 Other ongoing powers that create ectoplasmic objects or effects, such as
 _ectoplasmic cocoon,_ are dismissed if you succeed on a manifester level check (1d20 + your manifester level,
-maximum +10) against a DC of 11 + the power’s manifester level.
+maximum +10) against a DC of 11 + the power's manifester level.
 
 ## Dispel Psionics
 Psychokinesis
@@ -774,11 +774,11 @@ Psychokinesis
 You can use _dispel psionics_ to end ongoing powers that have been manifested on a creature or object, to
 temporarily suppress the psionic abilities of a psionic item, or to end ongoing powers (or at least their effects)
 within an area. A dispelled power ends as if its duration had expired. Some powers, as detailed in their
-descriptions, can’t be defeated by _dispel psionics,_ or can be ended only if you manifest
+descriptions, can't be defeated by _dispel psionics,_ or can be ended only if you manifest
 _dispel psionics_ at a high enough manifester level. _Dispel psionics_ can end spell-like effects just
 as it does powers.
 
-The effect of a power with an instantaneous duration can’t be dispelled, because the psionic effect is already
+The effect of a power with an instantaneous duration can't be dispelled, because the psionic effect is already
 over before the
 _dispel psionics_ can take effect.
 
@@ -786,14 +786,14 @@ You choose to use _dispel psionics_ in one of two ways: a targeted dispel or an 
 
 _Targeted Dispel:_ One object, creature, or power is the target of the _dispel psionics_ power. You
 make a dispel check (1d20 + your manifester level, maximum +10) against the power or against each ongoing power
-currently in effect on the object or creature. The DC for this dispel check is 11 + the power’s manifester level.
+currently in effect on the object or creature. The DC for this dispel check is 11 + the power's manifester level.
 If you succeed on a particular check, that power is dispelled; if you fail, that power remains in effect.
 
 If you target an object or creature that is the effect of an ongoing power or is under the effect of an ongoing
 power, you make a dispel check to end the power or its effect. If the object that you target is a psionic item,
-you make a dispel check against the item’s manifester level. If you succeed, all the item’s psionic properties are
+you make a dispel check against the item's manifester level. If you succeed, all the item's psionic properties are
 suppressed for 1d4 rounds, after which the item recovers on its own. A suppressed item becomes nonpsionic for the
-duration of the effect. An interdimensional interface is temporarily closed. A psionic item’s physical properties
+duration of the effect. An interdimensional interface is temporarily closed. A psionic item's physical properties
 are unchanged: A suppressed psionic sword is still a sword (a masterwork sword, in fact). Artifacts and deities
 are unaffected by mortal power such as this.
 
@@ -803,7 +803,7 @@ _Area Dispel:_ When _dispel psionics_ is used in this way, the power affects eve
 20-foot radius. For each creature within the area that is the subject of one or more powers, you make a dispel
 check against the power with the highest manifester level. If that check fails, you make dispel checks against
 progressively weaker powers until you dispel one power (which discharges the _dispel psionics_ power so far
-as that target is concerned) or until you fail all your checks. The creature’s psionic items are not affected.
+as that target is concerned) or until you fail all your checks. The creature's psionic items are not affected.
 
 For each object within the area that is the target of one or more powers, you make dispel checks as with
 creatures. Psionic items are not affected by an area dispel.
@@ -884,7 +884,7 @@ Your mere touch can disperse the surface material of a foe or object, sending a 
 effect is disruptive; thus, your successful melee touch attack deals 1d6 points of damage.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by 1d6 points.
+ For every additional power point you spend, this power's damage increases by 1d6 points.
 
 ## Dissolving Touch
 Psychometabolism [Acid]
@@ -913,7 +913,7 @@ you secrete denatures 1 round after use, losing all efficacy and ability to deal
 own acid.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s damage increases by 1d6
+ For every 2 additional power points you spend, this power's damage increases by 1d6
 points.
 
 ## Dissolving Weapon
@@ -959,7 +959,7 @@ Telepathy [Mind-Affecting]
 ### Power Points:
  1
 
-You cause your subject’s mind to wander, distracting her. Subjects under the effect of _distract_ make all
+You cause your subject's mind to wander, distracting her. Subjects under the effect of _distract_ make all
 Listen, Spot, Search, and Sense Motive checks at a -4 penalty.
 
 ## Divert Teleport
@@ -1054,7 +1054,7 @@ outsider in addition to the creature types mentioned above.
 3. For every 2 additional power points you spend, this power can affect an additional target. Any additional
 target cannot be more than 15 feet from another target of the power.
 
-In addition, for every 2 additional power points you spend to achieve any of these effects, this power’s save DC
+In addition, for every 2 additional power points you spend to achieve any of these effects, this power's save DC
 increases by 1.
 
 ## Dream Travel
@@ -1089,7 +1089,7 @@ dreams normally prowl, moving the desired distance, and then stepping back into 
 you will come out in the waking world.
 
 _Dream travel_ can also be used to travel to other planes that contain creatures that dream, but doing this
-requires crossing into the dreams of outsiders, where you are subject to the vagaries of many dream realities---a
+requires crossing into the dreams of outsiders, where you are subject to the vagaries of many dream realities--a
 potentially perilous proposition. Transferring to another plane of existence in this fashion requires 1d4 hours of
 uninterrupted travel.
 
@@ -1100,7 +1100,7 @@ creature remains in the dreamscape, it is powerless to leave unless it can manif
 itself or someone who manifests the power seeks out the lost creature.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s save DC increases by 1.
+ For every 2 additional power points you spend, this power's save DC increases by 1.
 ## Duodimensional Claw
 Psychometabolism
 ### Level:
@@ -1121,7 +1121,7 @@ Psychometabolism
 If you have a claw attack (either from an actual natural weapon or from an effect such as
 _claws of the beast_), you can use this power to improve that weapon. One of your claws becomes
 two-dimensional, making it razorsharp. The weapon is now psionically keen, increasing its threat range from 20 to
-19-20. This benefit does not stack with other effects that improve a weapon’s threat range.
+19-20. This benefit does not stack with other effects that improve a weapon's threat range.
 
 The third spatial component of your hand still exists but is temporarily shunted into the Ethereal Plane, so
 against ethereal or incorporeal targets this power is ineffective.
@@ -1156,7 +1156,7 @@ level.
 
 ### Augment:
  For every 2 additional power points you spend, your bonus on manifester level checks to
-protect your astral construct increases by 1, and your astral construct’s bonus on its saving throw to resist
+protect your astral construct increases by 1, and your astral construct's bonus on its saving throw to resist
 _dismiss ectoplasm_ increases by 1.
 
 ## Ectoplasmic Cocoon
@@ -1182,12 +1182,12 @@ Metacreativity
 
 You draw writhing strands of ectoplasm from the Astral Plane that wrap up the subject like a mummy. The subject
 can still breathe but is otherwise helpless, unable to see outside the cocoon, speak, or take any physical
-actions. The subject’s nostrils are clear (air passes through the cocoon normally). The subject can execute purely
+actions. The subject's nostrils are clear (air passes through the cocoon normally). The subject can execute purely
 mental actions (such as manifesting powers or casting spells with no verbal, somatic, or material components).
 
 Cutting or damaging the cocoon can free a victim. The cocoon has hardness 8 and 20 hit points. Teleportation and
 other forms of travel provide a means of escape, but the cocoon extends into the Ethereal Plane, blocking ethereal
-travel. An _ectoplasmic cocoon_ can’t be affected by _dispel psionics_, but it can be dismissed with
+travel. An _ectoplasmic cocoon_ can't be affected by _dispel psionics_, but it can be dismissed with
 _dismiss ectoplasm,_ or otherwise destroyed by extreme measures or items.
 
 The creature within the cocoon is visible only as a vague shape (substantial enough to interrupt line of sight)
@@ -1199,7 +1199,7 @@ or underwater may drown.
 
 ### Augment:
  You can augment this power in one or both of the following ways.
-1. For every 2 additional power points you spend, this power’s save DC increases by 1.
+1. For every 2 additional power points you spend, this power's save DC increases by 1.
 2. For every 2 additional power points you spend, this power can affect a target one size category larger.
 ## Ectoplasmic Cocoon, Mass
 Metacreativity
@@ -1220,11 +1220,11 @@ Metacreativity
 
 As _ectoplasmic cocoon_, except you can cocoon several creatures (or a single big creature that fits in a
 20-footradius sphere or hemisphere) in a mass of writhing ectoplasm. Targets entirely within the area who fail
-their save are caught and cocooned. If a creature’s body is only partially within the area, this power does not
+their save are caught and cocooned. If a creature's body is only partially within the area, this power does not
 affect that creature.
 
 ### Augment:
- For every 2 additional power points you spend, the radius of this power’s area increases
+ For every 2 additional power points you spend, the radius of this power's area increases
 by 5 feet.
 
 ## Ectoplasmic Form
@@ -1253,10 +1253,10 @@ Armor Class.
 You can manifest powers while in _ectoplasmic form_, but you must make a Concentration check (DC 20 + power
 level) for each power you attempt to manifest.
 
-You cannot physically attack, you lose supernatural abilities (if any), and you can’t speak while in
-_ectoplasmic form_. You can’t run, but you can fly at a speed of 20 feet (perfect). You can pass through
+You cannot physically attack, you lose supernatural abilities (if any), and you can't speak while in
+_ectoplasmic form_. You can't run, but you can fly at a speed of 20 feet (perfect). You can pass through
 small holes or narrow openings, even mere cracks, with all you were wearing or holding in your hands. You are
-subject to the effects of wind, and you can’t enter water or other liquid. You also can’t manipulate objects or
+subject to the effects of wind, and you can't enter water or other liquid. You also can't manipulate objects or
 activate items, even those carried along with you. Continuously active items remain active, though in some cases
 their effects may be moot (such as items that provide armor or natural armor bonuses).
 
@@ -1285,11 +1285,11 @@ You fashion an ephemeral, manylegged mass of pseudo-living ectoplasm called an e
 direct the shambler as a free action. It has a speed of 10 feet. It can completely surround objects (and
 opponents) over which it is manifested or onto which it moves, because it has the consistency of thick mist. The
 vision of those within the shambler is limited to 5 feet, and manifesting powers (or casting spells) within the
-shambler is difficult due to the constant turbulence felt by those caught in the shambler’s form.
+shambler is difficult due to the constant turbulence felt by those caught in the shambler's form.
 
 Creatures enveloped by the shambler, regardless of Armor Class, take 1 point of damage for every two manifester
 levels you have in each round they become or remain within the roiling turbulence of the shambler. Anyone trying
-to manifest a power must make a Concentration check (DC 15 + power’s or spell’s level) to successfully manifest a
+to manifest a power must make a Concentration check (DC 15 + power's or spell's level) to successfully manifest a
 power or cast a spell inside the shambler.
 
 A wind stronger than 20 miles per hour that blows against the shambler reduces its speed to 0 feet during the
@@ -1322,7 +1322,7 @@ of Charisma damage, or half that amount (minimum 1 point) on a successful save. 
 also dazed for 1 round.
 
 ### Augment:
- For every 4 additional power points you spend, this power’s Charisma damage increases by
+ For every 4 additional power points you spend, this power's Charisma damage increases by
 1d4 points and its save DC increases by 2.
 
 ## Elfsight
@@ -1375,7 +1375,7 @@ change this damage. The damage from _empathic feedback_ has no type, so even if 
 creature that has immunity to fire, _empathic feedback_ will damage your attacker.
 
 ### Augment:
- For every additional power point you spend, this power’s damage potential increases by 1
+ For every additional power point you spend, this power's damage potential increases by 1
 point.
 
 ## Empathic Transfer
@@ -1395,11 +1395,11 @@ Psychometabolism
 ### Power Points:
  3
 
-You heal another creature’s wounds, transferring some of its damage to yourself. When you manifest this power, you
+You heal another creature's wounds, transferring some of its damage to yourself. When you manifest this power, you
 can heal as much as 2d10 points of damage. The target regains a number of hit points equal to the dice result, and
 you lose hit points equal to half of that amount. (This loss can bring you to 0 or fewer hit points.) Powers and
 abilities you may have such as damage reduction and regeneration do not lessen or change this damage, since you
-are taking the target’s pain into yourself in an empathic manner. The damage transferred by this power has no
+are taking the target's pain into yourself in an empathic manner. The damage transferred by this power has no
 type, so even if you have immunity to the type of damage the target originally took, the transfer occurs normally
 and deals hit point damage to you.
 
@@ -1477,7 +1477,7 @@ Telepathy [Mind-Affecting]
 ### Power Points:
  1
 
-You detect the surface emotions of any creature you can see that is in the power’s area. You can sense basic
+You detect the surface emotions of any creature you can see that is in the power's area. You can sense basic
 needs, drives, and emotions. Thirst, hunger, fear, fatigue, pain, rage, hatred, uncertainty, curiosity,
 friendliness, and many other kinds of sensations and moods can all be perceived.
 
@@ -1487,9 +1487,9 @@ when you cease concentrating on this power.
 ### Augment:
  You can augment this power in one or both of the following ways.
 
-1. For every additional power point you spend, this power’s range and the radius of its area increases by 5 feet.
+1. For every additional power point you spend, this power's range and the radius of its area increases by 5 feet.
 
-2. If you spend 2 additional power points, this power’s maximum duration increases to 1 hour/level.
+2. If you spend 2 additional power points, this power's maximum duration increases to 1 hour/level.
 ## Empty Mind
 Telepathy [Mind-Affecting]
 ### Level:
@@ -1546,7 +1546,7 @@ The energy resistance provided by this power increases to 20 points at 9th manif
 points at 13th level. The power protects your equipment as well.
 
 The resistance provided by this power does not stack with other forms of energy resistance.
-This power’s subtype is the same as the type of damage it protects against.
+This power's subtype is the same as the type of damage it protects against.
 
 ### Augment:
  If you spend 4 additional power points, you can manifest this power as an immediate
@@ -1562,7 +1562,7 @@ Psychometabolism [see text]
 As _energy adaptation,_ except you must choose one type of energy to which you gain resistance when this
 power is manifested.
 
-This power’s subtype is the same as the type of damage it protects against.
+This power's subtype is the same as the type of damage it protects against.
 
 ### Augment:
  If you spend 4 additional power points, you can manifest this power as an immediate
@@ -1600,12 +1600,12 @@ _Electricity:_ Manifesting a ball of this energy type provides a +2 bonus to the
 manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A ball of this energy type deals +1 point of damage per die.
-_Sonic:_ A ball of this energy type deals -1 point of damage per die and ignores an object’s hardness.
-This power’s subtype is the same as the type of energy you manifest.
+_Sonic:_ A ball of this energy type deals -1 point of damage per die and ignores an object's hardness.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by one die
-(d6). For each extra two dice of damage, this power’s save DC increases by 1.
+ For every additional power point you spend, this power's damage increases by one die
+(d6). For each extra two dice of damage, this power's save DC increases by 1.
 
 ## Energy Bolt
 Psychokinesis [see text]
@@ -1639,12 +1639,12 @@ _Electricity:_ Manifesting a bolt of this energy type provides a +2 bonus to the
 manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A bolt of this energy type deals +1 point of damage per die.
-_Sonic:_ A bolt of this energy type deals -1 point of damage per die and ignores an object’s hardness.
-This power’s subtype is the same as the type of energy you manifest.
+_Sonic:_ A bolt of this energy type deals -1 point of damage per die and ignores an object's hardness.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by one die
-(d6). For each extra two dice of damage, this power’s save DC increases by 1.
+ For every additional power point you spend, this power's damage increases by one die
+(d6). For each extra two dice of damage, this power's save DC increases by 1.
 
 ## Energy Burst
 Psychokinesis [see text]
@@ -1680,13 +1680,13 @@ manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A burst of this energy type deals +1 point of damage per die.
 
-_Sonic:_ A burst of this energy type deals -1 point of damage per die and ignores an object’s hardness.
+_Sonic:_ A burst of this energy type deals -1 point of damage per die and ignores an object's hardness.
 
-This power’s subtype is the same as the type of energy you manifest.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by one die
-(d6). For each extra two dice of damage, this power’s save DC increases by 1.
+ For every additional power point you spend, this power's damage increases by one die
+(d6). For each extra two dice of damage, this power's save DC increases by 1.
 
 ## Energy Cone
 Psychokinesis [see text]
@@ -1720,12 +1720,12 @@ _Electricity:_ Manifesting a cone of this energy type provides a +2 bonus to the
 manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A cone of this energy type deals +1 point of damage per die.
-_Sonic:_ A cone of this energy type deals -1 point of damage per die and ignores an object’s hardness.
-This power’s subtype is the same as the type of energy you manifest.
+_Sonic:_ A cone of this energy type deals -1 point of damage per die and ignores an object's hardness.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by one die
-(d6). For each extra two dice of damage, this power’s save DC increases by 1.
+ For every additional power point you spend, this power's damage increases by one die
+(d6). For each extra two dice of damage, this power's save DC increases by 1.
 
 ## Energy Conversion
 Psychometabolism [see text]
@@ -1750,14 +1750,14 @@ Psychometabolism [see text]
 
 As _energy adaptation_, except that instead of radiating away energy as light, you store up the energy and
 can later discharge it as a ray. To discharge a ray requires a standard action. You can choose to fire any number
-of rays during the power’s duration. The ray you fire must be of one of the energy types you have stored (if you
+of rays during the power's duration. The ray you fire must be of one of the energy types you have stored (if you
 have stored more than one type, you can choose what kind of energy to use for each ray). If a ray successfully
 strikes its target (requiring a ranged touch attack), the target takes damage equal to the amount of energy damage
 of that type you have stored, up to a maximum of three times your manifester level. As long as this power remains
 in effect, you can continue to absorb energy damage and fire additional rays using the stored damage.
 
-This power’s subtype is the same as the type of energy you discharge in a ray; thus, its subtype can change during
-the course of the power’s duration.
+This power's subtype is the same as the type of energy you discharge in a ray; thus, its subtype can change during
+the course of the power's duration.
 
 ## Energy Current
 Psychokinesis [see text]
@@ -1780,7 +1780,7 @@ Psychokinesis [see text]
 ### Power Points:
  9
 
-Upon manifesting this power, you choose cold, electricity, fire, or sonic. Your body’s psionically fueled
+Upon manifesting this power, you choose cold, electricity, fire, or sonic. Your body's psionically fueled
 bioenergetic currents produce an arc of energy of the chosen type that targets a creature you designate as the
 primary foe for 9d6 points of damage in every round when the power remains in effect. Energy also arcs off the
 primary foe to strike one additional foe that is initially within 15 feet of the primary foe, or that subsequently
@@ -1788,7 +1788,7 @@ moves within 15 feet of the primary foe while the duration lasts. Secondary foes
 primary foe takes in every round while the duration lasts.
 
 Should either the primary or secondary foe fall to less than 0 hit points (or should a target completely evade the
-effect with a special ability or power), the _energy current_ ’s arc randomly retargets another primary
+effect with a special ability or power), the _energy current_ 's arc randomly retargets another primary
 and/or secondary foe while the duration lasts. Targeted foes can move normally, possibly moving out of range of
 the effect, but each round they are targeted and remain in range they must make a saving throw to avoid taking
 full damage in that round.
@@ -1805,14 +1805,14 @@ on manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A current of this energy type deals +1 point of damage per die.
 
-_Sonic:_ A current of this energy type deals -1 point of damage per die and ignores an object’s hardness.
+_Sonic:_ A current of this energy type deals -1 point of damage per die and ignores an object's hardness.
 
-This power’s subtype is the same as the type of energy you manifest.
+This power's subtype is the same as the type of energy you manifest.
 ### Augment:
  You can augment this power in one or both of the following ways.
 
-1. For every additional power point you spend, this power’s damage increases by one die (d6). For each extra two
-dice of damage, this power’s save DC increases by 1.
+1. For every additional power point you spend, this power's damage increases by one die (d6). For each extra two
+dice of damage, this power's save DC increases by 1.
 
 2. For every 4 additional power points you spend, this power can affect an additional secondary target. Any
 additional secondary target cannot be more than 15 feet from another target of the power.
@@ -1851,12 +1851,12 @@ on manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A missile of this energy type deals +1 point of damage per die.
 
-_Sonic:_ A missile of this energy type deals -1 point of damage per die and ignores an object’s hardness.
+_Sonic:_ A missile of this energy type deals -1 point of damage per die and ignores an object's hardness.
 
-This power’s subtype is the same as the type of energy you manifest.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by one die
+ For every additional power point you spend, this power's damage increases by one die
 (d6) and its save DC increases by 1.
 
 ## Energy Push
@@ -1898,12 +1898,12 @@ _Fire:_ A blast of this energy type deals +1 point of damage per die (damage fro
 points).
 
 _Sonic:_ A blast of this energy type deals -1 point of damage per die (damage from impact remains at 2d6
-points) and ignores an object’s hardness.
+points) and ignores an object's hardness.
 
-This power’s subtype is the same as the type of energy you manifest.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s damage increases by one die
+ For every 2 additional power points you spend, this power's damage increases by one die
 (d6) and its save DC increases by 1. The damage increase applies to both the initial blast and any damage from
 impact with an object.
 
@@ -1938,11 +1938,11 @@ _Electricity:_ Manifesting a ray of this energy type provides a +3 bonus on your
 is wearing metal armor and a +2 bonus on manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A ray of this energy type deals +1 point of damage per die.
-_Sonic:_ A ray of this energy type deals -1 point of damage per die and ignores an object’s hardness.
-This power’s subtype is the same as the type of energy you manifest.
+_Sonic:_ A ray of this energy type deals -1 point of damage per die and ignores an object's hardness.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by one die
+ For every additional power point you spend, this power's damage increases by one die
 (d6).
 
 ## Energy Retort
@@ -1967,7 +1967,7 @@ Psychokinesis [see text]
  5
 
 Upon manifesting this power, you choose cold, electricity, fire, or sonic. You weave a field of potential energy
-of the chosen type around your body. The first successful attack made against you in each round during the power’s
+of the chosen type around your body. The first successful attack made against you in each round during the power's
 duration prompts a response from the field with out any effort on your part. The attack may be physical, the
 effect of a power, or the effect of a spell (including spell-like, supernatural, and extraordinary abilities). An
 "ectoburst" discharges from the field, targeting the source of the attack and dealing 4d6 points of damage of the
@@ -1983,12 +1983,12 @@ manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A field of this energy type deals +1 point of damage per die.
 
-_Sonic:_ A field of this energy type deals -1 point of damage per die and ignores an object’s hardness.
+_Sonic:_ A field of this energy type deals -1 point of damage per die and ignores an object's hardness.
 
-This power’s subtype is the same as the type of energy you manifest.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every additional power point you spend, this power’s duration increases by 1 minute.
+ For every additional power point you spend, this power's duration increases by 1 minute.
 
 ## Energy Stun
 Psychokinesis [see text]
@@ -2023,12 +2023,12 @@ on manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A stroke of this energy type deals +1 point of damage per die.
 
-_Sonic:_ A stroke of this energy type deals -1 point of damage per die and ignores an object’s hardness.
+_Sonic:_ A stroke of this energy type deals -1 point of damage per die and ignores an object's hardness.
 
-This power’s subtype is the same as the type of energy you manifest.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by one die
+ For every additional power point you spend, this power's damage increases by one die
 (d6) and its save DC increases by 1.
 
 ## Energy Wall
@@ -2075,9 +2075,9 @@ manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A sheet of this energy type deals +1 point of damage per die.
 
-_Sonic:_ A sheet of this energy type deals -1 point of damage per die and ignores an object’s hardness.
+_Sonic:_ A sheet of this energy type deals -1 point of damage per die and ignores an object's hardness.
 
-This power’s subtype is the same as the type of energy you manifest.
+This power's subtype is the same as the type of energy you manifest.
 ## Energy Wave
 Psychokinesis [see text]
 ### Level:
@@ -2110,12 +2110,12 @@ _Electricity:_ Manifesting a wave of this energy type provides a +2 bonus to the
 manifester level checks for the purpose of overcoming power resistance.
 
 _Fire:_ A wave of this energy type deals +1 point of damage per die.
-_Sonic:_ A wave of this energy type deals -1 point of damage per die and ignores an object’s hardness.
-This power’s subtype is the same as the type of energy you manifest.
+_Sonic:_ A wave of this energy type deals -1 point of damage per die and ignores an object's hardness.
+This power's subtype is the same as the type of energy you manifest.
 
 ### Augment:
- For every additional power point you spend, this power’s damage increases by one die
-(d6). For each extra two dice of damage, this power’s save DC increases by 1.
+ For every additional power point you spend, this power's damage increases by one die
+(d6). For each extra two dice of damage, this power's save DC increases by 1.
 
 ## Entangling Ectoplasm
 Metacreativity (Creation)
@@ -2140,7 +2140,7 @@ Metacreativity (Creation)
 
 You draw forth a glob of ectoplasmic goo from the Astral Plane and immediately throw it as a ranged touch attack
 at any creature in range. On a successful hit, the subject is covered in goo and becomes entangled. The goo
-evaporates at the end of the power’s duration.
+evaporates at the end of the power's duration.
 
 ### Augment:
  For every 2 additional power points you spend, this power can affect a target one size
@@ -2169,7 +2169,7 @@ Psychokinesis
 ### Power Points:
  5
 
-You radiate a psychokinetic burst that disrupts and negates all types of invisibility (though this power can’t
+You radiate a psychokinetic burst that disrupts and negates all types of invisibility (though this power can't
 negate the effect of
 _cloud mind_). Any creature that fails its save to avoid the effect loses its invisibility.
 
@@ -2177,7 +2177,7 @@ Creatures that are naturally invisible, such as an invisible stalker, are reveal
 (until the beginning of your next turn) and do not have total concealment during this period.
 
 ### Augment:
- For every additional power point you spend, this power’s range and the radius of the
+ For every additional power point you spend, this power's range and the radius of the
 burst in which it functions both increase by 5 feet.
 
 ## Escape Detection
@@ -2268,7 +2268,7 @@ on a successful save, you instead take no damage.
 You can manifest this power with an instant thought, quickly enough to save yourself if you unexpectedly come
 within range of a dangerous effect. Manifesting this power is an immediate action, like manifesting a quickened
 power, and it counts toward the normal limit of one quickened power per round. You can even manifest this power
-when it isn’t your turn.
+when it isn't your turn.
 
 ### Augment:
  If you spend 4 additional power points, you take only half damage on a failed Reflex
@@ -2299,7 +2299,7 @@ You spit forth vitriolic acid, originating from your mouth, at your target. If y
 attack, the target takes 3d6 points of acid damage.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s damage increases by 1d6
+ For every 2 additional power points you spend, this power's damage increases by 1d6
 points.
 
 ## Expansion
@@ -2325,9 +2325,9 @@ penalty to Dexterity (to a minimum effective Dexterity score of 1), a -1 size pe
 size penalty to Armor Class due to your increased size.
 
 If your new size is Large or larger, you have a space of at least 10 feet and a natural reach of at least 10 feet.
-This power doesn’t change your speed. If insufficient room is available for the desired growth, you attain the
+This power doesn't change your speed. If insufficient room is available for the desired growth, you attain the
 maximum possible size and can make a Strength check (using your increased Strength score) to burst any enclosures
-in the process. If you fail, you are constrained without harm by the materials enclosing you---you cannot crush
+in the process. If you fail, you are constrained without harm by the materials enclosing you--you cannot crush
 yourself to death by increasing your size.
 
 All your equipment, worn or carried, is similarly expanded by this power. Melee and projectile weapons deal more
@@ -2336,7 +2336,7 @@ damage.
 Other psionic or magical properties are not affected by this power. Any affected item that leaves your possession
 (including a projectile or thrown weapon) instantly returns to its normal size. This means that thrown weapons
 deal their normal damage (projectiles deal damage based on the size of the weapon that fired them). Multiple
-effects that increase size do not stack, which means (among other things) that you can’t use a second
+effects that increase size do not stack, which means (among other things) that you can't use a second
 manifestation of this power to further expand yourself.
 
 ### Augment:
@@ -2349,7 +2349,7 @@ You gain a +4 size bonus to Strength, a -4 size penalty to Dexterity (to a minim
 2. If you spend 6 additional power points, you can manifest this power as a swift action instead of a standard
 action.
 
-3. If you spend 2 additional power points, this power’s duration is 1 minute per level rather than 1 round per
+3. If you spend 2 additional power points, this power's duration is 1 minute per level rather than 1 round per
 level.
 
 ## Fabricate, Psionic
@@ -2405,21 +2405,21 @@ Telepathy [Mind-Affecting]
 ### Power Points:
  5
 
-You have a limited ability to falsify one of the subject’s senses. The subject thinks she sees, hears, smells,
-tastes, or feels something other than what her senses actually report. You can’t create a sensation where none
+You have a limited ability to falsify one of the subject's senses. The subject thinks she sees, hears, smells,
+tastes, or feels something other than what her senses actually report. You can't create a sensation where none
 exists, nor make the subject completely oblivious to a sensation, but you can replace the specifics of one
 sensation with different specifics. For instance, you could make a human look like a dwarf (or one human look like
 another specific human), a closed door look like it is open, a vat of acid smell like rose water, a parrot look
 like a bookend, stale rations taste like fresh fruit, a light pat feel like a dagger thrust, a scream sound like
 the howling wind, and so on.
 
-You can switch between senses you falsify round by round. You can’t alter the size of an object by more than 50%
-by using this power. Thus, you couldn’t make a castle look like a hovel, but you could make it look like a
+You can switch between senses you falsify round by round. You can't alter the size of an object by more than 50%
+by using this power. Thus, you couldn't make a castle look like a hovel, but you could make it look like a
 different castle, or a rough hillock of approximately the same size. If this power is used to distract an enemy
 manifester who is attempting to use his powers, the enemy must make a Concentration check as if being grappling or
 pinned.
 
-Because you override a victim’s senses, you can fool a victim who is using
+Because you override a victim's senses, you can fool a victim who is using
 _true seeing_ or some other method of gathering information, assuming you know that the victim is actively
 using such an effect and you can maintain concentration.
 
@@ -2450,11 +2450,11 @@ Psychokinesis
 
 You can mentally lift and move an object at will from a distance. As a move action, you can propel the object as
 far as 15 feet in any direction, though the power ends if the distance between you and the object exceeds the
-power’s range.
+power's range.
 
 ### Augment:
  You can augment this power in one or both of the following ways.
-1. For every 2 additional power points you spend, this power’s range increases by 5 feet.
+1. For every 2 additional power points you spend, this power's range increases by 5 feet.
 2. For every additional power point you spend, the weight limit of the target increases by 2 pounds.
 ## Fate Link
 Clairsentience
@@ -2481,11 +2481,11 @@ You temporarily link the fates of any two creatures, if both fail their saving t
 experiences pain, both feel it. When one loses hit points, the other loses the same amount. If one takes nonlethal
 damage, so does the other. If one creature is subjected to an effect to which it is immune (such as a type of
 energy damage), the linked creature is not subjected to it either. If one dies, the other must immediately succeed
-on a Fortitude save against this power’s save DC or gain two negative levels.
+on a Fortitude save against this power's save DC or gain two negative levels.
 
 No other effects are transferred by the _fate link._
 ### Augment:
- For every 2 additional power points you spend, this power’s save DC increases by 1.
+ For every 2 additional power points you spend, this power's save DC increases by 1.
 ## Fate of One
 Clairsentience
 ### Level:
@@ -2532,24 +2532,24 @@ Clairsentience
 ### Power Points:
  3
 
-You can use another’s psionic or metapsionic feats for yourself. You make a melee touch attack against a target.
-If successful, you immediately are familiar with the target’s psionic and metapsionic feats, if any, and you can
+You can use another's psionic or metapsionic feats for yourself. You make a melee touch attack against a target.
+If successful, you immediately are familiar with the target's psionic and metapsionic feats, if any, and you can
 choose a number of these feats to "leech" equal to your Wisdom modi- fier (minimum one).
 
 While the power lasts, you are treated as if you possessed the stolen feats, despite the fact that you have more
 feats than normally allowed. During this same period, the target can make no use of the stolen feats. When the
-power’s duration expires, you lose access to the feats, and the target gains immediate use of them. This transfer
+power's duration expires, you lose access to the feats, and the target gains immediate use of them. This transfer
 occurs regardless of the distance between you and the target.
 
 If the duration of _feat leech_ is extended by the use of a metapsionic feat, the target gains a Will saving
-throw every 10 minutes beyond the normal duration. If this save succeeds, the power’s duration ends. If the target
+throw every 10 minutes beyond the normal duration. If this save succeeds, the power's duration ends. If the target
 is killed before the duration expires, you immediately lose the benefit of the stolen feats.
 
 You cannot steal a feat for which you do not meet the prerequisites, if any. However, you can use a stolen feat as
 the prerequisite for another stolen feat.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s save DC increases by 1.
+ For every 2 additional power points you spend, this power's save DC increases by 1.
 ## Fiery Discorporation
 Psychokinesis [Fire]
 ### Level:
@@ -2574,7 +2574,7 @@ and vanish, along with all your gear and anything you are holding or carrying.
 
 One day later, you reappear adjacent to an open flame nearest to the place where you discorporated, seeming to
 materialize from the fire (you choose where you appear along the perimeter of that open flame). While
-discorporated, you do not exist---you can do nothing, nor can any of your enemies do anything to you.
+discorporated, you do not exist--you can do nothing, nor can any of your enemies do anything to you.
 
 ### Augment:
  For every 3 additional power points you spend, you gain a +1 bonus on your Will save to
@@ -2598,7 +2598,7 @@ Psychometabolism
  13
 
 You can divide yourself, creating a duplicate that comes into existence 5 feet away. Your duplicate thinks and
-acts exactly as you do and follows your orders, although it will not do anything you wouldn’t do yourself. Your
+acts exactly as you do and follows your orders, although it will not do anything you wouldn't do yourself. Your
 duplicate has all your abilities but none of your psionic or magical equipment (it does possess a duplicate of all
 your mundane equipment, clothing, armor, and implements, as well as mundane versions of any psionic or magical
 equipment you have). You and your duplicate evenly split your power points, your remaining usages of pertinent
@@ -2611,7 +2611,7 @@ spells, or other effects affecting you when you manifest this power do not trans
 When the duration expires or when you dismiss the power, you and your duplicate rejoin, no matter how far from
 each other you are. You gain back any power points the duplicate has not spent. At the time of rejoining, you take
 half of the damage your duplicate has taken since this power was manifested. This damage could potentially leave
-you with negative hit points, but it can’t reduce your hit points to less than -9.
+you with negative hit points, but it can't reduce your hit points to less than -9.
 
 If your duplicate dies before the duration expires, no rejoining occurs, and you gain one negative level. If you
 die, your duplicate remains in existence, and is for all intents you, but with two negative levels. (Once the
@@ -2623,7 +2623,7 @@ You cannot use _fusion_ or _metaconcert_ with a duplicate, or share any other po
 abilities (the sum of you and you is still just you). Similarly, attempting to use powers such as
 _claws of the vampire_ or _vampiric blade_ to hurt your duplicate only damages your duplicate; these
 powers do not heal you. _Empathic transfer_ and similar powers are likewise ineffective (transferring wounds
-to yourself isn’t a good healing strategy).
+to yourself isn't a good healing strategy).
 
 All powers affecting a _fissioned_ creature, either the original or the duplicate, end when the
 _fission_ ends. All damage, including hit point damage, ability damage, ability drain, and ability burn
@@ -2732,13 +2732,13 @@ If you forgo all your other attacks, making only tentacle attacks, you make your
 base attack bonus with no penalty. These tentacles deal 2d8 points of damage plus one-half your Strength bonus on
 each successful strike.
 
-This power functions only while you inhabit your base form (for instance, you can’t be metamorphed or polymorphed
+This power functions only while you inhabit your base form (for instance, you can't be metamorphed or polymorphed
 into another form, though you can use _breath of the black dragon, claws of the beast_, and
 _bite of the wolf_ in conjunction with this power for your regular attacks), and while your mind resides
 within your own body.
 
 ### Augment:
- For every additional power point you spend, this power’s duration increases by 2 rounds.
+ For every additional power point you spend, this power's duration increases by 2 rounds.
 
 ## Freedom of Movement, Psionic
 Psychoportation
@@ -2779,7 +2779,7 @@ Psychometabolism
 ### Power Points:
  11
 
-You cause the touched subject’s flesh to ripple, grow together, and fuse into a nearly seamless whole. The subject
+You cause the touched subject's flesh to ripple, grow together, and fuse into a nearly seamless whole. The subject
 is forced into a fetal position (if humanoid), with only the vaguest outline of its folded arms and legs visible
 below the all-encompassing wave of flesh. The subject retains the ability to breathe, eat, and excrete, but may
 lose the use of its senses (see below). If the sudden transformation would prove fatal to the creature (such as
@@ -2787,8 +2787,8 @@ fusing a swimming airbreathing subject, or a flying subject), the subject gets a
 loses the use of its senses (see below), the creature can still perform purely mental actions, such as manifesting
 powers.
 
-If the target fails its Fortitude save to avoid the power’s effect, the subject must immediately attempt a second
-Fortitude save. If this second save is failed, the creature’s eyes and ears fuse over, effectively blinding and
+If the target fails its Fortitude save to avoid the power's effect, the subject must immediately attempt a second
+Fortitude save. If this second save is failed, the creature's eyes and ears fuse over, effectively blinding and
 deafening it. Moreover, it loses its extraordinary, supernatural, and spell-like abilities, as well as its ability
 to manifest powers (if any), and is generally in sorry shape.
 
@@ -2796,7 +2796,7 @@ Incorporeal or gaseous creatures and creatures not composed of flesh are immune 
 shapechanger can revert to its unfused form as a standard action.
 
 ### Augment:
- For every 2 additional power points you spend, this power’s save DC increases by 1.
+ For every 2 additional power points you spend, this power's save DC increases by 1.
 ## Fusion
 Psychometabolism
 ### Level:
@@ -2818,12 +2818,12 @@ You and another willing, corporeal, living creature of the same or smaller size 
 manifester, you control the actions of the fused being. However, you can give up this control to the other
 creature. Once you give up control, you cannot regain it unless the other creature relinquishes it.
 
-The fused being has your current hit points plus the other creature’s current hit points. The fused being knows
-all the powers you and the other creature know, has the sum of your and the other creature’s power points, and
+The fused being has your current hit points plus the other creature's current hit points. The fused being knows
+all the powers you and the other creature know, has the sum of your and the other creature's power points, and
 knows or has prepared any spells you or the other creature possesses (if any). Likewise, all feats, racial
 abilities, and class features are pooled (if both creatures have the same ability, the fused being gains it only
-once). For each of the six ability scores, the fused being’s score is the higher of yours and the other
-creature’s, and the fused being also has the higher Hit Dice or manifester level---this effectively means the fused
+once). For each of the six ability scores, the fused being's score is the higher of yours and the other
+creature's, and the fused being also has the higher Hit Dice or manifester level--this effectively means the fused
 being uses the better saving throws, attack bonus, and skill modifiers of either member, and it manifests powers
 at the higher of the manifester levels that you or the other creature possessed before becoming fused.
 
@@ -2837,9 +2837,9 @@ solid material passed through.
 
 Damage taken by the fused being is split evenly between you and the other creature when the power ends. You do not
 leave the _fusion_ with more hit points than you entered it with, unless you were damaged prior to the
-_fusion_ and the fused being was subsequently healed. In a like manner, the fused being’s remaining power
+_fusion_ and the fused being was subsequently healed. In a like manner, the fused being's remaining power
 points are split between you and the other creature (you can leave with more points than you entered with, as long
-as you don’t exceed the maximum power points for your level and ability score). Ability damage and negative levels
+as you don't exceed the maximum power points for your level and ability score). Ability damage and negative levels
 are also split between you and the other creature. (If an odd number of negative levels or ability score
 reductions must be split, you decide whether you or the other creature receives the additional loss.)
 

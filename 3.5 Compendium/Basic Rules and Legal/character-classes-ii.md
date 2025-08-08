@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Character Classes II
-aliases: 3.5 Character Classes II
+aliases:
+  - 3.5 Character Classes II
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - character_classes_ii
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -19,7 +19,7 @@ This material is Open Game Content, and is licensed for public use under the ter
     *   [[#Class Skills]]
     *   [[#Class Features]]
     *   [[#Ex-Paladins]]
-    *   [[#The Paladin’s Mount]]
+    *   [[#The Paladin's Mount]]
 *   [[#Ranger]]
     *   [[#Class Skills]]
     *   [[#Class Features]]
@@ -45,7 +45,7 @@ This material is Open Game Content, and is licensed for public use under the ter
  d10.
 ### Class Skills
 
-The paladin’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy
+The paladin's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy
 (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nobility and royalty) (Int), Knowledge (religion) (Int),
 Profession (Wis), Ride (Dex), and Sense Motive (Wis).
 
@@ -59,19 +59,19 @@ Profession (Wis), Ride (Dex), and Sense Motive (Wis).
 |  |  |  |  |  |  | Spells per Day |
 | --- | --- | --- | --- | --- | --- | --- |
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th |
-| 1st | +1 | +2 | +0 | +0 | Aura of good, _detect evil_, smite evil 1/day | --- | --- | --- | --- |
-| 2nd | +2 | +3 | +0 | +0 | Divine grace, lay on hands | --- | --- | --- | --- |
-| 3rd | +3 | +3 | +1 | +1 | Aura of courage, divine health | --- | --- | --- | --- |
-| 4th | +4 | +4 | +1 | +1 | Turn undead | 0 | --- | --- | --- |
-| 5th | +5 | +4 | +1 | +1 | Smite evil 2/day, special mount | 0 | --- | --- | --- |
-| 6th | +6/+1 | +5 | +2 | +2 | _Remove disease_ 1/week | 1 | --- | --- | --- |
-| 7th | +7/+2 | +5 | +2 | +2 |  | 1 | --- | --- | --- |
-| 8th | +8/+3 | +6 | +2 | +2 |  | 1 | 0 | --- | --- |
-| 9th | +9/+4 | +6 | +3 | +3 | _Remove disease_ 2/week | 1 | 0 | --- | --- |
-| 10th | +10/+5 | +7 | +3 | +3 | Smite evil 3/day | 1 | 1 | --- | --- |
-| 11th | +11/+6/+1 | +7 | +3 | +3 |  | 1 | 1 | 0 | --- |
-| 12th | +12/+7/+2 | +8 | +4 | +4 | _Remove disease_ 3/week | 1 | 1 | 1 | --- |
-| 13th | +13/+8/+3 | +8 | +4 | +4 |  | 1 | 1 | 1 | --- |
+| 1st | +1 | +2 | +0 | +0 | Aura of good, _detect evil_, smite evil 1/day | -- | -- | -- | -- |
+| 2nd | +2 | +3 | +0 | +0 | Divine grace, lay on hands | -- | -- | -- | -- |
+| 3rd | +3 | +3 | +1 | +1 | Aura of courage, divine health | -- | -- | -- | -- |
+| 4th | +4 | +4 | +1 | +1 | Turn undead | 0 | -- | -- | -- |
+| 5th | +5 | +4 | +1 | +1 | Smite evil 2/day, special mount | 0 | -- | -- | -- |
+| 6th | +6/+1 | +5 | +2 | +2 | _Remove disease_ 1/week | 1 | -- | -- | -- |
+| 7th | +7/+2 | +5 | +2 | +2 |  | 1 | -- | -- | -- |
+| 8th | +8/+3 | +6 | +2 | +2 |  | 1 | 0 | -- | -- |
+| 9th | +9/+4 | +6 | +3 | +3 | _Remove disease_ 2/week | 1 | 0 | -- | -- |
+| 10th | +10/+5 | +7 | +3 | +3 | Smite evil 3/day | 1 | 1 | -- | -- |
+| 11th | +11/+6/+1 | +7 | +3 | +3 |  | 1 | 1 | 0 | -- |
+| 12th | +12/+7/+2 | +8 | +4 | +4 | _Remove disease_ 3/week | 1 | 1 | 1 | -- |
+| 13th | +13/+8/+3 | +8 | +4 | +4 |  | 1 | 1 | 1 | -- |
 | 14th | +14/+9/+4 | +9 | +4 | +4 |  | 2 | 1 | 1 | 0 |
 | 15th | +15/+10/+5 | +9 | +5 | +5 | _Remove disease_ 4/week, smite evil 4/day | 2 | 1 | 1 | 1 |
 | 16th | +16/+11/+6/+1 | +10 | +5 | +5 |  | 2 | 2 | 1 | 1 |
@@ -88,7 +88,7 @@ All of the following are class features of the paladin.
 all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
 ### Aura of Good (Ex):
- The power of a paladin’s aura of good (see the _detect good_ spell) is
+ The power of a paladin's aura of good (see the _detect good_ spell) is
 equal to her paladin level.
 
 ### _Detect Evil_ (Sp):
@@ -111,10 +111,10 @@ all saving throws.
  Beginning at 2nd level, a paladin with a Charisma score of 12 or higher can
 heal wounds (her own or those of others) by touch. Each day she can heal a total number of hit points of damage
 equal to her paladin level x her Charisma bonus. A paladin may choose to divide her healing among multiple
-recipients, and she doesn’t have to use it all at once. Using lay on hands is a standard action.
+recipients, and she doesn't have to use it all at once. Using lay on hands is a standard action.
 
 Alternatively, a paladin can use any or all of this healing power to deal damage to undead creatures. Using lay on
-hands in this way requires a successful melee touch attack and doesn’t provoke an attack of opportunity. The
+hands in this way requires a successful melee touch attack and doesn't provoke an attack of opportunity. The
 paladin decides how many of her daily allotment of points to use as damage after successfully touching an undead
 creature.
 
@@ -138,7 +138,7 @@ a cleric of three levels lower would.
 spells, which are drawn from the paladin spell list. A paladin must choose and prepare her spells in advance.
 
 To prepare or cast a spell, a paladin must have a Wisdom score equal to at least 10 + the spell level. The
-Difficulty Class for a saving throw against a paladin’s spell is 10 + the spell level + the paladin’s Wisdom
+Difficulty Class for a saving throw against a paladin's spell is 10 + the spell level + the paladin's Wisdom
 modifier.
 
 Like other spellcasters, a paladin can cast only a certain number of spells of each spell level per day. Her base
@@ -161,7 +161,7 @@ intelligent, strong, and loyal steed to serve her in her crusade against evil (s
 heavy warhorse (for a Medium paladin) or a warpony (for a Small paladin).
 
 Once per day, as a full-round action, a paladin may magically call her mount from the celestial realms in which it
-resides. This ability is the equivalent of a spell of a level equal to one-third the paladin’s level. The mount
+resides. This ability is the equivalent of a spell of a level equal to one-third the paladin's level. The mount
 immediately appears adjacent to the paladin and remains for 2 hours per paladin level; it may be dismissed at any
 time as a free action. The mount is the same creature each time it is summoned, though the paladin may release a
 particular mount from service.
@@ -170,7 +170,7 @@ Each time the mount is called, it appears in full health, regardless of any dama
 The mount also appears wearing or carrying any gear it had when it was last dismissed. Calling a mount is a
 conjuration (calling) effect.
 
-Should the paladin’s mount die, it immediately disappears, leaving behind any equipment it was carrying. The
+Should the paladin's mount die, it immediately disappears, leaving behind any equipment it was carrying. The
 paladin may not summon another mount for thirty days or until she gains a paladin level, whichever comes first,
 even if the mount is somehow returned from the dead. During this thirty-day period, the paladin takes a -1 penalty
 on attack and weapon damage rolls.
@@ -184,7 +184,7 @@ as the spell, once per week. She can use this ability one additional time per we
  A paladin must be of lawful good alignment and loses all class abilities if she
 ever willingly commits an evil act.
 
-Additionally, a paladin’s code requires that she respect legitimate authority, act with honor (not lying, not
+Additionally, a paladin's code requires that she respect legitimate authority, act with honor (not lying, not
 cheating, not using poison, and so forth), help those in need (provided they do not use the help for evil or
 chaotic ends), and punish those who harm or threaten innocents.
 
@@ -197,7 +197,7 @@ good.
 ### Ex-Paladins
 
 A paladin who ceases to be lawful good, who willfully commits an evil act, or who grossly violates the code of
-conduct loses all paladin spells and abilities (including the service of the paladin’s mount, but not weapon,
+conduct loses all paladin spells and abilities (including the service of the paladin's mount, but not weapon,
 armor, and shield proficiencies). She may not progress any farther in levels as a paladin. She regains her
 abilities and advancement potential if she atones for her violations (see the _atonement_ spell description),
 as appropriate.
@@ -206,15 +206,15 @@ Like a member of any other class, a paladin may be a multiclass character, but m
 restriction. A paladin who gains a level in any class other than paladin may never again raise her paladin level,
 though she retains all her paladin abilities.
 
-### The Paladin’s Mount
+### The Paladin's Mount
 
-The paladin’s mount is superior to a normal mount of its kind and has special powers, as described below. The
+The paladin's mount is superior to a normal mount of its kind and has special powers, as described below. The
 standard mount for a Medium paladin is a heavy warhorse, and the standard mount for a Small paladin is a warpony.
 Another kind of mount, such as a riding dog (for a halfling paladin) or a Large shark (for a paladin in an aquatic
 campaign) may be allowed as well.
 
-A paladin’s mount is treated as a magical beast, not an animal, for the purpose of all effects that depend on its
-type (though it retains an animal’s HD, base attack bonus, saves, skill points, and feats).
+A paladin's mount is treated as a magical beast, not an animal, for the purpose of all effects that depend on its
+type (though it retains an animal's HD, base attack bonus, saves, skill points, and feats).
 
 | Paladin Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special |
 | --- | --- | --- | --- | --- | --- |
@@ -223,24 +223,24 @@ type (though it retains an animal’s HD, base attack bonus, saves, skill points
 | 11th-14th | +6 | +8 | +3 | 8 | _Command_ creatures of its kind |
 | 15th-20th | +8 | +10 | +4 | 9 | Spell resistance |
 
-### Paladin’s Mount Basics:
- Use the base statistics for a creature of the mount’s kind,but make
+### Paladin's Mount Basics:
+ Use the base statistics for a creature of the mount's kind,but make
 changes to take into account the attributes and characteristics summarized on the table and described below.
 
 _Bonus HD:_ Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra
-Hit Dice improve the mount’s base attack and base save bonuses. A special mount’s base attack bonus is equal to
-that of a cleric of a level equal to the mount’s HD. A mount has good Fortitude and Reflex saves (treat it as a
-character whose level equals the animal’s HD). The mount gains additional skill points or feats for bonus HD as
-normal for advancing a monster’s Hit Dice.
+Hit Dice improve the mount's base attack and base save bonuses. A special mount's base attack bonus is equal to
+that of a cleric of a level equal to the mount's HD. A mount has good Fortitude and Reflex saves (treat it as a
+character whose level equals the animal's HD). The mount gains additional skill points or feats for bonus HD as
+normal for advancing a monster's Hit Dice.
 
-_Natural Armor Adj.:_ The number on the table is an improvement to the mount’s existing natural armor
+_Natural Armor Adj.:_ The number on the table is an improvement to the mount's existing natural armor
 bonus.
 
-_Str Adj.:_ Add this figure to the mount’s Strength score.
-_Int:_ The mount’s Intelligence score.
+_Str Adj.:_ Add this figure to the mount's Strength score.
+_Int:_ The mount's Intelligence score.
 
 _Empathic Link (Su):_ The paladin has an empathic link with her mount out to a distance of up to 1 mile.
-The paladin cannot see through the mount’s eyes, but they can communicate empathically.
+The paladin cannot see through the mount's eyes, but they can communicate empathically.
 
 Note that even intelligent mounts see the world differently from humans, so misunderstandings are always possible.
 
@@ -250,33 +250,33 @@ as with a master and his familiar (see Familiars).
 _Improved Evasion (Ex):_ When subjected to an attack that normally allows a Reflex saving throw for half
 damage, a mount takes no damage if it makes a successful saving throw and half damage if the saving throw fails.
 
-_Share Spells:_ At the paladin’s option, she may have any spell (but not any spell-like ability) she casts
+_Share Spells:_ At the paladin's option, she may have any spell (but not any spell-like ability) she casts
 on herself also affect her mount.
 
 The mount must be within 5 feet at the time of casting to receive the benefit. If the spell or effect has a
 duration other than instantaneous, it stops affecting the mount if it moves farther than 5 feet away and will not
 affect the mount again even if it returns to the paladin before the duration expires. Additionally, the paladin
 may cast a spell with a target of "You" on her mount (as a touch range spell) instead of on herself. A paladin and
-her mount can share spells even if the spells normally do not affect creatures of the mount’s type (magical
+her mount can share spells even if the spells normally do not affect creatures of the mount's type (magical
 beast).
 
 _Share Saving Throws:_ For each of its saving throws, the mount uses its own base save bonus or the
-paladin’s, whichever is higher. The mount applies its own ability modifiers to saves, and it doesn’t share any
+paladin's, whichever is higher. The mount applies its own ability modifiers to saves, and it doesn't share any
 other bonuses on saves that the master might have.
 
-_Improved Speed (Ex):_ The mount’s speed increases by 10 feet.
+_Improved Speed (Ex):_ The mount's speed increases by 10 feet.
 
 _Command (Sp):_ Once per day per two paladin levels of its master, a mount can use this ability to command
 other any normal animal of approximately the same kind as itself (for warhorses and warponies, this category
 includes donkeys, mules, and ponies), as long as the target creature has fewer Hit Dice than the mount. This
 ability functions like the _command_ spell, but the mount must make a DC 21 Concentration check to succeed if
-it’s being ridden at the time. If the check fails, the ability does not work that time, but it still counts
-against the mount’s daily uses. Each target may attempt a Will save (DC 10 + 1/2 paladin’s level + paladin’s Cha
+it's being ridden at the time. If the check fails, the ability does not work that time, but it still counts
+against the mount's daily uses. Each target may attempt a Will save (DC 10 + 1/2 paladin's level + paladin's Cha
 modifier) to negate the effect.
 
-_Spell Resistance (Ex):_ A mount’s spell resistance equals its master’s paladin level + 5. To affect the
+_Spell Resistance (Ex):_ A mount's spell resistance equals its master's paladin level + 5. To affect the
 mount with a spell, a spellcaster must get a result on a caster level check (1d20 + caster level) that equals or
-exceeds the mount’s spell resistance.
+exceeds the mount's spell resistance.
 
 ## Ranger
 ### Alignment:
@@ -285,7 +285,7 @@ exceeds the mount’s spell resistance.
  d8.
 ### Class Skills
 
-The ranger’s class skills (and the key ability for each skill) are Climb (Str), Concentration (Con), Craft (Int),
+The ranger's class skills (and the key ability for each skill) are Climb (Str), Concentration (Con), Craft (Int),
 Handle Animal (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (dungeoneering) (Int), Knowledge (geography)
 (Int), Knowledge (nature) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int),
 Spot (Wis), Survival (Wis), Swim (Str), and Use Rope (Dex).
@@ -300,19 +300,19 @@ Spot (Wis), Survival (Wis), Swim (Str), and Use Rope (Dex).
 |  |  |  |  |  |  | Spells per Day |
 | --- | --- | --- | --- | --- | --- | --- |
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th |
-| 1st | +1 | +2 | +2 | +0 | 1st favored enemy, Track, wild empathy | --- | --- | --- | --- |
-| 2nd | +2 | +3 | +3 | +0 | Combat style | --- | --- | --- | --- |
-| 3rd | +3 | +3 | +3 | +1 | Endurance | --- | --- | --- | --- |
-| 4th | +4 | +4 | +4 | +1 | Animal companion | 0 | --- | --- | --- |
-| 5th | +5 | +4 | +4 | +1 | 2nd favored enemy | 0 | --- | --- | --- |
-| 6th | +6/+1 | +5 | +5 | +2 | Improved combat style | 1 | --- | --- | --- |
-| 7th | +7/+2 | +5 | +5 | +2 | Woodland stride | 1 | --- | --- | --- |
-| 8th | +8/+3 | +6 | +6 | +2 | Swift tracker | 1 | 0 | --- | --- |
-| 9th | +9/+4 | +6 | +6 | +3 | Evasion | 1 | 0 | --- | --- |
-| 10th | +10/+5 | +7 | +7 | +3 | 3rd favored enemy | 1 | 1 | --- | --- |
-| 11th | +11/+6/+1 | +7 | +7 | +3 | Combat style mastery | 1 | 1 | 0 | --- |
-| 12th | +12/+7/+2 | +8 | +8 | +4 |  | 1 | 1 | 1 | --- |
-| 13th | +13/+8/+3 | +8 | +8 | +4 | Camouflage | 1 | 1 | 1 | --- |
+| 1st | +1 | +2 | +2 | +0 | 1st favored enemy, Track, wild empathy | -- | -- | -- | -- |
+| 2nd | +2 | +3 | +3 | +0 | Combat style | -- | -- | -- | -- |
+| 3rd | +3 | +3 | +3 | +1 | Endurance | -- | -- | -- | -- |
+| 4th | +4 | +4 | +4 | +1 | Animal companion | 0 | -- | -- | -- |
+| 5th | +5 | +4 | +4 | +1 | 2nd favored enemy | 0 | -- | -- | -- |
+| 6th | +6/+1 | +5 | +5 | +2 | Improved combat style | 1 | -- | -- | -- |
+| 7th | +7/+2 | +5 | +5 | +2 | Woodland stride | 1 | -- | -- | -- |
+| 8th | +8/+3 | +6 | +6 | +2 | Swift tracker | 1 | 0 | -- | -- |
+| 9th | +9/+4 | +6 | +6 | +3 | Evasion | 1 | 0 | -- | -- |
+| 10th | +10/+5 | +7 | +7 | +3 | 3rd favored enemy | 1 | 1 | -- | -- |
+| 11th | +11/+6/+1 | +7 | +7 | +3 | Combat style mastery | 1 | 1 | 0 | -- |
+| 12th | +12/+7/+2 | +8 | +8 | +4 |  | 1 | 1 | 1 | -- |
+| 13th | +13/+8/+3 | +8 | +8 | +4 | Camouflage | 1 | 1 | 1 | -- |
 | 14th | +14/+9/+4 | +9 | +9 | +4 |  | 2 | 1 | 1 | 0 |
 | 15th | +15/+10/+5 | +9 | +9 | +5 | 4th favored enemy | 2 | 1 | 1 | 1 |
 | 16th | +16/+11/+6/+1 | +10 | +10 | +5 |  | 2 | 2 | 1 | 1 |
@@ -339,7 +339,7 @@ favored enemy from those given on the table. In addition, at each such interval,
 enemy (including the one just selected, if so desired) increases by 2.
 
 If the ranger chooses humanoids or outsiders as a favored enemy, he must also choose an associated subtype, as
-indicated on the table. If a specific creature falls into more than one category of favored enemy, the ranger’s
+indicated on the table. If a specific creature falls into more than one category of favored enemy, the ranger's
 bonuses do not stack; he simply uses whichever bonus is higher.
 
 **Table: Ranger Favored Enemies**
@@ -381,7 +381,7 @@ takes a -4 penalty on the check.
 
 ### Combat Style (Ex):
  At 2nd level, a ranger must select one of two combat styles to pursue: archery
-or two-weapon combat. This choice affects the character’s class features but does not restrict his selection of
+or two-weapon combat. This choice affects the character's class features but does not restrict his selection of
 feats or special abilities in any way.
 
 If the ranger selects archery, he is treated as having the Rapid Shot feat, even if he does not have the normal
@@ -390,7 +390,7 @@ prerequisites for that feat.
 If the ranger selects two-weapon combat, he is treated as having the Two-Weapon Fighting feat, even if he does not
 have the normal prerequisites for that feat.
 
-The benefits of the ranger’s chosen style apply only when he wears light or no armor. He loses all benefits of his
+The benefits of the ranger's chosen style apply only when he wears light or no armor. He loses all benefits of his
 combat style when wearing medium or heavy armor.
 
 ### Endurance:
@@ -400,10 +400,10 @@ combat style when wearing medium or heavy armor.
  At 4th level, a ranger gains an animal companion selected from the
 following list: badger, camel, dire rat, dog, riding dog, eagle, hawk, horse (light or heavy), owl, pony, snake
 (Small or Medium viper), or wolf. If the campaign takes place wholly or partly in an aquatic environment, the
-following creatures may be added to the ranger’s list of options: crocodile, porpoise, Medium shark, and squid.
+following creatures may be added to the ranger's list of options: crocodile, porpoise, Medium shark, and squid.
 This animal is a loyal companion that accompanies the ranger on his adventures as appropriate for its kind.
 
-This ability functions like the druid ability of the same name, except that the ranger’s effective druid level is
+This ability functions like the druid ability of the same name, except that the ranger's effective druid level is
 one-half his ranger level. A ranger may select from the alternative lists of animal companions just as a druid
 can, though again his effective druid level is half his ranger level. Like a druid, a ranger cannot select an
 alternative animal if the choice would reduce his effective druid level below 1st.
@@ -414,7 +414,7 @@ spells, which are drawn from the ranger spell list. A ranger must choose and pre
 below).
 
 To prepare or cast a spell, a ranger must have a Wisdom score equal to at least 10 + the spell level. The
-Difficulty Class for a saving throw against a ranger’s spell is 10 + the spell level + the ranger’s Wisdom
+Difficulty Class for a saving throw against a ranger's spell is 10 + the spell level + the ranger's Wisdom
 modifier.
 
 Like other spellcasters, a ranger can cast only a certain number of spells of each spell level per day. His base
@@ -431,14 +431,14 @@ Through 3rd level, a ranger has no caster level. At 4th level and higher, his ca
 level.
 
 ### Improved Combat Style (Ex):
- At 6th level, a ranger’s aptitude in his chosen combat style (archery
+ At 6th level, a ranger's aptitude in his chosen combat style (archery
 or two-weapon combat) improves. If he selected archery at 2nd level, he is treated as having the Manyshot feat,
 even if he does not have the normal prerequisites for that feat.
 
 If the ranger selected two-weapon combat at 2nd level, he is treated as having the Improved Two-Weapon Fighting
 feat, even if he does not have the normal prerequisites for that feat.
 
-As before, the benefits of the ranger’s chosen style apply only when he wears light or no armor. He loses all
+As before, the benefits of the ranger's chosen style apply only when he wears light or no armor. He loses all
 benefits of his combat style when wearing medium or heavy armor.
 
 ### Woodland Stride (Ex):
@@ -461,19 +461,19 @@ successful save, he instead takes no damage. Evasion can be used only if the ran
 armor. A helpless ranger does not gain the benefit of evasion.
 
 ### Combat Style Mastery (Ex):
- At 11th level, a ranger’s aptitude in his chosen combat style (archery
+ At 11th level, a ranger's aptitude in his chosen combat style (archery
 or two-weapon combat) improves again. If he selected archery at 2nd level, he is treated as having the Improved
 Precise Shot feat, even if he does not have the normal prerequisites for that feat.
 
 If the ranger selected two-weapon combat at 2nd level, he is treated as having the Greater Two-Weapon Fighting
 feat, even if he does not have the normal prerequisites for that feat.
 
-As before, the benefits of the ranger’s chosen style apply only when he wears light or no armor. He loses all
+As before, the benefits of the ranger's chosen style apply only when he wears light or no armor. He loses all
 benefits of his combat style when wearing medium or heavy armor.
 
 ### Camouflage (Ex):
  A ranger of 13th level or higher can use the Hide skill in any sort of natural
-terrain, even if the terrain doesn’t grant cover or concealment.
+terrain, even if the terrain doesn't grant cover or concealment.
 
 ### Hide in Plain Sight (Ex):
  While in any sort of natural terrain, a ranger of 17th level or higher
@@ -486,7 +486,7 @@ can use the Hide skill even while being observed.
  d6.
 ### Class Skills
 
-The rogue’s class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha),
+The rogue's class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha),
 Climb (Str), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape
 Artist (Dex), Forgery (Int), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (local)
 (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Perform (Cha), Profession (Wis), Search (Int), Sense
@@ -515,13 +515,13 @@ Motive (Wis), Sleight of Hand (Dex), Spot (Wis), Swim (Str), Tumble (Dex), Use M
 | 11th | +8/+3 | +3 | +7 | +3 | Sneak attack +6d6 |
 | 12th | +9/+4 | +4 | +8 | +4 | Trap sense +4 |
 | 13th | +9/+4 | +4 | +8 | +4 | Sneak attack +7d6, special ability |
-| 14th | +10/+5 | +4 | +9 | +4 | --- |
+| 14th | +10/+5 | +4 | +9 | +4 | -- |
 | 15th | +11/+6/+1 | +5 | +9 | +5 | Sneak attack +8d6, trap sense +5 |
 | 16th | +12/+7/+2 | +5 | +10 | +5 | Special ability |
 | 17th | +12/+7/+2 | +5 | +10 | +5 | Sneak attack +9d6 |
 | 18th | +13/+8/+3 | +6 | +11 | +6 | Trap sense +6 |
 | 19th | +14/+9/+4 | +6 | +11 | +6 | Sneak attack +10d6, special ability |
-| 20th | +15/+10/+5 | +6 | +12 | +6 | --- |
+| 20th | +15/+10/+5 | +6 | +12 | +6 | -- |
 
 ### Class Features
 All of the following are class features of the rogue.
@@ -534,7 +534,7 @@ crossbow, rapier, sap, shortbow, and short sword. Rogues are proficient with lig
  If a rogue can catch an opponent when he is unable to defend himself effectively
 from her attack, she can strike a vital spot for extra damage.
 
-The rogue’s attack deals extra damage any time her target would be denied a Dexterity bonus to AC (whether the
+The rogue's attack deals extra damage any time her target would be denied a Dexterity bonus to AC (whether the
 target actually has a Dexterity bonus or not), or when the rogue flanks her target. This extra damage is 1d6 at
 1st level, and it increases by 1d6 every two rogue levels thereafter. Should the rogue score a critical hit with a
 sneak attack, this extra damage is not multiplied.
@@ -545,7 +545,7 @@ With a sap (blackjack) or an unarmed strike, a rogue can make a sneak attack tha
 of lethal damage. She cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, not
 even with the usual -4 penalty.
 
-A rogue can sneak attack only living creatures with discernible anatomies---undead, constructs, oozes, plants, and
+A rogue can sneak attack only living creatures with discernible anatomies--undead, constructs, oozes, plants, and
 incorporeal creatures lack vital areas to attack. Any creature that is immune to critical hits is not vulnerable
 to sneak attacks. The rogue must be able to see the target well enough to pick out a vital spot and must be able
 to reach such a spot. A rogue cannot sneak attack while striking a creature with concealment or striking the limbs
@@ -561,7 +561,7 @@ of 25 + the level of the spell used to create it.
 Rogues (and only rogues) can use the Disable Device skill to disarm magic traps. A magic trap generally has a DC
 of 25 + the level of the spell used to create it.
 
-A rogue who beats a trap’s DC by 10 or more with a Disable Device check can study a trap, figure out how it works,
+A rogue who beats a trap's DC by 10 or more with a Disable Device check can study a trap, figure out how it works,
 and bypass it (with her party) without disarming it.
 
 ### Evasion (Ex):
@@ -609,8 +609,8 @@ she otherwise would. Once per day, when she would be reduced to 0 or fewer hit p
 weapon or other blow, not a spell or special ability), the rogue can attempt to roll with the damage. To use this
 ability, the rogue must attempt a Reflex saving throw (DC = damage dealt). If the save succeeds, she takes only
 half damage from the blow; if it fails, she takes full damage. She must be aware of the attack and able to react
-to it in order to execute her defensive roll---if she is denied her Dexterity bonus to AC, she can’t use this
-ability. Since this effect would not normally allow a character to make a Reflex save for half damage, the rogue’s
+to it in order to execute her defensive roll--if she is denied her Dexterity bonus to AC, she can't use this
+ability. Since this effect would not normally allow a character to make a Reflex save for half damage, the rogue's
 evasion ability does not apply to the defensive roll.
 
 _Improved Evasion (Ex):_ This ability works like evasion, except that while the rogue still takes no damage
@@ -618,8 +618,8 @@ on a successful Reflex saving throw against attacks henceforth she henceforth ta
 save. A helpless rogue does not gain the benefit of improved evasion.
 
 _Opportunist (Ex):_ Once per round, the rogue can make an attack of opportunity against an opponent who has
-just been struck for damage in melee by another character. This attack counts as the rogue’s attack of opportunity
-for that round. Even a rogue with the Combat Reflexes feat can’t use the opportunist ability more than once per
+just been struck for damage in melee by another character. This attack counts as the rogue's attack of opportunity
+for that round. Even a rogue with the Combat Reflexes feat can't use the opportunist ability more than once per
 round.
 
 _Skill Mastery:_ The rogue becomes so certain in the use of certain skills that she can use them reliably
@@ -630,7 +630,7 @@ skill check with one of these skills, she may take 10 even if stress and distrac
 from doing so. A rogue may gain this special ability multiple times, selecting additional skills for it to apply
 to each time.
 
-_Slippery Mind (Ex):_ This ability represents the rogue’s ability to wriggle free from magical effects that
+_Slippery Mind (Ex):_ This ability represents the rogue's ability to wriggle free from magical effects that
 would otherwise control or compel her. If a rogue with slippery mind is affected by an enchantment spell or effect
 and fails her saving throw, she can attempt it again 1 round later at the same DC. She gets only this one extra
 chance to succeed on her saving throw.
@@ -643,7 +643,7 @@ _Feat:_ A rogue may gain a bonus feat in place of a special ability.
  d4.
 ### Class Skills
 
-The sorcerer’s class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Craft
+The sorcerer's class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Craft
 (Int), Knowledge (arcana) (Int), Profession (Wis), and Spellcraft (Int).
 
 ### Skill Points at 1st Level:
@@ -656,23 +656,23 @@ The sorcerer’s class skills (and the key ability for each skill) are Bluff (Ch
 |  |  |  |  |  |  | Spells per Day |
 | --- | --- | --- | --- | --- | --- | --- |
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st | +0 | +0 | +0 | +2 | Summon familiar | 5 | 3 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2nd | +1 | +0 | +0 | +3 |  | 6 | 4 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3rd | +1 | +1 | +1 | +3 |  | 6 | 5 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4th | +2 | +1 | +1 | +4 |  | 6 | 6 | 3 | --- | --- | --- | --- | --- | --- | --- |
-| 5th | +2 | +1 | +1 | +4 |  | 6 | 6 | 4 | --- | --- | --- | --- | --- | --- | --- |
-| 6th | +3 | +2 | +2 | +5 |  | 6 | 6 | 5 | 3 | --- | --- | --- | --- | --- | --- |
-| 7th | +3 | +2 | +2 | +5 |  | 6 | 6 | 6 | 4 | --- | --- | --- | --- | --- | --- |
-| 8th | +4 | +2 | +2 | +6 |  | 6 | 6 | 6 | 5 | 3 | --- | --- | --- | --- | --- |
-| 9th | +4 | +3 | +3 | +6 |  | 6 | 6 | 6 | 6 | 4 | --- | --- | --- | --- | --- |
-| 10th | +5 | +3 | +3 | +7 |  | 6 | 6 | 6 | 6 | 5 | 3 | --- | --- | --- | --- |
-| 11th | +5 | +3 | +3 | +7 |  | 6 | 6 | 6 | 6 | 6 | 4 | --- | --- | --- | --- |
-| 12th | +6/+1 | +4 | +4 | +8 |  | 6 | 6 | 6 | 6 | 6 | 5 | 3 | --- | --- | --- |
-| 13th | +6/+1 | +4 | +4 | +8 |  | 6 | 6 | 6 | 6 | 6 | 6 | 4 | --- | --- | --- |
-| 14th | +7/+2 | +4 | +4 | +9 |  | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | --- | --- |
-| 15th | +7/+2 | +5 | +5 | +9 |  | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | --- | --- |
-| 16th | +8/+3 | +5 | +5 | +10 |  | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | --- |
-| 17th | +8/+3 | +5 | +5 | +10 |  | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | --- |
+| 1st | +0 | +0 | +0 | +2 | Summon familiar | 5 | 3 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2nd | +1 | +0 | +0 | +3 |  | 6 | 4 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 3rd | +1 | +1 | +1 | +3 |  | 6 | 5 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 4th | +2 | +1 | +1 | +4 |  | 6 | 6 | 3 | -- | -- | -- | -- | -- | -- | -- |
+| 5th | +2 | +1 | +1 | +4 |  | 6 | 6 | 4 | -- | -- | -- | -- | -- | -- | -- |
+| 6th | +3 | +2 | +2 | +5 |  | 6 | 6 | 5 | 3 | -- | -- | -- | -- | -- | -- |
+| 7th | +3 | +2 | +2 | +5 |  | 6 | 6 | 6 | 4 | -- | -- | -- | -- | -- | -- |
+| 8th | +4 | +2 | +2 | +6 |  | 6 | 6 | 6 | 5 | 3 | -- | -- | -- | -- | -- |
+| 9th | +4 | +3 | +3 | +6 |  | 6 | 6 | 6 | 6 | 4 | -- | -- | -- | -- | -- |
+| 10th | +5 | +3 | +3 | +7 |  | 6 | 6 | 6 | 6 | 5 | 3 | -- | -- | -- | -- |
+| 11th | +5 | +3 | +3 | +7 |  | 6 | 6 | 6 | 6 | 6 | 4 | -- | -- | -- | -- |
+| 12th | +6/+1 | +4 | +4 | +8 |  | 6 | 6 | 6 | 6 | 6 | 5 | 3 | -- | -- | -- |
+| 13th | +6/+1 | +4 | +4 | +8 |  | 6 | 6 | 6 | 6 | 6 | 6 | 4 | -- | -- | -- |
+| 14th | +7/+2 | +4 | +4 | +9 |  | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | -- | -- |
+| 15th | +7/+2 | +5 | +5 | +9 |  | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | -- | -- |
+| 16th | +8/+3 | +5 | +5 | +10 |  | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 | -- |
+| 17th | +8/+3 | +5 | +5 | +10 |  | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 | -- |
 | 18th | +9/+4 | +6 | +6 | +11 |  | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 5 | 3 |
 | 19th | +9/+4 | +6 | +6 | +11 |  | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 4 |
 | 20th | +10/+5 | +6 | +6 | +12 |  | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 | 6 |
@@ -682,23 +682,23 @@ The sorcerer’s class skills (and the key ability for each skill) are Bluff (Ch
 |  | Spells Known |
 | --- | --- |
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st | 4 | 2 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2nd | 5 | 2 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3rd | 5 | 3 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 4th | 6 | 3 | 1 | --- | --- | --- | --- | --- | --- | --- |
-| 5th | 6 | 4 | 2 | --- | --- | --- | --- | --- | --- | --- |
-| 6th | 7 | 4 | 2 | 1 | --- | --- | --- | --- | --- | --- |
-| 7th | 7 | 5 | 3 | 2 | --- | --- | --- | --- | --- | --- |
-| 8th | 8 | 5 | 3 | 2 | 1 | --- | --- | --- | --- | --- |
-| 9th | 8 | 5 | 4 | 3 | 2 | --- | --- | --- | --- | --- |
-| 10th | 9 | 5 | 4 | 3 | 2 | 1 | --- | --- | --- | --- |
-| 11th | 9 | 5 | 5 | 4 | 3 | 2 | --- | --- | --- | --- |
-| 12th | 9 | 5 | 5 | 4 | 3 | 2 | 1 | --- | --- | --- |
-| 13th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | --- | --- | --- |
-| 14th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | --- | --- |
-| 15th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | --- | --- |
-| 16th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | 1 | --- |
-| 17th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | --- |
+| 1st | 4 | 2 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2nd | 5 | 2 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 3rd | 5 | 3 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 4th | 6 | 3 | 1 | -- | -- | -- | -- | -- | -- | -- |
+| 5th | 6 | 4 | 2 | -- | -- | -- | -- | -- | -- | -- |
+| 6th | 7 | 4 | 2 | 1 | -- | -- | -- | -- | -- | -- |
+| 7th | 7 | 5 | 3 | 2 | -- | -- | -- | -- | -- | -- |
+| 8th | 8 | 5 | 3 | 2 | 1 | -- | -- | -- | -- | -- |
+| 9th | 8 | 5 | 4 | 3 | 2 | -- | -- | -- | -- | -- |
+| 10th | 9 | 5 | 4 | 3 | 2 | 1 | -- | -- | -- | -- |
+| 11th | 9 | 5 | 5 | 4 | 3 | 2 | -- | -- | -- | -- |
+| 12th | 9 | 5 | 5 | 4 | 3 | 2 | 1 | -- | -- | -- |
+| 13th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | -- | -- | -- |
+| 14th | 9 | 5 | 5 | 4 | 4 | 3 | 2 | 1 | -- | -- |
+| 15th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | -- | -- |
+| 16th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 2 | 1 | -- |
+| 17th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | -- |
 | 18th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 2 | 1 |
 | 19th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 2 |
 | 20th | 9 | 5 | 5 | 4 | 4 | 4 | 3 | 3 | 3 | 3 |
@@ -708,7 +708,7 @@ All of the following are class features of the sorcerer.
 
 ### Weapon and Armor Proficiency:
  Sorcerers are proficient with all simple weapons. They are not
-proficient with any type of armor or shield. Armor of any type interferes with a sorcerer’s gestures, which can
+proficient with any type of armor or shield. Armor of any type interferes with a sorcerer's gestures, which can
 cause his spells with somatic components to fail.
 
 ### Spells:
@@ -717,31 +717,31 @@ list. He can cast any spell he knows without preparing it ahead of time, the way
 below).
 
 To learn or cast a spell, a sorcerer must have a Charisma score equal to at least 10 + the spell level. The
-Difficulty Class for a saving throw against a sorcerer’s spell is 10 + the spell level + the sorcerer’s Charisma
+Difficulty Class for a saving throw against a sorcerer's spell is 10 + the spell level + the sorcerer's Charisma
 modifier.
 
 Like other spellcasters, a sorcerer can cast only a certain number of spells of each spell level per day. His base
 daily spell allotment is given on Table: The Sorcerer. In addition, he receives bonus spells per day if he has a
 high Charisma score.
 
-A sorcerer’s selection of spells is extremely limited. A sorcerer begins play knowing four 0-level spells and two
+A sorcerer's selection of spells is extremely limited. A sorcerer begins play knowing four 0-level spells and two
 1st-level spells of your choice. At each new sorcerer level, he gains one or more new spells, as indicated on
 **Table: Sorcerer Spells Known. (Unlike spells per day, the number of spells a sorcerer knows is not affected by his**
 Charisma score; the numbers on Table: Sorcerer Spells Known are fixed.) These new spells can be common spells
 chosen from the sorcerer/wizard spell list, or they can be unusual spells that the sorcerer has gained some
-understanding of by study. The sorcerer can’t use this method of spell acquisition to learn spells at a faster
+understanding of by study. The sorcerer can't use this method of spell acquisition to learn spells at a faster
 rate, however.
 
 Upon reaching 4th level, and at every even-numbered sorcerer level after that (6th, 8th, and so on), a sorcerer
 can choose to learn a new spell in place of one he already knows. In effect, the sorcerer "loses" the old spell in
-exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged, and it must
+exchange for the new one. The new spell's level must be the same as that of the spell being exchanged, and it must
 be at least two levels lower than the highest-level sorcerer spell the sorcerer can cast. A sorcerer may swap only
 a single spell at any given level, and must choose whether or not to swap the spell at the same time that he gains
 new spells known for the level.
 
 Unlike a wizard or a cleric, a sorcerer need not prepare his spells in advance. He can cast any spell he knows at
 any time, assuming he has not yet used up his spells per day for that spell level. He does not have to decide
-ahead of time which spells he’ll cast.
+ahead of time which spells he'll cast.
 
 ### Familiar:
  A sorcerer can obtain a familiar (see below). Doing so takes 24 hours and uses up
@@ -753,7 +753,7 @@ in power.
 
 If the familiar dies or is dismissed by the sorcerer, the sorcerer must attempt a DC 15 Fortitude saving throw.
 Failure means he loses 200 experience points per sorcerer level; success reduces the loss to one-half that amount.
-However, a sorcerer’s experience point total can never go below 0 as the result of a familiar’s demise or
+However, a sorcerer's experience point total can never go below 0 as the result of a familiar's demise or
 dismissal. A slain or dismissed familiar cannot be replaced for a year and day. A slain familiar can be raised
 from the dead just as a character can be, and it does not lose a level or a Constitution point when this happy
 event occurs.
@@ -766,7 +766,7 @@ A character with more than one class that grants a familiar may have only one fa
  d4.
 ### Class Skills
 
-The wizard’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Decipher
+The wizard's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Decipher
 Script (Int), Knowledge (all skills, taken individually) (Int), Profession (Wis), and Spellcraft (Int). See
 Chapter 4: Skills for skill descriptions.
 
@@ -780,22 +780,22 @@ Chapter 4: Skills for skill descriptions.
 |  |  |  |  |  |  | Spells per Day |
 | --- | --- | --- | --- | --- | --- | --- |
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
-| 1st | +0 | +0 | +0 | +2 | Summon familiar, Scribe Scroll | 3 | 1 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2nd | +1 | +0 | +0 | +3 |  | 4 | 2 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3rd | +1 | +1 | +1 | +3 |  | 4 | 2 | 1 | --- | --- | --- | --- | --- | --- | --- |
-| 4th | +2 | +1 | +1 | +4 |  | 4 | 3 | 2 | --- | --- | --- | --- | --- | --- | --- |
-| 5th | +2 | +1 | +1 | +4 | Bonus feat | 4 | 3 | 2 | 1 | --- | --- | --- | --- | --- | --- |
-| 6th | +3 | +2 | +2 | +5 |  | 4 | 3 | 3 | 2 | --- | --- | --- | --- | --- | --- |
-| 7th | +3 | +2 | +2 | +5 |  | 4 | 4 | 3 | 2 | 1 | --- | --- | --- | --- | --- |
-| 8th | +4 | +2 | +2 | +6 |  | 4 | 4 | 3 | 3 | 2 | --- | --- | --- | --- | --- |
-| 9th | +4 | +3 | +3 | +6 |  | 4 | 4 | 4 | 3 | 2 | 1 | --- | --- | --- | --- |
-| 10th | +5 | +3 | +3 | +7 | Bonus feat | 4 | 4 | 4 | 3 | 3 | 2 | --- | --- | --- | --- |
-| 11th | +5 | +3 | +3 | +7 |  | 4 | 4 | 4 | 4 | 3 | 2 | 1 | --- | --- | --- |
-| 12th | +6/+1 | +4 | +4 | +8 |  | 4 | 4 | 4 | 4 | 3 | 3 | 2 | --- | --- | --- |
-| 13th | +6/+1 | +4 | +4 | +8 |  | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | --- | --- |
-| 14th | +7/+2 | +4 | +4 | +9 |  | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | --- | --- |
-| 15th | +7/+2 | +5 | +5 | +9 | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | --- |
-| 16th | +8/+3 | +5 | +5 | +10 |  | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | --- |
+| 1st | +0 | +0 | +0 | +2 | Summon familiar, Scribe Scroll | 3 | 1 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2nd | +1 | +0 | +0 | +3 |  | 4 | 2 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 3rd | +1 | +1 | +1 | +3 |  | 4 | 2 | 1 | -- | -- | -- | -- | -- | -- | -- |
+| 4th | +2 | +1 | +1 | +4 |  | 4 | 3 | 2 | -- | -- | -- | -- | -- | -- | -- |
+| 5th | +2 | +1 | +1 | +4 | Bonus feat | 4 | 3 | 2 | 1 | -- | -- | -- | -- | -- | -- |
+| 6th | +3 | +2 | +2 | +5 |  | 4 | 3 | 3 | 2 | -- | -- | -- | -- | -- | -- |
+| 7th | +3 | +2 | +2 | +5 |  | 4 | 4 | 3 | 2 | 1 | -- | -- | -- | -- | -- |
+| 8th | +4 | +2 | +2 | +6 |  | 4 | 4 | 3 | 3 | 2 | -- | -- | -- | -- | -- |
+| 9th | +4 | +3 | +3 | +6 |  | 4 | 4 | 4 | 3 | 2 | 1 | -- | -- | -- | -- |
+| 10th | +5 | +3 | +3 | +7 | Bonus feat | 4 | 4 | 4 | 3 | 3 | 2 | -- | -- | -- | -- |
+| 11th | +5 | +3 | +3 | +7 |  | 4 | 4 | 4 | 4 | 3 | 2 | 1 | -- | -- | -- |
+| 12th | +6/+1 | +4 | +4 | +8 |  | 4 | 4 | 4 | 4 | 3 | 3 | 2 | -- | -- | -- |
+| 13th | +6/+1 | +4 | +4 | +8 |  | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | -- | -- |
+| 14th | +7/+2 | +4 | +4 | +9 |  | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | -- | -- |
+| 15th | +7/+2 | +5 | +5 | +9 | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | -- |
+| 16th | +8/+3 | +5 | +5 | +10 |  | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | -- |
 | 17th | +8/+3 | +5 | +5 | +10 |  | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
 | 18th | +9/+4 | +6 | +6 | +11 |  | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
 | 19th | +9/+4 | +6 | +6 | +11 |  | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
@@ -806,7 +806,7 @@ All of the following are class features of the wizard.
 
 ### Weapon and Armor Proficiency:
  Wizards are proficient with the club, dagger, heavy crossbow, light
-crossbow, and quarterstaff, but not with any type of armor or shield. Armor of any type interferes with a wizard’s
+crossbow, and quarterstaff, but not with any type of armor or shield. Armor of any type interferes with a wizard's
 movements, which can cause her spells with somatic components to fail.
 
 ### Spells:
@@ -814,7 +814,7 @@ movements, which can cause her spells with somatic components to fail.
 wizard must choose and prepare her spells ahead of time (see below).
 
 To learn, prepare, or cast a spell, the wizard must have an Intelligence score equal to at least 10 + the spell
-level. The Difficulty Class for a saving throw against a wizard’s spell is 10 + the spell level + the wizard’s
+level. The Difficulty Class for a saving throw against a wizard's spell is 10 + the spell level + the wizard's
 Intelligence modifier.
 
 Like other spellcasters, a wizard can cast only a certain number of spells of each spell level per day. Her base
@@ -822,7 +822,7 @@ daily spell allotment is given on Table: The Wizard. In addition, she receives b
 high Intelligence score.
 
 Unlike a bard or sorcerer, a wizard may know any number of spells. She must choose and prepare her spells ahead of
-time by getting a good night’s sleep and spending 1 hour studying her spellbook. While studying, the wizard
+time by getting a good night's sleep and spending 1 hour studying her spellbook. While studying, the wizard
 decides which spells to prepare.
 
 ### Bonus Languages:
@@ -853,7 +853,7 @@ A wizard begins play with a spellbook containing all 0-level wizard spells (exce
 school or schools, if any; see School Specialization, below) plus three 1st-level spells of your choice. For each
 point of Intelligence bonus the wizard has, the spellbook holds one additional 1st-level spell of your choice. At
 each new wizard level, she gains two new spells of any spell level or levels that she can cast (based on her new
-wizard level) for her spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to
+wizard level) for her spellbook. At any time, a wizard can also add spells found in other wizards' spellbooks to
 her own.
 
 ### School Specialization
@@ -871,7 +871,7 @@ which become her prohibited schools.
 
 A wizard can never give up divination to fulfill this requirement.
 
-Spells of the prohibited school or schools are not available to the wizard, and she can’t even cast such spells
+Spells of the prohibited school or schools are not available to the wizard, and she can't even cast such spells
 from scrolls or fire them from wands. She may not change either her specialization or her prohibited schools
 later.
 
@@ -918,7 +918,7 @@ A familiar also grants special abilities to its master (a sorcerer or wizard), a
 special abilities apply only when the master and familiar are within 1 mile of each other.
 
 Levels of different classes that are entitled to familiars stack for the purpose of determining any familiar
-abilities that depend on the master’s level.
+abilities that depend on the master's level.
 
 | Familiar | Special |
 | --- | --- |
@@ -932,50 +932,50 @@ abilities that depend on the master’s level.
 | Snake<sup>2</sup> | Master gains a +3 bonus on Bluff checks |
 | Toad | Master gains +3 hit points |
 | Weasel | Master gains a +2 bonus on Reflex saves |
-| <sup>1</sup> A raven familiar can speak one language of its master’s choice as a supernatural ability. |
+| <sup>1</sup> A raven familiar can speak one language of its master's choice as a supernatural ability. |
 | <sup>2</sup> Tiny viper. |
 
 ### Familiar Basics:
- Use the basic statistics for a creature of the familiar’s kind, but make the
+ Use the basic statistics for a creature of the familiar's kind, but make the
 following changes:
 
-_Hit Dice:_ For the purpose of effects related to number of Hit Dice, use the master’s character level or
-the familiar’s normal HD total, whichever is higher.
+_Hit Dice:_ For the purpose of effects related to number of Hit Dice, use the master's character level or
+the familiar's normal HD total, whichever is higher.
 
-_Hit Points:_ The familiar has one-half the master’s total hit points (not including temporary hit points),
+_Hit Points:_ The familiar has one-half the master's total hit points (not including temporary hit points),
 rounded down, regardless of its actual Hit Dice.
 
-_Attacks:_ Use the master’s base attack bonus, as calculated from all his classes. Use the familiar’s
-Dexterity or Strength modifier, whichever is greater, to get the familiar’s melee attack bonus with natural
+_Attacks:_ Use the master's base attack bonus, as calculated from all his classes. Use the familiar's
+Dexterity or Strength modifier, whichever is greater, to get the familiar's melee attack bonus with natural
 weapons.
 
-Damage equals that of a normal creature of the familiar’s kind.
+Damage equals that of a normal creature of the familiar's kind.
 
-_Saving Throws:_ For each saving throw, use either the familiar’s base save bonus (Fortitude +2, Reflex +2,
-Will +0) or the master’s (as calculated from all his classes), whichever is better. The familiar uses its own
-ability modifiers to saves, and it doesn’t share any of the other bonuses that the master might have on saves.
+_Saving Throws:_ For each saving throw, use either the familiar's base save bonus (Fortitude +2, Reflex +2,
+Will +0) or the master's (as calculated from all his classes), whichever is better. The familiar uses its own
+ability modifiers to saves, and it doesn't share any of the other bonuses that the master might have on saves.
 
 _Skills:_ For each skill in which either the master or the familiar has ranks, use either the normal skill
-ranks for an animal of that type or the master’s skill ranks, whichever are better. In either case, the familiar
-uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond
-the familiar’s ability to use.
+ranks for an animal of that type or the master's skill ranks, whichever are better. In either case, the familiar
+uses its own ability modifiers. Regardless of a familiar's total skill modifiers, some skills may remain beyond
+the familiar's ability to use.
 
 ### Familiar Ability Descriptions:
  All familiars have special abilities (or impart abilities to their
-masters) depending on the master’s combined level in classes that grant familiars, as shown on the table below.
+masters) depending on the master's combined level in classes that grant familiars, as shown on the table below.
 The abilities given on the table are cumulative.
 
-_Natural Armor Adj.:_ The number noted here is an improvement to the familiar’s existing natural armor
+_Natural Armor Adj.:_ The number noted here is an improvement to the familiar's existing natural armor
 bonus.
 
-_Int:_ The familiar’s Intelligence score.
-_Alertness (Ex):_ While a familiar is within arm’s reach, the master gains the Alertness feat.
+_Int:_ The familiar's Intelligence score.
+_Alertness (Ex):_ While a familiar is within arm's reach, the master gains the Alertness feat.
 
 _Improved Evasion (Ex):_ When subjected to an attack that normally allows a Reflex saving throw for half
 damage, a familiar takes no damage if it makes a successful saving throw and half damage even if the saving throw
 fails.
 
-_Share Spells:_ At the master’s option, he may have any spell (but not any spell-like ability) he casts on
+_Share Spells:_ At the master's option, he may have any spell (but not any spell-like ability) he casts on
 himself also affect his familiar. The familiar must be within 5 feet at the time of casting to receive the
 benefit.
 
@@ -984,11 +984,11 @@ farther than 5 feet away and will not affect the familiar again even if it retur
 duration expires. Additionally, the master may cast a spell with a target of "You" on his familiar (as a touch
 range spell) instead of on himself.
 
-A master and his familiar can share spells even if the spells normally do not affect creatures of the familiar’s
+A master and his familiar can share spells even if the spells normally do not affect creatures of the familiar's
 type (magical beast).
 
 _Empathic Link (Su):_ The master has an empathic link with his familiar out to a distance of up to 1 mile.
-The master cannot see through the familiar’s eyes, but they can communicate empathically. Because of the limited
+The master cannot see through the familiar's eyes, but they can communicate empathically. Because of the limited
 nature of the link, only general emotional content can be communicated.
 
 Because of this empathic link, the master has the same connection to an item or place that his familiar does.
@@ -1009,8 +1009,8 @@ amphibians, weasels with similar creatures (weasels, minks, polecats, ermines, s
 Such communication is limited by the intelligence of the conversing creatures.
 
 _Spell Resistance (Ex):_ If the master is 11th level or higher, a familiar gains spell resistance equal to
-the master’s level + 5. To affect the familiar with a spell, another spellcaster must get a result on a caster
-level check (1d20 + caster level) that equals or exceeds the familiar’s spell resistance.
+the master's level + 5. To affect the familiar with a spell, another spellcaster must get a result on a caster
+level check (1d20 + caster level) that equals or exceeds the familiar's spell resistance.
 
 _Scry on Familiar (Sp):_ If the master is 13th level or higher, he may scry on his familiar (as if casting
 the _scrying_ spell) once per day.
@@ -1021,18 +1021,18 @@ the _scrying_ spell) once per day.
 | 3rd-4th | +2 | 7 | Deliver touch spells |
 | 5th-6th | +3 | 8 | Speak with master |
 | 7th-8th | +4 | 9 | Speak with animals of its kind |
-| 9th-10th | +5 | 10 | --- |
+| 9th-10th | +5 | 10 | -- |
 | 11th-12th | +6 | 11 | Spell resistance |
 | 13th-14th | +7 | 12 | _Scry_ on familiar |
-| 15th-16th | +8 | 13 | --- |
-| 17th-18th | +9 | 14 | --- |
-| 19th-20th | +10 | 15 | --- |
+| 15th-16th | +8 | 13 | -- |
+| 17th-18th | +9 | 14 | -- |
+| 19th-20th | +10 | 15 | -- |
 
 ### Arcane Spells and Armor
 Wizards and sorcerers do not know how to wear armor effectively.
 
-If desired, they can wear armor anyway (though they’ll be clumsy in it), or they can gain training in the proper
-use of armor (with the various Armor Proficiency feats---light, medium, and heavy---and the Shield Proficiency feat),
+If desired, they can wear armor anyway (though they'll be clumsy in it), or they can gain training in the proper
+use of armor (with the various Armor Proficiency feats--light, medium, and heavy--and the Shield Proficiency feat),
 or they can multiclass to add a class that grants them armor proficiency. Even if a wizard or sorcerer is wearing
 armor with which he or she is proficient, however, it might still interfere with spellcasting.
 
@@ -1044,8 +1044,8 @@ By contrast, bards not only know how to wear light armor effectively, but they c
 failure chance for such armor. A bard wearing armor heavier than light or using any type of shield incurs the
 normal arcane spell failure chance, even if he becomes proficient with that armor.
 
-If a spell doesn’t have a somatic component, an arcane spellcaster can cast it with no problem while wearing
-armor. Such spells can also be cast even if the caster’s hands are bound or if he or she is grappling (although
+If a spell doesn't have a somatic component, an arcane spellcaster can cast it with no problem while wearing
+armor. Such spells can also be cast even if the caster's hands are bound or if he or she is grappling (although
 Concentration checks still apply normally). Also, the metamagic feat Still Spell allows a spellcaster to prepare
 or cast a spell at one spell level higher than normal without the somatic component. This also provides a way to
 cast a spell while wearing armor without risking arcane spell failure.
@@ -1053,19 +1053,19 @@ cast a spell while wearing armor without risking arcane spell failure.
 ## Multiclass Characters
 
 A character may add new classes as he or she progresses in level, thus becoming a multiclass character. The class
-abilities from a character’s different classes combine to determine a multiclass character’s overall abilities.
-Multiclassing improves a character’s versatility at the expense of focus.
+abilities from a character's different classes combine to determine a multiclass character's overall abilities.
+Multiclassing improves a character's versatility at the expense of focus.
 
 ### Class and Level Features
 
-As a general rule, the abilities of a multiclass character are the sum of the abilities of each of the character’s
+As a general rule, the abilities of a multiclass character are the sum of the abilities of each of the character's
 classes.
 
 ### Level:
- "Character level" is a character’s total number of levels. It is used to determine when
+ "Character level" is a character's total number of levels. It is used to determine when
 feats and ability score boosts are gained.
 
-"Class level" is a character’s level in a particular class. For a character whose levels are all in the same
+"Class level" is a character's level in a particular class. For a character whose levels are all in the same
 class, character level and class level are the same.
 
 ### Hit Points:
@@ -1073,17 +1073,17 @@ class, character level and class level are the same.
 adding the new hit points to the previous total.
 
 ### Base Attack Bonus:
- Add the base attack bonuses acquired for each class to get the character’s
+ Add the base attack bonuses acquired for each class to get the character's
 base attack bonus. A resulting value of +6 or higher provides the character with multiple attacks.
 
 ### Saving Throws:
  Add the base save bonuses for each class together.
 
 ### Skills:
- If a skill is a class skill for any of a multiclass character’s classes, then character
-level determines a skill’s maximum rank. (The maximum rank for a class skill is 3 + character level.)
+ If a skill is a class skill for any of a multiclass character's classes, then character
+level determines a skill's maximum rank. (The maximum rank for a class skill is 3 + character level.)
 
-If a skill is not a class skill for any of a multiclass character’s classes, the maximum rank for that skill is
+If a skill is not a class skill for any of a multiclass character's classes, the maximum rank for that skill is
 one-half the maximum for a class skill.
 
 ### Class Features:
@@ -1092,7 +1092,7 @@ must also suffer the consequences of the special restrictions of all his or her 
 A character who acquires the barbarian class does not become illiterate.)
 
 In the special case of turning undead, both clerics and experienced paladins have the same ability. If the
-character’s paladin level is 4th or higher, her effective turning level is her cleric level plus her paladin level
+character's paladin level is 4th or higher, her effective turning level is her cleric level plus her paladin level
 minus 3.
 
 In the special case of uncanny dodge, both experienced barbarians and experienced rogues have the same ability.
@@ -1101,7 +1101,7 @@ uncanny dodge, if she does not already have it. Her barbarian and rogue levels s
 an attacker needs to flank her.
 
 In the special case of obtaining a familiar, both wizards and sorcerers have the same ability. A sorcerer/wizard
-stacks his sorcerer and wizard levels to determine the familiar’s natural armor, Intelligence score, and special
+stacks his sorcerer and wizard levels to determine the familiar's natural armor, Intelligence score, and special
 abilities.
 
 ### Feats:
@@ -1114,6 +1114,6 @@ regardless of individual class level.
 
 ### Spells:
  The character gains spells from all of his or her spellcasting classes and keeps a
-separate spell list for each class. If a spell’s effect is based on the class level of the caster, the player must
-keep track of which class’s spell list the character is casting the spell from.
+separate spell list for each class. If a spell's effect is based on the class level of the caster, the player must
+keep track of which class's spell list the character is casting the spell from.
 

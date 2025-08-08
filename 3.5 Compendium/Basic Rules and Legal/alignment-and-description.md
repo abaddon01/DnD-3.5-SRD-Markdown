@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Alignment and Description
-aliases: 3.5 Alignment and Description
+aliases:
+  - 3.5 Alignment and Description
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - alignment_and_description
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -25,10 +25,10 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 ## Alignment
 
-A creature’s general moral and personal attitudes are represented by its alignment: lawful good, neutral good,
+A creature's general moral and personal attitudes are represented by its alignment: lawful good, neutral good,
 chaotic good, lawful neutral, neutral, chaotic neutral, lawful evil, neutral evil, or chaotic evil.
 
-Alignment is a tool for developing your character’s identity. It is not a straitjacket for restricting your
+Alignment is a tool for developing your character's identity. It is not a straitjacket for restricting your
 character. Each alignment represents a broad range of personality types or personal philosophies, so two
 characters of the same alignment can still be quite different from each other. In addition, few people are
 completely consistent.
@@ -114,7 +114,7 @@ order.
 
 ### Chaotic Good, "Rebel":
  A chaotic good character acts as his conscience directs him with little
-regard for what others expect of him. He makes his own way, but he’s kind and benevolent. He believes in goodness
+regard for what others expect of him. He makes his own way, but he's kind and benevolent. He believes in goodness
 and right but has little use for laws and regulations. He hates it when people try to intimidate others and tell
 them what to do. He follows his own moral compass, which, although good, may not agree with that of society.
 
@@ -129,10 +129,10 @@ Lawful neutral is the best alignment you can be because it means you are reliabl
 zealot.
 
 ### Neutral, "Undecided":
- A neutral character does what seems to be a good idea. She doesn’t feel
+ A neutral character does what seems to be a good idea. She doesn't feel
 strongly one way or the other when it comes to good vs. evil or law vs. chaos. Most neutral characters exhibit a
 lack of conviction or bias rather than a commitment to neutrality. Such a character thinks of good as better than
-evil---after all, she would rather have good neighbors and rulers than evil ones. Still, she’s not personally
+evil--after all, she would rather have good neighbors and rulers than evil ones. Still, she's not personally
 committed to upholding good in any abstract or universal way.
 
 Some neutral characters, on the other hand, commit themselves philosophically to neutrality. They see good, evil,
@@ -143,15 +143,15 @@ Neutral is the best alignment you can be because it means you act naturally, wit
 
 ### Chaotic Neutral, "Free Spirit":
  A chaotic neutral character follows his whims. He is an
-individualist first and last. He values his own liberty but doesn’t strive to protect others’ freedom. He avoids
+individualist first and last. He values his own liberty but doesn't strive to protect others' freedom. He avoids
 authority, resents restrictions, and challenges traditions. A chaotic neutral character does not intentionally
 disrupt organizations as part of a campaign of anarchy. To do so, he would have to be motivated either by good
 (and a desire to liberate others) or evil (and a desire to make those different from himself suffer). A chaotic
 neutral character may be unpredictable, but his behavior is not totally random. He is not as likely to jump off a
 bridge as to cross it.
 
-Chaotic neutral is the best alignment you can be because it represents true freedom from both society’s
-restrictions and a do-gooder’s zeal.
+Chaotic neutral is the best alignment you can be because it represents true freedom from both society's
+restrictions and a do-gooder's zeal.
 
 ### Lawful Evil, "Dominator":
  A lawful evil villain methodically takes what he wants within the
@@ -178,7 +178,7 @@ successful evil.
  A neutral evil villain does whatever she can get away with. She is
 out for herself, pure and simple. She sheds no tears for those she kills, whether for profit, sport, or
 convenience. She has no love of order and holds no illusion that following laws, traditions, or codes would make
-her any better or more noble. On the other hand, she doesn’t have the restless nature or love of conflict that a
+her any better or more noble. On the other hand, she doesn't have the restless nature or love of conflict that a
 chaotic evil villain has.
 
 Some neutral evil villains hold up evil as an ideal, committing evil for its own sake. Most often, such villains
@@ -202,9 +202,9 @@ also of the order on which beauty and life depend.
 ## Vital Statistics
 ### Age
 
-You can choose or randomly generate your character’s age. If you choose it, it must be at least the minimum age
-for the character’s race and class (see Table: Random Starting Ages). Your character’s minimum starting age is the
-adulthood age of his or her race plus the number of dice indicated in the entry corresponding to the character’s
+You can choose or randomly generate your character's age. If you choose it, it must be at least the minimum age
+for the character's race and class (see Table: Random Starting Ages). Your character's minimum starting age is the
+adulthood age of his or her race plus the number of dice indicated in the entry corresponding to the character's
 race and class on Table: Random Starting Ages.
 
 Alternatively, refer to Table: Random Starting Ages and roll dice to determine how old your character is.
@@ -221,8 +221,8 @@ Alternatively, refer to Table: Random Starting Ages and roll dice to determine h
 | Half-orc | 14 years | +1d4 | +1d6 | +2d6 |
 | Halfling | 20 years | +2d4 | +3d6 | +4d6 |
 
-With age, a character’s physical ability scores decrease and his or her mental ability scores increase (see Table:
-Aging Effects). The effects of each aging step are cumulative. However, none of a character’s ability scores can
+With age, a character's physical ability scores decrease and his or her mental ability scores increase (see Table:
+Aging Effects). The effects of each aging step are cumulative. However, none of a character's ability scores can
 be reduced below 1 in this way.
 
 When a character reaches venerable age, secretly roll his or her maximum age, which is the number from the
@@ -250,9 +250,9 @@ infections, or violence before getting to venerable age.
 
 ### Height and Weight
 
-The dice roll given in the Height Modifier column determines the character’s extra height beyond the base height.
+The dice roll given in the Height Modifier column determines the character's extra height beyond the base height.
 That same number multiplied by the dice roll or quantity given in the Weight Modifier column determines the
-character’s extra weight beyond the base weight.
+character's extra weight beyond the base weight.
 
 **Table: Random Height and Weight**
 

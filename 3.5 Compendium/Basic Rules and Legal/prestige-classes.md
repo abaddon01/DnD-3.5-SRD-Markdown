@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Prestige Classes
-aliases: 3.5 Prestige Classes
+aliases:
+  - 3.5 Prestige Classes
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - prestige_classes
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -47,7 +47,7 @@ Taking a prestige class does not incur the experience point penalties normally a
     *   [[#Blackguard Spell List]]
     *   [[#Corrupt Weapon]]
     *   [[#Fallen Paladins]]
-    *   [[#The Blackguard’s Fiendish Servant]]
+    *   [[#The Blackguard's Fiendish Servant]]
 *   [[#Dragon Disciple]]
     *   [[#Requirements]]
     *   [[#Class Skills]]
@@ -122,7 +122,7 @@ To qualify to become an arcane archer, a character must fulfill all the followin
  Ability to cast 1st-level arcane spells.
 ### Class Skills
 
-The arcane archer’s class skills (and the key ability for each skill) are Craft (Int), Hide (Dex). Listen (Wis),
+The arcane archer's class skills (and the key ability for each skill) are Craft (Int), Hide (Dex). Listen (Wis),
 Move Silently (Dex), Ride (Dex), Spot (Wis), Survival (Wis), and Use Rope (Dex).
 
 ### Skill Points at Each Level:
@@ -153,22 +153,22 @@ light armor, medium armor, and shields.
 ### Enhance Arrow (Su):
  At 1st level, every nonmagical arrow an arcane archer nocks and lets fly
 becomes magical, gaining a +1 enhancement bonus. Unlike magic weapons created by normal means, the archer need not
-spend experience points or gold pieces to accomplish this task. However, an archer’s magic arrows only function
+spend experience points or gold pieces to accomplish this task. However, an archer's magic arrows only function
 for her. For every two levels the character advances past 1st level in the prestige class, the magic arrows she
 creates gain +1 greater potency (+1 at 1st level, +2 at 3rd level, +3 at 5th level, +4 at 7th level, and +5 at 9th
 level).
 
 ### _Imbue Arrow_ (Sp):
  At 2nd level, an arcane archer gains the ability to place an area spell
-upon an arrow. When the arrow is fired, the spell’s area is centered on where the arrow lands, even if the spell
-could normally be centered only on the caster. This ability allows the archer to use the bow’s range rather than
-the spell’s range. It takes a standard action to cast the spell and fire the arrow. The arrow must be fired in the
+upon an arrow. When the arrow is fired, the spell's area is centered on where the arrow lands, even if the spell
+could normally be centered only on the caster. This ability allows the archer to use the bow's range rather than
+the spell's range. It takes a standard action to cast the spell and fire the arrow. The arrow must be fired in the
 round the spell is cast, or the spell is wasted.
 
 ### _Seeker Arrow_ (Sp):
  At 4th level, an arcane archer can launch an arrow once per day at a
 target known to her within range, and the arrow travels to the target, even around corners. Only an unavoidable
-obstacle or the limit of the arrow’s range prevents the arrow’s flight. This ability negates cover and concealment
+obstacle or the limit of the arrow's range prevents the arrow's flight. This ability negates cover and concealment
 modifiers, but otherwise the attack is rolled normally. Using this ability is a standard action (and shooting the
 arrow is part of the action).
 
@@ -183,12 +183,12 @@ Using this ability is a standard action (and shooting the arrow is part of the a
 ### _Hail of Arrows_ (Sp):
  In lieu of her regular attacks, once per day an arcane archer of 8th
 level or higher can fire an arrow at each and every target within range, to a maximum of one target for every
-arcane archer level she has earned. Each attack uses the archer’s primary attack bonus, and each enemy may only be
+arcane archer level she has earned. Each attack uses the archer's primary attack bonus, and each enemy may only be
 targeted by a single arrow.
 
 ### _Arrow of Death_ (Sp):
  At 10th level, an arcane archer can create an
-_arrow of death_ that forces the target, if damaged by the arrow’s attack, to make a DC 20 Fortitude save or
+_arrow of death_ that forces the target, if damaged by the arrow's attack, to make a DC 20 Fortitude save or
 be slain immediately. It takes one day to make an _arrow of death_, and the arrow only functions for the
 arcane archer who created it. The _arrow of death_ lasts no longer than one year, and the archer can only
 have one such arrow in existence at a time.
@@ -212,7 +212,7 @@ To qualify to become an arcane trickster, a character must fulfill all of the fo
  Sneak attack +2d6.
 ### Class Skills
 
-The arcane trickster’s class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff
+The arcane trickster's class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff
 (Cha), Climb (Str), Concentration (Con), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device
 (Int), Disguise (Cha), Escape Artist (Dex), Gather Information (Cha), Hide (Dex), Jump (Str), Knowledge (all
 skills taken individually) (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Profession (Wis), Sense
@@ -289,7 +289,7 @@ least five schools.
 
 ### Class Skills
 
-The archmage’s class skills (and the key ability for each skill) are Concentration (Con), Craft (alchemy) (Int),
+The archmage's class skills (and the key ability for each skill) are Concentration (Con), Craft (alchemy) (Int),
 Knowledge (all skills taken individually) (Int), Profession (Wis), Search (Int), and Spellcraft (Int).
 
 ### Skill Points at Each Level:
@@ -342,16 +342,16 @@ _spell turning_, then it is merely counterspelled. This ability costs one 7th-le
 
 _Mastery of Elements:_ The archmage can alter an arcane spell when cast so that it utilizes a different
 element from the one it normally uses. This ability can only alter a spell with the acid, cold, fire, electricity,
-or sonic descriptor. The spell’s casting time is unaffected. The caster decides whether to alter the spell’s
+or sonic descriptor. The spell's casting time is unaffected. The caster decides whether to alter the spell's
 energy type and chooses the new energy type when he begins casting. This ability costs one 8th-level spell slot.
 
 _Mastery of Shaping:_ The archmage can alter area and effect spells that use one of the following shapes:
-burst, cone, cylinder, emanation, or spread. The alteration consists of creating spaces within the spell’s area or
+burst, cone, cylinder, emanation, or spread. The alteration consists of creating spaces within the spell's area or
 effect that are not subject to the spell. The minimum dimension for these spaces is a 5-foot cube. Furthermore,
 any shapeable spells have a minimum dimension of 5 feet instead of 10 feet. This ability costs one 6th-level spell
 slot.
 
-_Spell Power:_ This ability increases the archmage’s effective caster level by +1 (for purposes of
+_Spell Power:_ This ability increases the archmage's effective caster level by +1 (for purposes of
 determining level-dependent spell variables such as damage dice or range, and caster level checks only). This
 ability costs one 5th-level spell slot.
 
@@ -361,7 +361,7 @@ her arcane spells as a spell-like ability that can be used twice per day. The ar
 when casting the spell, although a spell that costs XP to cast still does so and a spell with a costly material
 component instead costs her 10 times that amount in XP. This ability costs one 5th-level spell slot.
 
-The spell-like ability normally uses a spell slot of the spell’s level, although the archmage can choose to make a
+The spell-like ability normally uses a spell slot of the spell's level, although the archmage can choose to make a
 spell modified by a metamagic feat into a spell-like ability at the appropriate spell level.
 
 The archmage may use an available higher-level spell slot in order to use the spell-like ability more often. Using
@@ -384,7 +384,7 @@ To qualify to become an assassin, a character must fulfill all the following cri
  The character must kill someone for no other reason than to join the assassins.
 ### Class Skills
 
-The assassin’s class skills (and the key ability for each skill) are Balance (Dex), Bluff (Cha), Climb (Str),
+The assassin's class skills (and the key ability for each skill) are Balance (Dex), Bluff (Cha), Climb (Str),
 Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex),
 Forgery (Int), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Listen (Wis), Move Silently
 (Dex), Open Lock (Dex), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spot (Wis), Swim (Str), Tumble
@@ -398,12 +398,12 @@ Forgery (Int), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str
 |  |  |  |  |  |  | Spells per Day |
 | --- | --- | --- | --- | --- | --- | --- |
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th |
-| 1st | +0 | +0 | +2 | +0 | Sneak attack +1d6, death attack, poison use, spells | 0 | --- | --- | --- |
-| 2nd | +1 | +0 | +3 | +0 | +1 save against poison, uncanny dodge | 1 | --- | --- | --- |
-| 3rd | +2 | +1 | +3 | +1 | Sneak attack +2d6 | 2 | 0 | --- | --- |
-| 4th | +3 | +1 | +4 | +1 | +2 save against poison | 3 | 1 | --- | --- |
-| 5th | +3 | +1 | +4 | +1 | Improved uncanny dodge, sneak attack +3d6 | 3 | 2 | 0 | --- |
-| 6th | +4 | +2 | +5 | +2 | +3 save against poison | 3 | 3 | 1 | --- |
+| 1st | +0 | +0 | +2 | +0 | Sneak attack +1d6, death attack, poison use, spells | 0 | -- | -- | -- |
+| 2nd | +1 | +0 | +3 | +0 | +1 save against poison, uncanny dodge | 1 | -- | -- | -- |
+| 3rd | +2 | +1 | +3 | +1 | Sneak attack +2d6 | 2 | 0 | -- | -- |
+| 4th | +3 | +1 | +4 | +1 | +2 save against poison | 3 | 1 | -- | -- |
+| 5th | +3 | +1 | +4 | +1 | Improved uncanny dodge, sneak attack +3d6 | 3 | 2 | 0 | -- |
+| 6th | +4 | +2 | +5 | +2 | +3 save against poison | 3 | 3 | 1 | -- |
 | 7th | +5 | +2 | +5 | +2 | Sneak attack +4d6 | 3 | 3 | 2 | 0 |
 | 8th | +6 | +2 | +6 | +2 | +4 save against poison, hide in plain sight | 3 | 3 | 3 | 1 |
 | 9th | +6 | +3 | +6 | +3 | Sneak attack +5d6 | 3 | 3 | 3 | 2 |
@@ -425,12 +425,12 @@ another source the bonuses on damage stack.
 ### Death Attack:
  If an assassin studies his victim for 3 rounds and then makes a sneak attack with a
 melee weapon that successfully deals damage, the sneak attack has the additional effect of possibly either
-paralyzing or killing the target (assassin’s choice). While studying the victim, the assassin can undertake other
+paralyzing or killing the target (assassin's choice). While studying the victim, the assassin can undertake other
 actions so long as his attention stays focused on the target and the target does not detect the assassin or
-recognize the assassin as an enemy. If the victim of such an attack fails a Fortitude save (DC 10 + the assassin’s
-class level + the assassin’s Int modifier) against the kill effect, she dies. If the saving throw fails against
+recognize the assassin as an enemy. If the victim of such an attack fails a Fortitude save (DC 10 + the assassin's
+class level + the assassin's Int modifier) against the kill effect, she dies. If the saving throw fails against
 the paralysis effect, the victim is rendered helpless and unable to act for 1d6 rounds plus 1 round per level of
-the assassin. If the victim’s saving throw succeeds, the attack is just a normal sneak attack. Once the assassin
+the assassin. If the victim's saving throw succeeds, the attack is just a normal sneak attack. Once the assassin
 has completed the 3 rounds of study, he must make the death attack within the next 3 rounds.
 
 If a death attack is attempted and fails (the victim makes her save) or if the assassin does not launch the attack
@@ -443,16 +443,16 @@ themselves when applying poison to a blade.
 
 ### Spells:
  Beginning at 1st level, an assassin gains the ability to cast a number of arcane spells.
-To cast a spell, an assassin must have an Intelligence score of at least 10 + the spell’s level, so an assassin
+To cast a spell, an assassin must have an Intelligence score of at least 10 + the spell's level, so an assassin
 with an Intelligence of 10 or lower cannot cast these spells. Assassin bonus spells are based on Intelligence, and
-saving throws against these spells have a DC of 10 + spell level + the assassin’s Intelligence bonus. When the
+saving throws against these spells have a DC of 10 + spell level + the assassin's Intelligence bonus. When the
 assassin gets 0 spells per day of a given spell level he gains only the bonus spells he would be entitled to based
 on his Intelligence score for that spell level.
 
-The assassin’s spell list appears below. An assassin casts spells just as a bard does.
+The assassin's spell list appears below. An assassin casts spells just as a bard does.
 
 Upon reaching 6th level, at every even-numbered level after that (8th and 10th), an assassin can choose to learn a
-new spell in place of one he already knows. The new spell’s level must be the same as that of the spell being
+new spell in place of one he already knows. The new spell's level must be the same as that of the spell being
 exchanged, and it must be at least two levels lower than the highest-level assassin spell the assassin can cast.
 An assassin may swap only a single spell at any given level, and must choose whether or not to swap the spell at
 the same time that he gains new spells known for that level.
@@ -462,12 +462,12 @@ the same time that he gains new spells known for that level.
 |  | Spells Known |
 | --- | --- |
 | Level | 1st | 2nd | 3rd | 4th |
-| 1st | 2<sup>1</sup> | --- | --- | --- |
-| 2nd | 3 | --- | --- | --- |
-| 3rd | 3 | 2<sup>1</sup> | --- | --- |
-| 4th | 4 | 3 | --- | --- |
-| 5th | 4 | 3 | 2<sup>1</sup> | --- |
-| 6th | 4 | 4 | 3 | --- |
+| 1st | 2<sup>1</sup> | -- | -- | -- |
+| 2nd | 3 | -- | -- | -- |
+| 3rd | 3 | 2<sup>1</sup> | -- | -- |
+| 4th | 4 | 3 | -- | -- |
+| 5th | 4 | 3 | 2<sup>1</sup> | -- |
+| 6th | 4 | 4 | 3 | -- |
 | 7th | 4 | 4 | 3 | 2<sup>1</sup> |
 | 8th | 4 | 4 | 4 | 3 |
 | 9th | 4 | 4 | 4 | 3 |
@@ -509,7 +509,7 @@ Assassins choose their spells from the following list:
 _disguise self, detect poison, feather fall, ghost sound, jump, obscuring mist, sleep, true strike._
 
 2nd Level:
-_alter self, cat’s grace, darkness, fox’s cunning, illusory script, invisibility, pass without trace, spider climb, undetectable alignment._
+_alter self, cat's grace, darkness, fox's cunning, illusory script, invisibility, pass without trace, spider climb, undetectable alignment._
 
 3rd Level:
 _deep slumber, deeper darkness, false life, magic circle against good, misdirection, nondetection._
@@ -537,7 +537,7 @@ him or someone else.
 
 ### Class Skills
 
-The blackguard’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy
+The blackguard's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy
 (Cha), Handle Animal (Cha), Heal (Wis), Hide (Dex), Intimidate (Cha), Knowledge (religion) (Int), Profession
 (Wis), and Ride (Dex).
 
@@ -549,12 +549,12 @@ The blackguard’s class skills (and the key ability for each skill) are Concent
 |  |  |  |  |  |  | Spells per Day |
 | --- | --- | --- | --- | --- | --- | --- |
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 1st | 2nd | 3rd | 4th |
-| 1st | +1 | +2 | 0 | 0 | Aura of evil, _detect good_, poison use | 0 | --- | --- | --- |
-| 2nd | +2 | +3 | 0 | 0 | Dark blessing, smite good 1/day | 1 | --- | --- | --- |
-| 3rd | +3 | +3 | +1 | +1 | Command undead, aura of despair | 1 | 0 | --- | --- |
-| 4th | +4 | +4 | +1 | +1 | Sneak attack +1d6 | 1 | 1 | --- | --- |
-| 5th | +5 | +4 | +1 | +1 | Fiendish servant, smite good 2/day | 1 | 1 | 0 | --- |
-| 6th | +6 | +5 | +2 | +2 |  | 1 | 1 | 1 | --- |
+| 1st | +1 | +2 | 0 | 0 | Aura of evil, _detect good_, poison use | 0 | -- | -- | -- |
+| 2nd | +2 | +3 | 0 | 0 | Dark blessing, smite good 1/day | 1 | -- | -- | -- |
+| 3rd | +3 | +3 | +1 | +1 | Command undead, aura of despair | 1 | 0 | -- | -- |
+| 4th | +4 | +4 | +1 | +1 | Sneak attack +1d6 | 1 | 1 | -- | -- |
+| 5th | +5 | +4 | +1 | +1 | Fiendish servant, smite good 2/day | 1 | 1 | 0 | -- |
+| 6th | +6 | +5 | +2 | +2 |  | 1 | 1 | 1 | -- |
 | 7th | +7 | +5 | +2 | +2 | Sneak attack +2d6 | 2 | 1 | 1 | 0 |
 | 8th | +8 | +6 | +2 | +2 |  | 2 | 1 | 1 | 1 |
 | 9th | +9 | +6 | +3 | +3 |  | 2 | 2 | 1 | 1 |
@@ -568,7 +568,7 @@ All of the following are Class Features of the blackguard prestige class.
 with all types of armor, and with shields.
 
 ### Aura of Evil (Ex):
- The power of a blackguard’s aura of evil (see the _detect evil_ spell) is
+ The power of a blackguard's aura of evil (see the _detect evil_ spell) is
 equal to his class level plus his cleric level, if any.
 
 ### _Detect Good_ (Sp):
@@ -585,12 +585,12 @@ saving throws.
 
 ### Spells:
  A blackguard has the ability to cast a small number of divine spells. To cast a
-blackguard spell, a blackguard must have a Wisdom score of at least 10 + the spell’s level, so a blackguard with a
+blackguard spell, a blackguard must have a Wisdom score of at least 10 + the spell's level, so a blackguard with a
 Wisdom of 10 or lower cannot cast these spells.
 
 Blackguard bonus spells are based on Wisdom, and saving throws against these spells have a DC of 10 + spell level
-+ the blackguard’s Wisdom modifier. When the blackguard gets 0 spells per day of a given spell level he gains only
-the bonus spells he would be entitled to based on his Wisdom score for that spell level. The blackguard’s spell
++ the blackguard's Wisdom modifier. When the blackguard gets 0 spells per day of a given spell level he gains only
+the bonus spells he would be entitled to based on his Wisdom score for that spell level. The blackguard's spell
 list appears below. A blackguard has access to any spell on the list and can freely choose which to prepare, just
 as a cleric. A blackguard prepares and casts spells just as a cleric does (though a blackguard cannot
 spontaneously cast
@@ -626,7 +626,7 @@ Blackguards choose their spells from the following list:
 _cause fear, corrupt weapon, cure light wounds, doom, inflict light wounds, magic weapon, summon monster I*._
 
 2nd Level:
-_bull’s strength, cure moderate wounds, darkness, death knell, eagle’s splendor, inflict moderate wounds, shatter, summon monster II*._
+_bull's strength, cure moderate wounds, darkness, death knell, eagle's splendor, inflict moderate wounds, shatter, summon monster II*._
 
 3rd Level:
 _contagion, cure serious wounds, deeper darkness, inflict serious wounds, protection from elements, summon monster III*._
@@ -638,7 +638,7 @@ _cure critical wounds, freedom of movement, inflict critical wounds, poison, sum
 ### Corrupt Weapon
 
 Blackguards have access to a special spell, _corrupt weapon,_ which is the opposing counterpart of the
-paladin spell _bless weapon_. Instead of improving a weapon’s effectiveness against evil foes
+paladin spell _bless weapon_. Instead of improving a weapon's effectiveness against evil foes
 _corrupt weapon_ makes a weapon more effective against good foes.
 
 ### Fallen Paladins
@@ -658,7 +658,7 @@ servant of damage equal to his Charisma bonus x his level.
 
 7-8: Fiendish summoning. Once per day, the blackguard can use a
 _summon monster I_ spell to call forth an evil creature. For this spell, the caster level is double the
-blackguard’s class level.
+blackguard's class level.
 
 9-10: Undead companion. In addition to the fiendish servant, the blackguard gains (at 5th level) a Medium-size
 skeleton or zombie as a companion. This companion cannot be turned or rebuked and gains all special bonuses as a
@@ -670,16 +670,16 @@ trades in.
 The character level of the character does not change. With the loss of paladin levels, the character no longer
 gains as many extra abilities for being a fallen paladin.
 
-### The Blackguard’s Fiendish Servant
+### The Blackguard's Fiendish Servant
 
 Upon or after reaching 5th level, a blackguard can call a fiendish bat, cat, dire rat, horse, pony, raven, or toad
-to serve him. The blackguard’s servant further gains HD and special abilities based on the blackguard’s character
+to serve him. The blackguard's servant further gains HD and special abilities based on the blackguard's character
 level (see the table below).
 
 A blackguard may have only one fiendish servant at a time.
 
-Should the blackguard’s servant die, he may call for another one after a year and a day. The new fiendish servant
-has all the accumulated abilities due a servant of the blackguard’s current level.
+Should the blackguard's servant die, he may call for another one after a year and a day. The new fiendish servant
+has all the accumulated abilities due a servant of the blackguard's current level.
 
 | Character Level | Bonus HD | Natural Armor Adj. | Str Adj. | Int | Special |
 | --- | --- | --- | --- | --- | --- |
@@ -692,18 +692,18 @@ _Character Level:_ The character level of the blackguard (his blackguard level p
 level).
 
 _Bonus HD:_ Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Extra
-Hit Dice improve the servant’s base attack and base save bonuses, as normal.
+Hit Dice improve the servant's base attack and base save bonuses, as normal.
 
-_Natural Armor Adj.:_ This is an improvement to the servant’s existing natural armor bonus.
-_Str Adj.:_ Add this figure to the servant’s Strength score.
+_Natural Armor Adj.:_ This is an improvement to the servant's existing natural armor bonus.
+_Str Adj.:_ Add this figure to the servant's Strength score.
 
-_Int:_ The servant’s Intelligence score. (A fiendish servant is smarter than normal animals of its kind.)
+_Int:_ The servant's Intelligence score. (A fiendish servant is smarter than normal animals of its kind.)
 
 The abilities mentioned in the "Special" column of the accompanying table are described below.
 
 ### Empathic Link (Su):
  The blackguard has an empathic link with his servant out to a distance of up
-to 1 mile. The blackguard cannot see through the servant’s eyes, but they can communicate empathically. Because of
+to 1 mile. The blackguard cannot see through the servant's eyes, but they can communicate empathically. Because of
 the limited nature of the link, only general emotional content can be communicated.
 
 Because of the empathic link between the servant and the blackguard, the blackguard has the same connection to a
@@ -716,33 +716,33 @@ saving throw. Improved evasion is an extraordinary ability.
 
 ### Share Saving Throws:
  For each of its saving throws, the servant uses either its own base save
-bonus or the blackguard’s, whichever is higher. The servant applies its own ability modifiers to saves, and it
-doesn’t share any other bonuses on saves that the blackguard might have.
+bonus or the blackguard's, whichever is higher. The servant applies its own ability modifiers to saves, and it
+doesn't share any other bonuses on saves that the blackguard might have.
 
 ### Share Spells:
- At the blackguard’s option, he may have any spell (but not any spell-like ability)
+ At the blackguard's option, he may have any spell (but not any spell-like ability)
 he casts on himself also affect his servant. The servant must be within 5 feet at the time of casting to receive
 the benefit. If the spell has a duration other than instantaneous, it stops affecting the servant if it moves
 farther than 5 feet away and will not affect the servant again even if the servant returns to the blackguard
 before the duration expires. Additionally, the blackguard may cast a spell with a target of "You" on his servant
 (as a touch range spell) instead of on himself. A blackguard and his servant can share spells even if the spells
-normally do not affect creatures of the servant’s type (magical beast).
+normally do not affect creatures of the servant's type (magical beast).
 
 ### Speak with Blackguard (Ex):
- If the blackguard’s character level is 13th or higher, the blackguard
+ If the blackguard's character level is 13th or higher, the blackguard
 and servant can communicate verbally as if they were using a common language. Other creatures do not understand
 the communication without magical help.
 
 ### Blood Bond (Ex):
- If the blackguard’s character level is 16th or higher, the servant gains a +2
+ If the blackguard's character level is 16th or higher, the servant gains a +2
 bonus on all attack rolls, checks, and saves if it witnesses the blackguard being threatened or harmed.
 
 This bonus lasts as long as the threat is immediate and apparent.
 
 ### Spell Resistance (Ex):
- If the blackguard’s character level is 19th or higher, the servant gains
-spell resistance equal to the blackguard’s level + 5. To affect the servant with a spell, another spellcaster must
-get a result on a caster level check (1d20 + caster level) that equals or exceeds the servant’s spell resistance.
+ If the blackguard's character level is 19th or higher, the servant gains
+spell resistance equal to the blackguard's level + 5. To affect the servant with a spell, another spellcaster must
+get a result on a caster level check (1d20 + caster level) that equals or exceeds the servant's spell resistance.
 
 ## Dragon Disciple
 ### Hit Die:
@@ -763,7 +763,7 @@ To qualify to become a dragon disciple, a character must fulfill all the followi
 
 ### Class Skills
 
-The dragon disciple’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
+The dragon disciple's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
 Diplomacy (Cha), Escape Artist (Dex), Gather Information (Cha), Knowledge (all skills, taken individually) (Int)
 Listen (Wis), Profession (Wis), Search (Int), Speak Language (Int), Spellcraft (Int), and Spot (Wis).
 
@@ -799,14 +799,14 @@ If a character has more than one spellcasting class, he must decide to which cla
 is gained. Once a bonus spell has been applied, it cannot be shifted.
 
 ### Natural Armor Increase (Ex):
- At 1st, 4th, and 7th level, a gains an increase to the character’s
+ At 1st, 4th, and 7th level, a gains an increase to the character's
 existing natural armor (if any), as indicated on Table: The Dragon Disciple (the numbers represent the total
-increase gained to that point). As his skin thickens, a dragon disciple takes on more and more of his progenitor’s
+increase gained to that point). As his skin thickens, a dragon disciple takes on more and more of his progenitor's
 physical aspect.
 
 ### Claws and Bite (Ex):
  At 2nd level, a dragon disciple gains claw and bite attacks if he does not
-already have them. Use the values below or the disciple’s base claw and bite damage values, whichever are greater.
+already have them. Use the values below or the disciple's base claw and bite damage values, whichever are greater.
 
 | Size | Bite Damage | Claw Damage |
 | --- | --- | --- |
@@ -886,7 +886,7 @@ To qualify to become a duelist, a character must fulfill all the following crite
  Dodge, Mobility, Weapon Finesse.
 ### Class Skills
 
-The duelist’s class skills (and the key ability for each skill) are Balance (Dex), Bluff (Cha), Escape Artist
+The duelist's class skills (and the key ability for each skill) are Balance (Dex), Bluff (Cha), Escape Artist
 (Dex), Jump (Str), Listen (Wis), Perform (Cha), Sense Motive (Wis), Spot (Wis), and Tumble (Dex).
 
 ### Skill Points at Each Level:
@@ -937,7 +937,7 @@ throws. This ability functions for a duelist only when she is wearing no armor a
  At 5th level, a duelist gains the ability to strike precisely with a light
 or one-handed piercing weapon, gaining an extra 1d6 damage added to her normal damage roll.
 
-When making a precise strike, a duelist cannot attack with a weapon in her other hand or use a shield. A duelist’s
+When making a precise strike, a duelist cannot attack with a weapon in her other hand or use a shield. A duelist's
 precise strike only works against living creatures with discernible anatomies. Any creature that is immune to
 critical hits is not vulnerable to a precise strike, and any item or ability that protects a creature from
 critical hitsalso protects a creature from a precise strike. At 10th level, the extra damage on a precise strike
@@ -970,7 +970,7 @@ To qualify to become a defender, a character must fulfill all the following crit
  Dodge, Endurance, Toughness.
 ### Class Skills
 
-The defender’s class skills (and the key ability for each skill) are Craft (Int), Listen (Wis), Sense Motive
+The defender's class skills (and the key ability for each skill) are Craft (Int), Listen (Wis), Sense Motive
 (Wis), and Spot (Wis).
 
 ### Skill Points at Each Level:
@@ -1005,11 +1005,11 @@ weapons, all types of armor, and shields.
 ### Defensive Stance:
  When he adopts a defensive stance, a defender gains phenomenal strength and
 durability, but he cannot move from the spot he is defending. He gains +2 to Strength, +4 to Constitution, a +2
-resistance bonus on all saves, and a +4 dodge bonus to AC. The increase in Constitution increases the defender’s
+resistance bonus on all saves, and a +4 dodge bonus to AC. The increase in Constitution increases the defender's
 hit points by 2 points per level, but these hit points go away at the end of the defensive stance when the
 Constitution score drops back 4 points. These extra hit points are not lost first the way temporary hit points
 are. While in a defensive stance, a defender cannot use skills or abilities that would require him to shift his
-position. A defensive stance lasts for a number of rounds equal to 3 + the character’s (newly improved)
+position. A defensive stance lasts for a number of rounds equal to 3 + the character's (newly improved)
 Constitution modifier. A defender may end his defensive stance voluntarily prior to this limit. At the end of the
 defensive stance, the defender is winded and takes a -2 penalty to Strength for the duration of that encounter. A
 defender can only use his defensive stance a certain number of times per day as determined by his level (see
@@ -1061,7 +1061,7 @@ To qualify to become an eldritch knight, a character must fulfill all the follow
  Able to cast 3rd-level arcane spells.
 ### Class Skills
 
-The eldritch knight’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
+The eldritch knight's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
 Decipher Script (Int), Jump (Str), Knowledge (arcana) (Int), Knowledge (nobility and royalty) (Int), Ride (Dex),
 Sense Motive (Wis), Spellcraft (Int), and Swim (Str).
 
@@ -1117,7 +1117,7 @@ To qualify to become a hierophant, a character must fulfill all the following cr
  Able to cast 7th-level divine spells.
 ### Class Skills
 
-The hierophant’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy
+The hierophant's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy
 (Cha), Heal (Wis), Knowledge (arcana) (Int), Knowledge (religion) (Int), Profession (Wis), and Spellcraft (Int).
 
 ### Skill Points at Each Level:
@@ -1140,7 +1140,7 @@ All the following are Class Features of the hierophant prestige class.
 
 ### Spells and Caster Level:
  Levels in the hierophant prestige class, even though they do not advance
-spell progression in the character’s base class, still stack with the character’s base spellcasting levels to
+spell progression in the character's base class, still stack with the character's base spellcasting levels to
 determine caster level.
 
 ### Special Ability:
@@ -1178,12 +1178,12 @@ _Gift of the Divine (Su):_ Available only to hierophants with cleric levels, thi
 hierophant to transfer one or more uses of his turn undead ability to a willing creature. (Hierophants who rebuke
 undead transfer uses of rebuke undead instead.) The transfer lasts anywhere from 24 hours to one week (chosen at
 the time of transfer), and while the transfer is in effect, the number of turning attempts per day allowed to the
-hierophant is reduced by the number transferred. The recipient turns undead as a cleric of the hierophant’s cleric
+hierophant is reduced by the number transferred. The recipient turns undead as a cleric of the hierophant's cleric
 level but uses her own Charisma modifier.
 
 _Mastery of Energy (Su):_ Available only to hierophants with cleric levels, this ability allows a
 hierophant to channel positive or negative energy much more effectively, increasing his ability to affect undead.
-Add a +4 bonus to the hierophant’s turning checks and turning damage rolls. This ability only affects undead, even
+Add a +4 bonus to the hierophant's turning checks and turning damage rolls. This ability only affects undead, even
 if the hierophant can turn other creatures, such as with a granted power of a domain.
 
 _Metamagic Feat:_ A hierophant can choose a metamagic feat in place of one of the special abilities
@@ -1195,14 +1195,14 @@ from 24 hours to one week (chosen at the time of transfer), and while the transf
 cannot use the transferred power. He can transfer any of his druid powers except spellcasting and the ability to
 have an animal companion.
 
-The druid’s wild shape ability can be partially or completely transferred. The heirophant choses how many uses of
+The druid's wild shape ability can be partially or completely transferred. The heirophant choses how many uses of
 wild shape per day to give to transfer and retains the rest of the uses for himself. If the hierophant can assume
 the form of Tiny or Huge animals, the recipient can as well.
 
 As with the _imbue with spell ability_ spell, the hierophant remains responsible to his deity for any use to
 which the recipient puts the transferred abilities.
 
-_Spell Power:_ This special ability increases a hierophant’s effective caster level by 1 for purposes of
+_Spell Power:_ This special ability increases a hierophant's effective caster level by 1 for purposes of
 determining level-dependent spell variables and for caster level checks. This ability can be selected more than
 once, and changes to effective caster level are cumulative.
 
@@ -1211,7 +1211,7 @@ to permanently prepare one of his divine spells as a spell-like ability that can
 hierophant does not use any components when casting the spell, although a spell that costs XP to cast still does
 so, and a spell with a costly material component instead costs him 10 times that amount in XP.
 
-The spell normally uses a spell slot of the spell’s level (or higher, if the hierophant chooses to permanently
+The spell normally uses a spell slot of the spell's level (or higher, if the hierophant chooses to permanently
 attach a metamagic feat to the spell chosen). The hierophant can use an available higher-level spell slot to use
 the spell-like ability more than once per day. Allocating a slot three levels higher allows him to cast the spell
 four times per day, and a slot six levels higher lets him cast it six times per day. If selected more than one
@@ -1229,7 +1229,7 @@ To qualify to become a horizon walker, a character must fulfill all the followin
  Endurance.
 ### Class Skills
 
-The horizon walker’s class skills (and the key ability for each skill) are Balance (Dex), Climb (Str), Diplomacy
+The horizon walker's class skills (and the key ability for each skill) are Balance (Dex), Climb (Str), Diplomacy
 (Cha), Handle Animal (Cha), Hide (Dex), Knowledge (geography) (Int), Listen (Wis), Move Silently (Dex), Profession
 (Wis), Ride (Dex), Speak Language (none), Spot (Wis), and Survival (Wis).
 
@@ -1265,7 +1265,7 @@ creatures with that terrain mentioned in the Environment entry of their descript
 gains the bonus if the creature description specifically lists the terrain type.
 
 Horizon walkers take their terrain mastery with them wherever they go. They retain their terrain mastery bonuses
-on skill checks, attack rolls, and damage rolls whether they’re actually in the relevant terrain or not.
+on skill checks, attack rolls, and damage rolls whether they're actually in the relevant terrain or not.
 
 ### Planar Terrain Mastery:
  Planar terrain mastery functions just like terrain mastery, except that
@@ -1329,7 +1329,7 @@ outsiders and elementals native to a shifting plane.
 ### Aligned (Planar):
  You have the instinctive ability to mimic the dominant alignment of the plane.
 You incur none of the penalties for having an alignment at odds with that of the plane, and spells and abilities
-that harm those of the opposite alignment don’t affect you. You have the dominant alignment of the plane with
+that harm those of the opposite alignment don't affect you. You have the dominant alignment of the plane with
 regard to magic, but your behavior and any alignment-related Class Features you have are unaffected.
 
 ### Cavernous (Planar):
@@ -1353,7 +1353,7 @@ Knowledge skill]).
 
 ### Class Skills
 
-The loremaster’s class skills (and the key ability for each skill) are Appraise (Int), Concentration (Con), Craft
+The loremaster's class skills (and the key ability for each skill) are Appraise (Int), Concentration (Con), Craft
 (alchemy) (Int), Decipher Script (Int), Gather Information (Cha), Handle Animals (Cha), Heal (Wis), Knowledge (all
 skills taken individually) (Int), Perform (Cha), Profession (Wis), Speak Language, Spellcraft (Int), and Use Magic
 Device (Cha).
@@ -1392,7 +1392,7 @@ spellcasting class the character has, then determines spells per day, spells kno
 loremaster chooses one
 
 secret from the table below. Her level plus Intelligence modifier determines the total number of secrets she can
-choose. She can’t choose the same secret twice.
+choose. She can't choose the same secret twice.
 
 ### Lore:
  At 2nd level, a loremaster gains the ability to know legends or information regarding
@@ -1436,7 +1436,7 @@ To qualify to become a mystic theurge, a character must fulfill all the followin
  Able to cast 2nd-level divine spells and 2nd-level arcane spells.
 ### Class Skills
 
-The mystic theurge’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
+The mystic theurge's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
 Decipher Script (Int), Knowledge (arcana) (Int), Knowledge (religion) (Int), Profession (Wis), Sense Motive (Wis),
 and Spellcraft (Int).
 
@@ -1484,7 +1484,7 @@ To qualify to become a shadowdancer, a character must fulfill all the following 
  Combat Reflexes, Dodge, Mobility.
 ### Class Skills
 
-The shadowdancer’s class skills (and the key ability for each skill) are Balance (Dex), Bluff (Cha), Decipher
+The shadowdancer's class skills (and the key ability for each skill) are Balance (Dex), Bluff (Cha), Decipher
 Script (Int), Diplomacy (Cha), Disguise (Cha), Escape Artist (Dex), Hide (Dex), Jump (Str), Listen (Wis), Move
 Silently (Dex), Perform (Cha), Profession (Wis), Search (Int), Sleight of Hand (Dex), Spot (Wis), Tumble (Dex),
 and Use Rope (Dex).
@@ -1539,20 +1539,20 @@ If a character gains uncanny dodge from a second class, the character automatica
 
 ### _Shadow Illusion_ (Sp):
  When a shadowdancer reaches 3rd level, she can create visual
-illusions. This ability’s effect is identical to that of the arcane spell _silent image_ and may be employed
+illusions. This ability's effect is identical to that of the arcane spell _silent image_ and may be employed
 once per day.
 
 ### Summon Shadow (Su):
  At 3rd level, a shadowdancer can summon a shadow, an undead shade. Unlike a
-normal shadow, this shadow’s alignment matches that of the shadowdancer, and the creature cannot create spawn. The
+normal shadow, this shadow's alignment matches that of the shadowdancer, and the creature cannot create spawn. The
 summoned shadow cannot be turned, rebuked, or commanded by any third party. This shadow serves as a companion to
 the shadowdancer and can communicate intelligibly with the shadowdancer. Every third level gained by the
 shadowdancer adds +2 HD (and the requisite base attack and base save bonus increases) to her shadow companion.
 
 If a shadow companion is destroyed, or the shadowdancer chooses to dismiss it, the shadowdancer must attempt a DC
 15 Fortitude save. If the saving throw fails, the shadowdancer loses 200 experience points per shadowdancer level.
-A successful saving throw reduces the loss by half, to 100 XP per prestige class level. The shadowdancer’s XP
-total can never go below 0 as the result of a shadow’s dismissal or destruction. A destroyed or dismissed shadow
+A successful saving throw reduces the loss by half, to 100 XP per prestige class level. The shadowdancer's XP
+total can never go below 0 as the result of a shadow's dismissal or destruction. A destroyed or dismissed shadow
 companion cannot be replaced for 30 days.
 
 ### Shadow Jump (Su):
@@ -1568,7 +1568,7 @@ split among many jumps, but each one, no matter how small, counts as a 10-foot i
 0 hit points or less by damage in combat (from a weapon or other blow, not a spell or special ability), she can
 attempt to roll with the damage. She makes a Reflex saving throw (DC = damage dealt) and, if successful, takes
 only half damage from the blow. She must be aware of the attack and able to react to it in order to execute her
-defensive roll. If she is in a situation that would deny her any Dexterity bonus to AC, she can’t attempt a
+defensive roll. If she is in a situation that would deny her any Dexterity bonus to AC, she can't attempt a
 defensive roll.
 
 ### Improved Uncanny Dodge (Ex):
@@ -1583,12 +1583,12 @@ character.
 ### Slippery Mind (Ex):
  At 7th level, if a shadowdancer is affected by an enchantment and fails her
 saving throw, 1 round later she can attempt her saving throw again. She only gets this one extra chance to succeed
-at her saving throw. If it fails as well, the spell’s effects occur normally.
+at her saving throw. If it fails as well, the spell's effects occur normally.
 
 ### Improved Evasion (Ex):
  This ability, gained at 10th level, works like evasion (see above). A
 shadowdancer takes no damage at all on successful saving throws against attacks that allow a Reflex saving throw
-for half damage. What’s more, she takes only half damage even if she fails her saving throw.
+for half damage. What's more, she takes only half damage even if she fails her saving throw.
 
 ## Thaumaturgist
 ### Hit Die:
@@ -1601,7 +1601,7 @@ To qualify to become a thaumaturgist, a character must fulfill all the following
  Able to cast _lesser planar ally_.
 ### Class Skills
 
-The thaumaturgist’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
+The thaumaturgist's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
 Diplomacy (Cha), Knowledge (religion) (Int), Knowledge (the planes) (Int), Profession (Wis), Sense Motive (Wis),
 Speak Language (none), and Spellcraft (Int).
 
@@ -1636,10 +1636,10 @@ class he adds each level of thaumaturgist for the purpose of determining spells 
 ### Improved Ally:
  When a thaumaturgist casts a _planar ally_ spell (including the
 _lesser_ and _greater_ versions), he makes a Diplomacy check to convince the creature to aid him for a
-reduced payment. If the thaumaturgist’s Diplomacy check adjusts the creature’s attitude to helpful the creature
+reduced payment. If the thaumaturgist's Diplomacy check adjusts the creature's attitude to helpful the creature
 will work for 50% of the standard fee, as long as the task is one that is not against its nature.
 
-The thaumaturgist’s improved ally class feature only works when the planar ally shares at least one aspect of
+The thaumaturgist's improved ally class feature only works when the planar ally shares at least one aspect of
 alignment with the thaumaturgist.
 
 A thaumaturgist can have only one such ally at a time, but he may bargain for tasks from other planar allies
@@ -1651,8 +1651,8 @@ normally.
 ### Extended Summoning:
  At 3rd level and higher, all spells from the summoning subschool that the
 thaumaturgist casts have their durations doubled, as if the Extend Spell feat had been applied to them. The levels
-of the summoning spells don’t change, however. This ability stacks with the effect of the Extend Spell feat, which
-does change the spell’s level.
+of the summoning spells don't change, however. This ability stacks with the effect of the Extend Spell feat, which
+does change the spell's level.
 
 ### Contingent Conjuration:
  A 4th-level thaumaturgist can prepare a summoning or calling spell ahead
@@ -1673,10 +1673,10 @@ to advance a cause important to the creature.
 
 To call a planar cohort, the thaumaturgist must cast the relevant spell, paying the XP costs normally. It takes an
 offering of 1,000 gp x the HD of the creature to convince it to serve as a planar cohort, and the improved ally
-class feature can’t be used to reduce or eliminate this cost. The planar cohort can’t have more Hit Dice than the
-thaumaturgist has, and must have an ECL no higher than the thaumaturgist’s character level -2.
+class feature can't be used to reduce or eliminate this cost. The planar cohort can't have more Hit Dice than the
+thaumaturgist has, and must have an ECL no higher than the thaumaturgist's character level -2.
 
 A thaumaturgist can have only one planar cohort at a time, but he can continue to make agreements with other
-called creatures normally. A planar cohort replaces a thaumaturgist’s existing cohort, if he has one by virtue of
+called creatures normally. A planar cohort replaces a thaumaturgist's existing cohort, if he has one by virtue of
 the Leadership feat.
 

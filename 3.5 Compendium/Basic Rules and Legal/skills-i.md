@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Skills I
-aliases: 3.5 Skills I
+aliases:
+  - 3.5 Skills I
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - skills_i
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -52,7 +52,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 ## Skills Summary
 
 If you buy a class skill, your character gets 1 rank (equal to a +1 bonus on checks with that skill) for each
-skill point. If you buy other classes’ skills (cross-class skills), you get 1/2 rank per skill point.
+skill point. If you buy other classes' skills (cross-class skills), you get 1/2 rank per skill point.
 
 Your maximum rank in a class skill is your character level + 3.
 Your maximum rank in a cross-class skill is one-half of this number (do not round up or down).
@@ -61,28 +61,28 @@ Your maximum rank in a cross-class skill is one-half of this number (do not roun
  To make a skill check, roll: 1d20 + skill modifier (Skill modifier = skill rank +
 ability modifier + miscellaneous modifiers)
 
-This roll works just like an attack roll or a saving throw--- the higher the roll, the better. Either you’re trying
-to match or exceed a certain Difficulty Class (DC), or you’re trying to beat another character’s check result.
+This roll works just like an attack roll or a saving throw-- the higher the roll, the better. Either you're trying
+to match or exceed a certain Difficulty Class (DC), or you're trying to beat another character's check result.
 
 ### Skill Ranks:
- A character’s number of ranks in a skill is based on how many skill points a
+ A character's number of ranks in a skill is based on how many skill points a
 character has invested in a skill. Many skills can be used even if the character has no ranks in them; doing this
 is called making an untrained skill check.
 
 ### Ability Modifier:
- The ability modifier used in a skill check is the modifier for the skill’s key
-ability (the ability associated with the skill’s use). The key ability of each skill is noted in its description.
+ The ability modifier used in a skill check is the modifier for the skill's key
+ability (the ability associated with the skill's use). The key ability of each skill is noted in its description.
 
 ### Miscellaneous Modifiers:
  Miscellaneous modifiers include racial bonuses, armor check penalties,
 and bonuses provided by feats, among others.
 
 Each skill point you spend on a class skill gets you 1 rank in that skill. Class skills are the skills found on
-your character’s class skill list. Each skill point you spend on a cross-class skill gets your character 1/2 rank
-in that skill. Cross-class skills are skills not found on your character’s class skill list. (Half ranks do not
-improve your skill check, but two 1/2 ranks make 1 rank.) You can’t save skill points to spend later.
+your character's class skill list. Each skill point you spend on a cross-class skill gets your character 1/2 rank
+in that skill. Cross-class skills are skills not found on your character's class skill list. (Half ranks do not
+improve your skill check, but two 1/2 ranks make 1 rank.) You can't save skill points to spend later.
 
-The maximum rank in a class skill is the character’s level + 3. If it’s a cross-class skill, the maximum rank is
+The maximum rank in a class skill is the character's level + 3. If it's a cross-class skill, the maximum rank is
 half of that number (do not round up or down).
 
 Regardless of whether a skill is purchased as a class skill or a cross-class skill, if it is a class skill for any
@@ -101,13 +101,13 @@ the best outcome. If others help, the character may succeed where otherwise he o
 
 ### Skill Checks
 
-A skill check takes into account a character’s training (skill rank), natural talent (ability modifier), and luck
-(the die roll). It may also take into account his or her race’s knack for doing certain things (racial bonus) or
+A skill check takes into account a character's training (skill rank), natural talent (ability modifier), and luck
+(the die roll). It may also take into account his or her race's knack for doing certain things (racial bonus) or
 what armor he or she is wearing (armor check penalty), or a certain feat the character possesses, among other
 things.
 
-To make a skill check, roll 1d20 and add your character’s skill modifier for that skill. The skill modifier
-incorporates the character’s ranks in that skill and the ability modifier for that skill’s key ability, plus any
+To make a skill check, roll 1d20 and add your character's skill modifier for that skill. The skill modifier
+incorporates the character's ranks in that skill and the ability modifier for that skill's key ability, plus any
 other miscellaneous modifiers that may apply, including racial bonuses and armor check penalties. The higher the
 result, the better. Unlike with attack rolls and saving throws, a natural roll of 20 on the d20 is not an
 automatic success, and a natural roll of 1 is not an automatic failure.
@@ -133,7 +133,7 @@ guideline) that you must score as a result on your skill check in order to succe
 #### Opposed Checks
 
 An opposed check is a check whose success or failure is determined by comparing the check result to another
-character’s check result. In an opposed check, the higher result succeeds, while the lower result fails. In case
+character's check result. In an opposed check, the higher result succeeds, while the lower result fails. In case
 of a tie, the higher skill modifier wins. If these scores are the same, roll again to break the tie.
 
 **Table: Example Opposed Checks**
@@ -148,7 +148,7 @@ of a tie, the higher skill modifier wins. If these scores are the same, roll aga
 | Sneak up on someone | Move Silently (Dex) | Listen (Wis) |
 | Steal a coin pouch | Sleight of Hand (Dex) | Spot (Wis) |
 | Tie a prisoner securely | Use Rope (Dex) | Escape Artist (Dex) |
-| <sup>1</sup> An Intimidate check is opposed by the target’s level check, not a skill check. See the Intimidate skill description for more information. |
+| <sup>1</sup> An Intimidate check is opposed by the target's level check, not a skill check. See the Intimidate skill description for more information. |
 
 #### Trying Again
 
@@ -160,8 +160,8 @@ once at a given task, additional successes are meaningless.
 #### Untrained Skill Checks
 
 Generally, if your character attempts to use a skill he or she does not possess, you make a skill check as normal.
-The skill modifier doesn’t have a skill rank added in because the character has no ranks in the skill. Any other
-applicable modifiers, such as the modifier for the skill’s key ability, are applied to the check.
+The skill modifier doesn't have a skill rank added in because the character has no ranks in the skill. Any other
+applicable modifiers, such as the modifier for the skill's key ability, are applied to the check.
 
 Many skills can be used only by someone who is trained in them.
 #### Favorable and Unfavorable Conditions
@@ -184,9 +184,9 @@ doing work that can be subpar.
 4. Increase the DC by 2 to represent circumstances that make the task harder, such as having an uncooperative
 audience or doing work that must be flawless.
 
-Conditions that affect your character’s ability to perform the skill change the skill modifier. Conditions that
+Conditions that affect your character's ability to perform the skill change the skill modifier. Conditions that
 modify how well the character has to perform the skill to succeed change the DC. A bonus to the skill modifier and
-a reduction in the check’s DC have the same result: They create a better chance of success. But they represent
+a reduction in the check's DC have the same result: They create a better chance of success. But they represent
 different circumstances, and sometimes that difference is important.
 
 #### Time and Skill Checks
@@ -207,9 +207,9 @@ factor.
  When your character is not being threatened or distracted, you may choose to take 10.
 Instead of rolling 1d20 for the skill check, calculate your result as if you had rolled a 10. For many routine
 tasks, taking 10 makes them automatically successful. Distractions or threats (such as combat) make it impossible
-for a character to take 10. In most cases, taking 10 is purely a safety measure ---you know (or expect) that an
+for a character to take 10. In most cases, taking 10 is purely a safety measure --you know (or expect) that an
 average roll will succeed but fear that a poor roll might fail, so you elect to settle for the average roll (a
-10). Taking 10 is especially useful in situations where a particularly high roll wouldn’t help.
+10). Taking 10 is especially useful in situations where a particularly high roll wouldn't help.
 
 ### Taking 20:
  When you have plenty of time (generally 2 minutes for a skill that can normally be
@@ -237,21 +237,21 @@ overlap.
 #### Individual Events
 
 Often, several characters attempt some action and each succeeds or fails independently. The result of one
-character’s Climb check does not influence the results of other characters Climb check.
+character's Climb check does not influence the results of other characters Climb check.
 
 #### Aid Another
 
 You can help another character achieve success on his or her skill check by making the same kind of skill check in
 a cooperative effort. If you roll a 10 or higher on your check, the character you are helping gets a +2 bonus to
-his or her check, as per the rule for favorable conditions. (You can’t take 10 on a skill check to aid another.)
-In many cases, a character’s help won’t be beneficial, or only a limited number of characters can help at once.
+his or her check, as per the rule for favorable conditions. (You can't take 10 on a skill check to aid another.)
+In many cases, a character's help won't be beneficial, or only a limited number of characters can help at once.
 
-In cases where the skill restricts who can achieve certain results you can’t aid another to grant a bonus to a
-task that your character couldn’t achieve alone.
+In cases where the skill restricts who can achieve certain results you can't aid another to grant a bonus to a
+task that your character couldn't achieve alone.
 
 #### Skill Synergy
 
-It’s possible for a character to have two skills that work well together. In general, having 5 or more ranks in
+It's possible for a character to have two skills that work well together. In general, having 5 or more ranks in
 one skill gives the character a +2 bonus on skill checks with each of its synergistic skills, as noted in the
 skill description. In some cases, this bonus applies only to specific uses of the skill in question, and not to
 all checks. Some skills provide benefits on other checks made by a character, such as those checks required to use
@@ -260,11 +260,11 @@ certain class features.
 ### Ability Checks
 
 Sometimes a character tries to do something to which no specific skill really applies. In these cases, you make an
-ability check. An ability check is a roll of 1d20 plus the appropriate ability modifier. Essentially, you’re
+ability check. An ability check is a roll of 1d20 plus the appropriate ability modifier. Essentially, you're
 making an untrained skill check.
 
-In some cases, an action is a straight test of one’s ability with no luck involved. Just as you wouldn’t make a
-height check to see who is taller, you don’t make a Strength check to see who is stronger.
+In some cases, an action is a straight test of one's ability with no luck involved. Just as you wouldn't make a
+height check to see who is taller, you don't make a Strength check to see who is stronger.
 
 ## Skill Descriptions
 
@@ -295,15 +295,15 @@ are a few other types of information:
 
 ### Check:
  What a character ("you" in the skill description) can do with a successful skill check and
-the check’s DC.
+the check's DC.
 
 ### Action:
  The type of action using the skill requires, or the amount of time required for a check.
 
 ### Try Again:
  Any conditions that apply to successive attempts to use the skill successfully. If the
-skill doesn’t allow you to attempt the same task more than once, or if failure carries an inherent penalty (such
-as with the Climb skill), you can’t take 20. If this paragraph is omitted, the skill can be retried without any
+skill doesn't allow you to attempt the same task more than once, or if failure carries an inherent penalty (such
+as with the Climb skill), you can't take 20. If this paragraph is omitted, the skill can be retried without any
 inherent penalty, other than the additional time required.
 
 ### Special:
@@ -322,8 +322,8 @@ characters who possess certain feats. This entry indicates whether any such rest
 
 ### Untrained:
  This entry indicates what a character without at least 1 rank in the skill can do with
-it. If this entry doesn’t appear, it means that the skill functions normally for untrained characters (if it can
-be used untrained) or that an untrained character can’t attempt checks with this skill (for skills that are
+it. If this entry doesn't appear, it means that the skill functions normally for untrained characters (if it can
+be used untrained) or that an untrained character can't attempt checks with this skill (for skills that are
 designated as "Trained Only").
 
 ### Appraise (Int)
@@ -333,10 +333,10 @@ designated as "Trained Only").
 that you estimate the value at 50% to 150% (2d6+3 times 10%,) of its actual value.
 
 Appraising a rare or exotic item requires a successful check against DC 15, 20, or higher. If the check is
-successful, you estimate the value correctly; failure means you cannot estimate the item’s value.
+successful, you estimate the value correctly; failure means you cannot estimate the item's value.
 
 A magnifying glass gives you a +2 circumstance bonus on Appraise checks involving any item that is small or highly
-detailed, such as a gem. A merchant’s scale gives you a +2 circumstance bonus on Appraise checks involving any
+detailed, such as a gem. A merchant's scale gives you a +2 circumstance bonus on Appraise checks involving any
 items that are valued by weight, including anything made of precious metals.
 
 These bonuses stack.
@@ -364,7 +364,7 @@ success means an estimate of 50% to 150% (2d6+3 times 10%).
 
 ### Check:
  You can walk on a precarious surface. A successful check lets you move at half your speed
-along the surface for 1 round. A failure by 4 or less means you can’t move for 1 round. A failure by 5 or more
+along the surface for 1 round. A failure by 4 or less means you can't move for 1 round. A failure by 5 or more
 means you fall. The difficulty varies with the surface, as follows:
 
 | Narrow Surface | Balance DC<sup>1</sup> | Difficult Surface | Balance DC<sup>1</sup> |
@@ -373,7 +373,7 @@ means you fall. The difficulty varies with the surface, as follows:
 | 2-6 inches wide | 15 | Hewn stone floor | 10<sup>2</sup> |
 | Less than 2 inches wide | 20 | Sloped or angled floor | 10<sup>2</sup> |
 | 1 Add modifiers from Narrow Surface Modifiers, below, as appropriate. |
-| 2 Only if running or charging. Failure by 4 or less means the character can’t run or charge, but may otherwise act normally. |
+| 2 Only if running or charging. Failure by 4 or less means the character can't run or charge, but may otherwise act normally. |
 
 | Narrow Surface Modifiers |  |
 | --- | --- |
@@ -386,9 +386,9 @@ means you fall. The difficulty varies with the surface, as follows:
 | 1 Add the appropriate modifier to the Balance DC of a narrow surface. |
 | These modifiers stack. |
 
-_Being Attacked while Balancing:_ You are considered flat-footed while balancing, since you can’t move to
+_Being Attacked while Balancing:_ You are considered flat-footed while balancing, since you can't move to
 avoid a blow, and thus you lose your Dexterity bonus to AC (if any). If you have 5 or more ranks in Balance, you
-aren’t considered flat-footed while balancing. If you take damage while balancing, you must make another Balance
+aren't considered flat-footed while balancing. If you take damage while balancing, you must make another Balance
 check against the same DC to remain standing.
 
 _Accelerated Movement:_ You can try to walk across a precarious surface more quickly than normal. If you
@@ -398,7 +398,7 @@ precarious surface; charging requires one Balance check for each multiple of you
 that you charge.
 
 ### Action:
- None. A Balance check doesn’t require an action; it is made as part of another action or
+ None. A Balance check doesn't require an action; it is made as part of another action or
 as a reaction to a situation.
 
 ### Special:
@@ -408,15 +408,15 @@ as a reaction to a situation.
 ### Bluff (Cha)
 
 ### Check:
- A Bluff check is opposed by the target’s Sense Motive check. See the accompanying table
-for examples of different kinds of bluffs and the modifier to the target’s Sense Motive check for each one.
+ A Bluff check is opposed by the target's Sense Motive check. See the accompanying table
+for examples of different kinds of bluffs and the modifier to the target's Sense Motive check for each one.
 
 Favorable and unfavorable circumstances weigh heavily on the outcome of a bluff. Two circumstances can weigh
 against you: The bluff is hard to believe, or the action that the target is asked to take goes against its
-self-interest, nature, personality, orders, or the like. If it’s important, you can distinguish between a bluff
-that fails because the target doesn’t believe it and one that fails because it just asks too much of the target.
+self-interest, nature, personality, orders, or the like. If it's important, you can distinguish between a bluff
+that fails because the target doesn't believe it and one that fails because it just asks too much of the target.
 For instance, if the target gets a +10 bonus on its Sense Motive check because the bluff demands something risky,
-and the Sense Motive check succeeds by 10 or less, then the target didn’t so much see through the bluff as prove
+and the Sense Motive check succeeds by 10 or less, then the target didn't so much see through the bluff as prove
 reluctant to go along with it. A target that succeeds by 11 or more has seen through the bluff.
 
 A successful Bluff check indicates that the target reacts as you wish, at least for a short time (usually 1 round
@@ -425,17 +425,17 @@ _suggestion_ spell.
 
 A bluff requires interaction between you and the target. Creatures unaware of you cannot be bluffed.
 
-_Feinting in Combat:_ You can also use Bluff to mislead an opponent in melee combat (so that it can’t dodge
-your next attack effectively). To feint, make a Bluff check opposed by your target’s Sense Motive check, but in
+_Feinting in Combat:_ You can also use Bluff to mislead an opponent in melee combat (so that it can't dodge
+your next attack effectively). To feint, make a Bluff check opposed by your target's Sense Motive check, but in
 this case, the target may add its base attack bonus to the roll along with any other applicable modifiers.
 
 If your Bluff check result exceeds this special Sense Motive check result, your target is denied its Dexterity
 bonus to AC (if any) for the next melee attack you make against it. This attack must be made on or before your
 next turn.
 
-Feinting in this way against a nonhumanoid is difficult because it’s harder to read a strange creature’s body
-language; you take a -4 penalty on your Bluff check. Against a creature of animal Intelligence (1 or 2) it’s even
-harder; you take a -8 penalty. Against a nonintelligent creature, it’s impossible.
+Feinting in this way against a nonhumanoid is difficult because it's harder to read a strange creature's body
+language; you take a -4 penalty on your Bluff check. Against a creature of animal Intelligence (1 or 2) it's even
+harder; you take a -8 penalty. Against a nonintelligent creature, it's impossible.
 
 Feinting in combat does not provoke an attack of opportunity.
 
@@ -445,7 +445,7 @@ not provoke an attack of opportunity.
 
 _Delivering a Secret Message:_ You can use Bluff to get a message across to another character without
 others understanding it. The DC is 15 for simple messages, or 20 for complex messages, especially those that rely
-on getting across new information. Failure by 4 or less means you can’t get the message across. Failure by 5 or
+on getting across new information. Failure by 4 or less means you can't get the message across. Failure by 5 or
 more means that some false information has been implied or inferred. Anyone listening to the exchange can make a
 Sense Motive check opposed by the Bluff check you made to transmit in order to intercept your message (see Sense
 Motive).
@@ -454,7 +454,7 @@ Motive).
  Varies. A Bluff check made as part of general interaction always takes at least 1 round
 (and is at least a full-round action), but it can take much longer if you try something elaborate. A Bluff check
 made to feint in combat or create a diversion to hide is a standard action. A Bluff check made to deliver a secret
-message doesn’t take an action; it is part of normal communication.
+message doesn't take an action; it is part of normal communication.
 
 ### Try Again:
  Varies. Generally, a failed Bluff check in social interaction makes the target too
@@ -472,14 +472,14 @@ If you have the Persuasive feat, you get a +2 bonus on Bluff checks.
 
 ### Synergy:
  If you have 5 or more ranks in Bluff, you get a +2 bonus on Diplomacy, Intimidate, and
-Sleight of Hand checks, as well as on Disguise checks made when you know you’re being observed and you try to act
+Sleight of Hand checks, as well as on Disguise checks made when you know you're being observed and you try to act
 in character.
 
 | Bluff Examples |
 | --- |
 | Example Circumstances | Sense Motive Modifier |
 | The target wants to believe you. | -5 |
-| The bluff is believable and doesn’t affect the target much. | +0 |
+| The bluff is believable and doesn't affect the target much. | +0 |
 | The bluff is a little hard to believe or puts the target at some risk. | +5 |
 | The bluff is hard to believe or puts the target at significant risk. | +10 |
 | The bluff is way out there, almost too incredible to consider. | +20 |
@@ -495,7 +495,7 @@ measuring 60 degrees or more.
 A Climb check that fails by 4 or less means that you make no progress, and one that fails by 5 or more means that
 you fall from whatever height you have already attained.
 
-A climber’s kit gives you a +2 circumstance bonus on Climb checks.
+A climber's kit gives you a +2 circumstance bonus on Climb checks.
 
 The DC of the check depends on the conditions of the climb. Compare the task with those on the following table to
 determine an appropriate DC.
@@ -504,12 +504,12 @@ determine an appropriate DC.
 | --- | --- |
 | 0 | A slope too steep to walk up, or a knotted rope with a wall to brace against. |
 | 5 | A rope with a wall to brace against, or a knotted rope, or a rope affected by the _rope trick_ spell. |
-| 10 | A surface with ledges to hold on to and stand on, such as a very rough wall or a ship’s rigging. |
+| 10 | A surface with ledges to hold on to and stand on, such as a very rough wall or a ship's rigging. |
 | 15 | Any surface with adequate handholds and footholds (natural or artificial), such as a very rough natural rock surface or a tree, or an unknotted rope, or pulling yourself up when dangling by your hands. |
 | 20 | An uneven surface with some narrow handholds and footholds, such as a typical wall in a dungeon or ruins. |
 | 25 | A rough surface, such as a natural rock wall or a brick wall. |
 | 25 | An overhang or ceiling with handholds but no footholds. |
-| --- | A perfectly smooth, flat, vertical surface cannot be climbed. |
+| -- | A perfectly smooth, flat, vertical surface cannot be climbed. |
 
 | Climb DC Modifier<sup>1</sup> | Example Surface or Activity |
 | --- | --- |
@@ -519,8 +519,8 @@ determine an appropriate DC.
 | 1These modifiers are cumulative; use any that apply. |
 
 You need both hands free to climb, but you may cling to a wall with one hand while you cast a spell or take some
-other action that requires only one hand. While climbing, you can’t move to avoid a blow, so you lose your
-Dexterity bonus to AC (if any). You also can’t use a shield while climbing.
+other action that requires only one hand. While climbing, you can't move to avoid a blow, so you lose your
+Dexterity bonus to AC (if any). You also can't use a shield while climbing.
 
 Any time you take damage while climbing, make a Climb check against the DC of the slope or wall. Failure means you
 fall from your current height and sustain the appropriate falling damage.
@@ -533,23 +533,23 @@ into a wall. Doing so takes 1 minute per piton, and one piton is needed per 3 fe
 surface that offers handholds and footholds, a wall with pitons in it has a DC of 15. In the same way, a climber
 with a handaxe or similar implement can cut handholds in an ice wall.
 
-_Catching Yourself When Falling:_ It’s practically impossible to catch yourself on a wall while falling.
-Make a Climb check (DC = wall’s DC + 20) to do so. It’s much easier to catch yourself on a slope (DC = slope’s DC
+_Catching Yourself When Falling:_ It's practically impossible to catch yourself on a wall while falling.
+Make a Climb check (DC = wall's DC + 20) to do so. It's much easier to catch yourself on a slope (DC = slope's DC
 + 10).
 
 _Catching a Falling Character While Climbing:_ If someone climbing above you or adjacent to you falls, you
 can attempt to catch the falling character if he or she is within your reach. Doing so requires a successful melee
 touch attack against the falling character (though he or she can voluntarily forego any Dexterity bonus to AC if
-desired). If you hit, you must immediately attempt a Climb check (DC = wall’s DC + 10). Success indicates that you
+desired). If you hit, you must immediately attempt a Climb check (DC = wall's DC + 10). Success indicates that you
 catch the falling character, but his or her total weight, including equipment, cannot exceed your heavy load limit
-or you automatically fall. If you fail your Climb check by 4 or less, you fail to stop the character’s fall but
-don’t lose your grip on the wall. If you fail by 5 or more, you fail to stop the character’s fall and begin
+or you automatically fall. If you fail your Climb check by 4 or less, you fail to stop the character's fall but
+don't lose your grip on the wall. If you fail by 5 or more, you fail to stop the character's fall and begin
 falling as well.
 
 ### Action:
- Climbing is part of movement, so it’s generally part of a move action (and may be
+ Climbing is part of movement, so it's generally part of a move action (and may be
 combined with other types of movement in a move action). Each move action that includes any climbing requires a
-separate Climb check. Catching yourself or another falling character doesn’t take an action.
+separate Climb check. Catching yourself or another falling character doesn't take an action.
 
 ### Special:
  You can use a rope to haul a character upward (or lower a character) through sheer
@@ -576,7 +576,7 @@ climb a rope, a knotted rope, or a rope-and-wall combination.
  You must make a Concentration check whenever you might potentially be distracted (by
 taking damage, by harsh weather, and so on) while engaged in some action that requires your full attention. Such
 actions include casting a spell, concentrating on an active spell, directing a spell, using a spell-like ability,
-or using a skill that would provoke an attack of opportunity. In general, if an action wouldn’t normally provoke
+or using a skill that would provoke an attack of opportunity. In general, if an action wouldn't normally provoke
 an attack of opportunity, you need not make a Concentration check to avoid being distracted.
 
 If the Concentration check succeeds, you may continue with the action as normal. If the check fails, the action
@@ -595,7 +595,7 @@ one; any failed Concentration check indicates that the task is not completed.
 | --- | --- |
 | 10 + damage dealt | Damaged during the action.<sup>2</sup> |
 | 10 + half of continuous | Taking continuous damage during the damage last dealt action.<sup>3</sup> |
-| Distracting spell’s save DC | Distracted by nondamaging spell.<sup>4</sup> |
+| Distracting spell's save DC | Distracted by nondamaging spell.<sup>4</sup> |
 | 10 | Vigorous motion (on a moving mount, taking a bouncy wagon ride, in a small boat in rough water, belowdecks in a stormtossed ship). |
 | 15 | Violent motion (on a galloping horse, taking a very rough wagon ride, in a small boat in rapids, on the deck of a storm-tossed ship). |
 | 20 | Extraordinarily violent motion (earthquake). |
@@ -603,28 +603,28 @@ one; any failed Concentration check indicates that the task is not completed.
 | 20 | Grappling or pinned. (You can cast only spells without somatic components for which you have any required material component in hand.) |
 | 5 | Weather is a high wind carrying blinding rain or sleet. |
 | 10 | Weather is wind-driven hail, dust, or debris. |
-| Distracting spell’s save DC | Weather caused by a spell, such as _storm of vengeance._<sup>4</sup> |
+| Distracting spell's save DC | Weather caused by a spell, such as _storm of vengeance._<sup>4</sup> |
 | 1 If you are trying to cast, concentrate on, or direct a spell when the distraction occurs, add the level of the spell to the indicated DC. |
 | 2 Such as during the casting of a spell with a casting time of 1 round or more, or the execution of an activity that takes more than a single full-round action (such as Disable Device). Also, damage stemming from an attack of opportunity or readied attack made in response to the spell being cast (for spells with a casting time of 1 action) or the action being taken (for activities requiring no more than a full-round action). |
 | 3 Such as from _acid arrow_. |
 | 4 If the spell allows no save, use the save DC it would have if it did allow a save. |
 
 ### Action:
- None. Making a Concentration check doesn’t take an action; it is either a free action
+ None. Making a Concentration check doesn't take an action; it is either a free action
 (when attempted reactively) or part of another action (when attempted actively).
 
 ### Try Again:
- Yes, though a success doesn’t cancel the effect of a previous failure, such as the
+ Yes, though a success doesn't cancel the effect of a previous failure, such as the
 loss of a spell you were casting or the disruption of a spell you were concentrating on.
 
 ### Special:
  You can use Concentration to cast a spell, use a spell-like ability, or use a skill
-defensively, so as to avoid attacks of opportunity altogether. This doesn’t apply to other actions that might
+defensively, so as to avoid attacks of opportunity altogether. This doesn't apply to other actions that might
 provoke attacks of opportunity.
 
-The DC of the check is 15 (plus the spell’s level, if casting a spell or using a spell-like ability defensively).
+The DC of the check is 15 (plus the spell's level, if casting a spell or using a spell-like ability defensively).
 If the Concentration check succeeds, you may attempt the action normally without provoking any attacks of
-opportunity. A successful Concentration check still doesn’t allow you to take 10 on another check if you are in a
+opportunity. A successful Concentration check still doesn't allow you to take 10 on another check if you are in a
 stressful situation; you must make the check normally. If the Concentration check fails, the related action also
 automatically fails (with any appropriate ramifications), and the action is wasted, just as if your concentration
 had been disrupted by a distraction.
@@ -642,13 +642,13 @@ falls under the heading of a Profession skill.
 
 ### Check:
  You can practice your trade and make a decent living, earning about half your check result
-in gold pieces per week of dedicated work. You know how to use the tools of your trade, how to perform the craft’s
+in gold pieces per week of dedicated work. You know how to use the tools of your trade, how to perform the craft's
 daily tasks, how to supervise untrained helpers, and how to handle common problems. (Untrained laborers and
 assistants earn an average of 1 silver piece per day.)
 
 The basic function of the Craft skill, however, is to allow you to make an item of the appropriate type. The DC
 depends on the complexity of the item to be created. The DC, your check results, and the price of the item
-determine how long it takes to make a particular item. The item’s finished price also determines the cost of raw
+determine how long it takes to make a particular item. The item's finished price also determines the cost of raw
 materials.
 
 In some cases, the _fabricate_ spell can be used to achieve the results of a Craft check with no actual check
@@ -661,20 +661,20 @@ enables you to make wooden items that have the strength of steel.
 When casting the spell _minor creation_, you must succeed on an appropriate Craft check to make a complex
 item.
 
-All crafts require artisan’s tools to give the best chance of success. If improvised tools are used, the check is
-made with a -2 circumstance penalty. On the other hand, masterwork artisan’s tools provide a +2 circumstance bonus
+All crafts require artisan's tools to give the best chance of success. If improvised tools are used, the check is
+made with a -2 circumstance penalty. On the other hand, masterwork artisan's tools provide a +2 circumstance bonus
 on the check.
 
 To determine how much time and money it takes to make an item, follow these steps.
-1. Find the item’s price. Put the price in silver pieces (1 gp = 10 sp).
+1. Find the item's price. Put the price in silver pieces (1 gp = 10 sp).
 2. Find the DC from the table below.
-3. Pay one-third of the item’s price for the cost of raw materials.
+3. Pay one-third of the item's price for the cost of raw materials.
 
-4. Make an appropriate Craft check representing one week’s work. If the check succeeds, multiply your check result
+4. Make an appropriate Craft check representing one week's work. If the check succeeds, multiply your check result
 by the DC. If the result x the DC equals the price of the item in sp, then you have completed the item. (If the
-result x the DC equals double or triple the price of the item in silver pieces, then you’ve completed the task in
+result x the DC equals double or triple the price of the item in silver pieces, then you've completed the task in
 one-half or one-third of the time. Other multiples of the DC reduce the time in the same manner.) If the result x
-the DC doesn’t equal the price, then it represents the progress you’ve made this week. Record the result and make
+the DC doesn't equal the price, then it represents the progress you've made this week. Record the result and make
 a new Craft check for the next week. Each week, you make more progress until your total reaches the price of the
 item in silver pieces.
 
@@ -686,7 +686,7 @@ again.
 _Progress by the Day:_ You can make checks by the day instead of by the week. In this case your progress
 (check result x DC) is in copper pieces instead of silver pieces.
 
-_Creating Masterwork Items:_ You can make a masterwork item---a weapon, suit of armor, shield, or tool that
+_Creating Masterwork Items:_ You can make a masterwork item--a weapon, suit of armor, shield, or tool that
 conveys a bonus on its use through its exceptional craftsmanship, not through being magical. To create a
 masterwork item, you create the masterwork component as if it were a separate item in addition to the standard
 item. The masterwork component has its own price (300 gp for a weapon or 150 gp for a suit of armor or a shield)
@@ -695,7 +695,7 @@ item is finished. _Note:_ The cost you pay for the masterwork component is one-t
 just as it is for the cost in raw materials.
 
 _Repairing Items:_ Generally, you can repair an item by making checks against the same DC that it took to
-make the item in the first place. The cost of repairing an item is one-fifth of the item’s price.
+make the item in the first place. The cost of repairing an item is one-fifth of the item's price.
 
 When you use the Craft skill to make a particular sort of item, the DC for checks involving the creation of that
 item are typically as given on the following table.
@@ -703,7 +703,7 @@ item are typically as given on the following table.
 | Item | Craft Skill | Craft DC |
 | --- | --- | --- |
 | Acid | Alchemy<sup>1</sup> | 15 |
-| Alchemist’s fire, smokestick, or tindertwig | Alchemy<sup>1</sup> | 20 |
+| Alchemist's fire, smokestick, or tindertwig | Alchemy<sup>1</sup> | 20 |
 | Antitoxin, sunrod, tanglefoot bag, or thunderstone | Alchemy<sup>1</sup> | 25 |
 | Armor or shield | Armorsmithing | 10 + AC bonus |
 | Longbow or shortbow | Bowmaking | 12 |
@@ -735,12 +735,12 @@ because dwarves are especially capable with stonework and metalwork.
 A gnome has a +2 racial bonus on Craft (alchemy) checks because gnomes have sensitive noses.
 
 You may voluntarily add +10 to the indicated DC to craft an item. This allows you to create the item more quickly
-(since you’ll be multiplying this higher DC by your Craft check result to determine progress). You must decide
+(since you'll be multiplying this higher DC by your Craft check result to determine progress). You must decide
 whether to increase the DC before you make each weekly or daily check.
 
 To make an item using Craft (alchemy), you must have alchemical equipment and be a spellcaster. If you are working
 in a city, you can buy what you need as part of the raw materials cost to make the item, but alchemical equipment
-is difficult or impossible to come by in some places. Purchasing and maintaining an alchemist’s lab grants a +2
+is difficult or impossible to come by in some places. Purchasing and maintaining an alchemist's lab grants a +2
 circumstance bonus on Craft (alchemy) checks because you have the perfect tools for the job, but it does not
 affect the cost of any items made using the skill.
 
@@ -759,7 +759,7 @@ If the check succeeds, you understand the general content of a piece of writing 
 equivalent). If the check fails, make a DC 5 Wisdom check to see if you avoid drawing a false conclusion about the
 text. (Success means that you do not draw a false conclusion; failure means that you do.)
 
-Both the Decipher Script check and (if necessary) the Wisdom check are made secretly, so that you can’t tell
+Both the Decipher Script check and (if necessary) the Wisdom check are made secretly, so that you can't tell
 whether the conclusion you draw is true or false.
 
 ### Action:
@@ -784,7 +784,7 @@ Diplomacy checks, and the winner gains the advantage. Opposed checks also resolv
 diplomats plead opposite cases in a hearing before a third party.
 
 ### Action:
- Changing others’ attitudes with Diplomacy generally takes at least 1 full minute (10
+ Changing others' attitudes with Diplomacy generally takes at least 1 full minute (10
 consecutive full-round actions). In some situations, this time requirement may greatly increase. A rushed
 Diplomacy check can be made as a full-round action, but you take a -10 penalty on the check.
 
@@ -813,29 +813,29 @@ beast.
 |  | Hostile | Unfriendly | Indifferent | Friendly | Helpful |
 | Hostile | Less than 20 | 20 | 25 | 35 | 50 |
 | Unfriendly | Less than 5 | 5 | 15 | 25 | 40 |
-| Indifferent | --- | Less than 1 | 1 | 15 | 30 |
-| Friendly | --- | --- | Less than 1 | 1 | 20 |
-| Helpful | --- | --- | --- | Less than 1 | 1 |
+| Indifferent | -- | Less than 1 | 1 | 15 | 30 |
+| Friendly | -- | -- | Less than 1 | 1 | 20 |
+| Helpful | -- | -- | -- | Less than 1 | 1 |
 
 | Attitude | Means | Possible Actions |
 | --- | --- | --- |
 | Hostile | Will take risks to hurt you | Attack, interfere, berate, flee |
 | Unfriendly | Wishes you ill | Mislead, gossip, avoid, watch suspiciously, insult |
-| Indifferent | Doesn’t much care | Socially expected interaction |
+| Indifferent | Doesn't much care | Socially expected interaction |
 | Friendly | Wishes you well | Chat, advise, offer limited help, advocate |
 | Helpful | Will take risks to help you | Protect, back up, heal, aid |
 
 ### Disable Device (Int; Trained Only)
 
 ### Check:
- The Disable Device check is made secretly, so that you don’t necessarily know whether
-you’ve succeeded.
+ The Disable Device check is made secretly, so that you don't necessarily know whether
+you've succeeded.
 
 The DC depends on how tricky the device is. Disabling (or rigging or jamming) a fairly simple device has a DC of
 10; more intricate and complex devices have higher DCs.
 
 If the check succeeds, you disable the device. If it fails by 4 or less, you have failed but can try again. If you
-fail by 5 or more, something goes wrong. If the device is a trap, you spring it. If you’re attempting some sort of
+fail by 5 or more, something goes wrong. If the device is a trap, you spring it. If you're attempting some sort of
 sabotage, you think the device is disabled, but it still works normally.
 
 You also can rig simple devices such as saddles or wagon wheels to work normally for a while and then fail or fall
@@ -861,7 +861,7 @@ aware that you have failed in order to try again.
 ### Special:
  If you have the Nimble Fingers feat, you get a +2 bonus on Disable Device checks.
 
-A rogue who beats a trap’s DC by 10 or more can study the trap, figure out how it works, and bypass it (along with
+A rogue who beats a trap's DC by 10 or more can study the trap, figure out how it works, and bypass it (along with
 her companions) without disarming it.
 
 ### Restriction:
@@ -874,11 +874,11 @@ create magic traps against which Disable Device checks do not succeed. See the i
 details.
 
 #### Other Ways to Beat a Trap
-It’s possible to ruin many traps without making a Disable Device check.
+It's possible to ruin many traps without making a Disable Device check.
 
 ### Ranged Attack Traps:
- Once a trap’s location is known, the obvious way to ruin it is to smash the
-mechanism---assuming the mechanism can be accessed. Failing that, it’s possible to plug up the holes from which the
+ Once a trap's location is known, the obvious way to ruin it is to smash the
+mechanism--assuming the mechanism can be accessed. Failing that, it's possible to plug up the holes from which the
 projectiles emerge. Doing this prevents the trap from firing unless its ammunition does enough damage to break
 through the plugs.
 
@@ -891,26 +891,26 @@ gains a +4 dodge bonus against its attacks if it is triggered again within the n
 ### Pits:
  Disabling a pit trap generally ruins only the trapdoor, making it an uncovered pit. Filling
 in the pit or building a makeshift bridge across it is an application of manual labor, not the Disable Device
-skill. Characters could neutralize any spikes at the bottom of a pit by attacking them---they break just as daggers
+skill. Characters could neutralize any spikes at the bottom of a pit by attacking them--they break just as daggers
 do.
 
 ### Magic Traps:
  _Dispel magic_ helps here. Someone who succeeds on a caster level check against
-the level of the trap’s creator suppresses the trap for 1d4 rounds. This works only with a targeted
+the level of the trap's creator suppresses the trap for 1d4 rounds. This works only with a targeted
 _dispel magic,_ not the area version (see the spell description).
 
 ### Disguise (Cha)
 
 ### Check:
  Your Disguise check result determines how good the disguise is, and it is opposed by
-others’ Spot check results. If you don’t draw any attention to yourself, others do not get to make Spot checks. If
+others' Spot check results. If you don't draw any attention to yourself, others do not get to make Spot checks. If
 you come to the attention of people who are suspicious (such as a guard who is watching commoners walking through
 a city gate), it can be assumed that such observers are taking 10 on their Spot checks.
 
 You get only one Disguise check per use of the skill, even if several people are making Spot checks against it.
-The Disguise check is made secretly, so that you can’t be sure how good the result is.
+The Disguise check is made secretly, so that you can't be sure how good the result is.
 
-The effectiveness of your disguise depends in part on how much you’re attempting to change your appearance.
+The effectiveness of your disguise depends in part on how much you're attempting to change your appearance.
 
 | Disguise | Disguise Check Modifier |
 | --- | --- |
@@ -925,7 +925,7 @@ If you are impersonating a particular individual, those who know what that perso
 Spot checks according to the table below. Furthermore, they are automatically considered to be suspicious of you,
 so opposed checks are always called for.
 
-| Familiarity | Viewer’s Spot Check Bonus |
+| Familiarity | Viewer's Spot Check Bonus |
 | --- | --- |
 | Recognizes on sight | +4 |
 | Friends or associates | +6 |
@@ -941,7 +941,7 @@ using an average Spot modifier for the group.
 
 ### Try Again:
  Yes. You may try to redo a failed disguise, but once others know that a disguise was
-attempted, they’ll be more suspicious.
+attempted, they'll be more suspicious.
 
 ### Special:
  Magic that alters your form, such as _alter self, disguise self, polymorph_, or
@@ -955,33 +955,33 @@ If you have the Deceitful feat, you get a +2 bonus on Disguise checks.
 
 ### Synergy:
  If you have 5 or more ranks in Bluff, you get a +2 bonus on Disguise checks when you
-know that you’re being observed and you try to act in character.
+know that you're being observed and you try to act in character.
 
 ### Escape Artist (Dex; Armor Check Penalty)
 ### Check:
  The table below gives the DCs to escape various forms of restraints.
 
-_Ropes:_ Your Escape Artist check is opposed by the binder’s Use Rope check. Since it’s easier to tie
+_Ropes:_ Your Escape Artist check is opposed by the binder's Use Rope check. Since it's easier to tie
 someone up than to escape from being tied up, the binder gets a +10 bonus on his or her check.
 
 _Manacles and Masterwork Manacles:_ The DC for manacles is set by their construction.
 
 _Tight Space:_ The DC noted on the table is for getting through a space where your head fits but your
-shoulders don’t. If the space is long you may need to make multiple checks. You can’t get through a space that
+shoulders don't. If the space is long you may need to make multiple checks. You can't get through a space that
 your head does not fit through.
 
-_Grappler:_ You can make an Escape Artist check opposed by your enemy’s grapple check to get out of a
-grapple or out of a pinned condition (so that you’re only grappling).
+_Grappler:_ You can make an Escape Artist check opposed by your enemy's grapple check to get out of a
+grapple or out of a pinned condition (so that you're only grappling).
 
 | Restraint | Escape Artist DC |
 | --- | --- |
-| Ropes Binder’s | Use Rope check at +10 |
+| Ropes Binder's | Use Rope check at +10 |
 | Net, _animate rope_ spell, _command plants_ spell, _control plants_ spell, or _entangle_ spell | 20 |
 | Snare spell | 23 |
 | Manacles | 30 |
 | Tight space | 30 |
 | Masterwork manacles | 35 |
-| Grappler | Grappler’s grapple check result |
+| Grappler | Grappler's grapple check result |
 
 ### Action:
  Making an Escape Artist check to escape from rope bindings, manacles, or other restraints
@@ -991,9 +991,9 @@ from a grapple or pin is a standard action. Squeezing through a tight space take
 depending on how long the space is.
 
 ### Try Again:
- Varies. You can make another check after a failed check if you’re squeezing your way
+ Varies. You can make another check after a failed check if you're squeezing your way
 through a tight space, making multiple checks. If the situation permits, you can make additional checks, or even
-take 20, as long as you’re not being actively opposed.
+take 20, as long as you're not being actively opposed.
 
 ### Special:
  If you have the Agile feat, you get a +2 bonus on Escape Artist checks.
@@ -1008,19 +1008,19 @@ If you have 5 or more ranks in Use Rope, you get a +2 bonus on Escape Artist che
 
 ### Check:
  Forgery requires writing materials appropriate to the document being forged, enough light
-or sufficient visual acuity to see the details of what you’re writing, wax for seals (if appropriate), and some
+or sufficient visual acuity to see the details of what you're writing, wax for seals (if appropriate), and some
 time. To forge a document on which the handwriting is not specific to a person (military orders, a government
 decree, a business ledger, or the like), you need only to have seen a similar document before, and you gain a +8
 bonus on your check. To forge a signature, you need an autograph of that person to copy, and you gain a +4 bonus
 on the check. To forge a longer document written in the hand of some particular person, a large sample of that
-person’s handwriting is needed.
+person's handwriting is needed.
 
-The Forgery check is made secretly, so that you’re not sure how good your forgery is. As with Disguise, you don’t
+The Forgery check is made secretly, so that you're not sure how good your forgery is. As with Disguise, you don't
 even need to make a check until someone examines the work. Your Forgery check is opposed by the Forgery check of
 the person who examines the document to check its authenticity. The examiner gains modifiers on his or her check
 if any of the conditions on the table below exist.
 
-| Condition | Reader’s Forgery Check Modifier |
+| Condition | Reader's Forgery Check Modifier |
 | --- | --- |
 | Type of document unknown to reader | -2 |
 | Type of document somewhat known to reader | +0 |
@@ -1031,8 +1031,8 @@ if any of the conditions on the table below exist.
 | Reader only casually reviews the document | -2 |
 
 A document that contradicts procedure, orders, or previous knowledge, or one that requires sacrifice on the part
-of the person checking the document can increase that character’s suspicion (and thus create favorable
-circumstances for the checker’s opposing Forgery check).
+of the person checking the document can increase that character's suspicion (and thus create favorable
+circumstances for the checker's opposing Forgery check).
 
 ### Action:
  Forging a very short and simple document takes about 1 minute. A longer or more complex
@@ -1043,21 +1043,21 @@ document takes 1d4 minutes per page.
 forgery. But the document created by the forger might still fool someone else. The result of a Forgery check for a
 particular document must be used for every instance of a different reader examining the document. No reader can
 attempt to detect a particular forgery more than once; if that one opposed check goes in favor of the forger, then
-the reader can’t try using his own skill again, even if he’s suspicious about the document.
+the reader can't try using his own skill again, even if he's suspicious about the document.
 
 ### Special:
  If you have the Deceitful feat, you get a +2 bonus on Forgery checks.
 
 ### Restriction:
  Forgery is language-dependent; thus, to forge documents and detect forgeries, you
-must be able to read and write the language in question. A barbarian can’t learn the Forgery skill unless he has
+must be able to read and write the language in question. A barbarian can't learn the Forgery skill unless he has
 learned to read and write.
 
 ### Gather Information (Cha)
 
 ### Check:
- An evening’s time, a few gold pieces for buying drinks and making friends, and a DC 10
-Gather Information check get you a general idea of a city’s major news items, assuming there are no obvious
+ An evening's time, a few gold pieces for buying drinks and making friends, and a DC 10
+Gather Information check get you a general idea of a city's major news items, assuming there are no obvious
 reasons why the information would be withheld. The higher your check result, the better the information.
 
 If you want to find out about a specific rumor, or a specific item, or obtain a map, or do something else along
@@ -1102,7 +1102,7 @@ _Handle an Animal:_ This task involves commanding an animal to perform a task or
 the animal is wounded or has taken any nonlethal damage or ability score damage, the DC increases by 2. If your
 check succeeds, the animal performs the task or trick on its next action.
 
-"_Push" an Animal:_ To push an animal means to get it to perform a task or trick that it doesn’t know but is
+"_Push" an Animal:_ To push an animal means to get it to perform a task or trick that it doesn't know but is
 physically capable of performing. This category also covers making an animal perform a forced march or forcing it
 to hustle for more than 1 hour between sleep cycles. If the animal is wounded or has taken any nonlethal damage or
 ability score damage, the DC increases by 2. If your check succeeds, the animal performs the task or trick on its
@@ -1123,14 +1123,14 @@ Come (DC 15): The animal comes to you, even if it normally would not do so.
 Defend (DC 20): The animal defends you (or is ready to defend you if no threat is present), even without any
 command being given. Alternatively, you can command the animal to defend a specific other character.
 
-Down (DC 15): The animal breaks off from combat or otherwise backs down. An animal that doesn’t know this trick
+Down (DC 15): The animal breaks off from combat or otherwise backs down. An animal that doesn't know this trick
 continues to fight until it must flee (due to injury, a fear effect, or the like) or its opponent is defeated.
 
 Fetch (DC 15): The animal goes and gets something. If you do not point out a specific item, the animal fetches
 some random object.
 
 Guard (DC 20): The animal stays in place and prevents others from approaching.
-Heel (DC 15): The animal follows you closely, even to places where it normally wouldn’t go.
+Heel (DC 15): The animal follows you closely, even to places where it normally wouldn't go.
 
 Perform (DC 15): The animal performs a variety of simple tricks, such as sitting up, rolling over, roaring or
 barking, and so on.
@@ -1145,7 +1145,7 @@ Track (DC 20): The animal tracks the scent presented to it. (This requires the a
 Work (DC 15): The animal pulls or pushes a medium or heavy load.
 
 _Train an Animal for a Purpose:_ Rather than teaching an animal individual tricks, you can simply train it
-for a general purpose. Essentially, an animal’s purpose represents a preselected set of known tricks that fit into
+for a general purpose. Essentially, an animal's purpose represents a preselected set of known tricks that fit into
 a common scheme, such as guarding or heavy labor. The animal must meet all the normal prerequisites for all tricks
 included in the training package. If the package includes more than three tricks, the animal must have an
 Intelligence score of 2.
@@ -1157,8 +1157,8 @@ requires fewer checks than teaching individual tricks does, but no less time.
 Combat Riding (DC 20): An animal trained to bear a rider into combat knows the tricks attack, come, defend, down,
 guard, and heel. Training an animal for combat riding takes six weeks. You may also "upgrade" an animal trained
 for riding to one trained for combat riding by spending three weeks and making a successful DC 20 Handle Animal
-check. The new general purpose and tricks completely replace the animal’s previous purpose and any tricks it once
-knew. Warhorses and riding dogs are already trained to bear riders into combat, and they don’t require any
+check. The new general purpose and tricks completely replace the animal's previous purpose and any tricks it once
+knew. Warhorses and riding dogs are already trained to bear riders into combat, and they don't require any
 additional training for this purpose.
 
 Fighting (DC 20): An animal trained to engage in combat knows the tricks attack, down, and stay. Training an
@@ -1182,7 +1182,7 @@ riding takes three weeks.
 _Rear a Wild Animal:_ To rear an animal means to raise a wild creature from infancy so that it becomes
 domesticated. A handler can rear as many as three creatures of the same kind at once.
 
-A successfully domesticated animal can be taught tricks at the same time it’s being raised, or it can be taught as
+A successfully domesticated animal can be taught tricks at the same time it's being raised, or it can be taught as
 a domesticated animal later.
 
 ### Action:
@@ -1205,8 +1205,8 @@ do.
 
 A druid or ranger gains a +4 circumstance bonus on Handle Animal checks involving her animal companion.
 
-In addition, a druid’s or ranger’s animal companion knows one or more bonus tricks, which don’t count against the
-normal limit on tricks known and don’t require any training time or Handle Animal checks to teach.
+In addition, a druid's or ranger's animal companion knows one or more bonus tricks, which don't count against the
+normal limit on tricks known and don't require any training time or Handle Animal checks to teach.
 
 If you have the Animal Affinity feat, you get a +2 bonus on Handle Animal checks.
 
@@ -1216,7 +1216,7 @@ empathy checks.
 
 ### Untrained:
  If you have no ranks in Handle Animal, you can use a Charisma check to handle and push
-domestic animals, but you can’t teach, rear, or train animals. A druid or ranger with no ranks in Handle Animal
-can use a Charisma check to handle and push her animal companion, but she can’t teach, rear, or train other
+domestic animals, but you can't teach, rear, or train animals. A druid or ranger with no ranks in Handle Animal
+can use a Charisma check to handle and push her animal companion, but she can't teach, rear, or train other
 nondomestic animals.
 

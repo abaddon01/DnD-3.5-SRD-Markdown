@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Divine - Divine Domains and Spells
-aliases: 3.5 Divine Domains and Spells
+aliases:
+  - 3.5 Divine Domains and Spells
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - divine
   - divine_domains_and_spells
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -109,7 +109,7 @@ competence bonus on Diplomacy checks.
 | 3 | **Prayer** |
 | 4 | **Status** |
 | 5 | **Telepathic bond** |
-| 6 | **Heroes’ feast** |
+| 6 | **Heroes' feast** |
 | 7 | **Refuge** |
 | 8 | **Mass heal** |
 | 9 | **Miracle** |
@@ -128,7 +128,7 @@ the Artifice and Creation domains cast conjuration (creation) spells at +3 caste
 | 3 | **Create food and water** |
 | 4 | **Minor creation** |
 | 5 | **Major creation** |
-| 6 | **Heroes’ feast** |
+| 6 | **Heroes' feast** |
 | 7 | **Permanent image** |
 | 8 | **True creation** |
 | 9 | **Genesis** |
@@ -196,7 +196,7 @@ Insanity score in place of Wisdom alone.
 
 For all other purposes, such as skills and saves, use Wisdom minus Insanity in place of Wisdom.
 
-Once per day, the character can see and act with the clarity of true madness. Use the character’s Insanity score
+Once per day, the character can see and act with the clarity of true madness. Use the character's Insanity score
 as a positive rather than a negative modifier on a single roll involving Wisdom. Choose to use this power before
 the roll is made.
 
@@ -219,7 +219,7 @@ the roll is made.
  The character has the spell-like ability to inspire allies, giving them a +2
 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls. Allies must be
 able to hear the character speak for 1 round. Using this ability is a standard action. It lasts a number of rounds
-equal to the character’s Charisma bonus and can be used once per day.
+equal to the character's Charisma bonus and can be used once per day.
 
 ### Nobility Domain Spells
 
@@ -243,7 +243,7 @@ from casting evil spells.
  The character may use a _death touch_ once per day. The _death touch_ is
 a spell-like ability that is a death effect. The character must succeed at a melee touch attack against a living
 creature (using the rules for touch spells). When the character touches, roll 1d6 per his or her cleric level. If
-the total at least equals the creature’s current hit points, it dies.
+the total at least equals the creature's current hit points, it dies.
 
 ### Repose Domain Spells
 
@@ -332,7 +332,7 @@ Abjuration [Darkness]
  Yes (harmless)
 
 The spell envelops the warded creature in a shroud of shadows. The shroud can, if the caster desires, conceal the
-wearer’s features. In any case, it grants the recipient a +3 deflection bonus to Armor Class plus an additional +1
+wearer's features. In any case, it grants the recipient a +3 deflection bonus to Armor Class plus an additional +1
 for every four caster levels (maximum bonus +8). The subject can see through the armor as if it did not exist and
 is also afforded darkvision with a range of 60 feet. Finally, the subject gains a +2 bonus on saving throws
 against any holy, good, or light spells or effects.Undead creatures that are subjects of
@@ -358,7 +358,7 @@ Evocation [Darkness]
  Yes or no (object)
 
 The caster creates an area of total darkness. The darkness is impenetrable to normal vision and darkvision, but
-the caster can see normally within the blacklit area. Creatures outside the spell’s area, even the caster, cannot
+the caster can see normally within the blacklit area. Creatures outside the spell's area, even the caster, cannot
 see through it.
 
 The spell can be cast on a point in space, but the effect is stationary cast on a mobile object. A character can
@@ -392,11 +392,11 @@ This spell projects a bolt of energy from the Positive Energy Plane against one 
 at a ranged touch attack to strike the target. A creature struck suffers varying damage, depending on its nature
 and home plane of existence:
 
-| Creature’s Origin/Nature | Damage | Maximum Value |
+| Creature's Origin/Nature | Damage | Maximum Value |
 | --- | --- | --- |
 | Material Plane, Elemental Plane, neutral outsider | 1d6/2 levels | 7d6 |
 | Negative Energy Plane, evil outsider, undead creature | 1d6/level | 15d6 |
-| Positive Energy Plane, good outsider | --- | --- |
+| Positive Energy Plane, good outsider | -- | -- |
 
 ## Bolts of Bedevilment
 Enchantment [Mind-Affecting]
@@ -419,7 +419,7 @@ Enchantment [Mind-Affecting]
 
 This spell grants the caster the ability to make one ray attack per round. The ray dazes one living creature,
 clouding its mind so that it takes no action for 1d3 rounds. The creature is not stunned (so attackers get no
-special advantage against it), but it can’t move, cast spells, use mental abilities, and so on.
+special advantage against it), but it can't move, cast spells, use mental abilities, and so on.
 
 ## Crown of Glory
 Evocation
@@ -446,13 +446,13 @@ The caster gains a +4 enhancement bonus to his or her Charisma score for the dur
 with fewer than 8 HD or levels cease whatever they are doing and are compelled to pay attention to the caster. Any
 such creature that wants to take hostile action against the caster must make a successful Will save to do so. Any
 creature that does not make this saving throw the first time it attempts a hostile action is
-_enthralled_ for the duration of the spell (as the _enthrall_ spell), as long as it is in the spell’s
+_enthralled_ for the duration of the spell (as the _enthrall_ spell), as long as it is in the spell's
 area, nor will it try to leave the area on its own. Creatures with 8 HD or more may pay attention to the caster,
 but are not affected by this spell.
 
 When the caster speaks, all listeners telepathically understand him or her, even if they do not understand the
 language. While the spell lasts, the caster can make up to three suggestions to creatures of fewer than 8 HD in
-range, as if using the _mass suggestion_ spell (Will save negates); creatures with 8 HD or more aren’t
+range, as if using the _mass suggestion_ spell (Will save negates); creatures with 8 HD or more aren't
 affected by this power. Only creatures within range at the time a _suggestion_ is given are subject to it.
 
 _Material Component:_ worth at least 200 gp.
@@ -475,7 +475,7 @@ Conjuration (Creation)
 ### Spell Resistance:
  No
 
-This spell creates an immobile, finite plane with limited access---a demi-plane.
+This spell creates an immobile, finite plane with limited access--a demi-plane.
 
 Demiplanes created by this power are very small, minor planes. A character can cast this spell only on the
 Ethereal Plane. When he or she casts it, a local density fluctuation precipitates the creation of a demiplane. At
@@ -517,7 +517,7 @@ Transmutation
  Yes (object)
 
 This spell increases the hardness of materials. For every two caster levels, increase by 1 the hardness of the
-material targeted by the spell. This hardness increase improves only the material’s resistance to damage. Nothing
+material targeted by the spell. This hardness increase improves only the material's resistance to damage. Nothing
 else is modified by the improvement.
 
 The _hardening_ spell does not in any way affect resistance to other forms of transformation.
@@ -591,7 +591,7 @@ death. The character can only protect him or herself against a natural occurrenc
 spell or the action of a creature. The character must specify the condition against which he or she wishes to
 protect him or herself, and the spell is effective only against that condition. Should the character be subjected
 to that condition during the duration of the spell, he or she feels no discomfort and takes no damage from the
-condition. However, the spell does not protect any items carried on the caster’s person. At the end of the spell’s
+condition. However, the spell does not protect any items carried on the caster's person. At the end of the spell's
 duration, the condition has full normal effects if the character is still subjected to it.
 
 ## Touch of Madness
@@ -615,7 +615,7 @@ Enchantment [Mind-Affecting]
 
 The caster may daze one living creature by making a successful touch attack. If the target creature does not make
 a successful Will save, its mind is clouded and it takes no action for 1 round per caster level. The dazed subject
-is not stunned (so attackers get no special advantage against it), but it can’t move, cast spells, use mental
+is not stunned (so attackers get no special advantage against it), but it can't move, cast spells, use mental
 abilities, and so on.
 
 ## True Creation
@@ -648,7 +648,7 @@ Unlike the items brought into being by the lower-level spells
 _minor creation_ and _major creation,_objects created by the casting of _true creation_ can be used
 as material components.
 
-_XP Cost:_ The item’s gold piece value in XP, or a minimum of 1 XP, whichever is more.
+_XP Cost:_ The item's gold piece value in XP, or a minimum of 1 XP, whichever is more.
 ## Undeath to Death
 Necromancy
 ### Level:

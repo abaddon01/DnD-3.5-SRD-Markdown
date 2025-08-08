@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Epic - Epic Magic Items 2
-aliases: 3.5 Epic Magic Items 2
+aliases:
+  - 3.5 Epic Magic Items 2
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - epic
   - epic_magic_items_2
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -38,7 +38,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 To generate an epic scroll randomly, first roll on Table: Scroll Types to determine whether the spells are arcane
 or divine. An epic scroll contains 1d8 spells. For each spell, roll on Table: Epic Scroll Spell Levels to
-determine its level and then on the appropriate section of Table: Actual Spell Levels to determine the spell’s
+determine its level and then on the appropriate section of Table: Actual Spell Levels to determine the spell's
 actual level and total metamagic level adjustments. To determine the specific metamagic level adjustments, roll on
 the appropriate section of Table: Metamagic Level Adjustment to Spells. To determine the spell, use the
 appropriate sections of the nonepic scroll tables.
@@ -52,7 +52,7 @@ appropriate sections of the nonepic scroll tables.
 
 **Table: Epic Scroll Spell Levels**
 
-| d% | Spell Level | Spell’s Caster Level | Market Price<sup>1</sup> | XP Cost |
+| d% | Spell Level | Spell's Caster Level | Market Price<sup>1</sup> | XP Cost |
 | --- | --- | --- | --- | --- |
 | 01-26 | 10th | 21st | 5,250 gp | 1,210 XP |
 | 27-46 | 11th | 22nd | 6,050 gp | 1,242 XP |
@@ -264,9 +264,9 @@ appropriate sections of the nonepic scroll tables.
 | 96-100 | Roll on Metamagic (9) and add Silent Spell |
 
 ## Staffs
-Staffs have 50 charges when created, and they can’t be recharged.
+Staffs have 50 charges when created, and they can't be recharged.
 
-Staffs use the wielder’s ability score and relevant feats to set the DC for saves against their spells in such
+Staffs use the wielder's ability score and relevant feats to set the DC for saves against their spells in such
 cases where those values would be higher than the listed values for the staffs.
 
 **Table: Epic Staffs**
@@ -282,7 +282,7 @@ cases where those values would be higher than the listed values for the staffs.
 | 55-63 | _Planar might_ | 460,000 gp |
 | 64-71 | _Domination_ | 464,400 gp |
 | 72-79 | _Fiery power_ | 500,000 gp |
-| 80-87 | _Nature’s fury_ | 500,000 gp |
+| 80-87 | _Nature's fury_ | 500,000 gp |
 | 88-95 | _Hierophants_ | 501,187 gp |
 | 96-98 | _Cosmos_ | 683,487 gp |
 | 99-100 | _Necromancy_ | 1,505,312 gp |
@@ -344,7 +344,7 @@ _creeping doom, command plants, elemental swarm, shambler; Market Price:_
 _Caster Level:_ 21st; _Prerequisites:_ Craft Staff, Craft Epic Staff, Quicken Spell,
 _crushing hand, forcecage, shield; Market Price:_ 265,000 gp.
 
-### Nature’s Fury:
+### Nature's Fury:
  This +_5 aberration bane quarterstaff_
 allows use of the following spells.
 
@@ -352,11 +352,11 @@ allows use of the following spells.
 *   _Whirlwind_ (heightened to 10th level, 1 charge, DC 25)
 *   _Fire storm_ (heightened to 10th level, 1 charge, DC 25)
 
-After all charges are used up from a _staff of nature’s fury,_ it remains a +_5 quarterstaff_ with no
+After all charges are used up from a _staff of nature's fury,_ it remains a +_5 quarterstaff_ with no
 special abilities.
 
 _Caster Level:_ 21st; _Prerequisites:_ Craft Staff, Craft Epic Staff, Heighten Spell, Improved
-Heighten Spell, _earthquake, fire storm, summon monster I_ (or _summon nature’s ally_ I),
+Heighten Spell, _earthquake, fire storm, summon monster I_ (or _summon nature's ally_ I),
 _whirlwind; Market Price:_ 500,000 gp.
 
 ### Necromancy:
@@ -383,7 +383,7 @@ following spells.
 When using the _greater planar ally_ power, the character must still bargain with the called creature.
 
 In addition to its other powers, a _staff of planar might_ is a +_5 outsider bane quarterstaff_ (roll
-1d4 to determine what alignment of outsiders the staff ’s bane power works against: 1=chaotic, 2=evil, 3=good,
+1d4 to determine what alignment of outsiders the staff 's bane power works against: 1=chaotic, 2=evil, 3=good,
 4=lawful). After all charges are used up from a _staff of planar might,_ it remains a +_5 quarterstaff_
 with no special abilities.
 
@@ -402,7 +402,7 @@ _prismatic sphere, prismatic spray, prismatic wall; Market Price:_
 326,812 gp.
 
 ### Rapid Barrage:
- Either of the staff’s two powers can be activated as a free action (though the
+ Either of the staff's two powers can be activated as a free action (though the
 staff may only be activated once per round).
 
 *   _Magic missile_ (intensified, quickened, 1 charge, 5 missiles dealing 10 points of damage each)
@@ -442,7 +442,7 @@ _cone of cold, ice storm, freezing sphere, wall of ice; Market Price:_
 292,500 gp.
 
 ## Wondrous Items
-Anyone can use a wondrous item unless specified otherwise in the item’s description.
+Anyone can use a wondrous item unless specified otherwise in the item's description.
 
 **Table: Epic Wondrous Items**
 
@@ -493,31 +493,31 @@ Anyone can use a wondrous item unless specified otherwise in the item’s descri
 Standard epic wondrous items are described below.
 
 ### Amulet of Epic Natural Armor:
- This amulet toughens the wearer’s body and flesh, giving him or her
+ This amulet toughens the wearer's body and flesh, giving him or her
 an enhancement bonus to his or her natural armor of +6 or higher, depending on the type of amulet.
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
-_barkskin,_ creator’s caster level must be three times the amulet’s bonus; _Market Price:_ 720,000 gp
-(+6), 980,000 gp (+7), 1,280,000 gp (+8), 1,620,000 gp (+9), 2,000,000 gp (+10); _Weight:_ ---.
+_barkskin,_ creator's caster level must be three times the amulet's bonus; _Market Price:_ 720,000 gp
+(+6), 980,000 gp (+7), 1,280,000 gp (+8), 1,620,000 gp (+9), 2,000,000 gp (+10); _Weight:_ --.
 
 ### Belt of Epic Strength:
- This belt adds an enhancement bonus of +8 or higher to the wearer’s
+ This belt adds an enhancement bonus of +8 or higher to the wearer's
 Strength score.
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
-_bull’s strength; Market Price:_ 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12); _Weight:_ 1
+_bull's strength; Market Price:_ 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12); _Weight:_ 1
 lb.
 
 ### Boots of Swiftness:
  These shoes grant their wearer a +6 enhancement bonus to Dexterity. The
-wearer’s speed doubles (this does not stack with any magical or supernatural enhancement to speed), he or she
-gains the evasion ability (as the rogue class feature), and the wearer’s jumping distance is not limited by his or
+wearer's speed doubles (this does not stack with any magical or supernatural enhancement to speed), he or she
+gains the evasion ability (as the rogue class feature), and the wearer's jumping distance is not limited by his or
 her height. The wearer gains a +20 competence bonus on Balance, Climb, Jump, and Tumble checks. Three times per
-day, the wearer can utter a command word to activate the boots’ _haste_ power (as the _haste_ spell,
+day, the wearer can utter a command word to activate the boots' _haste_ power (as the _haste_ spell,
 lasts 20 rounds).
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
-_cat’s grace, expeditious retreat, haste, jump; Market Price:_
+_cat's grace, expeditious retreat, haste, jump; Market Price:_
 256,000 gp; _Weight:_ 1 lb.
 
 ### Bracers of Epic Armor:
@@ -526,7 +526,7 @@ force, granting him or her an armor bonus of +11 or higher, just as though he or
 bracers must be worn for the magic to be effective.
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
-_mage armor,_ creator’s caster level must be twice the bracers’ bonus; _Market Price:_ 1,210,000 (+11),
+_mage armor,_ creator's caster level must be twice the bracers' bonus; _Market Price:_ 1,210,000 (+11),
 1,440,000 (+12), 1,690,000 gp (+13), 1,960,000 (+14), 2,250,000 gp (+15); _Weight:_ 1 lb.
 
 ### Bracers of Epic Health:
@@ -537,26 +537,26 @@ _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous 
 _endurance; Market Price:_ 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12); _Weight:_ 1 lb.
 
 ### Bracers of Relentless Might:
- These bracers grant a +12 enhancement bonus to the wearer’s Strength
+ These bracers grant a +12 enhancement bonus to the wearer's Strength
 and Constitution. The wearer is treated as two size categories larger than normal (to a maximum of Colossal) for
 purposes of combat-related opposed checks that apply a modifier based on size, such as bull rush, grapple, and
 trip.
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
-_bull’s strength, endurance, enlarge; Market Price:_ 4,384,000 gp; _Weight:_ 1 lb.
+_bull's strength, endurance, enlarge; Market Price:_ 4,384,000 gp; _Weight:_ 1 lb.
 
 ### Cabinet of Feasting:
  This cabinet has the ability to produce a feast for up to forty people,
 three times per day. Merely opening the doors of the cabinet reveals platters of food of all types and flavors of
 the very freshest sort. The meal has all the qualities and benefits of that produced by a
-_heroes’ feast_ spell.
+_heroes' feast_ spell.
 
 _Caster Level:_ 40th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
-_heroes’ feast; Market Price:_ 288,000 gp; _Weight:_ 20 lb.
+_heroes' feast; Market Price:_ 288,000 gp; _Weight:_ 20 lb.
 
 ### Cloak of Epic Charisma:
  When worn, this cloak grants a +8 or higher enhancement bonus to a
-character’s Charisma score.
+character's Charisma score.
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
 _charm monster; Market Price:_ 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12); _Weight:_ 1 lb.
@@ -566,7 +566,7 @@ _charm monster; Market Price:_ 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp
 resistance bonus on all saving throws (Fortitude, Reflex, and Will).
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
-_resistance,_ creator’s caster level must be three times the cloak’s bonus; _Market Price:_ 360,000
+_resistance,_ creator's caster level must be three times the cloak's bonus; _Market Price:_ 360,000
 (+6), 490,000 (+7), 640,000 gp (+8), 810,000 (+9), 1,000,000 gp (+10); _Weight:_ 1 lb.
 
 ### Gate Key:
@@ -584,19 +584,19 @@ _Caster Level:_ 21st; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous 
 _gate; Market Price:_ 378,000 gp; _Weight:_ 1 lb.
 
 ### Gloves of Epic Dexterity:
- These gloves add an enhancement bonus of +8 or higher to the wearer’s
+ These gloves add an enhancement bonus of +8 or higher to the wearer's
 Dexterity score.
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
-_cat’s grace; Market Price:_ 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12); _Weight:_ ---.
+_cat's grace; Market Price:_ 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12); _Weight:_ --.
 
 ### Headband of Epic Intellect:
  This headband adds an enhancement bonus of +8 or higher to the
-wearer’s Intelligence score.
+wearer's Intelligence score.
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
 _commune_ or _legend lore; Market Price:_ 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12);
-_Weight:_ ---.
+_Weight:_ --.
 
 ### Horseshoes of the Peerless Steed:
  These horseshoes magically adhere to the feet of any hoofed
@@ -618,7 +618,7 @@ _spell resistance; Market Price:_ 290,000 gp. _Weight:_ 1 lb.
 
 ### Mantle of Great Stealth:
  The wearer of this cloak gains a +30 bonus on Hide and Move Silently
-checks. The wearer’s outline is blurry and indistinct, granting concealment (20% miss chance) at all times (as the
+checks. The wearer's outline is blurry and indistinct, granting concealment (20% miss chance) at all times (as the
 _blur_ spell). The mantle also grants nondetection to its wearer (as the spell).
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
@@ -626,11 +626,11 @@ _blur, invisibility, nondetection, silence; Market Price:_ 242,000 gp; _Weight:_
 
 ### Periapt of Epic Wisdom:
  This large pearl set on a chain grants an enhancement bonus of +8 or
-higher to the wearer’s Wisdom score.
+higher to the wearer's Wisdom score.
 
 _Caster Level:_ 20th; _Prerequisites:_ Craft Wondrous Item, Craft Epic Wondrous Item,
 _commune_ or _legend lore; Market Price:_ 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12);
-_Weight:_ ---.
+_Weight:_ --.
 
 ## Intelligent Items
 
@@ -674,18 +674,18 @@ Capabilities.
 ### Market Price Modifier
 
 To find the market price for an epic magic item, use these expanded guidelines, adjusting as necessary to find an
-appropriate final price. Each point of Intelligence bonus, Wisdom bonus, or Charisma bonus increases the item’s
+appropriate final price. Each point of Intelligence bonus, Wisdom bonus, or Charisma bonus increases the item's
 market price by 400 gp. Any form of communication possessed by the item increases its market price by the number
 shown on Table: Epic Item Communication. Each primary ability possessed by the item increases its market price by
 2,000 to 10,000 gp (average 6,000 gp). Each extraordinary ability possessed by the item increases its market price
-by 15,000 to 35,000 gp (average 25,000 gp). A special purpose increases the item’s market price by 50,000 gp. An
-awesome power increases the item’s market price by 100,000 gp.
+by 15,000 to 35,000 gp (average 25,000 gp). A special purpose increases the item's market price by 50,000 gp. An
+awesome power increases the item's market price by 100,000 gp.
 
 ### Intelligent Item Alignment
 
 Any item with Intelligence has an alignment. Make sure that the alignment choosen or determine randomly (using
 **Table: Item Alignment) matches any alignment-oriented special abilities of the item. Any character whose alignment**
-is not compatible with that of the item gains one negative level for every 10 points of the weapon’s Ego (see Item
+is not compatible with that of the item gains one negative level for every 10 points of the weapon's Ego (see Item
 Ego, below) if he or she so much as picks up the item. Although this never results in actual level loss, the
 negative levels remain as long as the item is in hand and cannot be overcome in any way (including
 _restoration_ spells). These negative levels are cumulative with any other penalties the item might already
@@ -704,12 +704,12 @@ place on inappropriate wielders.
 | 56-60 | Lawful neutral<sup>1</sup> |
 | 61-80 | Neutral good<sup>1</sup> |
 | 81-100 | Neutral |
-| 1 The item can also be used by any character whose alignment corresponds to the nonneutral portion of the item’s alignment (in other words, chaotic, evil, good, or lawful). Thus, any chaotic character (CG, CN, CE) can use an item with chaotic neutral alignment. |
+| 1 The item can also be used by any character whose alignment corresponds to the nonneutral portion of the item's alignment (in other words, chaotic, evil, good, or lawful). Thus, any chaotic character (CG, CN, CE) can use an item with chaotic neutral alignment. |
 
 ### Item Communication
 
 Like a character, an intelligent item speaks Common plus one language per point of Intelligence bonus. Choose
-appropriate languages, taking into account the item’s origin and purposes. An item with multiple modes of
+appropriate languages, taking into account the item's origin and purposes. An item with multiple modes of
 communication can use any of its modes at will.
 
 **Table: Epic Item Communication**
@@ -721,14 +721,14 @@ communication can use any of its modes at will.
 | 36-75 | Speech<sup>3</sup> | +3,000 gp |
 | 76-85 | Telepathy<sup>4</sup> | +5,000 gp |
 | 86-100 | Speech<sup>3</sup> and telepathy<sup>4</sup> | +8,000 gp |
-| 1 The possessor receives some signal (a throb or tingle, for example) when the item’s ability functions. |
+| 1 The possessor receives some signal (a throb or tingle, for example) when the item's ability functions. |
 | 2 The possessor feels urges and sometimes emotions from the item that encourage or discourage certain courses of action. |
 | 3Speaks Common plus one language per point of Intelligence bonus. Roll d%: 01-05, the item cannot read any languages; 06-75, the item can read any language it can speak (+1,000 gp to market price); 76-90, it can read all languages (+2,000 gp to market price); 91-100, it can read all languages as well as _read magic_ (+3,000 gp to market price). |
 | 4 The item can communicate silently with any wielder who has an Intelligence of 1 or higher, regardless of any language barrier. |
 
 ### Intelligent Item Abilities
 
-Using the number of capabilities determined above, find the item’s specific abilities by rolling on the
+Using the number of capabilities determined above, find the item's specific abilities by rolling on the
 appropriate tables below.
 
 **Table: Intelligent Item Primary Abilities**
@@ -781,8 +781,8 @@ case of such items). An intelligent item might activate a power on its own.
 | 41-45 | _Lightning bolt_ (8d6 points of damage, 200-ft. range, DC 13<sup>1</sup>) | 1/day |
 | 46-50 | _Summon monster III_ | 1/day |
 | 51-55 | _Telepathy_ (100 ft. range) | 2/day |
-| 56-60 | _Cat’s grace_ (wielder only) | 1/day |
-| 61-65 | _Bull’s strength_ (wielder only) | 1/day |
+| 56-60 | _Cat's grace_ (wielder only) | 1/day |
+| 61-65 | _Bull's strength_ (wielder only) | 1/day |
 | 66-70 | _Haste_ (wielder only, 10 rounds) | 1/day |
 | 71-73 | _Telekinesis_ (250 lb. maximum, 1 minute each use) | 2/day |
 | 74-76 | _Heal_ | 1/day |
@@ -795,9 +795,9 @@ case of such items). An intelligent item might activate a power on its own.
 | 83 | _Summon monster VI_ | 1/day |
 | 84 | _Finger of death_ (100 ft. range, DC 17<sup>1</sup>) | 1/day |
 | 85 | _Passwall_ | At will |
-| 86-90 | Roll twice again on this table | --- |
-| 91-100 | Roll again on this table, and then roll for a special purpose on Table: Intelligent Item Purpose | --- |
-| 1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the given DC. |
+| 86-90 | Roll twice again on this table | -- |
+| 91-100 | Roll again on this table, and then roll for a special purpose on Table: Intelligent Item Purpose | -- |
+| 1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability's bonus to the given DC. |
 
 If the same power is rolled twice, the uses per day are doubled. (If
 _true seeing_ or _passwall_ is rolled twice, roll again.) Powers function only when the item is drawn
@@ -809,8 +809,8 @@ intelligent item might activate a power on its own.
 | d% | Awesome Power | Uses |
 | --- | --- | --- |
 | 01-04 | _Astral projection_ | 1/day |
-| 05-08 | _Bull’s strength_ (wielder only; intensified; +10 enhancement bonus to Strength) | 1/day |
-| 09-12 | _Cat’s grace_ (wielder only; intensified; +10 enhancement bonus to Dexterity) | 1/day |
+| 05-08 | _Bull's strength_ (wielder only; intensified; +10 enhancement bonus to Strength) | 1/day |
+| 09-12 | _Cat's grace_ (wielder only; intensified; +10 enhancement bonus to Dexterity) | 1/day |
 | 13-16 | _Chain lightning_ (enhanced; 20d6 damage; DC 16<sup>1</sup>) | 1/day |
 | 17-20 | _Dominate monster_ (DC 19 <sup>1</sup>) on contact | 1/day |
 | 21-24 | _Endurance_ (wielder only; intensified; +10 enhancement bonus to Constitution) | 1/day |
@@ -826,10 +826,10 @@ intelligent item might activate a power on its own.
 | 69-72 | _Summon monster IX_ 2 (extended; 40-round duration) | 1/day |
 | 73-76 | _Sunburst_ (heightened to 9th level; DC 19<sup>1</sup>) | 2/day |
 | 77-80 | _Teleport without error_ | 2/day |
-| 81-90 | Roll twice again on this table | --- |
-| 91-100 | Roll again on this table, and then roll for a special purpose on nonepic magic item Table: Intelligent Item Purpose. | --- |
-| 1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the listed DC. |
-| 2 The weapon can only summon monsters whose alignment has no components that oppose the item’s alignment. |
+| 81-90 | Roll twice again on this table | -- |
+| 91-100 | Roll again on this table, and then roll for a special purpose on nonepic magic item Table: Intelligent Item Purpose. | -- |
+| 1 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability's bonus to the listed DC. |
+| 2 The weapon can only summon monsters whose alignment has no components that oppose the item's alignment. |
 
 Unless otherwise stated, all awesome powers function at 20th caster level. If a power is rolled twice, the uses
 per day are doubled. Powers function only when the item is drawn and held, and the possessor is concentrating upon
@@ -838,7 +838,7 @@ own.
 
 ### Special Purpose Items
 #### Purpose
-An item’s purpose must suit the type and alignment of the item and should always be treated reasonably.
+An item's purpose must suit the type and alignment of the item and should always be treated reasonably.
 
 **Table: Intelligent Item Purpose**
 
@@ -861,8 +861,8 @@ An item’s purpose must suit the type and alignment of the item and should alwa
 
 A special purpose power operates only when the item is in pursuit of its special purpose. This is always up to the
 purview of the item. It should always be easy and straightforward to see how the ends justify the means. That is
-to say that if the player’s reasoning for how a particular action serves the item’s purpose is not completely
-believable, the item won’t allow it.
+to say that if the player's reasoning for how a particular action serves the item's purpose is not completely
+believable, the item won't allow it.
 
 **Table: Intelligent Item Special Purpose Powers**
 
@@ -876,8 +876,8 @@ believable, the item won’t allow it.
 | 66-75 | _Disintegrate_<sup>1</sup> (DC 21<sup>2</sup>) |
 | 76-80 | _True resurrection_ on wielder, one time only |
 | 81-100 | +4 luck bonus on all saving throws, +4 deflection AC bonus, spell resistance 30 |
-| 1 This power affects the opponent of the item’s wielder on a successful hit unless the opponent makes a Will save at the listed DC. |
-| 2 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability’s bonus to the listed DC. |
+| 1 This power affects the opponent of the item's wielder on a successful hit unless the opponent makes a Will save at the listed DC. |
+| 2 Choose an ability score of the item (usually the highest) at the time the item is created or randomly generated. Add that ability's bonus to the listed DC. |
 
 ### Item Ego
 
@@ -907,13 +907,13 @@ dominance of item over character, as detailed below.
 ### Items Against Characters
 
 When an item has an Ego of its own, it has a will of its own. The item is, of course, absolutely true to its
-alignment. If the character who possesses the item is not true to that alignment’s goals or the item’s special
-purpose, personality conflict---item against character---results. Similarly, any item with an Ego score of 20 or
+alignment. If the character who possesses the item is not true to that alignment's goals or the item's special
+purpose, personality conflict--item against character--results. Similarly, any item with an Ego score of 20 or
 higher always considers itself superior to any character, and a personality conflict results if the possessor does
 not always agree with the item. When a personality conflict occurs, the possessor must make a Will saving throw
-(DC = item’s Ego). If the possessor succeeds, he or she is dominant. If he or she fails, the item is dominant.
+(DC = item's Ego). If the possessor succeeds, he or she is dominant. If he or she fails, the item is dominant.
 Dominance lasts for one day or until a critical situation occurs (such as a major battle, a serious threat to
-either item or character, and so on). Should an item gain dominance, it resists the character’s desires and
+either item or character, and so on). Should an item gain dominance, it resists the character's desires and
 demands concessions such as any of the following:
 
 *   Removal of associates or items whose alignment or personality is distasteful to the item.
@@ -929,9 +929,9 @@ In extreme circumstances, the item can resort to even harsher measures.
 *   Refuse to strike opponents.
 *   Strike at its wielder or his or her associates.
 *   Force its possessor to surrender to an opponent.
-*   Cause itself to drop from the character’s grasp.
+*   Cause itself to drop from the character's grasp.
 
-Naturally, such actions are unlikely when harmony reigns between the character’s and item’s alignments or when
+Naturally, such actions are unlikely when harmony reigns between the character's and item's alignments or when
 their purposes and personalities are well matched. Even so, an item might wish to have a lesser character possess
 it in order to easily command him or her, or a higher-level possessor so as to better accomplish its goals. All
 magic items with personalities desire to play an important role in whatever activity is under way, particularly
@@ -948,7 +948,7 @@ undaunted and continue to air their wishes and demands.
 ### Minor Artifacts
 
 Minor artifacts are not necessarily unique items, but rather magic items that no longer can be made by common
-mortal means---even by the hands of epic creators. Such items have no established market price. Below is a selection
+mortal means--even by the hands of epic creators. Such items have no established market price. Below is a selection
 of known minor artifacts.
 
 ### Everfull Purse:
@@ -968,7 +968,7 @@ one arcane spellcasting class, he or she must choose one of the classes to be af
 spellcasters (LN, N, CN, LE, NE, or CE) are permanently drained of 1d4+1 points of Constitution and must atone
 (see the _atonement_ spell) in order to gain any further experience. Anyone incapable of casting arcane
 spells who reads even a single word of the work must make a Will save (DC 20) or suffer insanity (see the
-_insanity_ spell). Except as indicated above, the writing in a _libram of gainful conjuration_ can’t be
+_insanity_ spell). Except as indicated above, the writing in a _libram of gainful conjuration_ can't be
 distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be
 seen again, nor can the same character ever benefit from reading a similar tome a second time.
 
@@ -983,7 +983,7 @@ one arcane spellcasting class, he or she must choose one of the classes to be af
 spellcasters (LN, N, CN, LG, NG, or CG) are permanently drained of 1d4+1 points of Constitution and must atone
 (see the _atonement_ spell) in order to gain any further experience. Anyone incapable of casting arcane
 spells who reads even a single word of the work must make a Will save (DC 20) or suffer insanity (see the
-_insanity_ spell). Except as indicated above, the writing in a _libram of ineffable damnation_ can’t be
+_insanity_ spell). Except as indicated above, the writing in a _libram of ineffable damnation_ can't be
 distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be
 seen again, nor can the same character ever benefit from reading a similar tome a second time.
 
@@ -998,7 +998,7 @@ one arcane spellcasting class, he or she must choose one of the classes to be af
 spellcasters (LE, NE, CE, LG, NG, or CG) are permanently drained of 1d4+1 points of Constitution and must atone
 (see the _atonement_ spell) in order to gain any further experience. Anyone incapable of casting arcane
 spells who reads even a single word of the work must make a Will save (DC 20) or suffer insanity (see the
-_insanity_ spell). Except as indicated above, the writing in a _libram of silver magic_ can’t be
+_insanity_ spell). Except as indicated above, the writing in a _libram of silver magic_ can't be
 distinguished from any other book, libram, tome, or so on until perused. Once read, the book vanishes, never to be
 seen again, nor can the same character ever benefit from reading a similar tome a second time.
 
@@ -1012,7 +1012,7 @@ experience. (If the reader has levels in more than one of the classes listed, he
 classes to be affected.) A character without any levels in one of the classes listed gains no bonus from the work,
 but if an arcane spellcaster without levels in one of the classes listed scans even a single word he or she will
 lose 2dx1,000 XP and must make a Will save (DC 20) or have 1 point of Intelligence permanently drained. Except as
-indicated above, the writing in a _manual of puissant skill at arms_ can’t be distinguished from any other
+indicated above, the writing in a _manual of puissant skill at arms_ can't be distinguished from any other
 book, libram, tome, or so on until perused. Once read, the book vanishes, never to be seen again, nor can the same
 character ever benefit from reading a similar tome a second time.
 
@@ -1024,18 +1024,18 @@ its lessons a +1 inherent bonus to Dexterity and experience points sufficient to
 next level of experience. A character without any rogue levels gains no bonus from the work, but if a divine
 spellcaster without rogue levels scans even a single word she will lose 2dx1,000 XP and must make a Will save (DC
 20) or have 1 point of Wisdom permanently drained. Except as indicated above, the writing in a
-_manual of stealthy pilfering_ can’t be distinguished from any other book, libram, tome, or so on until
+_manual of stealthy pilfering_ can't be distinguished from any other book, libram, tome, or so on until
 perused. Once read, the book vanishes, never to be seen again, nor can the same character ever benefit from
 reading a similar tome a second time.
 
 _Caster Level:_ 19th; _Weight:_ 3 lb.
 
-### Rogue’s Dice:
+### Rogue's Dice:
  This pair of cubes appears much like any other pair of typical (6-sided) dice. A
-character with a pair of _rogue’s dice_ who wishes to roll them must announce that he or she is rolling the
+character with a pair of _rogue's dice_ who wishes to roll them must announce that he or she is rolling the
 dice (accidental rolls have no effect). Rolling the dice is a standard action, and both dice must be rolled
 simultaneously to have any effect. The player should roll 2d6 and consult the table below to determine the
-_dice’s_ affects.
+_dice's_ affects.
 
 | 2d6 | Effect |
 | --- | --- |
@@ -1052,13 +1052,13 @@ _dice’s_ affects.
 | 12 | Gain 10,000 XP and may roll again next round |
 
 No character can gain any effect from an additional roll of the dice within 24 hours, with two exceptions. If a 2
-is rolled, the dice automatically roll themselves at the beginning of the character’s next turn and he or she must
+is rolled, the dice automatically roll themselves at the beginning of the character's next turn and he or she must
 accept the additional result. If a 12 is rolled, the character may choose to roll again in the next round (if more
 than 1 full round elapses between the roll of 12 and this bonus roll, the character loses the bonus roll). There
-is no method (mundane or magical) to predict or influence the result of a roll of _Rogue’s dice._Even
-powerful divination magic can’t predict the outcome of a roll before it is made.
+is no method (mundane or magical) to predict or influence the result of a roll of _Rogue's dice._Even
+powerful divination magic can't predict the outcome of a roll before it is made.
 
-_Caster Level:_ 20th; _Weight:_ ---.
+_Caster Level:_ 20th; _Weight:_ --.
 ## Major Artifacts
 
 ### Axe of the Dwarvish Lords:
@@ -1070,7 +1070,7 @@ stonemasonry, and weaponsmithing) checks. The wielder of the _Axe_ can summon an
 _summon monster IX;_ duration 20 rounds) once per week.
 
 ### Codex of the Infinite Planes:
- The _Codex_ is enormous---supposedly, it requires two strong men
+ The _Codex_ is enormous--supposedly, it requires two strong men
 to lift it. No matter how many pages are turned, another always remains. Anyone opening the _Codex_ for the
 first time is utterly annihilated, as with a _destruction_ spell (Fortitude DC 30 for only 10d6 damage).
 Those who survive can peruse its pages and learn its powers, though not without risk. Each day spent studying the
@@ -1083,7 +1083,7 @@ _astral projection, banishment, elemental swarm, gate, greater planar ally, grea
 and _soul bind._ Each is usable at will by the owner of the _Codex_ (assuming that he or she has learned
 how to access the power). The _Codex of the Infinite Planes_ has a caster level of 30th for the purposes of
 all powers and catastrophes, and all saving throw DCs are 20 + spell level. Activating any power requires both a
-Concentration check and a Spellcraft check (DC 40 + twice the spell level of the power; the character can’t take
+Concentration check and a Spellcraft check (DC 40 + twice the spell level of the power; the character can't take
 10 on this check). Any failure on either check indicates a catastrophe befalls the user (roll on the table below
 for the effect). A character can only incur one catastrophe per power use, even if he or she fails both checks.
 
@@ -1091,15 +1091,15 @@ for the effect). A character can only incur one catastrophe per power use, even 
 | --- | --- |
 | 01-25 | Natural Fury: An _earthquake_ spell centered on the reader strikes every round for 1 minute, and an intensified _storm of vengeance_ spell is centered and targeted on the reader. |
 | 26-50 | Fiendish Vengeance: A _gate_ opens and 1d3+1 balor demons, pit fiends, or similar evil outsiders immediately step through and attempt to destroy the owner of the _Codex._ |
-| 51-75 | Ultimate Imprisonment: Reader’s soul is captured (as _trap the soul;_ no save allowed) in a random gem somewhere on the plane while his or her body is entombed beneath the earth (as _imprisonment)._ |
+| 51-75 | Ultimate Imprisonment: Reader's soul is captured (as _trap the soul;_ no save allowed) in a random gem somewhere on the plane while his or her body is entombed beneath the earth (as _imprisonment)._ |
 | 76-100 | Death: The reader utters a _wail of the banshee_ and then is subject to a _destruction_ spell. This repeats every round for 10 rounds until the reader is dead. |
 
 ### Cup and Talisman of the Demigod:
  The _Cup_ is a large gem-set golden chalice requiring two
 hands to lift. It emits light (as the _daylight_ spell) at all times and automatically dispels any
 darkness-based spells whose area it enters. If the cup is filled with holy water (requiring a full gallon), that
-substance will act as a _potion of cure critical wounds_ or a _potion of neutralize poison_ (owner’s
-choice) if drunk. This liquid can’t be saved or stored in any way. The _Talisman_ is a small eight-pointed
+substance will act as a _potion of cure critical wounds_ or a _potion of neutralize poison_ (owner's
+choice) if drunk. This liquid can't be saved or stored in any way. The _Talisman_ is a small eight-pointed
 platinum star hanging from a chain of gold and pearls. The wearer gains a +6 enhancement bonus to Charisma and may
 cast _remove blindness/deafness, remove curse,_ and _remove disease_ at will. Furthermore, if the
 _Talisman_ is placed within the _Cup_ and the _Cup_ filled with holy water, that liquid acts as a
@@ -1110,15 +1110,15 @@ _dictum_ (if chaotic) spell (or both if the creature is chaotic evil).
 ### Eye of the Orc:
  This lump of rock has a marquis-cut black sapphire set in its center, making it
 appear similar to a large eye. If possessed by an orc, it grants a +6 enhancement bonus to Strength and Charisma,
-and the orc’s darkvision range is doubled. Nonorcs who possess the _Eye_ gain a +2 enhancement bonus to
-Strength but take a -2 penalty to Intelligence and Charisma. Regardless of the owner’s race, any weapon wielded by
+and the orc's darkvision range is doubled. Nonorcs who possess the _Eye_ gain a +2 enhancement bonus to
+Strength but take a -2 penalty to Intelligence and Charisma. Regardless of the owner's race, any weapon wielded by
 the owner of the _Eye_ is considered an _elf bane weapon._Furthermore, by holding the _Eye_ before
 the character, he or she can perceive things as if he or she had _true seeing_ cast upon him or her. This can
 be activated only once per day but lasts as long as the character concentrates on it (requiring a standard action
 each round).
 
 ### Golem Armor:
- This enormous suit of black iron +_10 full plate armor_ increases the wearer’s
+ This enormous suit of black iron +_10 full plate armor_ increases the wearer's
 size by one category (to a maximum of Colossal). The wearer gains a +10 enhancement bonus to Strength and is
 rendered immune to mind-affecting effects, poison, disease, and similar effects. He or she is not subject to
 critical hits, subdual damage, ability damage, energy drain, or death from massive damage. _Golem Armor_ is
@@ -1134,17 +1134,17 @@ turning undead, smiting evil, and laying on hands.
 
 ### Iron Gauntlet of War:
  The _Gauntlet_ grants a +8 enhancement bonus to Strength. The wearer
-doubles the damage bonus on any smite attacks he or she makes. If the wearer has the Leadership feat, the wearer’s
+doubles the damage bonus on any smite attacks he or she makes. If the wearer has the Leadership feat, the wearer's
 Leadership score increases by +4, but the wearer can never attract or keep followers or cohorts who are good or
 chaotic. Once per day, the wielder can use _implosion_ as a 20th-level caster (DC 23). The
 _Iron Gauntlet of War_ is intelligent (Int 13, Wis 18, Cha 24, Ego 26) and lawful evil. It can communicate
-telepathically with its wearer, though it cannot speak. It will always seek to dominate any wearer who isn’t
+telepathically with its wearer, though it cannot speak. It will always seek to dominate any wearer who isn't
 lawful evil, forcing such an owner to commit lawful evil deeds (or else find a more suitable wearer).
 
 ### Ring of Nine Facets:
  This ring is set with a gem of nine facets, each one in-scribed with a
 different incomprehensible rune. Each day at sunrise, the gem turns to display a different facet. The active facet
-determines the _Ring’s_power for that day. Each day, roll 1d10 to determine which facet (and thus which
+determines the _Ring's_power for that day. Each day, roll 1d10 to determine which facet (and thus which
 power) is active.
 
 | 1d10 | Active Facet Power |

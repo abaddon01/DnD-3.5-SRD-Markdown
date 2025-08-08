@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Special Materials
-aliases: 3.5 Special Materials
+aliases:
+  - 3.5 Special Materials
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - special_materials
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -33,8 +33,8 @@ creatures they most commonly encounter.
 ### Adamantine:
  This ultrahard metal adds to the quality of a weapon or suit of armor. Weapons
 fashioned from adamantine have a natural ability to bypass hardness when sundering weapons or attacking objects,
-ignoring hardness less than 20. Armor made from adamantine grants its wearer damage reduction of 1/- if it’s light
-armor, 2/- if it’s medium armor, and 3/- if it’s heavy armor. Adamantine is so costly that weapons and armor made
+ignoring hardness less than 20. Armor made from adamantine grants its wearer damage reduction of 1/- if it's light
+armor, 2/- if it's medium armor, and 3/- if it's heavy armor. Adamantine is so costly that weapons and armor made
 from it are always of masterwork quality; the masterwork cost is included in the prices given below. Thus,
 adamantine weapons and ammunition have a +1 enhancement bonus on attack rolls, and the armor check penalty of
 adamantine armor is lessened by 1 compared to ordinary armor of its type. Items without metal parts cannot be made
@@ -72,7 +72,7 @@ creature three sizes smaller, or one masterwork breastplate or suit of full plat
 smaller. In each case, enough hide is available to produce a small or large masterwork shield in addition to the
 armor, provided that the dragon is Large or larger.
 
-Because dragonhide armor isn’t made of metal, druids can wear it without penalty.
+Because dragonhide armor isn't made of metal, druids can wear it without penalty.
 
 Dragonhide armor costs double what masterwork armor of that type ordinarily costs, but it takes no longer to make
 than ordinary armor of that type.
@@ -99,7 +99,7 @@ are still treated as light. Spell failure chances for armors and shields made fr
 maximum Dexterity bonus is increased by 2, and armor check penalties are lessened by 3 (to a minimum of 0).
 
 An item made from mithral weighs half as much as the same item made from other metals. In the case of weapons,
-this lighter weight does not change a weapon’s size category or the ease with which it can be wielded (whether it
+this lighter weight does not change a weapon's size category or the ease with which it can be wielded (whether it
 is light, one-handed, or two-handed). Items not primarily of metal are not meaningfully affected by being
 partially made of mithral. (A longsword can be a mithral weapon, while a scythe cannot be.)
 
@@ -121,7 +121,7 @@ Mithral has 30 hit points per inch of thickness and hardness 15.
 weapon made of steel so that it bypasses the damage reduction of creatures such as lycanthropes.
 
 On a successful attack with a silvered weapon, the wielder takes a -1 penalty on the damage roll (with the usual
-minimum of 1 point of damage). The alchemical silvering process can’t be applied to nonmetal items, and it doesn’t
+minimum of 1 point of damage). The alchemical silvering process can't be applied to nonmetal items, and it doesn't
 work on rare metals such as adamantine, cold iron, and mithral.
 
 Alchemical silver has 10 hit points per inch of thickness and hardness 8.

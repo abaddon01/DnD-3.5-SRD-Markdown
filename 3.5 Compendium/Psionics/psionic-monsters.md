@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Psionics - Psionic Monsters
-aliases: 3.5 Psionic Monsters
+aliases:
+  - 3.5 Psionic Monsters
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - psionics
   - psionic_monsters
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -184,10 +184,10 @@ spent a number of power points equal to its manifester level, which may augment 
 save DC. However, the creature does not actually spend power points for its psi-like abilities, even if it has a
 power point reserve due to racial abilities, class levels, or some other psionic ability.
 
-The DC of a saving throw (if applicable) against a creature’s psi-like ability is 10 + the level of the power or
-spell the ability duplicates + the creature’s Cha modifier. Remember to check the power’s Augment entry to see if
-the creature’s manifester level (and thus the effective power point expenditure) increases the DC of the saving
-throw. Changes to the effect’s save DC, damage, and so on are noted in the psi-like ability entry.
+The DC of a saving throw (if applicable) against a creature's psi-like ability is 10 + the level of the power or
+spell the ability duplicates + the creature's Cha modifier. Remember to check the power's Augment entry to see if
+the creature's manifester level (and thus the effective power point expenditure) increases the DC of the saving
+throw. Changes to the effect's save DC, damage, and so on are noted in the psi-like ability entry.
 
 ### Psionic Focus
 
@@ -212,9 +212,9 @@ to possess psi-like abilities, and they manifest their powers as described above
 
 ### Psionic Spells
 
-In some cases, a creature’s psi-like abilities (or abilities listed under a creature’s psionics entry) may include
+In some cases, a creature's psi-like abilities (or abilities listed under a creature's psionics entry) may include
 an effect that does not duplicate any listed power. For such abilities, simply use the existing spell description.
-Treat the creature’s
+Treat the creature's
 
 manifester level as the caster level for the spell. The ability is still psionic in origin, so spells and powers
 that specifically affect psionic powers can negate or reduce its effects as they would any other psionic power.
@@ -230,14 +230,14 @@ listed. All other elements of the creature remain the same.
 ## Reading Psionic Creature Entries
 ### Creatures with Psi-Like Abilities
 
-Each of a creature’s psi-like abilities has a manifester level. Each ability that allows a saving throw also gives
+Each of a creature's psi-like abilities has a manifester level. Each ability that allows a saving throw also gives
 a save DC in parentheses following the power name.
 
 Powers that have increased effects due to augmentation include information about the effect. An asterisk indicates
-that the power has already been augmented by the creature’s innate ability.
+that the power has already been augmented by the creature's innate ability.
 
-Powers that can’t be augmented, or that are manifested at their normal minimum level, do not contain any special
-notations. Resolve the effect of manifesting the power without augmentation at the creature’s given manifester
+Powers that can't be augmented, or that are manifested at their normal minimum level, do not contain any special
+notations. Resolve the effect of manifesting the power without augmentation at the creature's given manifester
 level.
 
 Some creatures may have particular powers that are manifested at a higher or lower level than their normal
@@ -256,36 +256,36 @@ A psionic aboleth does not possess spell-like abilities or the enslave ability o
 it has psi-like abilities, including _psionic dominate._
 
 #### Psi-Like Abilities:
- At will---_disable_ (30-ft. cone, 12 HD, DC 20*),
+ At will--_disable_ (30-ft. cone, 12 HD, DC 20*),
 _false sensory input_ (five targets, DC 16*), _mental disruption_ (20-ft. radius, DC 18*),
-_mindlink_ (unwilling, nine targets, DC 14*); 3/day---_ego whip_ (ML 7th, 2d4, DC 17*)_, id insinuation_
+_mindlink_ (unwilling, nine targets, DC 14*); 3/day--_ego whip_ (ML 7th, 2d4, DC 17*)_, id insinuation_
 (ML 7th, three targets, DC 17*)_, psionic dominate_ (any target, 24 hours, DC 20*),
-_thought shield_ (power resistance 21, 3 rounds*); 1/day---_psionic modify memory_ (DC 17)_, remote viewing_
+_thought shield_ (power resistance 21, 3 rounds*); 1/day--_psionic modify memory_ (DC 17)_, remote viewing_
 (DC 17)_, wall of ectoplasm_ (DC 17).
 
 Manifester level 13th. The save DCs are Charisma-based.
-*Includes augmentation for the aboleth’s manifester level.
+*Includes augmentation for the aboleth's manifester level.
 ## Astral Construct
 
 Astral constructs are brought into being by the metacreativity power
 _astral construct_. They are formed from raw ectoplasm (a portion of the astral medium drawn into the
-Material Plane). The power points spent by the construct’s creator during the manifestation of the power determine
+Material Plane). The power points spent by the construct's creator during the manifestation of the power determine
 the level of the astral construct created. However, even astral constructs of the same level vary somewhat from
 each other, depending on the whims of their creators.
 
 ### Combat
 
-Astral constructs act as directed by their creators. As a free action, a construct’s manifester can direct the
+Astral constructs act as directed by their creators. As a free action, a construct's manifester can direct the
 construct to attack particular enemies, use specific tactics or powers, perform other actions, or do nothing at
 all. The construct does exactly what its creator directs it to do.
 
 An astral construct generally appears as an animate clump of ectoplasm with a vaguely humanoid shape, but the
-manifester can mold or sculpt one according to his or her whim within the limits imposed by the creature’s size.
+manifester can mold or sculpt one according to his or her whim within the limits imposed by the creature's size.
 The quality of such "construct sculpture" is determined by a Craft (sculpting) check. A result of 10 to 19 creates
 a creature that is recognizably similar to the desired creature shape; a result of 20 to 29 creates a construct
 that looks like an accurate portrayal of that creature type; a result of 30 or higher creates a construct that
 looks like a specific individual. No matter how high the Craft (sculpting) check result, though, an astral
-construct’s appearance can’t hide the otherworldly material from which it is formed.
+construct's appearance can't hide the otherworldly material from which it is formed.
 
 #### Construct Traits:
  An astral construct has immunity to poison, _sleep,_ paralysis, stunning,
@@ -302,14 +302,14 @@ chooses one or more special abilities from a menu of abilities appropriate to th
 ### Creating an Astral Construct
 
 When manifesting the _astral construct_ power, the manifester assembles the desired creature from a menu of
-choices, as specified in the construct’s statistics block. A manifester can always substitute two choices from a
+choices, as specified in the construct's statistics block. A manifester can always substitute two choices from a
 lesser menu for one of its given abilities. Multiple selections of the same menu choice do not stack unless the
 ability specifically notes that stacking is allowed.
 
 Some menu choices grant an astral construct the ability to manifest specific powers as psi-like abilities. Unless
 using the ability is a free action, an astral construct manifesting such a power does so as a standard action that
-provokes attacks of opportunity. All such powers have a manifester level equal to the astral construct’s Hit Dice
-or the creator’s manifester level, whichever is lower.
+provokes attacks of opportunity. All such powers have a manifester level equal to the astral construct's Hit Dice
+or the creator's manifester level, whichever is lower.
 
 An astral construct does not need to meet the prerequisites for a feat granted by a menu choice.
 ### Astral Construct Menu a
@@ -320,7 +320,7 @@ this menu.
 #### Buff (Ex):
  The astral construct gains an extra 5 hit points.
 #### Celerity (Ex):
- The astral construct’s land speed is increased by 10 feet.
+ The astral construct's land speed is increased by 10 feet.
 #### Cleave (Ex):
  The astral construct gains the Cleave feat.
 #### Deflection (Ex):
@@ -354,7 +354,7 @@ A manifester creating a 4th-level, 5th-level, or 6th-level astral construct can 
 this menu. Alternatively, the construct can have two special abilities from Menu A.
 
 #### Energy Touch (Ex):
- If you are a kineticist, the astral construct’s physical attacks are wreathed
+ If you are a kineticist, the astral construct's physical attacks are wreathed
 in your energy type, dealing an extra 1d6 points of energy damage. If you are not a kineticist, the astral
 construct deals an extra 1d4 points of damage of an energy type you choose (fire, cold, acid, or electricity) when
 you manifest the construct.
@@ -379,7 +379,7 @@ destroyed when it reaches 0 hit points.
 attacks.
 
 #### Improved Damage Reduction (Ex):
- The astral construct’s surface forms a hard carapace and provides
+ The astral construct's surface forms a hard carapace and provides
 an additional 3 points of damage reduction (or damage reduction 3/magic if it does not already have damage
 reduction).
 
@@ -396,7 +396,7 @@ Improved Swim: The astral construct is streamlined and sharklike, and gains a sw
 
 #### Poison Touch (Ex):
  If the astral construct hits with a melee attack, the target must make an
-initial Fortitude save (DC 10 + 1/2 astral construct’s HD + astral construct’s Cha modifier) or take 1 point of
+initial Fortitude save (DC 10 + 1/2 astral construct's HD + astral construct's Cha modifier) or take 1 point of
 Constitution damage. One minute later, the target must save again or take 1d2 points of Constitution damage.
 
 #### Pounce (Ex):
@@ -410,7 +410,7 @@ to its Hit Dice.
  As a standard action during its turn each round, a Large or larger astral construct
 can literally run over an opponent at least one size smaller than itself. It merely has to move over the opponent
 to deal bludgeoning damage equal to 1d8 + its Str modifier. The target can attempt a Reflex save (DC 10 + 1/2
-astral construct’s Hit Dice + astral construct’s Str modifier) to negate the damage, or it can instead choose to
+astral construct's Hit Dice + astral construct's Str modifier) to negate the damage, or it can instead choose to
 make an attack of opportunity at a -4 penalty.
 
 ### Astral Construct Menu C
@@ -443,7 +443,7 @@ creates it.
  The astral construct gains an extra 30 hit points.
 
 #### Extreme Damage Reduction (Ex):
- The astral construct’s surface forms hard, armor-like plates and
+ The astral construct's surface forms hard, armor-like plates and
 provides an additional 6 points of damage reduction.
 
 #### Extreme Deflection (Ex):
@@ -478,19 +478,19 @@ extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 | Attack: | Slam +3 melee (1d4+3) |
 | Full Attack: | Slam +3 melee (1d4+3) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | One ability from Menu A, construct traits, darkvision 60 ft., low-light vision |
 | Saves: | Fort +0, Ref +2, Will +0 |
-| Abilities: | Str 15, Dex 15, Con ---, Int ---, Wis 11, Cha 10 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 15, Dex 15, Con --, Int --, Wis 11, Cha 10 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary |
 | Challenge Rating: | 1/2 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 ## 2nd-Level Astral Construct
 
@@ -504,19 +504,19 @@ extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 | Attack: | Slam +4 melee (1d6+4) |
 | Full Attack: | Slam +4 melee (1d6+4) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | traits, darkvision 60 ft., low-light vision |
 | Saves: | Fort +0, Ref +2, Will +0 |
-| Abilities: | Str 17, Dex 15, Con ---, Int ---, Wis 11, Cha 10 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 17, Dex 15, Con --, Int --, Wis 11, Cha 10 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary |
 | Challenge Rating: | 1 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 ## 3rd-Level Astral Construct
 
@@ -530,19 +530,19 @@ extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 | Attack: | Slam +7 melee (1d6+7) |
 | Full Attack: | Slam +7 melee (1d6+7) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | One ability from Menu A, construct traits, darkvision 60 ft., low-light vision |
 | Saves: | Fort +1, Ref +3, Will +1 |
-| Abilities: | Str 21, Dex 15, Con ---, Int ---, Wis 11, Cha 10 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 21, Dex 15, Con --, Int --, Wis 11, Cha 10 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary |
 | Challenge Rating: | 2 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 ## 4th-Level Astral Construct
 
@@ -556,19 +556,19 @@ extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 | Attack: | Slam +10 melee (1d6+10) |
 | Full Attack: | Slam +10 melee (1d6+10) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | One ability from Menu B, construct traits, darkvision 60 ft., low-light vision |
 | Saves: | Fort +1, Ref +3, Will +1 |
-| Abilities: | Str 25, Dex 15, Con ---, Int ---, Wis 11, Cha 10 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 25, Dex 15, Con --, Int --, Wis 11, Cha 10 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary |
 | Challenge Rating: | 3 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 ## 5th-Level Astral Construct
 
@@ -582,19 +582,19 @@ extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 | Attack: | Slam +13 melee (1d8+9) |
 | Full Attack: | 2 slams +13 melee (1d8+9) |
 | Space/Reach: | 10 ft./10 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | One ability from Menu B, construct traits, damage reduction 5/magic, darkvision 60 ft., lowlight vision |
 | Saves: | Fort +2, Ref +3, Will +2 |
-| Abilities: | Str 29, Dex 13, Con ---, Int ---, Wis 11, Cha 10 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 29, Dex 13, Con --, Int --, Wis 11, Cha 10 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary |
 | Challenge Rating: | 5 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 ## 6th-Level Astral Construct
 
@@ -608,19 +608,19 @@ extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 | Attack: | Slam +17 melee (1d8+11) |
 | Full Attack: | 2 slams +17 melee (1d8+11) |
 | Space/Reach: | 10 ft./10 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | One ability from Menu B, construct traits, damage reduction 10/magic, darkvision 60 ft., lowlight vision |
 | Saves: | Fort +3, Ref +4, Will +3 |
-| Abilities: | Str 33, Dex 13, Con ---, Int ---, Wis 11, Cha 10 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 33, Dex 13, Con --, Int --, Wis 11, Cha 10 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary |
 | Challenge Rating: | 7 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 ## 7th-Level Astral Construct
 
@@ -634,19 +634,19 @@ extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 | Attack: | Slam +20 melee (1d8+12) |
 | Full Attack: | 2 slams +20 melee (1d8+12) |
 | Space/Reach: | 10 ft./10 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | One ability from Menu C, construct traits, damage reduction 10/magic, darkvision 60 ft., lowlight vision |
 | Saves: | Fort +4, Ref +5, Will +4 |
-| Abilities: | Str 35, Dex 13, Con ---, Int ---, Wis 11, Cha 10 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 35, Dex 13, Con --, Int --, Wis 11, Cha 10 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary |
 | Challenge Rating: | 8 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 ## 8th-Level Astral Construct
 
@@ -660,19 +660,19 @@ extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 | Attack: | Slam +25 melee (1d8+14) |
 | Full Attack: | 2 slams +25 melee (1d8+14) |
 | Space/Reach: | 10 ft./10 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | One ability from Menu C, construct traits, damage reduction 15/magic, darkvision 60 ft., lowlight vision |
 | Saves: | Fort +5, Ref +6, Will +5 |
-| Abilities: | Str 39, Dex 13, Con ---, Int ---, Wis 11, Cha 10 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 39, Dex 13, Con --, Int --, Wis 11, Cha 10 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary |
 | Challenge Rating: | 9 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 ## 9th-Level Astral Construct
 
@@ -686,19 +686,19 @@ extra damage equal to 2d6 + 1-1/2 times its Str modifier.
 | Attack: | Slam +28 melee (2d6+16) |
 | Full Attack: | 2 slams +28 melee (2d6+16) |
 | Space/Reach: | 15 ft./15 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Two abilities from Menu C, construct traits, damage reduction 15/magic, darkvision 60 ft., lowlight vision |
 | Saves: | Fort +6, Ref +6, Will +6 |
-| Abilities: | Str 43, Dex 11, Con ---, Int ---, Wis 11, Cha 10 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 43, Dex 11, Con --, Int --, Wis 11, Cha 10 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary |
 | Challenge Rating: | 10 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 ## Blue
 
@@ -746,7 +746,7 @@ battle.
 #### Psionic Powers:
  The blue described here is a 1st-level psion.
 
-_Typical Psion Powers Known_ (power points 3*; save DC 12 + power level): 1st---_inertial armor, mind thrust_
+_Typical Psion Powers Known_ (power points 3*; save DC 12 + power level): 1st--_inertial armor, mind thrust_
 (DC 13), _psionic charm_ (DC 13).
 
 Manifester level 1st. The save DCs are Intelligence-based.
@@ -763,18 +763,18 @@ Blues tend to be psions, although blues raised in communities where their kind a
 wilder.
 
 Blue characters possess the following racial traits.
---- -2 Strength, +2 Intelligence, -2 Charisma.
+-- -2 Strength, +2 Intelligence, -2 Charisma.
 
----Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Hide checks, -4 penalty on grapple
+--Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Hide checks, -4 penalty on grapple
 checks, lifting and carrying limits 3/4 of those of Medium characters.
 
----Blue base land speed is 30 feet.
----Darkvision out to 60 feet.
----Naturally Psionic: Blues gain 1 bonus power point at 1st level.
---- Racial Skills: A blue character has a +4 racial bonus on Move Silently checks and Ride checks.
----Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
----Favored Class: Psion.
----Level Adjustment: +1.
+--Blue base land speed is 30 feet.
+--Darkvision out to 60 feet.
+--Naturally Psionic: Blues gain 1 bonus power point at 1st level.
+-- Racial Skills: A blue character has a +4 racial bonus on Move Silently checks and Ride checks.
+--Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
+--Favored Class: Psion.
+--Level Adjustment: +1.
 ## Brain Mole
 
 |  | Tiny Magical Beast (Psionic) |
@@ -798,13 +798,13 @@ checks, lifting and carrying limits 3/4 of those of Medium characters.
 | Challenge Rating: | 1/2 |
 | Treasure: | None |
 | Alignment: | Always neutral |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 Brain moles are burrowing animals that use psionic powers to overcome large psionic prey. Small, furry, and nearly
 blind, brain moles are almost indistinguishable from their common animal cousins.
 
-Brain moles eat small insects when they can’t get psionic energy.
+Brain moles eat small insects when they can't get psionic energy.
 ### Combat
 
 Brain moles hunger for psionic energy. They hide in loose dirt and detritus on forest floors, watching for the
@@ -814,11 +814,11 @@ threatened, they use _aversion_ and _mind thrust_ to discourage attackers, using
 last resort.
 
 #### Cascade Flu (Ex):
- Disease---bite; Fortitude DC 9, incubation period one day, damage psionic cascade
+ Disease--bite; Fortitude DC 9, incubation period one day, damage psionic cascade
 (every time an afflicted character manifests a power, she must make a DC 16 Concentration check; on a failed
 check, a psionic cascade is triggered [see Psionic Maladies]). The save DC is Constitution-based.
 
-#### Psi-Like Abilities: At will---_detect psionics, power leech_ (ML 5th, DC 14); 3/day---_aversion_
+#### Psi-Like Abilities: At will--_detect psionics, power leech_ (ML 5th, DC 14); 3/day--_aversion_
 (DC 12)_, mind thrust_ (DC 11). Manifester level 1st. The save DCs are Charisma-based.
 
 #### Hide Mind (Su):
@@ -842,14 +842,14 @@ penalty on Spot checks.
 | Initiative: | +7 |
 | Speed: | 30 ft. (6 squares), fly 60 ft. (good) |
 | Armor Class: | 14 (-1 size, +3 Dex, +2 deflection), touch 14, flat-footed 11 |
-| Base Attack/Grapple: | +5/--- |
+| Base Attack/Grapple: | +5/-- |
 | Attack: | Incorporeal touch +7 melee (2d6) |
 | Full Attack: | 4 incorporeal touches +7 melee (2d6) |
 | Space/Reach: | 10 ft./10 ft. |
 | Special Attacks: | Psi-like abilities, steal essence |
 | Special Qualities: | Incorporeal traits, undead traits, unnatural aura, vulnerability to sunlight |
 | Saves: | Fort +3, Ref +6, Will +9 |
-| Abilities: | Str ---, Dex 16, Con ---, Int 14, Wis 14, Cha 15 |
+| Abilities: | Str --, Dex 16, Con --, Int 14, Wis 14, Cha 15 |
 | Skills: | Hide +9, Intimidate +12, Knowledge (psionics) +12, Listen +14, Psicraft +12, Search +12, Sense Motive +12, Spot +14 |
 | Feats: | Blind-Fight, Combat Reflexes, Improved Initiative, Weapon Finesse |
 | Environment: | Underground |
@@ -858,7 +858,7 @@ penalty on Spot checks.
 | Treasure: | None |
 | Alignment: | Always chaotic evil |
 | Advancement: | 12-22 HD (Large); 23-33 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 A caller in darkness is an incorporeal creature composed of the minds of dozens of victims who died together in
 terror. It seeks to draw others into its fearwracked, hellish existence.
@@ -866,22 +866,22 @@ terror. It seeks to draw others into its fearwracked, hellish existence.
 Callers in darkness rarely speak, but when they do, they speak Common.
 ### Combat
 
-#### Psi-Like Abilities: At will---_clairvoyant sense, concussion blast_ (two targets, 3d6*)_, detect psionics, ego whip_
-(2d4, DC 16*), _mind thrust_ (7d10, DC 16*); 3/day---_death urge_ (DC 16), _psychic crush_ (DC 13**),
-_psionic suggestion_ (three targets, DC 14*); 1/ day---_co-opt concentration_ (DC 18). Manifester level
+#### Psi-Like Abilities: At will--_clairvoyant sense, concussion blast_ (two targets, 3d6*)_, detect psionics, ego whip_
+(2d4, DC 16*), _mind thrust_ (7d10, DC 16*); 3/day--_death urge_ (DC 16), _psychic crush_ (DC 13**),
+_psionic suggestion_ (three targets, DC 14*); 1/ day--_co-opt concentration_ (DC 18). Manifester level
 7th. The save DCs are Charisma-based.
 
-*Includes augmentation for the caller’s manifester level.
+*Includes augmentation for the caller's manifester level.
 **Includes the inherent +4 save adjustment described in the power.
 
 #### Steal Essence (Su):
- Any living, intelligent creature slain by a caller in darkness’s touch attack
-is mentally absorbed into the monster’s consciousness. (The physical body of the victim remains intact). Stealing
-a victim’s essence is a free action; it grants the caller 12 temporary hit points, and a permanent new screaming
+ Any living, intelligent creature slain by a caller in darkness's touch attack
+is mentally absorbed into the monster's consciousness. (The physical body of the victim remains intact). Stealing
+a victim's essence is a free action; it grants the caller 12 temporary hit points, and a permanent new screaming
 face appears within its cloud.
 
 A caller in darkness can also steal the essence of living, intelligent creatures within 30 feet that are paralyzed
-or sleeping, or that are helpless due to having a mental ability score reduced to 0 (often by the caller’s
+or sleeping, or that are helpless due to having a mental ability score reduced to 0 (often by the caller's
 _ego whip_ attack). Doing so is a standard action that provokes attacks of opportunity. The victim dies, and
 the caller gains 12 temporary hit points.
 
@@ -891,7 +891,7 @@ weapons, spells, spell-like abilities, and supernatural abilities. It has a 50% 
 corporeal source, except for force effects or attacks made with ghost touch weapons. It can pass through solid
 objects, but not force effects, at will. Its attacks ignore natural armor, armor, and shields, but deflection
 bonuses and force effects work normally against them. The creature always moves silently and cannot be heard with
-Listen checks if it doesn’t wish to be.
+Listen checks if it doesn't wish to be.
 
 #### Undead Traits:
  A caller in darkness is immune to mind-affecting effects, poison,
@@ -943,19 +943,19 @@ _ego whip_ and _id insinuation_ attacks. In melee, cerebriliths often use their 
 gain psionic focus, so that they can use Psionic Fist or Unavoidable Strike (the latter in conjunction with Power
 Attack).
 
-A cerebrilith’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned
+A cerebrilith's natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned
 for the purpose of overcoming damage reduction.
 
 #### Psi-Like Abilities:
- At will---_brain lock_ (any nonmindless, DC 17*),
+ At will--_brain lock_ (any nonmindless, DC 17*),
 _detect psionics, ego whip_ (2d4, DC 19*)_, id insinuation_ (four targets, DC 20*)_, mind trap_ (5
-rounds*); 3/day---_psionic dominate_ (24 hours, DC 20*), _ectoplasmic form_, _mind probe_ (DC 20);
-1/day---_mind thrust_ (9d10, DC 20*). Manifester level 9th. The save DCs are Charisma-based.
+rounds*); 3/day--_psionic dominate_ (24 hours, DC 20*), _ectoplasmic form_, _mind probe_ (DC 20);
+1/day--_mind thrust_ (9d10, DC 20*). Manifester level 9th. The save DCs are Charisma-based.
 
-*Includes augmentation for the cerebrilith’s manifester level.
+*Includes augmentation for the cerebrilith's manifester level.
 
 #### Spell-Like Abilities:
- At will---_deeper darkness, desecrate, detect good, dispel good_ (DC
+ At will--_deeper darkness, desecrate, detect good, dispel good_ (DC
 20)_, greater teleport_ (self plus 50 pounds of objects only), _magic circle against good_ (DC 18)_, unholy blight_
 (DC 19). Caster level 9th. The save DCs are Charisma-based.
 
@@ -980,11 +980,11 @@ The psionic couatl does not possess the psionic spell-like abilities of the stan
 psi-like abilities.
 
 #### Psi-Like Abilities:
- At will---_aura sight, cloud mind_ (DC 15),
-_detect psionics, read thoughts_ (DC 15); 3/day---_mental barrier_ (2 rounds*)_, metamorphosis, psionic plane shift, thought shield_
+ At will--_aura sight, cloud mind_ (DC 15),
+_detect psionics, read thoughts_ (DC 15); 3/day--_mental barrier_ (2 rounds*)_, metamorphosis, psionic plane shift, thought shield_
 (power resistance 19*). Manifester level 9th. The save DCs are Charisma-based.
 
-*Includes augmentation for the psionic couatl’s manifester level.
+*Includes augmentation for the psionic couatl's manifester level.
 ## Crysmal
 
 |  | Small Elemental (Earth, Psionic) |
@@ -1009,7 +1009,7 @@ _detect psionics, read thoughts_ (DC 15); 3/day---_mental barrier_ (2 rounds*)_,
 | Treasure: | Double goods (gems only) |
 | Alignment: | Any lawful |
 | Advancement: | 7-12 HD (Medium); 13-18 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 A conglomerate of stone and crystal, a crysmal above all else seeks to perpetuate its kind.
 
@@ -1019,10 +1019,10 @@ cycle: To make a single juvenile, a crysmal generally needs eight to ten gems, e
 Crysmals understand Terran but do not speak.
 ### Combat
 
-#### Psi-Like Abilities: At will---_control object, control sound, detect psionics, empty mind, mind thrust_
-(2d10, DC 13*); 3/day---_psionic dimension door._ Manifester level 2nd. The save DCs are Charisma-based.
+#### Psi-Like Abilities: At will--_control object, control sound, detect psionics, empty mind, mind thrust_
+(2d10, DC 13*); 3/day--_psionic dimension door._ Manifester level 2nd. The save DCs are Charisma-based.
 
-*Includes augmentation for the crysmal’s manifester level.
+*Includes augmentation for the crysmal's manifester level.
 #### Skills:
  Crysmals have a +8 racial bonus on Appraise checks and Spot checks.
 ## Dromite
@@ -1072,24 +1072,24 @@ The dromite warrior presented here had the following ability scores before racia
 
 ### Dromites as Characters
 Dromite characters possess the following racial traits.
---- +2 Charisma, -2 Strength, -2 Wisdom.
+-- +2 Charisma, -2 Strength, -2 Wisdom.
 
----Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Hide checks, -4 penalty on grapple
+--Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on Hide checks, -4 penalty on grapple
 checks, lifting and carrying limits 3/4 of those of Medium characters.
 
----Dromite base land speed is 20 feet.
---- +3 natural armor bonus.
----Naturally Psionic: Dromites gain 1 bonus power point at 1st level.
----Special Attacks (see above): Psi-like abilities.
+--Dromite base land speed is 20 feet.
+-- +3 natural armor bonus.
+--Naturally Psionic: Dromites gain 1 bonus power point at 1st level.
+--Special Attacks (see above): Psi-like abilities.
 
----Special Qualities (see above): Resistance to fire 5 (other dromites may have resistance to cold, electricity, or
+--Special Qualities (see above): Resistance to fire 5 (other dromites may have resistance to cold, electricity, or
 sonics instead of fire), scent.
 
---- Racial Skills: Dromites have a +2 racial bonus on Spot checks due to their compound eyes.
---- Racial Feats: Dromites gain Blind-fight as a bonus feat.
----Automatic Languages: Common. Bonus Languages: Dwarven, Gnome, Goblin, Terran.
----Favored Class: Wilder.
----Level Adjustment: +1.
+-- Racial Skills: Dromites have a +2 racial bonus on Spot checks due to their compound eyes.
+-- Racial Feats: Dromites gain Blind-fight as a bonus feat.
+--Automatic Languages: Common. Bonus Languages: Dwarven, Gnome, Goblin, Terran.
+--Favored Class: Wilder.
+--Level Adjustment: +1.
 ## Duergar, Psionic
 Duergar, 1st-Level Warrior
 Medium Humanoid (Dwarf, Psionic)
@@ -1101,30 +1101,30 @@ A psionic duergar does not possess the spell-like abilities of standard duergars
 abilities.
 
 #### Psi-Like Abilities:
- 1/day---_expansion, invisibility._
-These abilities are as the power (or spell) manifested by a psion (or sorcerer) of the duergar’s Hit Dice (minimum
+ 1/day--_expansion, invisibility._
+These abilities are as the power (or spell) manifested by a psion (or sorcerer) of the duergar's Hit Dice (minimum
 3rd level) and affect only the duergar and whatever he carries.
 
 ### Duergar as Characters
 Duergar characters possess the following racial traits.
---- +2 Constitution, -4 Charisma.
----Medium size.
+-- +2 Constitution, -4 Charisma.
+--Medium size.
 
----Duergar base land speed is 20 feet. However, gray dwarves can move at this speed even when wearing medium or
+--Duergar base land speed is 20 feet. However, gray dwarves can move at this speed even when wearing medium or
 heavy armor or when carrying a medium or heavy load (unlike other creatures, whose speed is reduced in such
 situations).
 
----Darkvision out to 120 feet.
----Immunity to paralysis, phantasms, and poison.
---- +2 racial bonus on saves against spells and spell-like effects.
+--Darkvision out to 120 feet.
+--Immunity to paralysis, phantasms, and poison.
+-- +2 racial bonus on saves against spells and spell-like effects.
 
----Stability: Duergar are exceptionally stable on their feet. A duergar receives a +4 bonus on ability checks made
+--Stability: Duergar are exceptionally stable on their feet. A duergar receives a +4 bonus on ability checks made
 to resist being bull rushed or tripped when standing on the ground (but not when climbing, flying, riding or
 otherwise not standing firmly on the ground).
 
----Stonecunning: This ability grants a duergar a +2 racial bonus on Search checks to notice unusual stonework, such
+--Stonecunning: This ability grants a duergar a +2 racial bonus on Search checks to notice unusual stonework, such
 as sliding walls, stonework, traps, new construction (even when built to match the old), unsafe stone surfaces,
-shaky stone ceilings, and the like. Something that isn’t stone but that is disguised as stone also counts as
+shaky stone ceilings, and the like. Something that isn't stone but that is disguised as stone also counts as
 unusual stonework. A gray dwarf who merely comes within 10 feet of unusual stonework can make a Search check as if
 he were actively searching, and a duergar can use the Search skill to find stonework traps as a rogue can. A
 duergar can also intuit depth, sensing his approximate depth underground as naturally as a human can sense which
@@ -1133,24 +1133,24 @@ way is up.
 Duergar have a sixth sense about stonework, an innate ability that they get plenty of opportunity to practice and
 hone in their underground homes.
 
----Psi-Like Abilities: 1/day---expansion, invisibility. These abilities affect only the duergar and whatever he
+--Psi-Like Abilities: 1/day--expansion, invisibility. These abilities affect only the duergar and whatever he
 carries. Manifester level is equal to Hit Dice (minimum 3rd).
 
----Naturally Psionic: Duergar gain 3 bonus power points at 1st level. This benefit does not grant them the ability
+--Naturally Psionic: Duergar gain 3 bonus power points at 1st level. This benefit does not grant them the ability
 to manifest powers unless they gain that ability through another source, such as levels in a psionic class.
 
---- +1 racial bonus on attack rolls against orcs (including half-orcs) and goblinoids (including goblins,
+-- +1 racial bonus on attack rolls against orcs (including half-orcs) and goblinoids (including goblins,
 hobgoblins, and bugbears).
 
---- +4 dodge bonus to Armor Class against creatures of the giant type (such as ogres, trolls, and hill giants).
----Light Sensitivity (Ex): Duergar are dazzled in sunlight or within the radius of a daylight spell.
+-- +4 dodge bonus to Armor Class against creatures of the giant type (such as ogres, trolls, and hill giants).
+--Light Sensitivity (Ex): Duergar are dazzled in sunlight or within the radius of a daylight spell.
 
----Duergar have a +4 racial bonus on Move Silently checks and a +1 racial bonus on Listen and Spot checks. They have
+--Duergar have a +4 racial bonus on Move Silently checks and a +1 racial bonus on Listen and Spot checks. They have
 a +2 racial bonus on Appraise and Craft checks that are related to stone or metal.
 
----Automatic Languages: Common, Dwarven, Undercommon. Bonus Languages: Draconic, Giant, Goblin, Orc, Terran.
----Favored Class: Fighter.
----Level Adjustment: +1.
+--Automatic Languages: Common, Dwarven, Undercommon. Bonus Languages: Draconic, Giant, Goblin, Orc, Terran.
+--Favored Class: Fighter.
+--Level Adjustment: +1.
 ## Elan
 
 |  | Elan, 1st-Level Warrior |
@@ -1164,7 +1164,7 @@ a +2 racial bonus on Appraise and Craft checks that are related to stone or meta
 | Attack: | Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3) |
 | Full Attack: | Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Repletion, resilience, resistance |
 | Saves: | Fort +3, Ref +0, Will -1 |
 | Abilities: | Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 6 |
@@ -1201,15 +1201,15 @@ The elan warrior presented here had the following ability scores before racial a
 
 ### Elans as Characters
 Elan characters possess the following racial traits.
---- -2 Charisma.
----Medium size.
----Elan base land speed is 30 feet.
----No darkvision.
----Naturally Psionic: Elans gain 1 bonus power point at 1st level.
----Special Qualities (see above): Repletion, resilience, resistance.
----Automatic Languages: Common.
----Favored Class: Psion.
----Level Adjustment: +0.
+-- -2 Charisma.
+--Medium size.
+--Elan base land speed is 30 feet.
+--No darkvision.
+--Naturally Psionic: Elans gain 1 bonus power point at 1st level.
+--Special Qualities (see above): Repletion, resilience, resistance.
+--Automatic Languages: Common.
+--Favored Class: Psion.
+--Level Adjustment: +0.
 ## Folugub
 
 |  | Medium-Size Aberration |
@@ -1234,7 +1234,7 @@ Elan characters possess the following racial traits.
 | Treasure: | None |
 | Alignment: | Always neutral |
 | Advancement: | 5-6 HD (Medium); 7-14 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 ### Combat
 
@@ -1274,12 +1274,12 @@ A crystalline weapon that deals damage to a folugub becomes liquefied immediatel
 | Treasure: | None |
 | Alignment: | Always neutral |
 | Advancement: | 10-20 HD (Huge); 21-27 HD (Gargantuan) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 ### Combat
 
 A gray glutton attacks anything psionic, or anything that stands in its way of tracking down new psionic prey. Of
-course, a gray glutton has to eat---and eat a lot to feed its bulk---so when not on the scent it will attack any
+course, a gray glutton has to eat--and eat a lot to feed its bulk--so when not on the scent it will attack any
 living creature. It always breaks off attacks against nonpsionic foes if psionic prey is an option. The only
 creatures it refuses to eat are elves (and it dislikes the taste of dwarves). No challenge seems too extreme to
 it, even if that means bulling into the center of a powerful party of manifesters.
@@ -1306,7 +1306,7 @@ Once a gray glutton has used its exhalation, it must wait 4 rounds before it can
 | Full Attack: | Large greatsword +4 melee (3d6+3/19-20) or Large javelin +0 ranged (1d8+2) |
 | Space/Reach: | 5 ft./5 ft. |
 | Special Attacks: | Psi-like abilities |
-| Special Qualities: | Fire acclimated, giant’s stature, low-light vision |
+| Special Qualities: | Fire acclimated, giant's stature, low-light vision |
 | Saves: | Fort +4, Ref -1, Will -1 |
 | Abilities: | Str 15, Dex 9, Con 14, Int 10, Wis 9, Cha 8 |
 | Skills: | Listen +1, Spot +1 |
@@ -1341,30 +1341,30 @@ and effects.
 they were one size category larger. Whenever a half-giant is subject to a size modifier or special size modifier
 for an opposed check (such as during grapple checks, bull rush attempts, and trip attempts), the half-giant is
 treated as one size larger if doing so is advantageous to him. A half-giant is also considered to be one size
-larger when determining whether a creature’s special attacks based on size (such as improved grab or swallow
+larger when determining whether a creature's special attacks based on size (such as improved grab or swallow
 whole) can affect him. A half-giant can use weapons designed for a creature one size larger without penalty.
 However, his space and reach remain those of a creature of his actual size. The benefits of this racial trait
-stack with the effects of powers, abilities, and spells that change the subject’s size category.
+stack with the effects of powers, abilities, and spells that change the subject's size category.
 
 The half-giant warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11,
 Con 12, Int 10, Wis 9, Cha 8.
 
 ### Half-Giants as Characters
 Half-giant characters possess the following racial traits.
---- +2 Constitution, +2 Strength, -2 Dexterity.
----Medium size.
----Half-giant base land speed is 30 feet.
----Low-light vision.
+-- +2 Constitution, +2 Strength, -2 Dexterity.
+--Medium size.
+--Half-giant base land speed is 30 feet.
+--Low-light vision.
 
----Naturally Psionic: Half-giants gain 2 bonus power points at 1st level, regardless of whether they choose a
+--Naturally Psionic: Half-giants gain 2 bonus power points at 1st level, regardless of whether they choose a
 psionic class.
 
----Fire Acclimated: Half-giants have a +2 racial bonus on saving throws against all fire spells and effects.
----Powerful build (see above).
----Special Attacks (see above): Psi-like abilities.
----Automatic Language: Common. Bonus Language: Draconic, Giant, Gnoll, Ignan.
----Favored Class: Psychic warrior.
----Level adjustment: +1.
+--Fire Acclimated: Half-giants have a +2 racial bonus on saving throws against all fire spells and effects.
+--Powerful build (see above).
+--Special Attacks (see above): Psi-like abilities.
+--Automatic Language: Common. Bonus Language: Draconic, Giant, Gnoll, Ignan.
+--Favored Class: Psychic warrior.
+--Level adjustment: +1.
 ## Intellect Devourer
 
 |  | Small Aberration (Evil, Psionic) |
@@ -1397,30 +1397,30 @@ possession of a body also knows the languages known by that victim.
 ### Combat
 
 #### Body Thief (Su):
- When an intellect devourer overcomes a lone victim, it consumes the victim’s
+ When an intellect devourer overcomes a lone victim, it consumes the victim's
 brain and enters the skull. As a full-round action that provokes attacks of opportunity, the devourer can merge
 its form with that of a helpless or dead creature of Small size or larger. The devourer cannot merge its body with
 that of a creature immune to extra damage from critical hits.
 
 When an intellect devourer completes its merging, it psionically consumes the brain of the victim (which kills it
-if it is not already dead). The devourer can exit the body at any time as a standard action, bursting the victim’s
+if it is not already dead). The devourer can exit the body at any time as a standard action, bursting the victim's
 skull and resuming its normal form.
 
-After consuming its victim’s brain, an intellect devourer can instead choose to animate the body for up to seven
-days as if it were the victim’s original brain. The devourer retains its hit points, saving throws, and mental
+After consuming its victim's brain, an intellect devourer can instead choose to animate the body for up to seven
+days as if it were the victim's original brain. The devourer retains its hit points, saving throws, and mental
 ability scores, as well as its psi-like abilities. It assumes the physical qualities and ability scores of the
 victim, as if it had used
-_polymorph_ to assume the victim’s form. As long as the intellect devourer occupies the body, it knows the
-languages spoken by the victim and very basic information about the victim’s identity and personality, but none of
-the victim’s specific memories or knowledge.
+_polymorph_ to assume the victim's form. As long as the intellect devourer occupies the body, it knows the
+languages spoken by the victim and very basic information about the victim's identity and personality, but none of
+the victim's specific memories or knowledge.
 
 #### Psi-Like Abilities:
- At will---_cloud mind, compression, detect psionics, ego whip_ (2d4, DC
-16*), _empty mind_ (+5 on Will saves*), _id insinuation_ (three targets, DC 16*); 3/day---_body adjustment_
+ At will--_cloud mind, compression, detect psionics, ego whip_ (2d4, DC
+16*), _empty mind_ (+5 on Will saves*), _id insinuation_ (three targets, DC 16*); 3/day--_body adjustment_
 (2d12*), _intellect fortress, painful strike._ Manifester level 7th.
 
 The save DCs are Charisma-based.
-*Includes augmentation for the intellect devourer’s manifester level.
+*Includes augmentation for the intellect devourer's manifester level.
 
 #### Blindsight (Ex):
  An intellect devourer can use nonvisual means to ascertain all foes within 60
@@ -1469,7 +1469,7 @@ Maenads speak their own language and Common.
 ### Combat
 
 #### Psi-Like Abilities:
- 1/day---_energy ray_. A maenad can deal only sonic damage with this
+ 1/day--_energy ray_. A maenad can deal only sonic damage with this
 ability. Manifester level equal to 1/2 Hit Dice (minimum 1st). The save DC is Charisma-based.
 
 #### Outburst (Ex):
@@ -1478,14 +1478,14 @@ ability. Manifester level equal to 1/2 Hit Dice (minimum 1st). The save DC is Ch
 
 ### Maenads as Characters
 Maenad characters possess the following racial traits.
----Medium size.
----Maenad base land speed is 30 feet.
----Naturally Psionic: Maenads gain 2 bonus power points at 1st level.
---- Special Attacks (see above): Psi-like abilities.
----Special Qualities (see above): Outburst.
----Automatic Languages: Common, Maenad. Bonus Languages: Aquan, Draconic, Dwarven, Elven, Goblin.
----Favored Class: Wilder.
----Level Adjustment: +0.
+--Medium size.
+--Maenad base land speed is 30 feet.
+--Naturally Psionic: Maenads gain 2 bonus power points at 1st level.
+-- Special Attacks (see above): Psi-like abilities.
+--Special Qualities (see above): Outburst.
+--Automatic Languages: Common, Maenad. Bonus Languages: Aquan, Draconic, Dwarven, Elven, Goblin.
+--Favored Class: Wilder.
+--Level Adjustment: +0.
 ## Neothelid
 
 |  | Gargantuan Aberration (Psionic) |
@@ -1510,7 +1510,7 @@ Maenad characters possess the following racial traits.
 | Treasure: | Standard |
 | Alignment: | Always lawful evil |
 | Advancement: | 26-45 HD (Colossal) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 A mature neothelid is a gigantic worm scores of feet long and weighing tens of thousands of pounds. Although they
 understand Undercommon, they rarely communicate in a meaningful way.
@@ -1527,14 +1527,14 @@ during the same attack. If it gets a hold, it automatically deals tentacle damag
 foe.
 
 #### Psi-Like Abilities:
- At will---_body equilibrium, psionic charm_
+ At will--_body equilibrium, psionic charm_
 (all targets, duration 15 days, DC 21*),
 _clairvoyant sense, psionic levitate, read thoughts_ (DC 17*), _psionic suggestion_ (seven targets, DC
 17*), _telekinetic force_ (500 lb., DC 18*), _telekinetic maneuver_ (+4 bonus, DC 19*),
-_telekinetic thrust_ (500 lb., DC 18*), _psionic teleport, trace teleport, truevenom_ (DC 19); 3/day---_mind thrust_
+_telekinetic thrust_ (500 lb., DC 18*), _psionic teleport, trace teleport, truevenom_ (DC 19); 3/day--_mind thrust_
 (15d10, DC 23*), _psychic thrust_ (6d6, DC 16**). Manifester level 15th. The save DCs are Charisma-based.
 
-*Includes augmentation for the neothelid’s manifester level.
+*Includes augmentation for the neothelid's manifester level.
 **Includes the inherent +4 save adjustment described in the power.
 
 #### Swallow Whole (Ex):
@@ -1542,7 +1542,7 @@ _telekinetic thrust_ (500 lb., DC 18*), _psionic teleport, trace teleport, truev
 itself by making a successful grapple check. Once inside, the opponent takes 2d8+15 points of crushing damage plus
 2d6 points of acid damage per round from stomach secretions. A swallowed creature can cut its way out by using a
 light slashing or piercing weapon to deal 25 points of damage to the stomach (AC 22). Once the creature exits,
-muscular action closes the hole; another swallowed opponent must cut its own way out. A neothelid’s interior can
+muscular action closes the hole; another swallowed opponent must cut its own way out. A neothelid's interior can
 hold 1 Huge, 2 Large, 8 Medium, 32 Small, 128 Tiny, or 512 Diminutive or smaller opponents.
 
 #### Blindsight (Ex):
@@ -1554,37 +1554,37 @@ Seemingly no different from standard examples of their kind, phrenic creatures h
 
 Monsters who naturally possess psionic ability are not found as phrenic creatures. Phrenic creatures are freaks
 among their kind, otherwise normal creatures whose minds are more powerful than those of their fellows. Similarly,
-creatures who advance by character class are usually not phrenic creatures---they simply take levels in a psionic
+creatures who advance by character class are usually not phrenic creatures--they simply take levels in a psionic
 class to hone their mental powers.
 
 ### Creating a Phrenic Creature
 
 "Phrenic" is an inherited template that can be added to any nonmindless creature that does not already have the
-psionic subtype (referred to hereafter as the "base creature"). A phrenic creature uses all the base creature’s
+psionic subtype (referred to hereafter as the "base creature"). A phrenic creature uses all the base creature's
 statistics and special abilities except as noted here.
 
 #### Size and Type:
- The creature’s type does not change, unless it is an animal (in which case it
+ The creature's type does not change, unless it is an animal (in which case it
 becomes a magical beast [augmented animal]). It gains the psionic subtype.
 
 #### Psi-Like Abilities (Sp):
  A phrenic creature possesses the psi-like abilities indicated below,
 depending on its Hit Dice. The abilities are cumulative. Unless otherwise noted, an ability is usable once per
-day. Manifester level is equal to the creature’s HD. The save DCs for a phrenic creature’s psi-like abilities are
+day. Manifester level is equal to the creature's HD. The save DCs for a phrenic creature's psi-like abilities are
 Charisma-based.
 
 | HD | Abilities |
 | --- | --- |
-| 1-2 | 3/day---_defensive precognition;_ 1/day---_force screen_ |
-| 3-4 | 3/day---_empty mind, mind thrust_ |
-| 5-6 | 1/day---_body adjustment, brain lock_ |
-| 7-8 | 1/day---_aversion, blast_ |
-| 9-10 | 3/day---_intellect fortress;_ 1/day---_psychic crush_ |
-| 11-12 | 1/day---_psionic dominate_ |
-| 13-14 | 1/day---_energy current, tower of iron will_ |
-| 15-16 | 3/day---_psionic teleport_ |
-| 17-18 | 1/day---_fission_ |
-| 19-20 | 1/day---_ultrablast_ |
+| 1-2 | 3/day--_defensive precognition;_ 1/day--_force screen_ |
+| 3-4 | 3/day--_empty mind, mind thrust_ |
+| 5-6 | 1/day--_body adjustment, brain lock_ |
+| 7-8 | 1/day--_aversion, blast_ |
+| 9-10 | 3/day--_intellect fortress;_ 1/day--_psychic crush_ |
+| 11-12 | 1/day--_psionic dominate_ |
+| 13-14 | 1/day--_energy current, tower of iron will_ |
+| 15-16 | 3/day--_psionic teleport_ |
+| 17-18 | 1/day--_fission_ |
+| 19-20 | 1/day--_ultrablast_ |
 
 #### Special Qualities:
  A phrenic creature has all the special qualities of the base creature, plus
@@ -1630,7 +1630,7 @@ HD, same as base creature +3.
 | Treasure: | Standard |
 | Alignment: | Always chaotic evil |
 | Advancement: | 7-12 HD (Large); 13-18 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 A phthisic stands 10 feet tall and weighs 600 pounds. It vaguely resembles the person whose mind the phthisic
 escaped from, but is severely distorted (someone who knows the individual from whom the phthisic sprung can make a
@@ -1641,33 +1641,33 @@ A phthisic speaks the primary language of the mind that birthed it, usually Comm
 
 #### Mind Feed (Ex):
  A phthisic that hits with its bite attack deals 1d4 points of Intelligence
-damage. If this effect reduces the opponent’s Intelligence score to 0, the ability damage becomes ability drain.
+damage. If this effect reduces the opponent's Intelligence score to 0, the ability damage becomes ability drain.
 
 #### Psi-Like Abilities:
- 3/day---_brain lock_ (affects animals, fey, giants, humanoids, magical
+ 3/day--_brain lock_ (affects animals, fey, giants, humanoids, magical
 beasts, and monstrous humanoids, DC 15*), _dimension slide_, _ego whip_ (1d4, DC 15*)_, mental barrier, mind thrust_
-(ML 4th, 4d10, DC 15*), _skate;_ 1/day---_body adjustment_ (heal 1d12*), _catapsi_ (DC 18).
+(ML 4th, 4d10, DC 15*), _skate;_ 1/day--_body adjustment_ (heal 1d12*), _catapsi_ (DC 18).
 Manifester level 6th. The save DCs are Charisma-based.
 
-*Includes augmentation for the phthisic’s manifester level.
+*Includes augmentation for the phthisic's manifester level.
 #### Regeneration (Ex):
  Fire and acid deal normal damage to a phthisic.
 ## Psicrystal
 
 |  | Diminutive Construct |
 | --- | --- |
-| Hit Dice: | As master’s HD (hp 1/2 master’s) |
+| Hit Dice: | As master's HD (hp 1/2 master's) |
 | Initiative: | +2 |
 | Speed: | 30 ft. (6 squares), climb 20 ft.* |
 | Armor Class: | 16 (+4 size, +2 Dex*), touch 16, flatfooted 14 |
 | Base Attack/Grapple: | +0/-17 |
-| Attack: | --- |
-| Full Attack: | --- |
+| Attack: | -- |
+| Full Attack: | -- |
 | Space/Reach: | 1 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Construct traits, hardness 8, psicrystal granted abilities (improved evasion, personality, self-propulsion, share powers, sighted, telepathic link) |
-| Saves: | As master’s saves |
-| Abilities: | Str 1*, Dex 15*, Con ---, Int 6, Wis 10, Cha 10 |
+| Saves: | As master's saves |
+| Abilities: | Str 1*, Dex 15*, Con --, Int 6, Wis 10, Cha 10 |
 | Skills: | Climb +14*, Listen +6, Move Silently +6, Search +2, Spot +6 |
 | Feats: | Alertness |
 | Environment: | Any |
@@ -1675,16 +1675,16 @@ Manifester level 6th. The save DCs are Charisma-based.
 | Challenge Rating: | Included with master |
 | Treasure: | None |
 | Alignment: | As master |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 | *With self-propulsion ability activated. |
 
 The psicrystal described here is that of a 1st-level manifester.
 ### Combat
 
-A psicrystal’s characteristics depend on its master. Its Hit Dice are equal to its master’s Hit Dice (counting
-only levels in psion or wilder), its hit points are equal to half its master’s, and its saving throw bonuses are
-the same as its master’s.
+A psicrystal's characteristics depend on its master. Its Hit Dice are equal to its master's Hit Dice (counting
+only levels in psion or wilder), its hit points are equal to half its master's, and its saving throw bonuses are
+the same as its master's.
 
 #### Construct Traits:
  A psicrystal has immunity to poison, _sleep,_ paralysis, stunning,
@@ -1720,16 +1720,16 @@ to take 10, even if rushed or threatened.
 | Special Attacks: | Dispel psionics |
 | Special Qualities: | Construct traits, damage reduction 10/adamantine, darkvision 60 ft., immunity to psionics, lowlight vision |
 | Saves: | Fort +5, Ref +5, Will +5 |
-| Abilities: | Str 31, Dex 10, Con ---, Int ---, Wis 11, Cha 1 |
-| Skills: | --- |
-| Feats: | --- |
+| Abilities: | Str 31, Dex 10, Con --, Int --, Wis 11, Cha 1 |
+| Skills: | -- |
+| Feats: | -- |
 | Environment: | Any |
 | Organization: | Solitary or gang (2-4) |
 | Challenge Rating: | 12 |
 | Treasure: | None |
 | Alignment: | Always neutral |
 | Advancement: | 16-21 HD (Large); 22-45 (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 A psion-killer (also called a crystal golem) is 9-1/2 feet tall and weighs around 2,500 pounds. Its body is
 composed of sharply faceted crystal.
@@ -1737,10 +1737,10 @@ composed of sharply faceted crystal.
 ### Combat
 
 A psion-killer does nothing without explicit orders from its creator. It follows instructions literally and is
-incapable of any strategy or tactics. Psion-killers don’t use weapons, even if ordered to, but always strike with
+incapable of any strategy or tactics. Psion-killers don't use weapons, even if ordered to, but always strike with
 their fists.
 
-A psion-killer’s creator can command it if the psion-killer is within 60 feet and can see and hear its creator. If
+A psion-killer's creator can command it if the psion-killer is within 60 feet and can see and hear its creator. If
 uncommanded, a psion-killer usually follows its last instruction to the best of its ability, though if attacked it
 returns the attack. Its creator can give a psion-killer a simple command to govern its actions in his or her
 absence.
@@ -1762,7 +1762,7 @@ power resistance.
 
 ### Construction
 
-A psion-killer’s body is constructed from massive blocks of quartz crystal with a total weight of at least 5,000
+A psion-killer's body is constructed from massive blocks of quartz crystal with a total weight of at least 5,000
 pounds and costing at least 8,000 gp. Assembling the body requires a DC 20 Craft (sculpting) check or a DC 20
 Craft (stonemasonry) check.
 
@@ -1792,16 +1792,16 @@ manifester must be at least 16th level; Price 150,000 gp; Cost 79,000 gp + 5,680
 | Challenge Rating: | 1 |
 | Treasure: | None |
 | Alignment: | Usually lawful evil |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
-Puppeteers do not speak, though they can speak indirectly using a host body’s vocal cords, in whatever language
+Puppeteers do not speak, though they can speak indirectly using a host body's vocal cords, in whatever language
 the host knows (usually Common).
 
 ### Combat
 
 Puppeteers use their psionic powers in conjunction with their enthrall ability to gain control over potential
-hosts. Once it is in control, a puppeteer almost exclusively relies on the host’s mental and physical abilities,
+hosts. Once it is in control, a puppeteer almost exclusively relies on the host's mental and physical abilities,
 although it can use its own powers to enhance their effectiveness in a particularly dangerous situation.
 
 #### Enthrall (Ex):
@@ -1812,7 +1812,7 @@ contact with the victim, the domination remains in effect, even if a check would
 is broken.
 
 #### Psi-Like Abilities:
- 3/day--- _detect psionics, mental barrier, psionic charm_ (DC 13).
+ 3/day-- _detect psionics, mental barrier, psionic charm_ (DC 13).
 Manifester level 1st. The save DCs are Charisma-based.
 
 #### Blindsight (Ex):
@@ -1856,15 +1856,15 @@ has a language.
 | Treasure: | None |
 | Alignment: | Always neutral |
 | Advancement: | 4-6 HD (Small); 7-9 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 ### Combat
 
 #### Psi-Like Abilities:
- 3/day---_concealing amorpha_, _hustle_,
-_mental barrier;_ 1/day---_vigor_ (+15 hp*). Manifester level 3rd.
+ 3/day--_concealing amorpha_, _hustle_,
+_mental barrier;_ 1/day--_vigor_ (+15 hp*). Manifester level 3rd.
 
-*Includes augmentation for the flesh harrower’s manifester level.
+*Includes augmentation for the flesh harrower's manifester level.
 ## Temporal Filcher
 
 |  | Large Aberration (Psionic) |
@@ -1889,7 +1889,7 @@ _mental barrier;_ 1/day---_vigor_ (+15 hp*). Manifester level 3rd.
 | Treasure: | Standard |
 | Alignment: | Usually evil (any) |
 | Advancement: | 9-15 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Temporal filchers do not speak.
 ### Combat
@@ -1900,13 +1900,13 @@ smaller with two claw attacks. It can then attempt to start a grapple as a free 
 of opportunity. If it wins the grapple check, it establishes a hold and uses its time filch ability.
 
 #### Psi-Like Abilities:
- At will---_chameleon_, _distract_ (DC 13),
-_psionic dimension door_, _psionic levitate_, _wall walker;_ 3/ day---_mental barrier_.
+ At will--_chameleon_, _distract_ (DC 13),
+_psionic dimension door_, _psionic levitate_, _wall walker;_ 3/ day--_mental barrier_.
 Manifester level 8th. The save DC is Charisma-based.
 
 #### Time Filch (Su):
  If a temporal filcher successfully grapples a Large or smaller creature, it
-latches onto the opponent’s body and shifts 7 minutes forward in time as a free action. Observers (if any) see the
+latches onto the opponent's body and shifts 7 minutes forward in time as a free action. Observers (if any) see the
 temporal filcher and its prey disappear in a shimmer, then reappear 7 minutes later in exactly the orientation and
 condition they left. For the filcher and its prey, no time passes at all. The victim must succeed on a Will save
 (DC 16) or be dazed for 1 round from temporal disorientation. The ability is otherwise identical to
@@ -1936,7 +1936,7 @@ _time hop_ manifested by an 8th-level manifester.
 | Treasure: | None |
 | Alignment: | Usually neutral |
 | Advancement: | 4-6 HD (Small) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Thought eaters do not speak.
 ### Combat
@@ -1953,11 +1953,11 @@ attack instead deals 1 point of Intelligence damage, which provides nourishment 
 A thought eater requires 12 power points per day to survive but will gorge itself on weak prey.
 
 #### Psi-Like Abilities:
- At will---_detect psionics_, _distract_ (DC 13),
-_precognition, psionic daze_ (DC 13*); 3/day---_thought shield._
+ At will--_detect psionics_, _distract_ (DC 13),
+_precognition, psionic daze_ (DC 13*); 3/day--_thought shield._
 
 Manifester level 3rd. The save DCs are Charisma-based.
-*Includes augmentation for the thought eater’s manifester level.
+*Includes augmentation for the thought eater's manifester level.
 
 #### Ethereal Jaunt (Su):
  A thought eater can shift from the Ethereal Plane to the Material Plane as
@@ -1989,7 +1989,7 @@ _psionic ethereal jaunt_ power.
 | Treasure: | Standard |
 | Alignment: | Often chaotic neutral |
 | Advancement: | 15-28 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Thought slayers do not speak.
 ### Combat
@@ -1999,7 +1999,7 @@ dissipates and it falls dead. If badly wounded, it escapes to the Ethereal Plane
 
 #### Mind-Consuming Gaze (Su):
  Instantly kill (by draining the mind away), range 30 feet, Fortitude DC
-19 negates. The save DC is Charisma-based. This is considered a mind-affecting death effect. If a thought slayer’s
+19 negates. The save DC is Charisma-based. This is considered a mind-affecting death effect. If a thought slayer's
 gaze is met indirectly (such as through a mirror or a reflection in water), the opponent does not die on a failed
 save but instead is dazed for 14 rounds. This otherwise is a gaze effect.
 
@@ -2007,12 +2007,12 @@ The gaze cannot affect creatures on the Material Plane while the thought slayer 
 affect ethereal creatures while the thought slayer is on the Material Plane.
 
 #### Psi-Like Abilities:
- At will---_brain lock_ (any nonmindless, DC 14*), _chameleon_,
-_detect psionics_, _distract_ (DC 13); 3/day---_body adjustment_ (5d12*), _mental barrier_ (+6
-AC, 2 rounds*)_, mind trap_ (10 rounds*), _precognition_, _wall walker;_ 1/day---_escape detection._
+ At will--_brain lock_ (any nonmindless, DC 14*), _chameleon_,
+_detect psionics_, _distract_ (DC 13); 3/day--_body adjustment_ (5d12*), _mental barrier_ (+6
+AC, 2 rounds*)_, mind trap_ (10 rounds*), _precognition_, _wall walker;_ 1/day--_escape detection._
 Manifester level 14th. The save DCs are Charisma-based.
 
-*Includes augmentation for the thought slayer’s manifester level.
+*Includes augmentation for the thought slayer's manifester level.
 
 #### Ethereal Jaunt (Su):
  A thought slayer can shift from the Ethereal Plane to the Material Plane as
@@ -2027,14 +2027,14 @@ _psionic ethereal jaunt_ power.
 | Initiative: | +0 |
 | Speed: | 0 ft. |
 | Armor Class: | 11 (-2 size, -5 Dex, +8 natural), touch 3, flatfooted 11 |
-| Base Attack/Grapple: | +4/--- |
-| Attack: | --- |
-| Full Attack: | --- |
+| Base Attack/Grapple: | +4/-- |
+| Attack: | -- |
+| Full Attack: | -- |
 | Space/Reach: | 15 ft./0 ft. |
 | Special Attacks: | Double manifest, psi-like abilities |
 | Special Qualities: | Blindsight 60 ft., immunity to electricity, plant traits, resistance to cold 10 and fire 10 |
 | Saves: | Fort +8, Ref +4, Will +5 |
-| Abilities: | Str ---, Dex ---, Con 16, Int 4, Wis 13, Cha 14 |
+| Abilities: | Str --, Dex --, Con 16, Int 4, Wis 13, Cha 14 |
 | Skills: | Listen +10 |
 | Feats: | Iron Will, Lightning Reflexes |
 | Environment: | Temperate forest |
@@ -2043,7 +2043,7 @@ _psionic ethereal jaunt_ power.
 | Treasure: | 1/5 coins; 50% goods; 50% items |
 | Alignment: | Always neutral |
 | Advancement: | 7-16 HD (Huge); 17-18 HD (Gargantuan) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 ### Combat
 
@@ -2063,9 +2063,9 @@ through its crowns. It can manifest two psi-like abilities per round, as long as
 remaining.
 
 #### Psi-Like Abilities:
- At will---_energy stun_ (electricity, 2d6, DC 15*),
+ At will--_energy stun_ (electricity, 2d6, DC 15*),
 _false sensory input_ (DC 15), _id insinuation_ (two targets, DC 15*), _mind thrust_ (ML 4th, 4d10,
-DC 14*), _telekinetic force_ (275 lb., DC 15*), _thought shield_ (power resistance 16*); 3/day---_astral construct_
+DC 14*), _telekinetic force_ (275 lb., DC 15*), _thought shield_ (power resistance 16*); 3/day--_astral construct_
 (3rd level*), _body adjustment, mental barrier._
 
 Manifester level 6th. The save DCs are Charisma-based.
@@ -2073,7 +2073,7 @@ Manifester level 6th. The save DCs are Charisma-based.
 An udoroot can use its _body adjustment_ power to repair damage to one of its crowns, as long as the crown
 has not been severed or destroyed.
 
-*Includes augmentation for the udoroot’s manifester level.
+*Includes augmentation for the udoroot's manifester level.
 
 #### Blindsight (Ex):
  An udoroot can ascertain all foes by nonvisual means within 60 feet. If its
@@ -2092,14 +2092,14 @@ critical hits.
 | Initiative: | +1 |
 | Speed: | Fly 30 ft. (good) (6 squares) |
 | Armor Class: | 13 (+1 Dex, +2 deflection), touch 13, flatfooted 12 |
-| Base Attack/Grapple: | +4/--- |
+| Base Attack/Grapple: | +4/-- |
 | Attack: | Incorporeal touch +5 melee (1d6) |
 | Full Attack: | Incorporeal touch +5 melee (1d6) |
 | Space/Reach: | 5 ft./5 ft. |
 | Special Attacks: | Psionic powers, telekinetic force |
 | Special Qualities: | Assume likeness, incorporeal traits, telepathy 100 ft. |
 | Saves: | Fort +2, Ref +5, Will +6 |
-| Abilities: | Str ---, Dex 13, Con 12, Int 15, Wis 14, Cha 15 |
+| Abilities: | Str --, Dex 13, Con 12, Int 15, Wis 14, Cha 15 |
 | Skills: | Bluff +10*, Diplomacy +6, Disguise +10*, Intimidate +6, Listen +6, Sense Motive +6, Spot +6 |
 | Feats: | Overchannel, Wild Talent |
 | Environment: | Any |
@@ -2117,8 +2117,8 @@ An unbodied uses telepathy to communicate with others.
  An unbodied manifests powers as a 4th-level psion (telepath). The save DCs are
 Intelligence-based.
 
-_Typical Psion Powers Known_ (power points 21, base save DC 12 + power level): 1st---
-_detect psionics, empty mind, mind thrust_ (DC 13*), _psionic charm_ (DC 13*); 2nd---_brain lock_ (DC
+_Typical Psion Powers Known_ (power points 21, base save DC 12 + power level): 1st--
+_detect psionics, empty mind, mind thrust_ (DC 13*), _psionic charm_ (DC 13*); 2nd--_brain lock_ (DC
 14), _cloud mind_ (DC 14), _energy push_ (DC 14), _read thoughts_ (DC 14).
 
 *Power can be augmented.
@@ -2142,43 +2142,43 @@ powers, spells, spell-like abilities, and supernatural abilities. It has a 50% c
 corporeal source, except for force effects or attacks made with ghost touch weapons. It can pass through solid
 objects, but not force effects, at will. Its attacks ignore natural armor, armor, and shields, but deflection
 bonuses and force effects work normally against them. An incorporeal creature always moves silently and cannot be
-heard with Listen checks if it doesn’t wish to be.
+heard with Listen checks if it doesn't wish to be.
 
 #### Skills:
  An unbodied has a +4 racial bonus on Bluff and Disguise checks. *When using its assume
 likeness ability, an unbodied gets an additional +10 circumstance bonus on Disguise checks. If it can read an
-opponent’s mind, it gets a further +4 circumstance bonus on Bluff and Disguise checks.
+opponent's mind, it gets a further +4 circumstance bonus on Bluff and Disguise checks.
 
 ### Unbodied as Characters
 Unbodied characters possess the following racial traits.
 
---- +2 Dexterity, +2 Constitution, +4 Intelligence, +4 Wisdom, +4 Charisma. As an incorporeal creature, an unbodied
+-- +2 Dexterity, +2 Constitution, +4 Intelligence, +4 Wisdom, +4 Charisma. As an incorporeal creature, an unbodied
 has no Strength score.
 
----Medium size.
----An unbodied has a fly speed of 30 feet (good maneuverability).
----Darkvision out to 60 feet.
----Deflection bonus to Armor Class equal to character’s Charisma modifier (minimum +1).
----Natural Attack: An unbodied can make a melee touch attack to deal 1d6 points of damage.
+--Medium size.
+--An unbodied has a fly speed of 30 feet (good maneuverability).
+--Darkvision out to 60 feet.
+--Deflection bonus to Armor Class equal to character's Charisma modifier (minimum +1).
+--Natural Attack: An unbodied can make a melee touch attack to deal 1d6 points of damage.
 
----Special Attacks (see above): Psionic powers, telekinetic force. An unbodied who takes levels in psion (telepath)
+--Special Attacks (see above): Psionic powers, telekinetic force. An unbodied who takes levels in psion (telepath)
 adds its racial manifesting ability and psion levels together to determine its power point reserve, manifester
 level, and powers known.
 
----Special Qualities (see above): Assume likeness, incorporeal traits.
+--Special Qualities (see above): Assume likeness, incorporeal traits.
 
----Racial Hit Dice: An unbodied begins with four levels of monstrous humanoid, which provide 4d8 Hit Dice, a base
+--Racial Hit Dice: An unbodied begins with four levels of monstrous humanoid, which provide 4d8 Hit Dice, a base
 attack bonus of +4, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
 
----Racial Skills: An unbodied’s monstrous humanoid levels give it skill points equal to 7 x (2 + Int modifier). Its
+--Racial Skills: An unbodied's monstrous humanoid levels give it skill points equal to 7 x (2 + Int modifier). Its
 class skills are Bluff, Diplomacy, Disguise, Intimidate, Listen, Sense Motive, and Spot. Unbodied have a +4 racial
 bonus on Bluff checks and Disguise checks. When using its assume likeness ability, an unbodied gets an additional
-+10 circumstance bonus on Disguise checks. If it can read an opponent’s mind, it gets a further +4 circumstance
++10 circumstance bonus on Disguise checks. If it can read an opponent's mind, it gets a further +4 circumstance
 bonus on Bluff and Disguise checks.
 
----Racial Feats: An unbodied’s monstrous humanoid levels give it two feats.
----Favored Class: Psion (telepath).
----Level Adjustment: +4.
+--Racial Feats: An unbodied's monstrous humanoid levels give it two feats.
+--Favored Class: Psion (telepath).
+--Level Adjustment: +4.
 ## Xeph
 
 |  | Xeph, 1st-Level Warrior |
@@ -2192,7 +2192,7 @@ bonus on Bluff and Disguise checks.
 | Attack: | Rapier +2 melee (1d6/18-20) or longbow +2 ranged (1d8/x3) |
 | Full Attack: | Rapier +2 melee (1d6/18-20) or longbow +2 ranged (1d8/x3) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Burst, darkvision 60 ft. |
 | Saves: | Fort +3, Ref +1, Will -1 |
 | Abilities: | Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8 |
@@ -2212,22 +2212,22 @@ Xephs speak their own language and Common.
 #### Burst (Su):
  Three times per day, a xeph can increase his or her speed by 10 feet, plus 10 feet
 per four character levels beyond 1st, to a maximum increase of 30 feet at 9th character level and higher. These
-bursts of speed are considered a competence bonus to the xeph’s base speed. A burst of speed lasts 3 rounds.
+bursts of speed are considered a competence bonus to the xeph's base speed. A burst of speed lasts 3 rounds.
 
 The xeph warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con
 12, Int 10, Wis 9, Cha 8.
 
 ### Xephs as Characters
 Xeph characters possess the following racial traits.
---- -2 Strength, +2 Dexterity.
----Medium size.
----Xeph base land speed is 30 feet.
----Darkvision out to 60 feet.
----Naturally Psionic: Xephs gain 1 bonus power point at 1st level.
---- +1 racial bonus on saving throws against powers, spells, and spell-like effects.
----Special Qualities (see above): Burst.
----Racial Feats: A xeph character gains feats according to his or her character class.
----Automatic Languages: Xeph, Common.
----Favored Class: Soulknife.
----Level Adjustment: +0.
+-- -2 Strength, +2 Dexterity.
+--Medium size.
+--Xeph base land speed is 30 feet.
+--Darkvision out to 60 feet.
+--Naturally Psionic: Xephs gain 1 bonus power point at 1st level.
+-- +1 racial bonus on saving throws against powers, spells, and spell-like effects.
+--Special Qualities (see above): Burst.
+--Racial Feats: A xeph character gains feats according to his or her character class.
+--Automatic Languages: Xeph, Common.
+--Favored Class: Soulknife.
+--Level Adjustment: +0.
 

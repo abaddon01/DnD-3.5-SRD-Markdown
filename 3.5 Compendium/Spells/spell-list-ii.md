@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Spells - Spell List II
-aliases: 3.5 Spell List II
+aliases:
+  - 3.5 Spell List II
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - spells
   - spell_list_ii
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -179,7 +179,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 ### Goodberry:
  2d4 berries each cure 1 hp (max 8 hp/24 hours).
 ### Hide from Animals:
- Animals can’t perceive one subject/level.
+ Animals can't perceive one subject/level.
 ### Jump:
  Subject gets bonus on Jump checks.
 ### Longstrider:
@@ -198,7 +198,7 @@ This material is Open Game Content, and is licensed for public use under the ter
  Cudgel or quarterstaff becomes +1 weapon (1d10 damage) for 1 min./level.
 ### Speak with Animals:
  You can communicate with animals.
-### Summon Nature’s Ally I:
+### Summon Nature's Ally I:
  Calls creature to fight.
 ### 2nd-Level Druid Spells
 ### Animal Messenger:
@@ -207,11 +207,11 @@ This material is Open Game Content, and is licensed for public use under the ter
  Fascinates 2d6 HD of animals.
 ### Barkskin:
  Grants +2 (or higher) enhancement to natural armor.
-### Bear’s Endurance:
+### Bear's Endurance:
  Subject gains +4 to Con for 1 min./level.
-### Bull’s Strength:
+### Bull's Strength:
  Subject gains +4 to Str for 1 min./level.
-### Cat’s Grace:
+### Cat's Grace:
  Subject gains +4 to Dex for 1 min./level.
 ### Chill Metal:
  Cold metal damages those who touch it.
@@ -233,7 +233,7 @@ This material is Open Game Content, and is licensed for public use under the ter
  Make metal so hot it damages those who touch it.
 ### Hold Animal:
  Paralyzes one animal for 1 round/level.
-### Owl’s Wisdom:
+### Owl's Wisdom:
  Subject gains +4 to Wis for 1 min./level.
 ### Reduce Animal:
  Shrinks one willing animal.
@@ -245,7 +245,7 @@ This material is Open Game Content, and is licensed for public use under the ter
  Turns stone to clay or dirt to sand or mud.
 ### Spider Climb:
  Grants ability to walk on walls and ceilings.
-### Summon Nature’s Ally II:
+### Summon Nature's Ally II:
  Calls creature to fight.
 ### Summon Swarm:
  Summons swarm of bats, rats, or spiders.
@@ -300,7 +300,7 @@ _slowed._
 
 ### Stone Shape:
  Sculpts stone into any shape.
-### Summon Nature’s Ally III:
+### Summon Nature's Ally III:
  Calls creature to fight.
 ### Water Breathing:
  Subjects can breathe underwater.
@@ -343,7 +343,7 @@ _slowed._
  Creatures in area take 1d8 damage, may be
 _slowed._
 
-### Summon Nature’s Ally IV:
+### Summon Nature's Ally IV:
  Calls creature to fight.
 ### 5th-Level Druid Spells
 ### Animal Growth:
@@ -376,7 +376,7 @@ _slowed._
 ### Stoneskin <sup>M</sup>:
  Ignore 10 points of damage per attack.
 
-### Summon Nature’s Ally V:
+### Summon Nature's Ally V:
  Calls creature to fight.
 ### Transmute Mud to Rock:
  Transforms two 10-ft. cubes per level.
@@ -397,12 +397,12 @@ deals 2d6 damage +1/level.
 ### 6th-Level Druid Spells
 ### Antilife Shell:
  10-ft.-radius field hedges out living creatures.
-### Bear’s Endurance, Mass:
- As _bear’s endurance_, affects one subject/ level.
-### Bull’s Strength, Mass:
- As _bull’s strength_, affects one subject/level.
-### Cat’s Grace, Mass:
- As _cat’s grace_, affects one subject/level.
+### Bear's Endurance, Mass:
+ As _bear's endurance_, affects one subject/ level.
+### Bull's Strength, Mass:
+ As _bull's strength_, affects one subject/level.
+### Cat's Grace, Mass:
+ As _cat's grace_, affects one subject/level.
 ### Cure Light Wounds, Mass:
  Cures 1d8 damage +1/level for many creatures.
 ### Dispel Magic, Greater:
@@ -417,15 +417,15 @@ deals 2d6 damage +1/level.
  Oak becomes treant guardian.
 ### Move Earth:
  Digs trenches and builds hills.
-### Owl’s Wisdom, Mass:
- As _owl’s wisdom_, affects one subject/level.
+### Owl's Wisdom, Mass:
+ As _owl's wisdom_, affects one subject/level.
 ### Repel Wood:
  Pushes away wooden objects.
 ### Spellstaff:
  Stores one spell in wooden quarterstaff.
 ### Stone Tell:
  Talk to natural or worked stone.
-### Summon Nature’s Ally VI:
+### Summon Nature's Ally VI:
  Calls creature to fight.
 ### Transport via Plants:
  Move instantly from one plant to another of the same kind.
@@ -448,7 +448,7 @@ deals 2d6 damage +1/level.
  Cures 10 points/level of damage, all diseases and mental conditions.
 ### Scrying, Greater:
  As _scrying_, but faster and longer.
-### Summon Nature’s Ally VII:
+### Summon Nature's Ally VII:
  Calls creature to fight.
 ### Sunbeam:
  Beam blinds and deals 4d6 damage.
@@ -475,7 +475,7 @@ deals 2d6 damage +1/level.
  Pushes away metal and stone.
 ### Reverse Gravity:
  Objects and creatures fall upward.
-### Summon Nature’s Ally VIII:
+### Summon Nature's Ally VIII:
  Calls creature to fight.
 ### Sunburst:
  Blinds all within 10 ft., deals 6d6 damage.
@@ -493,7 +493,7 @@ deals 2d6 damage +1/level.
 ### Foresight:
  "Sixth sense" warns of impending danger.
 ### Regenerate:
- Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).
+ Subject's severed limbs grow back, cures 4d8 damage +1/level (max +35).
 ### Shambler:
  Summons 1d4+2 shambling mounds to fight for you.
 
@@ -502,7 +502,7 @@ deals 2d6 damage +1/level.
 
 ### Storm of Vengeance:
  Storm rains acid, lightning, and hail.
-### Summon Nature’s Ally IX:
+### Summon Nature's Ally IX:
  Calls creature to fight.
 
 ### Sympathy <sup>M</sup>:
@@ -544,13 +544,13 @@ outsiders.
 ### Virtue:
  Subject gains 1 temporary hp.
 ### 2nd-Level Paladin Spells
-### Bull’s Strength:
+### Bull's Strength:
  Subject gains +4 to Str for 1 min./level.
 ### Delay Poison:
  Stops poison from harming subject for 1 hour/level.
-### Eagle’s Splendor:
+### Eagle's Splendor:
  Subject gains +4 to Cha for 1 min./level.
-### Owl’s Wisdom:
+### Owl's Wisdom:
  Subject gains +4 to Wis for 1 min./level.
 ### Remove Paralysis:
  Frees one or more creatures from paralysis or _slow_ effect.
@@ -558,7 +558,7 @@ outsiders.
  Ignores 10 (or more) points of damage/attack from specified energy type.
 
 ### Shield Other <sup>F</sup>:
- You take half of subject’s damage.
+ You take half of subject's damage.
 
 ### Undetectable Alignment:
  Conceals alignment for 24 hours.
@@ -634,7 +634,7 @@ outsiders.
 ### Entangle:
  Plants entangle everyone in 40-ft.-radius circle.
 ### Hide from Animals:
- Animals can’t perceive one subject/level.
+ Animals can't perceive one subject/level.
 ### Jump:
  Subject gets bonus on Jump checks.
 ### Longstrider:
@@ -649,20 +649,20 @@ outsiders.
  Ignores 10 (or more) points of damage/attack from specified energy type.
 ### Speak with Animals:
  You can communicate with animals.
-### Summon Nature’s Ally I:
+### Summon Nature's Ally I:
  Calls animal to fight for you.
 ### 2nd-Level Ranger Spells
 ### Barkskin:
  Grants +2 (or higher) enhancement to natural armor.
-### Bear’s Endurance:
+### Bear's Endurance:
  Subject gains +4 to Con for 1 min./level.
-### Cat’s Grace:
+### Cat's Grace:
  Subject gains +4 to Dex for 1 min./level.
 ### Cure Light Wounds:
  Cures 1d8 damage +1/level (max +5).
 ### Hold Animal:
  Paralyzes one animal for 1 round/level.
-### Owl’s Wisdom:
+### Owl's Wisdom:
  Subject gains +4 to Wis for 1 min./level.
 ### Protection from Energy:
  Absorb 12 points/level of damage from one kind of energy.
@@ -675,7 +675,7 @@ outsiders.
  Creatures in area take 1d4 damage, may be
 _slowed._
 
-### Summon Nature’s Ally II:
+### Summon Nature's Ally II:
  Calls animal to fight for you.
 ### Wind Wall:
  Deflects arrows, smaller creatures, and gases.
@@ -703,7 +703,7 @@ and damage rolls (max +5).
  Cures all diseases affecting subject.
 ### Repel Vermin:
  Insects, spiders, and other vermin stay 10 ft. away.
-### Summon Nature’s Ally III:
+### Summon Nature's Ally III:
  Calls animal to fight for you.
 ### Tree Shape:
  You look exactly like a tree for 1 hour/level.
@@ -722,7 +722,7 @@ and damage rolls (max +5).
 ### Nondetection <sup>M</sup>:
  Hides subject from divination, scrying.
 
-### Summon Nature’s Ally IV:
+### Summon Nature's Ally IV:
  Calls animal to fight for you.
 ### Tree Stride:
  Step from one tree to another far away.
@@ -840,7 +840,7 @@ _magic missiles._
 ### Disguise Self:
  Changes your appearance.
 ### Magic Aura:
- Alters object’s magic aura.
+ Alters object's magic aura.
 ### Silent Image:
  Creates minor illusion of your design.
 ### Ventriloquism:
@@ -963,23 +963,23 @@ that makes those nearby sickened.
 #### Trans
 ### Alter Self:
  Assume form of a similar creature.
-### Bear’s Endurance:
+### Bear's Endurance:
  Subject gains +4 to Con for 1 min./level.
-### Bull’s Strength:
+### Bull's Strength:
  Subject gains +4 to Str for 1 min./level.
-### Cat’s Grace:
+### Cat's Grace:
  Subject gains +4 to Dex for 1 min./level.
 ### Darkvision:
  See 60 ft. in total darkness.
-### Eagle’s Splendor:
+### Eagle's Splendor:
  Subject gains +4 to Cha for 1 min./level.
-### Fox’s Cunning:
+### Fox's Cunning:
  Subject gains +4 Int for 1 min./level.
 ### Knock:
  Opens locked or magically sealed door.
 ### Levitate:
  Subject moves up and down at your direction.
-### Owl’s Wisdom:
+### Owl's Wisdom:
  Subject gains +4 to Wis for 1 min./level.
 ### Pyrotechnics:
  Turns fire into blinding light or choking smoke.
@@ -1079,7 +1079,7 @@ min./level.
 ### Haste:
  One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.
 ### Keen Edge:
- Doubles normal weapon’s threat range.
+ Doubles normal weapon's threat range.
 ### Magic Weapon, Greater:
  +1/four levels (max +5).
 ### Secret Page:
@@ -1143,7 +1143,7 @@ min./level.
  Commands subject of 7 HD or less.
 #### Evoc
 ### Fire Shield:
- Creatures attacking you take fire damage; you’re protected from heat or cold.
+ Creatures attacking you take fire damage; you're protected from heat or cold.
 ### Ice Storm:
  Hail deals 5d6 damage in cylinder 40 ft. across.
 ### Resilient Sphere:
@@ -1210,12 +1210,12 @@ cast.
  Frees subjects from enchantments, alterations, curses, and petrification.
 ### Dismissal:
  Forces a creature to return to native plane.
-### Mage’s Private Sanctum:
+### Mage's Private Sanctum:
  Prevents anyone from viewing or scrying an area for 24 hours.
 #### Conj
 ### Cloudkill:
  Kills 3 HD or less; 4-6 HD save or die, 6+ HD take Con damage.
-### Mage’s Faithful Hound:
+### Mage's Faithful Hound:
  Phantom dog can guard, attack.
 ### Major Creation:
  As _minor creation,_ plus stone and metal.
@@ -1242,7 +1242,7 @@ cast.
 ### Dominate Person:
  Controls humanoid telepathically.
 ### Feeblemind:
- Subject’s Int and Cha drop to 1.
+ Subject's Int and Cha drop to 1.
 ### Hold Monster:
  As _hold person_, but any creature.
 ### Mind Fog:
@@ -1325,7 +1325,7 @@ effects.
 ### Guards and Wards:
  Array of magic effects protect area.
 ### Repulsion:
- Creatures can’t approach you.
+ Creatures can't approach you.
 #### Conj
 ### Acid Fog:
  Fog deals acid damage.
@@ -1404,28 +1404,28 @@ temporary hp.
  Destroys 1d4/level HD of undead (max 20d4).
 
 #### Trans
-### Bear’s Endurance, Mass:
- As _bear’s endurance_, affects one subject/level.
-### Bull’s Strength, Mass:
- As _bull’s strength_, affects one subject/ level.
-### Cat’s Grace, Mass:
- As _cat’s grace_, affects one subject/level.
+### Bear's Endurance, Mass:
+ As _bear's endurance_, affects one subject/level.
+### Bull's Strength, Mass:
+ As _bull's strength_, affects one subject/ level.
+### Cat's Grace, Mass:
+ As _cat's grace_, affects one subject/level.
 ### Control Water:
  Raises or lowers bodies of water.
 ### Disintegrate:
  Makes one creature or object vanish.
-### Eagle’s Splendor, Mass:
- As _eagle’s splendor_, affects one subject/level.
+### Eagle's Splendor, Mass:
+ As _eagle's splendor_, affects one subject/level.
 ### Flesh to Stone:
  Turns subject creature into statue.
-### Fox’s Cunning, Mass:
- As _fox’s cunning_, affects one subject/ level.
-### Mage’s Lucubration:
+### Fox's Cunning, Mass:
+ As _fox's cunning_, affects one subject/ level.
+### Mage's Lucubration:
  _Wizard only._ Recalls spell of 5th level or lower.
 ### Move Earth:
  Digs trenches and build hills.
-### Owl’s Wisdom, Mass:
- As _owl’s wisdom_, affects one subject/ level.
+### Owl's Wisdom, Mass:
+ As _owl's wisdom_, affects one subject/ level.
 ### Stone to Flesh:
  Restores petrified creature.
 
@@ -1445,7 +1445,7 @@ temporary hp.
 ### Instant Summons <sup>M</sup>:
  Prepared object appears in your hand.
 
-### Mage’s Magnificent Mansion <sup>F</sup>:
+### Mage's Magnificent Mansion <sup>F</sup>:
  Door leads to extradimensional mansion.
 
 ### Phase Door:
@@ -1493,7 +1493,7 @@ objects.
 ### Grasping Hand:
  Hand provides cover, pushes, or grapples.
 
-### Mage’s Sword <sup>F</sup>:
+### Mage's Sword <sup>F</sup>:
  Floating magic blade strikes opponents.
 
 ### Prismatic Spray:
@@ -1511,7 +1511,7 @@ objects.
 
 #### Necro
 ### Control Undead:
- Undead don’t attack you while under your command.
+ Undead don't attack you while under your command.
 ### Finger of Death:
  Kills one subject.
 
@@ -1532,7 +1532,7 @@ objects.
 #### Univ
 
 ### Limited Wish <sup>X</sup>:
- Alters reality---within spell limits.
+ Alters reality--within spell limits.
 
 ### 8th-Level Sorcerer/Wizard Spells
 #### Abjur
@@ -1541,7 +1541,7 @@ objects.
 ### Mind Blank:
  Subject is immune to mental/emotional magic and scrying.
 ### Prismatic Wall:
- Wall’s colors have array of effects.
+ Wall's colors have array of effects.
 
 ### Protection from Spells <sup>MF</sup>:
  Confers +8 resistance bonus.
@@ -1638,7 +1638,7 @@ _suggestion._
  Releases creature from _imprisonment._
 ### Imprisonment:
  Entombs subject beneath the earth.
-### Mage’s Disjunction:
+### Mage's Disjunction:
  Dispels magic, disenchants magic items.
 ### Prismatic Sphere:
  As _prismatic wall_, but surrounds on all sides.

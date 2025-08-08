@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Epic - Epic Skills
-aliases: 3.5 Epic Skills
+aliases:
+  - 3.5 Epic Skills
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - epic
   - epic_skills
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -93,7 +93,7 @@ requires a full-round action.
 | Liquid* | 90 |
 | Cloud | 120 |
 
-*Includes any other surface that couldn’t support the character’s weight, such as a fragile branch.
+*Includes any other surface that couldn't support the character's weight, such as a fragile branch.
 ## Bluff
 
 The character can implant a nonmagical suggestion in a target, display a false alignment, or disguise his or her
@@ -118,8 +118,8 @@ awake. Setting or changing a false alignment requires a full-round action.
 
 ### Disguise Surface Thoughts:
  The character can fool spells such as _detect thoughts_ (or
-similar effects) by displaying false surface thoughts. While the character can’t completely mask the presence of
-his or her thoughts, he or she can change his or her apparent Intelligence score (and thus the character’s
+similar effects) by displaying false surface thoughts. While the character can't completely mask the presence of
+his or her thoughts, he or she can change his or her apparent Intelligence score (and thus the character's
 apparent mental strength) by as much as 10 points and can place any thought in his or her "surface thoughts" to be
 read by such spells or effects. If a character attempts to use Sense Motive to detect his or her surface thoughts
 (see the Sense Motive skill description), this becomes an opposed check (though any result lower than 100
@@ -170,9 +170,9 @@ before making the check.
  This requires the Augmented Alchemy feat, and
 allows a character to create alchemical items and substances of greater power than normal. To augment an
 alchemical substance, add +20 to the DC required to create the item and multiply the cost by 5. If the item or
-substance deals damage, double the damage dealt. If the item or substance doesn’t deal damage, double the duration
-of its effect. If the item or substance doesn’t deal damage and doesn’t have a specific listed duration (or has an
-instantaneous duration), double all dimensions of its area. If the item or substance doesn’t fit any of these
+substance deals damage, double the damage dealt. If the item or substance doesn't deal damage, double the duration
+of its effect. If the item or substance doesn't deal damage and doesn't have a specific listed duration (or has an
+instantaneous duration), double all dimensions of its area. If the item or substance doesn't fit any of these
 categories, then it cannot be improved in this manner. A character can create an item with multiple degrees of
 augmentation. For every additional multiplier applied to damage, duration, or area, add an additional +20 to the
 DC and add an additional 5 to the cost multiplier.
@@ -180,7 +180,7 @@ DC and add an additional 5 to the cost multiplier.
 | Item | Effect of Augmenting |
 | --- | --- |
 | Acid | Direct hit 2d6, splash 2 |
-| Alchemist’s fire | Direct hit 2d6, splash 2 |
+| Alchemist's fire | Direct hit 2d6, splash 2 |
 | Antitoxin | Duration 2 hours |
 | Smokestick | Smoke fills a 20-foot cube |
 | Sunrod | Glows for 12 hours |
@@ -202,9 +202,9 @@ The character can turn a person into a fanatic follower. Refer to the accompanyi
 | Initial Attitude | Hos | Unf | Indif | Friend | Help | Fanatic |
 | Hostile | Less than 20 | 20 | 25 | 35 | 50 | 150 |
 | Unfriendly | Less than 5 | 5 | 15 | 25 | 40 | 120 |
-| Indifferent | --- | Less than 1 | 1 | 15 | 30 | 90 |
-| Friendly | --- | --- | Less than 1 | 1 | 20 | 60 |
-| Helpful | --- | --- | --- | Less than 1 | 1 | 50 |
+| Indifferent | -- | Less than 1 | 1 | 15 | 30 | 90 |
+| Friendly | -- | -- | Less than 1 | 1 | 20 | 60 |
+| Helpful | -- | -- | -- | Less than 1 | 1 | 50 |
 
 **Hos:** hostile. **Unf:** unfriendly. **Indif:** indifferent. **Friend:** friendly.
 **Help:** helpful.
@@ -213,12 +213,12 @@ The character can turn a person into a fanatic follower. Refer to the accompanyi
  The attitude of fanatic is added here. In addition to the obvious effects, any NPC whose
 attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves,
 and a -1 penalty to AC whenever fighting for the character or his or her cause. This attitude will remain for one
-day plus one day per point of the character’s Charisma bonus, at which point the NPC’s attitude will revert to its
+day plus one day per point of the character's Charisma bonus, at which point the NPC's attitude will revert to its
 original attitude (or indifferent, if no attitude is specified).
 
 Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being
-detected by the Sense Motive skill. Since it is nonmagical, it can’t be dispelled; however, any effect that
-suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC’s attitude can’t be further
+detected by the Sense Motive skill. Since it is nonmagical, it can't be dispelled; however, any effect that
+suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC's attitude can't be further
 adjusted by the use of skills.
 
 | Attitude | Means | Possible Actions |
@@ -254,7 +254,7 @@ The character can pass through spaces smaller than his or her head, or even thro
 | 120 | Pass through _wall of force_ |
 
 ### Extremely Tight Space:
- This is the DC for getting through a space when one’s head shouldn’t even
+ This is the DC for getting through a space when one's head shouldn't even
 be able to fit; this can be as small as 2 inches square for Medium-size creatures. Halve this limit for each size
 category less than Medium-size; double it for each size category greater than Medium-size. If the space is long,
 such as in a chimney, multiple checks may be called for.
@@ -264,9 +264,9 @@ such as in a chimney, multiple checks may be called for.
 _wall of force_ (or similar force effect) and squeeze through it.
 
 ## Forgery
-The character can forge handwriting he or she haven’t even seen.
+The character can forge handwriting he or she haven't even seen.
 
-| Condition | Reader’s Check Modifier |
+| Condition | Reader's Check Modifier |
 | --- | --- |
 | Forge document without sample | +50 |
 
@@ -309,11 +309,11 @@ required.
 ### Reduce Teaching/Training:
  Normally, teaching or training a creature requires two months of time.
 A character can accelerate the process of teaching or training a creature, reducing the time required to the
-listed time, by adding the DC modifier to the base DC for teaching or training the creature. A character can’t
+listed time, by adding the DC modifier to the base DC for teaching or training the creature. A character can't
 reduce the required time to less than 1 minute.
 
 ## Heal
-The character can greatly speed a patient’s recovery of hit points.
+The character can greatly speed a patient's recovery of hit points.
 
 | Task | DC |
 | --- | --- |
@@ -323,13 +323,13 @@ The character can greatly speed a patient’s recovery of hit points.
 ### Quicken Recovery:
  The character can allow a character to regain hit points in a single hour as if
 he or she had provided long-term care for a full day (2 or 3 hit points per level, based on activity). The
-character can quicken the recovery of up to six patients at a time. No character’s recovery can be quickened more
+character can quicken the recovery of up to six patients at a time. No character's recovery can be quickened more
 than once per day (even by different healers).
 
 ### Perfect Recovery:
  The character can allow a character to regain hit points in a single hour as if
 he or she had provided long-term care for a full week (2 or 3 hit points per level per day, based on activity).
-The character can use perfect recovery on up to six patients at a time. No character’s recovery can be perfected
+The character can use perfect recovery on up to six patients at a time. No character's recovery can be perfected
 more than once per day, nor can perfect recovery and quicken recovery both be used on the same patient in the same
 day (even by different healers).
 
@@ -342,7 +342,7 @@ The character can hide others as well as hiding him or herself.
 
 ### _Hide Another:_
  By accepting a -30 penalty on his or her Hide check, a character can hide
-another adjacent creature whose size is no more than one category larger than the character’s own. Modifiers to
+another adjacent creature whose size is no more than one category larger than the character's own. Modifiers to
 the check for the size of the creature still apply, as do all other penalties, including those for moving faster
 than half speed. Likewise, a character can only hide another creature when it is not under direct observation by a
 third party. The creature the character hides remains hidden until it is spotted or it takes some other action
@@ -367,7 +367,7 @@ component.
 
 ### Defeat Illusion:
  The character can automatically detect any illusion with an auditory component
-for what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but
+for what it truly is. No Will save is required, and the character doesn't have to interact with the illusion (but
 he or she must be able to hear its auditory component). Special: A character can use Listen to notice the presence
 of an invisible creature (generally opposed by a Move Silently check). If the character beats the DC by 20 or
 more, he or she can pinpoint the location of the invisible creature, though it still maintains total concealment
@@ -384,16 +384,16 @@ The character can open locks more quickly than normal.
 | Free action | +50 |
 
 ## Perform
-The character can sway an audience’s attitude with his or her performance.
+The character can sway an audience's attitude with his or her performance.
 
 |  | New Attitude |
 | --- | --- |
 | Initial Attitude | Hos | Unf | Indif | Friend | Help | Fanatic |
 | Hostile | Less than 20 | 20 | 25 | 35 | 50 | 150 |
 | Unfriendly | Less than 5 | 5 | 15 | 25 | 40 | 120 |
-| Indifferent | --- | Less than 1 | 1 | 15 | 30 | 90 |
-| Friendly | --- | --- | Less than 1 | 1 | 20 | 60 |
-| Helpful | --- | --- | --- | Less than 1 | 1 | 50 |
+| Indifferent | -- | Less than 1 | 1 | 15 | 30 | 90 |
+| Friendly | -- | -- | Less than 1 | 1 | 20 | 60 |
+| Helpful | -- | -- | -- | Less than 1 | 1 | 50 |
 
 **Hos:** hostile. **Unf:** unfriendly. **Indif:** indifferent. **Friend:** friendly.
 **Help:** helpful.
@@ -402,12 +402,12 @@ The character can sway an audience’s attitude with his or her performance.
  The attitude of fanatic is added here. In addition to the obvious effects, any NPC whose
 attitude is fanatic gains a +2 morale bonus to Strength and Constitution scores, a +1 morale bonus on Will saves,
 and a -1 penalty to AC whenever fighting for the character or his or her cause. This attitude will remain for one
-day plus one day per point of the character’s Charisma bonus, at which point the NPC’s attitude will revert to its
+day plus one day per point of the character's Charisma bonus, at which point the NPC's attitude will revert to its
 original attitude (or indifferent, if no attitude is specified).
 
 Treat the fanatic attitude as a mind-affecting enchantment effect for purposes of immunity, save bonuses, or being
-detected by the Sense Motive skill. Since it is nonmagical, it can’t be dispelled; however, any effect that
-suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC’s attitude can’t be further
+detected by the Sense Motive skill. Since it is nonmagical, it can't be dispelled; however, any effect that
+suppresses or counters mind-affecting effects will affect it normally. A fanatic NPC's attitude can't be further
 adjusted by the use of skills.
 
 | Attitude | Means | Possible Actions |
@@ -426,7 +426,7 @@ The character can stand upon his or her mount in combat.
 | 60 | Attack from cover |
 
 ### Stand on Mount:
- This allows the character to stand on his or her mount’s back even during
+ This allows the character to stand on his or her mount's back even during
 movement or combat. The character takes no penalties to actions while doing so.
 
 ### Unconscious Control:
@@ -437,7 +437,7 @@ A character does not need to roll for warhorses or warponies.
 ### Attack from Cover:
  The character can react instantly to drop down and hang alongside his or her
 mount, using it as one-half cover. The character can attack and cast spells while using his or her mount as cover
-without penalty. If the character fails, he or she doesn’t get the cover benefit.
+without penalty. If the character fails, he or she doesn't get the cover benefit.
 
 ## Search
 The character can sense the presence of magic in an area.
@@ -448,10 +448,10 @@ The character can sense the presence of magic in an area.
 
 ### Sense Magic:
  The character senses the presence of any active magical effects in the area being
-searched. The character can’t determine the number, strength, or type of the effects.
+searched. The character can't determine the number, strength, or type of the effects.
 
 ## Sense Motive
-The character can discern a target’s alignment and even detect surface thoughts.
+The character can discern a target's alignment and even detect surface thoughts.
 
 | Task | DC |
 | --- | --- |
@@ -461,14 +461,14 @@ The character can discern a target’s alignment and even detect surface thought
 
 ### Discern Partial Alignment:
  This use of the skill lets a character discern one component of a
-target’s alignment. When making the check, the character states whether he or she is trying to discern the
-law-chaos or good-evil component. A character can’t retry the check, and he or she can’t use this to discern more
+target's alignment. When making the check, the character states whether he or she is trying to discern the
+law-chaos or good-evil component. A character can't retry the check, and he or she can't use this to discern more
 than one component of the alignment (but see below). The target must be visible and within 30 feet of the
 character.
 
 ### Discern Full Alignment:
  This use of the skill lets a character determine both components of a
-target’s alignment. The character can’t retry the check. The target must be visible and within 30 feet of the
+target's alignment. The character can't retry the check. The target must be visible and within 30 feet of the
 character.
 
 ### Detect Surface Thoughts:
@@ -479,12 +479,12 @@ this becomes an opposed check (any result lower than 100 automatically fails). T
 within 30 feet of the character.
 
 ## Sleight of Hand
-The character can lift another’s weapon and perform major feats of legerdemain.
+The character can lift another's weapon and perform major feats of legerdemain.
 
 | DC | Task |
 | --- | --- |
-| 50 | Lift a sheathed weapon from another creature and hide it on the character’s person, if the weapon is no more than one size category larger than the character’s own size. |
-| 80 | Make an adjacent, willing creature or object of the character’s size or smaller "disappear" while in plain view. In fact, the willing creature or object is displaced up to 10 feet away---make a separate Hide check to determine how well the "disappeared" creature or object is hidden. |
+| 50 | Lift a sheathed weapon from another creature and hide it on the character's person, if the weapon is no more than one size category larger than the character's own size. |
+| 80 | Make an adjacent, willing creature or object of the character's size or smaller "disappear" while in plain view. In fact, the willing creature or object is displaced up to 10 feet away--make a separate Hide check to determine how well the "disappeared" creature or object is hidden. |
 
 ## Spellcraft
 The character can identify properties of a magic item.
@@ -497,18 +497,18 @@ The character can identify properties of a magic item.
 
 ### Identify Basic Property of Magic Item:
  This use of the skill requires one round of inspection,
-and functions exactly as if the character had cast an _identify_ spell on the item. A character can’t attempt
+and functions exactly as if the character had cast an _identify_ spell on the item. A character can't attempt
 this on the same item more than once.
 
 ### Identify All Properties of Magic Item:
  This requires one minute of inspection, and reveals all
-properties of a single magic item (including command words and charges remaining). A character can’t attempt this
+properties of a single magic item (including command words and charges remaining). A character can't attempt this
 on the same item more than once. If an item has different caster levels for different properties, use the highest
 caster level.
 
 ### Quick Identification:
  A character can identify a substance or potion in the field as a full-round
-action, without an alchemical lab or any cost. The character can’t retry this check (or take 20); if he or she
+action, without an alchemical lab or any cost. The character can't retry this check (or take 20); if he or she
 fails, the character must identify the substance in an alchemical lab, as normal.
 
 ## Spot
@@ -529,7 +529,7 @@ still maintains total concealment from the character (50% miss chance).
 
 ### Defeat Illusion:
  The character can automatically detect any illusion with a visual component for
-what it truly is. No Will save is required, and the character doesn’t have to interact with the illusion (but he
+what it truly is. No Will save is required, and the character doesn't have to interact with the illusion (but he
 or she must be able to see it).
 
 ### Using Spot to Read Lips:
@@ -541,7 +541,7 @@ or she must be able to see it).
 
 ### Pronounce Unfamiliar Language:
  This use of the skill allows a character to repeat the speech of
-an observed creature, potentially allowing a comrade to translate the speech. It doesn’t grant the character any
+an observed creature, potentially allowing a comrade to translate the speech. It doesn't grant the character any
 ability to understand the language spoken.
 
 ## Survival
@@ -568,13 +568,13 @@ Wherever the character is, he or she can determine the direction to a location o
 | 120 | Description only |
 
 With a successful check, the character knows the direction to the desired location. This merely points the
-character in the direction of the location; it doesn’t provide him or her with information on how to get there,
+character in the direction of the location; it doesn't provide him or her with information on how to get there,
 nor does it take into account any obstacles in the path. "Very familiar" represents a place where the character
 has been very often and where he or she feels at home. "Studied carefully" represents a place the character knows
 well, either because he or she has been there often or has used other means to study the place. "Seen casually" is
 a place that the character has viewed more than once, but which he or she has not studied. "Viewed once" is a
 place that the character has seen once, possibly using magic. "Description only" is a place whose location and
-appearance the character knows through someone else’s description.
+appearance the character knows through someone else's description.
 
 ## Swim
 The character can swim up vertical surfaces, or swim much faster than normal.
@@ -645,13 +645,13 @@ The character can splice ropes together quickly, tie unique knots, and even anim
 
 ### Tie Unique Knot:
  The character can tie a knot that only he or she knows how to untie. This
-doesn’t affect any Escape Artist checks made to escape these bindings.
+doesn't affect any Escape Artist checks made to escape these bindings.
 
 ### Animate Held Rope:
  The character can command any rope he or she holds as if it had the
-_animate rope_ spell cast upon it (except that using the skill in this way doesn’t grant any bonus on Use
+_animate rope_ spell cast upon it (except that using the skill in this way doesn't grant any bonus on Use
 Rope checks made with the animated rope). Each command requires a separate Use Rope check. Because the effect
-isn’t magical, it can’t be dispelled.
+isn't magical, it can't be dispelled.
 
 ## Psionic Skills
 ### Autohypnosis
@@ -661,7 +661,7 @@ that he or she is tougher than normal.
 
 | DC | Task |
 | --- | --- |
-| Poison’s DC + 5 | When poisoned, the character can make an Autohypnosis check on his or her next action. A successful check indicates the character does not have to make a saving throw against the poison’s secondary damage, which he or she instead automatically ignores. |
+| Poison's DC + 5 | When poisoned, the character can make an Autohypnosis check on his or her next action. A successful check indicates the character does not have to make a saving throw against the poison's secondary damage, which he or she instead automatically ignores. |
 | 50 | If a failed saving throw indicates the character is affected by any mind-affecting powers, spells, or spell-like effects, a successful Autohypnosis check allows an immediate second saving throw to resist the effect. If the mind-affecting effect normally does not allow a saving throw, a successful Autohypnosis check allows a saving throw. |
 | 60 | With a successful Autohypnosis check, the character gains temporary hit points equal to 10 + his or her Wisdom modifier. The temporary hit points persist until lost. A character cannot check for temporary hit points more than once per day. Temporary hit points gained through Autohypnosis do not stack with temporary hit points gained through any other source |
 
@@ -687,16 +687,16 @@ _scrying_ spell, add these to your caster level check.
 | Break scrying | Opposed caster level check |
 
 ### Learn Scryer:
- If you determine that you’re being scried upon, you can learn the identity of the
+ If you determine that you're being scried upon, you can learn the identity of the
 scryer with a DC 30 caster level check. If successful, you learn the name, race, and location of the scryer.
 
 ### Return Scrying:
- If you determine that you’re being scried upon, you can look back through the
+ If you determine that you're being scried upon, you can look back through the
 sensor at the scryer with a DC 50 caster level check. This allows you to spy on the scrying being as if you had
 cast a _scrying_ spell upon that person. This return scrying can be detected by your target as normal.
 
 ### Break Scrying:
- If you determine that you’re being scried, you can make an opposed caster level
+ If you determine that you're being scried, you can make an opposed caster level
 check with the scryer. (Your caster level must be at least 21st to attempt this task.) If you are successful, the
 scrying ends, and the scryer may not target you with a Divination (Scrying) spell or effect for a number of hours
 equal to your Intelligence modifier (minimum 1).

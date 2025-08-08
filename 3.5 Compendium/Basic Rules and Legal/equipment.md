@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Equipment
-aliases: 3.5 Equipment
+aliases:
+  - 3.5 Equipment
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - equipment
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -16,8 +16,8 @@ This material is Open Game Content, and is licensed for public use under the ter
 # EQUIPMENT
 
 Assume a character owns at least one outfit of normal clothes. Pick any one of the following clothing outfits:
-artisan’s outfit, entertainer’s outfit, explorer’s outfit, monk’s outfit, peasant’s outfit, scholar’s outfit, or
-traveler’s outfit.
+artisan's outfit, entertainer's outfit, explorer's outfit, monk's outfit, peasant's outfit, scholar's outfit, or
+traveler's outfit.
 
 ## Table of Contents
 *   [[#Wealth and Money]]
@@ -97,8 +97,8 @@ easily exchanged almost as if it were cash itself.
 ### Weapon Categories
 Weapons are grouped into several interlocking sets of categories.
 
-These categories pertain to what training is needed to become proficient in a weapon’s use (simple, martial, or
-exotic), the weapon’s usefulness either in close combat (melee) or at a distance (ranged, which includes both
+These categories pertain to what training is needed to become proficient in a weapon's use (simple, martial, or
+exotic), the weapon's usefulness either in close combat (melee) or at a distance (ranged, which includes both
 thrown and projectile weapons), its relative encumbrance (light, one-handed, or two-handed), and its size (Small,
 Medium, or Large).
 
@@ -114,8 +114,8 @@ proficient takes a -4 penalty on attack rolls.
 can be thrown as well. Ranged weapons are thrown weapons or projectile weapons that are not effective in melee.
 
 _Reach Weapons:_ Glaives, guisarmes, lances, longspears, ranseurs, spiked chains, and whips are reach
-weapons. A reach weapon is a melee weapon that allows its wielder to strike at targets that aren’t adjacent to him
-or her. Most reach double the wielder’s natural reach, meaning that a typical Small or Medium wielder of such a
+weapons. A reach weapon is a melee weapon that allows its wielder to strike at targets that aren't adjacent to him
+or her. Most reach double the wielder's natural reach, meaning that a typical Small or Medium wielder of such a
 weapon can attack a creature 10 feet away, but not a creature in an adjacent square. A typical Large character
 wielding a reach weapon of the appropriate size can attack a creature 15 or 20 feet away, but not adjacent
 creatures or creatures up to 10 feet away.
@@ -126,13 +126,13 @@ two weapons, but he or she incurs all the normal attack penalties associated wit
 though the character were wielding a one-handed weapon and a light weapon.
 
 The character can also choose to use a double weapon two handed, attacking with only one end of it. A creature
-wielding a double weapon in one hand can’t use it as a double weapon---only one end of the weapon can be used in any
+wielding a double weapon in one hand can't use it as a double weapon--only one end of the weapon can be used in any
 given round.
 
 _Thrown Weapons:_ Daggers, clubs, shortspears, spears, darts, javelins, throwing axes, light hammers,
 tridents, shuriken, and nets are thrown weapons. The wielder applies his or her Strength modifier to damage dealt
-by thrown weapons (except for splash weapons). It is possible to throw a weapon that isn’t designed to be thrown
-(that is, a melee weapon that doesn’t have a numeric entry in the Range Increment column on Table: Weapons), but a
+by thrown weapons (except for splash weapons). It is possible to throw a weapon that isn't designed to be thrown
+(that is, a melee weapon that doesn't have a numeric entry in the Range Increment column on Table: Weapons), but a
 character who does so takes a -4 penalty on the attack roll. Throwing a light or one-handed weapon is a standard
 action, while throwing a two-handed weapon is a full-round action. Regardless of the type of weapon, such an
 attack scores a threat only on a natural roll of 20 and deals double damage on a critical hit. Such a weapon has a
@@ -141,7 +141,7 @@ range increment of 10 feet.
 _Projectile Weapons:_ Light crossbows, slings, heavy crossbows, shortbows, composite shortbows, longbows,
 composite longbows, hand crossbows, and repeating crossbows are projectile weapons. Most projectile weapons
 require two hands to use (see specific weapon descriptions). A character gets no Strength bonus on damage rolls
-with a projectile weapon unless it’s a specially built composite shortbow, specially built composite longbow, or
+with a projectile weapon unless it's a specially built composite shortbow, specially built composite longbow, or
 sling. If the character has a penalty for low Strength, apply it to damage rolls when he or she uses a bow or a
 sling.
 
@@ -157,42 +157,42 @@ thrown.
 ### Light, One-Handed, and Two-Handed Melee Weapons:
  This designation is a measure of how much effort
 it takes to wield a weapon in combat. It indicates whether a melee weapon, when wielded by a character of the
-weapon’s size category, is considered a light weapon, a one-handed weapon, or a two-handed weapon.
+weapon's size category, is considered a light weapon, a one-handed weapon, or a two-handed weapon.
 
-_Light:_ A light weapon is easier to use in one’s off hand than a one-handed weapon is, and it can be used
-while grappling. A light weapon is used in one hand. Add the wielder’s Strength bonus (if any) to damage rolls for
-melee attacks with a light weapon if it’s used in the primary hand, or one-half the wielder’s Strength bonus if
-it’s used in the off hand. Using two hands to wield a light weapon gives no advantage on damage; the Strength
-bonus applies as though the weapon were held in the wielder’s primary hand only.
+_Light:_ A light weapon is easier to use in one's off hand than a one-handed weapon is, and it can be used
+while grappling. A light weapon is used in one hand. Add the wielder's Strength bonus (if any) to damage rolls for
+melee attacks with a light weapon if it's used in the primary hand, or one-half the wielder's Strength bonus if
+it's used in the off hand. Using two hands to wield a light weapon gives no advantage on damage; the Strength
+bonus applies as though the weapon were held in the wielder's primary hand only.
 
 An unarmed strike is always considered a light weapon.
 
-_One-Handed:_ A one-handed weapon can be used in either the primary hand or the off hand. Add the wielder’s
-Strength bonus to damage rolls for melee attacks with a one-handed weapon if it’s used in the primary hand, or 1/2
-his or her Strength bonus if it’s used in the off hand. If a one-handed weapon is wielded with two hands during
-melee combat, add 1-1/2 times the character’s Strength bonus to damage rolls.
+_One-Handed:_ A one-handed weapon can be used in either the primary hand or the off hand. Add the wielder's
+Strength bonus to damage rolls for melee attacks with a one-handed weapon if it's used in the primary hand, or 1/2
+his or her Strength bonus if it's used in the off hand. If a one-handed weapon is wielded with two hands during
+melee combat, add 1-1/2 times the character's Strength bonus to damage rolls.
 
 _Two-Handed:_ Two hands are required to use a two-handed melee weapon effectively. Apply 1-1/2 times the
-character’s Strength bonus to damage rolls for melee attacks with such a weapon.
+character's Strength bonus to damage rolls for melee attacks with such a weapon.
 
 ### Weapon Size:
  Every weapon has a size category. This designation indicates the size of the
 creature for which the weapon was designed.
 
-A weapon’s size category isn’t the same as its size as an object. Instead, a weapon’s size category is keyed to
+A weapon's size category isn't the same as its size as an object. Instead, a weapon's size category is keyed to
 the size of the intended wielder. In general, a light weapon is an object two size categories smaller than the
 wielder, a one-handed weapon is an object one size category smaller than the wielder, and a two-handed weapon is
 an object of the same size category as the wielder.
 
-_Inappropriately Sized Weapons:_ A creature can’t make optimum use of a weapon that isn’t properly sized
+_Inappropriately Sized Weapons:_ A creature can't make optimum use of a weapon that isn't properly sized
 for it. A cumulative -2 penalty applies on attack rolls for each size category of difference between the size of
-its intended wielder and the size of its actual wielder. If the creature isn’t proficient with the weapon a -4
+its intended wielder and the size of its actual wielder. If the creature isn't proficient with the weapon a -4
 nonproficiency penalty also applies.
 
 The measure of how much effort it takes to use a weapon (whether the weapon is designated as a light, one-handed,
 or two-handed weapon for a particular wielder) is altered by one step for each size category of difference between
-the wielder’s size and the size of the creature for which the weapon was designed. If a weapon’s designation would
-be changed to something other than light, one-handed, or two-handed by this alteration, the creature can’t wield
+the wielder's size and the size of the creature for which the weapon was designed. If a weapon's designation would
+be changed to something other than light, one-handed, or two-handed by this alteration, the creature can't wield
 the weapon at all.
 
 ### Improvised Weapons:
@@ -207,7 +207,7 @@ on a critical hit. An improvised thrown weapon has a range increment of 10 feet.
 Here is the format for weapon entries (given as column headings on Table: Weapons, below).
 
 ### Cost:
- This value is the weapon’s cost in gold pieces (gp) or silver pieces (sp). The cost
+ This value is the weapon's cost in gold pieces (gp) or silver pieces (sp). The cost
 includes miscellaneous gear that goes with the weapon.
 
 This cost is the same for a Small or Medium version of the weapon. A Large version costs twice the listed price.
@@ -215,14 +215,14 @@ This cost is the same for a Small or Medium version of the weapon. A Large versi
 ### Damage:
  The Damage columns give the damage dealt by the weapon on a successful hit. The column
 labeled "Dmg (S)" is for Small weapons. The column labeled "Dmg (M)" is for Medium weapons. If two damage ranges
-are given then the weapon is a double weapon. Use the second damage figure given for the double weapon’s extra
+are given then the weapon is a double weapon. Use the second damage figure given for the double weapon's extra
 attack. Table: Tiny and Large Weapon Damage gives weapon damage values for weapons of those sizes.
 
 **Table: Tiny and Large Weapon Damage**
 
 | Medium Weapon Damage | Tiny Weapon Damage | Large Weapon Damage |
 | --- | --- | --- |
-| 1d2 | --- | 1d3 |
+| 1d2 | -- | 1d3 |
 | 1d3 | 1 | 1d4 |
 | 1d4 | 1d2 | 1d6 |
 | 1d6 | 1d3 | 1d8 |
@@ -239,7 +239,7 @@ attack. Table: Tiny and Large Weapon Damage gives weapon damage values for weapo
 When your character scores a critical hit, roll the damage two, three, or four times, as indicated by its critical
 multiplier (using all applicable modifiers on each roll), and add all the results together.
 
-_Exception:_ Extra damage over and above a weapon’s normal damage is not multiplied when you score a
+_Exception:_ Extra damage over and above a weapon's normal damage is not multiplied when you score a
 critical hit.
 
 _x2:_ The weapon deals double damage on a critical hit.
@@ -285,105 +285,105 @@ significant, the wielder can choose which type of damage to deal with such a wea
 | Simple Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight<sup>1</sup> | Type<sup>2</sup> |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | _Unarmed Attacks_ |
-|   Gauntlet | 2 gp | 1d2 | 1d3 | x2 | --- | 1 lb. | Bludgeoning |
-|   Unarmed strike | --- | 1d2<sup>3</sup> | 1d3<sup>3</sup> | x2 | --- | --- | Bludgeoning |
+|   Gauntlet | 2 gp | 1d2 | 1d3 | x2 | -- | 1 lb. | Bludgeoning |
+|   Unarmed strike | -- | 1d2<sup>3</sup> | 1d3<sup>3</sup> | x2 | -- | -- | Bludgeoning |
 | _Light Melee Weapons_ |
 |   Dagger | 2 gp | 1d3 | 1d4 | 19-20/x2 | 10 ft. | 1 lb. | Piercing or slashing |
-|   Dagger, punching | 2 gp | 1d3 | 1d4 | x3 | --- | 1 lb. | Piercing |
-|   Gauntlet, spiked | 5 gp | 1d3 | 1d4 | x2 | --- | 1 lb. | Piercing |
-|   Mace, light | 5 gp | 1d4 | 1d6 | x2 | --- | 4 lb. | Bludgeoning |
-|   Sickle | 6 gp | 1d4 | 1d6 | x2 | --- | 2 lb. | Slashing |
+|   Dagger, punching | 2 gp | 1d3 | 1d4 | x3 | -- | 1 lb. | Piercing |
+|   Gauntlet, spiked | 5 gp | 1d3 | 1d4 | x2 | -- | 1 lb. | Piercing |
+|   Mace, light | 5 gp | 1d4 | 1d6 | x2 | -- | 4 lb. | Bludgeoning |
+|   Sickle | 6 gp | 1d4 | 1d6 | x2 | -- | 2 lb. | Slashing |
 | _One-Handed Melee Weapons_ |
-|   Club | --- | 1d4 | 1d6 | x2 | 10 ft. | 3 lb. | Bludgeoning |
-|   Mace, heavy | 12 gp | 1d6 | 1d8 | x2 | --- | 8 lb. | Bludgeoning |
-|   Morningstar | 8 gp | 1d6 | 1d8 | x2 | --- | 6 lb. | Bludgeoning and piercing |
+|   Club | -- | 1d4 | 1d6 | x2 | 10 ft. | 3 lb. | Bludgeoning |
+|   Mace, heavy | 12 gp | 1d6 | 1d8 | x2 | -- | 8 lb. | Bludgeoning |
+|   Morningstar | 8 gp | 1d6 | 1d8 | x2 | -- | 6 lb. | Bludgeoning and piercing |
 |   Shortspear | 1 gp | 1d4 | 1d6 | x2 | 20 ft. | 3 lb. | Piercing |
 | _Two-Handed Melee Weapons_ |
-|   Longspear<sup>4</sup> | 5 gp | 1d6 | 1d8 | x3 | --- | 9 lb. | Piercing |
-|   Quarterstaff<sup>5</sup> | --- | 1d4/1d4 | 1d6/1d6 | x2 | --- | 4 lb. | Bludgeoning |
+|   Longspear<sup>4</sup> | 5 gp | 1d6 | 1d8 | x3 | -- | 9 lb. | Piercing |
+|   Quarterstaff<sup>5</sup> | -- | 1d4/1d4 | 1d6/1d6 | x2 | -- | 4 lb. | Bludgeoning |
 |   Spear | 2 gp | 1d6 | 1d8 | x3 | 20 ft. | 6 lb. | Piercing |
 | _Ranged Weapons_ |
 |   Crossbow, heavy | 50 gp | 1d8 | 1d10 | 19-20/x2 | 120 ft. | 8 lb. | Piercing |
-|     Bolts, crossbow (10) | 1 gp | --- | --- | --- | --- | 1 lb. | --- |
+|     Bolts, crossbow (10) | 1 gp | -- | -- | -- | -- | 1 lb. | -- |
 |   Crossbow, light | 35 gp | 1d6 | 1d8 | 19-20/x2 | 80 ft. | 4 lb. | Piercing |
-|     Bolts, crossbow (10) | 1 gp | --- | --- | --- | --- | 1 lb. | --- |
+|     Bolts, crossbow (10) | 1 gp | -- | -- | -- | -- | 1 lb. | -- |
 |   Dart | 5 sp | 1d3 | 1d4 | x2 | 20 ft. | 1/2 lb. | Piercing |
 |   Javelin | 1 gp | 1d4 | 1d6 | x2 | 30 ft. | 2 lb. | Piercing |
-|   Sling | --- | 1d3 | 1d4 | x2 | 50 ft. | 0 lb. | Bludgeoning |
-|     Bullets, sling (10) | 1 sp | --- | --- | --- | --- | 5 lb. | --- |
+|   Sling | -- | 1d3 | 1d4 | x2 | 50 ft. | 0 lb. | Bludgeoning |
+|     Bullets, sling (10) | 1 sp | -- | -- | -- | -- | 5 lb. | -- |
 | Martial Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight1 | Type<sup>2</sup> |
 | _Light Melee Weapons_ |
 |   Axe, throwing | 8 gp | 1d4 | 1d6 | x2 | 10 ft. | 2 lb. | Slashing |
 |   Hammer, light | 1 gp | 1d3 | 1d4 | x2 | 20 ft. | 2 lb. | Bludgeoning |
-|   Handaxe | 6 gp | 1d4 | 1d6 | x3 | --- | 3 lb. | Slashing |
-|   Kukri | 8 gp | 1d3 | 1d4 | 18-20/x2 | --- | 2 lb. | Slashing |
-|   Pick, light | 4 gp | 1d3 | 1d4 | x4 | --- | 3 lb. | Piercing |
-|   Sap | 1 gp | 1d4<sup>3</sup> | 1d6<sup>3</sup> | x2 | --- | 2 lb. | Bludgeoning |
-|   Shield, light | special | 1d2 | 1d3 | x2 | --- | special | Bludgeoning |
-|   Spiked armor | special | 1d4 | 1d6 | x2 | --- | special | Piercing |
-|   Spiked shield, light | special | 1d3 | 1d4 | x2 | --- | special | Piercing |
-|   Sword, short | 10 gp | 1d4 | 1d6 | 19-20/x2 | --- | 2 lb. | Piercing |
+|   Handaxe | 6 gp | 1d4 | 1d6 | x3 | -- | 3 lb. | Slashing |
+|   Kukri | 8 gp | 1d3 | 1d4 | 18-20/x2 | -- | 2 lb. | Slashing |
+|   Pick, light | 4 gp | 1d3 | 1d4 | x4 | -- | 3 lb. | Piercing |
+|   Sap | 1 gp | 1d4<sup>3</sup> | 1d6<sup>3</sup> | x2 | -- | 2 lb. | Bludgeoning |
+|   Shield, light | special | 1d2 | 1d3 | x2 | -- | special | Bludgeoning |
+|   Spiked armor | special | 1d4 | 1d6 | x2 | -- | special | Piercing |
+|   Spiked shield, light | special | 1d3 | 1d4 | x2 | -- | special | Piercing |
+|   Sword, short | 10 gp | 1d4 | 1d6 | 19-20/x2 | -- | 2 lb. | Piercing |
 | _One-Handed Melee Weapons_ |
-|   Battleaxe | 10 gp | 1d6 | 1d8 | x3 | --- | 6 lb. | Slashing |
-|   Flail | 8 gp | 1d6 | 1d8 | x2 | --- | 5 lb. | Bludgeoning |
-|   Longsword | 15 gp | 1d6 | 1d8 | 19-20/x2 | --- | 4 lb. | Slashing |
-|   Pick, heavy | 8 gp | 1d4 | 1d6 | x4 | --- | 6 lb. | Piercing |
-|   Rapier | 20 gp | 1d4 | 1d6 | 18-20/x2 | --- | 2 lb. | Piercing |
-|   Scimitar | 15 gp | 1d4 | 1d6 | 18-20/x2 | --- | 4 lb. | Slashing |
-|   Shield, heavy | special | 1d3 | 1d4 | x2 | --- | special | Bludgeoning |
-|   Spiked shield, heavy | special | 1d4 | 1d6 | x2 | --- | special | Piercing |
+|   Battleaxe | 10 gp | 1d6 | 1d8 | x3 | -- | 6 lb. | Slashing |
+|   Flail | 8 gp | 1d6 | 1d8 | x2 | -- | 5 lb. | Bludgeoning |
+|   Longsword | 15 gp | 1d6 | 1d8 | 19-20/x2 | -- | 4 lb. | Slashing |
+|   Pick, heavy | 8 gp | 1d4 | 1d6 | x4 | -- | 6 lb. | Piercing |
+|   Rapier | 20 gp | 1d4 | 1d6 | 18-20/x2 | -- | 2 lb. | Piercing |
+|   Scimitar | 15 gp | 1d4 | 1d6 | 18-20/x2 | -- | 4 lb. | Slashing |
+|   Shield, heavy | special | 1d3 | 1d4 | x2 | -- | special | Bludgeoning |
+|   Spiked shield, heavy | special | 1d4 | 1d6 | x2 | -- | special | Piercing |
 |   Trident | 15 gp | 1d6 | 1d8 | x2 | 10 ft. | 4 lb. | Piercing |
-|   Warhammer | 12 gp | 1d6 | 1d8 | x3 | --- | 5 lb. | Bludgeoning |
+|   Warhammer | 12 gp | 1d6 | 1d8 | x3 | -- | 5 lb. | Bludgeoning |
 | _Two-Handed Melee Weapons_ |
-|   Falchion | 75 gp | 1d6 | 2d4 | 18-20/x2 | --- | 8 lb. | Slashing |
-|   Glaive<sup>4</sup> | 8 gp | 1d8 | 1d10 | x3 | --- | 10 lb. | Slashing |
-|   Greataxe | 20 gp | 1d10 | 1d12 | x3 | --- | 12 lb. | Slashing |
-|   Greatclub | 5 gp | 1d8 | 1d10 | x2 | --- | 8 lb. | Bludgeoning |
-|   Flail, heavy | 15 gp | 1d8 | 1d10 | 19-20/x2 | --- | 10 lb. | Bludgeoning |
-|   Greatsword | 50 gp | 1d10 | 2d6 | 19-20/x2 | --- | 8 lb. | Slashing |
-|   Guisarme<sup>4</sup> | 9 gp | 1d6 | 2d4 | x3 | --- | 12 lb. | Slashing |
-|   Halberd | 10 gp | 1d8 | 1d10 | x3 | --- | 12 lb. | Piercing or slashing |
-|   Lance<sup>4</sup> | 10 gp | 1d6 | 1d8 | x3 | --- | 10 lb. | Piercing |
-|   Ranseur<sup>4</sup> | 10 gp | 1d6 | 2d4 | x3 | --- | 12 lb. | Piercing |
-|   Scythe | 18 gp | 1d6 | 2d4 | x4 | --- | 10 lb. | Piercing or slashing |
+|   Falchion | 75 gp | 1d6 | 2d4 | 18-20/x2 | -- | 8 lb. | Slashing |
+|   Glaive<sup>4</sup> | 8 gp | 1d8 | 1d10 | x3 | -- | 10 lb. | Slashing |
+|   Greataxe | 20 gp | 1d10 | 1d12 | x3 | -- | 12 lb. | Slashing |
+|   Greatclub | 5 gp | 1d8 | 1d10 | x2 | -- | 8 lb. | Bludgeoning |
+|   Flail, heavy | 15 gp | 1d8 | 1d10 | 19-20/x2 | -- | 10 lb. | Bludgeoning |
+|   Greatsword | 50 gp | 1d10 | 2d6 | 19-20/x2 | -- | 8 lb. | Slashing |
+|   Guisarme<sup>4</sup> | 9 gp | 1d6 | 2d4 | x3 | -- | 12 lb. | Slashing |
+|   Halberd | 10 gp | 1d8 | 1d10 | x3 | -- | 12 lb. | Piercing or slashing |
+|   Lance<sup>4</sup> | 10 gp | 1d6 | 1d8 | x3 | -- | 10 lb. | Piercing |
+|   Ranseur<sup>4</sup> | 10 gp | 1d6 | 2d4 | x3 | -- | 12 lb. | Piercing |
+|   Scythe | 18 gp | 1d6 | 2d4 | x4 | -- | 10 lb. | Piercing or slashing |
 | _Ranged Weapons_ |
 |   Longbow | 75 gp | 1d6 | 1d8 | x3 | 100 ft. | 3 lb. | Piercing |
-|     Arrows (20) | 1 gp | --- | --- | --- | --- | 3 lb. | --- |
+|     Arrows (20) | 1 gp | -- | -- | -- | -- | 3 lb. | -- |
 |   Longbow, composite | 100 gp | 1d6 | 1d8 | x3 | 110 ft. | 3 lb. | Piercing |
-|     Arrows (20) | 1 gp | --- | --- | --- | --- | 3 lb. | --- |
+|     Arrows (20) | 1 gp | -- | -- | -- | -- | 3 lb. | -- |
 |   Shortbow | 30 gp | 1d4 | 1d6 | x3 | 60 ft. | 2 lb. | Piercing |
-|     Arrows (20) | 1 gp | --- | --- | --- | --- | 3 lb. | --- |
+|     Arrows (20) | 1 gp | -- | -- | -- | -- | 3 lb. | -- |
 |   Shortbow, composite | 75 gp | 1d4 | 1d6 | x3 | 70 ft. | 2 lb. | Piercing |
-|     Arrows (20) | 1 gp | --- | --- | --- | --- | 3 lb. | --- |
+|     Arrows (20) | 1 gp | -- | -- | -- | -- | 3 lb. | -- |
 | Exotic Weapons | Cost | Dmg (S) | Dmg (M) | Critical | Range Increment | Weight<sup>1</sup> | Type<sup>2</sup> |
 | _Light Melee Weapons_ |
-|   Kama | 2 gp | 1d4 | 1d6 | x2 | --- | 2 lb. | Slashing |
-|   Nunchaku | 2 gp | 1d4 | 1d6 | x2 | --- | 2 lb. | Bludgeoning |
+|   Kama | 2 gp | 1d4 | 1d6 | x2 | -- | 2 lb. | Slashing |
+|   Nunchaku | 2 gp | 1d4 | 1d6 | x2 | -- | 2 lb. | Bludgeoning |
 |   Sai | 1 gp | 1d3 | 1d4 | x2 | 10 ft. | 1 lb. | Bludgeoning |
-|   Siangham | 3 gp | 1d4 | 1d6 | x2 | --- | 1 lb. | Piercing |
+|   Siangham | 3 gp | 1d4 | 1d6 | x2 | -- | 1 lb. | Piercing |
 | _One-Handed Melee Weapons_ |
-|   Sword, bastard | 35 gp | 1d8 | 1d10 | 19-20/x2 | --- | 6 lb. | Slashing |
-|   Waraxe, dwarven | 30 gp | 1d8 | 1d10 | x3 | --- | 8 lb. | Slashing |
+|   Sword, bastard | 35 gp | 1d8 | 1d10 | 19-20/x2 | -- | 6 lb. | Slashing |
+|   Waraxe, dwarven | 30 gp | 1d8 | 1d10 | x3 | -- | 8 lb. | Slashing |
 |   Whip<sup>4</sup> | 1 gp | 1d2<sup>3</sup> | 1d3<sup>3</sup> | x2 |  | 2 lb. | Slashing |
 | _Two-Handed Melee Weapons_ |
-|   Axe, orc double<sup>5</sup> | 60 gp | 1d6/1d6 | 1d8/1d8 | x3 | --- | 15 lb. | Slashing |
-|   Chain, spiked<sup>4</sup> | 25 gp | 1d6 | 2d4 | x2 | --- | 10 lb. | Piercing |
-|   Flail, dire<sup>5</sup> | 90 gp | 1d6/1d6 | 1d8/1d8 | x2 | --- | 10 lb. | Bludgeoning |
-|   Hammer,   gnome hooked<sup>5</sup> | 20 gp | 1d6/1d4 | 1d8/1d6 | x3/x4 | --- | 6 lb. | Bludgeoning and piercing |
-|   Sword, two-bladed<sup>5</sup> | 100 gp | 1d6/1d6 | 1d8/1d8 | 19-20/x2 | --- | 10 lb. | Slashing |
-|   Urgrosh, dwarven<sup>5</sup> | 50 gp | 1d6/1d4 | 1d8/1d6 | x3 | --- | 12 lb. | Slashing or piercing |
+|   Axe, orc double<sup>5</sup> | 60 gp | 1d6/1d6 | 1d8/1d8 | x3 | -- | 15 lb. | Slashing |
+|   Chain, spiked<sup>4</sup> | 25 gp | 1d6 | 2d4 | x2 | -- | 10 lb. | Piercing |
+|   Flail, dire<sup>5</sup> | 90 gp | 1d6/1d6 | 1d8/1d8 | x2 | -- | 10 lb. | Bludgeoning |
+|   Hammer,   gnome hooked<sup>5</sup> | 20 gp | 1d6/1d4 | 1d8/1d6 | x3/x4 | -- | 6 lb. | Bludgeoning and piercing |
+|   Sword, two-bladed<sup>5</sup> | 100 gp | 1d6/1d6 | 1d8/1d8 | 19-20/x2 | -- | 10 lb. | Slashing |
+|   Urgrosh, dwarven<sup>5</sup> | 50 gp | 1d6/1d4 | 1d8/1d6 | x3 | -- | 12 lb. | Slashing or piercing |
 | _Ranged Weapons_ |
 |   Bolas | 5 gp | 1d3<sup>3</sup> | 1d4<sup>3</sup> | x2 | 10 ft. | 2 lb. | Bludgeoning |
 |   Crossbow, hand | 100 gp | 1d3 | 1d4 | 19-20/x2 | 30 ft. | 2 lb. | Piercing |
-|     Bolts (10) | 1 gp | --- | --- | --- | --- | 1 lb. | --- |
+|     Bolts (10) | 1 gp | -- | -- | -- | -- | 1 lb. | -- |
 |   Crossbow,   repeating heavy | 400 gp | 1d8 | 1d10 | 19-20/x2 | 120 ft. | 12 lb. | Piercing |
-|     Bolts (5) | 1 gp | --- | --- | --- | 1 lb. | --- |  |
+|     Bolts (5) | 1 gp | -- | -- | -- | 1 lb. | -- |  |
 |   Crossbow,   repeating light | 250 gp | 1d6 | 1d8 | 19-20/x2 | 80 ft. | 6 lb. | Piercing |
-|     Bolts (5) | 1 gp | --- | --- | --- | 1 lb. | --- |  |
-|   Net | 20 gp | --- | --- | 10 ft. | 6 lb. | --- |  |
+|     Bolts (5) | 1 gp | -- | -- | -- | 1 lb. | -- |  |
+|   Net | 20 gp | -- | -- | 10 ft. | 6 lb. | -- |  |
 |   Shuriken (5) | 1 gp | 1 | 1d2 | x2 | 10 ft. | 1/2 lb. | Piercing |
 | 1 Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much. |
-| 2 When two types are given, the weapon is both types if the entry specifies "and," or either type (player’s choice at time of attack) if the entry specifies "or." |
+| 2 When two types are given, the weapon is both types if the entry specifies "and," or either type (player's choice at time of attack) if the entry specifies "or." |
 | 3 The weapon deals nonlethal damage rather than lethal damage. |
 | 4 Reach weapon. |
 | 5 Double weapon. |
@@ -402,11 +402,11 @@ destroyed or lost.
 two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons,
 just as if you were using a one-handed weapon and a light weapon.
 
-A creature wielding an orc double axe in one hand can’t use it as a double weapon---only one end of the weapon can
+A creature wielding an orc double axe in one hand can't use it as a double weapon--only one end of the weapon can
 be used in any given round.
 
 ### Bolas:
- You can use this weapon to make a ranged trip attack against an opponent. You can’t be
+ You can use this weapon to make a ranged trip attack against an opponent. You can't be
 tripped during your own trip attempt when using a set of bolas.
 
 ### Bolts:
@@ -430,7 +430,7 @@ When using a spiked chain, you get a +2 bonus on opposed attack rolls made to di
 roll to avoid being disarmed if such an attempt fails).
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack
-rolls with a spiked chain sized for you, even though it isn’t a light weapon for you.
+rolls with a spiked chain sized for you, even though it isn't a light weapon for you.
 
 ### Crossbow, Hand:
  You can draw a hand crossbow back by hand. Loading a hand crossbow is a move
@@ -473,8 +473,8 @@ the Sleight of Hand skill).
 ### Flail, Dire:
  A dire flail is a double weapon. You can fight with it as if fighting with two
 weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just
-as if you were using a one-handed weapon and a light weapon. A creature wielding a dire flail in one hand can’t
-use it as a double weapon--- only one end of the weapon can be used in any given round.
+as if you were using a one-handed weapon and a light weapon. A creature wielding a dire flail in one hand can't
+use it as a double weapon-- only one end of the weapon can be used in any given round.
 
 When using a dire flail, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the opposed
 attack roll to avoid being disarmed if such an attempt fails).
@@ -499,11 +499,11 @@ single gauntlet. Medium and heavy armors (except breastplate) come with gauntlet
 cost and weight given are for a single gauntlet. An attack with a spiked gauntlet is considered an armed attack.
 
 ### Glaive:
- A glaive has reach. You can strike opponents 10 feet away with it, but you can’t use it
+ A glaive has reach. You can strike opponents 10 feet away with it, but you can't use it
 against an adjacent foe.
 
 ### Guisarme:
- A guisarme has reach. You can strike opponents 10 feet away with it, but you can’t use
+ A guisarme has reach. You can strike opponents 10 feet away with it, but you can't use
 it against an adjacent foe.
 
 You can also use it to make trip attacks. If you are tripped during your own trip attempt, you can drop the
@@ -519,10 +519,10 @@ halberd to avoid being tripped.
 ### Hammer, Gnome Hooked:
  A gnome hooked hammer is a double weapon. You can fight with it as if
 fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with
-two weapons, just as if you were using a one-handed weapon and a light weapon. The hammer’s blunt head is a
+two weapons, just as if you were using a one-handed weapon and a light weapon. The hammer's blunt head is a
 bludgeoning weapon that deals 1d6 points of damage (crit x3). Its hook is a piercing weapon that deals 1d4 points
 of damage (crit x4). You can use either head as the primary weapon. The other head is the offhand weapon. A
-creature wielding a gnome hooked hammer in one hand can’t use it as a double weapon---only one end of the weapon can
+creature wielding a gnome hooked hammer in one hand can't use it as a double weapon--only one end of the weapon can
 be used in any given round.
 
 You can use a gnome hooked hammer to make trip attacks. If you are tripped during your own trip attempt, you can
@@ -543,7 +543,7 @@ avoid being tripped.
 
 ### Lance:
  A lance deals double damage when used from the back of a charging mount. It has reach, so
-you can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
+you can strike opponents 10 feet away with it, but you can't use it against an adjacent foe.
 
 While mounted, you can wield a lance with one hand.
 
@@ -557,7 +557,7 @@ longbow (see below) but not a regular longbow.
  You need at least two hands to use a bow, regardless of its size. You can use
 a composite longbow while mounted. All composite bows are made with a particular strength rating (that is, each
 requires a minimum Strength modifier to use with proficiency). If your Strength bonus is less than the strength
-rating of the composite bow, you can’t effectively use it, so you take a -2 penalty on attacks with it. The
+rating of the composite bow, you can't effectively use it, so you take a -2 penalty on attacks with it. The
 default composite longbow requires a Strength modifier of +0 or higher to use with proficiency. A composite
 longbow can be made with a high strength rating to take advantage of an above-average Strength score; this feature
 allows you to add your Strength bonus to damage, up to the maximum bonus indicated for the bow. Each point of
@@ -566,13 +566,13 @@ Strength bonus granted by the bow adds 100 gp to its cost.
 For purposes of weapon proficiency and similar feats, a composite longbow is treated as if it were a longbow.
 
 ### Longspear:
- A longspear has reach. You can strike opponents 10 feet away with it, but you can’t
+ A longspear has reach. You can strike opponents 10 feet away with it, but you can't
 use it against an adjacent foe. If you use a ready action to set a longspear against a charge, you deal double
 damage on a successful hit against a charging character.
 
 ### Net:
  A net is used to entangle enemies. When you throw a net, you make a ranged touch attack
-against your target. A net’s maximum range is 10 feet. If you hit, the target is entangled. An entangled creature
+against your target. A net's maximum range is 10 feet. If you hit, the target is entangled. An entangled creature
 takes a -2 penalty on attack rolls and a -4 penalty on Dexterity, can move at only half speed, and cannot charge
 or run. If you control the trailing rope by succeeding on an opposed Strength check while holding it, the
 entangled creature can move only within the limits that the rope allows. If the entangled creature attempts to
@@ -595,13 +595,13 @@ nunchaku special options. With a nunchaku, you get a +2 bonus on opposed attack 
 ### Quarterstaff:
  A quarterstaff is a double weapon. You can fight with it as if fighting with two
 weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just
-as if you were using a one-handed weapon and a light weapon. A creature wielding a quarterstaff in one hand can’t
-use it as a double weapon---only one end of the weapon can be used in any given round.
+as if you were using a one-handed weapon and a light weapon. A creature wielding a quarterstaff in one hand can't
+use it as a double weapon--only one end of the weapon can be used in any given round.
 
 The quarterstaff is a special monk weapon. This designation gives a monk wielding a quarterstaff special options.
 
 ### Ranseur:
- A ranseur has reach. You can strike opponents 10 feet away with it, but you can’t use it
+ A ranseur has reach. You can strike opponents 10 feet away with it, but you can't use it
 against an adjacent foe.
 
 With a ranseur, you get a +2 bonus on opposed attack rolls made to disarm an opponent (including the roll to avoid
@@ -609,8 +609,8 @@ being disarmed if such an attempt fails).
 
 ### Rapier:
  You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your
-Strength modifier to attack rolls with a rapier sized for you, even though it isn’t a light weapon for you. You
-can’t wield a rapier in two hands in order to apply 1-1/2 times your Strength bonus to damage.
+Strength modifier to attack rolls with a rapier sized for you, even though it isn't a light weapon for you. You
+can't wield a rapier in two hands in order to apply 1-1/2 times your Strength bonus to damage.
 
 ### Sai:
  With a sai, you get a +4 bonus on opposed attack rolls made to disarm an enemy (including
@@ -636,7 +636,7 @@ below) but not a regular shortbow.
  You need at least two hands to use a bow, regardless of its size. You can
 use a composite shortbow while mounted. All composite bows are made with a particular strength rating (that is,
 each requires a minimum Strength modifier to use with proficiency). If your Strength bonus is lower than the
-strength rating of the composite bow, you can’t effectively use it, so you take a -2 penalty on attacks with it.
+strength rating of the composite bow, you can't effectively use it, so you take a -2 penalty on attacks with it.
 The default composite shortbow requires a Strength modifier of +0 or higher to use with proficiency. A composite
 shortbow can be made with a high strength rating to take advantage of an above-average Strength score; this
 feature allows you to add your Strength bonus to damage, up to the maximum bonus indicated for the bow. Each point
@@ -649,7 +649,7 @@ For purposes of weapon proficiency and similar feats, a composite shortbow is tr
 
 ### Shuriken:
  A shuriken is a special monk weapon. This designation gives a monk wielding shuriken
-special options. A shuriken can’t be used as a melee weapon.
+special options. A shuriken can't be used as a melee weapon.
 
 Although they are thrown weapons, shuriken are treated as ammunition for the purposes of drawing them, crafting
 masterwork or otherwise special versions of them and what happens to them after they are thrown.
@@ -700,7 +700,7 @@ it is an exotic weapon. A character can use a bastard sword two-handed as a mart
  A two-bladed sword is a double weapon. You can fight with it as if fighting
 with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two
 weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding a two-bladed sword
-in one hand can’t use it as a double weapon---only one end of the weapon can be used in any given round.
+in one hand can't use it as a double weapon--only one end of the weapon can be used in any given round.
 
 ### Trident:
  This weapon can be thrown. If you use a ready action to set a trident against a charge,
@@ -709,10 +709,10 @@ you deal double damage on a successful hit against a charging character.
 ### Urgrosh, Dwarven:
  A dwarven urgrosh is a double weapon. You can fight with it as if fighting with
 two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons,
-just as if you were using a one-handed weapon and a light weapon. The urgrosh’s axe head is a slashing weapon that
+just as if you were using a one-handed weapon and a light weapon. The urgrosh's axe head is a slashing weapon that
 deals 1d8 points of damage. Its spear head is a piercing weapon that deals 1d6 points of damage. You can use
 either head as the primary weapon. The other is the off-hand weapon. A creature wielding a dwarven urgrosh in one
-hand can’t use it as a double weapon---only one end of the weapon can be used in any given round.
+hand can't use it as a double weapon--only one end of the weapon can be used in any given round.
 
 If you use a ready action to set an urgrosh against a charge, you deal double damage if you score a hit against a
 charging character. If you use an urgrosh against a charging character, the spear head is the part of the weapon
@@ -729,7 +729,7 @@ using it in one hand.
 ### Whip:
  A whip deals nonlethal damage. It deals no damage to any creature with an armor bonus of +1
 or higher or a natural armor bonus of +3 or higher. The whip is treated as a melee weapon with 15-foot reach,
-though you don’t threaten the area into which you can make an attack. In addition, unlike most other weapons with
+though you don't threaten the area into which you can make an attack. In addition, unlike most other weapons with
 reach, you can use it against foes anywhere within your reach (including adjacent foes).
 
 Using a whip provokes an attack of opportunity, just as if you had used a ranged weapon.
@@ -741,14 +741,14 @@ When using a whip, you get a +2 bonus on opposed attack rolls made to disarm an 
 keep from being disarmed if the attack fails).
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack
-rolls with a whip sized for you, even though it isn’t a light weapon for you.
+rolls with a whip sized for you, even though it isn't a light weapon for you.
 
 ### Masterwork Weapons
 
 A masterwork weapon is a finely crafted version of a normal weapon. Wielding it provides a +1 enhancement bonus on
 attack rolls.
 
-You can’t add the masterwork quality to a weapon after it is created; it must be crafted as a masterwork weapon
+You can't add the masterwork quality to a weapon after it is created; it must be crafted as a masterwork weapon
 (see the Craft skill). The masterwork quality adds 300 gp to the cost of a normal weapon (or 6 gp to the cost of a
 single unit of ammunition). Adding the masterwork quality to a double weapon costs twice the normal increase (+600
 gp).
@@ -757,9 +757,9 @@ Masterwork ammunition is damaged (effectively destroyed) when used. The enhancem
 does not stack with any enhancement bonus of the projectile weapon firing it.
 
 All magic weapons are automatically considered to be of masterwork quality. The enhancement bonus granted by the
-masterwork quality doesn’t stack with the enhancement bonus provided by the weapon’s magic.
+masterwork quality doesn't stack with the enhancement bonus provided by the weapon's magic.
 
-Even though some types of armor and shields can be used as weapons, you can’t create a masterwork version of such
+Even though some types of armor and shields can be used as weapons, you can't create a masterwork version of such
 an item that confers an enhancement bonus on attack rolls. Instead, masterwork armor and shields have lessened
 armor check penalties.
 
@@ -778,44 +778,44 @@ Creatures, below, for armor prices for other creatures.
 
 ### Armor/Shield Bonus:
  Each armor grants an armor bonus to AC, while shields grant a shield bonus to
-AC. The armor bonus from a suit of armor doesn’t stack with other effects or items that grant an armor bonus.
-Similarly, the shield bonus from a shield doesn’t stack with other effects that grant a shield bonus.
+AC. The armor bonus from a suit of armor doesn't stack with other effects or items that grant an armor bonus.
+Similarly, the shield bonus from a shield doesn't stack with other effects that grant a shield bonus.
 
 ### Maximum Dex Bonus:
  This number is the maximum Dexterity bonus to AC that this type of armor
-allows. Heavier armors limit mobility, reducing the wearer’s ability to dodge blows. This restriction doesn’t
+allows. Heavier armors limit mobility, reducing the wearer's ability to dodge blows. This restriction doesn't
 affect any other Dexterity-related abilities.
 
-Even if a character’s Dexterity bonus to AC drops to 0 because of armor, this situation does not count as losing a
+Even if a character's Dexterity bonus to AC drops to 0 because of armor, this situation does not count as losing a
 Dexterity bonus to AC.
 
-Your character’s encumbrance (the amount of gear he or she carries) may also restrict the maximum Dexterity bonus
+Your character's encumbrance (the amount of gear he or she carries) may also restrict the maximum Dexterity bonus
 that can be applied to his or her Armor Class.
 
-_Shields:_ Shields do not affect a character’s maximum Dexterity bonus.
+_Shields:_ Shields do not affect a character's maximum Dexterity bonus.
 
 ### Armor Check Penalty:
- Any armor heavier than leather hurts a character’s ability to use some
+ Any armor heavier than leather hurts a character's ability to use some
 skills. An armor check penalty number is the penalty that applies to Balance, Climb, Escape Artist, Hide, Jump,
 Move Silently, Sleight of Hand, and Tumble checks by a character wearing a certain kind of armor. Double the
-normal armor check penalty is applied to Swim checks. A character’s encumbrance (the amount of gear carried,
+normal armor check penalty is applied to Swim checks. A character's encumbrance (the amount of gear carried,
 including armor) may also apply an armor check penalty.
 
 _Shields:_ If a character is wearing armor and using a shield, both armor check penalties apply.
 
 _Nonproficient with Armor Worn:_ A character who wears armor and/or uses a shield with which he or she is
-not proficient takes the armor’s (and/or shield’s) armor check penalty on attack rolls and on all Strength-based
+not proficient takes the armor's (and/or shield's) armor check penalty on attack rolls and on all Strength-based
 and Dexterity-based ability and skill checks. The penalty for nonproficiency with armor stacks with the penalty
 for nonproficiency with shields.
 
 _Sleeping in Armor:_ A character who sleeps in medium or heavy armor is automatically fatigued the next
-day. He or she takes a -2 penalty on Strength and Dexterity and can’t charge or run. Sleeping in light armor does
+day. He or she takes a -2 penalty on Strength and Dexterity and can't charge or run. Sleeping in light armor does
 not cause fatigue.
 
 ### Arcane Spell Failure:
  Armor interferes with the gestures that a spellcaster must make to cast an
 arcane spell that has a somatic component. Arcane spellcasters face the possibility of arcane spell failure if
-they’re wearing armor. Bards can wear light armor without incurring any arcane spell failure chance for their bard
+they're wearing armor. Bards can wear light armor without incurring any arcane spell failure chance for their bard
 spells.
 
 _Casting an Arcane Spell in Armor:_ A character who casts an arcane spell while wearing armor must usually
@@ -828,14 +828,14 @@ arcane spell failure chance.
 
 ### Speed:
  Medium or heavy armor slows the wearer down. The number on Table: Armor and Shields is the
-character’s speed while wearing the armor. Humans, elves, half-elves, and half-orcs have an unencumbered speed of
+character's speed while wearing the armor. Humans, elves, half-elves, and half-orcs have an unencumbered speed of
 30 feet.
 
 They use the first column. Dwarves, gnomes, and halflings have an unencumbered speed of 20 feet. They use the
-second column. Remember, however, that a dwarf ’s land speed remains 20 feet even in medium or heavy armor or when
+second column. Remember, however, that a dwarf 's land speed remains 20 feet even in medium or heavy armor or when
 carrying a medium or heavy load.
 
-_Shields:_ Shields do not affect a character’s speed.
+_Shields:_ Shields do not affect a character's speed.
 
 ### Weight:
  This column gives the weight of the armor sized for a Medium wearer. Armor fitted for
@@ -862,16 +862,16 @@ Small characters weighs half as much, and armor for Large characters weighs twic
 | Half-plate | 600 gp | +7 | +0 | -7 | 40% | 20 ft.<sup>2</sup> | 15 ft.<sup>2</sup> | 50 lb. |
 | Full plate | 1,500 gp | +8 | +1 | -6 | 35% | 20 ft.<sup>2</sup> | 15 ft.<sup>2</sup> | 50 lb. |
 | Shields |  |  |  |  |  |  |  |  |
-| Buckler | 15 gp | +1 | --- | -1 | 5% | --- | --- | 5 lb. |
-| Shield, light wooden | 3 gp | +1 | --- | -1 | 5% | --- | --- | 5 lb. |
-| Shield, light steel | 9 gp | +1 | --- | -1 | 5% | --- | --- | 6 lb. |
-| Shield, heavy wooden | 7 gp | +2 | --- | -2 | 15% | --- | --- | 10 lb. |
-| Shield, heavy steel | 20 gp | +2 | --- | -2 | 15% | --- | --- | 15 lb. |
-| Shield, tower | 30 gp | +4<sup>3</sup> | +2 | -10 | 50% | --- | --- | 45 lb. |
+| Buckler | 15 gp | +1 | -- | -1 | 5% | -- | -- | 5 lb. |
+| Shield, light wooden | 3 gp | +1 | -- | -1 | 5% | -- | -- | 5 lb. |
+| Shield, light steel | 9 gp | +1 | -- | -1 | 5% | -- | -- | 6 lb. |
+| Shield, heavy wooden | 7 gp | +2 | -- | -2 | 15% | -- | -- | 10 lb. |
+| Shield, heavy steel | 20 gp | +2 | -- | -2 | 15% | -- | -- | 15 lb. |
+| Shield, tower | 30 gp | +4<sup>3</sup> | +2 | -10 | 50% | -- | -- | 45 lb. |
 | Extras |  |  |  |  |  |  |  |  |
-| Armor spikes | +50 gp | --- | --- | --- | --- | --- | --- | +10 lb. |
-| Gauntlet, locked | 8 gp | --- | --- | Special | 4 | --- | --- | +5 lb. |
-| Shield spikes | +10 gp | --- | --- | --- | --- | --- | --- | +5 lb. |
+| Armor spikes | +50 gp | -- | -- | -- | -- | -- | -- | +10 lb. |
+| Gauntlet, locked | 8 gp | -- | -- | Special | 4 | -- | -- | +5 lb. |
+| Shield spikes | +10 gp | -- | -- | -- | -- | -- | -- | +5 lb. |
 | 1 Weight figures are for armor sized to fit Medium characters. Armor fitted for Small characters weighs half as much, and armor fitted for Large characters weighs twice as much. |
 | 2 When running in heavy armor, you move only triple your speed, not quadruple. |
 | 3 A tower shield can instead grant you cover. See the description. |
@@ -886,10 +886,10 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 damage (see Table: Weapons) on a successful grapple attack. The spikes count as a martial weapon. If you are not
 proficient with them, you take a -4 penalty on grapple checks when you try to use them. You can also make a
 regular melee attack (or off-hand attack) with the spikes, and they count as a light weapon in this case. (You
-can’t also make an attack with armor spikes if you have already made an attack with another off-hand weapon, and
+can't also make an attack with armor spikes if you have already made an attack with another off-hand weapon, and
 vice versa.)
 
-An enhancement bonus to a suit of armor does not improve the spikes’ effectiveness, but the spikes can be made
+An enhancement bonus to a suit of armor does not improve the spikes' effectiveness, but the spikes can be made
 into magic weapons in their own right.
 
 ### Banded Mail:
@@ -902,10 +902,10 @@ into magic weapons in their own right.
 without penalty while carrying it. You can also use your shield arm to wield a weapon (whether you are using an
 off-hand weapon or using your off hand to help wield a two-handed weapon), but you take a -1 penalty on attack
 rolls while doing so. This penalty stacks with those that may apply for fighting with your off hand and for
-fighting with two weapons. In any case, if you use a weapon in your off hand, you don’t get the buckler’s AC bonus
+fighting with two weapons. In any case, if you use a weapon in your off hand, you don't get the buckler's AC bonus
 for the rest of the round.
 
-You can’t bash someone with a buckler.
+You can't bash someone with a buckler.
 ### Chain Shirt:
  A chain shirt comes with a steel cap.
 ### Chainmail:
@@ -923,11 +923,11 @@ attach a weapon to the gauntlet so that it cannot be dropped easily. It provides
 keep from being disarmed in combat. Removing a weapon from a locked gauntlet or attaching a weapon to a locked
 gauntlet is a full-round action that provokes attacks of opportunity.
 
-The price given is for a single locked gauntlet. The weight given applies only if you’re wearing a breastplate,
+The price given is for a single locked gauntlet. The weight given applies only if you're wearing a breastplate,
 light armor, or no armor. Otherwise, the locked gauntlet replaces a gauntlet you already have as part of the
 armor.
 
-While the gauntlet is locked, you can’t use the hand wearing it for casting spells or employing skills. (You can
+While the gauntlet is locked, you can't use the hand wearing it for casting spells or employing skills. (You can
 still cast spells with somatic components, provided that your other hand is free.)
 
 Like a normal gauntlet, a locked gauntlet lets you deal lethal damage rather than nonlethal damage with an unarmed
@@ -940,7 +940,7 @@ strike.
 
 ### Shield, Heavy, Wooden or Steel:
  You strap a shield to your forearm and grip it with your hand. A
-heavy shield is so heavy that you can’t use your shield hand for anything else.
+heavy shield is so heavy that you can't use your shield hand for anything else.
 
 _Wooden or Steel:_ Wooden and steel shields offer the same basic protection, though they respond
 differently to special attacks.
@@ -954,7 +954,7 @@ into a magic weapon in its own right.
 
 ### Shield, Light, Wooden or Steel:
  You strap a shield to your forearm and grip it with your hand. A
-light shield’s weight lets you carry other items in that hand, although you cannot use weapons with it.
+light shield's weight lets you carry other items in that hand, although you cannot use weapons with it.
 
 _Wooden or Steel:_ Wooden and steel shields offer the same basic protection, though they respond
 differently to special attacks.
@@ -973,13 +973,13 @@ give up your attacks to do so. The shield does not, however, provide cover again
 can cast a spell on you by targeting the shield you are holding. You cannot bash with a tower shield, nor can you
 use your shield hand for anything else.
 
-When employing a tower shield in combat, you take a -2 penalty on attack rolls because of the shield’s
+When employing a tower shield in combat, you take a -2 penalty on attack rolls because of the shield's
 encumbrance.
 
 ### Shield Spikes:
  When added to your shield, these spikes turn it into a martial piercing weapon
 that increases the damage dealt by a shield bash as if the shield were designed for a creature one size category
-larger than you. You can’t put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is
+larger than you. You can't put spikes on a buckler or a tower shield. Otherwise, attacking with a spiked shield is
 like making a shield bash attack (see above).
 
 An enhancement bonus on a spiked shield does not improve the effectiveness of a shield bash made with it, but a
@@ -1000,7 +1000,7 @@ armor or shield is used as a weapon.
 
 All magic armors and shields are automatically considered to be of masterwork quality.
 
-You can’t add the masterwork quality to armor or a shield after it is created; it must be crafted as a masterwork
+You can't add the masterwork quality to armor or a shield after it is created; it must be crafted as a masterwork
 item.
 
 ### Armor for Unusual Creatures
@@ -1044,7 +1044,7 @@ from the arm and dropping it) is only a move action.
 | Padded, leather, hide, studded leather, or chain shirt | 1 minute | 5 rounds | 1 minute<sup>1</sup> |
 | Breastplate, scale mail, chainmail, banded mail, or splint mail | 4 minutes<sup>1</sup> | 1 minute | 1 minute<sup>1</sup> |
 | Half-plate or full plate | 4 minutes<sup>2</sup> | 4 minutes<sup>1</sup> | 1d4+1 minutes<sup>1</sup> |
-| 1 If the character has some help, cut this time in half. A single character doing nothing else can help one or two adjacent characters. Two characters can’t help each other don armor at the same time. |
+| 1 If the character has some help, cut this time in half. A single character doing nothing else can help one or two adjacent characters. Two characters can't help each other don armor at the same time. |
 | 2 The wearer must have help to don this armor. Without help, it can be donned only hastily. |
 
 ## Goods and Services
@@ -1058,28 +1058,28 @@ from the arm and dropping it) is only a move action.
 | Barrel (empty) | 2 gp | 30 lb. |
 | Basket (empty) | 4 sp | 1 lb. |
 | Bedroll | 1 sp | 5 lb.<sup>1</sup> |
-| Bell | 1 gp | --- |
+| Bell | 1 gp | -- |
 | Blanket, winter | 5 sp | 3 lb.<sup>1</sup> |
 | Block and tackle | 5 gp | 5 lb. |
-| Bottle, wine, glass | 2 gp | --- |
+| Bottle, wine, glass | 2 gp | -- |
 | Bucket (empty) | 5 sp | 2 lb. |
 | Caltrops | 1 gp | 2 lb. |
-| Candle | 1 cp | --- |
+| Candle | 1 cp | -- |
 | Canvas (sq. yd.) | 1 sp | 1 lb. |
 | Case, map or scroll | 1 gp | 1/2 lb. |
 | Chain (10 ft.) | 30 gp | 2 lb. |
-| Chalk, 1 piece | 1 cp | --- |
+| Chalk, 1 piece | 1 cp | -- |
 | Chest (empty) | 2 gp | 25 lb. |
 | Crowbar | 2 gp | 5 lb. |
 | Firewood (per day) | 1 cp | 20 lb. |
-| Fishhook | 1 sp | --- |
+| Fishhook | 1 sp | -- |
 | Fishing net, 25 sq. ft. | 4 gp | 5 lb. |
 | Flask (empty) | 3 cp | 1-1/2 lb. |
-| Flint and steel | 1 gp | --- |
+| Flint and steel | 1 gp | -- |
 | Grappling hook | 1 gp | 4 lb. |
 | Hammer | 5 sp | 2 lb. |
-| Ink (1 oz. vial) | 8 gp | --- |
-| Inkpen | 1 sp | --- |
+| Ink (1 oz. vial) | 8 gp | -- |
+| Inkpen | 1 sp | -- |
 | Jug, clay | 3 cp | 9 lb. |
 | Ladder, 10-foot | 5 cp | 20 lb. |
 | Lamp, common | 1 sp | 1 lb. |
@@ -1095,9 +1095,9 @@ from the arm and dropping it) is only a move action.
 | Mirror, small steel | 10 gp | 1/2 lb. |
 | Mug/Tankard, clay | 2 cp | 1 lb. |
 | Oil (1-pint flask) | 1 sp | 1 lb. |
-| Paper (sheet) | 4 sp | --- |
-| Parchment (sheet) | 2 sp | --- |
-| Pick, miner’s | 3 gp | 10 lb. |
+| Paper (sheet) | 4 sp | -- |
+| Parchment (sheet) | 2 sp | -- |
+| Pick, miner's | 3 gp | 10 lb. |
 | Pitcher, clay | 2 cp | 5 lb. |
 | Piton | 1 sp | 1/2 lb. |
 | Pole, 10-foot | 2 sp | 8 lb. |
@@ -1109,9 +1109,9 @@ from the arm and dropping it) is only a move action.
 | Rope, silk (50 ft.) | 10 gp | 5 lb. |
 | Sack (empty) | 1 sp | 1/2 lb.<sup>1</sup> |
 | Sealing wax | 1 gp | 1 lb. |
-| Sewing needle | 5 sp | --- |
-| Signal whistle | 8 sp | --- |
-| Signet ring | 5 gp | --- |
+| Sewing needle | 5 sp | -- |
+| Signal whistle | 8 sp | -- |
+| Signet ring | 5 gp | -- |
 | Sledge | 1 gp | 10 lb. |
 | Soap (per lb.) | 5 sp | 1 lb. |
 | Spade or shovel | 2 gp | 8 lb. |
@@ -1124,67 +1124,67 @@ from the arm and dropping it) is only a move action.
 | Special Substances and Items |  |  |
 | Item | Cost | Weight |
 | Acid (flask) | 10 gp | 1 lb. |
-| Alchemist’s fire (flask) | 20 gp | 1 lb. |
-| Antitoxin (vial) | 50 gp | --- |
+| Alchemist's fire (flask) | 20 gp | 1 lb. |
+| Antitoxin (vial) | 50 gp | -- |
 | Everburning torch | 110 gp | 1 lb. |
 | Holy water (flask) | 25 gp | 1 lb. |
 | Smokestick | 20 gp | 1/2 lb. |
 | Sunrod | 2 gp | 1 lb. |
 | Tanglefoot bag | 50 gp | 4 lb. |
 | Thunderstone | 30 gp | 1 lb. |
-| Tindertwig | 1 gp | --- |
+| Tindertwig | 1 gp | -- |
 | Tools and Skill Kits |  |  |
 | Item | Cost | Weight |
-| Alchemist’s lab | 500 gp | 40 lb. |
-| Artisan’s tools | 5 gp | 5 lb. |
-| Artisan’s tools, masterwork | 55 gp | 5 lb. |
-| Climber’s kit | 80 gp | 5 lb.<sup>1</sup> |
+| Alchemist's lab | 500 gp | 40 lb. |
+| Artisan's tools | 5 gp | 5 lb. |
+| Artisan's tools, masterwork | 55 gp | 5 lb. |
+| Climber's kit | 80 gp | 5 lb.<sup>1</sup> |
 | Disguise kit | 50 gp | 8 lb.<sup>1</sup> |
-| Healer’s kit | 50 gp | 1 lb. |
-| Holly and mistletoe | --- | --- |
-| Holy symbol, wooden | 1 gp | --- |
+| Healer's kit | 50 gp | 1 lb. |
+| Holly and mistletoe | -- | -- |
+| Holy symbol, wooden | 1 gp | -- |
 | Holy symbol, silver | 25 gp | 1 lb. |
 | Hourglass | 25 gp | 1 lb. |
-| Magnifying glass | 100 gp | --- |
+| Magnifying glass | 100 gp | -- |
 | Musical instrument, common | 5 gp | 3 lb.<sup>1</sup> |
 | Musical instrument, masterwork | 100 gp | 3 lb.<sup>1</sup> |
-| Scale, merchant’s | 2 gp | 1 lb. |
+| Scale, merchant's | 2 gp | 1 lb. |
 | Spell component pouch | 5 gp | 2 lb. |
-| Spellbook, wizard’s (blank) | 15 gp | 3 lb. |
-| Thieves’ tools | 30 gp | 1 lb. |
-| Thieves’ tools, masterwork | 100 gp | 2 lb. |
+| Spellbook, wizard's (blank) | 15 gp | 3 lb. |
+| Thieves' tools | 30 gp | 1 lb. |
+| Thieves' tools, masterwork | 100 gp | 2 lb. |
 | Tool, masterwork | 50 gp | 1 lb. |
 | Water clock | 1,000 gp | 200 lb. |
 | Clothing |  |  |
 | Item | Cost | Weight |
-| Artisan’s outfit | 1 gp | 4 lb.<sup>1</sup> |
-| Cleric’s vestments | 5 gp | 6 lb.<sup>1</sup> |
+| Artisan's outfit | 1 gp | 4 lb.<sup>1</sup> |
+| Cleric's vestments | 5 gp | 6 lb.<sup>1</sup> |
 | Cold weather outfit | 8 gp | 7 lb.<sup>1</sup> |
-| Courtier’s outfit | 30 gp | 6 lb.<sup>1</sup> |
-| Entertainer’s outfit | 3 gp | 4 lb.<sup>1</sup> |
-| Explorer’s outfit | 10 gp | 8 lb.<sup>1</sup> |
-| Monk’s outfit | 5 gp | 2 lb.<sup>1</sup> |
-| Noble’s outfit | 75 gp | 10 lb.<sup>1</sup> |
-| Peasant’s outfit | 1 sp | 2 lb.<sup>1</sup> |
+| Courtier's outfit | 30 gp | 6 lb.<sup>1</sup> |
+| Entertainer's outfit | 3 gp | 4 lb.<sup>1</sup> |
+| Explorer's outfit | 10 gp | 8 lb.<sup>1</sup> |
+| Monk's outfit | 5 gp | 2 lb.<sup>1</sup> |
+| Noble's outfit | 75 gp | 10 lb.<sup>1</sup> |
+| Peasant's outfit | 1 sp | 2 lb.<sup>1</sup> |
 | Royal outfit | 200 gp | 15 lb.<sup>1</sup> |
-| Scholar’s outfit | 5 gp | 6 lb.<sup>1</sup> |
-| Traveler’s outfit | 1 gp | 5 lb.<sup>1</sup> |
+| Scholar's outfit | 5 gp | 6 lb.<sup>1</sup> |
+| Traveler's outfit | 1 gp | 5 lb.<sup>1</sup> |
 | Food, Drink, and Lodging |  |  |
 | Item | Cost | Weight |
 | Ale |  |  |
 |     Gallon | 2 sp | 8 lb. |
 |     Mug | 4 cp | 1 lb. |
-| Banquet (per person) | 10 gp | --- |
+| Banquet (per person) | 10 gp | -- |
 | Bread, per loaf | 2 cp | 1/2 lb. |
 | Cheese, hunk of | 1 sp | 1/2 lb. |
 | Inn stay (per day) |  |  |
-|     Good | 2 gp | --- |
-|     Common | 5 sp | --- |
-|     Poor | 2 sp | --- |
+|     Good | 2 gp | -- |
+|     Common | 5 sp | -- |
+|     Poor | 2 sp | -- |
 | Meals (per day) |  |  |
-|     Good | 5 sp | --- |
-|     Common | 3 sp | --- |
-|     Poor | 1 sp | --- |
+|     Good | 5 sp | -- |
+|     Common | 3 sp | -- |
+|     Poor | 1 sp | -- |
 | Meat, chunk of | 3 sp | 1/2 lb. |
 | Wine |  |  |
 |     Common (pitcher) | 2 sp | 6 lb. |
@@ -1195,17 +1195,17 @@ from the arm and dropping it) is only a move action.
 |     Medium creature | x2 | x1 |
 |     Large creature | x4 | x2 |
 | Bit and bridle | 2 gp | 1 lb. |
-| Dog, guard | 25 gp | --- |
-| Dog, riding | 150 gp | --- |
-| Donkey or mule | 8 gp | --- |
+| Dog, guard | 25 gp | -- |
+| Dog, riding | 150 gp | -- |
+| Donkey or mule | 8 gp | -- |
 | Feed (per day) | 5 cp | 10 lb. |
 | Horse |  |  |
-|     Horse, heavy | 200 gp | --- |
-|     Horse, light | 75 gp | --- |
-|     Pony | 30 gp | --- |
-|     Warhorse, heavy | 400 gp | --- |
-|     Warhorse, light | 150 gp | --- |
-|     Warpony | 100 gp | --- |
+|     Horse, heavy | 200 gp | -- |
+|     Horse, light | 75 gp | -- |
+|     Pony | 30 gp | -- |
+|     Warhorse, heavy | 400 gp | -- |
+|     Warhorse, light | 150 gp | -- |
+|     Warpony | 100 gp | -- |
 | Saddle |  |  |
 |     Military | 20 gp | 30 lb. |
 |     Pack | 5 gp | 15 lb. |
@@ -1215,20 +1215,20 @@ from the arm and dropping it) is only a move action.
 |     Pack | 15 gp | 20 lb. |
 |     Riding | 30 gp | 30 lb. |
 | Saddlebags | 4 gp | 8 lb. |
-| Stabling (per day) | 5 sp | --- |
+| Stabling (per day) | 5 sp | -- |
 | Transport |  |  |
 | Item | Cost | Weight |
 | Carriage | 100 gp | 600 lb. |
 | Cart | 15 gp | 200 lb. |
-| Galley | 30,000 gp | --- |
-| Keelboat | 3,000 gp | --- |
-| Longship | 10,000 gp | --- |
+| Galley | 30,000 gp | -- |
+| Keelboat | 3,000 gp | -- |
+| Longship | 10,000 gp | -- |
 | Rowboat | 50 gp | 100 lb. |
 | Oar | 2 gp | 10 lb. |
-| Sailing ship | 10,000 gp | --- |
+| Sailing ship | 10,000 gp | -- |
 | Sled | 20 gp | 300 lb. |
 | Wagon | 35 gp | 400 lb. |
-| Warship | 25,000 gp | --- |
+| Warship | 25,000 gp | -- |
 | Spellcasting and Services |  |  |
 | Service | Cost |
 | Coach cab | 3 cp per mile |
@@ -1236,7 +1236,7 @@ from the arm and dropping it) is only a move action.
 | Hireling, untrained | 1 sp per day |
 | Messenger | 2 cp per mile |
 | Road or gate toll | 1 cp |
-| Ship’s passage | 1 sp per mile |
+| Ship's passage | 1 sp per mile |
 | Spell, 0-level | Caster level x 5 gp<sup>2</sup> |
 | Spell, 1st-level | Caster level x 10 gp<sup>2</sup> |
 | Spell, 2nd-level | Caster level x 20 gp<sup>2</sup> |
@@ -1247,9 +1247,9 @@ from the arm and dropping it) is only a move action.
 | Spell, 7th-level | Caster level x 70 gp<sup>2</sup> |
 | Spell, 8th-level | Caster level x 80 gp<sup>2</sup> |
 | Spell, 9th-level | Caster level x 90 gp<sup>2</sup> |
-| --- No weight, or no weight worth noting. |
+| -- No weight, or no weight worth noting. |
 | 1 These items weigh one-quarter this amount when made for Small characters. Containers for Small characters also carry one-quarter the normal amount. |
-| 2 See spell description for additional costs. If the additional costs put the spell’s total cost above 3,000 gp, that spell is not generally available. |
+| 2 See spell description for additional costs. If the additional costs put the spell's total cost above 3,000 gp, that spell is not generally available. |
 
 ### Adventuring Gear
 
@@ -1263,9 +1263,9 @@ least forced to slow down to avoid them. One 2- pound bag of caltrops covers an 
 
 Each time a creature moves into an area covered by caltrops (or spends a round fighting while standing in such an
 area), it might step on one. The caltrops make an attack roll (base attack bonus +0) against the creature. For
-this attack, the creature’s shield, armor, and deflection bonuses do not count. If the creature is wearing shoes
+this attack, the creature's shield, armor, and deflection bonuses do not count. If the creature is wearing shoes
 or other footwear, it gets a +2 armor bonus to AC. If the caltrops succeed on the attack, the creature has stepped
-on one. The caltrop deals 1 point of damage, and the creature’s speed is reduced by one-half because its foot is
+on one. The caltrop deals 1 point of damage, and the creature's speed is reduced by one-half because its foot is
 wounded. This movement penalty lasts for 24 hours, or until the creature is successfully treated with a DC 15 Heal
 check, or until it receives at least 1 point of magical curing. A charging or running creature must immediately
 stop if it steps on a caltrop. Any creature moving at half speed or slower can pick its way through a bed of
@@ -1314,7 +1314,7 @@ illumination in a 60-foot radius. It burns for 6 hours on a pint of oil. You can
 hand.
 
 ### Lock:
- The DC to open a lock with the Open Lock skill depends on the lock’s quality: simple (DC
+ The DC to open a lock with the Open Lock skill depends on the lock's quality: simple (DC
 20), average (DC 25), good (DC 30), or superior (DC 40).
 
 ### Manacles and Manacles, Masterwork:
@@ -1331,7 +1331,7 @@ manacles.
 
 ### Oil:
  A pint of oil burns for 6 hours in a lantern. You can use a flask of oil as a splash weapon.
-Use the rules for alchemist’s fire, except that it takes a full round action to prepare a flask with a fuse. Once
+Use the rules for alchemist's fire, except that it takes a full round action to prepare a flask with a fuse. Once
 it is thrown, there is a 50% chance of the flask igniting successfully.
 
 You can pour a pint of oil on the ground to cover an area 5 feet square, provided that the surface is smooth. If
@@ -1371,8 +1371,8 @@ Any of these substances except for the everburning torch and holy water can be m
 attack with a range increment of 10 feet. A direct hit deals 1d6 points of acid damage. Every creature within 5
 feet of the point where the acid hits takes 1 point of acid damage from the splash.
 
-### Alchemist’s Fire:
- You can throw a flask of alchemist’s fire as a splash weapon. Treat this attack
+### Alchemist's Fire:
+ You can throw a flask of alchemist's fire as a splash weapon. Treat this attack
 as a ranged touch attack with a range increment of 10 feet.
 
 A direct hit deals 1d6 points of fire damage. Every creature within 5 feet of the point where the flask hits takes
@@ -1441,7 +1441,7 @@ creature within a 10-foot-radius spread must make a DC 15 Fortitude save or be d
 creature, in addition to the obvious effects, takes a -4 penalty on initiative and has a 20% chance to miscast and
 lose any spell with a verbal component that it tries to cast.
 
-Since you don’t need to hit a specific target, you can simply aim at a particular 5-foot square. Treat the target
+Since you don't need to hit a specific target, you can simply aim at a particular 5-foot square. Treat the target
 square as AC 5.
 
 ### Tindertwig:
@@ -1452,22 +1452,22 @@ full-round action), and lighting any other fire with one is at least a standard 
 
 ### Tools and Skill Kits
 
-### Alchemist’s Lab:
- An alchemist’s lab always has the perfect tool for making alchemical items, so
+### Alchemist's Lab:
+ An alchemist's lab always has the perfect tool for making alchemical items, so
 it provides a +2 circumstance bonus on Craft (alchemy) checks. It has no bearing on the costs related to the Craft
 (alchemy) skill. Without this lab, a character with the Craft (alchemy) skill is assumed to have enough tools to
 use the skill but not enough to get the +2 bonus that the lab provides.
 
-### Artisan’s Tools:
+### Artisan's Tools:
  These special tools include the items needed to pursue any craft. Without them,
 you have to use improvised tools (-2 penalty on Craft checks), if you can do the job at all.
 
-### Artisan’s Tools, Masterwork:
- These tools serve the same purpose as artisan’s tools (above), but
-masterwork artisan’s tools are the perfect tools for the job, so you get a +2 circumstance bonus on Craft checks
+### Artisan's Tools, Masterwork:
+ These tools serve the same purpose as artisan's tools (above), but
+masterwork artisan's tools are the perfect tools for the job, so you get a +2 circumstance bonus on Craft checks
 made with them.
 
-### Climber’s Kit:
+### Climber's Kit:
  This is the perfect tool for climbing and gives you a +2 circumstance bonus on
 Climb checks.
 
@@ -1475,9 +1475,9 @@ Climb checks.
  The kit is the perfect tool for disguise and provides a +2 circumstance bonus on
 Disguise checks. A disguise kit is exhausted after ten uses.
 
-### Healer’s Kit:
+### Healer's Kit:
  It is the perfect tool for healing and provides a +2 circumstance bonus on Heal
-checks. A healer’s kit is exhausted after ten uses.
+checks. A healer's kit is exhausted after ten uses.
 
 ### Holy Symbol, Silver or Wooden:
  A holy symbol focuses positive energy. A cleric or paladin uses it
@@ -1498,25 +1498,25 @@ involving any item that is small or highly detailed.
  A masterwork instrument grants a +2 circumstance bonus
 on Perform checks involving its use.
 
-### Scale, Merchant’s:
+### Scale, Merchant's:
  A scale grants a +2 circumstance bonus on Appraise checks involving items that
 are valued by weight, including anything made of precious metals.
 
 ### Spell Component Pouch:
  A spellcaster with a spell component pouch is assumed to have all the
 material components and focuses needed for spellcasting, except for those components that have a specific cost,
-divine focuses, and focuses that wouldn’t fit in a pouch.
+divine focuses, and focuses that wouldn't fit in a pouch.
 
-### Spellbook, Wizard’s (Blank):
+### Spellbook, Wizard's (Blank):
  A spellbook has 100 pages of parchment, and each spell takes up one
 page per spell level (one page each for 0-level spells).
 
-### Thieves’ Tools:
+### Thieves' Tools:
  This kit contains the tools you need to use the Disable Device and Open Lock
 skills. Without these tools, you must improvise tools, and you take a -2 circumstance penalty on Disable Device
 and Open Locks checks.
 
-### Thieves’ Tools, Masterwork:
+### Thieves' Tools, Masterwork:
  This kit contains extra tools and tools of better make, which grant a
 +2 circumstance bonus on Disable Device and Open Lock checks.
 
@@ -1532,11 +1532,11 @@ regulated flow of droplets of water.
 
 ### Clothing
 
-### Artisan’s Outfit:
+### Artisan's Outfit:
  This outfit includes a shirt with buttons, a skirt or pants with a drawstring,
 shoes, and perhaps a cap or hat. It may also include a belt or a leather or cloth apron for carrying tools.
 
-### Cleric’s Vestments:
+### Cleric's Vestments:
  These ecclesiastical clothes are for performing priestly functions, not for
 adventuring.
 
@@ -1546,36 +1546,36 @@ cloak, thick pants or skirt, and
 
 boots. This outfit grants a +5 circumstance bonus on Fortitude saving throws against exposure to cold weather.
 
-### Courtier’s Outfit:
+### Courtier's Outfit:
  This outfit includes fancy, tailored clothes in whatever fashion happens to be
 the current style in the courts of the nobles. Anyone trying to influence nobles or courtiers while wearing street
 dress will have a hard time of it (-2 penalty on Charisma-based skill checks to influence such individuals). If
 you wear this outfit without jewelry (costing an additional 50 gp), you look like an out-of-place commoner.
 
-### Entertainer’s Outfit:
+### Entertainer's Outfit:
  This set of flashy, perhaps even gaudy, clothes is for entertaining. While
 the outfit looks whimsical, its practical design lets you tumble, dance, walk a tightrope, or just run (if the
 audience turns ugly).
 
-### Explorer’s Outfit:
+### Explorer's Outfit:
  This is a full set of clothes for someone who never knows what to expect. It
 includes sturdy boots, leather breeches or a skirt, a belt, a shirt (perhaps with a vest or jacket), gloves, and a
 cloak. Rather than a leather skirt, a leather overtunic may be worn over a cloth skirt. The clothes have plenty of
 pockets (especially the cloak). The outfit also includes any extra items you might need, such as a scarf or a
 wide-brimmed hat.
 
-### Monk’s Outfit:
+### Monk's Outfit:
  This simple outfit includes sandals, loose breeches, and a loose shirt, and is all
-bound together with sashes. The outfit is designed to give you maximum mobility, and it’s made of high-quality
+bound together with sashes. The outfit is designed to give you maximum mobility, and it's made of high-quality
 fabric. You can hide small weapons in pockets hidden in the folds, and the sashes are strong enough to serve as
 short ropes.
 
-### Noble’s Outfit:
+### Noble's Outfit:
  This set of clothes is designed specifically to be expensive and to show it.
 Precious metals and gems are worked into the clothing. To fit into the noble crowd, every would-be noble also
 needs a signet ring (see Adventuring Gear, above) and jewelry (worth at least 100 gp).
 
-### Peasant’s Outfit:
+### Peasant's Outfit:
  This set of clothes consists of a loose shirt and baggy breeches, or a loose
 shirt and skirt or overdress. Cloth wrappings are used for shoes.
 
@@ -1583,11 +1583,11 @@ shirt and skirt or overdress. Cloth wrappings are used for shoes.
  This is just the clothing, not the royal scepter, crown, ring, and other
 accoutrements. Royal clothes are ostentatious, with gems, gold, silk, and fur in abundance.
 
-### Scholar’s Outfit:
+### Scholar's Outfit:
  Perfect for a scholar, this outfit includes a robe, a belt, a cap, soft shoes,
 and possibly a cloak.
 
-### Traveler’s Outfit:
+### Traveler's Outfit:
  This set of clothes consists of boots, a wool skirt or breeches, a sturdy
 belt, a shirt (perhaps with a vest or jacket), and an ample cloak with a hood.
 
@@ -1625,7 +1625,7 @@ table below.
 | Heavy | 30 ft.<sup>1</sup> | 35 ft.<sup>1</sup> | 40 ft.<sup>1</sup> |
 | 1 A mount wearing heavy armor moves at only triple its normal speed when running instead of quadruple. |
 
-Flying mounts can’t fly in medium or heavy barding.
+Flying mounts can't fly in medium or heavy barding.
 
 Removing and fitting barding takes five times as long as the figures given on Table: Donning Armor. A barded
 animal cannot be used to carry any load other than the rider and normal saddlebags.
@@ -1656,7 +1656,7 @@ designed for an unusual mount. Exotic saddles come in military, pack, and riding
 
 ### Saddle, Military:
  A military saddle braces the rider, providing a +2 circumstance bonus on Ride
-checks related to staying in the saddle. If you’re knocked unconscious while in a military saddle, you have a 75%
+checks related to staying in the saddle. If you're knocked unconscious while in a military saddle, you have a 75%
 chance to stay in the saddle (compared to 50% for a riding saddle).
 
 ### Saddle, Pack:
@@ -1712,7 +1712,7 @@ other beasts of burden) draw it. A sled comes with the harness needed to pull it
 
 ### Warship:
  This 100-foot-long ship has a single mast, although oars can also propel it. It has a
-crew of 60 to 80 rowers. This ship can carry 160 soldiers, but not for long distances, since there isn’t room for
+crew of 60 to 80 rowers. This ship can carry 160 soldiers, but not for long distances, since there isn't room for
 supplies to support that many people. The warship cannot make sea voyages and sticks to the coast. It is not used
 for cargo. It moves about 2-1/2 miles per hour when being rowed or under sail.
 
@@ -1742,7 +1742,7 @@ message to a place they were going anyway may ask for only half the indicated am
 well-guarded road to pay for patrols on it and for its upkeep. Occasionally, a large walled city charges a toll to
 enter or exit (or sometimes just to enter).
 
-### Ship’s Passage:
+### Ship's Passage:
  Most ships do not specialize in passengers, but many have the capability to take
 a few along when transporting cargo. Double the given cost for creatures larger than Medium or creatures that are
 otherwise difficult to bring aboard a ship.
@@ -1761,12 +1761,12 @@ spell. If the spell has an XP cost, add 5 gp per XP lost.
 
 Furthermore, if a spell has dangerous consequences, the spellcaster will certainly require proof that you can and
 will pay for dealing with any such consequences (that is, assuming that the spellcaster even agrees to cast such a
-spell, which isn’t certain). In the case of spells that transport the caster and characters over a distance, you
-will likely have to pay for two castings of the spell, even if you aren’t returning with the caster.
+spell, which isn't certain). In the case of spells that transport the caster and characters over a distance, you
+will likely have to pay for two castings of the spell, even if you aren't returning with the caster.
 
 In addition, not every town or village has a spellcaster of sufficient level to cast any spell. In general, you
 must travel to a small town (or larger settlement) to be reasonably assured of finding a spellcaster capable of
 casting 1st-level spells, a large town for 2nd-level spells, a small city for 3rd- or 4th-level spells, a large
-city for 5th- or 6th-level spells, and a metropolis for 7th- or 8th-level spells. Even a metropolis isn’t
+city for 5th- or 6th-level spells, and a metropolis for 7th- or 8th-level spells. Even a metropolis isn't
 guaranteed to have a local spellcaster able to cast 9th-level spells.
 

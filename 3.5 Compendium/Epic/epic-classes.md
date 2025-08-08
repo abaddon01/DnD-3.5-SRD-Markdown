@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Epic - Epic Classes
-aliases: 3.5 Epic Classes
+aliases:
+  - 3.5 Epic Classes
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - epic
   - epic_classes
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -45,10 +45,10 @@ This material is Open Game Content, and is licensed for public use under the ter
  The epic barbarian gains one use of rage per day every four levels after 20th.
 
 ### Trap Sense (Ex):
- The epic barbarian’s bonus increases by +1 every three levels higher than 18th.
+ The epic barbarian's bonus increases by +1 every three levels higher than 18th.
 
 ### Damage Reduction (Ex):
- The epic barbarian’s damage reduction increases by 1 point every three
+ The epic barbarian's damage reduction increases by 1 point every three
 levels higher than 19th.
 
 ### Bonus Feats:
@@ -67,13 +67,13 @@ Rage, Overwhelming Critical, Ruinous Rage, Terrifying Rage, Thundering Rage.
 | --- | --- |
 | 21st | Trap sense +7 |
 | 22nd | Damage reduction 6/- |
-| 23rd | --- |
+| 23rd | -- |
 | 24th | Rage 7/day, Trap sense +8, bonus feat |
 | 25th | Damage reduction 7/- |
-| 26th | --- |
+| 26th | -- |
 | 27th | Trap sense +9 |
 | 28th | Damage reduction 8/-, Rage 8/day, bonus feat |
-| 29th | --- |
+| 29th | -- |
 | 30th | Trap sense +10 |
 
 ## Epic Bard
@@ -83,7 +83,7 @@ Rage, Overwhelming Critical, Ruinous Rage, Terrifying Rage, Thundering Rage.
  6 + Int modifier
 
 ### Spells:
- The bard’s caster level is equal to his or her class level. The bard’s number of spells
+ The bard's caster level is equal to his or her class level. The bard's number of spells
 per day does not increase after 20th level. The bard does not learn additional spells unless he or she selects the
 Spell Knowledge feat.
 
@@ -92,7 +92,7 @@ Spell Knowledge feat.
 he or she may select epic feats that grant new bardic music effects
 
 ### Bardic Knowledge:
- Add the bard’s class level + Intelligence modifier to all bardic knowledge
+ Add the bard's class level + Intelligence modifier to all bardic knowledge
 checks, as normal.
 
 ### Bonus Feats:
@@ -106,23 +106,23 @@ Permanent Emanation, Polyglot, Ranged Inspiration, Rapid Inspiration, Reactive C
 Stowaway, Spell Opportunity, Tenacious Magic.
 
 ### Inspire Courage (Su):
- The epic bard’s bonus when this ability is used increases by +1 every six
+ The epic bard's bonus when this ability is used increases by +1 every six
 levels higher than 20<sup>th</sup>.
 
 **Table: The Epic Bard**
 
 | Bard Level | Special |
 | --- | --- |
-| 21st | --- |
-| 22nd | --- |
+| 21st | -- |
+| 22nd | -- |
 | 23rd | Bonus feat |
-| 24th | --- |
-| 25th | --- |
+| 24th | -- |
+| 25th | -- |
 | 26th | Inspire Courage +5, Bonus feat |
-| 27th | --- |
-| 28th | --- |
+| 27th | -- |
+| 28th | -- |
 | 29th | Bonus feat |
-| 30th | --- |
+| 30th | -- |
 
 ## Epic Cleric
 ### Hit Die:
@@ -131,11 +131,11 @@ levels higher than 20<sup>th</sup>.
  2 + Int modifier
 
 ### Spells:
- The cleric’s caster level is equal to his or her class level. The cleric’s number of
+ The cleric's caster level is equal to his or her class level. The cleric's number of
 spells per day does not increase after 20th level
 
 ### Turn or Rebuke Undead:
- Use the cleric’s class level to determine the most powerful undead
+ Use the cleric's class level to determine the most powerful undead
 affected by a turn or rebuke check and the turning damage, just as normal.
 
 ### Bonus Feats:
@@ -153,16 +153,16 @@ Access, Spontaneous Spell, Tenacious Magic, Undead Mastery, Zone of Animation.
 
 | Cleric Level | Special |
 | --- | --- |
-| 21st | --- |
-| 22nd | --- |
+| 21st | -- |
+| 22nd | -- |
 | 23rd | Bonus feat |
-| 24th | --- |
-| 25th | --- |
+| 24th | -- |
+| 25th | -- |
 | 26th | Bonus feat |
-| 27th | --- |
-| 28th | --- |
+| 27th | -- |
+| 28th | -- |
 | 29th | Bonus feat |
-| 30th | --- |
+| 30th | -- |
 
 ## Epic Druid
 ### Hit Die:
@@ -171,17 +171,17 @@ Access, Spontaneous Spell, Tenacious Magic, Undead Mastery, Zone of Animation.
  4 + Int modifier
 
 ### Spells:
- The druid’s caster level is equal to his or her class level. The druid’s number of spells
+ The druid's caster level is equal to his or her class level. The druid's number of spells
 per day does not increase after 20th level.
 
 ### Animal Companion:
- The Druid’s animal companion continues to increase in power. Every three levels
+ The Druid's animal companion continues to increase in power. Every three levels
 higher than 20<sup>th</sup> the animal companion gains 2 bonus hit dice, +1 strength and dexterity, and an
 additional trick.
 
 ### _Wild Shape:_
  The epic druid can use this ability to take the form of an animal one
-additional time per day every four levels higher than 18th. The druid’s ability to wild shape into an elemental
+additional time per day every four levels higher than 18th. The druid's ability to wild shape into an elemental
 does not improve.
 
 ### Bonus Feats:
@@ -200,15 +200,15 @@ Vermin Wild Shape.
 
 | Druid Level | Special |
 | --- | --- |
-| 21st | --- |
+| 21st | -- |
 | 22nd | _Wild shape_ 7/day |
-| 23rd | --- |
+| 23rd | -- |
 | 24th | Bonus feat |
-| 25th | --- |
+| 25th | -- |
 | 26th | _Wild shape_ 8/day |
-| 27th | --- |
+| 27th | -- |
 | 28th | Bonus feat |
-| 29th | --- |
+| 29th | -- |
 | 30th | _Wild shape_ 9/day |
 
 ## Epic Fighter
@@ -234,15 +234,15 @@ fighter bonus feat, but not listed here, as being on his or her bonus feat list.
 
 | Fighter Level | Special |
 | --- | --- |
-| 21st | --- |
+| 21st | -- |
 | 22nd | Bonus feat |
-| 23rd | --- |
+| 23rd | -- |
 | 24th | Bonus feat |
-| 25th | --- |
+| 25th | -- |
 | 26th | Bonus feat |
-| 27th | --- |
+| 27th | -- |
 | 28th | Bonus feat |
-| 29th | --- |
+| 29th | -- |
 | 30th | Bonus feat |
 
 ## Epic Monk
@@ -252,23 +252,23 @@ fighter bonus feat, but not listed here, as being on his or her bonus feat list.
  4 + Int modifier
 
 ### AC Bonus:
- The monk’s bonus to Armor Class when unarmored increases by +1 every five levels higher
+ The monk's bonus to Armor Class when unarmored increases by +1 every five levels higher
 than 20th.
 
 ### Unarmed Strike:
- The damage for a monk’s unarmed strike does not increase after 16th level.
+ The damage for a monk's unarmed strike does not increase after 16th level.
 
 ### Stunning Attack:
- If the monk has the Stunning Fist feat use the monk’s class level when
+ If the monk has the Stunning Fist feat use the monk's class level when
 determining the DC to resist this attack, as normal.
 
 ### Unarmored Speed Bonus:
- The epic monk’s speed when wearing no armor increases by 10 feet every
+ The epic monk's speed when wearing no armor increases by 10 feet every
 three levels higher than 18th. The unarmored speed of Small and dwarven monks increases by 5 feet instead of 10
 feet.
 
 ### _Ki_ Strike:
- The monk’s _ki_ strike ability does not automatically increase with class
+ The monk's _ki_ strike ability does not automatically increase with class
 level after 16th level.
 
 ### Wholeness of Body (Su):
@@ -276,19 +276,19 @@ level after 16th level.
 each day, as normal.
 
 ### Abundant Step (Su):
- Use the monk’s class level when determining the effective caster level of
+ Use the monk's class level when determining the effective caster level of
 this ability, as normal.
 
 ### Diamond Soul (Ex):
- The epic monk’s spell resistance is equal to his or her class level +10, as
+ The epic monk's spell resistance is equal to his or her class level +10, as
 normal.
 
 ### Quivering Palm (Su):
- Use the monk’s class level when determining the DC to resist this attack, as
+ Use the monk's class level when determining the DC to resist this attack, as
 normal.
 
 ### Empty Body (Su):
- Use the monk’s class level when determining the duration of this effect, as
+ Use the monk's class level when determining the duration of this effect, as
 normal.
 
 ### Bonus Feats:
@@ -334,13 +334,13 @@ attack, as normal. He or she can smite one additional time per day for every fiv
  The paladin turns undead as a cleric of two levels lower, as normal.
 
 ### Spells:
- The paladin’s caster level is equal to one-half his or her class level, as normal. The
-paladin’s number of spells per day does not increase after 20th level.
+ The paladin's caster level is equal to one-half his or her class level, as normal. The
+paladin's number of spells per day does not increase after 20th level.
 
 ### Special Mount:
- The epic paladin’s special mount continues to increase in power. Every five levels
+ The epic paladin's special mount continues to increase in power. Every five levels
 after 20th the special mount gains +2 bonus Hit Dice, its natural armor increases by +2, its Strength adjustment
-increases by +1, and its Intelligence increases by +1. The mount’s spell resistance equals the paladin’s class
+increases by +1, and its Intelligence increases by +1. The mount's spell resistance equals the paladin's class
 level + 5.
 
 ### _Remove Disease_ (Sp):
@@ -362,13 +362,13 @@ of Courage.
 | Paladin Level | Special |
 | --- | --- |
 | 21st | _Remove disease_ 6/week |
-| 22nd | --- |
+| 22nd | -- |
 | 23rd | Bonus feat |
 | 24th | _Remove disease_ 7/week |
 | 25th | Smite evil 6/day |
 | 26th | Bonus feat |
 | 27th | _Remove disease_ 8/week |
-| 28th | --- |
+| 28th | -- |
 | 29th | Bonus feat |
 | 30th | _Remove disease_ 9/week |
 
@@ -379,15 +379,15 @@ of Courage.
  6 + Int modifier
 
 ### Spells:
- The ranger’s caster level is equal to one-half his or her class level, as normal. The
-ranger’s number of spells per day does not increase after 20th level.
+ The ranger's caster level is equal to one-half his or her class level, as normal. The
+ranger's number of spells per day does not increase after 20th level.
 
 ### Favored Enemy (Ex):
  The epic ranger gains one additional favored enemy, and his or her bonuses
 against one category of favored enemies goes up by +2, every five levels higher than 20th.
 
 ### Animal companion:
- The epic ranger’s animal companion continues to increase in power. The ranger’s
+ The epic ranger's animal companion continues to increase in power. The ranger's
 effective druid level is half his or her ranger level.
 
 ### Bonus Feats:
@@ -404,14 +404,14 @@ Throws, Swarm of Arrows, Two-Weapon Rend, Uncanny Accuracy.
 
 | Ranger Level | Special |
 | --- | --- |
-| 21st | --- |
-| 22nd | --- |
+| 21st | -- |
+| 22nd | -- |
 | 23rd | Bonus feat |
-| 24th | --- |
+| 24th | -- |
 | 25th | 6th favored enemy |
 | 26th | Bonus feat |
-| 27th | --- |
-| 28th | --- |
+| 27th | -- |
+| 28th | -- |
 | 29th | Bonus feat |
 | 30th | 7th favored enemy |
 
@@ -422,7 +422,7 @@ Throws, Swarm of Arrows, Two-Weapon Rend, Uncanny Accuracy.
  8 + Int modifier.
 
 ### Sneak Attack:
- The epic rogue’s sneak attack damage increases by +1d6 at every odd-numbered level.
+ The epic rogue's sneak attack damage increases by +1d6 at every odd-numbered level.
 
 ### Special Abilities:
  The rogue does not gain additional rogue special abilities after 19th level,
@@ -430,7 +430,7 @@ but can choose one of the rogue class special abilities(crippling strike, defens
 opportunist, skill mastery, or slippery mind) instead of a bonus feat.
 
 ### Trap Sense (Ex):
- The epic rogue’s bonus increases by +1 every three levels higher than 18th.
+ The epic rogue's bonus increases by +1 every three levels higher than 18th.
 
 ### Bonus Feats:
  The epic rogue gains a bonus feat (selected from the list of epic rogue feats) every
@@ -446,11 +446,11 @@ Initiative, Trap Sense, Uncanny Accuracy. The rogue may choose a special rogue a
 | Rogue Level | Special |
 | --- | --- |
 | 21st | Sneak attack +11d6 , trap sense +7 |
-| 22nd | --- |
+| 22nd | -- |
 | 23rd | Sneak attack +12d6 |
 | 24th | Trap sense +8, bonus feat |
 | 25th | Sneak attack +13d6 |
-| 26th | --- |
+| 26th | -- |
 | 27th | Sneak attack +14d6, trap sense +9 |
 | 28th | Bonus feat |
 | 29th | Sneak attack +15d6 |
@@ -463,15 +463,15 @@ Initiative, Trap Sense, Uncanny Accuracy. The rogue may choose a special rogue a
  2 + Int modifier.
 
 ### Spells:
- The sorcerer’s caster level is equal to his or her class level. The sorcerer’s number of
+ The sorcerer's caster level is equal to his or her class level. The sorcerer's number of
 spells per day does not increase after 20th level. The sorcerer does not learn additional spells unless he or she
 selects the Spell Knowledge feat.
 
 ### Familiar:
- The sorcerer’s familiar continues to increase in power. Every two levels beyond 20th
-the familiar’s natural armor and Intelligence each increase by +1. The familiar’s spell resistance is equal to the
-master’s class level + 5. At 21<sup>st</sup> level and again every ten levels higher than 21<sup>st</sup>, the
-familiar gains the benefit of the Familiar Spell epic feat for a spell of its master’s choice.
+ The sorcerer's familiar continues to increase in power. Every two levels beyond 20th
+the familiar's natural armor and Intelligence each increase by +1. The familiar's spell resistance is equal to the
+master's class level + 5. At 21<sup>st</sup> level and again every ten levels higher than 21<sup>st</sup>, the
+familiar gains the benefit of the Familiar Spell epic feat for a spell of its master's choice.
 
 ### Bonus Feats:
  The epic sorcerer gains a bonus feat (selected from the list of epic sorcerer bonus
@@ -487,16 +487,16 @@ Emanation, Spell Knowledge, Spell Stowaway, Spell Opportunity.
 
 | Sorcerer Level | Special |
 | --- | --- |
-| 21st | --- |
-| 22nd | --- |
+| 21st | -- |
+| 22nd | -- |
 | 23rd | Bonus feat |
-| 24th | --- |
-| 25th | --- |
+| 24th | -- |
+| 25th | -- |
 | 26th | Bonus feat |
-| 27th | --- |
-| 28th | --- |
+| 27th | -- |
+| 28th | -- |
 | 29th | Bonus feat |
-| 30th | --- |
+| 30th | -- |
 
 ## Epic Wizard
 ### Hit Die:
@@ -505,15 +505,15 @@ Emanation, Spell Knowledge, Spell Stowaway, Spell Opportunity.
  2 + Int modifier.
 
 ### Spells:
- The wizard’s caster level is equal to her class level. The wizard’s number of spells per
+ The wizard's caster level is equal to her class level. The wizard's number of spells per
 day does not increase after 20th level. Each time the wizard achieves a new level, he or she learns two new spells
 of any spell levels that he or she can cast (according to his or her new level).
 
 ### Familiar:
- The wizards’s familiar continues to increase in power. Every two levels beyond 20th the
-familiar’s natural armor and Intelligence each increase by +1. The familiar’s spell resistance is equal to the
-master’s class level + 5. At 21<sup>st</sup> level and again every ten levels higher than 21<sup>st</sup>, the
-familiar gains the benefit of the Familiar Spell epic feat for a spell of its master’s choice.
+ The wizards's familiar continues to increase in power. Every two levels beyond 20th the
+familiar's natural armor and Intelligence each increase by +1. The familiar's spell resistance is equal to the
+master's class level + 5. At 21<sup>st</sup> level and again every ten levels higher than 21<sup>st</sup>, the
+familiar gains the benefit of the Familiar Spell epic feat for a spell of its master's choice.
 
 ### Bonus Feats:
  The epic wizard gains a bonus feat (selected from the list of epic wizard feats)
@@ -532,16 +532,16 @@ item creation feat or metamagic feat not listed here.
 
 | Wizard Level | Special |
 | --- | --- |
-| 21st | --- |
-| 22nd | --- |
+| 21st | -- |
+| 22nd | -- |
 | 23rd | Bonus feat |
-| 24th | --- |
-| 25th | --- |
+| 24th | -- |
+| 25th | -- |
 | 26th | Bonus feat |
-| 27th | --- |
-| 28th | --- |
+| 27th | -- |
+| 28th | -- |
 | 29th | Bonus feat |
-| 30th | --- |
+| 30th | -- |
 
 ### Familiars at Epic Level
 
@@ -574,8 +574,8 @@ chooses.
 Epic level psionic characters follow the same epic progression as non-psionics epic characters, except as noted
 below.
 
-*   For manifesters, manifester level continues to increase after 20th level. However, a manifester’s power points and powers known at each level do not increase automatically after 20th level.
-*   The powers of psicrystals that are based on the creator’s level continue to increase as their owner gains levels.
+*   For manifesters, manifester level continues to increase after 20th level. However, a manifester's power points and powers known at each level do not increase automatically after 20th level.
+*   The powers of psicrystals that are based on the creator's level continue to increase as their owner gains levels.
 *   Bonus feats for epic psionic classes can be chosen from among any epic feats for which the character meets the prerequisites or any psionic, metapsionic, or psionic item creation feat, as normal.
 
 ### No Epic Bonus Power Progression
@@ -595,16 +595,16 @@ power each time they expend their psionic focus.
  2 + Int modifier.
 
 ### Powers:
- The psion’s manifester level is equal to his class level. The psion’s base power points
+ The psion's manifester level is equal to his class level. The psion's base power points
 do not increase after 20th level. Each time the psion attains a new level, he learns two new powers of any level
 or levels that he can manifest.
 
 ### Psicrystal:
- The epic psion’s psicrystal, if he has one, continues to increase in power. At every
-odd-numbered level higher than 20th (21st, 23rd, and so on) the psicrystal’s natural armor bonus and Intelligence
-each increase by 1. The psicrystal’s power resistance is equal to the master’s level + 5. At 21st level and again
+ The epic psion's psicrystal, if he has one, continues to increase in power. At every
+odd-numbered level higher than 20th (21st, 23rd, and so on) the psicrystal's natural armor bonus and Intelligence
+each increase by 1. The psicrystal's power resistance is equal to the master's level + 5. At 21st level and again
 every ten levels higher than 21st, the psicrystal gains the benefit of the Psicrystal Power epic feat for a power
-of its master’s choice.
+of its master's choice.
 
 ### Bonus Feats:
  The epic psion gains a bonus feat every three levels higher than 20th (23rd, 26th,
@@ -614,16 +614,16 @@ and so on).
 
 | Psion Level | Special |
 | --- | --- |
-| 21st | --- |
-| 22nd | --- |
+| 21st | -- |
+| 22nd | -- |
 | 23rd | Bonus feat |
-| 24th | --- |
-| 25th | --- |
+| 24th | -- |
+| 25th | -- |
 | 26th | Bonus feat |
-| 27th | --- |
-| 28th | --- |
+| 27th | -- |
+| 28th | -- |
 | 29th | Bonus feat |
-| 30th | --- |
+| 30th | -- |
 
 ### Psicrystals at Epic Level
 
@@ -658,7 +658,7 @@ master chooses.
  2 + Int modifier.
 
 ### Powers:
- The psychic warrior’s manifester level is equal to her class level. The psychic warrior’s
+ The psychic warrior's manifester level is equal to her class level. The psychic warrior's
 base power points do not increase after 20th level. The epic psychic warrior gains one new power of any level that
 she can manifest at every even-numbered level she attains higher than 20th (22nd, 24th, 26th, and so on).
 
@@ -671,14 +671,14 @@ warrior bonus feats) at 21st level and every three levels thereafter.
 | Psychic Warrior Level | Special |
 | --- | --- |
 | 21st | Bonus feat |
-| 22nd | --- |
-| 23rd | --- |
+| 22nd | -- |
+| 23rd | -- |
 | 24th | Bonus feat |
-| 25th | --- |
-| 26th | --- |
+| 25th | -- |
+| 26th | -- |
 | 27th | Bonus feat |
-| 28th | --- |
-| 29th | --- |
+| 28th | -- |
+| 29th | -- |
 | 30th | Bonus feat |
 
 ## Epic Soulknife
@@ -692,13 +692,13 @@ warrior bonus feats) at 21st level and every three levels thereafter.
 enhancement bonus on attack rolls and damage rolls (+6 at 25th, +7 at 30th, and so on).
 
 ### Mind Blade Enhancement:
- The epic soulknife’s mind blade gains additional powers as the soulknife
+ The epic soulknife's mind blade gains additional powers as the soulknife
 gains epic levels. At 22nd level and every four levels thereafter, the soulknife can improve the value of the
 weapon special abilities on his mind blade by 1 (+5 equivalent bonus at 22nd, +6 at 26th, and so on). As noted in
 the soulknife class description, reassigning qualities still takes 8 hours of concentration.
 
 ### Psychic Strike:
- The epic soulknife’s psychic strike progression continues past 20th level,
+ The epic soulknife's psychic strike progression continues past 20th level,
 continuing to grant an additional die (d8) of damage every four levels higher than 19th (+6d8 at 23rd, +7d8 at
 27th, and so on).
 
@@ -710,14 +710,14 @@ continuing to grant an additional die (d8) of damage every four levels higher th
 
 | Soulknife Level | Special |
 | --- | --- |
-| 21st | --- |
+| 21st | -- |
 | 22nd | Mind blade enhancement +5 |
 | 23rd | Bonus feat |
-| 24th | --- |
+| 24th | -- |
 | 25th | _+6 mind blade_ |
 | 26th | Mind blade enhancement +5, bonus feat |
-| 27th | --- |
-| 28th | --- |
+| 27th | -- |
+| 28th | -- |
 | 29th | Bonus feat |
 | 30th | _+7 mind blade_ |
 
@@ -728,21 +728,21 @@ continuing to grant an additional die (d8) of damage every four levels higher th
  4 + Int modifier.
 
 ### Powers:
- The epic wilder’s manifester level is equal to her class level. The wilder’s power points
+ The epic wilder's manifester level is equal to her class level. The wilder's power points
 and powers known do not increase after 20th level (except through the use of epic feats).
 
 ### Wild Surge:
- The epic wilder’s wild surge continues to increase after 20th level. At 23rd level
+ The epic wilder's wild surge continues to increase after 20th level. At 23rd level
 and every four levels higher than 23rd, the wild surge continues to gain an additional +1 boost to manifester
 level when used (+7 at 23rd, +8 at 27th, and so on).
 
 ### Surging Euphoria:
- The wilder’s surging euphoria progression continues past 20th level. At 28th
+ The wilder's surging euphoria progression continues past 20th level. At 28th
 level and every eight levels higher than 28th, the morale bonus on her attack rolls, damage rolls, and saving
 throws increases by 1 (+4 at 28th, +5 at 36th, and so on).
 
 ### Volatile Mind:
- The epic wilder’s volatile mind ability continues to increase. At 21st level and
+ The epic wilder's volatile mind ability continues to increase. At 21st level and
 every four levels higher than 21st, the penalty assessed against telepathy powers manifested on the wilder is
 increased by 1 power point (5 points at 21st, 6 points at 25th, and so on).
 
@@ -751,13 +751,13 @@ increased by 1 power point (5 points at 21st, 6 points at 25th, and so on).
 | Wilder Level | Special |
 | --- | --- |
 | 21st | Volatile mind (5 power points) |
-| 22nd | --- |
+| 22nd | -- |
 | 23rd | Wild surge +7 |
-| 24th | --- |
+| 24th | -- |
 | 25th | Volatile mind (6 power points) |
-| 26th | --- |
+| 26th | -- |
 | 27th | Wild surge +8 |
 | 28th | Surging euphoria +4 |
 | 29th | Volatile mind (7 power points) |
-| 30th | --- |
+| 30th | -- |
 

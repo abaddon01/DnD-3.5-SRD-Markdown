@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Divine - Divine Minions
-aliases: 3.5 Divine Minions
+aliases:
+  - 3.5 Divine Minions
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - divine
   - divine_minions
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -16,8 +16,8 @@ This material is Open Game Content, and is licensed for public use under the ter
 # DIVINE MINIONS
 
 All types of beings may serve deities. In general, a deity only accepts minions who have accomplished some great
-deed in service to the deity. Such minions usually have the same alignment as the deity. No minion’s alignment is
-opposed to the patron deity’s alignment on either the law-chaos axis or the good-evil axis.
+deed in service to the deity. Such minions usually have the same alignment as the deity. No minion's alignment is
+opposed to the patron deity's alignment on either the law-chaos axis or the good-evil axis.
 
 ## Table of Contents
 *   [[#Proxies]]
@@ -27,10 +27,10 @@ opposed to the patron deity’s alignment on either the law-chaos axis or the go
 
 ## Proxies
 
-A divine proxy speaks and acts on behalf of the divine being. When the demand for a deity’s presence is too high,
+A divine proxy speaks and acts on behalf of the divine being. When the demand for a deity's presence is too high,
 the deity may use proxies.
 
-Proxies are divine minions invested with a small portion of the deity’s power. A deity may invest 1 rank of its
+Proxies are divine minions invested with a small portion of the deity's power. A deity may invest 1 rank of its
 power (reducing its divine rank accordingly) in a single servant for as long as the deity chooses. The minion must
 be physically present for the deity to perform the investiture. While so invested, the proxy gains any salient
 divine abilities held by the patron deity as well as the powers and abilities of a rank 1 demigod. Without the
@@ -40,7 +40,7 @@ single divine rank as a standard action, and doing so it does not require the ph
 
 ## Petitioners
 
-Some spirits demonstrate their devotion to their deity by traveling to the deity’s home plane. Those that survive
+Some spirits demonstrate their devotion to their deity by traveling to the deity's home plane. Those that survive
 the journey across the planes become servants of their deity. While a few may remain disembodied spirits, most
 become petitioners through the divine will of their patron deity.
 
@@ -60,8 +60,8 @@ restored to life (once again becoming player characters), they forget any of the
 ## Creating a Petitioner
 
 "Petitioner" is a template that may be added to any creature as determined by the nature of the campaign (referred
-to hereafter as the base creature). The creature’s type changes to outsider, and the creature uses all the base
-creature’s statistics and special abilities except as noted here.
+to hereafter as the base creature). The creature's type changes to outsider, and the creature uses all the base
+creature's statistics and special abilities except as noted here.
 
 ### Hit Dice:
  Change to 2d8. Retain bonus hit points.
@@ -87,7 +87,7 @@ _Other Immunities:_ Depending on its nature, the petitioner is immune to two of 
 acid, cold, electricity, fire, poison, petrifaction, or polymorphing. These immunities are applied similarly to
 all petitioners of a particular plane or deity.
 
-_Resistances:_ Depending on the nature of the petitioner’s plane, the petitioner gains resistance 20
+_Resistances:_ Depending on the nature of the petitioner's plane, the petitioner gains resistance 20
 against two of the following effects: acid, cold, electricity, or fire.
 
 _Planar Commitment:_ Petitioners cannot leave the plane they inhabit. They are teleported one hundred miles

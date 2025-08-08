@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Feats
-aliases: 3.5 Feats
+aliases:
+  - 3.5 Feats
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - feats
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -139,7 +139,7 @@ Some feats have prerequisites. Your character must have the indicated ability sc
 base attack bonus, or other quality designated in order to select or use that feat. A character can gain a feat at
 the same level at which he or she gains the prerequisite.
 
-A character can’t use a feat if he or she has lost a prerequisite.
+A character can't use a feat if he or she has lost a prerequisite.
 ## Types of Feats
 
 Some feats are general, meaning that no special rules govern them as a group. Others are item creation feats,
@@ -148,7 +148,7 @@ a spell with greater effect, albeit as if the spell were a higher spell level th
 
 ### Fighter Bonus Feats
 
-Any feat designated as a fighter feat can be selected as a fighter’s bonus feat. This designation does not
+Any feat designated as a fighter feat can be selected as a fighter's bonus feat. This designation does not
 restrict characters of other classes from selecting these feats, assuming that they meet any prerequisites.
 
 ### Item Creation Feats
@@ -174,7 +174,7 @@ time is one day.
 
 ### Item Cost:
  Brew Potion, Craft Wand, and Scribe Scroll create items that directly reproduce spell
-effects, and the power of these items depends on their caster level---that is, a spell from such an item has the
+effects, and the power of these items depends on their caster level--that is, a spell from such an item has the
 power it would have if cast by a spellcaster of that level. The price of these items (and thus the XP cost and the
 cost of the raw materials) also depends on the caster level. The caster level must be high enough that the
 spellcaster creating the item can cast the spell at that level. To find the final price in each case, multiply the
@@ -194,7 +194,7 @@ For a wand, the creator must expend fifty copies of the material component or pa
 Some magic items similarly incur extra costs in material components or XP, as noted in their descriptions.
 ### Metamagic Feats
 
-As a spellcaster’s knowledge of magic grows, she can learn to cast spells in ways slightly different from the ways
+As a spellcaster's knowledge of magic grows, she can learn to cast spells in ways slightly different from the ways
 in which the spells were originally designed or learned. Preparing and casting a spell in such a way is harder
 than normal but, thanks to metamagic feats, at least it is possible. Spells modified by a metamagic feat use a
 spell slot higher than normal. This does not change the level of the spell, so the DC for saving throws against it
@@ -211,8 +211,8 @@ they cast their spells whether to apply their metamagic feats to improve them. A
 improved spell uses up a higher-level spell slot. But because the sorcerer or bard has not prepared the spell in a
 metamagic form in advance, he must apply the metamagic feat on the spot. Therefore, such a character must also
 take more time to cast a metamagic spell (one enhanced by a metamagic feat) than he does to cast a regular spell.
-If the spell’s normal casting time is 1 action, casting a metamagic version is a full-round action for a sorcerer
-or bard. (This isn’t the same as a 1-round casting time.)
+If the spell's normal casting time is 1 action, casting a metamagic version is a full-round action for a sorcerer
+or bard. (This isn't the same as a 1-round casting time.)
 
 For a spell with a longer casting time, it takes an extra full-round action to cast the spell.
 
@@ -227,25 +227,25 @@ extra full-round action to cast.
 spell level, even though it is prepared and cast as a higher-level spell. Saving throw modifications are not
 changed unless stated otherwise in the feat description.
 
-The modifications made by these feats only apply to spells cast directly by the feat user. A spellcaster can’t use
+The modifications made by these feats only apply to spells cast directly by the feat user. A spellcaster can't use
 a metamagic feat to alter a spell being cast from a wand, scroll, or other device.
 
-Metamagic feats that eliminate components of a spell don’t eliminate the attack of opportunity provoked by casting
+Metamagic feats that eliminate components of a spell don't eliminate the attack of opportunity provoked by casting
 a spell while threatened. However, casting a spell modified by Quicken Spell does not provoke an attack of
 opportunity.
 
 Metamagic feats cannot be used with all spells. See the specific feat descriptions for the spells that a
-particular feat can’t modify.
+particular feat can't modify.
 
 ### Multiple Metamagic Feats on a Spell:
  A spellcaster can apply multiple metamagic feats to a single
-spell. Changes to its level are cumulative. You can’t apply the same metamagic feat more than once to a single
+spell. Changes to its level are cumulative. You can't apply the same metamagic feat more than once to a single
 spell.
 
 ### Magic Items and Metamagic Spells:
  With the right item creation feat, you can store a metamagic
-version of a spell in a scroll, potion, or wand. Level limits for potions and wands apply to the spell’s higher
-spell level (after the application of the metamagic feat). A character doesn’t need the metamagic feat to activate
+version of a spell in a scroll, potion, or wand. Level limits for potions and wands apply to the spell's higher
+spell level (after the application of the metamagic feat). A character doesn't need the metamagic feat to activate
 an item storing a metamagic version of a spell.
 
 ### Counterspelling Metamagic Spells:
@@ -288,7 +288,7 @@ the feat.
 
 #### Special:
  The master of a familiar gains the benefit of the Alertness feat whenever the familiar
-is within arm’s reach.
+is within arm's reach.
 
 ### Animal Affinity [General]
 #### Benefit:
@@ -349,9 +349,9 @@ Strength and Constitution for the duration of the spell that summoned it.
  In melee, every time you miss because of concealment, you can reroll your miss chance
 percentile roll one time to see if you actually hit.
 
-An invisible attacker gets no advantages related to hitting you in melee. That is, you don’t lose your Dexterity
-bonus to Armor Class, and the attacker doesn’t get the usual +2 bonus for being invisible. The invisible
-attacker’s bonuses do still apply for ranged attacks, however.
+An invisible attacker gets no advantages related to hitting you in melee. That is, you don't lose your Dexterity
+bonus to Armor Class, and the attacker doesn't get the usual +2 bonus for being invisible. The invisible
+attacker's bonuses do still apply for ranged attacks, however.
 
 You take only half the usual penalty to speed for being unable to see. Darkness and poor visibility in general
 reduces your speed to three-quarters normal, instead of one-half.
@@ -426,7 +426,7 @@ bonus.
 With this feat, you may also make attacks of opportunity while flat-footed.
 
 #### Normal:
- A character without this feat can make only one attack of opportunity per round and can’t
+ A character without this feat can make only one attack of opportunity per round and can't
 make attacks of opportunity while flat-footed.
 
 #### Special:
@@ -442,7 +442,7 @@ A monk may select Combat Reflexes as a bonus feat at 2nd level.
 #### Benefit:
  You can create any magic weapon, armor, or shield whose prerequisites you meet.
 Enhancing a weapon, suit of armor, or shield takes one day for each 1,000 gp in the price of its magical features.
-To enhance a weapon, suit of armor, or shield, you must spend 1/25 of its features’ total price in XP and use up
+To enhance a weapon, suit of armor, or shield, you must spend 1/25 of its features' total price in XP and use up
 raw materials costing one-half of this total price.
 
 The weapon, armor, or shield to be enhanced must be a masterwork item that you provide. Its cost is not included
@@ -461,7 +461,7 @@ each 1,000 gp in its base price. To craft a rod, you must spend 1/25 of its base
 materials costing one-half of its base price.
 
 Some rods incur extra costs in material components or XP, as noted in their descriptions. These costs are in
-addition to those derived from the rod’s base price.
+addition to those derived from the rod's base price.
 
 ### Craft Staff [Item Creation]
 #### Prerequisite:
@@ -474,7 +474,7 @@ base price in XP and use up raw materials costing one-half of its base price. A 
 charges.
 
 Some staffs incur extra costs in material components or XP, as noted in their descriptions. These costs are in
-addition to those derived from the staff ’s base price.
+addition to those derived from the staff 's base price.
 
 ### Craft Wand [Item Creation]
 #### Prerequisite:
@@ -496,14 +496,14 @@ fifty times the XP cost.
 
 #### Benefit:
  You can create any wondrous item whose prerequisites you meet. Enchanting a wondrous
-item takes one day for each 1,000 gp in its price. To enchant a wondrous item, you must spend 1/25 of the item’s
+item takes one day for each 1,000 gp in its price. To enchant a wondrous item, you must spend 1/25 of the item's
 price in XP and use up raw materials costing half of this price.
 
 You can also mend a broken wondrous item if it is one that you could make. Doing so costs half the XP, half the
 raw materials, and half the time it would take to craft that item in the first place.
 
 Some wondrous items incur extra costs in material components or XP, as noted in their descriptions. These costs
-are in addition to those derived from the item’s base price. You must pay such a cost to create an item or to mend
+are in addition to those derived from the item's base price. You must pay such a cost to create an item or to mend
 a broken one.
 
 ### Deceitful [General]
@@ -518,8 +518,8 @@ a broken one.
 when you would normally be hit with a ranged weapon, you may deflect it so that you take no damage from it. You
 must be aware of the attack and not flatfooted.
 
-Attempting to deflect a ranged weapon doesn’t count as an action. Unusually massive ranged weapons and ranged
-attacks generated by spell effects can’t be deflected.
+Attempting to deflect a ranged weapon doesn't count as an action. Unusually massive ranged weapons and ranged
+attacks generated by spell effects can't be deflected.
 
 #### Special:
  A monk may select Deflect Arrows as a bonus feat at 2nd level, even if she does not meet
@@ -534,11 +534,11 @@ A fighter may select Deflect Arrows as one of his fighter bonus feats.
  Endurance.
 
 #### Benefit:
- When reduced to between -1 and -9 hit points, you automatically become stable. You don’t
+ When reduced to between -1 and -9 hit points, you automatically become stable. You don't
 have to roll d% to see if you lose 1 hit point each round.
 
 When reduced to negative hit points, you may choose to act as if you were disabled, rather than dying. You must
-make this decision as soon as you are reduced to negative hit points (even if it isn’t your turn). If you do not
+make this decision as soon as you are reduced to negative hit points (even if it isn't your turn). If you do not
 choose to act as if you were disabled, you immediately fall unconscious.
 
 When using this feat, you can take either a single move or standard action each turn, but not both, and you cannot
@@ -571,7 +571,7 @@ Also, dodge bonuses stack with each other, unlike most other types of bonuses.
  All variable, numeric effects of an empowered spell are increased by one-half.
 
 Saving throws and opposed rolls are not affected, nor are spells without random variables. An empowered spell uses
-up a spell slot two levels higher than the spell’s actual level.
+up a spell slot two levels higher than the spell's actual level.
 
 ### Endurance [General]
 
@@ -597,7 +597,7 @@ it.
  You can alter a spell with a range of close, medium, or long to increase its range by
 100%. An enlarged spell with a range of close now has a range of 50 ft. + 5 ft./level, while medium-range spells
 have a range of 200 ft. + 20 ft./level and long-range spells have a range of 800 ft. + 80 ft./level. An enlarged
-spell uses up a spell slot one level higher than the spell’s actual level.
+spell uses up a spell slot one level higher than the spell's actual level.
 
 Spells whose ranges are not defined by distance, as well as spells whose ranges are not close, medium, or long, do
 not have increased ranges.
@@ -632,7 +632,7 @@ A fighter may select Exotic Weapon Proficiency as one of his fighter bonus feats
 #### Benefit:
  An extended spell lasts twice as long as normal. A spell with a duration of
 concentration, instantaneous, or permanent is not affected by this feat. An extended spell uses up a spell slot
-one level higher than the spell’s actual level.
+one level higher than the spell's actual level.
 
 ### Extra Turning [General]
 #### Prerequisite:
@@ -708,7 +708,7 @@ feat, it applies to a new school of magic to which you already have applied the 
 
 #### Benefit:
  You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a
-creature’s spell resistance. This bonus stacks with the one from Spell Penetration.
+creature's spell resistance. This bonus stacks with the one from Spell Penetration.
 
 ### Greater Two-Weapon Fighting [General]
 
@@ -802,7 +802,7 @@ Choose one type of weapon.
  You can gain Improved Critical multiple times. The effects do not stack. Each time you
 take the feat, it applies to a new type of weapon.
 
-This effect doesn’t stack with any other effect that expands the threat range of a weapon.
+This effect doesn't stack with any other effect that expands the threat range of a weapon.
 A fighter may select Improved Critical as one of his fighter bonus feats.
 ### Improved Disarm [General]
 #### Prerequisites:
@@ -841,13 +841,13 @@ axes (lawful through chaotic, good through evil).
 | Pseudodragon | Neutral good | 7th |
 | Quasit | Chaotic evil | 7th |
 
-Improved familiars otherwise use the rules for regular familiars, with two exceptions: If the creature’s type is
+Improved familiars otherwise use the rules for regular familiars, with two exceptions: If the creature's type is
 something other than animal, its type does not change; and improved familiars do not gain the ability to speak
 with other creatures of their kind (although many of them already have the ability to communicate).
 
 The list in the table above presents only a few possible improved familiars. Almost any creature of the same
-general size and power as those on the list makes a suitable familiar. Nor is the master’s alignment the only
-possible categorization. For instance, improved familiars could be assigned by the master’s creature type or
+general size and power as those on the list makes a suitable familiar. Nor is the master's alignment the only
+possible categorization. For instance, improved familiars could be assigned by the master's creature type or
 subtype, as shown below.
 
 | Familiar | Type/Subtype | Arcane Spellcaster Level |
@@ -863,7 +863,7 @@ subtype, as shown below.
 | Ice mephit | Cold | 7th |
 | 1 Or other celestial animal from the standard familiar list. |
 | 2 Or other fiendish animal from the standard familiar list. |
-| 3 The master must first create the homunculus, substituting ichor or another part of the master’s body for blood if necessary. |
+| 3 The master must first create the homunculus, substituting ichor or another part of the master's body for blood if necessary. |
 
 ### Improved Feint [General]
 #### Prerequisites:
@@ -933,11 +933,11 @@ he does not have the prerequisites for it, but only when he is wearing light or 
  Shield Proficiency.
 
 #### Benefit:
- When you perform a shield bash, you may still apply the shield’s shield bonus to your
+ When you perform a shield bash, you may still apply the shield's shield bonus to your
 AC.
 
 #### Normal:
- Without this feat, a character who performs a shield bash loses the shield’s shield bonus
+ Without this feat, a character who performs a shield bash loses the shield's shield bonus
 to AC until his or her next turn.
 
 #### Special:
@@ -966,7 +966,7 @@ or carried by another character.
  You do not provoke an attack of opportunity when you attempt to trip an opponent while
 you are unarmed. You also gain a +4 bonus on your Strength check to trip your opponent.
 
-If you trip an opponent in melee combat, you immediately get a melee attack against that opponent as if you hadn’t
+If you trip an opponent in melee combat, you immediately get a melee attack against that opponent as if you hadn't
 used your attack for the trip attempt.
 
 #### Normal:
@@ -1006,7 +1006,7 @@ even if he does not have the prerequisites for it, but only when he is wearing l
 ### Improved Unarmed Strike [General]
 
 #### Benefit:
- You are considered to be armed even when unarmed ---that is, you do not provoke attacks or
+ You are considered to be armed even when unarmed --that is, you do not provoke attacks or
 opportunity from armed opponents when you attack them while unarmed. However, you still get an attack of
 opportunity against any opponent who makes an unarmed attack on you.
 
@@ -1037,11 +1037,11 @@ followers, subordinates who assist her. See the table below for what sort of coh
 character can recruit.
 
 #### Leadership Modifiers:
- Several factors can affect a character’s Leadership score, causing it to
-vary from the base score (character level + Cha modifier). A character’s reputation (from the point of view of the
+ Several factors can affect a character's Leadership score, causing it to
+vary from the base score (character level + Cha modifier). A character's reputation (from the point of view of the
 cohort or follower he is trying to attract) raises or lowers his Leadership score:
 
-| Leader’s Reputation | Modifier |
+| Leader's Reputation | Modifier |
 | --- | --- |
 | Great renown | +2 |
 | Fairness and generosity | +1 |
@@ -1071,63 +1071,63 @@ the following modifiers that apply.
 | Leadership Score | Cohort Level | Number of Followers by Level |
 | --- | --- | --- |
 | 1st | 2nd | 3rd | 4th | 5th | 6th |
-| 1 or lower | --- | --- | --- | --- | --- | --- | --- |
-| 2 | 1st | --- | --- | --- | --- | --- | --- |
-| 3 | 2nd | --- | --- | --- | --- | --- | --- |
-| 4 | 3rd | --- | --- | --- | --- | --- | --- |
-| 5 | 3rd | --- | --- | --- | --- | --- | --- |
-| 6 | 4th | --- | --- | --- | --- | --- | --- |
-| 7 | 5th | --- | --- | --- | --- | --- | --- |
-| 8 | 5th | --- | --- | --- | --- | --- | --- |
-| 9 | 6th | --- | --- | --- | --- | --- | --- |
-| 10 | 7th | 5 | --- | --- | --- | --- | --- |
-| 11 | 7th | 6 | --- | --- | --- | --- | --- |
-| 12 | 8th | 8 | --- | --- | --- | --- | --- |
-| 13 | 9th | 10 | 1 | --- | --- | --- | --- |
-| 14 | 10th | 15 | 1 | --- | --- | --- | --- |
-| 15 | 10th | 20 | 2 | 1 | --- | --- | --- |
-| 16 | 11th | 25 | 2 | 1 | --- | --- | --- |
-| 17 | 12th | 30 | 3 | 1 | 1 | --- | --- |
-| 18 | 12th | 35 | 3 | 1 | 1 | --- | --- |
-| 19 | 13th | 40 | 4 | 2 | 1 | 1 | --- |
-| 20 | 14th | 50 | 5 | 3 | 2 | 1 | --- |
+| 1 or lower | -- | -- | -- | -- | -- | -- | -- |
+| 2 | 1st | -- | -- | -- | -- | -- | -- |
+| 3 | 2nd | -- | -- | -- | -- | -- | -- |
+| 4 | 3rd | -- | -- | -- | -- | -- | -- |
+| 5 | 3rd | -- | -- | -- | -- | -- | -- |
+| 6 | 4th | -- | -- | -- | -- | -- | -- |
+| 7 | 5th | -- | -- | -- | -- | -- | -- |
+| 8 | 5th | -- | -- | -- | -- | -- | -- |
+| 9 | 6th | -- | -- | -- | -- | -- | -- |
+| 10 | 7th | 5 | -- | -- | -- | -- | -- |
+| 11 | 7th | 6 | -- | -- | -- | -- | -- |
+| 12 | 8th | 8 | -- | -- | -- | -- | -- |
+| 13 | 9th | 10 | 1 | -- | -- | -- | -- |
+| 14 | 10th | 15 | 1 | -- | -- | -- | -- |
+| 15 | 10th | 20 | 2 | 1 | -- | -- | -- |
+| 16 | 11th | 25 | 2 | 1 | -- | -- | -- |
+| 17 | 12th | 30 | 3 | 1 | 1 | -- | -- |
+| 18 | 12th | 35 | 3 | 1 | 1 | -- | -- |
+| 19 | 13th | 40 | 4 | 2 | 1 | 1 | -- |
+| 20 | 14th | 50 | 5 | 3 | 2 | 1 | -- |
 | 21 | 15th | 60 | 6 | 3 | 2 | 1 | 1 |
 | 22 | 15th | 75 | 7 | 4 | 2 | 2 | 1 |
 | 23 | 16th | 90 | 9 | 5 | 3 | 2 | 1 |
 | 24 | 17th | 110 | 11 | 6 | 3 | 2 | 1 |
 | 25 or higher | 17th | 135 | 13 | 7 | 4 | 2 | 2 |
 
-_Leadership Score:_ A character’s base Leadership score equals his level plus any Charisma modifier. In
+_Leadership Score:_ A character's base Leadership score equals his level plus any Charisma modifier. In
 order to take into account negative Charisma modifiers, this table allows for very low Leadership scores, but the
 character must still be 6th level or higher in order to gain the Leadership feat. Outside factors can affect a
-character’s Leadership score, as detailed above.
+character's Leadership score, as detailed above.
 
-_Cohort Level:_ The character can attract a cohort of up to this level. Regardless of a character’s
+_Cohort Level:_ The character can attract a cohort of up to this level. Regardless of a character's
 Leadership score, he can only recruit a cohort who is two or more levels lower than himself. The cohort should be
 equipped with gear appropriate for its level. A character can try to attract a cohort of a particular race, class,
-and alignment. The cohort’s alignment may not be opposed to the leader’s alignment on either the law-vs-chaos or
+and alignment. The cohort's alignment may not be opposed to the leader's alignment on either the law-vs-chaos or
 good-vs-evil axis, and the leader takes a Leadership penalty if he recruits a cohort of an alignment different
 from his own.
 
 Cohorts earn XP as follows:
-The cohort does not count as a party member when determining the party’s XP.
+The cohort does not count as a party member when determining the party's XP.
 
-Divide the cohort’s level by the level of the PC with whom he or she is associated (the character with the
+Divide the cohort's level by the level of the PC with whom he or she is associated (the character with the
 Leadership feat who attracted the cohort).
 
-Multiply this result by the total XP awarded to the PC and add that number of experience points to the cohort’s
+Multiply this result by the total XP awarded to the PC and add that number of experience points to the cohort's
 total.
 
-If a cohort gains enough XP to bring it to a level one lower than the associated PC’s character level, the cohort
-does not gain the new level---its new XP total is 1 less than the amount needed attain the next level.
+If a cohort gains enough XP to bring it to a level one lower than the associated PC's character level, the cohort
+does not gain the new level--its new XP total is 1 less than the amount needed attain the next level.
 
 _Number of Followers by Level:_ The character can lead up to the indicated number of characters of each
-level. Followers are similar to cohorts, except they’re generally low-level NPCs. Because they’re generally five
-or more levels behind the character they follow, they’re rarely effective in combat.
+level. Followers are similar to cohorts, except they're generally low-level NPCs. Because they're generally five
+or more levels behind the character they follow, they're rarely effective in combat.
 
-Followers don’t earn experience and thus don’t gain levels. However, when a character with Leadership attains a
+Followers don't earn experience and thus don't gain levels. However, when a character with Leadership attains a
 new level, the player consults the table above to determine if she has acquired more followers, some of which may
-be higher level than the existing followers. (You don’t consult the table to see if your cohort gains levels,
+be higher level than the existing followers. (You don't consult the table to see if your cohort gains levels,
 however, because cohorts earn experience on their own.)
 
 ### Lightning Reflexes [General]
@@ -1176,7 +1176,7 @@ They need not select this feat.
 You can gain Martial Weapon Proficiency multiple times. Each time you take the feat, it applies to a new type of
 weapon.
 
-A cleric who chooses the War domain automatically gains the Martial Weapon Proficiency feat related to his deity’s
+A cleric who chooses the War domain automatically gains the Martial Weapon Proficiency feat related to his deity's
 favored weapon as a bonus feat, if the weapon is a martial one. He need not select it.
 
 ### Maximize Spell [Metamagic]
@@ -1184,7 +1184,7 @@ favored weapon as a bonus feat, if the weapon is a martial one. He need not sele
 #### Benefit:
  All variable, numeric effects of a spell modified by this feat are maximized. Saving
 throws and opposed rolls are not affected, nor are spells without random variables. A maximized spell uses up a
-spell slot three levels higher than the spell’s actual level.
+spell slot three levels higher than the spell's actual level.
 
 An empowered, maximized spell gains the separate benefits of each feat: the maximum result plus one-half the
 normally rolled result.
@@ -1217,8 +1217,8 @@ Dodge bonuses stack with each other, unlike most types of bonuses.
 
 #### Benefit:
  Once per round when your mount is hit in combat, you may attempt a Ride check (as a
-reaction) to negate the hit. The hit is negated if your Ride check result is greater than the opponent’s attack
-roll. (Essentially, the Ride check result becomes the mount’s Armor Class if it’s higher than the mount’s regular
+reaction) to negate the hit. The hit is negated if your Ride check result is greater than the opponent's attack
+roll. (Essentially, the Ride check result becomes the mount's Armor Class if it's higher than the mount's regular
 AC.)
 
 #### Special:
@@ -1263,7 +1263,7 @@ your base attack bonus. The penalty on attacks and bonus on damage apply until y
 
 #### Special:
  If you attack with a two-handed weapon, or with a one-handed weapon wielded in two
-hands, instead add twice the number subtracted from your attack rolls. You can’t add the bonus from Power Attack
+hands, instead add twice the number subtracted from your attack rolls. You can't add the bonus from Power Attack
 to the damage dealt with a light weapon (except with unarmed strikes or natural weapon attacks), even though the
 penalty on attack rolls still applies. (Normally, you treat a double weapon as a one-handed weapon and a light
 weapon. If you choose to use a double weapon like a two-handed weapon, attacking with only one end of it in a
@@ -1304,11 +1304,11 @@ standard action.
  Casting a quickened spell is a free action. You can perform another action, even casting
 another spell, in the same round as you cast a quickened spell. You may cast only one quickened spell per round. A
 spell whose casting time is more than 1 full round action cannot be quickened. A quickened spell uses up a spell
-slot four levels higher than the spell’s actual level. Casting a quickened spell doesn’t provoke an attack of
+slot four levels higher than the spell's actual level. Casting a quickened spell doesn't provoke an attack of
 opportunity.
 
 #### Special:
- This feat can’t be applied to any spell cast spontaneously (including sorcerer spells,
+ This feat can't be applied to any spell cast spontaneously (including sorcerer spells,
 bard spells, and cleric or druid spells cast spontaneously), since applying a metamagic feat to a spontaneously
 cast spell automatically increases the casting time to a full-round action.
 
@@ -1356,7 +1356,7 @@ have the prerequisites for it, but only when he is wearing light or no armor.
 #### Benefit:
  When you are mounted and use the charge action, you may move and attack as if with a
 standard charge and then move again (continuing the straight line of the charge). Your total movement for the
-round can’t exceed double your mounted speed. You and your mount do not provoke an attack of opportunity from the
+round can't exceed double your mounted speed. You and your mount do not provoke an attack of opportunity from the
 opponent that you attack.
 
 #### Special:
@@ -1396,7 +1396,7 @@ scribing the scroll.
  You can use a shield and take only the standard penalties.
 
 #### Normal:
- When you are using a shield with which you are not proficient, you take the shield’s
+ When you are using a shield with which you are not proficient, you take the shield's
 armor check penalty on attack rolls and on all skill checks that involve moving, including Ride checks.
 
 #### Special:
@@ -1417,7 +1417,7 @@ the attack, provided that your total distance moved is not greater than your spe
 
 #### Benefit:
  A silent spell can be cast with no verbal components. Spells without verbal components
-are not affected. A silent spell uses up a spell slot one level higher than the spell’s actual level.
+are not affected. A silent spell uses up a spell slot one level higher than the spell's actual level.
 
 #### Special:
  Bard spells cannot be enhanced by this metamagic feat.
@@ -1448,7 +1448,7 @@ feat, it applies to a new skill.
 
 #### Benefit:
  When using the Deflect Arrows feat you may catch the weapon instead of just deflecting
-it. Thrown weapons can immediately be thrown back at the original attacker (even though it isn’t your turn) or
+it. Thrown weapons can immediately be thrown back at the original attacker (even though it isn't your turn) or
 kept for later use.
 
 You must have at least one hand free (holding nothing) to use this feat.
@@ -1481,7 +1481,7 @@ _read magic._
 
 #### Benefit:
  You get a +2 bonus on caster level checks (1d20 + caster level) made to overcome a
-creature’s spell resistance.
+creature's spell resistance.
 
 ### Spirited Charge [General]
 #### Prerequisites:
@@ -1501,7 +1501,7 @@ triple damage with a lance).
  When using the attack action with a melee weapon, you can move both before and after the
 attack, provided that your total distance moved is not greater than your speed. Moving in this way does not
 provoke an attack of opportunity from the defender you attack, though it might provoke attacks of opportunity from
-other creatures, if appropriate. You can’t use this feat if you are wearing heavy armor.
+other creatures, if appropriate. You can't use this feat if you are wearing heavy armor.
 
 You must move at least 5 feet both before and after you make your attack in order to utilize the benefits of
 Spring Attack.
@@ -1516,7 +1516,7 @@ Spring Attack.
  A stilled spell can be cast with no somatic components.
 
 Spells without somatic components are not affected. A stilled spell uses up a spell slot one level higher than the
-spell’s actual level.
+spell's actual level.
 
 ### Stunning Fist [General]
 #### Prerequisites:
@@ -1527,7 +1527,7 @@ spell’s actual level.
 failed attack roll ruins the attempt). Stunning Fist forces a foe damaged by your unarmed attack to make a
 Fortitude saving throw (DC 10 + 1/2 your character level + your Wis modifier), in addition to dealing damage
 normally. A defender who fails this saving throw is stunned for 1 round (until just before your next action). A
-stunned character can’t act, loses any Dexterity bonus to AC, and takes a -2 penalty to AC. You may attempt a
+stunned character can't act, loses any Dexterity bonus to AC, and takes a -2 penalty to AC. You may attempt a
 stunning attack once per day for every four levels you have attained (but see Special), and no more than once per
 round. Constructs, oozes, plants, undead, incorporeal creatures, and creatures immune to critical hits cannot be
 stunned.
@@ -1551,7 +1551,7 @@ A fighter may select Stunning Fist as one of his fighter bonus feats.
 
 #### Normal:
  A character who is using a shield with which he or she is not proficient takes the
-shield’s armor check penalty on attack rolls and on all skill checks that involve moving, including Ride.
+shield's armor check penalty on attack rolls and on all skill checks that involve moving, including Ride.
 
 #### Special:
  Fighters automatically have Tower Shield Proficiency as a bonus feat. They need not
@@ -1582,7 +1582,7 @@ _Firm Ground:_ Most normal outdoor surfaces (such as lawns, fields, woods, and t
 soft or dirty indoor surfaces (thick rugs and very dirty or dusty floors). The creature might leave some traces
 (broken branches or tufts of hair), but it leaves only occasional or partial footprints.
 
-_Hard Ground:_ Any surface that doesn’t hold footprints at all, such as bare rock or an indoor floor. Most
+_Hard Ground:_ Any surface that doesn't hold footprints at all, such as bare rock or an indoor floor. Most
 streambeds fall into this category, since any footprints left behind are obscured or washed away. The creature
 leaves only traces (scuff marks or displaced pebbles).
 
@@ -1617,7 +1617,7 @@ If you fail a Survival check, you can retry after 1 hour (outdoors) or 10 minute
 #### Normal:
  Without this feat, you can use the Survival skill to find tracks, but you can follow them
 only if the DC for the task is 10 or lower. Alternatively, you can use the Search skill to find a footprint or
-similar sign of a creature’s passage using the DCs given above, but you can’t use Search to follow tracks, even if
+similar sign of a creature's passage using the DCs given above, but you can't use Search to follow tracks, even if
 someone else has already found them.
 
 #### Special:
@@ -1733,8 +1733,8 @@ spells, or abilities.
 
 #### Benefit:
  You can alter a burst, emanation, line, or spread shaped spell to increase its area. Any
-numeric measurements of the spell’s area increase by 100%.A widened spell uses up a spell slot three levels higher
-than the spell’s actual level.
+numeric measurements of the spell's area increase by 100%.A widened spell uses up a spell slot three levels higher
+than the spell's actual level.
 
 Spells that do not have an area of one of these four sorts are not affected by this feat.
 

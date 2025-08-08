@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Magic Items - Magic Items V (Wondrous Items)
-aliases: 3.5 Magic Items V (Wondrous Items)
+aliases:
+  - 3.5 Magic Items V (Wondrous Items)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - magic_items
   - magic_items_v_wondrous_items
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -20,7 +20,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 ## Wondrous Items
 
-This is a catch-all category for anything that doesn’t fall into the other groups. Anyone can use a wondrous item
+This is a catch-all category for anything that doesn't fall into the other groups. Anyone can use a wondrous item
 (unless specified otherwise in the description).
 
 ### Physical Description:
@@ -96,7 +96,7 @@ Wondrous items with charges can never be intelligent.
 | 54 | _Rope of climbing_ | 3,000 gp |
 | 55 | _Dust of disappearance_ | 3,500 gp |
 | 56 | _Lens of detection_ | 3,500 gp |
-| 57 | _Vestment, druid’s_ | 3,750 gp |
+| 57 | _Vestment, druid's_ | 3,750 gp |
 | 58 | _Figurine of wondrous power, silver raven_ | 3,800 gp |
 | 59 | _Amulet of health +2_ | 4,000 gp |
 | 60 | _Bracers of armor +2_ | 4,000 gp |
@@ -183,7 +183,7 @@ Wondrous items with charges can never be intelligent.
 | 36 | _Medallion of thoughts_ | 12,000 gp |
 | 37 | _Pipes of pain_ | 12,000 gp |
 | 38 | _Blessed book_ | 12,500 gp |
-| 39 | _Belt, monk’s_ | 13,000 gp |
+| 39 | _Belt, monk's_ | 13,000 gp |
 | 40 | _Gem of brightness_ | 13,000 gp |
 | 41 | _Lyre of building_ | 13,000 gp |
 | 42 | _Cloak of arachnida_ | 14,000 gp |
@@ -359,23 +359,23 @@ Standard wondrous items are described below.
 or other powerful animal. The amulet grants the wearer an enhancement bonus to Constitution of +2, +4, or +6.
 
 Moderate transmutation; CL 8th; Craft Wondrous Item,
-_bear’s endurance;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
+_bear's endurance;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
 
 ### Amulet of Mighty Fists:
  This amulet grants an enhancement bonus of +1 to +5 on attack and damage
 rolls with unarmed attacks and natural weapons.
 
-Faint evocation; CL 5th; Craft Wondrous Item, _greater magic fang_, creator’s caster level must be at least
-three times the amulet’s bonus; Price 6,000 gp (+1), 24,000 gp (+2), 54,000 gp (+3), 96,000 gp (+4), 150,000 gp
+Faint evocation; CL 5th; Craft Wondrous Item, _greater magic fang_, creator's caster level must be at least
+three times the amulet's bonus; Price 6,000 gp (+1), 24,000 gp (+2), 54,000 gp (+3), 96,000 gp (+4), 150,000 gp
 (+5).
 
 ### Amulet of Natural Armor:
  This amulet, usually crafted from bone or beast scales, toughens the
-wearer’s body and flesh, giving him an enhancement bonus to his natural armor bonus of from +1 to +5, depending on
+wearer's body and flesh, giving him an enhancement bonus to his natural armor bonus of from +1 to +5, depending on
 the kind of amulet.
 
 Faint transmutation; CL 5th; Craft Wondrous Item,
-_barkskin,_ creator’s caster level must be at least three times the amulet’s bonus; Price 2,000 gp (+1),
+_barkskin,_ creator's caster level must be at least three times the amulet's bonus; Price 2,000 gp (+1),
 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), or 50,000 gp (+5).
 
 ### Amulet of the Planes:
@@ -431,7 +431,7 @@ engineering) skill; Price 90,000 gp;_Weight_
  This appears to be a common cloth sack about 2 feet by 4 feet in size. The
 _bag of holding_ opens into a nondimensional space: Its inside is larger than its outside dimensions.
 Regardless of what is put into the bag, it weighs a fixed amount. This weight, and the limits in weight and volume
-of the bag’s contents, depend on the bag’s type, as shown on the table below.
+of the bag's contents, depend on the bag's type, as shown on the table below.
 
 | Bag | Bag Weight | Contents Weight Limit | Contents Volume Limit | Market Price |
 | --- | --- | --- | --- | --- |
@@ -444,7 +444,7 @@ If the bag is overloaded, or if sharp objects pierce it (from inside or outside)
 All contents are lost forever. If a _bag of holding_ is turned inside out, its contents spill out, unharmed,
 but the bag must be put right before it can be used again. If living creatures are placed within the bag, they can
 survive for up to 10 minutes, after which time they suffocate. Retrieving a specific item from a
-_bag of holding_ is a move action---unless the bag contains more than an ordinary backpack would hold, in which
+_bag of holding_ is a move action--unless the bag contains more than an ordinary backpack would hold, in which
 case retrieving a specific item is a full-round action.
 
 If a _bag of holding_ is placed within a _portable hole_ a rift to the Astral Plane is torn in the
@@ -468,7 +468,7 @@ Animals produced are always random, and only one may exist at a time. Up to ten 
 each week.
 
 Faint or moderate conjuration; CL 3rd (gray), 5th (rust), 9th (tan); Craft Wondrous Item,
-_summon nature’s ally II_ (gray), _summon nature’s ally III_ (rust), or _summon nature’s ally_ V
+_summon nature's ally II_ (gray), _summon nature's ally III_ (rust), or _summon nature's ally_ V
 (tan); Price 900 gp (gray); 3,000 gp (rust); 6,300 gp (tan).
 
 | _Gray_ | _Rust_ | _Tan_ |
@@ -487,7 +487,7 @@ of force damage to all creatures within a 10-foot radius.
 
 It functions like a _resilient sphere_ spell (Reflex DC 16 negates) with a radius of 10 feet and a duration
 of 10 minutes. A globe of shimmering force encloses a creature, provided the latter is small enough to fit within
-the diameter of the sphere. The sphere contains its subject for the spell’s duration. The sphere is not subject to
+the diameter of the sphere. The sphere contains its subject for the spell's duration. The sphere is not subject to
 damage of any sort except from a _rod of cancellation,_ a _rod of negation, disintegrate,_ or a targeted
 _dispel magic_ spell. These effects destroy the sphere without harm to the subject. Nothing can pass through
 the sphere, inside or out, though the subject can breathe normally. The subject may struggle, but the globe cannot
@@ -498,12 +498,12 @@ The explosion completely consumes the bead, making this a one-use item.
 Moderate evocation; CL 10th; Craft Wondrous Item,
 _resilient sphere;_ Price 3,000 gp.
 
-### Belt, Monk’s:
- This simple rope belt, when wrapped around a character’s waist, confers great
-ability in unarmed combat. The wearer’s AC and unarmed damage is treated as a monk of five levels higher. If
+### Belt, Monk's:
+ This simple rope belt, when wrapped around a character's waist, confers great
+ability in unarmed combat. The wearer's AC and unarmed damage is treated as a monk of five levels higher. If
 donned by a character with the Stunning Fist feat, the belt lets her make one additional stunning attack per day.
 If the character is not a monk, she gains the AC and unarmed damage of a 5th-level monk. This AC bonus functions
-just like the monk’s AC bonus.
+just like the monk's AC bonus.
 
 Moderate transmutation; CL 10th; Craft Wondrous Item,
 _righteous might_ or _transformation;_ Price 13,000 gp; Weight 1 lb.
@@ -521,10 +521,10 @@ Moderate divination; CL 12th; Craft Wondrous Item, _tongues_, creator must be a 
 
 ### Belt of Giant Strength:
  This wide belt is made of thick leather and studded with iron. The belt
-adds to the wearer’s Strength score in the form of an enhancement bonus of +4 or +6.
+adds to the wearer's Strength score in the form of an enhancement bonus of +4 or +6.
 
 Moderate transmutation; CL 10th; Craft Wondrous Item,
-_bull’s strength;_ Price 16,000 gp (+4), 36,000 gp (+6);Weight 1 lb.
+_bull's strength;_ Price 16,000 gp (+4), 36,000 gp (+6);Weight 1 lb.
 
 ### Blessed Book:
  This well-made tome is always of small size, typically no more than 12 inches tall,
@@ -538,7 +538,7 @@ Moderate transmutation; CL 7th; Craft Wondrous Item,
 _secret page;_ Price 12,500 gp;Weight 1 lb.
 
 ### Boat, Folding:
- A folding boat looks like a small wooden box---about 12 inches long, 6 inches wide,
+ A folding boat looks like a small wooden box--about 12 inches long, 6 inches wide,
 and 6 inches deep. It can be used to store items like any other box. If a command word is given, however, the box
 unfolds itself to form a boat 10 feet long, 4 feet wide, and 2 feet in depth. A second command word causes it to
 unfold to a ship 24 feet long, 8 feet wide, and 6 feet deep. Any objects formerly stored in the box now rest
@@ -573,7 +573,7 @@ _haste_ effect need not be consecutive rounds.
 Moderate transmutation; CL 10th; Craft Wondrous Item, _haste;_ Price 12,000 gp;Weight 1 lb.
 
 ### Boots of Striding and Springing:
- These boots increase the wearer’s base land speed by 10 feet. In
+ These boots increase the wearer's base land speed by 10 feet. In
 addition to this striding ability (considered an enhancement bonus), these boots allow the wearer to make great
 leaps. She can jump with a +5 competence bonus on Jump checks.
 
@@ -594,7 +594,7 @@ slipping. Finally, _boots of the winterlands_ warm the wearer, as if he were aff
 _endure elements_ spell.
 
 Faint abjuration and transmutation; CL 5th; Craft Wondrous Item,
-_cat’s grace, endure elements, pass without trace;_ Price 2,500 gp; Weight 1 lb.
+_cat's grace, endure elements, pass without trace;_ Price 2,500 gp; Weight 1 lb.
 
 ### Boots, Winged:
  These boots appear to be ordinary footgear. On command, the boots sprout wings at
@@ -658,7 +658,7 @@ Faint transmutation; CL 4th; Craft Wondrous Item, Craft Magic Arms and Armor; Pr
 invisible but tangible field of force, granting him an armor bonus of +1 to +8, just as though he were wearing
 armor. Both bracers must be worn for the magic to be effective.
 
-Moderate conjuration; CL 7th; Craft Wondrous Item, _mage armor_, creator’s caster level must be at least two
+Moderate conjuration; CL 7th; Craft Wondrous Item, _mage armor_, creator's caster level must be at least two
 times that of the bonus placed in the bracers; Price 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4),
 25,000 gp (+5), 36,000 gp (+6), 49,000 gp (+7), 64,000 gp (+8);Weight 1 lb.
 
@@ -693,11 +693,11 @@ _overland flight, permanency;_ Price 17,000 gp;Weight 3 lb.
 
 ### Candle of Invocation:
  Each of these special tapers is dedicated to one of the nine alignments.
-Simply burning the candle generates a favorable aura for the individual so doing if the candle’s alignment matches
+Simply burning the candle generates a favorable aura for the individual so doing if the candle's alignment matches
 that of the character. Characters of the same alignment as the burning candle add a +2 morale bonus on attack
 rolls, saving throws, and skill checks while within 30 feet of the flame.
 
-A cleric whose alignment matches the candle’s operates as if two levels higher for purposes of determining spells
+A cleric whose alignment matches the candle's operates as if two levels higher for purposes of determining spells
 per day if he burns the candle during or just prior to his spell preparation time. He can even cast spells
 normally unavailable to him, as if he were of that higher level, but only so long as the candle continues to burn.
 Except in special cases (see below), a candle burns for 4 hours.
@@ -705,7 +705,7 @@ Except in special cases (see below), a candle burns for 4 hours.
 In addition, burning a candle also allows the owner to cast a
 _gate_ spell, the respondent being of the same alignment as the candle, but the taper is immediately consumed
 in the process. It is possible to extinguish the candle simply by blowing it out, so users often place it in a
-lantern to protect it from drafts and the like. Doing this doesn’t interfere with its magical properties.
+lantern to protect it from drafts and the like. Doing this doesn't interfere with its magical properties.
 
 Strong conjuration; CL 17th; Craft Wondrous Item, _gate,_ creator must be same alignment as candle created;
 Price 8,400 gp;Weight 1/2 lb.
@@ -731,7 +731,7 @@ _dimension door;_ Price 10,080 gp;Weight 1 lb.
  This rug is able to fly through the air as if affected by an
 _overland flight_ spell of unlimited duration. The size, carrying capacity, and speed of the different
 _carpets of flying_ are shown on the table below. Beautifully and intricately made, each carpet has its own
-command word to activate it---if the device is within voice range, the command word activates it, whether the
+command word to activate it--if the device is within voice range, the command word activates it, whether the
 speaker is on the rug or not. The carpet is then controlled by spoken directions.
 
 | Size | Capacity | Speed | Weight | Market Price |
@@ -770,7 +770,7 @@ its possessor the following powers:
 Each power is usable 1d4 times per day. This is rolled for each power individually and the character does not
 
 A nonchaotic character who possesses a _chaos diamond_ gains one negative level. Although this level never
-results in actual level loss, it remains as long as the diamond is in the character’s possession and cannot be
+results in actual level loss, it remains as long as the diamond is in the character's possession and cannot be
 overcome in any way (including _restoration_ spells).
 
 Strong varied; CL 19th; Craft Wondrous Item,
@@ -782,7 +782,7 @@ creator must be chaotic; Price 160,000 gp;Weight 1 lb.
 lasts for 3 full minutes.
 
 While the chime is resonating, no spell requiring a verbal component can be cast within a 30-foot radius of it
-unless the caster can make a Concentration check (DC 15 + the spell’s level).
+unless the caster can make a Concentration check (DC 15 + the spell's level).
 
 Moderate evocation; CL 7th; Craft Wondrous Item, _shout;_ Price 16,800 gp;Weight 1 lb.
 
@@ -815,16 +815,16 @@ Strong evocation; CL 17th; Craft Wondrous Item, Maximize Spell,
 _searing light;_ Price 23,760 gp.
 
 ### Circlet of Persuasion:
- This silver headband grants a +3 competence bonus on the wearer’s
+ This silver headband grants a +3 competence bonus on the wearer's
 Charisma-based checks.
 
 Faint transmutation; CL 5th; Craft Wondrous Item,
-_eagle’s splendor;_ Price 4,500 gp.
+_eagle's splendor;_ Price 4,500 gp.
 
 ### Cloak of Arachnida:
  This black garment, embroidered with a weblike pattern in silk, gives the
 wearer the ability to climb as if a _spider climb_ spell had been placed upon her. In addition, the cloak
-grants her immunity to entrapment by _web_ spells or webs of any sort---she can actually move in webs at half
+grants her immunity to entrapment by _web_ spells or webs of any sort--she can actually move in webs at half
 her normal speed. Once per day, the wearer of this cloak can cast _web_. She also gains a +2 luck bonus on
 all Fortitude saves against poison from spiders.
 
@@ -847,10 +847,10 @@ _fly, polymorph;_ Price 26,000 gp;Weight 1 lb.
 
 ### Cloak of Charisma:
  This lightweight and fashionable cloak has a highly decorative silver trim.
-When in a character’s possession, it adds a +2, +4, or +6 enhancement bonus to her Charisma score.
+When in a character's possession, it adds a +2, +4, or +6 enhancement bonus to her Charisma score.
 
 Moderate transmutation; CL 8th; Craft Wondrous Item,
-_eagle’s splendor;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6); Weight 2 lb.
+_eagle's splendor;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6); Weight 2 lb.
 
 ### Cloak of Displacement, Minor:
  This item appears to be a normal cloak, but when worn by a
@@ -903,7 +903,7 @@ gp;Weight 1 lb.
 bonus on all saving throws (Fortitude, Reflex, and Will).
 
 Faint abjuration; CL 5th; Craft Wondrous Item,
-_resistance,_ creator’s caster level must be at least three times the cloak’s bonus; Price 1,000 gp (+1),
+_resistance,_ creator's caster level must be at least three times the cloak's bonus; Price 1,000 gp (+1),
 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5);Weight 1 lb.
 
 ### Crystal Ball:
@@ -932,7 +932,7 @@ mineral. It enables its possessor to put up a special _wall of force_ 10 feet on
 This cubic screen moves with the character and is impervious to the attack forms mentioned on the table below. The
 cube has 36 charges, which are renewed each day. The possessor presses one face of the cube to activate a
 particular type of screen or to deactivate the device. Each effect costs a certain number of charges to maintain
-for every minute (or portion of a minute) it is in operation. Also, when an effect is active, the possessor’s
+for every minute (or portion of a minute) it is in operation. Also, when an effect is active, the possessor's
 speed is limited to the maximum value given on the table.
 
 When the _cube of force_ is active, attacks dealing more than 30 points of damage drain 1 charge for every 10
@@ -1059,8 +1059,8 @@ two columns to simulate the contents of a full deck using either ordinary playin
 | Eight of clubs | Ace of staves | Orc |
 | Two of clubs | Five of cups | Kobold |
 | Playing Card | Tarot Card | Creature |
-| Joker | Two of pentacles | Illusion of deck’s owner |
-| Joker | Two of staves | Illusion of deck’s owner (sex reversed) |
+| Joker | Two of pentacles | Illusion of deck's owner |
+| Joker | Two of staves | Illusion of deck's owner (sex reversed) |
 
 A randomly generated deck is usually complete (11-100 on d%), but may be discovered (01-10) with 1d20 of its cards
 missing. If cards are missing, reduce the price by a corresponding amount.
@@ -1089,7 +1089,7 @@ single handful of this substance flung into the air coats objects within a 10-fo
 even if they are invisible. It likewise negates the effects of _blur_ and _displacement._ (In this, it
 works just like the _faerie fire_ spell). The dust also reveals figments, _mirror images_, and
 _projected images_ for what they are. A creature coated with the dust takes a -30 penalty on its Hide checks.
-The dust’s effect lasts for 5 minutes.
+The dust's effect lasts for 5 minutes.
 
 _Dust of appearance_ is typically stored in small silk packets or hollow bone tubes.
 Faint conjuration; CL 5th; Craft Wondrous Item, _glitterdust;_ Price 1,800 gp.
@@ -1097,12 +1097,12 @@ Faint conjuration; CL 5th; Craft Wondrous Item, _glitterdust;_ Price 1,800 gp.
 ### Dust of Disappearance:
  This dust looks just like _dust of appearance_ and is typically
 stored in the same manner. A creature or object touched by it becomes invisible (as _greater invisibility_).
-Normal vision can’t see dusted creatures or objects, nor can they be detected by magical means, including
+Normal vision can't see dusted creatures or objects, nor can they be detected by magical means, including
 _see invisibility_ or _invisibility purge_. _Dust of appearance,_ however, does reveal people and
 objects made invisible by _dust of disappearance._ Other factors, such as sound and smell, also allow
 possible detection.
 
-The _greater invisibility_ bestowed by the dust lasts for 2d6 rounds.The invisible creature doesn’t know when
+The _greater invisibility_ bestowed by the dust lasts for 2d6 rounds.The invisible creature doesn't know when
 the duration will end.
 
 Moderate illusion; CL 7th; Craft Wondrous Item,
@@ -1151,7 +1151,7 @@ shape as an arrow. The second slightly longer compartment holds up to eighteen o
 and shape as a javelin. The third and longest portion of the case contains as many as six objects of the same
 general size and shape as a bow (spears, staffs, or the like). Once the owner has filled it, the quiver can
 produce any item she wishes, as if from a regular quiver or scabbard. The _efficientquiver_ weighs the same
-no matter what’s placed inside it.
+no matter what's placed inside it.
 
 Moderate conjuration; CL 9th; Craft Wondrous Item,
 _secret chest;_ Price 1,800 gp;Weight 2 lb.
@@ -1163,7 +1163,7 @@ opened, the efreeti imprisoned within issues from the bottle instantly. There is
 the efreeti is insane and attacks immediately upon being released. There is also a 10% chance (91-100) that the
 efreeti of the bottle grants three _wishes_. In either case, the efreeti afterward disappears forever. The
 other 80% of the time (11-90), the inhabitant of the bottle loyally serves the character for up to 10 minutes per
-day (or until the efreeti’s death), doing as she commands. Roll each day the bottle is opened for that day’s
+day (or until the efreeti's death), doing as she commands. Roll each day the bottle is opened for that day's
 effect.
 
 Strong conjuration; CL 14th; Craft Wondrous Item,
@@ -1174,14 +1174,14 @@ _summon monster VII;_ Price 145,000 gp;Weight 1 lb.
 Earth, Fire, or Water).
 
 When the gem is crushed, smashed, or broken (a standard action), a Large elemental appears as if summoned by a
-_summon nature’s ally_ spell. The elemental is under the control of the creature that broke the gem.
+_summon nature's ally_ spell. The elemental is under the control of the creature that broke the gem.
 
 The coloration of the gem varies with the type of elemental it summons.
 _Air elemental gems_ are transparent, _earth elemental gems_ are light brown,
 _fire elemental gems_ are reddish orange, and _water elemental gems_ are blue-green.
 
 Moderate conjuration; CL 11th; Craft Wondrous Item,
-_summon nature’s ally V;_ Price 2,250 gp.
+_summon nature's ally V;_ Price 2,250 gp.
 
 ### Elixir of Fire Breath:
  This strange elixir bestows upon the drinker the ability to spit gouts of
@@ -1199,7 +1199,7 @@ Faint illusion; CL 5th; Craft Wondrous Item, _invisibility;_ Price 250 gp.
 
 ### Elixir of Love:
  This sweet-tasting liquid causes the character drinking it to become
-_charmed_ with the first creature she sees after consuming the draft (as _charm person_---the drinker must
+_charmed_ with the first creature she sees after consuming the draft (as _charm person_--the drinker must
 be a humanoid of Medium or smaller size, Will DC 14 negates). The _charm_ effects wear off in 1d3 hours.
 
 Faint transmutation; CL 4th; Craft Wondrous Item,
@@ -1223,8 +1223,8 @@ Faint illusion; CL 2nd; Craft Wondrous Item, creator must have 5 ranks in the Sw
 10 minutes (Will DC 13 negates).
 
 She is compelled to answer any questions put to her in that time, but with each question she is free to make a
-separate DC 13 Will save. If one of these secondary saves is successful, she doesn’t break free of the
-truth-compelling enchantment but also doesn’t have to answer that particular question. No more than one question
+separate DC 13 Will save. If one of these secondary saves is successful, she doesn't break free of the
+truth-compelling enchantment but also doesn't have to answer that particular question. No more than one question
 can be asked each round. This is a mind-affecting compulsion enchantment.
 
 Faint enchantment; CL 5th; Craft Wondrous Item,
@@ -1250,15 +1250,15 @@ Faint transmutation; CL 3rd; Craft Wondrous Item,
 _pyrotechnics;_ Price 5,400 gp;Weight 1 lb.
 
 ### Eyes of Charming:
- These two crystal lenses fit over the user’s eyes. The wearer is able to use
-_charm person_ (one target per round) merely by meeting a target’s gaze. Those failing a DC 16 Will save are
+ These two crystal lenses fit over the user's eyes. The wearer is able to use
+_charm person_ (one target per round) merely by meeting a target's gaze. Those failing a DC 16 Will save are
 _charmed_ as per the spell. If the wearer has only one lens, the DC of the saving throw is reduced to 10.
 
 Moderate enchantment; CL 7th; Craft Wondrous Item, Heighten Spell,
 _charm person;_ Price 56,000 gp for a pair.
 
 ### Eyes of Doom:
- These crystal lenses fit over the user’s eyes, enabling him to cast
+ These crystal lenses fit over the user's eyes, enabling him to cast
 _doom_ upon those around him (one target per round) as a gaze attack, except that the wearer must take a
 standard action, and those merely looking at the wearer are not affected. Those failing a DC 11 Will save are
 affected as by the _doom_ spell. If the wearer has only one lens, the DC of the saving throw is reduced to
@@ -1321,16 +1321,16 @@ _animate objects;_ Price 16,500 gp.
 _Ivory Goats:_ These figurines come in threes. Each goat of this trio looks slightly different from the
 others, and each has a different function:
 
-*   _The Goat of Traveling:_ This statuette provides a speedy and enduring mount equal to that of a heavy horse in every way except appearance. The goat can travel for a maximum of one day each week---continuously or in any combination of periods totaling 24 hours. At this point, or when the command word is uttered, it returns to its statuette form for not less than one day before it can again be used.
+*   _The Goat of Traveling:_ This statuette provides a speedy and enduring mount equal to that of a heavy horse in every way except appearance. The goat can travel for a maximum of one day each week--continuously or in any combination of periods totaling 24 hours. At this point, or when the command word is uttered, it returns to its statuette form for not less than one day before it can again be used.
 *   _The Goat of Travail:_ This statuette becomes an enormous creature, larger than a bull, with the statistics of a nightmare except for the addition of a pair of wicked horns of exceptional size (damage 1d8+4 for each horn). If it is charging to attack, it may only use its horns (but add 6 points of damage to each successful attack in that round). It can be called to life just once per month for up to 12 hours at a time.
-*   _The Goat of Terror:_ When called upon with the proper command word, this statuette becomes a destrier-like mount, with the statistics of a light warhorse. However, its rider can employ the goat’s horns as weapons (one horn as a _+3 heavy lance,_ the other as a _+5 longsword_). When ridden in an attack against an opponent, the _goat of terror_ radiates _fear_ as the spell in a 30-foot radius (Will DC 16 partial). It can be used once every two weeks for up to 3 hours per use.
+*   _The Goat of Terror:_ When called upon with the proper command word, this statuette becomes a destrier-like mount, with the statistics of a light warhorse. However, its rider can employ the goat's horns as weapons (one horn as a _+3 heavy lance,_ the other as a _+5 longsword_). When ridden in an attack against an opponent, the _goat of terror_ radiates _fear_ as the spell in a 30-foot radius (Will DC 16 partial). It can be used once every two weeks for up to 3 hours per use.
 
 Moderate transmutation; CL 11th; Craft Wondrous Item,
 _animate objects;_ Price 21,000 gp.
 
 _Marble Elephant:_ This is the largest of the figurines, the statuette being about the size of a human
 hand. Upon utterance of the command word, a _marble elephant_ grows to the size and specifications of a true
-elephant. The animal created from the statuette is fully obedient to the figurine’s owner, serving as a beast of
+elephant. The animal created from the statuette is fully obedient to the figurine's owner, serving as a beast of
 burden, a mount, or a combatant. The statuette can be used four times per month for up to 24 hours at a time.
 
 Moderate transmutation; CL 11th; Craft Wondrous Item,
@@ -1412,7 +1412,7 @@ the back of the hands and fingers. They grant the wearer great strength, adding 
 Strength score. Both gauntlets must be worn for the magic to be effective.
 
 Faint transmutation; CL 6th; Craft Wondrous Item,
-_bull’s strength;_ Price 4,000 gp;Weight 4 lb.
+_bull's strength;_ Price 4,000 gp;Weight 4 lb.
 
 ### Gauntlet of Rust:
  This single metal gauntlet looks rusted and pitted but is actually quite
@@ -1454,11 +1454,11 @@ Faint abjuration; CL 3rd; Craft Wondrous Item, _shield;_ Price 4,000 gp.
 
 ### Gloves of Dexterity:
  These thin leather gloves are very flexible and allow for delicate
-manipulation. They add to the wearer’s Dexterity score in the form of an enhancement bonus of +2, +4, or +6. Both
+manipulation. They add to the wearer's Dexterity score in the form of an enhancement bonus of +2, +4, or +6. Both
 gloves must be worn for the magic to be effective.
 
 Moderate transmutation; CL 8th; Craft Wondrous Item,
-_cat’s grace;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
+_cat's grace;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
 
 ### Glove of Storing:
  This device is a simple leather glove. On command, one item held in the hand
@@ -1476,7 +1476,7 @@ _shrink item;_ Price 10,000 gp (one glove).
 bonus on Swim checks and Climb checks. Both gloves must be worn for the magic to be effective.
 
 Faint transmutation; CL 5th; Craft Wondrous Item,
-_bull’s strength, cat’s grace;_ Price 6,250 gp.
+_bull's strength, cat's grace;_ Price 6,250 gp.
 
 ### Goggles of Minute Seeing:
  The lenses of this item are made of special crystal. When placed over
@@ -1496,16 +1496,16 @@ Faint transmutation; CL 3rd; Craft Wondrous Item, _darkvision;_ Price 12,000 gp.
 ### Golem Manual:
  A _golem manual_ contains information, incantations and magical power that
 help a character to craft a golem. The instructions therein grant a +5 competence bonus on skill checks made to
-craft the golem’s body. Each manual also holds the prerequisite spells needed for a specific golem, effectively
+craft the golem's body. Each manual also holds the prerequisite spells needed for a specific golem, effectively
 grants the builder use of the Craft Construct feat during the construction of the golem, and grants the character
 an increase to her caster level for the purpose of crafting a golem. Any golem built using a
 _golem manual_ does not cost the creator any XP, since the requisite XP are "contained" in the book and
 "expended" by the book during the creation process.
 
 The spells included in a _golem manual_ require a spell trigger activation and can be activated only to
-assist in the construction of a golem. The cost of the book does not include the cost of constructing the golem’s
+assist in the construction of a golem. The cost of the book does not include the cost of constructing the golem's
 body. Once the golem is finished, the writing in the manual fades and the book is consumed in flames. When the
-book’s ashes are sprinkled upon the golem, it becomes fully animated.
+book's ashes are sprinkled upon the golem, it becomes fully animated.
 
 _Clay Golem Manual:_ The book contains _animate objects, bless, commune, prayer_, and
 _resurrection_. The reader may treat her caster level as two levels higher than normal for the purpose of
@@ -1515,13 +1515,13 @@ Moderate conjuration, divination, enchantment, and transmutation; CL 11th; Craft
 level 11th,
 _animate objects, commune, prayer, resurrection_; Price 12,000 gp; Cost 2,150 gp + 1,712 XP; Weight 5 lb.
 
-_Flesh Golem Manual:_ The book contains _animate dead, bull’s strength, geas/quest,_ and
+_Flesh Golem Manual:_ The book contains _animate dead, bull's strength, geas/quest,_ and
 _limited wish_. The reader may treat her caster level as one level higher than normal for the purpose of
 crafting a flesh golem. The book supplies 780 XP for the creation of a flesh golem.
 
 Moderate enchantment, necromancy [evil], and transmutation; CL 8th; Craft Construct, creator must be caster level
 8th,
-_animate dead, bull’s strength, geas/quest, limited wish_; Price 8,000 gp; Cost 2,050 gp + 944 XP; Weight 5
+_animate dead, bull's strength, geas/quest, limited wish_; Price 8,000 gp; Cost 2,050 gp + 944 XP; Weight 5
 lb.
 
 _Iron Golem Manual:_ The book contains _cloudkill, geas/quest, limited wish_, and
@@ -1547,7 +1547,7 @@ Strong abjuration and enchantment; CL 16th; Craft Construct, creator must be cas
 _antimagic field, geas/quest, symbol of stunning_; Price 44,000 gp; Cost 2,900 gp + 7,872 XP; Weight 5 lb.
 
 ### Hand of Glory:
- This mummified human hand hangs by a leather cord around a character’s neck
+ This mummified human hand hangs by a leather cord around a character's neck
 (taking up space as a magic necklace would). If a magic ring is placed on one of the fingers of the hand, the
 wearer benefits from the ring as if wearing it herself, and it does not count against her two-ring limit. The hand
 can wear only one ring at a time. Even without a ring, the hand itself allows its wearer to use
@@ -1557,7 +1557,7 @@ Faint varied; CL 5th; Craft Wondrous Item, _animate dead_, _daylight, detect inv
 gp;Weight 2 lb.
 
 ### Hand of the Mage:
- This mummified elf hand hangs by a golden chain around a character’s neck
+ This mummified elf hand hangs by a golden chain around a character's neck
 (taking up space as a magic necklace would). It allows the wearer to utilize the spell _mage hand_ at will.
 
 Faint transmutation; CL 2nd; Craft Wondrous Item, _mage hand;_ Price 900 gp;Weight 2 lb.
@@ -1595,19 +1595,19 @@ Faint illusion; CL 1st; Craft Wondrous Item, _disguise self;_ Price 1,800 gp.
 
 ### Headband of Intellect:
  This device is a light cord with a small gem set so that it rests upon the
-forehead of the wearer. The headband adds to the wearer’s Intelligence score in the form of an enhancement bonus
+forehead of the wearer. The headband adds to the wearer's Intelligence score in the form of an enhancement bonus
 of +2, +4, or +6. This enhancement bonus does not earn the wearer extra skill points when a new level is attained;
 use the unenhanced Intelligence bonus to determine skill points.
 
 Moderate transmutation; CL 8th; Craft Wondrous Item,
-_fox’s cunning;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
+_fox's cunning;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
 
 ### Helm of Brilliance:
  This normal-looking helm takes its true form and manifests its powers when
 the user dons it and speaks the command word. Made of brilliant silver and polished steel, a newly created helm is
 set with large magic gems: ten diamonds, twenty rubies, thirty fire opals, and forty opals. When struck by bright
 light, the helm scintillates and sends forth reflective rays in all directions from its crownlike, gem-tipped
-spikes. The jewels’ functions are as follows:
+spikes. The jewels' functions are as follows:
 
 *   Diamond: _Prismatic spray_ (save DC 20)
 *   Ruby: _Wall of fire_
@@ -1662,10 +1662,10 @@ Moderate conjuration; CL 9th; Craft Wondrous Item, _teleport;_ Price 73,500 gp;W
 
 ### Helm of Underwater Action:
  The wearer of this helmet can see underwater. Drawing the small lenses
-in compartments on either side into position before the wearer’s eyes activates the visual properties of the helm,
+in compartments on either side into position before the wearer's eyes activates the visual properties of the helm,
 allowing her to see five times farther than water and light conditions would allow for normal human vision.
 (Weeds, obstructions, and the like block vision in the usual manner.) If the command word is spoken, the
-_helm of underwater action_ creates a globe of air around the wearer’s head and maintains it until the
+_helm of underwater action_ creates a globe of air around the wearer's head and maintains it until the
 command word is spoken again, enabling her to breathe freely.
 
 Faint transmutation; CL 5th; Craft Wondrous Item,
@@ -1676,7 +1676,7 @@ _water breathing;_ Price 57,000 gp;Weight 3 lb.
 but if the command word is spoken and the instrument is then played, it deals 5d6 points of sonic damage to
 creatures within a 40-foot cone and causes them to be deafened for 2d6 rounds (a DC 16 Fortitude save reduces the
 damage by half and negates the deafening). Crystalline objects and creatures take 7d6 points of sonic damage, with
-no save unless they’re held, worn, or carried by creatures (Will DC 16 negates).
+no save unless they're held, worn, or carried by creatures (Will DC 16 negates).
 
 If a _horn of blasting_ is used magically more than once in a given day, there is a 20% cumulative chance
 with each extra use that it explodes and deals 10d6 points of damage to the person sounding it.
@@ -1707,7 +1707,7 @@ _obscuring mist;_ Price 2,000 gp;Weight 1 lb.
 
 ### Horn of Goodness/Evil:
  This trumpet adapts itself to its owner, so it produces either a good or
-an evil effect depending on the owner’s alignment. If the owner is neither good nor evil, the horn has no power
+an evil effect depending on the owner's alignment. If the owner is neither good nor evil, the horn has no power
 whatsoever. If he is good, then blowing the horn has the effect of a _magic circle against evil_. If he is
 evil, then blowing the horn has the effect of a _magic circle against good_. In either case, this ward lasts
 for 1 hour. The horn can be blown once per day.
@@ -1734,8 +1734,8 @@ Price 15,100 gp; Weight 2 lb.
  This magic instrument comes in four varieties. Each appears to be normal until
 someone speaks its command word and blows the horn. Then the horn summons a number of human barbarians to fight
 for the character who summoned them. Each horn can be blown just once every seven days. Roll d% and refer to the
-table below to see what type of horn is found. The horn’s type determines what barbarians are summoned and what
-prerequisite is needed to use the horn. Any character who uses a _horn of Valhalla_ but doesn’t have the
+table below to see what type of horn is found. The horn's type determines what barbarians are summoned and what
+prerequisite is needed to use the horn. Any character who uses a _horn of Valhalla_ but doesn't have the
 prerequisite is attacked by the barbarians she herself summoned.
 
 | d% | Type of Horn | Barbarians Summoned | Prerequisite |
@@ -1754,7 +1754,7 @@ _summon monster VI;_ Price 50,000 gp;Weight 2 lb.
 
 ### Horseshoes of Speed:
  These iron shoes come in sets of four like ordinary horseshoes. When affixed
-to an animal’s hooves, they increase the animal’s base land speed by 30 feet; this counts as an enhancement bonus.
+to an animal's hooves, they increase the animal's base land speed by 30 feet; this counts as an enhancement bonus.
 As with other effects that increase speed, jumping distances increase proportionally. All four shoes must be worn
 by the same animal for the magic to be effective.
 
@@ -1788,21 +1788,21 @@ _bless;_ Price 4,900 gp;Weight 1 lb.
  This metal cube is small, but when activated by speaking a command word it
 grows to form a tower 20 feet square and 30 feet high, with arrow slits on all sides and a crenellated battlement
 atop it. The metal walls extend 10 feet into the ground, rooting it to the spot and preventing it from being
-tipped over. The fortress has a small door that opens only at the command of the owner of the fortress---even
-_knock_ spells can’t open the door.
+tipped over. The fortress has a small door that opens only at the command of the owner of the fortress--even
+_knock_ spells can't open the door.
 
 The adamantine walls of _instant fortress_ have 100 hit points and hardness 20. The fortress cannot be
 repaired except by a _wish_ or a _miracle_, which restores 50 points of damage taken.
 
-The fortress springs up in just 1 round, with the door facing the device’s owner. The door opens and closes
+The fortress springs up in just 1 round, with the door facing the device's owner. The door opens and closes
 instantly at his command. People and creatures nearby (except the owner) must be careful not to be caught by the
-fortress’s sudden growth. Anyone so caught takes 10d10 points of damage (Reflex DC 19 half ).
+fortress's sudden growth. Anyone so caught takes 10d10 points of damage (Reflex DC 19 half ).
 
 The fortress is deactivated by speaking a command word (different from the one used to activate it). It cannot be
 deactivated unless it is empty.
 
 Strong conjuration; CL 13th; Craft Wondrous Item,
-_mage’s magnificent mansion;_ Price 55,000 gp.
+_mage's magnificent mansion;_ Price 55,000 gp.
 
 ### Ioun Stones:
  These crystalline stones always float in the air and must be within 3 feet of their
@@ -1882,7 +1882,7 @@ contain any of the following:
 | 79-82 | Adult tojanida | 97 | Formian myrmarch |
 | 83-84 | Chaos Beast | 98 | Arrowhawk, elder |
 | 85-86 | Formian taskmaster | 99 | Rakshasa |
-| 87 | Demon (vrock) | 100 | Demon (balor) or devil (pit fiend)---equal chance for either |
+| 87 | Demon (vrock) | 100 | Demon (balor) or devil (pit fiend)--equal chance for either |
 | 88 | Demon (hezrou) |
 
 Strong conjuration; CL 20th; Craft Wondrous Item, _trap the soul_; Price 170,000 gp (empty);Weight 1 lb.
@@ -1974,10 +1974,10 @@ bristles, hair, or fur. The emulsion flows from the application to form the desi
 concentrates on the desired image. One pot of _marvelous pigments_ is sufficient to create a 1,000-cubic-foot
 object by depicting it two-dimensionally over a 100-square-foot surface.
 
-Only normal, inanimate objects can be created. Creatures can’t be created. The pigments must be applied to a
+Only normal, inanimate objects can be created. Creatures can't be created. The pigments must be applied to a
 surface. It takes 10 minutes and a DC 15 Craft (painting) check to depict an object with the pigments.
-_Marvelous pigments_ cannot create magic items. Objects of value depicted by the pigments ---precious metals,
-gems, jewelry, ivory, and so on--- appear to be valuable but are really made of tin, lead, paste, brass, bone, and
+_Marvelous pigments_ cannot create magic items. Objects of value depicted by the pigments --precious metals,
+gems, jewelry, ivory, and so on-- appear to be valuable but are really made of tin, lead, paste, brass, bone, and
 other such inexpensive materials. The user can create normal weapons, armor, and any other mundane item (including
 foodstuffs) whose value does not exceed 2,000 gp.
 
@@ -1988,9 +1988,9 @@ _major creation;_ Price 4,000 gp.
 
 ### Mask of the Skull:
  This ivory mask has been fashioned into the likeness of a human skull. Once
-per day, after it has been worn for at least 1 hour, the mask can be loosed to fly from the wearer’s face. It
+per day, after it has been worn for at least 1 hour, the mask can be loosed to fly from the wearer's face. It
 travels up to 50 feet away from the wearer and attacks a target assigned to it. The grinning skull mask makes a
-touch attack against the target based on the wearer’s base attack bonus. If the attack succeeds, the target must
+touch attack against the target based on the wearer's base attack bonus. If the attack succeeds, the target must
 make a DC 20 Fortitude save or be struck dead, as if affected by a _finger of death_ spell. If the target
 succeeds on his saving throw, he nevertheless takes 3d6+13 points of damage. After attacking (whether successful
 or not), the mask flies back to its user. The mask has AC 16, 10 hit points, and hardness 6.
@@ -2034,12 +2034,12 @@ saving throw, drops to 50% if the creature is aware that the mirror traps life a
 (treat as a gaze attack).
 
 When a creature is trapped, it is taken bodily into the mirror. Size is not a factor, but constructs and undead
-are not trapped, nor are inanimate objects and other nonliving matter. A victim’s equipment (including clothing
-and anything being carried) remains behind. If the mirror’s owner knows the right command word, he can call the
+are not trapped, nor are inanimate objects and other nonliving matter. A victim's equipment (including clothing
+and anything being carried) remains behind. If the mirror's owner knows the right command word, he can call the
 reflection of any creature trapped within to its surface and engage his powerless prisoner in conversation.
 Another command word frees the trapped creature. Each pair of command words is specific to each prisoner.
 
-If the mirror’s capacity is exceeded, one victim (determined randomly) is set free in order to accommodate the
+If the mirror's capacity is exceeded, one victim (determined randomly) is set free in order to accommodate the
 latest one. If the mirror is broken, all victims currently trapped in it are freed.
 
 Strong abjuration; CL 17th; Craft Wondrous Item,
@@ -2051,7 +2051,7 @@ wide. The possessor who knows the proper commands can cause it to perform as fol
 
 *   Read the thoughts of any creature reflected therein, as long as the owner is within 25 feet of the mirror, even if those thoughts are in an unknown language.
 *   View other places as if with _clairvoyance,_ but vision extends even onto other planes if the viewer is sufficiently familiar with them.
-*   Use it as a portal to visit other places. The user first views the place with the _clairvoyance_ function, then steps through the mirror to the place pictured. Others can follow her through the mirror if they like. An invisible portal remains on the other side where she arrives, and she can return through that portal. Once she returns, the portal closes. The portal closes on its own after 24 hours (trapping the user if she’s still in the other place), and the user can also close it with a command word. Creatures with Intelligence of 12 or higher might notice the portal just as they might notice a magical sensor from a _scrying_ spell. Any creature who steps through the portal appears in front of the mirror.
+*   Use it as a portal to visit other places. The user first views the place with the _clairvoyance_ function, then steps through the mirror to the place pictured. Others can follow her through the mirror if they like. An invisible portal remains on the other side where she arrives, and she can return through that portal. Once she returns, the portal closes. The portal closes on its own after 24 hours (trapping the user if she's still in the other place), and the user can also close it with a command word. Creatures with Intelligence of 12 or higher might notice the portal just as they might notice a magical sensor from a _scrying_ spell. Any creature who steps through the portal appears in front of the mirror.
 *   Once per week the mirror accurately answers one short question regarding a creature whose image is shown on its surface (giving answers similar to those from the _legend lore_ spell).
 
 Strong conjuration and divination; CL 17th; Craft Wondrous Item,
@@ -2060,7 +2060,7 @@ _detect thoughts_, _clairaudience/clairvoyance, gate, legend lore_; Price 175,00
 ### Mirror of Opposition:
  This item resembles a normal mirror about 4 feet long and 3 feet wide. It
 can be hung or placed on a surface and then activated by speaking a command word. The same command word
-deactivates the mirror. If a creature sees its reflection in the mirror’s surface, an exact duplicate of that
+deactivates the mirror. If a creature sees its reflection in the mirror's surface, an exact duplicate of that
 creature comes into being. This opposite immediately attacks the original. The duplicate has all the possessions
 and powers of its original (including magic). Upon the defeat or destruction of either the duplicate or the
 original, the duplicate and her items disappear completely. The mirror functions up to four times per day.
@@ -2079,8 +2079,8 @@ _alter self;_ Price 9,000 gp.
 ### Necklace of Fireballs:
  This device appears to be nothing but beads on a string, sometimes with
 the ends tied together to form a necklace. (It does not count as an item worn around the neck for the purpose of
-determining which of a character’s worn magic items is effective.) If a character holds it, however, all can see
-the strand as it really is---a golden chain from which hang a number of golden spheres. The spheres are detachable
+determining which of a character's worn magic items is effective.) If a character holds it, however, all can see
+the strand as it really is--a golden chain from which hang a number of golden spheres. The spheres are detachable
 by the wearer (and only by the wearer), who can easily hurl one of them up to 70 feet. When a sphere arrives at
 the end of its trajectory, it detonates as a _fireball_ spell (Reflex DC 14 half ).
 
@@ -2092,13 +2092,13 @@ combinations, designated types I through VII, are detailed below.
 
 | Necklace | 10d6 | 9d6 | 8d6 | 7d6 | 6d6 | 5d6 | 4d6 | 3d6 | 2d6 | Market Price |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Type I | --- | --- | --- | --- | --- | 1 | --- | 2 | --- | 1,650 gp |
-| Type II | --- | --- | --- | --- | 1 | --- | 2 | --- | 2 | 2,700 gp |
-| Type III | --- | --- | --- | 1 | --- | 2 | --- | 4 | --- | 4,350 gp |
-| Type IV | --- | --- | 1 | --- | 2 | --- | 2 | --- | 4 | 5,400 gp |
-| Type V | --- | 1 | --- | 2 | --- | 2 | --- | 2 | --- | 5,850 gp |
-| Type VI | 1 | --- | 2 | --- | 2 | --- | 4 | --- | --- | 8,100 gp |
-| Type VII | 1 | 2 | --- | 2 | --- | 2 | --- | 2 | --- | 8,700 gp |
+| Type I | -- | -- | -- | -- | -- | 1 | -- | 2 | -- | 1,650 gp |
+| Type II | -- | -- | -- | -- | 1 | -- | 2 | -- | 2 | 2,700 gp |
+| Type III | -- | -- | -- | 1 | -- | 2 | -- | 4 | -- | 4,350 gp |
+| Type IV | -- | -- | 1 | -- | 2 | -- | 2 | -- | 4 | 5,400 gp |
+| Type V | -- | 1 | -- | 2 | -- | 2 | -- | 2 | -- | 5,850 gp |
+| Type VI | 1 | -- | 2 | -- | 2 | -- | 4 | -- | -- | 8,100 gp |
+| Type VII | 1 | 2 | -- | 2 | -- | 2 | -- | 2 | -- | 8,700 gp |
 
 If the necklace is being worn or carried by a character who fails her saving throw against a magical fire attack,
 the item must make a saving throw as well (with a save bonus of +7). If the necklace fails to save, all its
@@ -2130,7 +2130,7 @@ recalled; Price 1,000 gp (1st), 4,000 gp (2nd), 9,000 gp (3rd), 16,000 gp (4th),
 ### Pearl of the Sirines:
  This normal-seeming pearl is beautiful and worth at least 1,000 gp on that
 basis alone. If it is clasped firmly in hand or held to the breast while the possessor attempts actions related to
-the pearl’s powers, she understands and is able to employ the item.
+the pearl's powers, she understands and is able to employ the item.
 
 The pearl enables its possessor to breathe in water as if she were in clean, fresh air. Her swim speed is 60 feet,
 and she can cast spells and act underwater without hindrance.
@@ -2155,16 +2155,16 @@ _neutralize poison;_ Price 27,000 gp.
 
 ### Periapt of Wisdom:
  Although it appears to be a normal pearl on a light chain, a
-_periapt of wisdom_ actually increases the possessor’s Wisdom score in the form of an enhancement bonus of
+_periapt of wisdom_ actually increases the possessor's Wisdom score in the form of an enhancement bonus of
 +2, +4, or +6 (depending on the individual item).
 
 Moderate transmutation; CL 8th; Craft Wondrous Item,
-_owl’s wisdom;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
+_owl's wisdom;_ Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6).
 
 ### Periapt of Wound Closure:
  This stone is bright red and dangles on a gold chain. The wearer of
 this periapt automatically becomes stable if his hit points drop to between -1 and -9 inclusive. The periapt
-doubles the wearer’s normal rate of healing or allows normal healing of wounds that would not do so normally. Hit
+doubles the wearer's normal rate of healing or allows normal healing of wounds that would not do so normally. Hit
 point damage that involves bleeding is negated for the wearer of the periapt, but he is still susceptible to
 damage from bleeding that causes Constitution loss, such as that dealt by a wounding weapon.
 
@@ -2214,7 +2214,7 @@ _sound burst;_ Price 12,000 gp;Weight 3 lb.
  These wooden pipes appear ordinary, but if the possessor learns the proper
 tune, he can attract 1d3 rat swarms if rats are within 400 feet. For each 50-foot distance the rats have to
 travel, there is a 1-round delay. The piper must continue playing until the rats appear, and when they do so, the
-piper must make a DC 10 Perform (wind instruments) check. Success means that they obey the piper’s telepathic
+piper must make a DC 10 Perform (wind instruments) check. Success means that they obey the piper's telepathic
 commands so long as he continues to play. Failure indicates that they turn on the piper. If for any reason the
 piper ceases playing, the rats leave immediately. If they are called again within a day, the Perform check DC is
 15.
@@ -2224,7 +2224,7 @@ control is assumed, another check is required each round to maintain it if the o
 to reassert its control.
 
 Faint conjuration; CL 2nd; Craft Wondrous Item,
-_charm animal, summon nature’s ally I,_ wild empathy ability; Price 1,150 gp;Weight 3 lb.
+_charm animal, summon nature's ally I,_ wild empathy ability; Price 1,150 gp;Weight 3 lb.
 
 ### Pipes of Sounding:
  When played by a character who has the Perform (wind instruments) skill, these
@@ -2261,7 +2261,7 @@ Faint conjuration; CL 5th;Craft Wondrous Item,
 _cure light wounds, neutralize poison, remove disease;_ Price 4,000 gp;Weight 1/2 lb.
 
 ### Ring Gates:
- These always come in pairs---two iron rings, each about 18 inches in diameter. The
+ These always come in pairs--two iron rings, each about 18 inches in diameter. The
 rings must be on the same plane of existence and within 100 miles of each other to function. Whatever is put
 through one ring comes out the other, and up to 100 pounds of material can be transferred each day. (Objects only
 partially pushed through and then retracted do not count.) This useful device allows for instantaneous transport
@@ -2330,7 +2330,7 @@ robe. She also gains 120-foot darkvision.
 The _robe of eyes_ sees all forms of invisible or ethereal things within 120 feet.
 
 The wearer of a _robe of eyes_ gains a +10 competence bonus on Search checks and Spot checks. She retains her
-Dexterity bonus to AC even when flat-footed, and she can’t be flanked. However, she is not able to avert her eyes
+Dexterity bonus to AC even when flat-footed, and she can't be flanked. However, she is not able to avert her eyes
 or close her eyes when confronted by a creature with a gaze attack.
 
 A _light_ or _continual flame_ spell cast directly on a _robe of eyes_ causes it to be blinded for
@@ -2388,7 +2388,7 @@ patch on the table below to determine its nature.
 | --- | --- |
 | 01-08 | Bag of 100 gold pieces |
 | 09-15 | Coffer, silver (6 in. by 6 in. by 1 ft.), 500 gp value |
-| 16-22 | Door, iron (up to 10 ft. wide and 10 ft. high and barred on one side---must be placed upright, attaches and hinges itself) |
+| 16-22 | Door, iron (up to 10 ft. wide and 10 ft. high and barred on one side--must be placed upright, attaches and hinges itself) |
 | 23-30 | Gems, 10 (100 gp value each) |
 | 31-44 | Ladder, wooden (24 ft. long) |
 | 45-51 | Mule (with saddle bags) |
@@ -2455,7 +2455,7 @@ Faint transmutation; CL 5th; Craft Wondrous Item, _keen edge;_ Price 16,000 gp;W
 it is held for 1 round, an inscription appears on its surface letting the holder know that it is a protective
 device.
 
-The scarab’s possessor gains spell resistance 20. The scarab can also absorb energy-draining attacks, death
+The scarab's possessor gains spell resistance 20. The scarab can also absorb energy-draining attacks, death
 effects, and negative energy effects. Upon absorbing twelve such attacks, the scarab turns to powder and is
 destroyed.
 
@@ -2487,8 +2487,8 @@ Faint transmutation; CL 5th; Craft Wondrous Item; Price 250 gp.
 
 ### Slippers of Spider Climbing:
  When worn, a pair of these slippers enable movement on vertical
-surfaces or even upside down along ceilings, leaving the wearer’s hands free. Her speed is 20 feet. Severely
-slippery surfaces---icy, oiled, or greased surfaces--- make these slippers useless. The slippers can be used for 10
+surfaces or even upside down along ceilings, leaving the wearer's hands free. Her speed is 20 feet. Severely
+slippery surfaces--icy, oiled, or greased surfaces-- make these slippers useless. The slippers can be used for 10
 minutes per day, split up as the wearer chooses.
 
 Faint transmutation; CL 4th; Craft Wondrous Item,
@@ -2500,7 +2500,7 @@ it can be contained only in a flask whose inside has been coated with 1 ounce of
 each time any of the bonding agent is poured from the flask, a new application of the
 _salve of slipperiness_ must be put in the flask within 1 round to prevent the remaining glue from adhering
 to the side of the container. A flask of _sovereign glue,_ when found, holds anywhere from 1 to 7 ounces of
-the stuff (1d8-1, minimum 1), with the other ounce of the flask’s capacity taken up by the
+the stuff (1d8-1, minimum 1), with the other ounce of the flask's capacity taken up by the
 _salve of slipperiness._ One ounce of this adhesive covers 1 square foot of surface, bonding virtually any
 two substances together in a permanent union. The glue takes 1 round to set. If the objects are pulled apart (a
 move action) before that time has elapsed, that application of the glue loses its stickiness and is worthless. If
@@ -2573,8 +2573,8 @@ activate them. Each strand includes two or more special beads, each with a diffe
 | Bead of blessing | Wearer can cast _bless._ |
 | Bead of healing | Wearer can cast his choice of _cure serious wounds, remove blindness/deafness,_ or _remove disease._ |
 | Bead of karma | Wearer casts his spells at +4 caster level. Effect lasts 10 minutes. |
-| Bead of smiting | Wearer can cast _chaos hammer, holy smite, order’s wrath,_ or _unholy blight_ (Will DC 17 partial). |
-| Bead of summons | Summons a powerful creature of appropriate alignment from the Outer Planes (an angel, devil, etc.) to aid the wearer for one day. (If the wearer uses the _bead of summons_ to summon a deity’s emissary frivolously, the deity takes that character’s items and places a _geas_ upon him as punishment in the very least.) |
+| Bead of smiting | Wearer can cast _chaos hammer, holy smite, order's wrath,_ or _unholy blight_ (Will DC 17 partial). |
+| Bead of summons | Summons a powerful creature of appropriate alignment from the Outer Planes (an angel, devil, etc.) to aid the wearer for one day. (If the wearer uses the _bead of summons_ to summon a deity's emissary frivolously, the deity takes that character's items and places a _geas_ upon him as punishment in the very least.) |
 | Bead of wind walking | Wearer can cast _wind walk._ |
 
 A _lesser strand of prayer beads_ has a _bead of blessing_ and a _bead of healing._ A
@@ -2599,7 +2599,7 @@ Faint, moderate or strong (many schools); CL 1st (_blessing_), 5th (_healing_), 
 following spells per bead, as appropriate: _bless_ (_blessing_);
 _cure serious wounds, remove blindness/ deafness,_ or _remove disease_ (_healing_);
 _righteous might_ (_karma_); _gate_ (_summons_);
-_chaos hammer, holy smite, order’s wrath,_ or _unholy blight_ (_smiting_), _wind walk_ (_wind walking_); Price 9,600 gp (lesser), 25,800 gp (standard), 95,800 gp (greater).
+_chaos hammer, holy smite, order's wrath,_ or _unholy blight_ (_smiting_), _wind walk_ (_wind walking_); Price 9,600 gp (lesser), 25,800 gp (standard), 95,800 gp (greater).
 
 ### Sustaining Spoon:
  This unremarkable eating utensil is typically fashioned from horn. If the spoon
@@ -2672,7 +2672,7 @@ checks.
 Faint conjuration and transmutation; CL 4th; Craft Wondrous Item,
 _knock, grease;_ Price 5,200 gp.
 
-### Vestment, Druid’s:
+### Vestment, Druid's:
  This light garment is worn over normal clothing or armor. Most such vestments
 are green, embroidered with plant or animal motifs. When this item is worn by a character with the wild shape
 ability, the character can use that ability one additional time each day.
@@ -2681,7 +2681,7 @@ Moderate transmutation; CL 10th; Craft Wondrous Item, _polymorph_ or wild shape 
 
 ### Well of Many Worlds:
  This strange, interdimensional device looks just like a
-_portable hole._ Anything placed within it is immediately cast to another world---a parallel world, another
+_portable hole._ Anything placed within it is immediately cast to another world--a parallel world, another
 planet, or a different plane (chosen randomly). If the well is moved, the random factor again comes into play. It
 can be picked up, folded, or rolled, just as a _portable hole_ can be. Objects from the world the well
 touches can come through the opening just as easily as from the initiating place. (It is a two-way portal.)

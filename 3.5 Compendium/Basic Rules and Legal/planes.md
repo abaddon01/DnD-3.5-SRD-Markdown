@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Planes
-aliases: 3.5 Planes
+aliases:
+  - 3.5 Planes
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - planes
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -50,7 +50,7 @@ under the same set of natural laws that our own real world does. This is the def
 ### Transitive Planes:
  These three planes have one important common characteristic: Each is used to
 get from one place to another. The Astral Plane is a conduit to all other planes, while the Ethereal Plane and the
-Plane of Shadow both serve as means of transportation within the Material Plane they’re connected to. These planes
+Plane of Shadow both serve as means of transportation within the Material Plane they're connected to. These planes
 have the strongest regular interaction with the Material Plane and are often accessed by using various spells.
 They have native inhabitants as well.
 
@@ -62,7 +62,7 @@ Inner Plane are made of the same energy or element as the plane itself.
 ### Outer Planes:
  The deities live on the Outer Planes, as do creatures such as celestials, demons,
 and devils. Each of the Outer Planes has an alignment, representing a particular moral or ethical outlook, and the
-natives of each plane tend to behave in agreement with that plane’s alignment. The Outer Planes are also the final
+natives of each plane tend to behave in agreement with that plane's alignment. The Outer Planes are also the final
 resting place of souls from the Material Plane, whether that final rest takes the form of calm introspection or
 eternal damnation.
 
@@ -72,7 +72,7 @@ but have measurable size and limited access. Other kinds of planes are theoretic
 demiplane might be only a few hundred feet across.
 
 ## Planar Traits
-Each plane of existence has its own properties---the natural laws of its universe.
+Each plane of existence has its own properties--the natural laws of its universe.
 Planar traits are broken down into a number of general areas.
 All planes have the following kinds of traits.
 
@@ -90,15 +90,15 @@ to a particular moral or ethical outlook.
 
 ### Magic Traits:
  Magic works differently from plane to plane, and magic traits set the boundaries
-for what it can and can’t do.
+for what it can and can't do.
 
 ## Physical Traits
 
 The two most important natural laws set by physical traits are how gravity works and how time passes. Other
-physical traits pertain to the size and shape of a plane and how easily a plane’s nature can be altered.
+physical traits pertain to the size and shape of a plane and how easily a plane's nature can be altered.
 
 ### Gravity:
- The direction of gravity’s pull may be unusual, and it might even change directions
+ The direction of gravity's pull may be unusual, and it might even change directions
 within the plane itself.
 
 _Normal Gravity:_ Most planes have gravity similar to that of the Material Plane. The usual rules for
@@ -107,8 +107,8 @@ every plane has the normal gravity trait.
 
 _Heavy Gravity:_ The gravity on a plane with this trait is much more intense than on the Material Plane. As
 a result, Balance, Climb, Jump, Ride, Swim, and Tumble checks incur a -2 circumstance penalty, as do all attack
-rolls. All item weights are effectively doubled, which might affect a character’s speed. Weapon ranges are halved.
-A character’s Strength and Dexterity scores are not affected. Characters who fall on a heavy gravity plane take
+rolls. All item weights are effectively doubled, which might affect a character's speed. Weapon ranges are halved.
+A character's Strength and Dexterity scores are not affected. Characters who fall on a heavy gravity plane take
 1d10 points of damage for each 10 feet fallen, to a maximum of 20d10 points of damage.
 
 _Light Gravity:_ The gravity on a plane with this trait is less intense than on the Material Plane. As a
@@ -117,13 +117,13 @@ with the light gravity trait take a -2 circumstance penalty on attack rolls and 
 checks. All items weigh half as much. Weapon ranges double, and characters gain a +2 circumstance bonus on Climb
 and Jump checks.
 
-Strength and Dexterity don’t change as a result of light gravity, but what you can do with such scores does
+Strength and Dexterity don't change as a result of light gravity, but what you can do with such scores does
 change. These advantages apply to travelers from other planes as well as natives.
 
 Falling characters on a light gravity plane take 1d4 points of damage for each 10 feet of the fall (maximum 20d4).
 
 _No Gravity:_ Individuals on a plane with this trait merely float in space, unless other resources are
-available to provide a direction for gravity’s pull.
+available to provide a direction for gravity's pull.
 
 _Objective Directional Gravity:_ The strength of gravity on a plane with this trait is the same as on the
 Material Plane, but the direction is not the traditional "down" toward the ground. It may be down toward any solid
@@ -132,14 +132,14 @@ object, at an angle to the surface of the plane itself, or even upward.
 In addition, objective directional gravity may change from place to place. The direction of "down" may vary.
 
 _Subjective Directional Gravity:_ The strength of gravity on a plane with this trait is the same as on the
-Material Plane, but each individual chooses the direction of gravity’s pull. Such a plane has no gravity for
+Material Plane, but each individual chooses the direction of gravity's pull. Such a plane has no gravity for
 unattended objects and nonsentient creatures. This sort of environment can be very disorienting to the newcomer,
 but is common on "weightless" planes.
 
 Characters on a plane with subjective directional gravity can move normally along a solid surface by imagining
 "down" near their feet. If suspended in midair, a character "flies" by merely choosing a "down" direction and
 "falling" that way. Under such a procedure, an individual "falls" 150 feet in the first round and 300 feet in each
-succeeding round. Movement is straight-line only. In order to stop, one has to slow one’s movement by changing the
+succeeding round. Movement is straight-line only. In order to stop, one has to slow one's movement by changing the
 designated "down" direction (again, moving 150 feet in the new direction in the first round and 300 feet per round
 thereafter).
 
@@ -148,9 +148,9 @@ round. Any character who fails this Wisdom check in successive rounds receives a
 until he or she succeeds.
 
 ### Time:
- The rate of time’s passage can vary on different planes, though it remains constant within
+ The rate of time's passage can vary on different planes, though it remains constant within
 any particular plane. Time is always subjective for the viewer. The same subjectivity applies to various planes.
-Travelers may discover that they’ll pick up or lose time while moving among the planes, but from their point of
+Travelers may discover that they'll pick up or lose time while moving among the planes, but from their point of
 view, time always passes naturally.
 
 _Normal Time:_ This trait describes the way time passes on the Material Plane. One hour on a plane with
@@ -169,7 +169,7 @@ year there, then return to the Material Plane to find that only six seconds have
 returned to is only a few seconds older. But for that traveler and the items, spells, and effects working on him,
 that year away was entirely real.
 
-When designating how time works on planes with flowing time, put the Material Plane’s flow of time first, followed
+When designating how time works on planes with flowing time, put the Material Plane's flow of time first, followed
 by the same flow in the other plane.
 
 _Erratic Time:_ Some planes have time that slows down and speeds up, so an individual may lose or gain time
@@ -213,7 +213,7 @@ And some planes respond to physical or magical efforts.
 _Alterable Morphic:_ On a plane with this trait, objects remain where they are (and what they are) unless
 affected by physical force or magic. You can change the immediate environment as a result of tangible effort.
 
-_Highly Morphic:_ On a plane with this trait, features of the plane change so frequently that it’s
+_Highly Morphic:_ On a plane with this trait, features of the plane change so frequently that it's
 difficult to keep a particular area stable. Such planes may react dramatically to specific spells, sentient
 thought, or the force of will. Others change for no reason.
 
@@ -225,15 +225,15 @@ alterable planes in that they may be affected by spells and physical effort. But
 to change instantly and dramatically, creating great kingdoms for themselves.
 
 _Static:_ These planes are unchanging. Visitors cannot affect living residents of the plane, nor objects
-that the denizens possess. Any spells that would affect those on the plane have no effect unless the plane’s
+that the denizens possess. Any spells that would affect those on the plane have no effect unless the plane's
 static trait is somehow removed or suppressed. Spells cast before entering a plane with the static trait remain in
 effect, however.
 
 Even moving an unattended object within a static plane requires a DC 16 Strength check. Particularly heavy objects
 may be impossible to move.
 
-_Sentient:_ These planes are ones that respond to a single thought--- that of the plane itself. Travelers
-would find the plane’s landscape changing as a result of what the plane thought of the travelers, either becoming
+_Sentient:_ These planes are ones that respond to a single thought-- that of the plane itself. Travelers
+would find the plane's landscape changing as a result of what the plane thought of the travelers, either becoming
 more or less hospitable depending on its reaction.
 
 ## Elemental and Energy Traits
@@ -243,7 +243,7 @@ water. The types of energy are positive and negative.
 
 The Material Plane reflects a balancing of those elements and energies; all are found there. Each of the Inner
 Planes is dominated by one element or type of energy. Other planes may show off various aspects of these elemental
-traits. Many planes have no elemental or energy traits; these traits are noted in a plane’s description only when
+traits. Many planes have no elemental or energy traits; these traits are noted in a plane's description only when
 they are present.
 
 _Air-Dominant:_ Mostly open space, planes with this trait have just a few bits of floating stone or other
@@ -252,7 +252,7 @@ gas. Creatures of the earth subtype are uncomfortable on air-dominant planes bec
 natural earth to connect with. They take no actual damage, however.
 
 _Earth-Dominant:_ Planes with this trait are mostly solid. Travelers who arrive run the risk of suffocation
-if they don’t reach a cavern or other pocket within the earth. Worse yet, individuals without the ability to
+if they don't reach a cavern or other pocket within the earth. Worse yet, individuals without the ability to
 burrow are entombed in the earth and must dig their way out (5 feet per turn). Creatures of the air subtype are
 uncomfortable on earth dominant planes because these planes are tight and claustrophobic to them. But they suffer
 no inconvenience beyond having difficulty moving.
@@ -266,7 +266,7 @@ unprotected flammable clothing catch on fire. In addition, individuals take 3d10
 they are on a fire-dominant plane. Creatures of the water subtype are extremely uncomfortable on fire-dominant
 planes. Those that are made of water take double damage each round.
 
-_Water-Dominant:_ Planes with this trait are mostly liquid. Visitors who can’t breathe water or reach a
+_Water-Dominant:_ Planes with this trait are mostly liquid. Visitors who can't breathe water or reach a
 pocket of air will likely drown. Creatures of the fire subtype are extremely uncomfortable on water-dominant
 planes. Those made of fire take 1d10 points of damage each round.
 
@@ -298,7 +298,7 @@ plane.
 ## Alignment Traits
 
 Some planes have a predisposition to a certain alignment. Most of the inhabitants of these planes also have the
-plane’s particular alignment, even powerful creatures such as deities. In addition, creatures of alignments
+plane's particular alignment, even powerful creatures such as deities. In addition, creatures of alignments
 contrary to the plane have a tougher time dealing with its natives and situations.
 
 The alignment trait of a plane affects social interactions there. Characters who follow other alignments than most
@@ -321,7 +321,7 @@ _Mildly Aligned:_ Creatures who have an alignment opposite that of a mildly alig
 circumstance penalty on all Charisma-based checks.
 
 _Strongly Aligned:_ On planes that are strongly aligned, a -2 circumstance penalty applies on all
-Charisma-based checks made by all creatures not of the plane’s alignment. In addition, the -2 penalty affects all
+Charisma-based checks made by all creatures not of the plane's alignment. In addition, the -2 penalty affects all
 Intelligence-based and Wisdom-based checks, too.
 
 The penalties for the moral and ethical components of the alignment trait do stack.
@@ -334,13 +334,13 @@ A strongly neutral-aligned plane would stand in opposition to all other moral an
 law, and chaos. Such a plane may be more concerned with the balance of the alignments than with accommodating and
 accepting alternate points of view. In the same fashion as for other strongly aligned planes, strongly
 neutral-aligned planes apply a -2 circumstance penalty to Intelligence-, Wisdom-, or Charisma-based checks by any
-creature that isn’t neutral. The penalty is applied twice (once for law/chaos, and once for good/evil), so neutral
+creature that isn't neutral. The penalty is applied twice (once for law/chaos, and once for good/evil), so neutral
 good, neutral evil, lawful neutral, and chaotic neutral creatures take a -2 penalty and lawful good, chaotic good,
 chaotic evil, and lawful evil creatures take a -4 penalty.
 
 ## Magic Traits
 
-A plane’s magic trait describes how magic works on the plane compared to how it works on the Material Plane.
+A plane's magic trait describes how magic works on the plane compared to how it works on the Material Plane.
 Particular locations on a plane (such as those under the direct control of deities) may be pockets where a
 different magic trait applies.
 
@@ -357,16 +357,16 @@ means that something strange happens; roll d% and consult the following table.
 | d% | Effect |
 | --- | --- |
 | 01-19 | Spell rebounds on caster with normal effect. If the spell cannot affect the caster, it simply fails. |
-| 20-23 | A circular pit 15 feet wide opens under the caster’s feet; it is 10 feet deep per level of the caster. |
+| 20-23 | A circular pit 15 feet wide opens under the caster's feet; it is 10 feet deep per level of the caster. |
 | 24-27 | The spell fails, but the target or targets of the spell are pelted with a rain of small objects (anything from flowers to rotten fruit), which disappear upon striking. The barrage continues for 1 round. During this time the targets are blinded and must make Concentration checks (DC 15 + spell level) to cast spells. |
 | 28-31 | The spell affects a random target or area. Randomly choose a different target from among those in range of the spell or center the spell at a random place within range of the spell. To generate direction randomly, roll 1d8 and count clockwise around the compass, starting with south. To generate range randomly, roll 3d6. Multiply the result by 5 feet for close range spells, 20 feet for medium range spells, or 80 feet for long range spells. |
-| 32-35 | The spell functions normally, but any material components are not consumed. The spell is not expended from the caster’s mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item’s or spell-like ability’s use limit. |
+| 32-35 | The spell functions normally, but any material components are not consumed. The spell is not expended from the caster's mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item's or spell-like ability's use limit. |
 | 36-39 | The spell does not function. Instead, everyone (friend or foe) within 30 feet of the caster receives the effect of a _heal_ spell. |
 | 40-43 | The spell does not function. Instead, a _deeper darkness_ and a _silence_ effect cover a 30-foot radius around the caster for 2d4 rounds. |
 | 44-47 | The spell does not function. Instead, a _reverse gravity_ effect covers a 30-foot radius around the caster for 1 round. |
 | 48-51 | The spell functions, but shimmering colors swirl around the caster for 1d4 rounds. Treat this a _glitterdust_ effect with a save DC of 10 + the level of the spell that generated this result. |
 | 52-59 | Nothing happens. The spell does not function. Any material components are used up. The spell or spell slot is used up, and charges or uses from an item are used up. |
-| 60-71 | Nothing happens. The spell does not function. Any material components are not consumed. The spell is not expended from the caster’s mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item’s or spell-like ability’s use limit. |
+| 60-71 | Nothing happens. The spell does not function. Any material components are not consumed. The spell is not expended from the caster's mind (a spell slot or prepared spell can be used again). An item does not lose charges, and the effect does not count against an item's or spell-like ability's use limit. |
 | 72-98 | The spell functions normally. |
 | 99-100 | The spell functions strongly. Saving throws against the spell incur a -2 penalty. The spell has the maximum possible effect, as if it were cast with the Maximize Spell feat. If the spell is already maximized with the feat, there is no further effect. |
 
@@ -392,8 +392,8 @@ _Limited Magic:_ Planes with this trait permit only the use of spells and spell-
 particular qualifications.
 
 Magic can be limited to effects from certain schools or subschools, to effects with certain descriptors, or to
-effects of a certain level (or any combination of these qualities). Spells and spell-like abilities that don’t
-meet the qualifications simply don’t work.
+effects of a certain level (or any combination of these qualities). Spells and spell-like abilities that don't
+meet the qualifications simply don't work.
 
 _Dead Magic:_ These planes have no magic at all. A plane with the dead magic trait functions in all
 respects like an _antimagic field_ spell. Divination spells cannot detect subjects within a dead magic plane,
@@ -462,8 +462,8 @@ It has the following traits.
 
 The only exceptions are spells and spell-like abilities that have the force descriptor and abjuration spells that
 affect ethereal beings. Spellcasters on the Material Plane must have some way to detect foes on the Ethereal Plane
-before targeting them with force-based spells, of course. While it’s possible to hit ethereal enemies with a force
-spell cast on the Material Plane, the reverse isn’t possible. No magical attacks cross from the Ethereal Plane to
+before targeting them with force-based spells, of course. While it's possible to hit ethereal enemies with a force
+spell cast on the Material Plane, the reverse isn't possible. No magical attacks cross from the Ethereal Plane to
 the Material Plane, including force attacks.
 
 ### Plane of Shadow
@@ -486,7 +486,7 @@ precise map of the plane is next to impossible, despite the presence of landmark
 The Plane of Shadow has the following traits.
 *   Magically morphic. Certain spells modify the base material of the Plane of Shadow. The utility and power of these spells within the Plane of Shadow make them particularly useful for explorers and natives alike.
 *   Mildly neutral-aligned.
-*   Enhanced magic. Spells with the shadow descriptor are enhanced on the Plane of Shadow. Such spells are cast as though they were prepared with the Maximize Spell feat, though they don’t require the higher spell slots.  
+*   Enhanced magic. Spells with the shadow descriptor are enhanced on the Plane of Shadow. Such spells are cast as though they were prepared with the Maximize Spell feat, though they don't require the higher spell slots.  
     Furthermore, specific spells become more powerful on the Plane of Shadow. _Shadow conjuration_ and _shadow evocation_ spells are 30% as powerful as the conjurations and evocations they mimic (as opposed to 20%). _Greater shadow conjuration_ and _greater shadow evocation_ are 70% as powerful (not 60%), and a _shades_ spell conjures at 90% of the power of the original (not 80%).
 *   Impeded magic. Spells that use or generate light or fire may fizzle when cast on the Plane of Shadow. A spellcaster attempting a spell with the light or fire descriptor must succeed on a Spellcraft check (DC 20 + the level of the spell). Spells that produce light are less effective in general, because all light sources have their ranges halved on the Plane of Shadow.  
     Despite the dark nature of the Plane of Shadow, spells that produce, use, or manipulate darkness are unaffected by the plane.
@@ -503,7 +503,7 @@ matter can be found here, but most of the Astral Plane is an endless, open domai
 Both planar travelers and refugees from other planes call the Astral Plane home.
 The Astral Plane has the following traits.
 *   Subjective directional gravity.
-*   Timeless. Age, hunger, thirst, poison, and natural healing don’t function in the Astral Plane, though they resume functioning when the traveler leaves the Astral Plane.
+*   Timeless. Age, hunger, thirst, poison, and natural healing don't function in the Astral Plane, though they resume functioning when the traveler leaves the Astral Plane.
 *   Mildly neutral-aligned.
 *   Enhanced magic. All spells and spell-like abilities used within the Astral Plane may be employed as if they were improved by the Quicken Spell feat. Already quickened spells and spell-like abilities are unaffected, as are spells from magic items. Spells so quickened are still prepared and cast at their unmodified level. As with the Quicken Spell feat, only one quickened spell can be cast per round.
 
@@ -517,7 +517,7 @@ travelers without flight can survive easily here, they are at a disadvantage.
 The Elemental Plane of Air has the following traits.
 *   Subjective directional gravity. Inhabitants of the plane determine their own "down" direction. Objects not under the motive force of others do not move.
 *   Air-dominant.
-*   Enhanced magic. Spells and spell-like abilities that use, manipulate, or create air (including spells of the Air domain) are both empowered and enlarged (as if the Empower Spell and Enlarge Spell metamagic feats had been used on them, but the spells don’t require higher-level slots).
+*   Enhanced magic. Spells and spell-like abilities that use, manipulate, or create air (including spells of the Air domain) are both empowered and enlarged (as if the Empower Spell and Enlarge Spell metamagic feats had been used on them, but the spells don't require higher-level slots).
 *   Impeded magic. Spells and spell-like abilities that use or create earth (including spells of the Earth domain and spells that summon earth elementals or outsiders with the earth subtype) are impeded.
 
 ### Elemental Plane of Earth
@@ -531,7 +531,7 @@ relatively soft soil to veins of heavier and more valuable metal.
 
 The Elemental Plane of Earth has the following traits.
 *   Earth-dominant.
-*   Enhanced magic. Spells and spell-like abilities that use, manipulate, or create earth or stone (including those of the Earth domain) are both empowered and extended (as if the Empower Spell and Extend Spell metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already empowered or extended are unaffected by this benefit.
+*   Enhanced magic. Spells and spell-like abilities that use, manipulate, or create earth or stone (including those of the Earth domain) are both empowered and extended (as if the Empower Spell and Extend Spell metamagic feats had been used on them, but the spells don't require higher-level slots). Spells and spell-like abilities that are already empowered or extended are unaffected by this benefit.
 *   Impeded magic. Spells and spell-like abilities that use or create air (including spells of the Air domain and spells that summon air elementals or outsiders with the air subtype) are impeded.
 
 ### Elemental Plane of Fire
@@ -543,7 +543,7 @@ need for fuel or air, but flammables brought onto the plane are consumed readily
 
 The Elemental Plane of Fire has the following traits.
 *   Fire-dominant.
-*   Enhanced magic. Spells and spell-like abilities with the fire descriptor are both maximized and enlarged (as if the Maximize Spell and Enlarge Spell had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized or enlarged are unaffected by this benefit.
+*   Enhanced magic. Spells and spell-like abilities with the fire descriptor are both maximized and enlarged (as if the Maximize Spell and Enlarge Spell had been used on them, but the spells don't require higher-level slots). Spells and spell-like abilities that are already maximized or enlarged are unaffected by this benefit.
 *   Impeded magic. Spells and spell-like abilities that use or create water (including spells of the Water domain and spells that summon water elementals or outsiders with the water subtype) are impeded.
 
 ### Elemental Plane of Water
@@ -553,19 +553,19 @@ glow. It is one of the more hospitable of the Inner Planes once a traveler gets 
 local medium.
 
 The eternal oceans of this plane vary between ice cold and boiling hot, between saline and fresh. They are
-perpetually in motion, wracked by currents and tides. The plane’s permanent settlements form around bits of
+perpetually in motion, wracked by currents and tides. The plane's permanent settlements form around bits of
 flotsam and jetsam suspended within this endless liquid. These settlements drift on the tides of the Elemental
 Plane of Water.
 
 *   The Elemental Plane of Water has the following traits.
 *   Subjective directional gravity. The gravity here works similar to that of the Elemental Plane of Air. But sinking or rising on the Elemental Plane of Water is slower (and less dangerous) than on the Elemental Plane of Air.
 *   Water-dominant.
-*   Enhanced magic. Spells and spell-like abilities that use or create water are both extended and enlarged (as if the Extend Spell and Enlarge Spell metamagic feats had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already extended or enlarged are unaffected by this benefit.
+*   Enhanced magic. Spells and spell-like abilities that use or create water are both extended and enlarged (as if the Extend Spell and Enlarge Spell metamagic feats had been used on them, but the spells don't require higher-level slots). Spells and spell-like abilities that are already extended or enlarged are unaffected by this benefit.
 *   Impeded magic. Spells and spell-like abilities with the fire descriptor (including spells of the Fire domain) are impeded.
 
 ### Negative Energy Plane
 
-To an observer, there’s little to see on the Negative Energy Plane. It is a dark, empty place, an eternal pit
+To an observer, there's little to see on the Negative Energy Plane. It is a dark, empty place, an eternal pit
 where a traveler can fall until the plane itself steals away all light and life. The Negative Energy Plane is the
 most hostile of the Inner Planes, and the most uncaring and intolerant of life. Only creatures immune to its
 life-draining energies can survive there.
@@ -573,7 +573,7 @@ life-draining energies can survive there.
 The Negative Energy Plane has the following traits.
 *   Subjective directional gravity.
 *   Major negative-dominant. Some areas within the plane have only the minor negative-dominant trait, and these islands tend to be inhabited.
-*   Enhanced magic. Spells and spell-like abilities that use negative energy are maximized (as if the Maximize Spell metamagic feat had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use negative energy, such as rebuking and controlling undead, gain a +10 bonus on the roll to determine Hit Dice affected.
+*   Enhanced magic. Spells and spell-like abilities that use negative energy are maximized (as if the Maximize Spell metamagic feat had been used on them, but the spells don't require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use negative energy, such as rebuking and controlling undead, gain a +10 bonus on the roll to determine Hit Dice affected.
 *   Impeded magic. Spells and spell-like abilities that use positive energy, including _cure_ spells, are impeded. Characters on this plane take a -10 penalty on Fortitude saving throws made to remove negative levels bestowed by an energy drain attack.
 
 Random Encounters: Because the Negative Energy Plane is virtually devoid of creatures, random encounters on the
@@ -591,7 +591,7 @@ supernova. Visits to the Positive Energy Plane are brief, and even then traveler
 The Positive Energy Plane has the following traits.
 *   Subjective directional gravity.
 *   Major positive-dominant. Some regions of the plane have the minor positive-dominant trait instead, and those islands tend to be inhabited.
-*   Enhanced magic. Spells and spell-like abilities that use positive energy, including _cure_ spells, are maximized (as if the Maximize Spell metamagic feat had been used on them, but the spells don’t require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use positive energy, such as turning and destroying undead, gain a +10 bonus on the roll to determine Hit Dice affected. (Undead are almost impossible to find on this plane, however.)
+*   Enhanced magic. Spells and spell-like abilities that use positive energy, including _cure_ spells, are maximized (as if the Maximize Spell metamagic feat had been used on them, but the spells don't require higher-level slots). Spells and spell-like abilities that are already maximized are unaffected by this benefit. Class abilities that use positive energy, such as turning and destroying undead, gain a +10 bonus on the roll to determine Hit Dice affected. (Undead are almost impossible to find on this plane, however.)
 *   Impeded magic. Spells and spell-like abilities that use negative energy (including _inflict_ spells) are impeded.
 
 Random Encounters: Because the Positive Energy Plane is virtually devoid of creatures, random encounters on the

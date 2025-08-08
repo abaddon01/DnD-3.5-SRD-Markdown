@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Monsters/ Monsters (Animals)
-aliases: 3.5 Monsters (Animals)
-tags: 3.5e rules v3.5-srd monsters monsters-animals
+title: 3.5 Compendium  - v3.5 SRD - Monsters - Monsters (Animals)
+aliases:
+  - 3.5 Monsters (Animals)
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - monsters
+  - monsters_animals
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -17,16 +23,16 @@ Animals are not capable of detailed reasoning, although with the Handle Animal s
 animal and teach it to perform certain tricks.
 
 Some herbivorous animals do not normally use their natural weapons to attack. As such, their natural weapons are
-treated as secondary attacks. The animal’s attack and damage entries note this fact, with an explanatory footnote.
+treated as secondary attacks. The animal's attack and damage entries note this fact, with an explanatory footnote.
 
 #### Animal Traits:
- An animal possesses the following traits (unless otherwise noted in a creature’s
+ An animal possesses the following traits (unless otherwise noted in a creature's
 entry).
 
----Intelligence score of 1 or 2 (no creature with an Intelligence score of 3 or higher can be an animal).
----Low-light vision.
----_Alignment:_ Always neutral. Animals are not governed by a human sense of morality.
----_Treasure:_ None. Animals never possess treasure.
+--Intelligence score of 1 or 2 (no creature with an Intelligence score of 3 or higher can be an animal).
+--Low-light vision.
+--_Alignment:_ Always neutral. Animals are not governed by a human sense of morality.
+--_Treasure:_ None. Animals never possess treasure.
 ## Table of Contents
 *   [[#Ape]]
     *   [[#Combat]]
@@ -137,7 +143,7 @@ entry).
 | Attack: | Claws +7 melee (1d6+5) |
 | Full Attack: | 2 claws +7 melee (1d6+5) and bite +2 melee (1d6+2) |
 | Space/Reach: | 10 ft./10 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +6, Ref +6, Will +2 |
 | Abilities: | Str 21, Dex 15, Con 14, Int 2, Wis 12, Cha 7 |
@@ -147,7 +153,7 @@ entry).
 | Organization: | Solitary, pair, or company (3-5) |
 | Challenge Rating: | 2 |
 | Advancement: | 5-8 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These powerful omnivores resemble gorillas but are far more aggressive; they kill and eat anything they can catch.
 An adult male ape is 5-1/2 to 6 feet tall and weighs 300 to 400 pounds.
@@ -170,7 +176,7 @@ checks, even if rushed or threatened.
 | Attack: | Bite +2 melee (1d6+3) |
 | Full Attack: | Bite +2 melee (1d6+3) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +3, Ref +4, Will +1 |
 | Abilities: | Str 15, Dex 14, Con 12, Int 2, Wis 12, Cha 4 |
@@ -180,7 +186,7 @@ checks, even if rushed or threatened.
 | Organization: | Solitary or troop (10-40) |
 | Challenge Rating: | 1/2 |
 | Advancement: | 2-3 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Baboons are powerful and aggressive primates adapted to life on the ground. They prefer open spaces but climb
 trees to find safe places to rest overnight. A typical baboon is the size of a big dog.
@@ -215,7 +221,7 @@ checks, even if rushed or threatened.
 | Organization: | Solitary, pair, or cete (3-5) |
 | Challenge Rating: | 1/2 |
 | Advancement: | 2 HD (Small) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 The badger is a furry animal with a squat, powerful body. Its strong forelimbs are armed with long claws for
 digging. An adult badger is 2 to 3 feet long and weighs 25 to 35 pounds.
@@ -239,10 +245,10 @@ clawing and biting madly until either it or its opponent is dead. It gains +4 to
 | Speed: | 5 ft (1 square), fly 40 ft. (good) |
 | Armor Class: | 16 (+4 size, +2 Dex), touch 16, flat-footed 14 |
 | Base Attack/Grapple: | +0/-17 |
-| Attack: | --- |
-| Full Attack: | --- |
+| Attack: | -- |
+| Full Attack: | -- |
 | Space/Reach: | 1 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Blindsense 20 ft., low-light vision |
 | Saves: | Fort +2, Ref +4, Will +2 |
 | Abilities: | Str 1, Dex 15, Con 10, Int 2, Wis 14, Cha 4 |
@@ -251,8 +257,8 @@ clawing and biting madly until either it or its opponent is dead. It gains +4 to
 | Environment: | Temperate deserts |
 | Organization: | Colony (10-40) or crowd (10-50) |
 | Challenge Rating: | 1/10 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 Bats are nocturnal flying mammals. The statistics presented here describe small, insectivorous bats.
 ### Combat
@@ -275,7 +281,7 @@ negated.
 | Attack: | Claw +6 melee (1d4+4) |
 | Full Attack: | 2 claws +6 melee (1d4+4) and bite +1 melee (1d6+2) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +5, Ref +4, Will +2 |
 | Abilities: | Str 19, Dex 13, Con 15, Int 2, Wis 12, Cha 6 |
@@ -285,7 +291,7 @@ negated.
 | Organization: | Solitary or pair |
 | Challenge Rating: | 2 |
 | Advancement: | 4-5 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 The black bear is a forest-dwelling omnivore that usually is not dangerous unless an interloper threatens its cubs
 or food supply.
@@ -317,10 +323,10 @@ Black bears rip prey with their claws and teeth.
 | Organization: | Solitary or pair |
 | Challenge Rating: | 4 |
 | Advancement: | 7-10 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These massive carnivores weigh more than 1,800 pounds and stand nearly 9 feet tall when they rear up on their hind
-legs. They are bad-tempered and territorial. The brown bear’s statistics can be used for almost any big bear,
+legs. They are bad-tempered and territorial. The brown bear's statistics can be used for almost any big bear,
 including the grizzly.
 
 ### Combat
@@ -354,7 +360,7 @@ attempt to start a grapple as a free action without provoking an attack of oppor
 | Organization: | Solitary or pair |
 | Challenge Rating: | 4 |
 | Advancement: | 9-12 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These long, lean carnivores are slightly taller than brown bears.
 ### Combat
@@ -367,7 +373,7 @@ attempt to start a grapple as a free action without provoking an attack of oppor
 #### Skills:
  A polar bear has a +8 racial bonus on any Swim check to perform some special action or
 avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the
-run action while swimming, provided it swims in a straight line. *A polar bear’s white coat bestows a +12 racial
+run action while swimming, provided it swims in a straight line. *A polar bear's white coat bestows a +12 racial
 bonus on Hide checks in snowy areas.
 
 ## Bison
@@ -392,11 +398,11 @@ bonus on Hide checks in snowy areas.
 | Organization: | Solitary or herd (6-30) |
 | Challenge Rating: | 2 |
 | Advancement: | 6-7 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These herd animals can be aggressive when protecting young and during the mating season, but they generally prefer
 flight to fighting. A bison stands more than 6 feet tall at the shoulder and is 9 to 12 feet long. It weigh 1,800
-to 2,400 pounds. The bison’s statistics can be used for almost any large herd animal.
+to 2,400 pounds. The bison's statistics can be used for almost any large herd animal.
 
 ### Combat
 
@@ -428,7 +434,7 @@ Strength-based.
 | Organization: | Solitary or herd (5-8) |
 | Challenge Rating: | 2 |
 | Advancement: | 4-5 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Though not carnivores, these wild swine are bad-tempered and usually charge anyone who disturbs them. A boar is
 covered in coarse, grayish-black fur. Adult males are about 4 feet long and 3 feet high at the shoulder.
@@ -451,7 +457,7 @@ even while disabled or dying.
 | Attack: | Bite +0 melee (1d4+2*) |
 | Full Attack: | Bite +0 melee* (1d4+2*) |
 | Space/Reach: | 10 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +5, Ref +6, Will +1 |
 | Abilities: | Str 18, Dex 16, Con 14, Int 2, Wis 11, Cha 4 |
@@ -460,8 +466,8 @@ even while disabled or dying.
 | Environment: | Warm deserts |
 | Organization: | Domesticated or herd (6-30) |
 | Challenge Rating: | 1 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 Camels are known for their ability to travel long distances without food or water.
 
@@ -476,7 +482,7 @@ and a heavy load, 601-900 pounds. A camel can drag 4,500 pounds.
 
 ### Combat
 
-*A camel’s bite is treated as a secondary attack and adds only half the camel’s Strength bonus to the damage roll.
+*A camel's bite is treated as a secondary attack and adds only half the camel's Strength bonus to the damage roll.
 
 ## Cat
 
@@ -490,7 +496,7 @@ and a heavy load, 601-900 pounds. A camel can drag 4,500 pounds.
 | Attack: | Claw +4 melee (1d2-4) |
 | Full Attack: | 2 claws +4 melee (1d2-4) and bite -1 melee (1d3-4) |
 | Space/Reach: | 2-1/2 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +2, Ref +4, Will +1 |
 | Abilities: | Str 3, Dex 15, Con 10, Int 2, Wis 12, Cha 7 |
@@ -499,8 +505,8 @@ and a heavy load, 601-900 pounds. A camel can drag 4,500 pounds.
 | Environment: | Temperate plains |
 | Organization: | Domesticated or solitary |
 | Challenge Rating: | 1/4 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 The statistics presented here describe a common housecat.
 ### Combat
@@ -534,7 +540,7 @@ rises to +8.
 | Organization: | Solitary, pair, or family (3-5) |
 | Challenge Rating: | 2 |
 | Advancement: | 4-5 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Cheetahs are swift feline predators of the plains. A cheetah is 3 to 5 feet long and weighs 110 to 130 pounds.
 
@@ -572,7 +578,7 @@ makes a charge.
 | Organization: | Solitary or colony (6-11) |
 | Challenge Rating: | 2 |
 | Advancement: | 4-5 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Crocodiles are aggressive predators 11 to 12 feet long. They lie mostly submerged in rivers or marshes, with only
 their eyes and nostrils showing, waiting for prey to come within reach.
@@ -618,7 +624,7 @@ gaining a +10 cover bonus on Hide checks.
 | Organization: | Solitary or colony (6-11) |
 | Challenge Rating: | 4 |
 | Advancement: | 8-14 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These huge creatures usually live in salt water and can be more than 20 feet long.
 Giant crocodiles fight and behave like their smaller cousins.
@@ -634,7 +640,7 @@ Giant crocodiles fight and behave like their smaller cousins.
 | Attack: | Bite +2 melee (1d4+1) |
 | Full Attack: | Bite +2 melee (1d4+1) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +4, Ref +5, Will +1 |
 | Abilities: | Str 13, Dex 17, Con 15, Int 2, Wis 12, Cha 6 |
@@ -643,8 +649,8 @@ Giant crocodiles fight and behave like their smaller cousins.
 | Environment: | Temperate plains |
 | Organization: | Solitary or pack (5-12) |
 | Challenge Rating: | 1/3 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 The statistics presented here describe a fairly small dog of about 20 to 50 pounds in weight. They also can be
 used for small wild canines such as coyotes, jackals, and African wild dogs.
@@ -668,7 +674,7 @@ checks when tracking by scent.
 | Attack: | Bite +3 melee (1d6+3) |
 | Full Attack: | Bite +3 melee (1d6+3) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +5, Ref +5, Will +1 |
 | Abilities: | Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 6 |
@@ -677,8 +683,8 @@ checks when tracking by scent.
 | Environment: | Temperate plains |
 | Organization: | Solitary or pack (5-12) |
 | Challenge Rating: | 1 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 This category includes working breeds such as collies, huskies, and St. Bernards.
 
@@ -707,7 +713,7 @@ Survival checks when tracking by scent.
 | Attack: | Bite +1 melee (1d2) |
 | Full Attack: | Bite +1 melee (1d2) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +4, Ref +4, Will +0 |
 | Abilities: | Str 10, Dex 13, Con 12, Int 2, Wis 11, Cha 4 |
@@ -716,8 +722,8 @@ Survival checks when tracking by scent.
 | Environment: | Temperate deserts |
 | Organization: | Solitary |
 | Challenge Rating: | 1/6 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 These long-eared, horselike creatures are surefooted and sturdy. The statistics presented here could also describe
 burros.
@@ -742,7 +748,7 @@ A donkey bites only when it has no way to escape.
 | Attack: | Talons +3 melee (1d4) |
 | Full Attack: | 2 talons +3 melee (1d4) and bite -2 melee (1d4) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision |
 | Saves: | Fort +3, Ref +4, Will +2 |
 | Abilities: | Str 10, Dex 15, Con 12, Int 2, Wis 14, Cha 6 |
@@ -752,7 +758,7 @@ A donkey bites only when it has no way to escape.
 | Organization: | Solitary or pair |
 | Challenge Rating: | 1/2 |
 | Advancement: | 2-3 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These birds of prey inhabit nearly every terrain and climate, though they all prefer high, secluded nesting spots.
 
@@ -785,7 +791,7 @@ Eagles dive at prey, raking with their powerful talons.
 | Organization: | Solitary or herd (6-30) |
 | Challenge Rating: | 7 |
 | Advancement: | 12-22 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Massive herbivores of tropical lands, elephants are unpredictable creatures but nevertheless are sometimes used as
 mounts or beasts of burden.
@@ -810,7 +816,7 @@ Elephants tend to charge at threatening creatures.
 | Attack: | Talons +5 melee (1d4-2) |
 | Full Attack: | Talons +5 melee (1d4-2) |
 | Space/Reach: | 2-1/2 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision |
 | Saves: | Fort +2, Ref +5, Will +2 |
 | Abilities: | Str 6, Dex 17, Con 10, Int 2, Wis 14, Cha 6 |
@@ -819,8 +825,8 @@ Elephants tend to charge at threatening creatures.
 | Environment: | Temperate forests |
 | Organization: | Solitary or pair |
 | Challenge Rating: | 1/3 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 These creatures are similar to eagles but slightly smaller: 1 to 2 feet long, with wingspans of 6 feet or less.
 
@@ -833,7 +839,7 @@ Horses are widely domesticated for riding and as beasts of burden.
 ### Combat
 
 A horse not trained for war does not normally use its hooves to attack. Its hoof attack is treated as a secondary
-attack and adds only half the horse’s Strength bonus to damage. (These secondary attacks are noted with an
+attack and adds only half the horse's Strength bonus to damage. (These secondary attacks are noted with an
 asterisk in the Attack and Full Attack entries for the heavy horse and the light horse.)
 
 |  | Horse, Heavy |
@@ -847,7 +853,7 @@ asterisk in the Attack and Full Attack entries for the heavy horse and the light
 | Attack: | Hoof -1 melee (1d6+1*) |
 | Full Attack: | 2 hooves -1 melee (1d6+1*) |
 | Space/Reach: | 10 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +5, Ref +4, Will +2 |
 | Abilities: | Str 16, Dex 13, Con 15, Int 2, Wis 12, Cha 6 |
@@ -856,8 +862,8 @@ asterisk in the Attack and Full Attack entries for the heavy horse and the light
 | Environment: | Temperate plains |
 | Organization: | Domesticated |
 | Challenge Rating: | 1 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 The statistics presented here describe large breeds of working horses such as Clydesdales. These animals are
 usually ready for heavy work by age three. A heavy horse cannot fight while carrying a rider.
@@ -877,7 +883,7 @@ pounds; and a heavy load, 401-600 pounds. A heavy horse can drag 3,000 pounds.
 | Attack: | Hoof -2 melee (1d4+1*) |
 | Full Attack: | 2 hooves -2 melee (1d4+1*) |
 | Space/Reach: | 10 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +5, Ref +4, Will +2 |
 | Abilities: | Str 14, Dex 13, Con 15, Int 2, Wis 12, Cha 6 |
@@ -886,8 +892,8 @@ pounds; and a heavy load, 401-600 pounds. A heavy horse can drag 3,000 pounds.
 | Environment: | Temperate plains |
 | Organization: | Domesticated or herd (6-30) |
 | Challenge Rating: | 1 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 The statistics presented here describe smaller breeds of working horses such as quarter horses and Arabians as
 well as wild horses. These animals are usually ready for useful work by age two. A light horse cannot fight while
@@ -908,7 +914,7 @@ pounds; and a heavy load, 301-450 pounds. A light horse can drag 2,250 pounds.
 | Attack: | Hoof +6 melee (1d6+4) |
 | Full Attack: | 2 hooves +6 melee (1d6+4) and bite +1 melee (1d4+2) |
 | Space/Reach: | 10 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +7, Ref +5, Will +2 |
 | Abilities: | Str 18, Dex 13, Con 17, Int 2, Wis 13, Cha 6 |
@@ -917,8 +923,8 @@ pounds; and a heavy load, 301-450 pounds. A light horse can drag 2,250 pounds.
 | Environment: | Temperate plains |
 | Organization: | Domesticated |
 | Challenge Rating: | 2 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 These animals are similar to heavy horses but are trained and bred for strength and aggression. A heavy warhorse
 can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
@@ -938,7 +944,7 @@ pounds; and a heavy load, 601-900 pounds. A heavy warhorse can drag 4,500 pounds
 | Attack: | Hoof +4 melee (1d4+3) |
 | Full Attack: | 2 hooves +4 melee (1d4+3) and bite -1 melee (1d3+1) |
 | Space/Reach: | 10 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +6, Ref +4, Will +2 |
 | Abilities: | Str 16, Dex 13, Con 17, Int 2, Wis 13, Cha 6 |
@@ -947,8 +953,8 @@ pounds; and a heavy load, 601-900 pounds. A heavy warhorse can drag 4,500 pounds
 | Environment: | Temperate plains |
 | Organization: | Domesticated |
 | Challenge Rating: | 1 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 These animals or similar to light horses but are trained and bred for strength and aggression. They usually are
 not ready for warfare before age three. A light warhorse can fight while carrying a rider, but the rider cannot
@@ -980,14 +986,14 @@ pounds; and a heavy load, 461-690 pounds. A light warhorse can drag 3,450 pounds
 | Organization: | Solitary, pair, or pack (7-16) |
 | Challenge Rating: | 1 |
 | Advancement: | 3 HD (Medium); 4-5 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Hyenas are pack hunters infamous for their cunning and their unnerving vocalizations. The statistics presented
 here are for a striped hyena, which is about 3 feet long and weighs about 120 pounds.
 
 ### Combat
 
-A favorite tactic is to send a few individuals against the foe’s front while the rest of the pack circles and
+A favorite tactic is to send a few individuals against the foe's front while the rest of the pack circles and
 attacks from the flanks or rear.
 
 #### Trip (Ex):
@@ -1021,7 +1027,7 @@ undergrowth.
 | Organization: | Solitary or pair |
 | Challenge Rating: | 2 |
 | Advancement: | 4-5 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These jungle cats are about 4 feet long and weigh about 120 pounds. They usually hunt at night. The statistics
 presented here can describe any feline of similar size, such as jaguars, panthers, and mountain lions.
@@ -1067,7 +1073,7 @@ improves to +8.
 | Organization: | Solitary, pair, or pride (6-10) |
 | Challenge Rating: | 3 |
 | Advancement: | 6-8 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 The statistics presented here describe a male African lion, which is 5 to 8 feet long and weighs 330 to 550
 pounds. Females are slightly smaller but use the same statistics.
@@ -1100,7 +1106,7 @@ tall grass or heavy undergrowth, the Hide bonus improves to +12.
 | Attack: | Bite +4 melee (1d4-4) |
 | Full Attack: | Bite +4 melee (1d4-4) |
 | Space/Reach: | 2-1/2 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision |
 | Saves: | Fort +2, Ref +4, Will +1 |
 | Abilities: | Str 3, Dex 15, Con 10, Int 1, Wis 12, Cha 2 |
@@ -1109,8 +1115,8 @@ tall grass or heavy undergrowth, the Hide bonus improves to +12.
 | Environment: | Warm forests |
 | Organization: | Solitary |
 | Challenge Rating: | 1/6 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 The statistics presented here describe small, nonvenomous lizards of perhaps a foot or two in length, such as an
 iguana.
@@ -1135,7 +1141,7 @@ Dexterity modifier instead of their Strength modifier for Climb checks.
 | Attack: | Bite +5 melee (1d8+4) |
 | Full Attack: | Bite +5 melee (1d8+4) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision |
 | Saves: | Fort +8, Ref +5, Will +2 |
 | Abilities: | Str 17, Dex 15, Con 17, Int 1, Wis 12, Cha 2 |
@@ -1145,7 +1151,7 @@ Dexterity modifier instead of their Strength modifier for Climb checks.
 | Organization: | Solitary |
 | Challenge Rating: | 2 |
 | Advancement: | 4-5 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 This category includes fairly large, carnivorous lizards from 3 to 5 feet long.
 ### Combat
@@ -1169,7 +1175,7 @@ Hide and Move Silently checks. *In forested or overgrown areas, the Hide bonus i
 | Attack: | Ram -1 melee* (1d6+1) |
 | Full Attack: | Ram -1 melee* (1d6+1) |
 | Space/Reach: | 10 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision |
 | Saves: | Fort +4, Ref +4, Will +2 |
 | Abilities: | Str 15, Dex 11, Con 10, Int 1, Wis 12, Cha 2 |
@@ -1179,7 +1185,7 @@ Hide and Move Silently checks. *In forested or overgrown areas, the Hide bonus i
 | Organization: | Solitary or school (2-5) |
 | Challenge Rating: | 1 |
 | Advancement: | 5-6 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These fish are nonaggressive and generally avoid contact with other creatures. They filter plankton and similar
 small organisms from the water through their gaping, toothless maws.
@@ -1204,7 +1210,7 @@ run action while swimming, provided it swims in a straight line.
 | Attack: | Bite +4 melee (1d3-4) |
 | Full Attack: | Bite +4 melee (1d3-4) |
 | Space/Reach: | 2-1/2 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision |
 | Saves: | Fort +2, Ref +4, Will +1 |
 | Abilities: | Str 3, Dex 15, Con 10, Int 2, Wis 12, Cha 5 |
@@ -1214,7 +1220,7 @@ run action while swimming, provided it swims in a straight line.
 | Organization: | Troop (10-40) |
 | Challenge Rating: | 1/6 |
 | Advancement: | 2-3 HD (Small) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 The statistics presented here can describe any arboreal monkey that is no bigger than a housecat, such as a
 colobus or capuchin.
@@ -1239,7 +1245,7 @@ modifier for Climb checks.
 | Attack: | Hoof +4 melee (1d4+3) |
 | Full Attack: | 2 hooves +4 melee (1d4+3) |
 | Space/Reach: | 10 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +6, Ref +4, Will +1 |
 | Abilities: | Str 16, Dex 13, Con 17, Int 2, Wis 11, Cha 6 |
@@ -1248,14 +1254,14 @@ modifier for Climb checks.
 | Environment: | Warm plains |
 | Organization: | Domesticated |
 | Challenge Rating: | 1 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 Mules are sterile crossbreeds of donkeys and horses. A mule is similar to a light horse, but slightly stronger and
 more agile.
 
 ### Combat
-A mule’s powerful kick can be dangerous.
+A mule's powerful kick can be dangerous.
 
 #### Carrying Capacity:
  A light load for a mule is up to 230 pounds; a medium load, 231-460 pounds;
@@ -1285,7 +1291,7 @@ and a heavy load, 461-690 pounds. A mule can drag 3,450 pounds.
 | Organization: | Solitary |
 | Challenge Rating: | 1 |
 | Advancement: | 3-6 HD (Medium) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These bottom-dwelling sea creatures are dangerous only to their prey. If disturbed, they usually try to escape.
 
@@ -1334,17 +1340,17 @@ straight line.
 | Organization: | Solitary |
 | Challenge Rating: | 8 |
 | Advancement: | 9-12 HD (Large); 13-24 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These creatures are aggressive and territorial hunters, with arms reaching 10 feet or more in length. Their
 tentacles are studded with barbs and sharp-edged suckers.
 
 ### Combat
 
-An opponent can attack a giant octopus’s tentacles with a sunder attempt as if they were weapons. A giant
-octopus’s tentacles have 10 hit points each. If a giant octopus is currently grappling a target with the tentacle
+An opponent can attack a giant octopus's tentacles with a sunder attempt as if they were weapons. A giant
+octopus's tentacles have 10 hit points each. If a giant octopus is currently grappling a target with the tentacle
 that is being attacked, it usually uses another limb to make its attack of opportunity against the opponent making
-the sunder attempt. Severing one of a giant octopus’s tentacles deals 5 points of damage to the creature. A giant
+the sunder attempt. Severing one of a giant octopus's tentacles deals 5 points of damage to the creature. A giant
 octopus usually withdraws from combat if it loses four tentacles. The creature regrows severed limbs in 1d10+10
 days.
 
@@ -1384,7 +1390,7 @@ provided it swims in a straight line.
 | Attack: | Talons +5 melee (1d4-3) |
 | Full Attack: | Talons +5 melee (1d4-3) |
 | Space/Reach: | 2-1/2 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision |
 | Saves: | Fort +2, Ref +5, Will +2 |
 | Abilities: | Str 4, Dex 17, Con 10, Int 2, Wis 14, Cha 4 |
@@ -1394,7 +1400,7 @@ provided it swims in a straight line.
 | Organization: | Solitary |
 | Challenge Rating: | 1/4 |
 | Advancement: | 2 HD (Small) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 The statistics presented here describe nocturnal birds of prey from 1 to 2 feet long, with wingspans up to 6 feet.
 They combine both talons into a single attack.
@@ -1418,7 +1424,7 @@ checks. *They have a +8 racial bonus on Spot checks in areas of shadowy illumina
 | Attack: | Hoof -3 melee (1d3*) |
 | Full Attack: | 2 hooves -3 melee (1d3*) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +4, Ref +4, Will +0 |
 | Abilities: | Str 13, Dex 13, Con 12, Int 2, Wis 11, Cha 4 |
@@ -1427,8 +1433,8 @@ checks. *They have a +8 racial bonus on Spot checks in areas of shadowy illumina
 | Environment: | Temperate plains |
 | Organization: | Solitary |
 | Challenge Rating: | 1/4 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 The statistics presented here describe a small horse, under 5 feet tall at the shoulder. Ponies are otherwise
 similar to light horses and cannot fight while carrying a rider.
@@ -1436,7 +1442,7 @@ similar to light horses and cannot fight while carrying a rider.
 ### Combat
 
 *A pony not trained for war does not normally use its hooves to attack but rather to run. Its hoof attack is
-treated as a secondary attack and adds only half the pony’s Strength bonus to damage.
+treated as a secondary attack and adds only half the pony's Strength bonus to damage.
 
 #### Carrying Capacity:
  A light load for a pony is up to 75 pounds; a medium load, 76-150 pounds; and
@@ -1454,7 +1460,7 @@ a heavy load, 151-225 pounds. A pony can drag 1,125 pounds.
 | Attack: | Hoof +3 melee (1d3+2) |
 | Full Attack: | 2 hooves +3 melee (1d3+2) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +5, Ref +4, Will +0 |
 | Abilities: | Str 15, Dex 13, Con 14, Int 2, Wis 11, Cha 4 |
@@ -1463,8 +1469,8 @@ a heavy load, 151-225 pounds. A pony can drag 1,125 pounds.
 | Environment: | Temperate plains |
 | Organization: | Domesticated |
 | Challenge Rating: | 1/2 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 Warponies are bred for strength and aggression, and are similar to light warhorses.
 ### Combat
@@ -1488,7 +1494,7 @@ and a heavy load, 201-300 pounds. A warpony can drag 1,500 pounds.
 | Attack: | Slam +4 melee (2d4) |
 | Full Attack: | Slam +4 melee (2d4) |
 | Space/Reach: | 5 ft./5 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Blindsight 120 ft., hold breath, low-light vision |
 | Saves: | Fort +4, Ref +6, Will +1 |
 | Abilities: | Str 11, Dex 17, Con 13, Int 2, Wis 12, Cha 6 |
@@ -1498,7 +1504,7 @@ and a heavy load, 201-300 pounds. A warpony can drag 1,500 pounds.
 | Organization: | Solitary, pair, or school (3-20) |
 | Challenge Rating: | 1/2 |
 | Advancement: | 3-4 HD (Medium); 5-6 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Porpoises are mammals that tend to be playful, friendly, and helpful. A typical porpoise is 4 to 6 feet long and
 weighs 110 to 160 pounds. The statistics presented here can describe any small whale of similar size.
@@ -1508,7 +1514,7 @@ weighs 110 to 160 pounds. The statistics presented here can describe any small w
 #### Blindsight (Ex):
  Porpoises can "see" by emitting high-frequency sounds, inaudible to most other
 creatures, that allow them to locate objects and creatures within 120 feet. A _silence_ spell negates this
-and forces the porpoise to rely on its vision, which is approximately as good as a human’s.
+and forces the porpoise to rely on its vision, which is approximately as good as a human's.
 
 #### Hold Breath (Ex):
  A porpoise can hold its breath for a number of rounds equal to 6 x its
@@ -1532,7 +1538,7 @@ Listen checks. These bonuses are lost if its blindsight is negated.
 | Attack: | Bite +4 melee (1d3-4) |
 | Full Attack: | Bite +4 melee (1d3-4) |
 | Space/Reach: | 2-1/2 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision, scent |
 | Saves: | Fort +2, Ref +4, Will +1 |
 | Abilities: | Str 2, Dex 15, Con 10, Int 2, Wis 12, Cha 2 |
@@ -1541,8 +1547,8 @@ Listen checks. These bonuses are lost if its blindsight is negated.
 | Environment: | Any |
 | Organization: | Plague (10-100) |
 | Challenge Rating: | 1/8 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 These omnivorous rodents thrive almost anywhere.
 ### Combat
@@ -1568,7 +1574,7 @@ a straight line.
 | Attack: | Claws +4 melee (1d2-5) |
 | Full Attack: | Claws +4 melee (1d2-5) |
 | Space/Reach: | 2-1/2 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Low-light vision |
 | Saves: | Fort +2, Ref +4, Will +2 |
 | Abilities: | Str 1, Dex 15, Con 10, Int 2, Wis 14, Cha 6 |
@@ -1577,8 +1583,8 @@ a straight line.
 | Environment: | Temperate forests |
 | Organization: | Solitary |
 | Challenge Rating: | 1/6 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 These glossy black birds are about 2 feet long and have wingspans of about 4 feet. They combine both claws into a
 single attack. The statistics presented here can describe most nonpredatory birds of similar size.
@@ -1605,7 +1611,7 @@ single attack. The statistics presented here can describe most nonpredatory bird
 | Organization: | Solitary or herd (2-12) |
 | Challenge Rating: | 4 |
 | Advancement: | 9-12 HD (Large); 13-24 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 The rhinoceros is infamous for its bad temper and willingness to charge intruders.
 
@@ -1630,7 +1636,7 @@ When it is harassed or annoyed, a rhinoceros lowers its head and charges.
 | Attack: | Bite +4 melee (1d6+1) | Bite +7 melee (1d8+4) | Bite +10 melee (2d6+7) |
 | Full Attack: | Bite +4 melee (1d6+1) | Bite +7 melee (1d8+4) | Bite +10 melee (2d6+7) |
 | Space/Reach: | 5 ft./5 ft. | 10 ft./5 ft. | 15 ft./10 ft. |
-| Special Attacks: | --- | --- | --- |
+| Special Attacks: | -- | -- | -- |
 | Special Qualities: | Blindsense, keen scent | Blindsense, keen scent | Blindsense, keen scent |
 | Saves: | Fort +4, Ref +5, Will +2 | Fort +8, Ref +7, Will +3 | Fort +11, Ref +9, Will +4 |
 | Abilities: | Str 13, Dex 15, Con 13, Int 1, Wis 12, Cha 2 | Str 17, Dex 15, Con 13, Int 1, Wis 12, Cha 2 | Str 21, Dex 15, Con 15, Int 1, Wis 12, Cha 2 |
@@ -1640,7 +1646,7 @@ When it is harassed or annoyed, a rhinoceros lowers its head and charges.
 | Organization: | Solitary, school (2-5), or pack (6-11) | Solitary, school (2-5), or pack (6-11) | Solitary, school (2-5), or pack (6-11) |
 | Challenge Rating: | 1 | 2 | 4 |
 | Advancement: | 4-6 HD (Medium) | 8-9 HD (Large) | 11-17 HD (Huge) |
-| Level Adjustment: | --- | --- | --- |
+| Level Adjustment: | -- | -- | -- |
 
 These carnivorous fish are aggressive and liable to make unprovoked attacks against anything that approaches them.
 Smaller sharks are from 5 to 8 feet long and not usually dangerous to creatures other than their prey. Large
@@ -1696,7 +1702,7 @@ in a straight line.
 | Organization: | Solitary |
 | Challenge Rating: | 2 |
 | Advancement: | 4-5 HD (Medium); 6-10 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Constrictor snakes usually are not aggressive and flee when confronted. They hunt for food but do not attempt to
 make a meal out of any creature that is too large to constrict.
@@ -1734,7 +1740,7 @@ grapple check, it establishes a hold and can constrict.
 | Organization: | Solitary |
 | Challenge Rating: | 5 |
 | Advancement: | 12-16 HD (Huge); 17-33 HD (Gargantuan) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Giant constrictor snakes are more aggressive than their smaller cousins, principally because they need a great
 amount of food to survive.
@@ -1761,8 +1767,8 @@ amount of food to survive.
 | Environment: | Temperate marshes | Temperate marshes |
 | Organization: | Solitary | Solitary |
 | Challenge Rating: | 1/3 | 1/2 |
-| Advancement: | --- | --- |
-| Level Adjustment: | --- | --- |
+| Advancement: | -- | -- |
+| Level Adjustment: | -- | -- |
 
 |  | Snake, Medium Viper | Snake, Large Viper | Snake, Huge Viper |
 | --- | --- | --- | --- |
@@ -1784,8 +1790,8 @@ amount of food to survive.
 | Environment: | Temperate marshes | Temperate marshes | Temperate marshes |
 | Organization: | Solitary | Solitary | Solitary |
 | Challenge Rating: | 1 | 2 | 3 |
-| Advancement: | --- | --- | 7-18 HD (Huge) |
-| Level Adjustment: | --- | --- | --- |
+| Advancement: | -- | -- | 7-18 HD (Huge) |
+| Level Adjustment: | -- | -- | -- |
 
 These creatures range widely in size. They are not particularly aggressive, but will often lash out with a bite
 attack before attempting to retreat.
@@ -1794,7 +1800,7 @@ attack before attempting to retreat.
 Viper snakes rely on their venomous bite to kill prey and defend themselves.
 
 Poison (Ex): A viper snake has a poisonous bite that deals initial and secondary damage of 1d6 Con. The save DC
-varies by the snake’s size, as shown on the table below. The save DCs are Constitution-based.
+varies by the snake's size, as shown on the table below. The save DCs are Constitution-based.
 
 | Size | Fort DC |
 | --- | --- |
@@ -1826,7 +1832,7 @@ varies by the snake’s size, as shown on the table below. The save DCs are Cons
 | Organization: | Solitary or school (6-11) |
 | Challenge Rating: | 1 |
 | Advancement: | 4-6 HD (Medium); 7-11 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These free-swimming mollusks are fairly aggressive. They are more feared than sharks in some locales.
 ### Combat
@@ -1873,15 +1879,15 @@ action while swimming, provided it swims in a straight line
 | Organization: | Solitary |
 | Challenge Rating: | 9 |
 | Advancement: | 13-18 HD (Huge); 19-36 HD (Gargantuan) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These voracious creatures can have bodies more than 20 feet long and attack almost anything they meet.
 ### Combat
 
-An opponent can attack a giant squid’s tentacles with a sunder attempt as if they were weapons. A giant squid’s
+An opponent can attack a giant squid's tentacles with a sunder attempt as if they were weapons. A giant squid's
 tentacles have 10 hit points each. If a giant squid is currently grappling a target with the tentacle that is
 being attacked, it usually uses another limb to make its attack of opportunity against the opponent making the
-sunder attempt. Severing one of a giant squid’s tentacles deals 5 points of damage to the creature. A giant squid
+sunder attempt. Severing one of a giant squid's tentacles deals 5 points of damage to the creature. A giant squid
 usually withdraws from combat if it loses five tentacles. The creature regrows severed limbs in 1d10+10 days.
 
 #### Constrict (Ex):
@@ -1929,7 +1935,7 @@ run action while swimming, provided it swims in a straight line.
 | Organization: | Solitary |
 | Challenge Rating: | 4 |
 | Advancement: | 7-12 HD (Large); 13-18 HD (Huge) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These great cats stand more than 3 feet tall at the shoulder and are about 9 feet long. They weigh from 400 to 600
 pounds.
@@ -1960,10 +1966,10 @@ tall grass or heavy undergrowth, the Hide bonus improves to +8.
 | Speed: | 5 ft. (1 square) |
 | Armor Class: | 15 (+4 size, +1 Dex), touch 15, flat-footed 14 |
 | Base Attack/Grapple: | +0/-17 |
-| Attack: | --- |
-| Full Attack: | --- |
+| Attack: | -- |
+| Full Attack: | -- |
 | Space/Reach: | 1 ft./0 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Amphibious, low-light vision |
 | Saves: | Fort +2, Ref +3, Will +2 |
 | Abilities: | Str 1, Dex 12, Con 11, Int 1, Wis 14, Cha 4 |
@@ -1972,12 +1978,12 @@ tall grass or heavy undergrowth, the Hide bonus improves to +8.
 | Environment: | Temperate marshes |
 | Organization: | Swarm (10-100) |
 | Challenge Rating: | 1/10 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 These diminutive amphibians are innocuous and beneficial, since they eat insects.
 #### Skills:
- A toad’s coloration gives it a +4 racial bonus on Hide checks.
+ A toad's coloration gives it a +4 racial bonus on Hide checks.
 ## Weasel
 
 |  | Tiny Animal |
@@ -1999,8 +2005,8 @@ These diminutive amphibians are innocuous and beneficial, since they eat insects
 | Environment: | Temperate hills |
 | Organization: | Solitary |
 | Challenge Rating: | 1/4 |
-| Advancement: | --- |
-| Level Adjustment: | --- |
+| Advancement: | -- |
+| Level Adjustment: | -- |
 
 These little mammals are aggressive predators but usually confine themselves to smaller prey. The statistics
 presented here can also apply to ferrets.
@@ -2009,7 +2015,7 @@ presented here can also apply to ferrets.
 
 #### Attach (Ex):
  If a weasel hits with a bite attack, it uses its powerful jaws to latch onto the
-opponent’s body and automatically deals bite damage each round it remains attached. An attached weasel loses its
+opponent's body and automatically deals bite damage each round it remains attached. An attached weasel loses its
 Dexterity bonus to Armor Class and has an AC of 12. An attached weasel can be struck with a weapon or grappled
 itself. To remove an attached weasel through grappling, the opponent must achieve a pin against the creature.
 
@@ -2026,7 +2032,7 @@ orca presented here) can be vicious predators, attacking virtually anything they
 #### Blindsight (Ex):
  Whales can "see" by emitting high-frequency sounds, inaudible to most other
 creatures, that allow them to locate objects and creatures within 120 feet. A _silence_ spell negates this
-and forces the whale to rely on its vision, which is approximately as good as a human’s.
+and forces the whale to rely on its vision, which is approximately as good as a human's.
 
 #### Hold Breath (Ex):
  A whale can hold its breath for a number of rounds equal to 8 x its
@@ -2049,7 +2055,7 @@ checks. These bonuses are lost if its blindsight is negated.
 | Attack: | Tail slap +17 melee (1d8+18) |
 | Full Attack: | Tail slap +17 melee (1d8+18) |
 | Space/Reach: | 20 ft./15 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Blindsight 120 ft., hold breath, low-light vision |
 | Saves: | Fort +14, Ref +9, Will +5 |
 | Abilities: | Str 35, Dex 13, Con 22, Int 2, Wis 12, Cha 6 |
@@ -2059,7 +2065,7 @@ checks. These bonuses are lost if its blindsight is negated.
 | Organization: | Solitary |
 | Challenge Rating: | 6 |
 | Advancement: | 13-18 HD (Gargantuan); 19-36 HD (Colossal) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 The statistics here describe a plankton-feeding whale between 30 and 60 feet long, such as gray, humpback, and
 right whales. These massive creatures are surprisingly gentle. If harassed or provoked, they are as likely to flee
@@ -2076,7 +2082,7 @@ as they are to retaliate.
 | Attack: | Bite +17 melee (4d6+12) |
 | Full Attack: | Bite +17 melee (4d6+12) and tail slap +12 melee (1d8+6) |
 | Space/Reach: | 20 ft./15 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Blindsight 120 ft., hold breath, low-light vision |
 | Saves: | Fort +15, Ref +9, Will +6 |
 | Abilities: | Str 35, Dex 13, Con 24, Int 2, Wis 14, Cha 6 |
@@ -2086,7 +2092,7 @@ as they are to retaliate.
 | Organization: | Solitary or pod (6-11) |
 | Challenge Rating: | 7 |
 | Advancement: | 13-18 HD (Gargantuan); 19-36 HD (Colossal) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Also known as sperm whales, these creatures can be up to 60 feet long. They prey on giant squids.
 
@@ -2101,7 +2107,7 @@ Also known as sperm whales, these creatures can be up to 60 feet long. They prey
 | Attack: | Bite +12 melee (2d6+12) |
 | Full Attack: | Bite +12 melee (2d6+12) |
 | Space/Reach: | 15 ft./10 ft. |
-| Special Attacks: | --- |
+| Special Attacks: | -- |
 | Special Qualities: | Blindsight 120 ft., hold breath, low-light vision |
 | Saves: | Fort +11, Ref +8, Will +5 |
 | Abilities: | Str 27, Dex 15, Con 21, Int 2, Wis 14, Cha 6 |
@@ -2111,7 +2117,7 @@ Also known as sperm whales, these creatures can be up to 60 feet long. They prey
 | Organization: | Solitary or pod (6-11) |
 | Challenge Rating: | 5 |
 | Advancement: | 10-13 HD (Huge); 14-27 HD (Gargantuan) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These ferocious creatures are about 30 feet long. They eat fish, squid, seals, and other whales.
 ## Wolf
@@ -2136,12 +2142,12 @@ These ferocious creatures are about 30 feet long. They eat fish, squid, seals, a
 | Organization: | Solitary, pair, or pack (7-16) |
 | Challenge Rating: | 1 |
 | Advancement: | 3 HD (Medium); 4-6 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 Wolves are pack hunters known for their persistence and cunning.
 ### Combat
 
-A favorite tactic is to send a few individuals against the foe’s front while the rest of the pack circles and
+A favorite tactic is to send a few individuals against the foe's front while the rest of the pack circles and
 attacks from the flanks or rear.
 
 #### Trip (Ex):
@@ -2173,7 +2179,7 @@ fails, the opponent cannot react to trip the wolf.
 | Organization: | Solitary |
 | Challenge Rating: | 2 |
 | Advancement: | 4-5 HD (Large) |
-| Level Adjustment: | --- |
+| Level Adjustment: | -- |
 
 These creatures are similar to badgers but are bigger, stronger, and even more ferocious.
 ## Combat

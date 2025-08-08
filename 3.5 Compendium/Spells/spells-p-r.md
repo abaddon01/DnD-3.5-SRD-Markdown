@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Spells - Spells (P-R)
-aliases: 3.5 Spells (P-R)
+aliases:
+  - 3.5 Spells (P-R)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - spells
   - spells_p-r
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -114,7 +114,7 @@ Transmutation
 
 You create a passage through wooden, plaster, or stone walls, but not through metal or other harder materials. The
 passage is 10 feet deep plus an additional 5 feet deep per three caster levels above 9th (15 feet at 12th, 20 feet
-at 15th, and a maximum of 25 feet deep at 18th level). If the wall’s thickness is more than the depth of the
+at 15th, and a maximum of 25 feet deep at 18th level). If the wall's thickness is more than the depth of the
 passage created, then a single _passwall_ simply makes a niche or short tunnel. Several
 _passwall_ spells can then form a continuing passage to breach very thick walls. When _passwall_ ends,
 creatures within the passage are ejected out the nearest exit. If someone dispels the _passwall_ or you
@@ -204,7 +204,7 @@ Additionally, the following spells can be cast upon objects or areas only and re
 | _Ghost sound_ | 9th | 500 XP |
 | _Gust of wind_ | 11th | 1,500 XP |
 | _Invisibility_ | 10th | 1,000 XP |
-| _Mage’s private sanctum_ | 13th | 2,500 XP |
+| _Mage's private sanctum_ | 13th | 2,500 XP |
 | _Magic mouth_ | 10th | 1,000 XP |
 | _Phase door_ | 15th | 3,500 XP |
 | _Prismatic sphere_ | 17th | 4,500 XP |
@@ -275,8 +275,8 @@ Illusion (Phantasm) [Fear, Mind-Affecting]
  Yes
 
 You create a phantasmal image of the most fearsome creature imaginable to the subject simply by forming the fears
-of the subject’s subconscious mind into something that its conscious mind can visualize: this most horrible beast.
-Only the spell’s subject can see the phantasmal killer. You see only a vague shape. The target first gets a Will
+of the subject's subconscious mind into something that its conscious mind can visualize: this most horrible beast.
+Only the spell's subject can see the phantasmal killer. You see only a vague shape. The target first gets a Will
 save to recognize the image as unreal. If that save fails, the phantasm touches the subject, and the subject must
 succeed on a Fortitude save or die from fear. Even if the Fortitude save is successful, the subject takes 3d6
 points of damage.
@@ -311,9 +311,9 @@ not fight, but animals shun it and refuse to attack it.
 
 The mount has an AC of 18 (-1 size, +4 natural armor, +5 Dex) and 7 hit points +1 hit point per caster level. If
 it loses all its hit points, the phantom steed disappears. A phantom steed has a speed of 20 feet per caster
-level, to a maximum of 240 feet. It can bear its rider’s weight plus up to 10 pounds per caster level.
+level, to a maximum of 240 feet. It can bear its rider's weight plus up to 10 pounds per caster level.
 
-These mounts gain certain powers according to caster level. A mount’s abilities include those of mounts of lower
+These mounts gain certain powers according to caster level. A mount's abilities include those of mounts of lower
 caster levels.
 
 _8th Level:_ The mount can ride over sandy, muddy, or even swampy ground without difficulty or decrease in
@@ -387,9 +387,9 @@ A _phase door_ is subject to _dispel magic._ If anyone is within the passage whe
 harmlessly ejected just as if he were inside a _passwall_ effect.
 
 You can allow other creatures to use the _phase door_ by setting some triggering condition for the door. Such
-conditions can be as simple or elaborate as you desire. They can be based on a creature’s name, identity, or
+conditions can be as simple or elaborate as you desire. They can be based on a creature's name, identity, or
 alignment, but otherwise must be based on observable actions or qualities. Intangibles such as level, class, Hit
-Dice, and hit points don’t qualify.
+Dice, and hit points don't qualify.
 
 _Phase door_ can be made permanent with a _permanency_ spell.
 ## Planar Ally
@@ -440,8 +440,8 @@ Conjuration (Calling) [see text]
  No
 
 By casting this spell, you request your deity to send you an elemental or outsider (of 6 HD or less) of the
-deity’s choice. If you serve no particular deity, the spell is a general plea answered by a creature sharing your
-philosophical alignment. If you know an individual creature’s name, you may request that individual by speaking
+deity's choice. If you serve no particular deity, the spell is a general plea answered by a creature sharing your
+philosophical alignment. If you know an individual creature's name, you may request that individual by speaking
 the name during the spell (though you might get a different creature anyway).
 
 You may ask the creature to perform one task in exchange for a payment from you. Tasks might range from the simple
@@ -449,7 +449,7 @@ to the complex. You must be able to communicate with the creature called in orde
 
 The creature called requires a payment for its services. This payment can take a variety of forms, from donating
 gold or magic items to an allied temple, to a gift given directly to the creature, to some other action on your
-part that matches the creature’s alignment and goals. Regardless, this payment must be made before the creature
+part that matches the creature's alignment and goals. Regardless, this payment must be made before the creature
 agrees to perform any services. The bargaining takes at least 1 round, so any actions by the creature begin in the
 round after it arrives.
 
@@ -459,7 +459,7 @@ requiring up to one day per caster level, requires a payment of 1,000 gp per HD.
 
 A nonhazardous task requires only half the indicated payment, while an especially hazardous task might require a
 greater gift. Few if any creatures will accept a task that seems suicidal (remember, a called creature actually
-dies when it is killed, unlike a summoned creature). However, if the task is strongly aligned with the creature’s
+dies when it is killed, unlike a summoned creature). However, if the task is strongly aligned with the creature's
 ethos, it may halve or even waive the payment.
 
 At the end of its task, or when the duration bargained for expires, the creature returns to its home plane (after
@@ -519,11 +519,11 @@ Conjuration (Calling) [see text]
  No and Yes; see text
 
 Casting this spell attempts a dangerous act: to lure a creature from another plane to a specifically prepared
-trap, which must lie within the spell’s range. The called creature is held in the trap until it agrees to perform
+trap, which must lie within the spell's range. The called creature is held in the trap until it agrees to perform
 one service in return for its freedom.
 
 To create the trap, you must use a _magic circle_ spell, focused inward. The kind of creature to be bound
-must be known and stated. If you wish to call a specific individual, you must use that individual’s proper name in
+must be known and stated. If you wish to call a specific individual, you must use that individual's proper name in
 casting the spell.
 
 The target creature is allowed a Will saving throw. If the saving throw succeeds, the creature resists the spell.
@@ -536,7 +536,7 @@ calling diagram (see _magic circle against evil_) to make the trap more secure.
 
 If the creature does not break free of the trap, you can keep it bound for as long as you dare. You can attempt to
 compel the creature to perform a service by describing the service and perhaps offering some sort of reward. You
-make a Charisma check opposed by the creature’s Charisma check. The check is assigned a bonus of +0 to +6 based on
+make a Charisma check opposed by the creature's Charisma check. The check is assigned a bonus of +0 to +6 based on
 the nature of the service and the reward. If the creature wins the opposed check, it refuses service. New offers,
 bribes, and the like can be made or the old ones reoffered every 24 hours. This process can be repeated until the
 creature promises to serve, until it breaks free, or until you decide to get rid of it by means of some other
@@ -686,9 +686,9 @@ Transmutation
 This spell functions like _alter self,_ except that you change the willing subject into another form of
 living creature. The new form may be of the same type as the subject or any of the following types: aberration,
 animal, dragon, fey, giant, humanoid, magical beast, monstrous humanoid, ooze, plant, or vermin. The assumed form
-can’t have more Hit Dice than your caster level (or the subject’s HD, whichever is lower), to a maximum of 15 HD
-at 15th level. You can’t cause a subject to assume a form smaller than Fine, nor can you cause a subject to assume
-an incorporeal or gaseous form. The subject’s creature type and subtype (if any) change to match the new form.
+can't have more Hit Dice than your caster level (or the subject's HD, whichever is lower), to a maximum of 15 HD
+at 15th level. You can't cause a subject to assume a form smaller than Fine, nor can you cause a subject to assume
+an incorporeal or gaseous form. The subject's creature type and subtype (if any) change to match the new form.
 
 Upon changing, the subject regains lost hit points as if it had rested for a night (though this healing does not
 restore temporary ability damage and provide other benefits of resting; and changing back does not heal the
@@ -746,12 +746,12 @@ duration is determined by using the following guidelines.
 | 9+ | Permanent | Manticore to shrew |
 
 Unlike _polymorph, polymorph any object_ does grant the creature the Intelligence score of its new form. If
-the original form didn’t have a Wisdom or Charisma score, it gains those scores as appropriate for the new form.
+the original form didn't have a Wisdom or Charisma score, it gains those scores as appropriate for the new form.
 
 Damage taken by the new form can result in the injury or death of the polymorphed creature. In general, damage
 occurs when the new form is changed through physical force.
 
-A nonmagical object cannot be made into a magic item with this spell. Magic items aren’t affected by this spell.
+A nonmagical object cannot be made into a magic item with this spell. Magic items aren't affected by this spell.
 
 This spell cannot create material of great intrinsic value, such as copper, silver, gems, silk, gold, platinum,
 mithral, or adamantine. It also cannot reproduce the special properties of cold iron in order to overcome the
@@ -783,7 +783,7 @@ Enchantment (Compulsion) [Mind-Affecting]
  Yes
 
 You utter a single word of power that causes one creature of your choice to become blinded, whether the creature
-can hear the word or not. The duration of the spell depends on the target’s current hit point total. Any creature
+can hear the word or not. The duration of the spell depends on the target's current hit point total. Any creature
 that currently has 201 or more hit points is unaffected by
 _power word blind_.
 
@@ -836,7 +836,7 @@ Enchantment (Compulsion) [Mind-Affecting]
  Yes
 
 You utter a single word of power that instantly causes one creature of your choice to become stunned, whether the
-creature can hear the word or not. The duration of the spell depends on the target’s current hit point total. Any
+creature can hear the word or not. The duration of the spell depends on the target's current hit point total. Any
 creature that currently has 151 or more hit points is unaffected by _power word stun_.
 
 | Hit Points | Duration |
@@ -912,9 +912,9 @@ This spell functions like _prismatic wall,_ except you conjure up an immobile, o
 multicolored light that surrounds you and protects you from all forms of attack. The sphere flashes in all colors
 of the visible spectrum.
 
-The sphere’s _blindness_ effect on creatures with less than 8 HD lasts 2d4x10 minutes.
+The sphere's _blindness_ effect on creatures with less than 8 HD lasts 2d4x10 minutes.
 
-You can pass into and out of the _prismatic sphere_ and remain near it without harm. However, when you’re
+You can pass into and out of the _prismatic sphere_ and remain near it without harm. However, when you're
 inside it, the sphere blocks any attempt to project something through the sphere (including spells). Other
 creatures that attempt to attack you or pass through suffer the effects of each color, one at a time.
 
@@ -978,12 +978,12 @@ Abjuration
 ### Spell Resistance:
  See text
 
-_Prismatic wall_ creates a vertical, opaque wall---a shimmering, multicolored plane of light that protects you
+_Prismatic wall_ creates a vertical, opaque wall--a shimmering, multicolored plane of light that protects you
 from all forms of attack. The wall flashes with seven colors, each of which has a distinct power and purpose. The
 wall is immobile, and you can pass through and remain near the wall without harm. However, any other creature with
 less than 8 HD that is within 20 feet of the wall is blinded for 2d4 rounds by the colors if it looks at the wall.
 
-The wall’s maximum proportions are 4 feet wide per caster level and 2 feet high per caster level. A
+The wall's maximum proportions are 4 feet wide per caster level and 2 feet high per caster level. A
 _prismatic wall_ spell cast to materialize in a space occupied by a creature is disrupted, and the spell is
 wasted.
 
@@ -993,7 +993,7 @@ needed to negate each color.
 
 The wall can be destroyed, color by color, in consecutive order, by various magical effects; however, the first
 color must be brought down before the second can be affected, and so on. A
-_rod of cancellation_ or a_mage’s disjunction_ spell destroys a _prismatic wall_, but an
+_rod of cancellation_ or a_mage's disjunction_ spell destroys a _prismatic wall_, but an
 _antimagic field_ fails to penetrate it. _Dispel magic_ and _greater dispel magic_ cannot dispel
 the wall or anything beyond it. Spell resistance is effective against a _prismatic wall_, but the caster
 level check must be repeated for each color present.
@@ -1049,7 +1049,7 @@ Illusion (Figment)
 ### Duration:
  Permanent until triggered, then 1 round/level
 
-This spell functions like _silent image,_ except that this spell’s figment activates when a specific
+This spell functions like _silent image,_ except that this spell's figment activates when a specific
 condition occurs. The figment includes visual, auditory, olfactory, and thermal elements, including intelligible
 speech.
 
@@ -1088,7 +1088,7 @@ you can switch from using its senses to using your own, or back again, as a free
 senses, your body is considered blinded and deafened.
 
 If you desire, any spell you cast whose range is touch or greater can originate from the projected image instead
-of from you. The projected image can’t cast any spells on itself except for illusion spells. The spells affect
+of from you. The projected image can't cast any spells on itself except for illusion spells. The spells affect
 other targets normally, despite originating from the projected image.
 
 Objects are affected by the projected image as if they had succeeded on their Will save.
@@ -1119,7 +1119,7 @@ Abjuration
  Yes (harmless)
 
 The warded creature gains resistance to ranged weapons. The subject gains damage reduction 10/magic against ranged
-weapons. (This spell doesn’t grant you the ability to damage creatures with similar damage reduction.) Once the
+weapons. (This spell doesn't grant you the ability to damage creatures with similar damage reduction.) Once the
 spell has prevented a total of 10 points of damage per caster level (maximum 100 points), it is discharged.
 
 _Focus:_ A piece of shell from a tortoise or a turtle.
@@ -1269,7 +1269,7 @@ You create a number of semitangible, visible magical orbs (called "eyes") equal 
 eyes move out, scout around, and return as you direct them when casting the spell. Each eye can see 120 feet
 (normal vision only) in all directions.
 
-While the individual eyes are quite fragile, they’re small and difficult to spot. Each eye is a Fine construct,
+While the individual eyes are quite fragile, they're small and difficult to spot. Each eye is a Fine construct,
 about the size of a small apple, that has 1 hit point, AC 18 (+8 bonus for its size), flies at a speed of 30 feet
 with perfect maneuverability, and has a +16 Hide modifier. It has a Spot modifier equal to your caster level
 (maximum +15) and is subject to illusions, darkness, fog, and any other factors that would affect your ability to
@@ -1283,7 +1283,7 @@ during its existence. It takes an eye 1 round to replay 1 hour of recorded image
 eye disappears.
 
 If an eye ever gets more than 1 mile away from you, it instantly ceases to exist. However, your link with the eye
-is such that you won’t know if the eye was destroyed because it wandered out of range or because of some other
+is such that you won't know if the eye was destroyed because it wandered out of range or because of some other
 event.
 
 The eyes exist for up to 1 hour per caster level or until they return to you. _Dispel magic_ can destroy
@@ -1298,7 +1298,7 @@ Divination
 
 This spell functions like _prying eyes,_ except that the eyes can see all things as they actually are, just
 as if they had _true seeing_ with a range of 120 feet. Thus, they can navigate darkened areas at full normal
-speed. Also, a _greater prying eye_’s maximum Spot modifier is +25 instead of +15.
+speed. Also, a _greater prying eye_'s maximum Spot modifier is +25 instead of +15.
 
 ## Purify Food and Drink
 Transmutation
@@ -1417,7 +1417,7 @@ apart
  Yes
 
 Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and
-a -2 penalty to AC. The effect is otherwise identical with a barbarian’s rage except that the subjects aren’t
+a -2 penalty to AC. The effect is otherwise identical with a barbarian's rage except that the subjects aren't
 fatigued at the end of the rage.
 
 ## Rainbow Pattern
@@ -1441,14 +1441,14 @@ Illusion (Pattern) [Mind-Affecting]
 
 A glowing, rainbow-hued pattern of interweaving colors fascinates those within it.
 _Rainbow pattern_ fascinates a maximum of 24 Hit Dice of creatures. Creatures with the fewest HD are affected
-first. Among creatures with equal HD, those who are closest to the spell’s point of origin are affected first. An
+first. Among creatures with equal HD, those who are closest to the spell's point of origin are affected first. An
 affected creature that fails its saves is fascinated by the pattern.
 
 With a simple gesture (a free action), you can make the rainbow pattern move up to 30 feet per round (moving its
 effective point of origin). All fascinated creatures follow the moving rainbow of light, trying to get or remain
 within the effect. Fascinated creatures who are restrained and removed from the pattern still try to follow it. If
 the pattern leads its subjects into a dangerous area each fascinated creature gets a second save. If the view of
-the lights is completely blocked creatures who can’t see them are no longer affected.
+the lights is completely blocked creatures who can't see them are no longer affected.
 
 The spell does not affect sightless creatures.
 
@@ -1477,26 +1477,26 @@ Conjuration (Healing)
  Yes (harmless)
 
 You restore life to a deceased creature. You can raise a creature that has been dead for no longer than one day
-per caster level. In addition, the subject’s soul must be free and willing to return. If the subject’s soul is not
+per caster level. In addition, the subject's soul must be free and willing to return. If the subject's soul is not
 willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.
 
 Coming back from the dead is an ordeal. The subject of the spell loses one level (or 1 Hit Die) when it is raised,
 just as if it had lost a level or a Hit Die to an energy-draining creature. If the subject is 1st level, it loses
-2 points of Constitution instead (if this would reduce its Con to 0 or less, it can’t be raised). This level/HD
+2 points of Constitution instead (if this would reduce its Con to 0 or less, it can't be raised). This level/HD
 loss or Constitution loss cannot be repaired by any means. A character who died with spells prepared has a 50%
 chance of losing any given spell upon being raised, in addition to losing spells for losing a level. A
-spellcasting creature that doesn’t prepare spells (such as a sorcerer) has a 50% chance of losing any given unused
+spellcasting creature that doesn't prepare spells (such as a sorcerer) has a 50% chance of losing any given unused
 spell slot as if it had been used to cast a spell, in addition to losing spell slots for losing a level.
 
 A raised creature has a number of hit points equal to its current Hit Dice. Any ability scores damaged to 0 are
 raised to 1. Normal poison and normal disease are cured in the process of raising the subject, but magical
 diseases and curses are not undone. While the spell closes mortal wounds and repairs lethal damage of most kinds,
 the body of the creature to be raised must be whole. Otherwise, missing parts are still missing when the creature
-is brought back to life. None of the dead creature’s equipment or possessions are affected in any way by this
+is brought back to life. None of the dead creature's equipment or possessions are affected in any way by this
 spell.
 
-A creature who has been turned into an undead creature or killed by a death effect can’t be raised by this spell.
-Constructs, elementals, outsiders, and undead creatures can’t be raised. The spell cannot bring back a creature
+A creature who has been turned into an undead creature or killed by a death effect can't be raised by this spell.
+Constructs, elementals, outsiders, and undead creatures can't be raised. The spell cannot bring back a creature
 that has died of old age.
 
 _Material Component:_ Diamonds worth a total of least 5,000 gp.
@@ -1520,7 +1520,7 @@ Necromancy
  Yes
 
 A coruscating ray springs from your hand. You must succeed on a ranged touch attack to strike a target. The
-subject takes a penalty to Strength equal to 1d6+1 per two caster levels (maximum 1d6+5). The subject’s Strength
+subject takes a penalty to Strength equal to 1d6+1 per two caster levels (maximum 1d6+5). The subject's Strength
 score cannot drop below 1.
 
 ## Ray of Exhaustion
@@ -1545,13 +1545,13 @@ Necromancy
 A black ray projects from your pointing finger. You must succeed on a ranged touch attack with the ray to strike a
 target.
 
-The subject is immediately exhausted for the spell’s duration. A successful Fortitude save means the creature is
+The subject is immediately exhausted for the spell's duration. A successful Fortitude save means the creature is
 only fatigued.
 
 A character that is already fatigued instead becomes exhausted.
 
 This spell has no effect on a creature that is already exhausted. Unlike normal exhaustion or fatigue, the effect
-ends as soon as the spell’s duration expires.
+ends as soon as the spell's duration expires.
 
 _Material Component:_ A drop of sweat.
 ## Ray of Frost
@@ -1591,8 +1591,8 @@ Divination
 ### Duration:
  10 min./level
 
-By means of _read magic,_ you can decipher magical inscriptions on objects---books, scrolls, weapons, and the
-like---that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the
+By means of _read magic,_ you can decipher magical inscriptions on objects--books, scrolls, weapons, and the
+like--that would otherwise be unintelligible. This deciphering does not normally invoke the magic contained in the
 writing, although it may do so in the case of a cursed scroll. Furthermore, once the spell is cast and you have
 read the magical inscription, you are thereafter able to read that particular writing without recourse to the use
 of _read magic._ You can read at the rate of one page (250 words) per minute. The spell allows you to
@@ -1621,7 +1621,7 @@ Transmutation
  No
 
 This spell functions like _reduce person,_ except that it affects a single willing animal. Reduce the damage
-dealt by the animal’s natural attacks as appropriate for its new size.
+dealt by the animal's natural attacks as appropriate for its new size.
 
 ## Reduce Person
 Transmutation
@@ -1643,18 +1643,18 @@ Transmutation
  Yes
 
 This spell causes instant diminution of a humanoid creature, halving its height, length, and width and dividing
-its weight by 8. This decrease changes the creature’s size category to the next smaller one. The target gains a +2
+its weight by 8. This decrease changes the creature's size category to the next smaller one. The target gains a +2
 size bonus to Dexterity, a -2 size penalty to Strength (to a minimum of 1), and a +1 bonus on attack rolls and AC
 due to its reduced size.
 
 A Small humanoid creature whose size decreases to Tiny has a space of 2-1/2 feet and a natural reach of 0 feet
-(meaning that it must enter an opponent’s square to attack). A Large humanoid creature whose size decreases to
-Medium has a space of 5 feet and a natural reach of 5 feet. This spell doesn’t change the target’s speed.
+(meaning that it must enter an opponent's square to attack). A Large humanoid creature whose size decreases to
+Medium has a space of 5 feet and a natural reach of 5 feet. This spell doesn't change the target's speed.
 
 All equipment worn or carried by a creature is similarly reduced by the spell.
 
 Melee and projectile weapons deal less damage. Other magical properties are not affected by this spell. Any
-_reduced_ item that leaves the _reduced_ creature’s possession (including a projectile or thrown weapon)
+_reduced_ item that leaves the _reduced_ creature's possession (including a projectile or thrown weapon)
 instantly returns to its normal size. This means that thrown weapons deal their normal damage (projectiles deal
 damage based on the size of the weapon that fired them).
 
@@ -1694,7 +1694,7 @@ its possessor across any distance within the same plane to your abode. Once the 
 it willingly to a creature and at the same time inform it of a command word to be spoken when the item is used. To
 make use of the item, the subject speaks the command word at the same time that it rends or breaks the item (a
 standard action). When this is done, the individual and all objects it is wearing and carrying (to a maximum of
-the character’s heavy load) are instantly transported to your abode. No other creatures are affected (aside from a
+the character's heavy load) are instantly transported to your abode. No other creatures are affected (aside from a
 familiar that is touching the subject).
 
 You can alter the spell when casting it so that it transports you to within 10 feet of the possessor of the item
@@ -1722,7 +1722,7 @@ Conjuration (Healing)
 ### Spell Resistance:
  Yes (harmless)
 
-The subject’s severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multiheaded
+The subject's severed body members (fingers, toes, hands, feet, arms, legs, tails, or even heads of multiheaded
 creatures), broken bones, and ruined organs grow back. After the spell is cast, the physical regeneration is
 complete in 1 round if the severed members are present and touching the creature. It takes 2d10 rounds otherwise.
 
@@ -1750,32 +1750,32 @@ Transmutation
  Yes (harmless)
 
 With this spell, you bring back a dead creature in another body, provided that its death occurred no more than one
-week before the casting of the spell and the subject’s soul is free and willing to return. If the subject’s soul
+week before the casting of the spell and the subject's soul is free and willing to return. If the subject's soul
 is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving
 throw.
 
 Since the dead creature is returning in a new body, all physical ills and afflictions are repaired. The condition
-of the remains is not a factor. So long as some small portion of the creature’s body still exists, it can be
-reincarnated, but the portion receiving the spell must have been part of the creature’s body at the time of death.
+of the remains is not a factor. So long as some small portion of the creature's body still exists, it can be
+reincarnated, but the portion receiving the spell must have been part of the creature's body at the time of death.
 The magic of the spell creates an entirely new young adult body for the soul to inhabit from the natural elements
 at hand. This process takes 1 hour to complete. When the body is ready, the subject is reincarnated.
 
 A reincarnated creature recalls the majority of its former life and form. It retains any class abilities, feats,
 or skill ranks it formerly possessed. Its class, base attack bonus, base save bonuses, and hit points are
 unchanged. Strength, Dexterity, and Constitution scores depend partly on the new body. First eliminate the
-subject’s racial adjustments (since it is no longer of his previous race) and then apply the adjustments found
-below to its remaining ability scores. The subject’s level (or Hit Dice) is reduced by 1. If the subject was 1st
-level, its new Constitution score is reduced by 2. (If this reduction would put its Con at 0 or lower, it can’t be
+subject's racial adjustments (since it is no longer of his previous race) and then apply the adjustments found
+below to its remaining ability scores. The subject's level (or Hit Dice) is reduced by 1. If the subject was 1st
+level, its new Constitution score is reduced by 2. (If this reduction would put its Con at 0 or lower, it can't be
 reincarnated). This level/HD loss or Constitution loss cannot be repaired by any means.
 
-It’s possible for the change in the subject’s ability scores to make it difficult for it to pursue its previous
+It's possible for the change in the subject's ability scores to make it difficult for it to pursue its previous
 character class. If this is the case, the subject is well advised to become a multiclass character.
 
 For a humanoid creature, the new incarnation is determined using the following table. For nonhumanoid creatures, a
 similar table of creatures of the same type should be created.
 
-A creature that has been turned into an undead creature or killed by a death effect can’t be returned to life by
-this spell. Constructs, elementals, outsiders, and undead creatures can’t be reincarnated. The spell cannot bring
+A creature that has been turned into an undead creature or killed by a death effect can't be returned to life by
+this spell. Constructs, elementals, outsiders, and undead creatures can't be reincarnated. The spell cannot bring
 back a creature who has died of old age.
 
 | d% | Incarnation | Str | Dex | Con |
@@ -1797,7 +1797,7 @@ back a creature who has died of old age.
 | 100 | Other | ? | ? | ? |
 
 The reincarnated creature gains all abilities associated with its new form, including forms of movement and
-speeds, natural armor, natural attacks, extraordinary abilities, and the like, but it doesn’t automatically speak
+speeds, natural armor, natural attacks, extraordinary abilities, and the like, but it doesn't automatically speak
 the language of the new form.
 
 A _wish_ or a _miracle_ spell can restore a reincarnated character to his or her original form.
@@ -1874,7 +1874,7 @@ _Remove disease_ cures all diseases that the subject is suffering from. The spel
 including green slime and others. Certain special diseases may not be countered by this spell or may be countered
 only by a caster of a certain level or higher.
 
-_Note:_ Since the spell’s duration is instantaneous, it does not prevent reinfection after a new exposure
+_Note:_ Since the spell's duration is instantaneous, it does not prevent reinfection after a new exposure
 to the same disease at a later date.
 
 ## Remove Fear
@@ -1924,7 +1924,7 @@ Conjuration (Healing)
  Yes (harmless)
 
 You can free one or more creatures from the effects of any temporary paralysis or related magic, including a
-ghoul’s touch or a
+ghoul's touch or a
 _slow_ spell. If the spell is cast on one creature, the paralysis is negated. If cast on two creatures, each
 receives another save with a +4 resistance bonus against the effect that afflicts it. If cast on three or four
 creatures, each receives another save with a +2 resistance bonus.
@@ -1959,8 +1959,8 @@ the spell are repelled at the rate of 40 feet per round.
 Objects such as metal armor, swords, and the like are pushed back, dragging their bearers with them. Even magic
 items with metal components are repelled, although an _antimagic field_ blocks the effects.
 
-The waves of energy continue to sweep down the set path for the spell’s duration. After you cast the spell, the
-path is set, and you can then do other things or go elsewhere without affecting the spell’s power.
+The waves of energy continue to sweep down the set path for the spell's duration. After you cast the spell, the
+path is set, and you can then do other things or go elsewhere without affecting the spell's power.
 
 ## Repel Vermin
 Abjuration
@@ -2019,8 +2019,8 @@ being dragged by a shield can loose it as a move action and drop it as a free ac
 to prevent this forced movement, it splinters. Even magic items with wooden sections are repelled, although an
 _antimagic field_ blocks the effects.
 
-The waves of energy continue to sweep down the set path for the spell’s duration. After you cast the spell, the
-path is set, and you can then do other things or go elsewhere without affecting the spell’s power.
+The waves of energy continue to sweep down the set path for the spell's duration. After you cast the spell, the
+path is set, and you can then do other things or go elsewhere without affecting the spell's power.
 
 ## Repulsion
 Abjuration
@@ -2043,13 +2043,13 @@ Abjuration
 
 An invisible, mobile field surrounds you and prevents creatures from approaching you. You decide how big the field
 is at the time of casting (to the limit your level allows). Any creature within or entering the field must attempt
-a save. If it fails, it becomes unable to move toward you for the duration of the spell. Repelled creatures’
+a save. If it fails, it becomes unable to move toward you for the duration of the spell. Repelled creatures'
 actions are not otherwise restricted.
 
 They can fight other creatures and can cast spells and attack you with ranged weapons. If you move closer to an
 affected creature, nothing happens. (The creature is not forced back.) The creature is free to make melee attacks
 against you if you come within reach. If a repelled creature moves away from you and then tries to turn back
-toward you, it cannot move any closer if it is still within the spell’s area.
+toward you, it cannot move any closer if it is still within the spell's area.
 
 _Arcane Focus:_ A pair of small iron bars attached to two small canine statuettes, one black and one white,
 the whole array worth 50 gp.
@@ -2074,7 +2074,7 @@ Evocation [Force]
  Yes
 
 A globe of shimmering force encloses a creature, provided the creature is small enough to fit within the diameter
-of the sphere. The sphere contains its subject for the spell’s duration. The sphere is not subject to damage of
+of the sphere. The sphere contains its subject for the spell's duration. The sphere is not subject to damage of
 any sort except from a _rod of cancellation_, a rod _of negation_, a _disintegrate_ spell, or a
 targeted _dispel magic_ spell. These effects destroy the sphere without harm to the subject. Nothing can pass
 through the sphere, inside or out, though the subject can breathe normally.
@@ -2130,9 +2130,9 @@ Abjuration
 This abjuration grants a creature limited protection from damage of whichever one of five energy types you select:
 acid, cold, electricity, fire, or sonic. The subject gains energy resistance 10 against the energy type chosen,
 meaning that each time the creature is subjected to such damage (whether from a natural or magical source), that
-damage is reduced by 10 points before being applied to the creature’s hit points. The value of the energy
+damage is reduced by 10 points before being applied to the creature's hit points. The value of the energy
 resistance granted increases to 20 points at 7th level and to a maximum of 30 points at 11th level. The spell
-protects the recipient’s equipment as well.
+protects the recipient's equipment as well.
 
 _Resist energy_ absorbs only damage. The subject could still suffer unfortunate side effects.
 
@@ -2173,7 +2173,7 @@ healed creature. This effect also reverses level drains by a force or creature, 
 highest level it had previously attained. The drained levels are restored only if the time since the creature lost
 the level is no more than one week per caster level.
 
-_Greater restoration_ also dispels all magical effects penalizing the creature’s abilities, cures all
+_Greater restoration_ also dispels all magical effects penalizing the creature's abilities, cures all
 temporary ability damage, and restores all points permanently drained from all ability scores. It also eliminates
 fatigue and exhaustion, and removes all forms of insanity, _confusion,_ and similar mental effects.
 _Greater restoration_ does not restore levels or Constitution points lost due to death.
@@ -2198,8 +2198,8 @@ Conjuration (Healing)
 ### Spell Resistance:
  Yes (harmless)
 
-_Lesser restoration_ dispels any magical effects reducing one of the subject’s ability scores or cures 1d4
-points of temporary ability damage to one of the subject’s ability scores. It also eliminates any fatigue suffered
+_Lesser restoration_ dispels any magical effects reducing one of the subject's ability scores or cures 1d4
+points of temporary ability damage to one of the subject's ability scores. It also eliminates any fatigue suffered
 by the character, and improves an exhausted condition to fatigued. It does not restore permanent ability drain.
 
 ## Resurrection
@@ -2212,20 +2212,20 @@ Conjuration (Healing)
 This spell functions like _raise dead,_ except that you are able to restore life and complete strength to any
 deceased creature.
 
-The condition of the remains is not a factor. So long as some small portion of the creature’s body still exists,
-it can be resurrected, but the portion receiving the spell must have been part of the creature’s body at the time
+The condition of the remains is not a factor. So long as some small portion of the creature's body still exists,
+it can be resurrected, but the portion receiving the spell must have been part of the creature's body at the time
 of death. (The remains of a creature hit by a
 _disintegrate_ spell count as a small portion of its body.) The creature can have been dead no longer than 10
 years per caster level.
 
 Upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no
 loss of prepared spells. However, the subject loses one level, or 2 points of Constitution if the subject was 1st
-level. (If this reduction would bring its Con to 0 or lower, it can’t be resurrected). This level loss or
+level. (If this reduction would bring its Con to 0 or lower, it can't be resurrected). This level loss or
 Constitution loss cannot be repaired by any means.
 
 You can resurrect someone killed by a death effect or someone who has been turned into an undead creature and then
 destroyed. You cannot resurrect someone who has died of old age. Constructs, elementals, outsiders, and undead
-creatures can’t be resurrected.
+creatures can't be resurrected.
 
 _Material Component:_ A sprinkle of holy water and diamonds worth a total of at least 10,000 gp.
 ## Reverse Gravity
@@ -2277,12 +2277,12 @@ category to the next larger one, and you gain a +8 size bonus to Strength and a 
 gain a +4 enhancement bonus to your natural armor. You gain damage reduction 5/evil (if you normally channel
 positive energy) or damage reduction 5/good (if you normally channel negative energy). At 12th level this damage
 reduction becomes 10/evil or 10/good, and at 15th level it becomes 15/evil or 15/good (the maximum). Your size
-modifier for AC and attacks changes as appropriate to your new size category. This spell doesn’t change your
+modifier for AC and attacks changes as appropriate to your new size category. This spell doesn't change your
 speed. Determine space and reach as appropriate to your new size.
 
 If insufficient room is available for the desired growth, you attain the maximum possible size and may make a
 Strength check (using your increased Strength) to burst any enclosures in the process. If you fail, you are
-constrained without harm by the materials enclosing you--- the spell cannot crush you by increasing your size.
+constrained without harm by the materials enclosing you-- the spell cannot crush you by increasing your size.
 
 All equipment you wear or carry is similarly enlarged by the spell. Melee and projectile weapons deal more damage.
 Other magical properties are not affected by this spell. Any enlarged item that leaves your possession (including
@@ -2320,7 +2320,7 @@ can pull the rope free.
 
 Spells cannot be cast across the extradimensional interface, nor can area effects cross it. Those in the
 extradimensional space can see out of it as if a 3-foot-by- 5-foot window were centered on the rope. The window is
-present on the Material Plane, but it’s invisible, and even creatures that can see the window can’t see through
+present on the Material Plane, but it's invisible, and even creatures that can see the window can't see through
 it. Anything inside the extradimensional space drops out when the spell ends. The rope can be climbed by only one
 person at a time. The _rope trick_ spell enables climbers to reach a normal place if they do not climb all
 the way to the extradimensional space.
@@ -2362,7 +2362,7 @@ protection the armor offered) through corrosion.
 Weapons in use by an opponent targeted by the spell are more difficult to grasp. You must succeed on a melee touch
 attack against the weapon. A metal weapon that is hit is destroyed.
 
-_Note:_ Striking at an opponent’s weapon provokes an attack of opportunity. Also, you must touch the weapon
+_Note:_ Striking at an opponent's weapon provokes an attack of opportunity. Also, you must touch the weapon
 and not the other way around.
 
 Against a ferrous creature, _rusting grasp_ instantaneously deals 3d6 points of damage +1 per caster level

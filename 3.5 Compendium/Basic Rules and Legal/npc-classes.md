@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - NPC Classes
-aliases: 3.5 NPC Classes
+aliases:
+  - 3.5 NPC Classes
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - npc_classes
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -37,7 +37,7 @@ This material is Open Game Content, and is licensed for public use under the ter
  d6.
 ### Class Skills
 
-The adept’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Handle Animal
+The adept's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Handle Animal
 (Cha), Heal (Wis), Knowledge (all skills taken individually) (Int), Profession (Wis), Spellcraft (Int), and
 Survival (Wis).
 
@@ -51,21 +51,21 @@ Survival (Wis).
 |  |  |  |  |  |  | Spells per Day |
 | --- | --- | --- | --- | --- | --- | --- |
 | NPC Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | 0 | 1st | 2nd | 3rd | 4th | 5th |
-| 1st | +0 | +0 | +0 | +2 |  | 3 | 1 | --- | --- | --- | --- |
-| 2nd | +1 | +0 | +0 | +3 | Summon familiar | 3 | 1 | --- | --- | --- | --- |
-| 3rd | +1 | +1 | +1 | +3 |  | 3 | 2 | --- | --- | --- | --- |
-| 4th | +2 | +1 | +1 | +4 |  | 3 | 2 | 0 | --- | --- | --- |
-| 5th | +2 | +1 | +1 | +4 |  | 3 | 2 | 1 | --- | --- | --- |
-| 6th | +3 | +2 | +2 | +5 |  | 3 | 2 | 1 | --- | --- | --- |
-| 7th | +3 | +2 | +2 | +5 |  | 3 | 3 | 2 | --- | --- | --- |
-| 8th | +4 | +2 | +2 | +6 |  | 3 | 3 | 2 | 0 | --- | --- |
-| 9th | +4 | +3 | +3 | +6 |  | 3 | 3 | 2 | 1 | --- | --- |
-| 10th | +5 | +3 | +3 | +7 |  | 3 | 3 | 2 | 1 | --- | --- |
-| 11th | +5 | +3 | +3 | +7 |  | 3 | 3 | 3 | 2 | --- | --- |
-| 12th | +6/+1 | +4 | +4 | +8 |  | 3 | 3 | 3 | 2 | 0 | --- |
-| 13th | +6/+1 | +4 | +4 | +8 |  | 3 | 3 | 3 | 2 | 1 | --- |
-| 14th | +7/+2 | +4 | +4 | +9 |  | 3 | 3 | 3 | 2 | 1 | --- |
-| 15th | +7/+2 | +5 | +5 | +9 |  | 3 | 3 | 3 | 3 | 2 | --- |
+| 1st | +0 | +0 | +0 | +2 |  | 3 | 1 | -- | -- | -- | -- |
+| 2nd | +1 | +0 | +0 | +3 | Summon familiar | 3 | 1 | -- | -- | -- | -- |
+| 3rd | +1 | +1 | +1 | +3 |  | 3 | 2 | -- | -- | -- | -- |
+| 4th | +2 | +1 | +1 | +4 |  | 3 | 2 | 0 | -- | -- | -- |
+| 5th | +2 | +1 | +1 | +4 |  | 3 | 2 | 1 | -- | -- | -- |
+| 6th | +3 | +2 | +2 | +5 |  | 3 | 2 | 1 | -- | -- | -- |
+| 7th | +3 | +2 | +2 | +5 |  | 3 | 3 | 2 | -- | -- | -- |
+| 8th | +4 | +2 | +2 | +6 |  | 3 | 3 | 2 | 0 | -- | -- |
+| 9th | +4 | +3 | +3 | +6 |  | 3 | 3 | 2 | 1 | -- | -- |
+| 10th | +5 | +3 | +3 | +7 |  | 3 | 3 | 2 | 1 | -- | -- |
+| 11th | +5 | +3 | +3 | +7 |  | 3 | 3 | 3 | 2 | -- | -- |
+| 12th | +6/+1 | +4 | +4 | +8 |  | 3 | 3 | 3 | 2 | 0 | -- |
+| 13th | +6/+1 | +4 | +4 | +8 |  | 3 | 3 | 3 | 2 | 1 | -- |
+| 14th | +7/+2 | +4 | +4 | +9 |  | 3 | 3 | 3 | 2 | 1 | -- |
+| 15th | +7/+2 | +5 | +5 | +9 |  | 3 | 3 | 3 | 3 | 2 | -- |
 | 16th | +8/+3 | +5 | +5 | +10 |  | 3 | 3 | 3 | 3 | 2 | 0 |
 | 17th | +8/+3 | +5 | +5 | +10 |  | 3 | 3 | 3 | 3 | 2 | 1 |
 | 18th | +9/+4 | +6 | +6 | +11 |  | 3 | 3 | 3 | 3 | 2 | 1 |
@@ -85,7 +85,7 @@ a cleric, an adept must choose and prepare her spells in advance. Unlike a cleri
 cast _cure_ or _inflict_ spells.
 
 To prepare or cast a spell, an adept must have a Wisdom score equal to at least 10 + the spell level. The
-Difficulty Class for a saving throw against an adept’s spell is 10 + the spell level + the adept’s Wisdom
+Difficulty Class for a saving throw against an adept's spell is 10 + the spell level + the adept's Wisdom
 modifier.
 
 Adepts, unlike wizards, do not acquire their spells from books or scrolls, nor do they prepare them through study.
@@ -101,7 +101,7 @@ high Wisdom score.
 When Table: The Adept indicates that the adept gets 0 spells per day of a given spell level, she gains only the
 bonus spells she would be entitled to based on her Wisdom score for that spell level.
 
-Each adept has a particular holy symbol (as a divine focus) depending on the adept’s magical tradition.
+Each adept has a particular holy symbol (as a divine focus) depending on the adept's magical tradition.
 
 ### Summon Familiar:
  At 2nd level, an adept can call a familiar, just as a sorcerer or wizard can.
@@ -116,7 +116,7 @@ _create water, cure minor wounds, detect magic, ghost sound, guidance, light, me
 _bless, burning hands, cause fear, command, comprehend languages, cure light wounds, detect chaos, detect evil, detect good, detect law, endure elements, obscuring mist, protection from chaos, protection from evil, protection from good, protection from law, sleep._
 
 2nd Level:
-_aid, animal trance, bear’s endurance, bull’s strength, cat’s grace, cure moderate wounds, darkness, delay poison, invisibility, mirror image, resist energy, scorching ray, see invisibility, web._
+_aid, animal trance, bear's endurance, bull's strength, cat's grace, cure moderate wounds, darkness, delay poison, invisibility, mirror image, resist energy, scorching ray, see invisibility, web._
 
 3rd Level:
 _animate dead, bestow curse, contagion, continual flame, cure serious wounds, daylight, deeper darkness, lightning bolt, neutralize poison, remove curse, remove disease, tongues._
@@ -132,7 +132,7 @@ _baleful polymorph, break enchantment, commune, heal, major creation, raise dead
  d8.
 ### Class Skills
 
-The aristocrat’s class skills (and the key ability for each skill) are Appraise (Int), Bluff (Cha), Diplomacy
+The aristocrat's class skills (and the key ability for each skill) are Appraise (Int), Bluff (Cha), Diplomacy
 (Cha), Disguise (Cha), Forgery (Int), Gather Information (Cha), Handle Animal (Cha), Intimidate (Cha), Knowledge
 (all skills taken individually) (Int), Listen (Wis), Perform (Cha), Ride (Dex), Sense Motive (Wis), Speak
 Language, Spot (Wis), Swim (Str), and Survival (Wis).
@@ -179,7 +179,7 @@ weapons and with all types of armor and shields.
  d4.
 ### Class Skills
 
-The commoner’s class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Handle Animal
+The commoner's class skills (and the key ability for each skill) are Climb (Str), Craft (Int), Handle Animal
 (Cha), Jump (Str), Listen (Wis), Profession (Wis), Ride (Dex), Spot (Wis), Swim (Str), and Use Rope (Dex).
 
 ### Skill Points at 1st Level:
@@ -266,7 +266,7 @@ light armor but not shields.
  d8.
 ### Class Skills
 
-The warrior’s class skills (and the key ability for each skill) are Climb (Str), Handle Animal (Cha), Intimidate
+The warrior's class skills (and the key ability for each skill) are Climb (Str), Handle Animal (Cha), Intimidate
 (Cha), Jump (Str), Ride (Dex), and Swim (Str).
 
 ### Skill Points at 1st Level:

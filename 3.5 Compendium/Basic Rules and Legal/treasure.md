@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Treasure
-aliases: 3.5 Treasure
+aliases:
+  - 3.5 Treasure
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - treasure
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -22,7 +22,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 
 Every monster has a treasure rating (indicating how much treasure it has, although for some creatures the rating
 is "None"). The tables found below are used to determine the specifics. After referencing the level and kind of
-treasure (coins, goods, items) found in the creature’s description, roll on the appropriate row and columns of the
+treasure (coins, goods, items) found in the creature's description, roll on the appropriate row and columns of the
 proper table.
 
 When generating an encounter dealing with monsters away from their lair, remember that a creature only takes what
@@ -67,89 +67,89 @@ On average, the PCs should earn one treasure suitable to their level for each en
 
 | Level | d% | Coins | d% | Goods | d% | Items |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 01-14 | --- | 01-90 | --- | 01-71 | --- |
+| 1st | 01-14 | -- | 01-90 | -- | 01-71 | -- |
 |  | 15-29 | 1d6 x 1,000 cp | 91-95 | 1 gem | 72-95 | 1 mundane |
 |  | 30-52 | 1d8 x 100 sp | 96-100 | 1 art | 96-100 | 1 minor |
 |  | 53-95 | 2d8 x 10 gp |  |  |  |  |
 |  | 96-100 | 1d4 x 10 pp |  |  |  |  |
-| 2nd | 01-13 | --- | 01-81 | --- | 01-49 | --- |
+| 2nd | 01-13 | -- | 01-81 | -- | 01-49 | -- |
 |  | 14-23 | 1d10 x 1,000 cp | 82-95 | 1d3 gems | 50-85 | 1 mundane |
 |  | 24-43 | 2d10 x 100 sp | 96-100 | 1d3 art | 86-100 | 1 minor |
 |  | 44-95 | 4d10 x 10 gp |  |  |  |  |
 |  | 96-100 | 2d8 x 10 pp |  |  |  |  |
-| 3rd | 01-11 | --- | 01-77 | --- | 01-49 | --- |
+| 3rd | 01-11 | -- | 01-77 | -- | 01-49 | -- |
 |  | 12-21 | 2d10 x 1,000 cp | 78-95 | 1d3 gems | 50-79 | 1d3 mundane |
 |  | 22-41 | 4d8 x 100 sp | 96-100 | 1d3 art | 80-100 | 1 minor |
 |  | 42-95 | 1d4 x 100 gp |  |  |  |  |
 |  | 96-100 | 1d10 x 10 pp |  |  |  |  |
-| 4th | 01-11 | --- | 01-70 | --- | 01-42 | --- |
+| 4th | 01-11 | -- | 01-70 | -- | 01-42 | -- |
 |  | 12-21 | 3d10 x 1,000 cp | 71-95 | 1d4 gems | 43-62 | 1d4 mundane |
 |  | 22-41 | 4d12 x 1,000 sp | 96-100 | 1d3 art | 63-100 | 1 minor |
 |  | 42-95 | 1d6 x 100 gp |  |  |  |  |
 |  | 96-100 | 1d8 x 10 pp |  |  |  |  |
-| 5th | 01-10 | --- | 01-60 | --- | 01-57 | --- |
+| 5th | 01-10 | -- | 01-60 | -- | 01-57 | -- |
 |  | 11-19 | 1d4 x 10,000 cp | 61-95 | 1d4 gems | 58-67 | 1d4 mundane |
 |  | 20-38 | 1d6 x 1,000 sp | 96-100 | 1d4 art | 68-100 | 1d3 minor |
 |  | 39-95 | 1d8 x 100 gp |  |  |  |  |
 |  | 96-100 | 1d10 x 10 pp |  |  |  |  |
-| 6th | 01-10 | --- | 01-56 | --- | 01-54 | --- |
+| 6th | 01-10 | -- | 01-56 | -- | 01-54 | -- |
 |  | 11-18 | 1d6 x 10,000 cp | 57-92 | 1d4 gems | 55-59 | 1d4 mundane |
 |  | 19-37 | 1d8 x 1,000 sp | 93-100 | 1d4 art | 60-99 | 1d3 minor |
 |  | 38-95 | 1d10 x 100 gp | 100 | 1 medium |  |  |
 |  | 96-100 | 1d12 x 10 pp |  |  |  |  |
-| 7th | 01-11 | --- | 01-48 | --- | 01-51 | --- |
+| 7th | 01-11 | -- | 01-48 | -- | 01-51 | -- |
 |  | 12-18 | 1d10 x 10,000 cp | 49-88 | 1d4 gems | 52-97 | 1d3 minor |
 |  | 19-35 | 1d12 x 1,000 sp | 89-100 | 1d4 art | 98-100 | 1 medium |
 |  | 36-93 | 2d6 x 100 gp |  |  |  |  |
 |  | 94-100 | 3d4 x 10 pp |  |  |  |  |
-| 8th | 01-10 | --- | 01-45 | --- | 01-48 | --- |
+| 8th | 01-10 | -- | 01-45 | -- | 01-48 | -- |
 |  | 11-15 | 1d12 x 10,000 cp | 46-85 | 1d6 gems | 49-96 | 1d4 minor |
 |  | 16-29 | 2d6 x 1,000 sp | 86-100 | 1d4 art | 97-100 | 1 medium |
 |  | 30-87 | 2d8 x 100 gp |  |  |  |  |
 |  | 88-100 | 3d6 x 10 pp |  |  |  |  |
-| 9th | 01-10 | --- | 01-40 | --- | 01-43 | --- |
+| 9th | 01-10 | -- | 01-40 | -- | 01-43 | -- |
 |  | 11-15 | 2d6 x 10,000 cp | 41-80 | 1d8 gems | 44-91 | 1d4 minor |
 |  | 16-29 | 2d8 x 1,000 sp | 81-100 | 1d4 art | 92-100 | 1 medium |
 |  | 30-85 | 5d4 x 100 gp |  |  |  |  |
 |  | 86-100 | 2d12 x 10 pp |  |  |  |  |
-| 10th | 01-10 | --- | 01-35 | --- | 01-40 | --- |
+| 10th | 01-10 | -- | 01-35 | -- | 01-40 | -- |
 |  | 11-24 | 2d10 x 1,000 sp | 36-79 | 1d8 gems | 41-88 | 1d4 minor |
 |  | 25-79 | 6d4 x 100 gp | 80-100 | 1d6 art | 89-99 | 1 medium |
 |  | 80-100 | 5d6 x 10 pp | 100 | 1 major |  |  |
-| 11th | 01-08 | --- | 01-24 | --- | 01-31 | --- |
+| 11th | 01-08 | -- | 01-24 | -- | 01-31 | -- |
 |  | 09-14 | 3d10 x 1,000 sp | 25-74 | 1d10 gems | 32-84 | 1d4 minor |
 |  | 15-75 | 4d8 x 100 gp | 75-100 | 1d6 art | 85-98 | 1 medium |
 |  | 76-100 | 4d10 x 10 pp | 99-100 | 1 major |  |  |
-| 12th | 01-08 | --- | 01-17 | --- | 01-27 | --- |
+| 12th | 01-08 | -- | 01-17 | -- | 01-27 | -- |
 |  | 09-14 | 3d12 x 1,000 sp | 18-70 | 1d10 gems | 28-82 | 1d6 minor |
 |  | 15-75 | 1d4 x 1,000 gp | 71-100 | 1d8 art | 83-97 | 1 medium |
 |  | 76-100 | 1d4 x 100 pp | 98-100 | 1 major |  |  |
-| 13th | 01-08 | --- | 01-11 | --- | 01-19 | --- |
+| 13th | 01-08 | -- | 01-11 | -- | 01-19 | -- |
 |  | 09-75 | 1d4 x 1,000 gp | 12-66 | 1d12 gems | 20-73 | 1d6 minor |
 |  | 76-100 | 1d10 x 100 pp | 67-100 | 1d10 art | 74-95 | 1 medium |
 |  | 96-100 | 1 major |  |  |  |  |
-| 14th | 01-08 | --- | 01-11 | --- | 01-19 | --- |
+| 14th | 01-08 | -- | 01-11 | -- | 01-19 | -- |
 |  | 09-75 | 1d6 x 1,000 gp | 12-66 | 2d8 gems | 20-58 | 1d6 minor |
 |  | 76-100 | 1d12 x 100 pp | 67-100 | 2d6 art | 59-92 | 1 medium |
 |  | 93-100 | 1 major |  |  |  |  |
-| 15th | 01-03 | --- | 01-09 | --- | 01-11 | --- |
+| 15th | 01-03 | -- | 01-09 | -- | 01-11 | -- |
 |  | 04-74 | 1d8 x 1,000 gp | 10-65 | 2d10 gems | 12-46 | 1d10 minor |
 |  | 75-100 | 3d4 x 100 pp | 66-100 | 2d8 art | 47-90 | 1 medium |
 |  | 91-100 | 1 major |  |  |  |  |
-| 16th | 01-03 | --- | 01-07 | --- | 01-40 | --- |
+| 16th | 01-03 | -- | 01-07 | -- | 01-40 | -- |
 |  | 04-74 | 1d12 x 1,000 gp | 08-64 | 4d6 gems | 41-46 | 1d10 minor |
 |  | 75-100 | 3d4 x 100 pp | 65-100 | 2d10 art | 47-90 | 1d3 medium |
 |  | 91-100 | 1 major |  |  |  |  |
-| 17th | 01-03 | --- | 01-04 | --- | 01-33 | --- |
+| 17th | 01-03 | -- | 01-04 | -- | 01-33 | -- |
 |  | 04-68 | 3d4 x 1,000 gp | 05-63 | 4d8 gems | 34-83 | 1d3 medium |
 |  | 69-100 | 2d10 x 100 pp | 64-100 | 3d8 art | 84-100 | 1 major |
-| 18th | 01-02 | --- | 01-04 | --- | 01-24 | --- |
+| 18th | 01-02 | -- | 01-04 | -- | 01-24 | -- |
 |  | 03-65 | 3d6 x 1,000 gp | 05-54 | 3d12 gems | 25-80 | 1d4 medium |
 |  | 66-100 | 5d4 x 100 pp | 55-100 | 3d10 art | 81-100 | 1 major |
-| 19th | 01-02 | --- | 01-03 | --- | 01-04 | --- |
+| 19th | 01-02 | -- | 01-03 | -- | 01-04 | -- |
 |  | 03-65 | 3d8 x 1,000 gp | 04-50 | 6d6 gems | 05-70 | 1d4 medium |
 |  | 66-100 | 3d10 x 100 pp | 51-100 | 6d6 art | 71-100 | 1 major |
-| 20th | 01-02 | --- | 01-02 | --- | 01-25 | --- |
+| 20th | 01-02 | -- | 01-02 | -- | 01-25 | -- |
 |  | 03-65 | 4d8 x 1,000 gp | 03-38 | 4d10 gems | 26-65 | 1d4 medium |
 |  | 66-100 | 4d10 x 100 pp | 39-100 | 7d6 art | 66-100 | 1d3 major |
 
@@ -195,7 +195,7 @@ For treasures above 20th level, use the 20th-level row and then add a number of 
 | d% | Mundane Item |
 | --- | --- |
 | 01-17 | Alchemical item |
-|     01-12 | Alchemist’s fire (1d4 flasks, 20 gp each) |
+|     01-12 | Alchemist's fire (1d4 flasks, 20 gp each) |
 |     13-24 | Acid (2d4 flasks, 10 gp each) |
 |     25-36 | Smokesticks (1d4 sticks, 20 gp each) |
 |     37-48 | Holy water (1d4 flasks, 25 gp each) |
@@ -235,13 +235,13 @@ For treasures above 20th level, use the 20th-level row and then add a number of 
 | 41-43 | Mirror, small steel (10 gp) |
 | 44-46 | Rope, silk (50 ft.) (10 gp) |
 | 47-53 | Spyglass (1,000 gp) |
-| 54-58 | Artisan’s tools, masterwork (55 gp) |
-| 59-63 | Climber’s kit (80 gp) |
+| 54-58 | Artisan's tools, masterwork (55 gp) |
+| 59-63 | Climber's kit (80 gp) |
 | 64-68 | Disguise kit (50 gp) |
-| 69-73 | Healer’s kit (50 gp) |
+| 69-73 | Healer's kit (50 gp) |
 | 74-77 | Holy symbol, silver (25 gp) |
 | 78-81 | Hourglass (25 gp) |
 | 82-88 | Magnifying glass (100 gp) |
 | 89-95 | Musical instrument, masterwork (100 gp) |
-| 96-100 | Thieves’ tools, masterwork (50 gp) |
+| 96-100 | Thieves' tools, masterwork (50 gp) |
 

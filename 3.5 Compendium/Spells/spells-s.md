@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Spells - Spells (S)
-aliases: 3.5 Spells (S)
+aliases:
+  - 3.5 Spells (S)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - spells
   - spells_s
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -96,15 +96,15 @@ This material is Open Game Content, and is licensed for public use under the ter
 *   [[#Summon Monster VII]]
 *   [[#Summon Monster VIII]]
 *   [[#Summon Monster IX]]
-*   [[#Summon Nature’s Ally I]]
-*   [[#Summon Nature’s Ally II]]
-*   [[#Summon Nature’s Ally III]]
-*   [[#Summon Nature’s Ally IV]]
-*   [[#Summon Nature’s Ally V]]
-*   [[#Summon Nature’s Ally VI]]
-*   [[#Summon Nature’s Ally VII]]
-*   [[#Summon Nature’s Ally VIII]]
-*   [[#Summon Nature’s Ally IX]]
+*   [[#Summon Nature's Ally I]]
+*   [[#Summon Nature's Ally II]]
+*   [[#Summon Nature's Ally III]]
+*   [[#Summon Nature's Ally IV]]
+*   [[#Summon Nature's Ally V]]
+*   [[#Summon Nature's Ally VI]]
+*   [[#Summon Nature's Ally VII]]
+*   [[#Summon Nature's Ally VIII]]
+*   [[#Summon Nature's Ally IX]]
 *   [[#Summon Swarm]]
 *   [[#Sunbeam]]
 *   [[#Sunburst]]
@@ -140,8 +140,8 @@ Abjuration
 
 Any opponent attempting to strike or otherwise directly attack the warded creature, even with a targeted spell,
 must attempt a Will save. If the save succeeds, the opponent can attack normally and is unaffected by that casting
-of the spell. If the save fails, the opponent can’t follow through with the attack, that part of its action is
-lost, and it can’t directly attack the warded creature for the duration of the spell. Those not attempting to
+of the spell. If the save fails, the opponent can't follow through with the attack, that part of its action is
+lost, and it can't directly attack the warded creature for the duration of the spell. Those not attempting to
 attack the subject remain unaffected. This spell does not prevent the warded creature from being attacked or
 affected by area or effect spells. The subject cannot attack without breaking the spell but may use nonattack
 spells or otherwise act.
@@ -193,7 +193,7 @@ Illusion (Pattern) [Mind-Affecting]
 
 A twisting pattern of discordant, coruscating colors weaves through the air, affecting creatures within it. The
 spell affects a total number of Hit Dice of creatures equal to your caster level (maximum 20). Creatures with the
-fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell’s point of
+fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell's point of
 origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. The spell affects
 each subject according to its Hit Dice.
 
@@ -250,7 +250,7 @@ Illusion (Glamer)
  No
 
 This spell combines several elements to create a powerful protection from scrying and direct observation. When
-casting the spell, you dictate what will and will not be observed in the spell’s area. The illusion created must
+casting the spell, you dictate what will and will not be observed in the spell's area. The illusion created must
 be stated in general terms. Once the conditions are set, they cannot be changed.
 
 Attempts to scry the area automatically detect the image stated by you with no save allowed. Sight and sound are
@@ -296,7 +296,7 @@ physical connection (if any) you have to that creature. Furthermore, if the subj
 | Possession or garment | -4 |
 | Body part, lock of hair, bit of nail, etc. | -10 |
 
-If the save fails, you can see and hear the subject and the subject’s immediate surroundings (approximately 10
+If the save fails, you can see and hear the subject and the subject's immediate surroundings (approximately 10
 feet in all directions of the subject). If the subject moves, the sensor follows at a speed of up to 150 feet.
 
 As with all divination (scrying) spells, the sensor has your full visual acuity, including any magical effects. In
@@ -304,7 +304,7 @@ addition, the following spells have a 5% chance per caster level of operating th
 _detect chaos_, _detect evil_, _detect good_, _detect law_, _detect magic_, and
 _message_.
 
-If the save succeeds, you can’t attempt to scry on that subject again for at least 24 hours.
+If the save succeeds, you can't attempt to scry on that subject again for at least 24 hours.
 
 _Arcane Material Component:_ The eye of a hawk, an eagle, or a roc, plus nitric acid, copper, and zinc.
 
@@ -399,7 +399,7 @@ Conjuration (Summoning)
  No
 
 You hide a chest on the Ethereal Plane for as long as sixty days and can retrieve it at will. The chest can
-contain up to 1 cubic foot of material per caster level (regardless of the chest’s actual size, which is about 3
+contain up to 1 cubic foot of material per caster level (regardless of the chest's actual size, which is about 3
 feet by 2 feet by 2 feet). If any living creatures are in the chest, there is a 75% chance that the spell simply
 fails. Once the chest is hidden, you can retrieve it by concentrating (a standard action), and it appears next to
 you.
@@ -407,7 +407,7 @@ you.
 The chest must be exceptionally well crafted and expensive, constructed for you by master crafters. The cost of
 such a chest is never less than 5,000 gp. Once it is constructed, you must make a tiny replica (of the same
 materials and perfect in every detail), so that the miniature of the chest appears to be a perfect copy. (The
-replica costs 50 gp.) You can have but one pair of these chests at any given time---even a
+replica costs 50 gp.) You can have but one pair of these chests at any given time--even a
 _wish_ spell does not allow more. The chests are nonmagical and can be fitted with locks, wards, and so on,
 just as any normal chest can be.
 
@@ -444,7 +444,7 @@ _Secret page_ alters the contents of a page so that they appear to be something 
 of a spell can be changed to show even another spell. _Explosive runes_ or _sepia snake sigil_ can be
 cast upon the _secret page._
 
-A _comprehend languages_ spell alone cannot reveal a _secret page_’s contents. You are able to reveal
+A _comprehend languages_ spell alone cannot reveal a _secret page_'s contents. You are able to reveal
 the original contents by speaking a special word. You can then peruse the actual page, and return it to its
 _secret page_ form at will. You can also remove the spell by double repetition of the special word. A
 _detect magic_ spell reveals dim magic on the page in question but does not reveal its true contents._True seeing_
@@ -452,7 +452,7 @@ reveals the presence of the hidden material but does not reveal the contents unl
 _comprehend languages._ A _secret page_ spell can be dispelled, and the hidden writings can be destroyed
 by means of an _erase_ spell.
 
-_Material Component:_ Powdered herring scales and will-o’-wisp essence.
+_Material Component:_ Powdered herring scales and will-o'-wisp essence.
 ## Secure Shelter
 Conjuration (Creation)
 ### Level:
@@ -478,7 +478,7 @@ shuttered windows, and a small fireplace.
 
 The shelter has no heating or cooling source (other than natural insulation qualities). Therefore, it must be
 heated as a normal dwelling, and extreme heat adversely affects it and its occupants. The dwelling does, however,
-provide considerable security otherwise---it is as strong as a normal stone building, regardless of its material
+provide considerable security otherwise--it is as strong as a normal stone building, regardless of its material
 composition. The dwelling resists flames and fire as if it were stone. It is impervious to normal missiles (but
 not the sort cast by siege engines or giants).
 
@@ -487,7 +487,7 @@ the latter secured by an iron grate at the top and a narrow flue. In addition, t
 an _alarm_ spell. Finally, an _unseen servant_ is conjured to provide service to you for the duration of
 the shelter.
 
-The _secure shelter_ contains rude furnishings ---eight bunks, a trestle table, eight stools, and a writing
+The _secure shelter_ contains rude furnishings --eight bunks, a trestle table, eight stools, and a writing
 desk.
 
 _Material Component:_ A square chip of stone, crushed lime, a few grains of sand, a sprinkling of water,
@@ -544,7 +544,7 @@ Illusion (Glamer)
 This spell functions like _disguise self,_ except that you can change the appearance of other people as well.
 Affected creatures resume their normal appearances if slain.
 
-Unwilling targets can negate the spell’s effect on them by making Will saves or with spell resistance.
+Unwilling targets can negate the spell's effect on them by making Will saves or with spell resistance.
 ## Sending
 Evocation
 ### Level:
@@ -567,7 +567,7 @@ Evocation
 You contact a particular creature with which you are familiar and send a short message of twenty-five words or
 less to the subject. The subject recognizes you if it knows you. It can answer in like manner immediately. A
 creature with an Intelligence score as low as 1 can understand the
-_sending,_ though the subject’s ability to react is limited as normal by its Intelligence score. Even if the
+_sending,_ though the subject's ability to react is limited as normal by its Intelligence score. Even if the
 _sending_ is received, the subject is not obligated to act upon it in any manner.
 
 If the creature in question is not on the same plane of existence as you are, there is a 5% chance that the
@@ -601,7 +601,7 @@ containing the symbol, the _sepia snake_ springs into being and strikes the read
 effect between the symbol and the reader.
 
 Simply seeing the enspelled text is not sufficient to trigger the spell; the subject must deliberately read it.
-The target is entitled to a save to evade the snake’s strike. If it succeeds, the
+The target is entitled to a save to evade the snake's strike. If it succeeds, the
 _sepia snake_ dissipates in a flash of brown light accompanied by a puff of dun-colored smoke and a loud
 noise. If the target fails its save, it is engulfed in a shimmering amber field of force and immobilized until
 released, either at your command or when 1d4 days + one day per caster level have elapsed.
@@ -693,17 +693,17 @@ Spells that deal damage have normal effects unless the affected creature succeed
 disbelieving creature takes only one-fifth (20%) damage from the attack. If the disbelieved attack has a special
 effect other than damage, that effect is only 20% likely to occur. Regardless of the result of the save to
 disbelieve, an affected creature is also allowed any save that the spell being simulated allows, but the save DC
-is set according to _shadow conjuration_’s level (4th) rather than the spell’s normal level. In addition, any
+is set according to _shadow conjuration_'s level (4th) rather than the spell's normal level. In addition, any
 effect created by _shadow conjuration_ allows spell resistance, even if the spell it is simulating does not.
 Shadow objects or substances have normal effects except against those who disbelieve them.
 
 Against disbelievers, they are 20% likely to work.
 
-A shadow creature has one-fifth the hit points of a normal creature of its kind (regardless of whether it’s
+A shadow creature has one-fifth the hit points of a normal creature of its kind (regardless of whether it's
 recognized as shadowy). It deals normal damage and has all normal abilities and weaknesses. Against a creature
-that recognizes it as a shadow creature, however, the shadow creature’s damage is one-fifth (20%) normal, and all
+that recognizes it as a shadow creature, however, the shadow creature's damage is one-fifth (20%) normal, and all
 special abilities that do not deal lethal damage are only 20% likely to work. (Roll for each use and each affected
-character separately.) Furthermore, the shadow creature’s AC bonuses are one-fifth as large.
+character separately.) Furthermore, the shadow creature's AC bonuses are one-fifth as large.
 
 A creature that succeeds on its save sees the
 _shadow conjurations_ as transparent images superimposed on vague, shadowy forms.
@@ -746,7 +746,7 @@ creature takes only one-fifth damage from the attack. If the disbelieved attack 
 damage, that effect is one-fifth as strong (if applicable) or only 20% likely to occur. If recognized as a
 _shadow evocation,_ a damaging spell deals only one-fifth (20%) damage. Regardless of the result of the save
 to disbelieve, an affected creature is also allowed any save (or spell resistance) that the spell being simulated
-allows, but the save DC is set according to _shadow evocation’s_level (5th) rather than the spell’s normal
+allows, but the save DC is set according to _shadow evocation's_level (5th) rather than the spell's normal
 level.
 
 Nondamaging effects have normal effects except against those who disbelieve them. Against disbelievers, they have
@@ -790,9 +790,9 @@ In the region of shadow, you move at a rate of 50 miles per hour, moving normall
 Shadow but much more rapidly relative to the Material Plane. Thus, you can use this spell to travel rapidly by
 stepping onto the Plane of Shadow, moving the desired distance, and then stepping back onto the Material Plane.
 
-Because of the blurring of reality between the Plane of Shadow and the Material Plane, you can’t make out details
+Because of the blurring of reality between the Plane of Shadow and the Material Plane, you can't make out details
 of the terrain or areas you pass over during transit, nor can you predict perfectly where your travel will end.
-It’s impossible to judge distances accurately, making the spell virtually useless for scouting or spying.
+It's impossible to judge distances accurately, making the spell virtually useless for scouting or spying.
 Furthermore, when the spell effect ends, you are shunted 1d10x100 feet in a random horizontal direction from your
 desired endpoint. If this would place you within a solid object, you are shunted 1d10x1,000 feet in the same
 direction. If this would still place you within a solid object, you (and any creatures with you) are shunted to
@@ -834,7 +834,7 @@ The _shambler_ spell creates 1d4+2 shambling mounds with 11 HD each. The creatur
 combat or battle, perform a specific mission, or serve as bodyguards. The creatures remain with you for seven days
 unless you dismiss them. If the shamblers are created only for guard duty, however, the duration of the spell is
 seven months. In this case, the shamblers can only be ordered to guard a specific site or location. Shamblers
-summoned to guard duty cannot move outside the spell’s range, which is measured from the point where each first
+summoned to guard duty cannot move outside the spell's range, which is measured from the point where each first
 appeared.
 
 The shamblers have resistance to fire as normal shambling mounds do only if the terrain is rainy, marshy, or damp.
@@ -921,7 +921,7 @@ Abjuration [Force]
 _Shield_ creates an invisible, tower shield-sized mobile disk of force that hovers in front of you. It
 negates _magic missile_ attacks directed at you. The disk also provides a +4 shield bonus to AC. This bonus
 applies against incorporeal touch attacks, since it is a force effect. The _shield_ has no armor check
-penalty or arcane spell failure chance. Unlike with a normal tower shield, you can’t use the _shield_ spell
+penalty or arcane spell failure chance. Unlike with a normal tower shield, you can't use the _shield_ spell
 for cover.
 
 ## Shield of Faith
@@ -981,7 +981,7 @@ Third, the abjuration blocks possession and mental influence, just as
 _protection from chaos_ does.
 
 Finally, if a chaotic creature succeeds on a melee attack against a warded creature, the attacker is
-_slowed_ (Will save negates, as the _slow_ spell, but against _shield of law_’s save DC).
+_slowed_ (Will save negates, as the _slow_ spell, but against _shield of law_'s save DC).
 
 _Focus:_ A tiny reliquary containing some sacred relic, such as a scrap of parchment from a lawful text.
 The reliquary costs at least 500 gp.
@@ -1132,7 +1132,7 @@ Transmutation
  Yes (object)
 
 You are able to shrink one nonmagical item (if it is within the size limit) to 1/16 of its normal size in each
-dimension (to about 1/4,000 the original volume and mass). This change effectively reduces the object’s size by
+dimension (to about 1/4,000 the original volume and mass). This change effectively reduces the object's size by
 four categories. Optionally, you can also change its now shrunken composition to a clothlike one. Objects changed
 by a
 _shrink item_ spell can be returned to normal composition and size merely by tossing them onto any solid
@@ -1166,7 +1166,7 @@ is impossible, spells with verbal components cannot be cast, and no noise whatso
 passes through the area. The spell can be cast on a point in space, but the effect is stationary unless cast on a
 mobile object. The spell can be centered on a creature, and the effect then radiates from the creature and moves
 as it moves. An unwilling creature can attempt a Will save to negate the spell and can use spell resistance, if
-any. Items in a creature’s possession or magic items that emit sound receive the benefits of saves and spell
+any. Items in a creature's possession or magic items that emit sound receive the benefits of saves and spell
 resistance, but unattended objects and points in space do not. This spell provides a defense against sonic or
 language-based attacks.
 
@@ -1217,10 +1217,10 @@ Illusion (Shadow)
 
 _Simulacrum_ creates an illusory duplicate of any creature. The duplicate creature is partially real and
 formed from ice or snow. It appears to be the same as the original, but it has only one-half of the real
-creature’s levels or Hit Dice (and the appropriate hit points, feats, skill ranks, and special abilities for a
-creature of that level or HD). You can’t create a simulacrum of a creature whose Hit Dice or levels exceed twice
+creature's levels or Hit Dice (and the appropriate hit points, feats, skill ranks, and special abilities for a
+creature of that level or HD). You can't create a simulacrum of a creature whose Hit Dice or levels exceed twice
 your caster level. You must make a Disguise check when you cast the spell to determine how good the likeness is. A
-creature familiar with the original might detect the ruse with a successful Spot check (opposed by the caster’s
+creature familiar with the original might detect the ruse with a successful Spot check (opposed by the caster's
 Disguise check) or a DC 20 Sense Motive check.
 
 At all times the simulacrum remains under your absolute command. No special telepathic link exists, so command
@@ -1279,7 +1279,7 @@ Enchantment (Compulsion) [Mind-Affecting]
 A _sleep_ spell causes a magical slumber to come upon 4 Hit Dice of creatures. Creatures with the fewest HD
 are affected first.
 
-Among creatures with equal HD, those who are closest to the spell’s point of origin are affected first. Hit Dice
+Among creatures with equal HD, those who are closest to the spell's point of origin are affected first. Hit Dice
 that are not sufficient to affect a creature are wasted.
 
 Sleeping creatures are helpless. Slapping or wounding awakens an affected creature, but normal noise does not.
@@ -1308,7 +1308,7 @@ Conjuration (Creation) [Cold]
 
 Driving sleet blocks all sight (even darkvision) within it and causes the ground in the area to be icy. A creature
 can walk within or through the area of sleet at half normal speed with a DC 10 Balance check. Failure means it
-can’t move in that round, while failure by 5 or more means it falls (see the Balance skill for details).
+can't move in that round, while failure by 5 or more means it falls (see the Balance skill for details).
 
 The sleet extinguishes torches and small fires.
 _Arcane Material Component:_ A pinch of dust and a few drops of water.
@@ -1335,9 +1335,9 @@ An affected creature moves and attacks at a drastically slowed rate. A
 _slowed_ creature can take only a single move action or standard action each turn, but not both (nor may it
 take full-round actions). Additionally, it takes a -1 penalty on attack rolls, AC, and Reflex saves. A
 _slowed_ creature moves at half its normal speed (round down to the next 5-foot increment), which affects the
-creature’s jumping distance as normal for decreased speed.
+creature's jumping distance as normal for decreased speed.
 
-Multiple _slow_ effects don’t stack. _Slow_ counters and dispels _haste_.
+Multiple _slow_ effects don't stack. _Slow_ counters and dispels _haste_.
 _Material Component:_ A drop of molasses.
 ## Snare
 Transmutation
@@ -1394,17 +1394,17 @@ Transmutation [Earth]
 ### Spell Resistance:
  No
 
-When this spell is cast, all natural, undressed earth or stone in the spell’s area is softened. Wet earth becomes
+When this spell is cast, all natural, undressed earth or stone in the spell's area is softened. Wet earth becomes
 thick mud, dry earth becomes loose sand or dirt, and stone becomes soft clay that is easily molded or chopped. You
 affect a 10-footsquare area to a depth of 1 to 4 feet, depending on the toughness or resilience of the ground at
 that spot. Magical, enchanted, dressed, or worked stone cannot be affected. Earth or stone creatures are not
 affected.
 
 A creature in mud must succeed on a Reflex save or be caught for 1d2 rounds and unable to move, attack, or cast
-spells. A creature that succeeds on its save can move through the mud at half speed, and it can’t run or charge.
+spells. A creature that succeeds on its save can move through the mud at half speed, and it can't run or charge.
 
 Loose dirt is not as troublesome as mud, but all creatures in the area can move at only half their normal speed
-and can’t run or charge over the surface.
+and can't run or charge over the surface.
 
 Stone softened into clay does not hinder movement, but it does allow characters to cut, shape, or excavate areas
 they may not have been able to affect before.
@@ -1431,7 +1431,7 @@ This spell functions like _fog cloud_, but in addition to obscuring sight, the _
 that any creature attempting to move through it progresses at a speed of 5 feet, regardless of its normal speed,
 and it takes a -2 penalty on all melee attack and melee damage rolls. The vapors prevent effective ranged weapon
 attacks (except for magic rays and the like). A creature or object that falls into _solid fog_ is slowed, so
-that each 10 feet of vapor that it passes through reduces falling damage by 1d6. A creature can’t take a 5-foot
+that each 10 feet of vapor that it passes through reduces falling damage by 1d6. A creature can't take a 5-foot
 step while in _solid fog._
 
 However, unlike normal fog, only a severe wind (31+ mph) disperses these vapors, and it does so in 1 round.
@@ -1460,7 +1460,7 @@ Enchantment (Compulsion) [Mind-Affecting, Sonic]
  Yes
 
 This spell causes those within the area to turn on each other rather than attack their foes. Each affected
-creature has a 50% chance to attack the nearest target each round. (Roll to determine each creature’s behavior
+creature has a 50% chance to attack the nearest target each round. (Roll to determine each creature's behavior
 every round at the beginning of its turn.) A creature that does not attack its nearest neighbor is free to act
 normally for that round.
 
@@ -1538,7 +1538,7 @@ Divination
  1 min./level
 
 You can comprehend and communicate with animals. You are able to ask questions of and receive answers from
-animals, although the spell doesn’t make them any more friendly or cooperative than normal. Furthermore, wary and
+animals, although the spell doesn't make them any more friendly or cooperative than normal. Furthermore, wary and
 cunning animals are likely to be terse and evasive, while the more stupid ones make inane comments. If an animal
 is friendly toward you, it may do some favor or service for you.
 
@@ -1563,8 +1563,8 @@ Necromancy [Language-Dependent]
 
 You grant the semblance of life and intellect to a corpse, allowing it to answer several questions that you put to
 it. You may ask one question per two caster levels. Unasked questions are wasted if the duration expires. The
-corpse’s knowledge is limited to what the creature knew during life, including the languages it spoke (if any).
-Answers are usually brief, cryptic, or repetitive. If the creature’s alignment was different from yours, the
+corpse's knowledge is limited to what the creature knew during life, including the languages it spoke (if any).
+Answers are usually brief, cryptic, or repetitive. If the creature's alignment was different from yours, the
 corpse gets a Will save to resist the spell as if it were alive.
 
 If the corpse has been subject to _speak with dead_ within the past week, the new spell fails. You can cast
@@ -1577,7 +1577,7 @@ imprinted knowledge stored in the corpse. The partially animated body retains th
 inhabited it, and thus it can speak with all the knowledge that the creature had while alive. The corpse, however,
 cannot learn new information.
 
-Indeed, it can’t even remember being questioned.
+Indeed, it can't even remember being questioned.
 This spell does not affect a corpse that has been turned into an undead creature.
 ## Speak with Plants
 Divination
@@ -1595,11 +1595,11 @@ Divination
  1 min./level
 
 You can comprehend and communicate with plants, including both normal plants and plant creatures. You are able to
-ask questions of and receive answers from plants. A regular plant’s sense of its surroundings is limited, so it
-won’t be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside
+ask questions of and receive answers from plants. A regular plant's sense of its surroundings is limited, so it
+won't be able to give (or recognize) detailed descriptions of creatures or answer questions about events outside
 its immediate vicinity.
 
-The spell doesn’t make plant creatures any more friendly or cooperative than normal. Furthermore, wary and cunning
+The spell doesn't make plant creatures any more friendly or cooperative than normal. Furthermore, wary and cunning
 plant creatures are likely to be terse and evasive, while the more stupid ones may make inane comments. If a plant
 creature is friendly toward you, it may do some favor or service for you.
 
@@ -1633,7 +1633,7 @@ hand returns to you and hovers.
 
 The hand is incorporeal and thus cannot be harmed by normal weapons. It has improved evasion (half damage on a
 failed Reflex save and no damage on a successful save), your save bonuses, and an AC of at least 22. Your
-Intelligence modifier applies to the hand’s AC as if it were the hand’s Dexterity modifier. The hand has 1 to 4
+Intelligence modifier applies to the hand's AC as if it were the hand's Dexterity modifier. The hand has 1 to 4
 hit points, the same number that you lost in creating it.
 
 ## Spell Immunity
@@ -1657,8 +1657,8 @@ Abjuration
 
 The warded creature is immune to the effects of one specified spell for every four levels you have. The spells
 must be of 4th level or lower. The warded creature effectively has unbeatable spell resistance regarding the
-specified spell or spells. Naturally, that immunity doesn’t protect a creature from spells for which spell
-resistance doesn’t apply.
+specified spell or spells. Naturally, that immunity doesn't protect a creature from spells for which spell
+resistance doesn't apply.
 _Spell immunity_ protects against spells, spell-like effects of magic items, and innate spell-like abilities
 of creatures. It does not protect against supernatural or extraordinary abilities, such as breath weapons or gaze
 attacks.
@@ -1810,20 +1810,20 @@ Transmutation
 ### Spell Resistance:
  Yes
 
-Any ground-covering vegetation in the spell’s area becomes very hard and sharply pointed without changing its
+Any ground-covering vegetation in the spell's area becomes very hard and sharply pointed without changing its
 appearance.
 
 In areas of bare earth, roots and rootlets act in the same way. Typically,
 _spike growth_ can be cast in any outdoor setting except open water, ice, heavy snow, sandy desert, or bare
-stone. Any creature moving on foot into or through the spell’s area takes 1d4 points of piercing damage for each 5
+stone. Any creature moving on foot into or through the spell's area takes 1d4 points of piercing damage for each 5
 feet of movement through the spiked area.
 
 Any creature that takes damage from this spell must also succeed on a Reflex save or suffer injuries to its feet
 and legs that slow its land speed by one-half. This speed penalty lasts for 24 hours or until the injured creature
 receives a _cure_ spell (which also restores lost hit points). Another character can remove the penalty by
-taking 10 minutes to dress the injuries and succeeding on a Heal check against the spell’s save DC.
+taking 10 minutes to dress the injuries and succeeding on a Heal check against the spell's save DC.
 
-_Spike growth_ can’t be disabled with the Disable Device skill.
+_Spike growth_ can't be disabled with the Disable Device skill.
 
 _Note:_ Magic traps such as _spike growth_ are hard to detect. A rogue (only) can use the Search skill
 to find a _spike growth_. The DC is 25 + spell level, or DC 28 for _spike growth_ (or DC 27 for
@@ -1852,17 +1852,17 @@ Rocky ground, stone floors, and similar surfaces shape themselves into long, sha
 background.
 
 _Spike stones_ impede progress through an area and deal damage. Any creature moving on foot into or through
-the spell’s area moves at half speed.
+the spell's area moves at half speed.
 
 In addition, each creature moving through the area takes 1d8 points of piercing damage for each 5 feet of movement
 through the spiked area.
 
 Any creature that takes damage from this spell must also succeed on a Reflex save to avoid injuries to its feet
-and legs. A failed save causes the creature’s speed to be reduced to half normal for 24 hours or until the injured
+and legs. A failed save causes the creature's speed to be reduced to half normal for 24 hours or until the injured
 creature receives a _cure_ spell (which also restores lost hit points). Another character can remove the
-penalty by taking 10 minutes to dress the injuries and succeeding on a Heal check against the spell’s save DC.
+penalty by taking 10 minutes to dress the injuries and succeeding on a Heal check against the spell's save DC.
 
-_Spike stones_ is a magic trap that can’t be disabled with the Disable Device skill.
+_Spike stones_ is a magic trap that can't be disabled with the Disable Device skill.
 
 _Note:_ Magic traps such as _spike stones_ are hard to detect. A rogue (only) can use the Search skill
 to find _spike stones_. The DC is 25 + spell level, or DC 29 for _spike stones_.
@@ -1900,21 +1900,21 @@ goes beyond the spell range, if it goes out of your sight, or if you are not dir
 you and hovers.
 
 Each round after the first, you can use a move action to redirect the weapon to a new target. If you do not, the
-weapon continues to attack the previous round’s target. On any round that the weapon switches targets, it gets one
+weapon continues to attack the previous round's target. On any round that the weapon switches targets, it gets one
 attack. Subsequent rounds of attacking that target allow the weapon to make multiple attacks if your base attack
-bonus would allow it to. Even if the _spiritual weapon_ is a ranged weapon, use the spell’s range, not the
-weapon’s normal range increment, and switching targets still is a move action.
+bonus would allow it to. Even if the _spiritual weapon_ is a ranged weapon, use the spell's range, not the
+weapon's normal range increment, and switching targets still is a move action.
 
 A _spiritual weapon_ cannot be attacked or harmed by physical attacks, but _dispel magic_,
 _disintegrate_, a _sphere of annihilation_, or a _rod of cancellation_ affects it. A
-_spiritual weapon_’s AC against touch attacks is 12 (10 + size bonus for Tiny object).
+_spiritual weapon_'s AC against touch attacks is 12 (10 + size bonus for Tiny object).
 
 If an attacked creature has spell resistance, you make a caster level check (1d20 + caster level) against that
 spell resistance the first time the _spiritual weapon_ strikes it. If the weapon is successfully resisted,
 the spell is dispelled. If not, the weapon has its normal full effect on that creature for the duration of the
 spell.
 
-The weapon that you get is often a force replica of your deity’s own personal weapon. A cleric without a deity
+The weapon that you get is often a force replica of your deity's own personal weapon. A cleric without a deity
 gets a weapon based on his alignment. A neutral cleric without a deity can create a
 _spiritual weapon_ of any alignment, provided he is acting at least generally in accord with that alignment
 at the time. The weapons associated with each alignment are as follows.
@@ -1946,8 +1946,8 @@ A _statue_ spell turns the subject to solid stone, along with any garments and e
 statue form, the subject gains hardness 8. The subject retains its own hit points.
 
 The subject can see, hear, and smell normally, but it does not need to eat or breathe. Feeling is limited to those
-sensations that can affect the granite-hard substance of the individual’s body. Chipping is equal to a mere
-scratch, but breaking off one of the statue’s arms constitutes serious damage.
+sensations that can affect the granite-hard substance of the individual's body. Chipping is equal to a mere
+scratch, but breaking off one of the statue's arms constitutes serious damage.
 
 The subject of a _statue_ spell can return to its normal state, act, and then return instantly to the statue
 state (a free action) if it so desires, as long as the spell duration is in effect.
@@ -2027,9 +2027,9 @@ Transmutation [Earth]
 ### Spell Resistance:
  No
 
-You can form an existing piece of stone into any shape that suits your purpose. While it’s possible to make crude
-coffers, doors, and so forth with _stone shape,_ fine detail isn’t possible. There is a 30% chance that any
-shape including moving parts simply doesn’t work.
+You can form an existing piece of stone into any shape that suits your purpose. While it's possible to make crude
+coffers, doors, and so forth with _stone shape,_ fine detail isn't possible. There is a 30% chance that any
+shape including moving parts simply doesn't work.
 
 _Arcane Material Component:_ Soft clay, which must be worked into roughly the desired shape of the stone
 object and then touched to the stone while the verbal component is uttered.
@@ -2058,7 +2058,7 @@ The warded creature gains resistance to blows, cuts, stabs, and slashes. The sub
 adamantine weapon bypasses the reduction.) Once the spell has prevented a total of 10 points of damage per caster
 level (maximum 150 points), it is discharged.
 
-_Material Component:_ Granite and 250 gp worth of diamond dust sprinkled on the target’s skin.
+_Material Component:_ Granite and 250 gp worth of diamond dust sprinkled on the target's skin.
 ## Stone Tell
 Divination
 ### Level:
@@ -2075,7 +2075,7 @@ Divination
  1 min./level
 
 You gain the ability to speak with stones, which relate to you who or what has touched them as well as revealing
-what is covered or concealed behind or under them. The stones relate complete descriptions if asked. A stone’s
+what is covered or concealed behind or under them. The stones relate complete descriptions if asked. A stone's
 perspective, perception, and knowledge may prevent the stone from providing the details you are looking for.
 
 You can speak with natural or worked stone.
@@ -2151,7 +2151,7 @@ Creatures farther away have total concealment (50% miss chance, and the attacker
 target). Speed is reduced by three-quarters.
 
 Ranged attacks within the area of the storm are impossible. Spells cast within the area are disrupted unless the
-caster succeeds on a Concentration check against a DC equal to the _storm of vengeance_’s save DC + the level
+caster succeeds on a Concentration check against a DC equal to the _storm of vengeance_'s save DC + the level
 of the spell the caster is trying to cast.
 
 ## Suggestion
@@ -2183,7 +2183,7 @@ conditions that will trigger a special activity during the duration. If the cond
 duration expires, the activity is not performed.
 
 A very reasonable _suggestion_ causes the save to be made with a penalty (such as -1 or -2).
-_Material Component:_ A snake’s tongue and either a bit of honeycomb or a drop of sweet oil.
+_Material Component:_ A snake's tongue and either a bit of honeycomb or a drop of sweet oil.
 ## Suggestion, Mass
 Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
 ### Level:
@@ -2217,7 +2217,7 @@ Conjuration (Summoning)
 
 This spell summons one handheld musical instrument of your choice. This instrument appears in your hands or at
 your feet (your choice). The instrument is typical for its type. Only one instrument appears per casting, and it
-will play only for you. You can’t summon an instrument too large to be held in two hands.
+will play only for you. You can't summon an instrument too large to be held in two hands.
 
 ## Summon Monster I
 Conjuration (Summoning) [see text]
@@ -2467,7 +2467,7 @@ lower-level list.
 | Hezrou (demon) | CE |
 | 1 May be summoned only into an aquatic or watery environment. |
 
-## Summon Nature’s Ally I
+## Summon Nature's Ally I
 Conjuration (Summoning)
 ### Level:
  Drd 1, Rgr 1
@@ -2493,112 +2493,112 @@ to attack, to attack particular enemies, or to perform other actions.
 A summoned monster cannot summon or otherwise conjure another creature, nor can it use any teleportation or planar
 travel abilities. Creatures cannot be summoned into an environment that cannot support them.
 
-The spell conjures one of the creatures from the 1st-level list on the accompanying Summon Nature’s Ally table.
+The spell conjures one of the creatures from the 1st-level list on the accompanying Summon Nature's Ally table.
 You choose which kind of creature to summon, and you can change that choice each time you cast the spell. All the
 creatures on the table are neutral unless otherwise noted.
 
-## Summon Nature’s Ally II
+## Summon Nature's Ally II
 Conjuration (Summoning)
 ### Level:
  Drd 2, Rgr 2
 ### Effect:
  One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like _summon nature’s ally I,_ except that you can summon one 2nd-level creature or 1d3
+This spell functions like _summon nature's ally I,_ except that you can summon one 2nd-level creature or 1d3
 1st-level creatures of the same kind.
 
-## Summon Nature’s Ally III
+## Summon Nature's Ally III
 Conjuration (Summoning) [see text]
 ### Level:
  Drd 3, Rgr 3
 ### Effect:
  One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like _summon nature’s ally I,_ except that you can summon one 3rd-level creature, 1d3
+This spell functions like _summon nature's ally I,_ except that you can summon one 3rd-level creature, 1d3
 2nd-level creatures of the same kind, or 1d4+1 1st-level creatures of the same kind.
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it
 is a spell of that type.
 
-## Summon Nature’s Ally IV
+## Summon Nature's Ally IV
 Conjuration (Summoning) [see text]
 ### Level:
  Animal 4, Drd 4, Rgr 4
 ### Effect:
  One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like _summon nature’s ally I,_ except that you can summon one 4th-level creature, 1d3
+This spell functions like _summon nature's ally I,_ except that you can summon one 4th-level creature, 1d3
 3rd-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it
 is a spell of that type.
 
-## Summon Nature’s Ally V
+## Summon Nature's Ally V
 Conjuration (Summoning) [see text]
 ### Level:
  Drd 5
 ### Effect:
  One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like _summon nature’s ally I,_ except that you can summon one 5th-level creature, 1d3
+This spell functions like _summon nature's ally I,_ except that you can summon one 5th-level creature, 1d3
 4th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it
 is a spell of that type.
 
-## Summon Nature’s Ally VI
+## Summon Nature's Ally VI
 Conjuration (Summoning) [see text]
 ### Level:
  Drd 6
 ### Effect:
  One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like _summon nature’s ally I,_ except that you can summon one 6th-level creature, 1d3
+This spell functions like _summon nature's ally I,_ except that you can summon one 6th-level creature, 1d3
 5th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it
 is a spell of that type.
 
-## Summon Nature’s Ally VII
+## Summon Nature's Ally VII
 Conjuration (Summoning) [see text]
 ### Level:
  Drd 7
 ### Effect:
  One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like _summon nature’s ally I,_ except that you can summon one 7th-level creature, 1d3
+This spell functions like _summon nature's ally I,_ except that you can summon one 7th-level creature, 1d3
 6th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it
 is a spell of that type.
 
-## Summon Nature’s Ally VIII
+## Summon Nature's Ally VIII
 Conjuration (Summoning) [see text]
 ### Level:
  Animal 8, Drd 8
 ### Effect:
  One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like _summon nature’s ally I,_ except that you can summon one 8th-level creature, 1d3
+This spell functions like _summon nature's ally I,_ except that you can summon one 8th-level creature, 1d3
 7th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it
 is a spell of that type.
 
-## Summon Nature’s Ally IX
+## Summon Nature's Ally IX
 Conjuration (Summoning) [see text]
 ### Level:
  Drd 9
 ### Effect:
  One or more creatures, no two of which can be more than 30 ft. apart
 
-This spell functions like _summon nature’s ally I,_ except that you can summon one 9th-level creature, 1d3
+This spell functions like _summon nature's ally I,_ except that you can summon one 9th-level creature, 1d3
 8th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
 
 When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it
 is a spell of that type.
 
-| Summon Nature’s Ally |
+| Summon Nature's Ally |
 | --- |
 | 1st Level |
 | Dire rat |
@@ -2674,7 +2674,7 @@ is a spell of that type.
 | Salamander, average [NE] |
 | Whale, baleen<sup>1</sup> |
 | Xorn, average |
-| *Can’t cast _irresistible dance_ |
+| *Can't cast _irresistible dance_ |
 | 7th Level |
 | Arrowhawk, elder |
 | Dire tiger |
@@ -2687,7 +2687,7 @@ is a spell of that type.
 | Tyrannosaurus (dinosaur) |
 | Whale, cachalot<sup>1</sup>(animal) |
 | Xorn, elder |
-| *Can’t cast _irresistible dance_ |
+| *Can't cast _irresistible dance_ |
 | 8th Level |
 | Dire shark<sup>1</sup> |
 | Roc |
@@ -2814,7 +2814,7 @@ This spell allows you to scribe a potent rune of power upon a surface. When trig
 _symbol of death_ slays one or more creatures within 60 feet of the symbol (treat as a burst) whose combined
 total current hit points do not exceed 150. The _symbol of death_ affects the closest creatures first,
 skipping creatures with too many hit points to affect. Once triggered, the _symbol_ becomes active and glows,
-lasting for 10 minutes per caster level or until it has affected 150 hit points’ worth of creatures, whichever
+lasting for 10 minutes per caster level or until it has affected 150 hit points' worth of creatures, whichever
 comes first. Any creature that enters the area while the _symbol of death_ is active is subject to its
 effect, whether or not that creature was in the area when it was triggered. A creature need save against the
 _symbol_ only once as long as it remains within the area, though if it leaves the area and returns while the
@@ -2828,23 +2828,23 @@ covering, in which case the _symbol of death_ works normally.
 As a default, a _symbol of death_ is triggered whenever a creature does one or more of the following, as you
 select: looks at the rune; reads the rune; touches the rune; passes over the rune; or passes through a portal
 bearing the rune. Regardless of the trigger method or methods chosen, a creature more than 60 feet from a symbol
-of death can’t trigger it (even if it meets one or more of the triggering conditions, such as reading the rune).
-Once the spell is cast, a _symbol of death_’s triggering conditions cannot be changed.
+of death can't trigger it (even if it meets one or more of the triggering conditions, such as reading the rune).
+Once the spell is cast, a _symbol of death_'s triggering conditions cannot be changed.
 
 In this case, "reading" the rune means any attempt to study it, identify it, or fathom its meaning. Throwing a
 cover over a
-_symbol of death_ to render it inoperative triggers it if the symbol reacts to touch. You can’t use a
+_symbol of death_ to render it inoperative triggers it if the symbol reacts to touch. You can't use a
 _symbol of death_ offensively; for instance, a touch-triggered symbol of death remains untriggered if an item
 bearing the _symbol of death_ is used to touch a creature. Likewise, a _symbol of death_ cannot be
 placed on a weapon and set to activate when the weapon strikes a foe.
 
 You can also set special triggering limitations of your own. These can be as simple or elaborate as you desire.
 Special conditions for triggering a
-_symbol of death_ can be based on a creature’s name, identity, or alignment, but otherwise must be based on
-observable actions or qualities. Intangibles such as level, class, Hit Dice, and hit points don’t qualify.
+_symbol of death_ can be based on a creature's name, identity, or alignment, but otherwise must be based on
+observable actions or qualities. Intangibles such as level, class, Hit Dice, and hit points don't qualify.
 
 When scribing a _symbol of death_, you can specify a password or phrase that prevents a creature using it
-from triggering the effect. Anyone using the password remains immune to that particular rune’s effects so long as
+from triggering the effect. Anyone using the password remains immune to that particular rune's effects so long as
 the creature remains within 60 feet of the rune. If the creature leaves the radius and returns later, it must use
 the password again.
 
@@ -3028,7 +3028,7 @@ Evocation [Sonic]
 
 By attuning yourself to a freestanding structure such you can create a damaging vibration within it. Once it
 begins, the vibration deals 2d10 points of damage per round to the target structure. (Hardness has no effect on
-the spell’s damage.) You can choose at the time of casting to limit the duration of the spell; otherwise it lasts
+the spell's damage.) You can choose at the time of casting to limit the duration of the spell; otherwise it lasts
 for 1 round/ level. If the spell is cast upon a target that is not freestanding the surrounding stone dissipates
 the effect and no damage occurs.
 

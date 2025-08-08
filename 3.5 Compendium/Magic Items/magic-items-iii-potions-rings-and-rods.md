@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Magic Items - Magic Items III (Potions, Rings, and Rods)
-aliases: 3.5 Magic Items III (Potions, Rings, and Rods)
+aliases:
+  - 3.5 Magic Items III (Potions Rings and Rods)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - magic_items
   - magic_items_iii_potions,_rings,_and_rods
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -28,8 +28,8 @@ A potion is a magic liquid that produces its effect when imbibed. Magic oils are
 oils are applied externally rather than imbibed. A potion or oil can be used only once. It can duplicate the
 effect of a spell of up to 3rd level that has a casting time of less than 1 minute.
 
-Potions are like spells cast upon the imbiber. The character taking the potion doesn’t get to make any decisions
-about the effect ---the caster who brewed the potion has already done so. The drinker of a potion is both the
+Potions are like spells cast upon the imbiber. The character taking the potion doesn't get to make any decisions
+about the effect --the caster who brewed the potion has already done so. The drinker of a potion is both the
 effective target and the caster of the effect (though the potion indicates the caster level, the drinker still
 controls the effect).
 
@@ -45,7 +45,7 @@ high. The vial has AC 13, 1 hit point, hardness 1, and a break DC of 12. Vials h
 each container they find to attempt to determine the nature of the liquid inside. An experienced character learns
 to identify potions by memory
 
----for example, the last time she tasted a liquid that reminded her of almonds, it turned out to be a
+--for example, the last time she tasted a liquid that reminded her of almonds, it turned out to be a
 _potion of cure moderate wounds_.
 
 ### Activation:
@@ -64,7 +64,7 @@ potions or oils.
 Any corporeal creature can imbibe a potion. The potion must be swallowed. Any corporeal creature can use an oil.
 
 A character can carefully administer a potion to an unconscious creature as a full-round action, trickling the
-liquid down the creature’s throat. Likewise, it takes a full-round action to apply an oil to an unconscious
+liquid down the creature's throat. Likewise, it takes a full-round action to apply an oil to an unconscious
 creature.
 
 ## Potion Descriptions
@@ -76,105 +76,105 @@ specified).
 
 | Minor | Medium | Major | Potion or Oil | Market Price |
 | --- | --- | --- | --- | --- |
-| 01-10 | --- | --- | _Cure light wounds_ (potion) | 50 gp |
-| 11-13 | --- | --- | _Endure elements_ (potion) | 50 gp |
-| 14-15 | --- | --- | _Hide from animals_ (potion) | 50 gp |
-| 16-17 | --- | --- | _Hide from undead_ (potion) | 50 gp |
-| 18-19 | --- | --- | _Jump_ (potion) | 50 gp |
-| 20-22 | --- | --- | _Mage armor_ (potion) | 50 gp |
-| 23-25 | --- | --- | _Magic fang_ (potion) | 50 gp |
-| 26 | --- | --- | _Magic stone_ (oil) | 50 gp |
-| 27-29 | --- | --- | _Magic weapon_ (oil) | 50 gp |
-| 30 | --- | --- | _Pass without trace_ (potion) | 50 gp |
-| 31-32 | --- | --- | _Protection from (alignment)_ (potion) | 50 gp |
-| 33-34 | --- | --- | _Remove fear_ (potion) | 50 gp |
-| 35 | --- | --- | _Sanctuary_ (potion) | 50 gp |
-| 36-38 | --- | --- | _Shield of faith +2_ (potion) | 50 gp |
-| 39 | --- | --- | _Shillelagh_ (oil) | 50 gp |
-| 40-41 | 01-02 | --- | _Bless weapon_ (oil) | 100 gp |
-| 42-44 | 03-04 | --- | _Enlarge person_ (potion) | 250 gp |
-| 45 | 05 | --- | _Reduce person_ (potion) | 250 gp |
-| 46-47 | 06 | --- | _Aid_ (potion) | 300 gp |
-| 48-50 | 07 | --- | _Barkskin +2_ (potion) | 300 gp |
-| 51-53 | 08-10 | --- | _Bear’s endurance_ (potion) | 300 gp |
+| 01-10 | -- | -- | _Cure light wounds_ (potion) | 50 gp |
+| 11-13 | -- | -- | _Endure elements_ (potion) | 50 gp |
+| 14-15 | -- | -- | _Hide from animals_ (potion) | 50 gp |
+| 16-17 | -- | -- | _Hide from undead_ (potion) | 50 gp |
+| 18-19 | -- | -- | _Jump_ (potion) | 50 gp |
+| 20-22 | -- | -- | _Mage armor_ (potion) | 50 gp |
+| 23-25 | -- | -- | _Magic fang_ (potion) | 50 gp |
+| 26 | -- | -- | _Magic stone_ (oil) | 50 gp |
+| 27-29 | -- | -- | _Magic weapon_ (oil) | 50 gp |
+| 30 | -- | -- | _Pass without trace_ (potion) | 50 gp |
+| 31-32 | -- | -- | _Protection from (alignment)_ (potion) | 50 gp |
+| 33-34 | -- | -- | _Remove fear_ (potion) | 50 gp |
+| 35 | -- | -- | _Sanctuary_ (potion) | 50 gp |
+| 36-38 | -- | -- | _Shield of faith +2_ (potion) | 50 gp |
+| 39 | -- | -- | _Shillelagh_ (oil) | 50 gp |
+| 40-41 | 01-02 | -- | _Bless weapon_ (oil) | 100 gp |
+| 42-44 | 03-04 | -- | _Enlarge person_ (potion) | 250 gp |
+| 45 | 05 | -- | _Reduce person_ (potion) | 250 gp |
+| 46-47 | 06 | -- | _Aid_ (potion) | 300 gp |
+| 48-50 | 07 | -- | _Barkskin +2_ (potion) | 300 gp |
+| 51-53 | 08-10 | -- | _Bear's endurance_ (potion) | 300 gp |
 | 54-56 | 11-13 | 01-02 | _Blur_ (potion) | 300 gp |
-| 57-59 | 14-16 | --- | _Bull’s strength_ (potion) | 300 gp |
-| 60-62 | 17-19 | --- | _Cat’s grace_ (potion) | 300 gp |
+| 57-59 | 14-16 | -- | _Bull's strength_ (potion) | 300 gp |
+| 60-62 | 17-19 | -- | _Cat's grace_ (potion) | 300 gp |
 | 63-67 | 20-27 | 03-07 | _Cure moderate wounds_ (potion) | 300 gp |
-| 68 | 28 | --- | _Darkness_ (oil) | 300 gp |
+| 68 | 28 | -- | _Darkness_ (oil) | 300 gp |
 | 69-71 | 29-30 | 08-09 | _Darkvision_ (potion) | 300 gp |
-| 72-74 | 31 | --- | _Delay poison_ (potion) | 300 gp |
-| 75-76 | 32-33 | --- | _Eagle’s splendor_ (potion) | 300 gp |
-| 77-78 | 34-35 | --- | _Fox’s cunning_ (potion) | 300 gp |
+| 72-74 | 31 | -- | _Delay poison_ (potion) | 300 gp |
+| 75-76 | 32-33 | -- | _Eagle's splendor_ (potion) | 300 gp |
+| 77-78 | 34-35 | -- | _Fox's cunning_ (potion) | 300 gp |
 | 79-81 | 36-37 | 10-11 | _Invisibility_ (potion or oil) | 300 gp |
 | 82-84 | 38 | 12 | _Lesser restoration_ (potion) | 300 gp |
-| 85-86 | 39 | --- | _Levitate_ (potion or oil) | 300 gp |
-| 87 | 40 | --- | _Misdirection_ (potion) | 300 gp |
-| 88-89 | 41-42 | --- | _Owl’s wisdom_ (potion) | 300 gp |
-| 90-91 | 43 | --- | _Protection from arrows 10/magic_ (potion) | 300 gp |
+| 85-86 | 39 | -- | _Levitate_ (potion or oil) | 300 gp |
+| 87 | 40 | -- | _Misdirection_ (potion) | 300 gp |
+| 88-89 | 41-42 | -- | _Owl's wisdom_ (potion) | 300 gp |
+| 90-91 | 43 | -- | _Protection from arrows 10/magic_ (potion) | 300 gp |
 | 92-93 | 44 | 13 | _Remove paralysis_ (potion) | 300 gp |
-| 94-96 | 45-46 | --- | _Resist energy (type) 10_ (potion) | 300 gp |
+| 94-96 | 45-46 | -- | _Resist energy (type) 10_ (potion) | 300 gp |
 | 97 | 47-48 | 14 | _Shield of faith +3_ (potion) | 300 gp |
-| 98-99 | 49 | --- | _Spider climb_ (potion) | 300 gp |
+| 98-99 | 49 | -- | _Spider climb_ (potion) | 300 gp |
 | 100 | 50 | 15 | _Undetectable alignment_ (potion) | 300 gp |
-| --- | 51 | 16 | _Barkskin +3_ (potion) | 600 gp |
-| --- | 52 | 17-18 | _Shield of faith +4_ (potion) | 600 gp |
-| --- | 53-55 | 19-20 | _Resist energy (type) 20_ (potion) | 700 gp |
-| --- | 56-60 | 21-28 | _Cure serious wounds_ (potion) | 750 gp |
-| --- | 61 | 29 | _Daylight_ (oil) | 750 gp |
-| --- | 62-64 | 30-32 | _Displacement_ (potion) | 750 gp |
-| --- | 65 | 33 | _Flame arrow_ (oil) | 750 gp |
-| --- | 66-68 | 34-38 | _Fly_ (potion) | 750 gp |
-| --- | 69 | 39 | _Gaseous form_ (potion) | 750 gp |
-| --- | 70-71 | --- | _Greater magic fang +1_ (potion) | 750 gp |
-| --- | 72-73 | --- | _Greater magic weapon +1_ (oil) | 750 gp |
-| --- | 74-75 | 40-41 | _Haste_ (potion) | 750 gp |
-| --- | 76-78 | 42-44 | _Heroism_ (potion) | 750 gp |
-| --- | 79-80 | 45-46 | _Keen edge_ (oil) | 750 gp |
-| --- | 81 | 47 | _Magic circle against (alignment)_ (potion) | 750 gp |
-| --- | 82-83 | --- | _Magic vestment +1_ (oil) | 750 gp |
-| --- | 84-86 | 48-50 | _Neutralize poison_ (potion) | 750 gp |
-| --- | 87-88 | 51-52 | _Nondetection_ (potion) | 750 gp |
-| --- | 89-91 | 53-54 | _Protection from energy (type)_ (potion) | 750 gp |
-| --- | 92-93 | 55 | _Rage_ (potion) | 750 gp |
-| --- | 94 | 56 | _Remove blindness/deafness_ (potion) | 750 gp |
-| --- | 95 | 57 | _Remove curse_ (potion) | 750 gp |
-| --- | 96 | 58 | _Remove disease_ (potion) | 750 gp |
-| --- | 97 | 59 | _Tongues_ (potion) | 750 gp |
-| --- | 98-99 | 60 | _Water breathing_ (potion) | 750 gp |
-| --- | 100 | 61 | _Water walk_ (potion) | 750 gp |
-| --- | --- | 62-63 | _Barkskin +4_ (potion) | 900 gp |
-| --- | --- | 64 | _Shield of faith +5_ (potion) | 900 gp |
-| --- | --- | 65 | _Good hope_ (potion) | 1,050 gp |
-| --- | --- | 66-68 | _Resist energy (type) 30_ (potion) | 1,100 gp |
-| --- | --- | 69 | _Barkskin +5_ (potion) | 1,200 gp |
-| --- | --- | 70-73 | _Greater magic fang +2_ (potion) | 1,200 gp |
-| --- | --- | 74-77 | _Greater magic weapon +2_ (oil) | 1,200 gp |
-| --- | --- | 78-81 | _Magic vestment +2_ (oil) | 1,200 gp |
-| --- | --- | 82 | _Protection from arrows 15/magic_ (potion) | 1,500 gp |
-| --- | --- | 83-85 | _Greater magic fang +3_ (potion) | 1,800 gp |
-| --- | --- | 86-88 | _Greater magic weapon +3_ (oil) | 1,800 gp |
-| --- | --- | 89-91 | _Magic vestment +3_ (oil) | 1,800 gp |
-| --- | --- | 92-93 | _Greater magic fang +4_ (potion) | 2,400 gp |
-| --- | --- | 94-95 | _Greater magic weapon +4_ (oil) | 2,400 gp |
-| --- | --- | 96-97 | _Magic vestment +4_ (oil) | 2,400 gp |
-| --- | --- | 98 | _Greater magic fang +5_ (potion) | 3,000 gp |
-| --- | --- | 99 | _Greater magic weapon +5_ (oil) | 3,000 gp |
-| --- | --- | 100 | _Magic vestment +5_ (oil) | 3,000 gp |
+| -- | 51 | 16 | _Barkskin +3_ (potion) | 600 gp |
+| -- | 52 | 17-18 | _Shield of faith +4_ (potion) | 600 gp |
+| -- | 53-55 | 19-20 | _Resist energy (type) 20_ (potion) | 700 gp |
+| -- | 56-60 | 21-28 | _Cure serious wounds_ (potion) | 750 gp |
+| -- | 61 | 29 | _Daylight_ (oil) | 750 gp |
+| -- | 62-64 | 30-32 | _Displacement_ (potion) | 750 gp |
+| -- | 65 | 33 | _Flame arrow_ (oil) | 750 gp |
+| -- | 66-68 | 34-38 | _Fly_ (potion) | 750 gp |
+| -- | 69 | 39 | _Gaseous form_ (potion) | 750 gp |
+| -- | 70-71 | -- | _Greater magic fang +1_ (potion) | 750 gp |
+| -- | 72-73 | -- | _Greater magic weapon +1_ (oil) | 750 gp |
+| -- | 74-75 | 40-41 | _Haste_ (potion) | 750 gp |
+| -- | 76-78 | 42-44 | _Heroism_ (potion) | 750 gp |
+| -- | 79-80 | 45-46 | _Keen edge_ (oil) | 750 gp |
+| -- | 81 | 47 | _Magic circle against (alignment)_ (potion) | 750 gp |
+| -- | 82-83 | -- | _Magic vestment +1_ (oil) | 750 gp |
+| -- | 84-86 | 48-50 | _Neutralize poison_ (potion) | 750 gp |
+| -- | 87-88 | 51-52 | _Nondetection_ (potion) | 750 gp |
+| -- | 89-91 | 53-54 | _Protection from energy (type)_ (potion) | 750 gp |
+| -- | 92-93 | 55 | _Rage_ (potion) | 750 gp |
+| -- | 94 | 56 | _Remove blindness/deafness_ (potion) | 750 gp |
+| -- | 95 | 57 | _Remove curse_ (potion) | 750 gp |
+| -- | 96 | 58 | _Remove disease_ (potion) | 750 gp |
+| -- | 97 | 59 | _Tongues_ (potion) | 750 gp |
+| -- | 98-99 | 60 | _Water breathing_ (potion) | 750 gp |
+| -- | 100 | 61 | _Water walk_ (potion) | 750 gp |
+| -- | -- | 62-63 | _Barkskin +4_ (potion) | 900 gp |
+| -- | -- | 64 | _Shield of faith +5_ (potion) | 900 gp |
+| -- | -- | 65 | _Good hope_ (potion) | 1,050 gp |
+| -- | -- | 66-68 | _Resist energy (type) 30_ (potion) | 1,100 gp |
+| -- | -- | 69 | _Barkskin +5_ (potion) | 1,200 gp |
+| -- | -- | 70-73 | _Greater magic fang +2_ (potion) | 1,200 gp |
+| -- | -- | 74-77 | _Greater magic weapon +2_ (oil) | 1,200 gp |
+| -- | -- | 78-81 | _Magic vestment +2_ (oil) | 1,200 gp |
+| -- | -- | 82 | _Protection from arrows 15/magic_ (potion) | 1,500 gp |
+| -- | -- | 83-85 | _Greater magic fang +3_ (potion) | 1,800 gp |
+| -- | -- | 86-88 | _Greater magic weapon +3_ (oil) | 1,800 gp |
+| -- | -- | 89-91 | _Magic vestment +3_ (oil) | 1,800 gp |
+| -- | -- | 92-93 | _Greater magic fang +4_ (potion) | 2,400 gp |
+| -- | -- | 94-95 | _Greater magic weapon +4_ (oil) | 2,400 gp |
+| -- | -- | 96-97 | _Magic vestment +4_ (oil) | 2,400 gp |
+| -- | -- | 98 | _Greater magic fang +5_ (potion) | 3,000 gp |
+| -- | -- | 99 | _Greater magic weapon +5_ (oil) | 3,000 gp |
+| -- | -- | 100 | _Magic vestment +5_ (oil) | 3,000 gp |
 
 ## Rings
 Rings bestow magical powers upon their wearers. Only a rare few have charges. Anyone can use a ring.
 
-A character can only effectively wear two magic rings. A third magic ring doesn’t work if the wearer is already
+A character can only effectively wear two magic rings. A third magic ring doesn't work if the wearer is already
 wearing two magic rings.
 
 ### Physical Description:
  Rings have no appreciable weight. Although exceptions exist that are
-crafted from glass or bone, the vast majority of rings are forged from metal---usually precious metals such as gold,
+crafted from glass or bone, the vast majority of rings are forged from metal--usually precious metals such as gold,
 silver, and platinum. A ring has AC 13, 2 hit points, hardness 10, and a break DC of 25.
 
 ### Activation:
- Usually, a ring’s ability is activated by a command word (a standard action that does
+ Usually, a ring's ability is activated by a command word (a standard action that does
 not provoke attacks of opportunity) or it works continually. Some rings have exceptional activation methods,
 according to their descriptions.
 
@@ -188,52 +188,52 @@ Rings with charges can never be intelligent.
 
 | Minor | Medium | Major | Ring | Market Price |
 | --- | --- | --- | --- | --- |
-| 01-18 | --- | --- | _Protection +1_ | 2,000 gp |
-| 19-28 | --- | --- | _Feather falling_ | 2,200 gp |
-| 29-36 | --- | --- | _Sustenance_ | 2,500 gp |
-| 37-44 | --- | --- | _Climbing_ | 2,500 gp |
-| 45-52 | --- | --- | _Jumping_ | 2,500 gp |
-| 53-60 | --- | --- | _Swimming_ | 2,500 gp |
-| 61-70 | 01-05 | --- | _Counterspells_ | 4,000 gp |
-| 71-75 | 06-08 | --- | _Mind shielding_ | 8,000 gp |
-| 76-80 | 09-18 | --- | _Protection +2_ | 8,000 gp |
-| 81-85 | 19-23 | --- | _Force shield_ | 8,500 gp |
-| 86-90 | 24-28 | --- | _Ram_ | 8,600 gp |
-| --- | 29-34 | --- | _Climbing, improved_ | 10,000 gp |
-| --- | 35-40 | --- | _Jumping, improved_ | 10,000 gp |
-| --- | 41-46 | --- | _Swimming, improved_ | 10,000 gp |
-| 91-93 | 47-51 | --- | _Animal friendship_ | 10,800 gp |
+| 01-18 | -- | -- | _Protection +1_ | 2,000 gp |
+| 19-28 | -- | -- | _Feather falling_ | 2,200 gp |
+| 29-36 | -- | -- | _Sustenance_ | 2,500 gp |
+| 37-44 | -- | -- | _Climbing_ | 2,500 gp |
+| 45-52 | -- | -- | _Jumping_ | 2,500 gp |
+| 53-60 | -- | -- | _Swimming_ | 2,500 gp |
+| 61-70 | 01-05 | -- | _Counterspells_ | 4,000 gp |
+| 71-75 | 06-08 | -- | _Mind shielding_ | 8,000 gp |
+| 76-80 | 09-18 | -- | _Protection +2_ | 8,000 gp |
+| 81-85 | 19-23 | -- | _Force shield_ | 8,500 gp |
+| 86-90 | 24-28 | -- | _Ram_ | 8,600 gp |
+| -- | 29-34 | -- | _Climbing, improved_ | 10,000 gp |
+| -- | 35-40 | -- | _Jumping, improved_ | 10,000 gp |
+| -- | 41-46 | -- | _Swimming, improved_ | 10,000 gp |
+| 91-93 | 47-51 | -- | _Animal friendship_ | 10,800 gp |
 | 94-96 | 50-56 | 01-02 | _Energy resistance, minor_ | 12,000 gp |
-| 97-98 | 57-61 | --- | _Chameleon power_ | 12,700 gp |
-| 99-100 | 62-66 | --- | _Water walking_ | 15,000 gp |
-| --- | 67-71 | 03-07 | _Protection +3_ | 18,000 gp |
-| --- | 72-76 | 08-10 | _Spell storing, minor_ | 18,000 gp |
-| --- | 77-81 | 11-15 | _Invisibility_ | 20,000 gp |
-| --- | 82-85 | 16-19 | _Wizardry (I)_ | 20,000 gp |
-| --- | 86-90 | 20-25 | _Evasion_ | 25,000 gp |
-| --- | 91-93 | 26-28 | _X-ray vision_ | 25,000 gp |
-| --- | 94-97 | 29-32 | _Blinking_ | 27,000 gp |
-| --- | 98-100 | 33-39 | _Energy resistance, major_ | 28,000 gp |
-| --- | --- | 40-49 | _Protection +4_ | 32,000 gp |
-| --- | --- | 50-55 | _Wizardry (II)_ | 40,000 gp |
-| --- | --- | 56-60 | _Freedom of movement_ | 40,000 gp |
-| --- | --- | 61-63 | _Energy resistance, greater_ | 44,000 gp |
-| --- | --- | 64-65 | _Friend shield_ (pair) | 50,000 gp |
-| --- | --- | 66-70 | _Protection +5_ | 50,000 gp |
-| --- | --- | 71-74 | _Shooting stars_ | 50,000 gp |
-| --- | --- | 75-79 | _Spell storing_ | 50,000 gp |
-| --- | --- | 80-83 | _Wizardry (III)_ | 70,000 gp |
-| --- | --- | 84-86 | _Telekinesis_ | 75,000 gp |
-| --- | --- | 87-88 | _Regeneration_ | 90,000 gp |
-| --- | --- | 89 | _Three wishes_ | 97,950 gp |
-| --- | --- | 90-92 | _Spell turning_ | 98,280 gp |
-| --- | --- | 93-94 | _Wizardry (IV)_ | 100,000 gp |
-| --- | --- | 95 | _Djinni calling_ | 125,000 gp |
-| --- | --- | 96 | _Elemental command (air)_ | 200,000 gp |
-| --- | --- | 97 | _Elemental command (earth)_ | 200,000 gp |
-| --- | --- | 98 | _Elemental command (fire)_ | 200,000 gp |
-| --- | --- | 99 | _Elemental command (water)_ | 200,000 gp |
-| --- | --- | 100 | _Spell storing, major_ | 200,000 gp |
+| 97-98 | 57-61 | -- | _Chameleon power_ | 12,700 gp |
+| 99-100 | 62-66 | -- | _Water walking_ | 15,000 gp |
+| -- | 67-71 | 03-07 | _Protection +3_ | 18,000 gp |
+| -- | 72-76 | 08-10 | _Spell storing, minor_ | 18,000 gp |
+| -- | 77-81 | 11-15 | _Invisibility_ | 20,000 gp |
+| -- | 82-85 | 16-19 | _Wizardry (I)_ | 20,000 gp |
+| -- | 86-90 | 20-25 | _Evasion_ | 25,000 gp |
+| -- | 91-93 | 26-28 | _X-ray vision_ | 25,000 gp |
+| -- | 94-97 | 29-32 | _Blinking_ | 27,000 gp |
+| -- | 98-100 | 33-39 | _Energy resistance, major_ | 28,000 gp |
+| -- | -- | 40-49 | _Protection +4_ | 32,000 gp |
+| -- | -- | 50-55 | _Wizardry (II)_ | 40,000 gp |
+| -- | -- | 56-60 | _Freedom of movement_ | 40,000 gp |
+| -- | -- | 61-63 | _Energy resistance, greater_ | 44,000 gp |
+| -- | -- | 64-65 | _Friend shield_ (pair) | 50,000 gp |
+| -- | -- | 66-70 | _Protection +5_ | 50,000 gp |
+| -- | -- | 71-74 | _Shooting stars_ | 50,000 gp |
+| -- | -- | 75-79 | _Spell storing_ | 50,000 gp |
+| -- | -- | 80-83 | _Wizardry (III)_ | 70,000 gp |
+| -- | -- | 84-86 | _Telekinesis_ | 75,000 gp |
+| -- | -- | 87-88 | _Regeneration_ | 90,000 gp |
+| -- | -- | 89 | _Three wishes_ | 97,950 gp |
+| -- | -- | 90-92 | _Spell turning_ | 98,280 gp |
+| -- | -- | 93-94 | _Wizardry (IV)_ | 100,000 gp |
+| -- | -- | 95 | _Djinni calling_ | 125,000 gp |
+| -- | -- | 96 | _Elemental command (air)_ | 200,000 gp |
+| -- | -- | 97 | _Elemental command (earth)_ | 200,000 gp |
+| -- | -- | 98 | _Elemental command (fire)_ | 200,000 gp |
+| -- | -- | 99 | _Elemental command (water)_ | 200,000 gp |
+| -- | -- | 100 | _Spell storing, major_ | 200,000 gp |
 
 ## Ring Descriptions
 Standard rings are described below.
@@ -262,7 +262,7 @@ grants the wearer a +5 competence bonus on Climb checks.
 Faint transmutatation; CL 5th; Forge Ring, creator must have 5 ranks in the Climb skill; Price 2,500 gp.
 
 ### Climbing, Improved:
- As climbing, except it grants a +10 competence bonus on its wearer’s Climb
+ As climbing, except it grants a +10 competence bonus on its wearer's Climb
 checks.
 
 Faint transmutation; CL 5th; Forge Ring, creator must have 10 ranks in the Climb skill; Price 10,000 gp.
@@ -271,7 +271,7 @@ Faint transmutation; CL 5th; Forge Ring, creator must have 10 ranks in the Climb
  This ring might seem to be a _ring of spell storing_ upon first examination.
 However, while it allows a single spell of 1st through 6th level to be cast into it, that spell cannot be cast out
 of the ring again. Instead, should that spell ever be cast upon the wearer, the spell is immediately countered, as
-a counterspell action, requiring no action (or even knowledge) on the wearer’s part. Once so used, the spell cast
+a counterspell action, requiring no action (or even knowledge) on the wearer's part. Once so used, the spell cast
 within the ring is gone. A new spell (or the same one as before) may be placed in it again.
 
 Moderate evocation; CL 11th; Forge Ring,
@@ -292,13 +292,13 @@ appears to be nothing more than a lesser magic ring until fully activated (by me
 single-handedly slaying an elemental of the appropriate type or exposure to a sacred material of the appropriate
 element), but each has certain other powers as well as the following common properties.
 
-Elementals of the plane to which the ring is attuned can’t attack the wearer, or even approach within 5 feet of
+Elementals of the plane to which the ring is attuned can't attack the wearer, or even approach within 5 feet of
 him. If the wearer desires, he may forego this protection and instead attempt to _charm_ the elemental (as
 _charm monster,_ Will DC 17 negates). If the _charm_ attempt fails, however, absolute protection is lost
 and no further attempt at _charming_ can be made.
 
 Creatures from the plane to which the ring is attuned who attack the wearer take a -1 penalty on their attack
-rolls. The ring wearer makes applicable saving throws from the extraplanar creature’s attacks with a +2 resistance
+rolls. The ring wearer makes applicable saving throws from the extraplanar creature's attacks with a +2 resistance
 bonus. He gains a +4 morale bonus on all attack rolls against such creatures. Any weapon he uses bypasses the
 damage reduction of such creatures, regardless of any qualities the weapon may or may not have.
 
@@ -363,8 +363,8 @@ Strong conjuration; CL 15th; Forge Ring, _summon monster VI_, all appropriate sp
 
 ### Energy Resistance:
  This reddish iron ring continually protects the wearer from damage from one
-type of energy---acid, cold, electricity, fire, or sonic (chosen by the creator of the item; determine randomly if
-found as part of a treasure hoard). Each time the wearer would normally take such damage, subtract the ring’s
+type of energy--acid, cold, electricity, fire, or sonic (chosen by the creator of the item; determine randomly if
+found as part of a treasure hoard). Each time the wearer would normally take such damage, subtract the ring's
 resistance value from the damage dealt.
 
 A _minor ring of energy resistance_ grants 10 points of resistance. A
@@ -421,7 +421,7 @@ on all his Jump checks.
 Faint transmutation; CL 2nd; Forge Ring, creator must have 5 ranks in the Jump skill; Price 2,500 gp.
 
 ### Jumping, Improved:
- As jumping, except it grants a +10 competence bonus on its wearer’s Jump
+ As jumping, except it grants a +10 competence bonus on its wearer's Jump
 check.
 
 Moderate transmutation; CL 7th; Forge Ring, creator must have 10 ranks in the Jump skill; Price 10,000 gp.
@@ -459,7 +459,7 @@ If 3 charges are expended, the effect is that of a character with Strength 29.
 A newly created ring has 50 charges. When all the charges are expended, the ring becomes a nonmagical item.
 
 Moderate transmutation; CL 9th; Forge Ring,
-_bull’s strength, telekinesis;_ Price 8,600 gp.
+_bull's strength, telekinesis;_ Price 8,600 gp.
 
 ### Regeneration:
  This white gold ring continually allows a living wearer to heal 1 point of damage
@@ -482,7 +482,7 @@ _ring of shooting stars_ can perform the following functions on command.
 *   _Ball lightning_ (special, once per night)
 *   _Shooting stars_ (special, three per week)
 
-The first special function, _ball lightning,_ releases one to four balls of lightning (ring wearer’s choice).
+The first special function, _ball lightning,_ releases one to four balls of lightning (ring wearer's choice).
 These glowing globes resemble _dancing lights_, and the ring wearer controls them in the same fashion (see
 the _dancing lights_ spell description). The spheres have a 120-foot range and a duration of 4 rounds. They
 can be moved at 120 feet per round. Each sphere is about 3 feet in diameter, and any creature who comes within 5
@@ -578,7 +578,7 @@ wearer a +5 competence bonus on Swim checks.
 Faint transmutation; CL 2nd; Forge Ring, creator must have 5 ranks in the Swim skill; Price 2,500 gp.
 
 ### Swimming, Improved:
- As swimming, except it grants a +10 competence bonus on its wearer’s Swim
+ As swimming, except it grants a +10 competence bonus on its wearer's Swim
 checks.
 
 Moderate transmutation; CL 7th; Forge Ring, creator must have 10 ranks in the Swim skill; Price 10,000 gp.
@@ -601,7 +601,7 @@ of the spell _water walk_.
 Moderate transmutation; CL 9th; Forge Ring, _water walk;_ Price 15,000 gp.
 
 ### Wizardry: This special ring comes in four kinds (_ring of wizardry I, ring of wizardry II, ring of wizardry III,_
-and _ring of wizardry IV_), all of them useful only to arcane spellcasters. The wearer’s arcane spells per
+and _ring of wizardry IV_), all of them useful only to arcane spellcasters. The wearer's arcane spells per
 day are doubled for one specific spell level. A _ring of wizardry I_ doubles 1st-level spells, a
 _ring of wizardry II_ doubles 2nd-level spells, a _ring of wizardry III_ doubles 3rd-level spells, and a
 _ring of wizardry IV_ doubles 4th-level spells. Bonus spells from high ability scores or school
@@ -649,42 +649,42 @@ Rods with charges can never be intelligent.
 
 | Medium | Major | Rod | Market Price |
 | --- | --- | --- | --- |
-| 01-07 | --- | Metamagic, _Enlarge, lesser_ | 3,000 gp |
-| 08-14 | --- | Metamagic, _Extend, lesser_ | 3,000 gp |
-| 15-21 | --- | Metamagic, _Silent, lesser_ | 3,000 gp |
-| 22-28 | --- | _Immovable_ | 5,000 gp |
-| 29-35 | --- | Metamagic, _Empower, lesser_ | 9,000 gp |
-| 36-42 | --- | _Metal and mineral detection_ | 10,500 gp |
+| 01-07 | -- | Metamagic, _Enlarge, lesser_ | 3,000 gp |
+| 08-14 | -- | Metamagic, _Extend, lesser_ | 3,000 gp |
+| 15-21 | -- | Metamagic, _Silent, lesser_ | 3,000 gp |
+| 22-28 | -- | _Immovable_ | 5,000 gp |
+| 29-35 | -- | Metamagic, _Empower, lesser_ | 9,000 gp |
+| 36-42 | -- | _Metal and mineral detection_ | 10,500 gp |
 | 43-53 | 01-04 | _Cancellation_ | 11,000 gp |
 | 54-57 | 05-06 | Metamagic, _Enlarge_ | 11,000 gp |
 | 58-61 | 07-08 | Metamagic, _Extend_ | 11,000 gp |
 | 62-65 | 09-10 | Metamagic, _Silent_ | 11,000 gp |
 | 66-71 | 11-14 | _Wonder_ | 12,000 gp |
 | 72-79 | 15-18 | _Python_ | 13,000 gp |
-| 80-83 | --- | Metamagic, _Maximize, lesser_ | 14,000 gp |
+| 80-83 | -- | Metamagic, _Maximize, lesser_ | 14,000 gp |
 | 84-89 | 19-21 | _Flame extinguishing_ | 15,000 gp |
 | 90-97 | 22-25 | _Viper_ | 19,000 gp |
-| --- | 26-30 | _Enemy detection_ | 23,500 gp |
-| --- | 31-36 | Metamagic, _Enlarge, greater_ | 24,500 gp |
-| --- | 37-42 | Metamagic, _Extend, greater_ | 24,500 gp |
-| --- | 43-48 | Metamagic, _Silent, greater_ | 24,500 gp |
-| --- | 49-53 | _Splendor_ | 25,000 gp |
-| --- | 54-58 | _Withering_ | 25,000 gp |
+| -- | 26-30 | _Enemy detection_ | 23,500 gp |
+| -- | 31-36 | Metamagic, _Enlarge, greater_ | 24,500 gp |
+| -- | 37-42 | Metamagic, _Extend, greater_ | 24,500 gp |
+| -- | 43-48 | Metamagic, _Silent, greater_ | 24,500 gp |
+| -- | 49-53 | _Splendor_ | 25,000 gp |
+| -- | 54-58 | _Withering_ | 25,000 gp |
 | 98-99 | 59-64 | Metamagic, _Empower_ | 32,500 gp |
-| --- | 65-69 | _Thunder and lightning_ | 33,000 gp |
+| -- | 65-69 | _Thunder and lightning_ | 33,000 gp |
 | 100 | 70-73 | Metamagic, _Quicken, lesser_ | 35,000 gp |
-| --- | 74-77 | _Negation_ | 37,000 gp |
-| --- | 78-80 | _Absorption_ | 50,000 gp |
-| --- | 81-84 | _Flailing_ | 50,000 gp |
-| --- | 85-86 | Metamagic, _Maximize_ | 54,000 gp |
-| --- | 87-88 | _Rulership_ | 60,000 gp |
-| --- | 89-90 | _Security_ | 61,000 gp |
-| --- | 91-92 | _Lordly might_ | 70,000 gp |
-| --- | 93-94 | Metamagic, _Empower, greater_ | 73,000 gp |
-| --- | 95-96 | Metamagic, _Quicken_ | 75,500 gp |
-| --- | 97-98 | _Alertness_ | 85,000 gp |
-| --- | 99 | Metamagic, _Maximize, greater_ | 121,500 gp |
-| --- | 100 | Metamagic, _Quicken, greater_ | 170,000 gp |
+| -- | 74-77 | _Negation_ | 37,000 gp |
+| -- | 78-80 | _Absorption_ | 50,000 gp |
+| -- | 81-84 | _Flailing_ | 50,000 gp |
+| -- | 85-86 | Metamagic, _Maximize_ | 54,000 gp |
+| -- | 87-88 | _Rulership_ | 60,000 gp |
+| -- | 89-90 | _Security_ | 61,000 gp |
+| -- | 91-92 | _Lordly might_ | 70,000 gp |
+| -- | 93-94 | Metamagic, _Empower, greater_ | 73,000 gp |
+| -- | 95-96 | Metamagic, _Quicken_ | 75,500 gp |
+| -- | 97-98 | _Alertness_ | 85,000 gp |
+| -- | 99 | Metamagic, _Maximize, greater_ | 121,500 gp |
+| -- | 100 | Metamagic, _Quicken, greater_ | 170,000 gp |
 
 ## Rod Descriptions
 
@@ -694,19 +694,19 @@ rods are described below.
 ### Absorption:
  This rod acts as a magnet, drawing spells or spell-like abilities into itself. The
 magic absorbed must be a single-target spell or a ray directed at either the character possessing the rod or her
-gear. The rod then nullifies the spell’s effect and stores its potential until the wielder releases this energy in
-the form of spells of her own. She can instantly detect a spell’s level as the rod absorbs that spell’s energy.
+gear. The rod then nullifies the spell's effect and stores its potential until the wielder releases this energy in
+the form of spells of her own. She can instantly detect a spell's level as the rod absorbs that spell's energy.
 Absorption requires no action on the part of the user if the rod is in hand at the time.
 
 A running total of absorbed (and used) spell levels should be kept. The wielder of the rod can use captured spell
 energy to cast any spell she has prepared, without expending the preparation itself. The only restrictions are
 that the levels of spell energy stored in the rod must be equal to or greater than the level of the spell the
 wielder wants to cast, that any material components required for the spell be present, and that the rod be in hand
-when casting. For casters such as bards or sorcerers who do not prepare spells, the rod’s energy can be used to
+when casting. For casters such as bards or sorcerers who do not prepare spells, the rod's energy can be used to
 cast any spell of the appropriate level or levels that they know.
 
 A _rod of absorption_ absorbs a maximum of fifty spell levels and can thereafter only discharge any remaining
-potential it might have. The rod cannot be recharged. The wielder knows the rod’s remaining absorbing potential
+potential it might have. The rod cannot be recharged. The wielder knows the rod's remaining absorbing potential
 and current amount of stored energy.
 
 To determine the absorption potential remaining in a newly found rod, roll d% and divide the result by 2. Then
@@ -737,16 +737,16 @@ Price 85,000 gp.
 ### Cancellation:
  This dreaded rod is a bane to magic items, for its touch drains an item of all
 magical properties. The item touched must make a DC 23 Will save to prevent the rod from draining it. If a
-creature is holding it at the time, then the item can use the holder’s Will save bonus in place of its own if the
-holder’s is better. In such cases, contact is made by making a melee touch attack roll. Upon draining an item, the
+creature is holding it at the time, then the item can use the holder's Will save bonus in place of its own if the
+holder's is better. In such cases, contact is made by making a melee touch attack roll. Upon draining an item, the
 rod itself becomes brittle and cannot be used again. Drained items are only restorable by _wish_or
 _miracle._ (If a _sphere of annihilation_ and a _rod of cancellation_ negate each other, nothing
 can restore either of them.)
 
-Strong abjuration; CL 17th; Craft Rod, _mage’s disjunction;_ Price 11,000 gp.
+Strong abjuration; CL 17th; Craft Rod, _mage's disjunction;_ Price 11,000 gp.
 
 ### Enemy Detection:
- This device pulses in the wielder’s hand and points in the direction of any
+ This device pulses in the wielder's hand and points in the direction of any
 creature or creatures hostile to the bearer of the device (nearest ones first). These creatures can be invisible,
 ethereal, hidden, disguised, or in plain sight. Detection range is 60 feet. If the bearer of the rod concentrates
 for a full round, the rod pinpoints the location of the nearest enemy and indicates how many enemies are within
@@ -757,7 +757,7 @@ Moderate divination; CL 10th; Craft Rod, _true seeing;_ Price 23,500 gp.
 
 ### Flailing:
  Upon the command of its possessor, the rod activates, changing from a normal-seeming
-rod to a _+3 dire flail_. The dire flail is a double weapon, which means that each of the weapon’s heads can
+rod to a _+3 dire flail_. The dire flail is a double weapon, which means that each of the weapon's heads can
 be used to attack. The wielder can gain an extra attack (with the second head) at the cost of making all attacks
 at a -2 penalty (as if she had the Two-Weapon Fighting feat).
 
@@ -773,7 +773,7 @@ _bless;_ Price 50,000 gp.
 ### Flame Extinguishing:
  This rod can extinguish Medium or smaller nonmagical fires with simply a
 touch (a standard action). For the rod to be effective against other sorts of fires, the wielder must expend 1 or
-more of the rod’s charges.
+more of the rod's charges.
 
 Extinguishing a Large or larger nonmagical fire, or a magic fire of Medium or smaller (such as that of a flaming
 weapon or a
@@ -807,7 +807,7 @@ Moderate transmutation; CL 10th; Craft Rod, _levitate;_ Price 5,000 gp.
  This rod has functions that are spell-like, and it can also be used as a magic
 weapon of various sorts. It also has several more mundane uses. The _rod of lordly might_ is metal, thicker
 than other rods, with a flanged ball at one end and six studlike buttons along its length. (Pushing any of the
-rod’s buttons is equivalent to drawing a weapon.) It weighs 10 pounds.
+rod's buttons is equivalent to drawing a weapon.) It weighs 10 pounds.
 
 The following spell-like functions of the rod can each be used once per day.
 *   _Hold person_ upon touch, if the wielder so commands (Will DC 14 negates). The wielder must choose to use this power and then succeed on a melee touch attack to activate the power. If the attack fails, the effect is lost.
@@ -816,21 +816,21 @@ The following spell-like functions of the rod can each be used once per day.
 
 The following weapon functions of the rod have no limit on the number of times they can be employed.
 *   In its normal form, the rod can be used as a _+2 light mace._
-*   When button 1 is pushed, the rod becomes a _+1 flaming longsword._ A blade springs from the ball, with the ball itself becoming the sword’s hilt. The weapon lengthens to an overall length of 4 feet.
+*   When button 1 is pushed, the rod becomes a _+1 flaming longsword._ A blade springs from the ball, with the ball itself becoming the sword's hilt. The weapon lengthens to an overall length of 4 feet.
 *   When button 2 is pushed, the rod becomes a _+4 battleaxe._ A wide blade springs forth at the ball, and the whole lengthens to 4 feet.
-*   When button 3 is pushed, the rod becomes a _+3 shortspear_ or _+3 longspear._ The spear blade springs forth, and the handle can be lengthened up to 12 feet (wielder’s choice), for an overall length of from 6 feet to 15 feet. At its 15-foot length, the rod is suitable for use as a lance.
+*   When button 3 is pushed, the rod becomes a _+3 shortspear_ or _+3 longspear._ The spear blade springs forth, and the handle can be lengthened up to 12 feet (wielder's choice), for an overall length of from 6 feet to 15 feet. At its 15-foot length, the rod is suitable for use as a lance.
 
 The following other functions of the rod also have no limit on the number of times they can be employed.
 *   Climbing pole/ladder. When button 4 is pushed, a spike that can anchor in granite is extruded from the ball, while the other end sprouts three sharp hooks. The rod lengthens to anywhere between 5 and 50 feet in a single round, stopping when button 4 is pushed again. Horizontal bars three inches long fold out from the sides, 1 foot apart, in staggered progression. The rod is firmly held by the spike and hooks and can bear up to 4,000 pounds. The wielder can retract the pole by pushing button 5.
-*   The ladder function can be used to force open doors. The wielder plants the rod’s base 30 feet or less from the portal to be forced and in line with it, then pushes button 4. The force exerted has a Strength modifier of +12.
+*   The ladder function can be used to force open doors. The wielder plants the rod's base 30 feet or less from the portal to be forced and in line with it, then pushes button 4. The force exerted has a Strength modifier of +12.
 *   When button 6 is pushed, the rod indicates magnetic north and gives the wielder a knowledge of his approximate depth beneath the surface or height above it.
 
 Strong enchantment, evocation, necromancy, and transmutation; CL 19th; Craft Rod, Craft Magic Arms and Armor,
-_inflict light wounds, bull’s strength, flame blade, hold person, fear;_
+_inflict light wounds, bull's strength, flame blade, hold person, fear;_
 Price 70,000 gp.
 
 ### Metal and Mineral Detection:
- This rod pulses in the wielder’s hand and points to the largest mass
+ This rod pulses in the wielder's hand and points to the largest mass
 of metal within 30 feet. However, the wielder can concentrate on a specific metal or mineral. If the specific
 mineral is within 30 feet, the rod points to any places it is located, and the rod wielder knows the approximate
 quantity as well. If more than one deposit of the specified metal or mineral is within range, the rod points to
@@ -842,7 +842,7 @@ Moderate divination; CL 9th; Craft Rod, _locate object;_ Price 10,500 gp.
  Metamagic rods hold the essence of a metamagic feat but do not change the spell
 slot of the altered spell. All the rods described here are use-activated (but casting spells in a threatened area
 still draws an attack of opportunity). A caster may only use one metamagic rod on any given spell, but it is
-permissible to combine a rod with metamagic feats possessed by the rod’s wielder. In this case, only the feats
+permissible to combine a rod with metamagic feats possessed by the rod's wielder. In this case, only the feats
 possessed by the wielder adjust the spell slot of the spell being cast.
 
 Possession of a metamagic rod does not confer the associated feat on the owner, only the ability to use the given
@@ -900,7 +900,7 @@ Strong (no school); CL 17th; Craft Rod, Silent Spell; Price 3,000 gp (lesser), 1
 wielder points the rod at the magic item, and a pale gray beam shoots forth to touch the target device, attacking
 as a ray (a ranged touch attack). The ray functions as a _greater dispel magic_ spell, except it only affects
 magic items. To negate instantaneous effects from an item, the rod wielder needs to have used a ready action. The
-dispel check uses the rod’s caster level (15th). The target item gets no saving throw, although the rod can’t
+dispel check uses the rod's caster level (15th). The target item gets no saving throw, although the rod can't
 negate artifacts (even minor artifacts). The rod can function three times per day.
 
 Strong varied; CL 15th; Craft Rod, _dispel magic,_ and _limited wish_ or _miracle;_ Price 37,000
@@ -930,11 +930,11 @@ to dust. This duration need not be continuous.
 Strong enchantment; CL 20th; Craft Rod, _mass charm monster;_ Price 60,000 gp; Cost 27,500 gp + 2,200 XP.
 
 ### Security:
- This item creates a nondimensional space, a pocket paradise. There the rod’s possessor
+ This item creates a nondimensional space, a pocket paradise. There the rod's possessor
 and as many as 199 other creatures can stay in complete safety for a period of time, up to 200 days divided by the
 number of creatures affected. All fractions are rounded down.
 
-In this pocket paradise, creatures don’t age, and natural healing take place at twice the normal rate. Fresh water
+In this pocket paradise, creatures don't age, and natural healing take place at twice the normal rate. Fresh water
 and food (fruits and vegetables only) are in abundance. The climate is comfortable for all creatures involved.
 
 Activating the rod (a standard action) causes the wielder and all creatures touching the rod to be transported
@@ -943,9 +943,9 @@ allowing all connected creatures in a circle or a chain to be affected by the ro
 Will save to negate the effect. If such a creature succeeds on its save, other creatures beyond that point in a
 chain can still be affected by the rod.
 
-When the rod’s effect expires or is dispelled, all the affected creatures instantly reappear in the location they
+When the rod's effect expires or is dispelled, all the affected creatures instantly reappear in the location they
 occupied when the rod was activated. If something else occupies the space that a traveler would be returning to,
-then his body is displaced a sufficient distance to provide the space required for reentry. The rod’s possessor
+then his body is displaced a sufficient distance to provide the space required for reentry. The rod's possessor
 can dismiss the effect whenever he wishes before the maximum time period expires, but the rod can only be
 activated once per week.
 
@@ -960,24 +960,24 @@ Apparel created by the magic of the rod remains in existence for 12 hours. Howev
 sell or give away any part of it, to use it for a spell component, or the like, all the apparel immediately
 disappears. The same applies if any of it is forcibly taken from her.
 
-The value of noble garb created by the rod ranges from 7,000 to 10,000 gp (1d4+6 x 1,000 gp)---1,000 gp for the
+The value of noble garb created by the rod ranges from 7,000 to 10,000 gp (1d4+6 x 1,000 gp)--1,000 gp for the
 fabric alone, 5,000 gp for the furs, and the rest for the jewel trim (maximum of twenty gems, maximum value 200 gp
 each).
 
-In addition, the rod has a second special power, usable once per week. Upon command, it creates a palatial tent---a
+In addition, the rod has a second special power, usable once per week. Upon command, it creates a palatial tent--a
 huge pavilion of silk 60 feet across. Inside the tent are temporary furnishings and food suitable to the splendor
 of the pavilion and sufficient to entertain as many as one hundred persons. The tent and its trappings last for
 one day. At the end of that time, the tent and all objects associated with it (including any items that were taken
 out of the tent) disappear.
 
 Strong conjuration and transmutation; CL 12th; Craft Rod,
-_eagle’s splendor, fabricate, major creation;_ Price 25,000 gp.
+_eagle's splendor, fabricate, major creation;_ Price 25,000 gp.
 
 ### Thunder and Lightning:
  Constructed of iron set with silver rivets, this rod has the properties of
 a _+2 light mace_. Its other magical powers are as follows.
 
-*   _Thunder:_ Once per day, the rod can strike as a _+3 light mace,_ and the opponent struck is stunned from the noise of the rod’s impact (Fortitude DC 16 negates). Activating this power counts as a free action, and it works if the wielder strikes an opponent within 1 round.
+*   _Thunder:_ Once per day, the rod can strike as a _+3 light mace,_ and the opponent struck is stunned from the noise of the rod's impact (Fortitude DC 16 negates). Activating this power counts as a free action, and it works if the wielder strikes an opponent within 1 round.
 *   _Lightning:_ Once per day, when the wielder desires, a short spark of electricity can leap forth when the rod strikes an opponent to deal the normal damage for a _+2 light mace_ (1d6+2) and an extra 2d6 points of electricity damage. Even when the rod might not score a normal hit in combat, if the roll was good enough to count as a successful melee touch attack hit, then the 2d6 points of electricity damage still applies. The wielder activates this power as a free action, and it works if he strikes an opponent within 1 round.
 *   _Thunderclap:_ Once per day as a standard action, the wielder can cause the rod to give out a deafening noise, just as a _shout_ spell (Fortitude DC 16 partial, 2d6 points of sonic damage, target deafened for 2d6 rounds).
 *   _Lightning Stroke:_ Once per day as a standard action, the wielder can cause the rod to shoot out a 5-foot-wide lightning bolt (9d6 points of electricity damage, Reflex DC 16 half ) to a range of 200 feet.
@@ -1016,10 +1016,10 @@ include the following.
 | 06-10 | _Faerie fire_ surrounds the target. |
 | 11-15 | Deludes wielder for 1 round into believing the rod functions as indicated by a second die roll (no save). |
 | 16-20 | _Gust of wind,_ but at windstorm force (Fortitude DC 14 negates). |
-| 21-25 | Wielder learns target’s surface thoughts (as with _detect thoughts)_ for 1d4 rounds (no save). |
+| 21-25 | Wielder learns target's surface thoughts (as with _detect thoughts)_ for 1d4 rounds (no save). |
 | 26-30 | _Stinking cloud_ at 30-ft. range (Fortitude DC 15 negates). |
 | 31-33 | Heavy rain falls for 1 round in 60-ft. radius centered on rod wielder. |
-| 34-36 | _Summon_ an animal---a rhino (01-25 on d%), elephant (26-50), or mouse (51-100). |
+| 34-36 | _Summon_ an animal--a rhino (01-25 on d%), elephant (26-50), or mouse (51-100). |
 | 37-46 | _Lightning bolt_ (70 ft. long, 5 ft. wide), 6d6 damage (Reflex DC 15 half). |
 | 47-49 | Stream of 600 large butterflies pours forth and flutters around for 2 rounds, blinding everyone (including wielder) within 25 ft. (Reflex DC 14 negates). |
 | 50-53 | _Enlarge person_ if within 60 ft. of rod (Fortitude DC 13 negates). |

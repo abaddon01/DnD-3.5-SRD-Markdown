@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Basic Rules and Legal - Traps
-aliases: 3.5 Traps
+aliases:
+  - 3.5 Traps
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - basic_rules_and_legal
   - traps
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -64,7 +64,7 @@ spellcaster hired for the purpose.
 Dungeons are frequently equipped with deadly mechanical (nonmagical) traps. A trap typically is defined by its
 location and triggering conditions, how hard it is to spot before it goes off, how much damage it deals, and
 whether or not the heroes receive a saving throw to mitigate its effects. Traps that attack with arrows, sweeping
-blades, and other types of weaponry make normal attack rolls, with a specific attack bonus dictated by the trap’s
+blades, and other types of weaponry make normal attack rolls, with a specific attack bonus dictated by the trap's
 design.
 
 Creatures who succeed on a DC 20 Search check detect a simple mechanical trap before it is triggered. (A simple
@@ -86,12 +86,12 @@ the following to be true.
 
 ## Elements of a Trap
 
-All traps---mechanical or magic---have the following elements: trigger, reset, Search DC, Disable Device DC, attack
+All traps--mechanical or magic--have the following elements: trigger, reset, Search DC, Disable Device DC, attack
 bonus (or saving throw or onset delay), damage/effect, and Challenge Rating. Some traps may also include optional
 elements, such as poison or a bypass. These characteristics are described below.
 
 ### Trigger
-A trap’s trigger determines how it is sprung.
+A trap's trigger determines how it is sprung.
 ### Location:
  A location trigger springs a trap when someone stands in a particular square.
 
@@ -103,7 +103,7 @@ location trigger. Mechanical proximity triggers are extremely sensitive to the s
 makes them useful only in places such as crypts, where the air is unusually still.
 
 The proximity trigger used most often for magic device traps is the
-_alarm_ spell. Unlike when the spell is cast, an _alarm_ spell used as a trigger can have an area that’s
+_alarm_ spell. Unlike when the spell is cast, an _alarm_ spell used as a trigger can have an area that's
 no larger than the area the trap is meant to protect.
 
 Some magic device traps have special proximity triggers that activate only when certain kinds of creatures
@@ -130,7 +130,7 @@ spell chosen, as shown.
 | _true seeing_ | Line of sight (up to 120 ft.) | +30 |
 
 If you want the trap to "see" in the dark, you must either choose the
-_true seeing_ option or add _darkvision_ to the trap as well. (_Darkvision_ limits the trap’s sight
+_true seeing_ option or add _darkvision_ to the trap as well. (_Darkvision_ limits the trap's sight
 range in the dark to 60 feet.) If invisibility, disguises, or illusions can fool the spell being used, they can
 fool the visual trigger as well.
 
@@ -151,7 +151,7 @@ trigger conditions for traps that contain spell triggers.
 A reset element is the set of conditions under which a trap becomes ready to trigger again.
 
 ### No Reset:
- Short of completely rebuilding the trap, there’s no way to trigger it more than once.
+ Short of completely rebuilding the trap, there's no way to trigger it more than once.
 Spell traps have no reset element.
 
 ### Repair:
@@ -166,7 +166,7 @@ of reset element most mechanical traps have.
 ### Repairing and Resetting Mechanical Traps
 
 Repairing a mechanical trap requires a Craft (trapmaking) check against a DC equal to the one for building it. The
-cost for raw materials is one-fifth of the trap’s original market price. To calculate how long it takes to fix a
+cost for raw materials is one-fifth of the trap's original market price. To calculate how long it takes to fix a
 trap, use the same calculations you would for building it, but use the cost of the raw materials required for
 repair in place of the market price.
 
@@ -175,8 +175,8 @@ the time and labor required.
 
 ### Bypass (Optional Element)
 
-If the builder of a trap wants to be able to move past the trap after it is created or placed, it’s a good idea to
-build in a bypass mechanism ---something that temporarily disarms the trap. Bypass elements are typically used only
+If the builder of a trap wants to be able to move past the trap after it is created or placed, it's a good idea to
+build in a bypass mechanism --something that temporarily disarms the trap. Bypass elements are typically used only
 with mechanical traps; spell traps usually have built-in allowances for the caster to bypass them.
 
 ### Lock:
@@ -201,7 +201,7 @@ CR Modifiers for Mechanical Traps).
 ### Magic Trap:
  The DC for both Search and Disable Device checks is equal to 25 + the spell level of
 the highest-level spell used. Only characters with the trap sense class feature can attempt a Search check or a
-Disable Device check involving a magic trap. These DCs do not affect the trap’s cost or CR.
+Disable Device check involving a magic trap. These DCs do not affect the trap's cost or CR.
 
 ### Attack Bonus/Saving Throw Dc
 
@@ -227,7 +227,7 @@ recklessly at the time, she gets no saving throw and falls automatically.
 Trap coverings can be as simple as piled refuse (straw, leaves, sticks, garbage), a large rug, or an actual
 trapdoor concealed to appear as a normal part of the floor. Such a trapdoor usually swings open when enough weight
 (usually about 50 to 80 pounds) is placed upon it. Devious trap builders sometimes design trapdoors so that they
-spring back shut after they open. The trapdoor might lock once it’s back in place, leaving the stranded character
+spring back shut after they open. The trapdoor might lock once it's back in place, leaving the stranded character
 well and truly trapped. Opening such a trapdoor is just as difficult as opening a regular door (assuming the
 trapped character can reach it), and a DC 13 Strength check is needed to keep a spring-loaded door open.
 
@@ -238,10 +238,10 @@ damage of +5). If the pit has multiple spikes, a falling victim is attacked by 1
 addition to any damage from the fall itself.
 
 Monsters sometimes live in pits. Any monster that can fit into the pit might have been placed there by the
-dungeon’s designer, or might simply have fallen in and not been able to climb back out.
+dungeon's designer, or might simply have fallen in and not been able to climb back out.
 
 A secondary trap, mechanical or magical, at the bottom of a pit can be particularly deadly. Activated by a falling
-victim, the secondary trap attacks the already injured character when she’s least ready for it.
+victim, the secondary trap attacks the already injured character when she's least ready for it.
 
 ### Ranged Attack Traps:
  These traps fling darts, arrows, spears, or the like at whoever activated
@@ -274,8 +274,8 @@ A melee attack trap can be constructed with a built-in bonus on damage rolls, ju
 high Strength score.
 
 ### Spell Traps:
- Spell traps produce the spell’s effect. Like all spells, a spell trap that allows a
-saving throw has a save DC of 10 + spell level + caster’s relevant ability modifier.
+ Spell traps produce the spell's effect. Like all spells, a spell trap that allows a
+saving throw has a save DC of 10 + spell level + caster's relevant ability modifier.
 
 ### Magic Device Traps:
  These traps produce the effects of any spells included in their construction,
@@ -294,7 +294,7 @@ are discussed below.
 
 ### Alchemical Item:
  Mechanical traps may incorporate alchemical devices or other special substances
-or items, such as tanglefoot bags, alchemist’s fire, thunderstones, and the like. Some such items mimic spell
+or items, such as tanglefoot bags, alchemist's fire, thunderstones, and the like. Some such items mimic spell
 effects. If the item mimics a spell effect, it increases the CR as shown on Table: CR Modifiers for Mechanical
 Traps.
 
@@ -310,8 +310,8 @@ usually have the never miss and onset delay features (see below).
  Traps with this feature can affect more than one character.
 
 ### Never Miss:
- When the entire dungeon wall moves to crush you, your quick reflexes won’t help,
-since the wall can’t possibly miss. A trap with this feature has neither an attack bonus nor a saving throw to
+ When the entire dungeon wall moves to crush you, your quick reflexes won't help,
+since the wall can't possibly miss. A trap with this feature has neither an attack bonus nor a saving throw to
 avoid, but it does have an onset delay (see below). Most traps involving liquid or gas are of the never miss
 variety.
 
@@ -323,7 +323,7 @@ deals damage. A never miss trap always has an onset delay.
  Traps that employ poison are deadlier than their nonpoisonous counterparts, so they have
 correspondingly higher CRs. To determine the CR modifier for a given poison, consult Table: CR Modifiers for
 Mechanical Traps. Only injury, contact, and inhaled poisons are suitable for traps; ingested types are not. Some
-traps simply deal the poison’s damage. Others deal damage with ranged or melee attacks as well.
+traps simply deal the poison's damage. Others deal damage with ranged or melee attacks as well.
 
 ### Pit Spikes:
  Treat spikes at the bottom of a pit as daggers, each with a +10 attack bonus. The
@@ -332,7 +332,7 @@ pit is attacked by 1d4 spikes. Pit spikes do not add to the average damage of th
 below).
 
 ### Pit Bottom:
- If something other than spikes waits at the bottom of a pit, it’s best to treat that
+ If something other than spikes waits at the bottom of a pit, it's best to treat that
 as a separate trap (see Multiple Traps, below) with a location trigger that activates on any significant impact,
 such as a falling character.
 
@@ -892,15 +892,15 @@ targets (up to 17 creatures); Search DC 34; Disable Device DC 34. _Cost:_ 76,500
 
 ### Mechanical Traps:
  Simply select the elements you want the trap to have and add up the adjustments
-to the trap’s Challenge Rating that those elements require (see Table: CR Modifiers for Mechanical Traps) to
-arrive at the trap’s final CR. From the CR you can derive the DC of the Craft (trapmaking) checks a character must
+to the trap's Challenge Rating that those elements require (see Table: CR Modifiers for Mechanical Traps) to
+arrive at the trap's final CR. From the CR you can derive the DC of the Craft (trapmaking) checks a character must
 make to construct the trap.
 
 ### Magic Traps:
- As with mechanical traps, you don’t have to do anything other than decide what
+ As with mechanical traps, you don't have to do anything other than decide what
 elements you want and then determine the CR of the resulting trap (see Table: CR Modifiers for Magic Traps). If a
 player character wants to design and construct a magic trap, he must have the Craft Wondrous Item feat. In
-addition, he must be able to cast the spell or spells that the trap requires---or, failing that, he must be able to
+addition, he must be able to cast the spell or spells that the trap requires--or, failing that, he must be able to
 hire an NPC to cast the spells for him.
 
 ### Challenge Rating of a Trap
@@ -922,7 +922,7 @@ average damage for a successful hit and round that value to the nearest multiple
 the Challenge Rating of the trap, as indicated on the tables below. Damage from poisons and pit spikes does not
 count toward this value, but damage from a high strength rating and extra damage from multiple attacks does.
 
-For a magic trap, only one modifier applies to the CR---either the level of the highest-level spell used in the
+For a magic trap, only one modifier applies to the CR--either the level of the highest-level spell used in the
 trap, or the average damage figure, whichever is larger.
 
 ### Multiple Traps:
@@ -950,13 +950,13 @@ The resulting Encounter Level is the CR for the combined traps.
 | 30 or higher | +2 |
 | _Reflex Save DC (Pit or Other Save-Dependent Trap)_ |  |
 | 15 or lower | -1 |
-| 16-24 | --- |
+| 16-24 | -- |
 | 25-29 | +1 |
 | 30 or higher | +2 |
 | _Attack Bonus (Melee or Ranged Attack Trap)_ |  |
 | +0 or lower | -2 |
 | +1 to +5 | -1 |
-| +6 to +14 | --- |
+| +6 to +14 | -- |
 | +15 to +19 | +1 |
 | +20 to +24 | +2 |
 | _Damage/Effect_ |  |
@@ -995,12 +995,12 @@ The resulting Encounter Level is the CR for the combined traps.
 ### Mechanical Trap Cost
 
 The base cost of a mechanical trap is 1,000 gp. Apply all the modifiers from Table: Cost Modifiers for Mechanical
-Traps for the various features you’ve added to the trap to get the modified base cost.
+Traps for the various features you've added to the trap to get the modified base cost.
 
 The final cost is equal to (modified base cost x Challenge Rating) + extra costs. The minimum cost for a
 mechanical trap is (CR x 100) gp.
 
-After you’ve multiplied the modified base cost by the Challenge Rating, add the price of any alchemical items or
+After you've multiplied the modified base cost by the Challenge Rating, add the price of any alchemical items or
 poison you incorporated into the trap. If the trap uses one of these elements and has an automatic reset, multiply
 the poison or alchemical item cost by 20 to provide an adequate supply of doses.
 
@@ -1014,15 +1014,15 @@ separately, then add those values together. This holds for both multiple depende
 | Feature | Cost Modifier |
 | --- | --- |
 | _Trigger Type_ |  |
-| Location | --- |
+| Location | -- |
 | Proximity | +1,000 gp |
-| Touch | --- |
+| Touch | -- |
 | Touch (attached) | -100 gp |
 | Timed | +1,000 gp |
 | _Reset Type_ |  |
 | No reset | -500 gp |
 | Repair | -200 gp |
-| Manual | --- |
+| Manual | -- |
 | Automatic | +500 gp (or 0 if trap has timed trigger) |
 | _Bypass Type_ |  |
 | Lock | +100 gp (Open Lock DC 30) |
@@ -1030,19 +1030,19 @@ separately, then add those values together. This holds for both multiple depende
 | Hidden lock | +300 gp (Open Lock DC 30, Search DC 25) |
 | _Search DC_ |  |
 | 19 or lower | -100 gp x (20 - DC) |
-| 20 | --- |
+| 20 | -- |
 | 21 or higher | +200 gp x (DC - 20) |
 | _Disable Device DC_ |  |
 | 19 or lower | -100 gp x (20 - DC) |
-| 20 | --- |
+| 20 | -- |
 | 21 or higher | +200 gp x (DC - 20) |
 | _Reflex Save DC (Pit or Other Save-Dependent Trap)_ |
 | 19 or lower | -100 gp x (20 - DC) |
-| 20 | --- |
+| 20 | -- |
 | 21 or higher | +300 gp x (DC - 20) |
 | _Attack Bonus (Melee or Ranged Attack Trap)_ |
 | +9 or lower | -100 gp x (10 - bonus) |
-| +10 | --- |
+| +10 | -- |
 | +11 or higher | +200 gp x (bonus - 10) |
 | _Damage Bonus_ |  |
 | High strength rating (ranged attack trap) | +100 gp x bonus (max +4) |
@@ -1071,7 +1071,7 @@ A magic device trap takes one day to construct per 500 gp of its cost.
 
 | Feature | Cost Modifier |
 | --- | --- |
-| _Alarm_ spell used in trigger | --- |
+| _Alarm_ spell used in trigger | -- |
 | _One-Shot Trap_ |  |
 | Each spell used in trap | +50 gp x caster level x spell level, +4 XP x caster level x spell level |
 | Material components | + Cost of all material components |

@@ -1,8 +1,14 @@
 ---
 lang: en
-title: 3.5 Compendium / v3.5 SRD/ Monsters/ Monsters as Races
-aliases: 3.5 Monsters as Races
-tags: 3.5e rules v3.5-srd monsters monsters-as-races
+title: 3.5 Compendium  - v3.5 SRD - Monsters - Monsters as Races
+aliases:
+  - 3.5 Monsters as Races
+tags:
+  - 3.5e
+  - rules
+  - v3.5_srd
+  - monsters
+  - monsters_as_races
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -17,9 +23,9 @@ high-level campaigns).
 
 #### Starting Level of a Monster PC:
  Monsters suitable for play have a level adjustment given in their
-statistics. Add a monster’s level adjustment to its Hit Dice and class levels to get the creature’s effective
+statistics. Add a monster's level adjustment to its Hit Dice and class levels to get the creature's effective
 character level, or ECL. Effectively, monsters with a level adjustment become multiclass character when they take
-class levels. A creature’s "monster class" is always a favored class, and the creature never takes XP penalties
+class levels. A creature's "monster class" is always a favored class, and the creature never takes XP penalties
 for having it.
 
 #### Humanoids and Class Levels:
@@ -50,20 +56,20 @@ Even if the creature is of a kind that normally advances by Hit Dice rather than
 levels rather than Hit Dice.
 
 #### Hit Dice:
- The creature’s Hit Dice equal the number of class levels it has plus its racial Hit
-Dice. Additional Hit Dice gained from taking levels in a character class never affect a creature’s size like
+ The creature's Hit Dice equal the number of class levels it has plus its racial Hit
+Dice. Additional Hit Dice gained from taking levels in a character class never affect a creature's size like
 additional racial Hit Dice do.
 
 #### Feat Acquisition and Ability Score Increases:
- A monster’s total Hit Dice, not its ECL, govern its
+ A monster's total Hit Dice, not its ECL, govern its
 acquisition of feats and ability score increases.
 
 #### Ability Scores for Monster PCs:
  While a monsters statistics give the ability scores for a typical
 creature of a certain kind, any "monster" creature that becomes an adventurer is definitely not typical.
-Therefore, when creating a PC from a creature, check to see if the creature’s entry has any ability scores of 10
+Therefore, when creating a PC from a creature, check to see if the creature's entry has any ability scores of 10
 or higher. If so, for each score, subtract 10 (if the score is even) or 11 (if the score is odd) to get the
-creature’s modifier for that ability based on its race or kind. Generate the character’s ability scores as normal,
+creature's modifier for that ability based on its race or kind. Generate the character's ability scores as normal,
 then add the racial ability modifiers to get their ability scores.
 
 #### Note:
@@ -71,15 +77,15 @@ then add the racial ability modifiers to get their ability scores.
 this will be indicated in the monster entry. Also, some monsters that make good PCs have their racial ability
 modifiers and other traits already listed in their monster entry.
 
-For ability scores lower than 10, the procedure is different. First, determine the character’s ability scores, and
-compare that number to the monster’s average ability score, using either the table below that applies to
+For ability scores lower than 10, the procedure is different. First, determine the character's ability scores, and
+compare that number to the monster's average ability score, using either the table below that applies to
 Intelligence or the table that applies to the other five ability scores.
 
 The separate table for Intelligence ensures that no PC ends up with an Intelligence score lower than 3. This is
 important, because creatures with an Intelligence score lower than 3 are not playable characters. Creatures with
 any ability score lower than 1 are also not playable.
 
-| Monster PCs’ Intelligence Scores |
+| Monster PCs' Intelligence Scores |
 | --- |
 | Generated Score | Monster Intelligence Score |
 | 3 | 4-5 | 6-7 | 8-9 |
@@ -100,7 +106,7 @@ any ability score lower than 1 are also not playable.
 | 4 | 3 | 3 | 4 | 4 |
 | 3 | 3 | 3 | 3 | 3 |
 
-| Monster PCs’ Ability Scores |
+| Monster PCs' Ability Scores |
 | --- |
 | Generated Score | Monster Ability Score (Str, Dex, Con, Wis, Cha) |
 | 1 | 2-3 | 4-5 | 6-7 | 8-9 |

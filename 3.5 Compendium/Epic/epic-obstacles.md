@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Epic - Epic Obstacles
-aliases: 3.5 Epic Obstacles
+aliases:
+  - 3.5 Epic Obstacles
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - epic
   - epic_obstacles
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -27,7 +27,7 @@ force.
 
 | Wall Type | Typical Thickness | Break DC | Hardness | Hit Points* | Climb DC |
 | --- | --- | --- | --- | --- | --- |
-| Paper | Paper-thin | 1 | --- | 1hp | 30 |
+| Paper | Paper-thin | 1 | -- | 1hp | 30 |
 | Wood | 6in. | 20 | 5 | 60hp | 21 |
 | Masonry | 1ft. | 35 | 8 | 90hp | 15 |
 | Masonry, superior | 1ft. | 35 | 8 | 90hp | 20 |
@@ -37,7 +37,7 @@ force.
 | Iron | 3in. | 30 | 10 | 90hp | 25 |
 | Mithral | 3in. | 46 | 15 | 90hp | 70 |
 | Adamantine | 3in. | 66 | 20 | 120hp | 70 |
-| Magically treated** | --- | 20 | x2 | x2† | --- |
+| Magically treated** | -- | 20 | x2 | x2† | -- |
 | _Wall of force_ | 1in. | n/a | n/a | n/a | 70 |
 | _Wall of ice_ | 1in./lvl | 15+1/in. | 0 | 3hp/in. | 25 |
 | _Wall of iron_ | 1in./4lvls | 25+2/in. | 10 | 30hp/in. | 25 |
@@ -77,7 +77,7 @@ force.
 | Lava pit | 2d6 damage per round, or 20d6 per round for total immersion; plus continuing damage. |
 | Permanent _prismatic sphere_ | Requires seven different spells to bypass. |
 | Permanent _solid fog_ | Move at one-tenth normal speed, -2 penalty on attack and damage (good when coupled with incorporeal monsters). |
-| Permanent _wall of force_ | Blocks most spells and ethereal travel, can’t be _dispelled_. |
+| Permanent _wall of force_ | Blocks most spells and ethereal travel, can't be _dispelled_. |
 | Three-dimensional dungeons | Levitation/flying required to move between areas. |
 | Unconnected rooms | Teleportation required to move between areas. |
 | Variable gravity | As _reverse gravity_, but direction random each round. |
@@ -103,7 +103,7 @@ phenomenon: Magical energy drains through the origin point in one direction in e
 side. The _antimagic field_ a flux slime generates is actually the byproduct of the consumption of magical
 energy.
 
-In addition to the _antimagic field’s_effects, magic items that come into contact with flux slime permanently
+In addition to the _antimagic field's_effects, magic items that come into contact with flux slime permanently
 lose their magical abilities; creatures with spell-like or super-natural abilities that come into contact with it
 take 2d6 points of temporary Constitution damage per round while it devours flesh; creatures without such
 abilities are immune to this effect.

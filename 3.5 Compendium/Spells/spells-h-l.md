@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Spells - Spells (H-L)
-aliases: 3.5 Spells (H-L)
+aliases:
+  - 3.5 Spells (H-L)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - spells
   - spells_h-l
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -25,7 +25,7 @@ This material is Open Game Content, and is licensed for public use under the ter
 *   [[#Heal Mount]]
 *   [[#Heat Metal]]
 *   [[#Helping Hand]]
-*   [[#Heroes’ Feast]]
+*   [[#Heroes' Feast]]
 *   [[#Heroism]]
 *   [[#Heroism, Greater]]
 *   [[#Hide From Animals]]
@@ -127,7 +127,7 @@ the chosen effect lapses, but it can be renewed or replaced simply by casting _h
 
 Spell effects that may be tied to a _hallowed_ site include
 _aid, bane, bless, cause fear, darkness, daylight, death ward, deeper darkness, detect evil, detect magic, dimensional anchor, discern lies, dispel magic, endure elements, freedom of movement, invisibility purge, protection from energy, remove fear, resist energy, silence, tongues,_
-and _zone of truth_. Saving throws and spell resistance might apply to these spells’ effects. (See the
+and _zone of truth_. Saving throws and spell resistance might apply to these spells' effects. (See the
 individual spell descriptions for details.)
 
 An area can receive only one _hallow_ spell (and its associated spell effect) at a time.
@@ -206,7 +206,7 @@ Necromancy
 
 _Harm_ charges a subject with negative energy that deals 10 points of damage per caster level (to a maximum
 of 150 points at 15th level). If the creature successfully saves, _harm_ deals half this amount, but it
-cannot reduce the target’s hit points to less than 1.
+cannot reduce the target's hit points to less than 1.
 
 If used on an undead creature, _harm_ acts like _heal_.
 ## Haste
@@ -231,18 +231,18 @@ Transmutation
 The transmuted creatures move and act more quickly than normal. This extra speed has several effects.
 
 When making a full attack action, a hasted creature may make one extra attack with any weapon he is holding. The
-attack is made using the creature’s full base attack bonus, plus any modifiers appropriate to the situation. (This
+attack is made using the creature's full base attack bonus, plus any modifiers appropriate to the situation. (This
 effect is not cumulative with similar effects, such as that provided by a weapon of speed, nor does it actually
-grant an extra action, so you can’t use it to cast a second spell or otherwise take an extra action in the round.)
+grant an extra action, so you can't use it to cast a second spell or otherwise take an extra action in the round.)
 
 A _hasted_ creature gains a +1 bonus on attack rolls and a +1 dodge bonus to AC and Reflex saves. Any
 condition that makes you lose your Dexterity bonus to Armor Class (if any) also makes you lose dodge bonuses.
 
-All of the _hasted_ creature’s modes of movement (including land movement, burrow, climb, fly, and swim)
-increase by 30 feet, to a maximum of twice the subject’s normal speed using that form of movement. This increase
-counts as an enhancement bonus, and it affects the creature’s jumping distance as normal for increased speed.
+All of the _hasted_ creature's modes of movement (including land movement, burrow, climb, fly, and swim)
+increase by 30 feet, to a maximum of twice the subject's normal speed using that form of movement. This increase
+counts as an enhancement bonus, and it affects the creature's jumping distance as normal for increased speed.
 
-Multiple _haste_ effects don’t stack. _Haste_ dispels and counters _slow._
+Multiple _haste_ effects don't stack. _Haste_ dispels and counters _slow._
 _Material Component:_ A shaving of licorice root.
 ## Heal
 Conjuration (Healing)
@@ -304,7 +304,7 @@ Conjuration (Healing)
 ### Spell Resistance:
  Yes (harmless)
 
-This spell functions like _heal,_ but it affects only the paladin’s special mount (typically a warhorse).
+This spell functions like _heal,_ but it affects only the paladin's special mount (typically a warhorse).
 
 ## Heat Metal
 Transmutation [Fire]
@@ -329,16 +329,16 @@ apart; or 25 lb. of metal/level, all of which must be within a 30-ft. circle
  Yes (object)
 
 _Heat metal_ makes metal extremely warm. Unattended, nonmagical metal gets no saving throw. Magical metal is
-allowed a saving throw against the spell. An item in a creature’s possession uses the creature’s saving throw
+allowed a saving throw against the spell. An item in a creature's possession uses the creature's saving throw
 bonus unless its own is higher.
 
 A creature takes fire damage if its equipment is heated. It takes full damage if its armor is affected or if it is
 holding, touching, wearing, or carrying metal weighing one-fifth of its weight. The creature takes minimum damage
-(1 point or 2 points; see the table) if it’s not wearing metal armor and the metal that it’s carrying weighs less
+(1 point or 2 points; see the table) if it's not wearing metal armor and the metal that it's carrying weighs less
 than one-fifth of its weight.
 
 On the first round of the spell, the metal becomes warm and uncomfortable to touch but deals no damage. The same
-effect also occurs on the last round of the spell’s duration. During the second (and also the next-to-last) round,
+effect also occurs on the last round of the spell's duration. During the second (and also the next-to-last) round,
 intense heat causes pain and damage. In the third, fourth, and fifth rounds, the metal is searing hot, causing
 more damage, as shown on the table below.
 
@@ -410,10 +410,10 @@ it returns to you, displays an outstretched palm (indicating that no such creatu
 
 The ghostly hand has no physical form. It is invisible to anyone except you and a potential subject. It cannot
 engage in combat or execute any other task aside from locating a subject and leading it back to you. The hand
-can’t pass through solid objects but can ooze through small cracks and slits. The hand cannot travel more than 5
+can't pass through solid objects but can ooze through small cracks and slits. The hand cannot travel more than 5
 miles from the spot it appeared when you cast the spell.
 
-## Heroes’ Feast
+## Heroes' Feast
 Conjuration [Creation]
 ### Level:
  Brd 6, Clr 6
@@ -518,7 +518,7 @@ Abjuration
 Undead cannot see, hear, or smell the warded creatures. Even extraordinary or supernatural sensory capabilities,
 such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures. Nonintelligent
 undead creatures are automatically affected and act as though the warded creatures are not there. An intelligent
-undead creature gets a single Will saving throw. If it fails, the subject can’t see any of the warded creatures.
+undead creature gets a single Will saving throw. If it fails, the subject can't see any of the warded creatures.
 However, if it has reason to believe unseen opponents are present, it can attempt to find or strike them. If a
 warded creature attempts to turn or command undead, touches an undead creature, or attacks any creature (even with
 a spell), the spell ends for all recipients.
@@ -547,7 +547,7 @@ prone. The subject can take no actions while laughing, but is not considered hel
 can act normally.
 
 A creature with an Intelligence score of 2 or lower is not affected. A creature whose type is different from the
-caster’s receives a +4 bonus on its saving throw, because humor doesn’t "translate" well.
+caster's receives a +4 bonus on its saving throw, because humor doesn't "translate" well.
 
 _Material Component:_ Tiny tarts that are thrown at the target and a feather that is waved in the air.
 ## Hold Animal
@@ -605,7 +605,7 @@ The subject becomes paralyzed and freezes in place. It is aware and breathes nor
 even speech. Each round on its turn, the subject may attempt a new saving throw to end the effect. (This is a
 full-round action that does not provoke attacks of opportunity.)
 
-A winged creature who is paralyzed cannot flap its wings and falls. A swimmer can’t swim and may drown.
+A winged creature who is paralyzed cannot flap its wings and falls. A swimmer can't swim and may drown.
 _Arcane Focus:_ A small, straight piece of iron.
 ## Hold Person, Mass
 Enchantment (Compulsion) [Mind-Affecting]
@@ -672,7 +672,7 @@ _protection from evil_ does.
 
 Finally, if an evil creature succeeds on a melee attack against a warded creature, the offending attacker is
 blinded (Fortitude save negates, as
-_blindness/deafness_, but against _holy aura’s_ save DC).
+_blindness/deafness_, but against _holy aura's_ save DC).
 
 _Focus:_ A tiny reliquary containing some sacred relic. The reliquary costs at least 500 gp.
 ## Holy Smite
@@ -734,7 +734,7 @@ rendering the normal enhancement bonus and powers of the weapon inoperative for 
 spell is not cumulative with _bless weapon_ or any other spell that might modify the weapon in any way.
 
 This spell does not work on artifacts.
-_Note:_ A masterwork weapon’s bonus to attack does not stack with an enhancement bonus to attack.
+_Note:_ A masterwork weapon's bonus to attack does not stack with an enhancement bonus to attack.
 ## Holy Word
 Evocation [Good, Sonic]
 ### Level:
@@ -823,7 +823,7 @@ Illusion (Pattern) [Mind-Affecting]
 
 A twisting pattern of subtle, shifting colors weaves through the air, fascinating creatures within it. Roll 2d4
 and add your caster level (maximum 10) to determine the total number of Hit Dice of creatures affected. Creatures
-with the fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell’s
+with the fewest HD are affected first; and, among creatures with equal HD, those who are closest to the spell's
 point of origin are affected first. Hit Dice that are not sufficient to affect a creature are wasted. Affected
 creatures become fascinated by the pattern of colors. Sightless creatures are not affected.
 
@@ -886,7 +886,7 @@ Evocation [Cold]
 
 Great magical hailstones pound down for 1 full round, dealing 3d6 points of bludgeoning damage and 2d6 points of
 cold damage to every creature in the area. A -4 penalty applies to each Listen check made within the
-_ice storm_’s effect, and all land movement within its area is at half speed. At the end of the duration, the
+_ice storm_'s effect, and all land movement within its area is at half speed. At the end of the duration, the
 hail disappears, leaving no aftereffects (other than the damage dealt).
 
 _Arcane Material Component:_ A pinch of dust and a few drops of water.
@@ -938,7 +938,7 @@ Illusion (Phantasm) [Mind-Affecting]
 
 You write instructions or other information on parchment, paper, or any suitable writing material. The
 _illusory script_ appears to be some form of foreign or magical writing. Only the person (or people)
-designated by you at the time of the casting are able to read the writing; it’s unintelligible to any other
+designated by you at the time of the casting are able to read the writing; it's unintelligible to any other
 character, although an illusionist recognizes it as
 _illusory script._
 
@@ -999,7 +999,7 @@ You transfer some of your currently prepared spells, and the ability to cast the
 creature with an Intelligence score of at least 5 and a Wisdom score of at least 9 can receive this bestowal. Only
 cleric spells from the schools of abjuration, divination, and conjuration (healing) can be transferred. The number
 and level of spells that the subject can be granted depends on its Hit Dice; even multiple castings of
-_imbue with spell ability_ can’t exceed this limit.
+_imbue with spell ability_ can't exceed this limit.
 
 | HD of Recipient | Spells Imbued |
 | --- | --- |
@@ -1007,7 +1007,7 @@ _imbue with spell ability_ can’t exceed this limit.
 | 3-4 | One or two 1st-level spells |
 | 5 or higher | One or two 1st-level spells and one 2nd-level spell |
 
-The transferred spell’s variable characteristics (range, duration, area, and the like) function according to your
+The transferred spell's variable characteristics (range, duration, area, and the like) function according to your
 level, not the level of the recipient.
 
 Once you cast _imbue with spell ability,_ you cannot prepare a new 4th-level spell to replace it until the
@@ -1039,7 +1039,7 @@ Evocation
 ### Spell Resistance:
  Yes
 
-You create a destructive resonance in a corporeal creature’s body. For each round you concentrate, you cause one
+You create a destructive resonance in a corporeal creature's body. For each round you concentrate, you cause one
 creature to collapse in on itself, killing it. (This effect, being instantaneous, cannot be dispelled.)
 
 You can target a particular creature only once with each casting of the spell.
@@ -1068,7 +1068,7 @@ _temporal stasis_ spell) in a small sphere far beneath the surface of the earth.
 unless a _freedom_ spell is cast at the locale where the imprisonment took place. Magical search by a
 _crystal ball,_ a _locate object_ spell, or some other similar divination does not reveal the fact that
 a creature is imprisoned, but _discern location_ does. A _wish_ or _miracle_ spell will not free
-the recipient, but will reveal where it is entombed. If you know the target’s name and some facts about its life,
+the recipient, but will reveal where it is entombed. If you know the target's name and some facts about its life,
 the target takes a -4 penalty on its save.
 
 ## Incendiary Cloud
@@ -1095,13 +1095,13 @@ obscures all sight as a _fog cloud_ does. In addition, the white-hot embers with
 of fire damage to everything within the cloud on your turn each round. All targets can make Reflex saves each
 round to take half damage.
 
-As with a _cloudkill_ spell, the smoke moves away from you at 10 feet per round. Figure out the smoke’s new
+As with a _cloudkill_ spell, the smoke moves away from you at 10 feet per round. Figure out the smoke's new
 spread each round based on its new point of origin, which is 10 feet farther away from where you were when you
 cast the spell. By concentrating, you can make the cloud (actually its point of origin) move as much as 60 feet
 each round. Any portion of the cloud that would extend beyond your maximum range dissipates harmlessly, reducing
-the remainder’s spread thereafter.
+the remainder's spread thereafter.
 
-As with _fog cloud_, wind disperses the smoke, and the spell can’t be cast underwater.
+As with _fog cloud_, wind disperses the smoke, and the spell can't be cast underwater.
 ## Inflict Critical Wounds
 Necromancy
 ### Level:
@@ -1260,7 +1260,7 @@ other swarm
 You summon a number of swarms of locusts (one per three levels, to a maximum of six swarms at 18th level). The
 swarms must be summoned so that each one is adjacent to at least one other swarm (that is, the swarms must fill
 one contiguous area). You may summon the locust swarms so that they share the area of other creatures. Each swarm
-attacks any creatures occupying its area. The swarms are stationary after being summoned, and won’t pursue
+attacks any creatures occupying its area. The swarms are stationary after being summoned, and won't pursue
 creatures that flee.
 
 ## Instant Summons
@@ -1318,13 +1318,13 @@ Evocation [Force]
 
 _Interposing hand_ creates a Large magic hand that appears between you and one opponent. This floating,
 disembodied hand then moves to remain between the two of you, regardless of where you move or how the opponent
-tries to get around it, providing cover (+4 AC) for you against that opponent. Nothing can fool the hand---it sticks
+tries to get around it, providing cover (+4 AC) for you against that opponent. Nothing can fool the hand--it sticks
 with the selected opponent in spite of darkness, invisibility, polymorphing, or any other attempt at hiding or
 disguise. The hand does not pursue an opponent, however.
 
 An _interposing hand_ is 10 feet long and about that wide with its fingers outstretched. It has as many hit
-points as you do when you’re undamaged, and its AC is 20 (-1 size, +11 natural). It takes damage as a normal
-creature, but most magical effects that don’t cause damage do not affect it.
+points as you do when you're undamaged, and its AC is 20 (-1 size, +11 natural). It takes damage as a normal
+creature, but most magical effects that don't cause damage do not affect it.
 
 The hand never provokes attacks of opportunity from opponents. It cannot push through a _wall of force_ or
 enter an _antimagic field_, but it suffers the full effect of a _prismatic wall_ or
@@ -1334,7 +1334,7 @@ _Disintegrate_ or a successful _dispel magic_ destroys it.
 
 Any creature weighing 2,000 pounds or less that tries to push past the hand is slowed to half its normal speed.
 The hand cannot reduce the speed of a creature weighing more than 2,000 pounds, but it still affects the
-creature’s attacks.
+creature's attacks.
 
 Directing the spell to a new target is a move action.
 _Focus:_ A soft glove.
@@ -1369,7 +1369,7 @@ carries but that extends more than 10 feet from it becomes visible.
 Of course, the subject is not magically _silenced,_ and certain other conditions can render the recipient
 detectable (such as stepping in a puddle). The spell ends if the subject attacks any creature. For purposes of
 this spell, an attack includes any spell targeting a foe or whose area or effect includes a foe. (Exactly who is a
-foe depends on the invisible character’s perceptions.) Actions directed at unattended objects do not break the
+foe depends on the invisible character's perceptions.) Actions directed at unattended objects do not break the
 spell. Causing harm indirectly is not an attack. Thus, an invisible being can open doors, talk, eat, climb stairs,
 summon monsters and have them attack, cut the ropes holding a rope bridge while enemies are on the bridge,
 remotely trigger traps, open a portcullis to release attack dogs, and so forth. If the subject attacks directly,
@@ -1391,7 +1391,7 @@ Illusion (Glamer)
 ### Saving Throw:
  Will negates (harmless)
 
-This spell functions like _invisibility_, except that it doesn’t end if the subject attacks.
+This spell functions like _invisibility_, except that it doesn't end if the subject attacks.
 ## Invisibility, Mass
 Illusion (Glamer)
 ### Level:
@@ -1472,15 +1472,15 @@ iron golems.
 You gain a +6 enhancement bonus to your Strength score, but you take a -6 penalty to Dexterity as well (to a
 minimum Dexterity score of 1), and your speed is reduced to half normal. You have an arcane spell failure chance
 of 50% and a -8 armor check penalty, just as if you were clad in full plate armor. You cannot drink (and thus
-can’t use potions) or play wind instruments.
+can't use potions) or play wind instruments.
 
 Your unarmed attacks deal damage equal to a club sized for you (1d4 for Small characters or 1d6 for Medium
 characters), and you are considered armed when making unarmed attacks.
 
 Your weight increases by a factor of ten, causing you to sink in water like a stone. However, you could survive
-the crushing pressure and lack of air at the bottom of the ocean---at least until the spell duration expires.
+the crushing pressure and lack of air at the bottom of the ocean--at least until the spell duration expires.
 
-_Arcane Material Component:_ A small piece of iron that was once part of either an iron golem, a hero’s
+_Arcane Material Component:_ A small piece of iron that was once part of either an iron golem, a hero's
 armor, or a war machine.
 
 ## Ironwood
@@ -1559,7 +1559,7 @@ Transmutation
 The subject gets a +10 enhancement bonus on Jump checks. The enhancement bonus increases to +20 at caster level
 5th, and to +30 (the maximum) at caster level 9th.
 
-_Material Component:_ A grasshopper’s hind leg, which you break when the spell is cast.
+_Material Component:_ A grasshopper's hind leg, which you break when the spell is cast.
 ## Keen Edge
 Transmutation
 ### Level:
@@ -1589,8 +1589,8 @@ or crossbow bolts, the
 _keen edge_ on a particular projectile ends after one use, whether or not the missile strikes its intended
 target. (Treat shuriken as arrows, rather than as thrown weapons, for the purpose of this spell.)
 
-Multiple effects that increase a weapon’s threat range (such as the
-_keen edge_ spell and the Improved Critical feat) don’t stack. You can’t cast this spell on a natural weapon,
+Multiple effects that increase a weapon's threat range (such as the
+_keen edge_ spell and the Improved Critical feat) don't stack. You can't cast this spell on a natural weapon,
 such as a claw.
 
 ## Knock
@@ -1637,7 +1637,7 @@ Divination
 
 You instantly know the direction of north from your current position. The spell is effective in any environment in
 which "north" exists, but it may not work in extraplanar settings. Your knowledge of north is correct at the
-moment of casting, but you can get lost again within moments if you don’t find some external reference point to
+moment of casting, but you can get lost again within moments if you don't find some external reference point to
 help you keep track of direction.
 
 ## Legend Lore
@@ -1763,7 +1763,7 @@ You release a powerful stroke of electrical energy that deals 1d6 points of elec
 
 The _lightning bolt_ sets fire to combustibles and damages objects in its path. It can melt metals with a low
 melting point, such as lead, gold, copper, silver, or bronze. If the damage caused to an interposing barrier
-shatters or breaks through it, the bolt may continue beyond the barrier if the spell’s range permits; otherwise,
+shatters or breaks through it, the bolt may continue beyond the barrier if the spell's range permits; otherwise,
 it stops at the barrier just as any other spell effect does.
 
 _Material Component:_ A bit of fur and an amber, crystal, or glass rod.
@@ -1791,8 +1791,8 @@ the following things.
 
 *   Duplicate any sorcerer/wizard spell of 6th level or lower, provided the spell is not of a school prohibited to you.
 *   Duplicate any other spell of 5th level or lower, provided the spell is not of a school prohibited to you.
-*   Duplicate any sorcerer/wizard spell of 5th level or lower, even if it’s of a prohibited school.
-*   Duplicate any other spell of 4th level or lower, even if it’s of a prohibited school.
+*   Duplicate any sorcerer/wizard spell of 5th level or lower, even if it's of a prohibited school.
+*   Duplicate any other spell of 4th level or lower, even if it's of a prohibited school.
 *   Undo the harmful effects of many spells, such as _geas/quest_ or _insanity_.
 *   Produce any other effect whose power level is in line with the above effects, such as a single creature automatically hitting on its next attack or taking a -7 penalty on its next saving throw.
 
@@ -1823,7 +1823,7 @@ Transmutation
  No
 
 This spell turns an oak tree into a protector or guardian. The spell can be cast on only a single tree at a time;
-while _liveoak_ is in effect, you can’t cast it again on another tree. The tree on which the spell is cast
+while _liveoak_ is in effect, you can't cast it again on another tree. The tree on which the spell is cast
 must be within 10 feet of your dwelling place, within a place sacred to you, or within 300 feet of something that
 you wish to guard or protect.
 

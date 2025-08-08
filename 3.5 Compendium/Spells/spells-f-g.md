@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Spells - Spells (F-G)
-aliases: 3.5 Spells (F-G)
+aliases:
+  - 3.5 Spells (F-G)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - spells
   - spells_f-g
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -43,8 +43,8 @@ This material is Open Game Content, and is licensed for public use under the ter
 *   [[#Forcecage]]
 *   [[#Forceful Hand]]
 *   [[#Foresight]]
-*   [[#Fox’s Cunning]]
-*   [[#Fox’s Cunning, Mass]]
+*   [[#Fox's Cunning]]
+*   [[#Fox's Cunning, Mass]]
 *   [[#Freedom]]
 *   [[#Freedom of Movement]]
 *   [[#Freezing Sphere]]
@@ -171,7 +171,7 @@ Illusion (Glamer)
 Any divination (scrying) spell used to view anything within the area of this spell instead receives a false image
 (as the
 _major image_ spell), as defined by you at the time of casting. As long as the duration lasts, you can
-concentrate to change the image as desired. While you aren’t concentrating, the image remains static.
+concentrate to change the image as desired. While you aren't concentrating, the image remains static.
 
 _Arcane Material Component:_ The ground dust of a piece of jade worth at least 250 gp, which is sprinkled
 into the air when the spell is cast.
@@ -228,12 +228,12 @@ to the end of a fall from a few feet), and the subjects take no damage upon land
 However, when the spell duration expires, a normal rate of falling resumes.
 
 The spell affects one or more Medium or smaller creatures (including gear and carried objects up to each
-creature’s maximum load) or objects, or the equivalent in larger creatures: A Large creature or object counts as
+creature's maximum load) or objects, or the equivalent in larger creatures: A Large creature or object counts as
 two Medium creatures or objects, a Huge creature or object counts as two Large creatures or objects, and so forth.
 
 You can cast this spell with an instant utterance, quickly enough to save yourself if you unexpectedly fall.
 Casting the spell is a free action, like casting a quickened spell, and it counts toward the normal limit of one
-quickened spell per round. You may even cast this spell when it isn’t your turn.
+quickened spell per round. You may even cast this spell when it isn't your turn.
 
 This spell has no special effect on ranged weapons unless they are falling quite a distance. If the spell is cast
 on a falling item the object does half normal damage based on its weight, with no bonus for the height of the
@@ -413,7 +413,7 @@ with exceptional reach are not subject to this damage if they attack you.
 
 When casting this spell, you appear to immolate yourself, but the flames are thin and wispy, giving off light
 equal to only half the illumination of a normal torch (10 feet). The color of the flames is determined randomly
-(50% chance of either color)---blue or green if the
+(50% chance of either color)--blue or green if the
 _chill shield_ is cast, violet or blue if the _warm shield_ is employed. The special powers of each
 version are as follows.
 
@@ -471,8 +471,8 @@ Abjuration [Fire]
 _Fire trap_ creates a fiery explosion when an intruder opens the item that the trap protects. A
 _fire trap_ can ward any object that can be opened and closed.
 
-When casting _fire trap,_ you select a point on the object as the spell’s center. When someone other than you
-opens the object, a fiery explosion fills the area within a 5-foot radius around the spell’s center. The flames
+When casting _fire trap,_ you select a point on the object as the spell's center. When someone other than you
+opens the object, a fiery explosion fills the area within a 5-foot radius around the spell's center. The flames
 deal 1d4 points of fire damage +1 point per caster level (maximum +20). The item protected by the trap is not
 harmed by this explosion.
 
@@ -489,7 +489,7 @@ password that you can share with friends.
 
 _Note:_ Magic traps such as _fire trap_ are hard to detect and disable. A rogue (only) can use the
 Search skill to find a _fire trap_ and Disable Device to thwart it. The DC in each case is 25 + spell level
-(DC 27 for a druid’s _fire trap_ or DC 29 for the arcane version).
+(DC 27 for a druid's _fire trap_ or DC 29 for the arcane version).
 
 _Material Component:_ A half-pound of gold dust (cost 25 gp) sprinkled on the warded object.
 ## Fireball
@@ -551,7 +551,7 @@ Transmutation [Fire]
 
 You turn ammunition (such as arrows, bolts, shuriken, and stones) into fiery projectiles. Each piece of ammunition
 deals an extra 1d6 points of fire damage to any target it hits. A flaming projectile can easily ignite a flammable
-object or structure, but it won’t ignite a creature it strikes.
+object or structure, but it won't ignite a creature it strikes.
 
 _Material Component:_ A drop of oil and a small piece of flint.
 ## Flame Blade
@@ -631,7 +631,7 @@ ignites flammable substances it touches and illuminates the same area as a torch
 The sphere moves as long as you actively direct it (a move action for you); otherwise, it merely stays at rest and
 burns. It can be extinguished by any means that would put out a normal fire of its size. The surface of the sphere
 has a spongy, yielding consistency and so does not cause damage except by its flame. It cannot push aside
-unwilling creatures or batter down large obstacles. A _flaming sphere_ winks out if it exceeds the spell’s
+unwilling creatures or batter down large obstacles. A _flaming sphere_ winks out if it exceeds the spell's
 range.
 
 _Arcane Material Component:_ A bit of tallow, a pinch of brimstone, and a dusting of powdered iron.
@@ -766,7 +766,7 @@ Conjuration (Creation)
 
 A bank of fog billows out from the point you designate. The fog obscures all sight, including darkvision, beyond 5
 feet. A creature within 5 feet has concealment (attacks have a 20% miss chance). Creatures farther away have total
-concealment (50% miss chance, and the attacker can’t use sight to locate the target).
+concealment (50% miss chance, and the attacker can't use sight to locate the target).
 
 A moderate wind (11+ mph) disperses the fog in 4 rounds; a strong wind (21+ mph) disperses the fog in 1 round.
 
@@ -811,10 +811,10 @@ At your option, the abjuration can include a password, in which case creatures o
 can avoid the damage by speaking the password as they enter the area. You must select this option (and the
 password) at the time of casting.
 
-_Dispel magic_ does not dispel a _forbiddance_ effect unless the dispeller’s level is at least as high
+_Dispel magic_ does not dispel a _forbiddance_ effect unless the dispeller's level is at least as high
 as your caster level.
 
-You can’t have multiple overlapping _forbiddance_ effects. In such a case, the more recent effect stops at
+You can't have multiple overlapping _forbiddance_ effects. In such a case, the more recent effect stops at
 the boundary of the older effect.
 
 _Material Component:_ A sprinkling of holy water and rare incenses worth at least 1,500 gp, plus 1,500 gp
@@ -853,7 +853,7 @@ _rod of cancellation._
 
 _Barred Cage:_ This version of the spell produces a 20-foot cube made of bands of force (similar to a
 _wall of force_ spell) for bars. The bands are a half-inch wide, with half-inch gaps between them. Any
-creature capable of passing through such a small space can escape; others are confined. You can’t attack a
+creature capable of passing through such a small space can escape; others are confined. You can't attack a
 creature in a barred cage with a weapon unless the weapon can fit between the gaps. Even against such weapons
 (including arrows and similar ranged attacks), a creature in the barred cage has cover. All spells and breath
 weapons can pass through the gaps in the bars.
@@ -912,8 +912,8 @@ the absence of such a warning. Shouting a warning, yanking a person back, and ev
 (via an appropriate spell) can all be accomplished before some danger befalls the subject, provided you act on the
 warning without delay. The subject, however, does not gain the insight bonus to AC and Reflex saves.
 
-_Arcane Material Component:_ A hummingbird’s feather.
-## Fox’s Cunning
+_Arcane Material Component:_ A hummingbird's feather.
+## Fox's Cunning
 Transmutation
 ### Level:
  Brd 2, Sor/Wiz 2
@@ -935,11 +935,11 @@ Transmutation
 The transmuted creature becomes smarter. The spell grants a +4 enhancement bonus to Intelligence, adding the usual
 benefits to Intelligence-based skill checks and other uses of the Intelligence modifier. Wizards (and other
 spellcasters who rely on Intelligence) affected by this spell do not gain any additional bonus spells for the
-increased Intelligence, but the save DCs for spells they cast while under this spell’s effect do increase. This
-spell doesn’t grant extra skill points.
+increased Intelligence, but the save DCs for spells they cast while under this spell's effect do increase. This
+spell doesn't grant extra skill points.
 
 _Arcane Material Component:_ A few hairs, or a pinch of dung, from a fox.
-## Fox’s Cunning, Mass
+## Fox's Cunning, Mass
 Transmutation
 ### Level:
  Brd 6, Sor/Wiz 6
@@ -948,7 +948,7 @@ Transmutation
 ### Target:
  One creature/level, no two of which can be more than 30 ft. apart
 
-This spell functions like _fox’s cunning_, except that it affects multiple creatures.
+This spell functions like _fox's cunning_, except that it affects multiple creatures.
 ## Freedom
 Abjuration
 ### Level:
@@ -1061,16 +1061,16 @@ Transmutation
 
 The subject and all its gear become insubstantial, misty, and translucent. Its material armor (including natural
 armor) becomes worthless, though its size, Dexterity, deflection bonuses, and armor bonuses from force effects
-still apply. The subject gains damage reduction 10/magic and becomes immune to poison and critical hits. It can’t
+still apply. The subject gains damage reduction 10/magic and becomes immune to poison and critical hits. It can't
 attack or cast spells with verbal, somatic, material, or focus components while in gaseous form. (This does not
 rule out the use of certain spells that the subject may have prepared using the feats Silent Spell, Still Spell,
 and Eschew Materials.) The subject also loses supernatural abilities while in gaseous form. If it has a touch
 spell ready to use, that spell is discharged harmlessly when the _gaseous form_ spell takes effect.
 
-A gaseous creature can’t run, but it can fly at a speed of 10 feet (maneuverability perfect). It can pass through
+A gaseous creature can't run, but it can fly at a speed of 10 feet (maneuverability perfect). It can pass through
 small holes or narrow openings, even mere cracks, with all it was wearing or holding in its hands, as long as the
-spell persists. The creature is subject to the effects of wind, and it can’t enter water or other liquid. It also
-can’t manipulate objects or activate items, even those carried along with its gaseous form. Continuously active
+spell persists. The creature is subject to the effects of wind, and it can't enter water or other liquid. It also
+can't manipulate objects or activate items, even those carried along with its gaseous form. Continuously active
 items remain active, though in some cases their effects may be moot.
 
 _Arcane Material Component:_ A bit of gauze and a wisp of smoke.
@@ -1098,7 +1098,7 @@ of existence and a plane you specify, allowing travel between those two planes i
 
 Second, you may then call a particular individual or kind of being through the _gate._
 
-The _gate_ itself is a circular hoop or disk from 5 to 20 feet in diameter (caster’s choice), oriented in the
+The _gate_ itself is a circular hoop or disk from 5 to 20 feet in diameter (caster's choice), oriented in the
 direction you desire when it comes into existence (typically vertical and facing you). It is a two-dimensional
 window looking into the plane you specified when casting the spell, and anyone or anything that moves through is
 shunted instantly to the other side.
@@ -1109,7 +1109,7 @@ the other plane; creatures moving through it from the back are not.
 _Planar Travel:_ As a mode of planar travel, a _gate_ spell functions much like a
 _plane shift_ spell, except that the _gate_ opens precisely at the point you desire (a creation effect).
 Deities and other beings who rule a planar realm can prevent a _gate_ from opening in their presence or
-personal demesnes if they so desire. Travelers need not join hands with you---anyone who chooses to step through the
+personal demesnes if they so desire. Travelers need not join hands with you--anyone who chooses to step through the
 portal is transported. A _gate_ cannot be opened to another point on the same plane; the spell works only for
 interplanar travel.
 
@@ -1126,14 +1126,14 @@ enough to transport the called creatures. This use of the spell has an XP cost (
 If you choose to call a kind of creature instead of a known individual you may call either a single creature (of
 any HD) or several creatures. You can call and control several creatures as long as their HD total does not exceed
 your caster level. In the case of a single creature, you can control it if its HD do not exceed twice your caster
-level. A single creature with more HD than twice your caster level can’t be controlled. Deities and unique beings
+level. A single creature with more HD than twice your caster level can't be controlled. Deities and unique beings
 cannot be controlled in any event. An uncontrolled being acts as it pleases, making the calling of such creatures
 rather dangerous. An uncontrolled being may return to its home plane at any time.
 
 A controlled creature can be commanded to perform a service for you. Such services fall into two categories:
 immediate tasks and contractual service. Fighting for you in a single battle or taking any other actions that can
 be accomplished within 1 round per caster level counts as an immediate task; you need not make any agreement or
-pay any reward for the creature’s help. The creature departs at the end of the spell.
+pay any reward for the creature's help. The creature departs at the end of the spell.
 
 If you choose to exact a longer or more involved form of service from a called creature, you must offer some fair
 trade in return for that service. The service exacted must be reasonable with respect to the promised favor or
@@ -1235,7 +1235,7 @@ Necromancy
  Yes (object)
 
 You preserve the remains of a dead creature so that they do not decay. Doing so effectively extends the time limit
-on raising that creature from the dead (see _raise dead_). Days spent under the influence of this spell don’t
+on raising that creature from the dead (see _raise dead_). Days spent under the influence of this spell don't
 count against the time limit. Additionally, this spell makes transporting a fallen comrade more pleasant.
 
 The spell also works on severed body parts and the like.
@@ -1261,7 +1261,7 @@ Illusion (Figment)
 
 _Ghost sound_ allows you to create a volume of sound that rises, recedes, approaches, or remains at a fixed
 place. You choose what type of sound _ghost sound_ creates when casting it and cannot thereafter change the
-sound’s basic character.
+sound's basic character.
 
 The volume of sound created depends on your level. You can produce as much noise as four normal humans per caster
 level (maximum twenty humans). Thus, talking, singing, shouting, walking, marching, or running sounds can be
@@ -1300,7 +1300,7 @@ Additionally, the paralyzed subject exudes a carrion stench that causes all livi
 from a sickened creature, and creatures immune to poison are unaffected by the stench.
 
 _Material Component:_ A small scrap of cloth taken from clothing worn by a ghoul, or a pinch of earth from
-a ghoul’s lair.
+a ghoul's lair.
 
 ## Giant Vermin
 Transmutation
@@ -1355,7 +1355,7 @@ Transmutation
  10 min./level (D)
 
 Your speech becomes fluent and more believable. You gain a +30 bonus on Bluff checks made to convince another of
-the truth of your words. (This bonus doesn’t apply to other uses of the Bluff skill, such as feinting in combat,
+the truth of your words. (This bonus doesn't apply to other uses of the Bluff skill, such as feinting in combat,
 creating a diversion to hide, or communicating a hidden message via innuendo.)
 
 If a magical effect is used against you that would detect your lies or force you to speak the truth the user of
@@ -1467,7 +1467,7 @@ the _glyph_ and tracery become nearly invisible.
 
 _Glyphs_ cannot be affected or bypassed by such means as physical or magical probing, though they can be
 dispelled. _Mislead_, _polymorph_, and _nondetection_ (and similar magical effects) can fool a
-_glyph_, though nonmagical disguises and the like can’t. _Read magic_ allows you to identify a
+_glyph_, though nonmagical disguises and the like can't. _Read magic_ allows you to identify a
 _glyph of warding_ with a DC 13 Spellcraft check. Identifying the _glyph_ does not discharge it and
 allows you to know the basic nature of the _glyph_ (version, type of damage caused, what spell is stored).
 
@@ -1478,7 +1478,7 @@ level, or 28 for _glyph of warding_.
 Depending on the version selected, a _glyph_ either blasts the intruder or activates a spell.
 
 _Blast Glyph:_ A _blast glyph_ deals 1d8 points of damage per two caster levels (maximum 5d8) to the
-intruder and to all within 5 feet of him or her. This damage is acid, cold, fire, electricity, or sonic (caster’s
+intruder and to all within 5 feet of him or her. This damage is acid, cold, fire, electricity, or sonic (caster's
 choice, made at time of casting). Each creature affected can attempt a Reflex save to take half damage. Spell
 resistance applies against this effect.
 
@@ -1561,7 +1561,7 @@ This spell functions like _interposing hand,_ except the hand can also grapple o
 The _grasping hand_ gets one grapple attack per round.
 
 Its attack bonus to make contact equals your caster level + your Intelligence, Wisdom, or Charisma modifier (for
-wizards, clerics, and sorcerers, respectively), +10 for the hand’s Strength score (31), -1 for being Large. Its
+wizards, clerics, and sorcerers, respectively), +10 for the hand's Strength score (31), -1 for being Large. Its
 grapple bonus is this same figure, except with a +4 modifier for being Large instead of -1. The hand holds but
 does not harm creatures it grapples.
 
@@ -1595,7 +1595,7 @@ Conjuration (Creation)
 A _grease_ spell covers a solid surface with a layer of slippery grease. Any creature in the area when the
 spell is cast must make a successful Reflex save or fall. This save is repeated on your turn each round that the
 creature remains within the area. A creature can walk within or through the area of grease at half normal speed
-with a DC 10 Balance check. Failure means it can’t move that round (and must then make a Reflex save or fall),
+with a DC 10 Balance check. Failure means it can't move that round (and must then make a Reflex save or fall),
 while failure by 5 or more means it falls (see the Balance skill for details).
 
 The spell can also be used to create a greasy coating on an item. Material objects not in use are always affected
@@ -1649,7 +1649,7 @@ _Webs:_ Webs fill all stairs from top to bottom. These strands are identical wit
 _web_ spell, except that they regrow in 10 minutes if they are burned or torn away while the
 _guards and wards_ spell lasts. Saving Throw: Reflex negates; see text for _web_. Spell Resistance: No.
 
-_Confusion:_ Where there are choices in direction---such as a corridor intersection or side passage---a minor
+_Confusion:_ Where there are choices in direction--such as a corridor intersection or side passage--a minor
 _confusion_-type effect functions so as to make it 50% probable that intruders believe they are going in the
 opposite direction from the one they actually chose. This is an enchantment, mind-affecting effect. Saving Throw:
 None. Spell Resistance: Yes.
@@ -1676,7 +1676,7 @@ Yes.
 
 The whole warded area radiates strong magic of the abjuration school. A
 _dispel magic_ cast on a specific effect, if successful, removes only that effect. A successful
-_Mage’s disjunction_ destroys the entire _guards and wards_ effect.
+_Mage's disjunction_ destroys the entire _guards and wards_ effect.
 
 _Material Component:_ Burning incense, a small measure of brimstone and oil, a knotted string, and a small
 amount of blood.
@@ -1738,7 +1738,7 @@ Medium creatures are unable to move forward against the force of the wind, or if
 Large or larger creatures may move normally within a
 _gust of wind_ effect.
 
-A _gust of wind_ can’t move a creature beyond the limit of its range.
+A _gust of wind_ can't move a creature beyond the limit of its range.
 
 Any creature, regardless of size, takes a -4 penalty on ranged attacks and Listen checks in the area of a
 _gust of wind_.

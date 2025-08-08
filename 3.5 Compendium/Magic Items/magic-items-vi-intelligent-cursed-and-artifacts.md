@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Magic Items - Magic Items VI (Intelligent, Cursed, and Artifacts)
-aliases: 3.5 Magic Items VI (Intelligent, Cursed, and Artifacts)
+aliases:
+  - 3.5 Magic Items VI (Intelligent Cursed and Artifacts)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - magic_items
   - magic_items_vi_intelligent,_cursed,_and_artifacts
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -45,12 +45,12 @@ scores. Treat them as constructs. Intelligent items often have the ability to il
 will (as magic weapons do); many cannot see otherwise.
 
 Unlike most magic items, intelligent items can activate their own powers without waiting for a command word from
-their owner. Intelligent items act during their owner’s turn in the initiative order.
+their owner. Intelligent items act during their owner's turn in the initiative order.
 
 ### Intelligent Item Alignment
 
 Any item with intelligence has an alignment. Note that intelligent weapons already have alignments, either stated
-or by implication. If you’re generating a random intelligent weapon, that weapon’s alignment must fit with any
+or by implication. If you're generating a random intelligent weapon, that weapon's alignment must fit with any
 alignment-oriented special abilities it has.
 
 Any character whose alignment does not correspond to that of the item (except as noted by the asterisks on the
@@ -73,12 +73,12 @@ with Ego scores of 30 or higher bestow three negative levels.
 | 56-60 | Lawful neutral* |
 | 61-80 | Neutral good* |
 | 81-100 | Neutral |
-| * The item can also be used by any character whose alignment corresponds to the nonneutral portion of the item’s alignment. |
+| * The item can also be used by any character whose alignment corresponds to the nonneutral portion of the item's alignment. |
 
 ### Languages Spoken by Item
 
 Like a character, an intelligent item speaks Common plus one additional language per point of Intelligence bonus.
-Choose appropriate languages, taking into account the item’s origin and purposes.
+Choose appropriate languages, taking into account the item's origin and purposes.
 
 **Table: Item Intelligence, Wisdom, Charisma, and Capabilities**
 
@@ -101,7 +101,7 @@ Choose appropriate languages, taking into account the item’s origin and purpos
 
 ### Intelligent Item Powers
 
-The table above determines how many lesser and greater powers an intelligent item has. To find the item’s specific
+The table above determines how many lesser and greater powers an intelligent item has. To find the item's specific
 powers, choose or roll on the appropriate tables below.
 
 | Intelligent Item Lesser Powers |
@@ -180,14 +180,14 @@ owner. Activating a power or concentrating on an active one is a standard action
 
 ### Purpose
 
-An item’s purpose must suit the type and alignment of the item and should always be treated reasonably. A purpose
-of "defeat/slay arcane spellcasters" doesn’t mean that the sword forces the wielder to kill every wizard she sees.
+An item's purpose must suit the type and alignment of the item and should always be treated reasonably. A purpose
+of "defeat/slay arcane spellcasters" doesn't mean that the sword forces the wielder to kill every wizard she sees.
 Nor does it mean that the sword believes it is possible to kill every wizard, sorcerer, and bard in the world. It
-does mean that the item hates arcane spellcasters and wants to bring the local wizard’s cabal to ruin, as well as
-end the rule of a sorceress-queen in a nearby land. Likewise, a purpose of "defend elves" doesn’t mean that if the
+does mean that the item hates arcane spellcasters and wants to bring the local wizard's cabal to ruin, as well as
+end the rule of a sorceress-queen in a nearby land. Likewise, a purpose of "defend elves" doesn't mean that if the
 wielder is an elf, he only wants to help himself. It means that the item wants to be used in furthering the cause
-of elves, stamping out their enemies and aiding their leaders. A purpose of "defeat/slay all" isn’t just a matter
-of self-preservation. It means that the item won’t rest (or let its wielder rest) until it places itself above all
+of elves, stamping out their enemies and aiding their leaders. A purpose of "defeat/slay all" isn't just a matter
+of self-preservation. It means that the item won't rest (or let its wielder rest) until it places itself above all
 others.
 
 ### Dedicated Power
@@ -221,13 +221,13 @@ Unlike its other powers, an intelligent item can refuse to use its dedicated pow
 ### Item Ego
 
 Ego is a measure of the total power and force of personality that an item possesses. Only after all aspects of an
-item have been generated can its Ego score be calculated. An item’s Ego score helps determine whether the item or
+item have been generated can its Ego score be calculated. An item's Ego score helps determine whether the item or
 the character is dominant in their relationship, as detailed below.
 
 | Item Ego |
 | --- |
 | Attribute of Item | Ego Points |
-| Each +1 of item’s enhancement bonus | 1 |
+| Each +1 of item's enhancement bonus | 1 |
 | Each +1 of bonus for special abilities | 1 |
 | Each lesser power | 1 |
 | Each greater power | 2 |
@@ -242,15 +242,15 @@ the character is dominant in their relationship, as detailed below.
 ### Items Against Characters
 
 When an item has an Ego of its own, it has a will of its own. The item is, of course, absolutely true to its
-alignment. If the character who possesses the item is not true to that alignment’s goals or the item’s special
-purpose, personality conflict---item against character---results. Similarly, any item with an Ego score of 20 or
+alignment. If the character who possesses the item is not true to that alignment's goals or the item's special
+purpose, personality conflict--item against character--results. Similarly, any item with an Ego score of 20 or
 higher always considers itself superior to any character, and a personality conflict results if the possessor does
 not always agree with the item.
 
-When a personality conflict occurs, the possessor must make a Will saving throw (DC = item’s Ego). If the
+When a personality conflict occurs, the possessor must make a Will saving throw (DC = item's Ego). If the
 possessor succeeds, she is dominant. If she fails, the item is dominant. Dominance lasts for one day or until a
 critical situation occurs (such as a major battle, a serious threat to either the item or the character, and so
-on). Should an item gain dominance, it resists the character’s desires and demands concessions such as any of the
+on). Should an item gain dominance, it resists the character's desires and demands concessions such as any of the
 following.
 
 *   Removal of associates or items whose alignment or personality is distasteful to the item.
@@ -266,9 +266,9 @@ In extreme circumstances, the item can resort to even harsher measures, such as 
 *   Refuse to strike opponents.
 *   Strike at its wielder or her associates.
 *   Force its possessor to surrender to an opponent.
-*   Cause itself to drop from the character’s grasp.
+*   Cause itself to drop from the character's grasp.
 
-Naturally, such actions are unlikely when harmony reigns between the character’s and item’s alignments or when
+Naturally, such actions are unlikely when harmony reigns between the character's and item's alignments or when
 their purposes and personalities are well matched. Even so, an item might wish to have a lesser character possess
 it in order to easily establish and maintain dominance over him, or a higher-level possessor so as to better
 accomplish its goals.
@@ -285,8 +285,8 @@ undaunted and continue to air their wishes and demands.
 
 ## Cursed Items
 
-Cursed items are magic items with some sort of potentially negative impact. Sometimes they’re directly bad for the
-user; sometimes they’re just inconvenient. Occasionally they mix bad with good, forcing characters to make
+Cursed items are magic items with some sort of potentially negative impact. Sometimes they're directly bad for the
+user; sometimes they're just inconvenient. Occasionally they mix bad with good, forcing characters to make
 difficult choices.
 
 | Cursed Item Common Curses |
@@ -308,15 +308,15 @@ convinced otherwise without the help of a _remove curse_ spell.
 ### Opposite Effect or Target:
  These cursed items malfunction, so that either they do the opposite of
 what the creator intended, or they target the user instead of someone else. The interesting point to keep in mind
-here is that these items aren’t always bad to have. Opposite-effect items include weapons that impose penalties on
-attack and damage rolls rather than bonuses. Just as a character shouldn’t necessarily immediately know what the
-enhancement bonus of a noncursed magic item is, she shouldn’t immediately know that a weapon is cursed. Once she
+here is that these items aren't always bad to have. Opposite-effect items include weapons that impose penalties on
+attack and damage rolls rather than bonuses. Just as a character shouldn't necessarily immediately know what the
+enhancement bonus of a noncursed magic item is, she shouldn't immediately know that a weapon is cursed. Once she
 knows, however, the item can be discarded unless some sort of compulsion is placed upon it that compels the
 wielder to keep and use it. In such cases, a _remove curse_ spell is generally needed to get rid of the item.
 
 ### Intermittent Functioning:
  The three varieties of intermittent functioning items all function
-perfectly as described---at least some of the time. The three varieties are unreliable, dependent, and uncontrolled
+perfectly as described--at least some of the time. The three varieties are unreliable, dependent, and uncontrolled
 items.
 
 _Unreliable:_ Each time the item is activated, there is a 5% chance (01-05 on d%) that it does not
@@ -371,8 +371,8 @@ functioning, one or more of the following conditions must be met.
 *   Item must be cleansed with holy water each day.
 *   Item must be used to kill a living creature each day.
 *   Item must be bathed in volcanic lava once per month.
-*   Item must be used at least once a day, or it won’t function again for its current possessor.
-*   Item must draw blood when wielded (weapons only). It can’t be put away or exchanged for another weapon until it has scored a hit.
+*   Item must be used at least once a day, or it won't function again for its current possessor.
+*   Item must draw blood when wielded (weapons only). It can't be put away or exchanged for another weapon until it has scored a hit.
 *   Item must have a particular spell cast upon it each day (such as _bless, atonement,_ or _animate objects_).
 
 Requirements are so dependent upon suitability to the item that they should never be determined randomly. An item
@@ -387,28 +387,28 @@ some negative aspect. Although sometimes drawbacks occur only when the item is u
 items such as weapons), usually the drawback remains with the character for as long as she has the item.
 
 Roll on the table below to generate a drawback that (unless otherwise indicated) remains in effect as long as the
-item is in the character’s possession.
+item is in the character's possession.
 
 | d% | Drawback |
 | --- | --- |
-| 01-04 | Character’s hair grows 1 inch longer. Only happens once. |
+| 01-04 | Character's hair grows 1 inch longer. Only happens once. |
 | 05-09 | Character either shrinks 1/2 inch (01-50 on d%) or grows that much taller (51-100). Only happens once. |
 | 10-13 | Temperature around item is 10°F cooler than normal. |
 | 14-17 | Temperature around item is 10°F warmer than normal. |
-| 18-21 | Character’s hair color changes. |
-| 22-25 | Character’s skin color changes. |
+| 18-21 | Character's hair color changes. |
+| 22-25 | Character's skin color changes. |
 | 26-29 | Character now bears some identifying mark (tattoo, weird glow, or the like). |
-| 30-32 | Character’s gender changes. |
-| 33-34 | Character’s race or kind changes. |
+| 30-32 | Character's gender changes. |
+| 33-34 | Character's race or kind changes. |
 | 35 | Character is afflicted with a random disease that cannot be cured. |
 | 36-39 | Item continually emits a disturbing sound (moaning, weeping, screaming, cursing, insults). |
 | 40 | Item looks ridiculous (garishly colored, silly shape, glows bright pink, . . .). |
 | 41-45 | Character becomes selfishly possessive about the item. |
 | 46-49 | Character becomes paranoid about losing the item and afraid of damage occurring to it. |
-| 50-51 | Character’s alignment changes. |
+| 50-51 | Character's alignment changes. |
 | 52-54 | Character must attack nearest creature (5% chance [01-05 on d%] each day). |
 | 55-57 | Character is stunned for 1d4 rounds once item function is finished (or randomly, 1/day). |
-| 58-60 | Character’s vision is blurry (-2 penalty on attack rolls, saves, and skill checks requiring vision). |
+| 58-60 | Character's vision is blurry (-2 penalty on attack rolls, saves, and skill checks requiring vision). |
 | 61-64 | Character gains one negative level. |
 | 65 | Character gains two negative levels. |
 | 66-70 | Character must make a Will save each day or take 1 point of Intelligence damage. |
@@ -421,7 +421,7 @@ item is in the character’s possession.
 | 97 | Character cannot cast arcane spells. |
 | 98 | Character cannot cast divine spells. |
 | 99 | Character cannot cast any spells. |
-| 100 | Either pick one of the above that’s appropriate or create a drawback specifically for that item. |
+| 100 | Either pick one of the above that's appropriate or create a drawback specifically for that item. |
 
 ### Specific Cursed Items
 
@@ -432,7 +432,7 @@ known means.
 
 A simple _detect magic_ spell yields a misleading aura and strength, often indicating that the item is a
 noncursed item of similar sort. An _identify_ spell only has a 1% chance per caster level to reveal a cursed
-item’s true properties, including the cursed aspect. _Analyze dweomer_ reveals the true nature of a cursed
+item's true properties, including the cursed aspect. _Analyze dweomer_ reveals the true nature of a cursed
 item.
 
 **Table: Specific Cursed Items**
@@ -458,13 +458,13 @@ item.
 | 65-68 | _Spear, cursed backbiter_ | 7,500 gp |
 | 69-70 | _Armor of arrow attraction_ | 9,000 gp |
 | 71-72 | _Net of snaring_ | 10,000 gp |
-| 73-75 | _Bag of devouring_ | --- |
+| 73-75 | _Bag of devouring_ | -- |
 | 76-80 | _Mace of blood_ | 16,000 gp |
 | 81-85 | _Robe of vermin_ | 16,500 gp |
 | 86-88 | _Periapt of foul rotting_ | 17,000 gp |
 | 89-92 | _Sword, berserking_ | 17,500 gp |
 | 93-96 | _Boots of dancing_ | 30,000 gp |
-| 97 | _Crystal hypnosis ball_ | --- |
+| 97 | _Crystal hypnosis ball_ | -- |
 | 98 | _Necklace of strangulation_ | 60,000 gp |
 | 99 | _Cloak of poisonousness_ | 62,000 gp |
 | 100 | _Scarab of death_ | 80,000 gp |
@@ -500,9 +500,9 @@ _bestow curse;_ Price 1,600 gp.
 ### Bag of Devouring:
  This bag appears to be an ordinary sack. Detection for magical properties makes
 it seem as if it were a _bag of holding_. The sack is, however, a lure used by an extradimensional
-creature---in fact, one of its feeding orifices.
+creature--in fact, one of its feeding orifices.
 
-Any substance of animal or vegetable nature is subject to "swallowing’’ if thrust within the bag. The
+Any substance of animal or vegetable nature is subject to "swallowing'' if thrust within the bag. The
 _bag of devouring_ is 90% likely to ignore any initial intrusion, but any time thereafter that it senses
 living flesh within (such as if someone reaches into the bag to pull something out), it is 60% likely to close
 around the offending member and attempt to draw the whole victim in. The bag has a +8 bonus on grapple checks made
@@ -511,7 +511,7 @@ to pull someone in.
 The bag can hold up to 30 cubic feet of matter. It acts as a
 _bag of holding type I,_ but each hour it has a 5% cumulative chance of swallowing the contents and then
 spitting the stuff out in some nonspace or on some other plane. Creatures drawn within are consumed in 1 round.
-The bag destroys the victim’s body and prevents any form of raising or resurrection that requires part of the
+The bag destroys the victim's body and prevents any form of raising or resurrection that requires part of the
 corpse. There is a 50% chance that a _wish, miracle,_ or _true resurrection_ spell can restore a
 devoured victim to life. Check once for each destroyed creature. If the check fails, the creature cannot be
 brought back to life by mortal magic.
@@ -554,7 +554,7 @@ _fly, animate objects;_ Price 5,200 gp.
 
 ### Cloak of Poisonousness:
  This cloak is usually made of a woolen material, although it can be made
-of leather. A _detect poison_ spell can reveal the presence of poison impregnated in the cloak’s fabric. The
+of leather. A _detect poison_ spell can reveal the presence of poison impregnated in the cloak's fabric. The
 garment can be handled without harm, but as soon as it is actually donned the wearer is killed instantly unless
 she succeeds on a DC 28 Fortitude save.
 
@@ -611,7 +611,7 @@ _bestow curse;_ Price 1,300 gp.
 ### Helm of Opposite Alignment:
  This metal hat looks like a typical helmet. When placed upon the
 head, however, its curse immediately takes effect (Will DC 15 negates). On a failed save, the alignment of the
-wearer is radically altered to an alignment as different as possible from the former alignment---good to evil,
+wearer is radically altered to an alignment as different as possible from the former alignment--good to evil,
 chaotic to lawful, neutral to some extreme commitment (LE, LG, CE, or CG). Alteration in alignment is mental as
 well as moral, and the individual changed by the magic thoroughly enjoys his new outlook. A character who succeeds
 on his save can continue to wear the helmet without suffering the effect of the curse, but if he takes it off and
@@ -649,7 +649,7 @@ Price 16,000 gp.
 to the range at which it functions, except that the thoughts overheard are muffled and distorted, requiring a DC
 15 Will save to sort out. However, while the user thinks she is picking up the thoughts of others, all she is
 really hearing are figments created by the medallion itself. These illusory thoughts always seem plausible and
-thus can seriously mislead any who rely upon them. What’s worse, unknown to her, the cursed medallion actually
+thus can seriously mislead any who rely upon them. What's worse, unknown to her, the cursed medallion actually
 broadcasts her thoughts to creatures in the path of the beam, thus alerting them to her presence.
 
 Faint divination; CL 7th; Create Wondrous Item,
@@ -658,9 +658,9 @@ _detect thoughts, ghost sound;_ Price 1,800 gp.
 ### Necklace of Strangulation:
  A _necklace of strangulation_ appears to be a rare and wondrous
 piece of valuable jewelry and, short of the use of something as powerful as a _miracle_ or a _wish_, can
-only be identified as a cursed item when placed around a character’s neck. The necklace immediately constricts,
+only be identified as a cursed item when placed around a character's neck. The necklace immediately constricts,
 dealing 6 points of damage per round. It cannot be removed by any means short of a _limited wish, wish,_ or
-_miracle_ and remains clasped around the victim’s throat even after his death. Only when he has decayed to a
+_miracle_ and remains clasped around the victim's throat even after his death. Only when he has decayed to a
 dry skeleton (after approximately one month) does the necklace loosen, ready for another victim.
 
 Strong conjuration; CL 18th; Create Wondrous Item,
@@ -728,7 +728,7 @@ _feather fall, bestow curse;_ Price 500 gp.
  This small pin appears to be any one of the various beneficial amulets,
 brooches, or scarabs. However, if it is held for more than 1 round or carried by a living creature for 1 minute,
 it changes into a horrible burrowing beetlelike creature. The thing tears through any leather or cloth, burrows
-into flesh, and reaches the victim’s heart in 1 round, causing death. A DC 25 Reflex save allows the wearer to
+into flesh, and reaches the victim's heart in 1 round, causing death. A DC 25 Reflex save allows the wearer to
 tear the scarab away before it burrows out of sight, but he still takes 3d6 points of damage. The beetle then
 returns to its scarab form. Placing the scarab in a container of wood, ceramic, bone, ivory, or metal prevents the
 monster from coming to life and allows for long-term storage of the item.
@@ -748,8 +748,8 @@ _bestow curse;_ Price 7,500 gp.
 
 ### Stone of Weight (Loadstone):
  This stone appears to be a dark, smoothly polished stone. It reduces
-the possessor’s base land speed to one-half of normal. Once picked up, the stone cannot be disposed of by any
-nonmagical means---if it is thrown away or smashed, it reappears somewhere on his person. If a
+the possessor's base land speed to one-half of normal. Once picked up, the stone cannot be disposed of by any
+nonmagical means--if it is thrown away or smashed, it reappears somewhere on his person. If a
 _remove curse_ spell is cast upon a _loadstone,_ the item may be discarded normally and no longer haunts
 the individual.
 
@@ -760,8 +760,8 @@ Faint transmutation; CL 5th; Create Wondrous Item, _slow;_ Price 1,000 gp.
 an opponent in combat, it causes its wielder to take a -2 penalty on attack rolls.
 
 All damage dealt is also reduced by 2 points, but never below a minimum of 1 point of damage on any successful
-hit. After one week in a character’s possession, the sword always forces that character to employ it rather than
-another weapon. The sword’s owner automatically draws it and fights with it even when she meant to draw or ready
+hit. After one week in a character's possession, the sword always forces that character to employ it rather than
+another weapon. The sword's owner automatically draws it and fights with it even when she meant to draw or ready
 some other weapon. The sword can be gotten rid of only by means of _limited wish_, _wish,_ or
 _miracle_.
 
@@ -771,7 +771,7 @@ _bestow curse,_ and _limited wish_ or _miracle;_ Price 1,500 gp.
 ### Sword, Berserking:
  This item appears to have the characteristics of a
 _+2 greatsword._ However, whenever the sword is used in battle, its wielder goes berserk (gaining all the
-benefits and drawbacks of the barbarian’s rage ability). He attacks the nearest creature and continues to fight
+benefits and drawbacks of the barbarian's rage ability). He attacks the nearest creature and continues to fight
 until unconscious or dead or until no living thing remains within 30 feet. Although many see this sword as a
 cursed object, others see it as a boon.
 
@@ -792,7 +792,7 @@ _feeblemind;_ Price 6,000 gp.
 ## Artifacts
 
 Artifacts are extremely powerful. Rather than merely another form of magic equipment, they are the sorts of
-legendary relics that whole campaigns can be based on. Each could be the center of a whole set of adventures---a
+legendary relics that whole campaigns can be based on. Each could be the center of a whole set of adventures--a
 quest to recover it, a fight against a opponent wielding it, a mission to cause its destruction, and so on.
 
 No table has been included to randomly generate specific artifacts, since these items should only enter a campaign
@@ -814,14 +814,14 @@ long as the book is in her possession or while she uses its power. A _book of in
 
 Determine the exact spell by using the tables for determining major scroll spells.
 
-Once a page is turned, it can never be flipped back---paging through a
+Once a page is turned, it can never be flipped back--paging through a
 _book of infinite spells_ is a one-way trip. If the book is closed, it always opens again to the page it was
 on before the book was closed. When the last page is turned, the book vanishes.
 
 Once per day the owner of the book can cast the spell to which the book is opened. If that spell happens to be one
-that is on the character’s class spell list, she can cast it up to four times per day. The pages cannot be ripped
+that is on the character's class spell list, she can cast it up to four times per day. The pages cannot be ripped
 out without destroying the book. Similarly, the spells cannot be cast as scroll spells, nor can they be copied
-into a spellbook---their magic is bound up permanently within the book itself.
+into a spellbook--their magic is bound up permanently within the book itself.
 
 The owner of the book need not have the book on her person in order to use its power. The book can be stored in a
 place of safety while the owner is adventuring and still allow its owner to cast spells by means of its power.
@@ -894,7 +894,7 @@ according to the new alignment, she gains a negative level.
 _Comet:_ The character must single-handedly defeat the next hostile monster or monsters encountered, or the
 benefit is lost. If successful, the character gains enough XP to attain the next experience level.
 
-_Donjon:_ This card signifies imprisonment--- either by the _imprisonment_ spell or by some powerful
+_Donjon:_ This card signifies imprisonment-- either by the _imprisonment_ spell or by some powerful
 being. All gear and spells are stripped from the victim in any case. Draw no more cards.
 
 _Euryale:_ The medusalike visage of this card brings a curse that only the fates card or a deity can
@@ -906,7 +906,7 @@ something from happening or reverse a past occurrence. The reversal is only for 
 other party members may have to endure the situation.
 
 _Flames:_ Hot anger, jealousy, and envy are but a few of the possible motivational forces for the enmity.
-The enmity of the outsider can’t be ended until one of the parties has been slain. Determine the outsider
+The enmity of the outsider can't be ended until one of the parties has been slain. Determine the outsider
 randomly, and assume that it attacks the character (or plagues her life in some way) within 1d20 days.
 
 _Fool:_ The payment of XP and the redraw are mandatory. This card is always discarded when drawn, unlike
@@ -922,7 +922,7 @@ _Jester:_ This card is always discarded when drawn, unlike all others except the
 optional.
 
 _Key:_ The magic weapon granted must be one usable by the character. It suddenly appears out of nowhere in
-the character’s hand.
+the character's hand.
 
 _Knight:_ The fighter appears out of nowhere and serves loyally until death. He or she is of the same race
 (or kind) and gender as the character.
@@ -932,7 +932,7 @@ _wishes_ shown as gleams therein; sometimes it depicts a moon with its phase ind
 _wishes_ (full = four; gibbous = three; half = two; quarter = one). These _wishes_ are the same as those
 granted by the 9th-level wizard spell and must be used within a number of minutes equal to the number received.
 
-_Rogue:_ When this card is drawn, one of the character’s NPC friends (preferably a cohort) is totally
+_Rogue:_ When this card is drawn, one of the character's NPC friends (preferably a cohort) is totally
 alienated and forever after
 
 hostile. If the character has no cohorts, the enmity of some powerful personage (or community, or religious order)
@@ -941,7 +941,7 @@ can be substituted. The hatred is secret until the time is ripe for it to be rev
 _Ruin:_ As implied by its name, when this card is drawn, all nonmagical possessions of the drawer are lost.
 
 _Skull:_ A dread wraith appears. Treat this creature as an unturnable undead. The character must fight it
-alone---if others help, they get dread wraiths to fight as well. If the character is slain, she is slain forever and
+alone--if others help, they get dread wraiths to fight as well. If the character is slain, she is slain forever and
 cannot be revived, even with a _wish_ or a _miracle_.
 
 _Star:_ The 2 points are added to any ability the character chooses. They cannot be divided among two
@@ -952,7 +952,7 @@ _Sun:_ Roll for a medium wondrous item until a useful item is indicated.
 _Talons:_ When this card is drawn, every magic item owned or possessed by the character is instantly and
 irrevocably gone.
 
-_Throne:_ The character becomes a true leader in people’s eyes. The castle gained appears in any open area
+_Throne:_ The character becomes a true leader in people's eyes. The castle gained appears in any open area
 she wishes (but the decision where to place it must be made within 1 hour).
 
 _Vizier:_ This card empowers the character drawing it with the one-time ability to call upon a source of
@@ -961,8 +961,8 @@ wisdom to solve any
 single problem or answer fully any question upon her request. The query or request must be made within one year.
 Whether the information gained can be successfully acted upon is another question entirely.
 
-_The Void:_ This black card spells instant disaster. The character’s body continues to function, as though
-comatose, but her psyche is trapped in a prison somewhere---in an object on a far plane or planet, possibly in the
+_The Void:_ This black card spells instant disaster. The character's body continues to function, as though
+comatose, but her psyche is trapped in a prison somewhere--in an object on a far plane or planet, possibly in the
 possession of an outsider. A _wish_ or a _miracle_ does not bring the character back, instead merely
 revealing the plane of entrapment. Draw no more cards.
 
@@ -977,15 +977,15 @@ to full effect: It gains a total +5 enhancement bonus, allows all _belt_ and _ga
 death effect but not the damage).
 
 When hurled, on a successful attack the hammer emits a great noise, like a clap of thunder, causing all creatures
-within 90 feet to be stunned for 1 round (Fortitude DC 15 negates). The hammer’s range increment is 30 feet.
+within 90 feet to be stunned for 1 round (Fortitude DC 15 negates). The hammer's range increment is 30 feet.
 
 Strong evocation, necromancy, and transmutation; CL 20th; Weight 15 lb.
 
-### Philosopher’s Stone:
+### Philosopher's Stone:
  This rare substance appears to be an ordinary, sooty piece of blackish rock.
-If the stone is broken open (break DC 20), a cavity is revealed at the stone’s heart. This cavity is lined with a
+If the stone is broken open (break DC 20), a cavity is revealed at the stone's heart. This cavity is lined with a
 magical type of quicksilver that enables any arcane spellcaster to transmute base metals (iron and lead) into
-silver and gold. A single _philosopher’s stone_ can turn from up to 5,000 pounds of iron into silver, or up
+silver and gold. A single _philosopher's stone_ can turn from up to 5,000 pounds of iron into silver, or up
 to 1,000 pounds of lead into gold. However, the quicksilver becomes unstable once the stone is opened and loses
 its potency within 24 hours, so all transmutations must take place within that period.
 
@@ -1003,7 +1003,7 @@ direct intervention of a deity can restore an annihilated character.
 
 A _sphere of annihilation_ is static, resting in some spot as if it were a normal hole. It can be caused to
 move, however, by mental effort (think of this as a mundane form of telekinesis, too weak to move actual objects
-but a force to which the sphere, being weightless, is sensitive). A character’s ability to gain control of a
+but a force to which the sphere, being weightless, is sensitive). A character's ability to gain control of a
 _sphere of annihilation_ (or to keep controlling one) is based on the result of a control check against DC 30
 (a move action). A control check is 1d20 + character level + character Int modifier. If the check succeeds, the
 character can move the sphere (perhaps to bring it into contact with an enemy) as a free action.
@@ -1011,8 +1011,8 @@ character can move the sphere (perhaps to bring it into contact with an enemy) a
 Control of a sphere can be established from as far away as 40 feet (the character need not approach too closely).
 Once control is established, it must be maintained by continuing to make control checks (all DC 30) each round.
 For as long as a character maintains control (does not fail a check) in subsequent rounds, he can control the
-sphere from a distance of 40 feet + 10 feet per character level. The sphere’s speed in a round is 10 feet +5 feet
-for every 5 points by which the character’s control check result in that round exceeded 30.
+sphere from a distance of 40 feet + 10 feet per character level. The sphere's speed in a round is 10 feet +5 feet
+for every 5 points by which the character's control check result in that round exceeded 30.
 
 If a control check fails, the sphere slides 10 feet in the direction of the character attempting to move it.
 
@@ -1028,14 +1028,14 @@ _rod of cancellation_ touches a _sphere of annihilation_,
 they negate each other in a tremendous explosion. Everything within a 60-foot radius takes 2d6x10 points of
 damage. _Dispel_
 
-_magic_ and _mage’s disjunction_ have no effect on a sphere.
+_magic_ and _mage's disjunction_ have no effect on a sphere.
 See also _talisman of the sphere_ (below).
 Strong transmutation; CL 20th.
 
 ### Staff of the Magi:
  A long wooden staff, shod in iron and inscribed with sigils and runes of all
 types, this potent artifact contains many spell powers and other functions. Some of its powers use charges, while
-others don’t. The following powers do not use charges:
+others don't. The following powers do not use charges:
 
 *   _Detect magic_
 *   _Enlarge person_ (Fortitude DC 15 negates)
@@ -1101,13 +1101,13 @@ arcane spells. Characters
 
 who cannot cast arcane spells take 5d6 points of damage merely from picking up and holding a talisman of this
 sort. However, when held by an arcane spellcaster who is concentrating on control of a
-_sphere of annihilation,_ a _talisman of the sphere_ doubles the character’s modifier on his control
+_sphere of annihilation,_ a _talisman of the sphere_ doubles the character's modifier on his control
 check (doubling both his Intelligence bonus and his character level for this purpose).
 
 If the wielder of a talisman establishes control, he need check for maintaining control only every other round
 thereafter. If control is not established, the sphere moves toward him. Note that while many spells and effects of
 cancellation have no effect upon a
-_sphere of annihilation,_ the talisman’s power of control can be suppressed or canceled.
+_sphere of annihilation,_ the talisman's power of control can be suppressed or canceled.
 
 Strong transmutation; CL 16th;Weight 1 lb.
 
@@ -1124,7 +1124,7 @@ If he succeeds, the talisman remains with the character for 5d6 hours, or until 
 whichever comes first. It then disappears.
 
 If he rolls a natural 20, the character finds it impossible to be rid of the talisman for as many months as he has
-points of Charisma. In addition, the artifact grants him one _wish_ for every 6 points of the character’s
+points of Charisma. In addition, the artifact grants him one _wish_ for every 6 points of the character's
 Charisma. It also grows warm and throbs whenever its possessor comes within 20 feet of a mechanical or magic trap.
 (If the talisman is not held, its warning heat and pulses are of no avail.)
 
@@ -1149,7 +1149,7 @@ All other characters are unaffected by the device.
 Strong evocation [evil]; CL 18th.
 ### Major Artifacts
 
-Major artifacts are unique items---only one of each such item exists. These are the most potent of magic items,
+Major artifacts are unique items--only one of each such item exists. These are the most potent of magic items,
 capable of altering the balance of a campaign.
 
 Unlike all other magic items, major artifacts are not easily destroyed. Each should have only a single, specific
@@ -1174,13 +1174,13 @@ _dominate monster_), the dragon being forced to make a DC 25 Will save to resist
 useful against this effect.) Each _Orb of Dragonkind_ bestows upon the wielder the AC and saving throw
 bonuses of the dragon within. These values replace whatever values the character would otherwise have, whether
 they are better or worse. These values cannot be modified by any means short of ridding the character of the
-_Orb._ A character possessing an _Orb of Dragonkind_ is immune to the breath weapon---but only the breath
-weapon---of the dragon variety keyed to the _Orb._ Finally, a character possessing an _Orb_ can herself
+_Orb._ A character possessing an _Orb of Dragonkind_ is immune to the breath weapon--but only the breath
+weapon--of the dragon variety keyed to the _Orb._ Finally, a character possessing an _Orb_ can herself
 use the breath weapon of the dragon in the _Orb_ three times per day.
 
 All _Orbs of Dragonkind_ can be used to communicate verbally and visually with the possessors of the other
 _Orbs._ The owner of an _Orb_ knows whether there are dragons within 10 miles at all times. For dragons
-of the _Orb_’s particular variety, the range is 100 miles. If within 1 mile of a dragon of the _Orb_’s
+of the _Orb_'s particular variety, the range is 100 miles. If within 1 mile of a dragon of the _Orb_'s
 variety, the wielder can determine the exact location and age of the creature. The bearer of one of these
 _Orbs_ earns the enmity forever of all dragonkind for profiting by the enslavement of one of their kin, even
 if she later loses the item.
@@ -1191,7 +1191,7 @@ Each _Orb_ also has an individual power that can be invoked once per round at 10
 *   _Brass Dragon Orb: Teleport_ (Will DC 19 negates).
 *   _Bronze Dragon Orb: Scrying_ (Will DC 18 negates).
 *   _Copper Dragon Orb: Suggestion_ (Will DC 17 negates).
-*   _Gold Dragon Orb:_ The owner of the gold _Orb_ can call upon any power possessed by one of the other _Orbs_---including the _dominate_ and breath weapon abilities but not AC, save bonuses, or breath weapon immunity---but can only use an individual
+*   _Gold Dragon Orb:_ The owner of the gold _Orb_ can call upon any power possessed by one of the other _Orbs_--including the _dominate_ and breath weapon abilities but not AC, save bonuses, or breath weapon immunity--but can only use an individual
 
 power once per day. She can use _dominate_ on any other possessor of an _Orb_ within 1 mile (Will DC 23
 negates).
@@ -1201,9 +1201,9 @@ negates).
 *   _Silver Dragon Orb: Cure critical wounds_ (Will DC 18 half ).
 *   _White Dragon Orb: Protection from energy (cold)_ (Fortitude DC 17 negates).
 
-### The Saint’s Mace:
+### The Saint's Mace:
  This relic appears to be a simple, well-used cudgel, but its simple appearance
-hides great power. The _saint’s mace_ has a +5 enhancement bonus and functions as a heavy mace with the holy,
+hides great power. The _saint's mace_ has a +5 enhancement bonus and functions as a heavy mace with the holy,
 lawful, and disruption special abilities. The wielder can project _searing light_ from the mace at will, at
 caster level 20th.
 
@@ -1222,14 +1222,14 @@ The _Shadowstaff_ also has these powers.
 
 The Shield of the Sun: This _+5 large shield,_ emblazoned with the symbol of the sun, allows the wielder to
 cast spells as if she were a 20th-level paladin with a Wisdom score of 20. The spells gained are cumulative with
-any existing spells per day that the character might have, even if she’s already a paladin. The
+any existing spells per day that the character might have, even if she's already a paladin. The
 _Shield of the Sun_ also grants spell resistance 15 to its wielder. It absorbs the first 10 points of damage
 from any energy attack (fire, cold, acid, electricity, or sonic). In return for all this, once per year the
-shield’s owner must undertake a quest (no saving throw to avoid) at the behest of a lawful good deity.
+shield's owner must undertake a quest (no saving throw to avoid) at the behest of a lawful good deity.
 
 A character who is evil or chaotic (LE, NE, CE, CN, CG) gains four negative levels if she attempts to use this
 artifact. Although these negative levels never results in actual level loss, they remain as long as the shield is
 in hand and cannot be overcome in any way (including
-_restoration_ spells). The negative levels disappear when the shield is stowed or leaves the wearer’s
+_restoration_ spells). The negative levels disappear when the shield is stowed or leaves the wearer's
 possession.
 

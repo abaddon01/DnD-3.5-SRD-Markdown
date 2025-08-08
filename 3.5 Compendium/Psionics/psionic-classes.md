@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Psionics - Psionic Classes
-aliases: 3.5 Psionic Classes
+aliases:
+  - 3.5 Psionic Classes
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - psionics
   - psionic_classes
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -88,10 +88,10 @@ limited by the manifester level you have achieved with each power you know.
 
 ## Abilities and Manifesters
 
-The ability that your powers depend on---your key ability score as a manifester---is related to what psionic class (or
+The ability that your powers depend on--your key ability score as a manifester--is related to what psionic class (or
 classes) you have levels in: Intelligence (psion), Wisdom (psychic warrior), and Charisma (wilder). The modifier
-for this ability is referred to as your key ability modifier. If your character’s key ability score is 9 or lower,
-you can’t manifest powers from that psionic class.
+for this ability is referred to as your key ability modifier. If your character's key ability score is 9 or lower,
+you can't manifest powers from that psionic class.
 
 Just as a high Intelligence score grants bonus spells to a wizard and a high Wisdom score grants bonus spells to a
 cleric, a character who manifests powers (psions, psychic warriors, and wilders) gains bonus power points
@@ -142,7 +142,7 @@ shows these calculations for class levels 1st through 20th and key ability score
  d4.
 ### Class Skills
 
-The psion’s class skills (and the key ability for each skill) are Concentration* (Con), Craft (Int), Knowledge
+The psion's class skills (and the key ability for each skill) are Concentration* (Con), Craft (Int), Knowledge
 (all skills, taken individually)* (Int), Profession (Wis), and Psicraft* (Int). In addition, a psion gains access
 to additional class skills based on his discipline:
 
@@ -165,24 +165,24 @@ _Telepath (Telepathy):_ Bluff (Cha), Diplomacy (Cha), Gather Information (Cha), 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Power Points/ Day | Powers Known | Maximum Power Level Known |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +0 | +2 | Bonus feat, discipline | 2 | 3 | 1st |
-| 2nd | +1 | +0 | +0 | +3 | --- | 6 | 5 | 1st |
-| 3rd | +1 | +1 | +1 | +3 | --- | 11 | 7 | 2nd |
-| 4th | +2 | +1 | +1 | +4 | --- | 17 | 9 | 2nd |
+| 2nd | +1 | +0 | +0 | +3 | -- | 6 | 5 | 1st |
+| 3rd | +1 | +1 | +1 | +3 | -- | 11 | 7 | 2nd |
+| 4th | +2 | +1 | +1 | +4 | -- | 17 | 9 | 2nd |
 | 5th | +2 | +1 | +1 | +4 | Bonus feat | 25 | 11 | 3rd |
-| 6th | +3 | +2 | +2 | +5 | --- | 35 | 13 | 3rd |
-| 7th | +3 | +2 | +2 | +5 | --- | 46 | 15 | 4th |
-| 8th | +4 | +2 | +2 | +6 | --- | 58 | 17 | 4th |
-| 9th | +4 | +3 | +3 | +6 | --- | 72 | 19 | 5th |
+| 6th | +3 | +2 | +2 | +5 | -- | 35 | 13 | 3rd |
+| 7th | +3 | +2 | +2 | +5 | -- | 46 | 15 | 4th |
+| 8th | +4 | +2 | +2 | +6 | -- | 58 | 17 | 4th |
+| 9th | +4 | +3 | +3 | +6 | -- | 72 | 19 | 5th |
 | 10th | +5 | +3 | +3 | +7 | Bonus feat | 88 | 21 | 5th |
-| 11th | +5 | +3 | +3 | +7 | --- | 106 | 22 | 6th |
-| 12th | +6/+1 | +4 | +4 | +8 | --- | 126 | 24 | 6th |
-| 13th | +6/+1 | +4 | +4 | +8 | --- | 147 | 25 | 7th |
-| 14th | +7/+2 | +4 | +4 | +9 | --- | 170 | 27 | 7th |
+| 11th | +5 | +3 | +3 | +7 | -- | 106 | 22 | 6th |
+| 12th | +6/+1 | +4 | +4 | +8 | -- | 126 | 24 | 6th |
+| 13th | +6/+1 | +4 | +4 | +8 | -- | 147 | 25 | 7th |
+| 14th | +7/+2 | +4 | +4 | +9 | -- | 170 | 27 | 7th |
 | 15th | +7/+2 | +5 | +5 | +9 | Bonus feat | 195 | 28 | 8th |
-| 16th | +8/+3 | +5 | +5 | +10 | --- | 221 | 30 | 8th |
-| 17th | +8/+3 | +5 | +5 | +10 | --- | 250 | 31 | 9th |
-| 18th | +9/+4 | +6 | +6 | +11 | --- | 280 | 33 | 9th |
-| 19th | +9/+4 | +6 | +6 | +11 | --- | 311 | 34 | 9th |
+| 16th | +8/+3 | +5 | +5 | +10 | -- | 221 | 30 | 8th |
+| 17th | +8/+3 | +5 | +5 | +10 | -- | 250 | 31 | 9th |
+| 18th | +9/+4 | +6 | +6 | +11 | -- | 280 | 33 | 9th |
+| 19th | +9/+4 | +6 | +6 | +11 | -- | 311 | 34 | 9th |
 | 20th | +10/+5 | +6 | +6 | +12 | Bonus feat | 343 | 36 | 9th |
 
 ### Class Features
@@ -194,7 +194,7 @@ crossbow, quarterstaff, and shortspear. They are not proficient with any type of
 however, interfere with the manifestation of powers.
 
 ### Power Points/Day:
- A psion’s ability to manifest powers is limited by the power points he has
+ A psion's ability to manifest powers is limited by the power points he has
 available. His base daily allotment of power points is given on Table: The Psion. In addition, he receives bonus
 power points per day if he has a high Intelligence score (see Table: Ability Modifiers and Bonus Power Points).
 His race may also provide bonus power points per day, as may certain feats and items.
@@ -203,7 +203,7 @@ His race may also provide bonus power points per day, as may certain feats and i
  Every psion must decide at 1st level which psionic discipline he will specialize in.
 Choosing a discipline provides a psion with access to the class skills associated with that discipline (see
 above), as well as the powers restricted to that discipline. However, choosing a discipline also means that the
-psion cannot learn powers that are restricted to other disciplines. He can’t even use such powers by employing
+psion cannot learn powers that are restricted to other disciplines. He can't even use such powers by employing
 psionic items.
 
 ### Powers Known:
@@ -219,15 +219,15 @@ level.
 The number of times a psion can manifest powers in a day is limited only by his daily power points.
 
 A psion simply knows his powers; they are ingrained in his mind. He does not need to prepare them (in the way that
-some spellcasters prepare their spells), though he must get a good night’s sleep each day to regain all his spent
+some spellcasters prepare their spells), though he must get a good night's sleep each day to regain all his spent
 power points.
 
-The Difficulty Class for saving throws against psion powers is 10 + the power’s level + the psion’s Intelligence
+The Difficulty Class for saving throws against psion powers is 10 + the power's level + the psion's Intelligence
 modifier.
 **Maximum Power Level Known:** A psion begins play with the ability to learn 1st-level powers. As he attains
 higher levels, a psion may gain the ability to master more complex powers.
 
-To learn or manifest a power, a psion must have an Intelligence score of at least 10 + the power’s level.
+To learn or manifest a power, a psion must have an Intelligence score of at least 10 + the power's level.
 
 ### Bonus Feats:
  A psion gains a bonus feat at 1st level, 5th level, 10th level, 15th level, and 20th
@@ -249,7 +249,7 @@ many different ways.
 ### Metacreativity:
  A psion specializing in metacreativity is known as a shaper. This discipline
 includes powers that draw ectoplasm or matter from the Astral Plane, creating semisolid and solid items such as
-armor, weapons, or animated constructs to do battle at the shaper’s command.
+armor, weapons, or animated constructs to do battle at the shaper's command.
 
 ### Psychokinesis:
  Psions who specialize in psychokinesis are known as kineticists. They are the
@@ -258,7 +258,7 @@ of energy.
 
 ### Psychometabolism:
  A psion who specializes in psychometabolism is known as an egoist. This
-discipline consists of powers that alter the psion’s psychobiology, or that of creatures near him. An egoist can
+discipline consists of powers that alter the psion's psychobiology, or that of creatures near him. An egoist can
 both heal and transform himself into a fearsome fighter.
 
 ### Psychoportation:
@@ -272,33 +272,33 @@ destroy the minds of his enemies with ease.
 
 ### Psicrystals
 
-A psicrystal is a fragment of a psionic character’s personality, brought into physical form and a semblance of
+A psicrystal is a fragment of a psionic character's personality, brought into physical form and a semblance of
 life (via the Psicrystal Affinity feat). A psicrystal appears as a crystalline construct about the size of a human
 hand.
 
-Because it is an extension of its creator’s personality, a character’s psicrystal is in some ways a part of him.
-That’s why, for example, a psionic character can manifest a personal range power on his psicrystal even though
+Because it is an extension of its creator's personality, a character's psicrystal is in some ways a part of him.
+That's why, for example, a psionic character can manifest a personal range power on his psicrystal even though
 normally he can manifest such a power only on himself.
 
 A psicrystal is treated as a construct for the purposes of all effects that depend on its type.
 
 A psicrystal grants special abilities to its owner, as shown on the Psicrystal Special Abilities table below. In
-addition, a psicrystal has a personality (being a fragment of the owner’s personality), which gives its owner a
+addition, a psicrystal has a personality (being a fragment of the owner's personality), which gives its owner a
 bonus on certain types of checks or saving throws, as given on the Psicrystal Personalities table below. These
 special abilities and bonuses apply only when the owner and the psicrystal are within 1 mile of each other.
 
-Psicrystal abilities are based on the owner’s levels in psionic classes. Levels from other classes do not count
-toward the owner’s level for purposes of psicrystal abilities.
+Psicrystal abilities are based on the owner's levels in psionic classes. Levels from other classes do not count
+toward the owner's level for purposes of psicrystal abilities.
 
-A psicrystal can speak one language of its owner’s choice (so long as it is a language the owner knows). A
+A psicrystal can speak one language of its owner's choice (so long as it is a language the owner knows). A
 psicrystal can understand all other languages known by its owner, but cannot speak them. This is a supernatural
 ability.
 
 ### Psicrystal Basics:
  Use the statistics for a psicrystal, but make the following changes.
 
-_Saving Throws:_ A psicrystal uses its owner’s base saving throw bonuses and ability modifiers on saves,
-though it doesn’t enjoy any other bonuses its owner might have (from magic items or feats, for example).
+_Saving Throws:_ A psicrystal uses its owner's base saving throw bonuses and ability modifiers on saves,
+though it doesn't enjoy any other bonuses its owner might have (from magic items or feats, for example).
 
 _Abilities:_ When its self-propulsion ability is not activated, a psicrystal has no Strength score and no
 Dexterity score.
@@ -313,7 +313,7 @@ ranks in each.) A psicrystal uses its own ability modifiers on skill checks.
 | 1st-2nd | +0 | +0 | Alertness, improved evasion, personality, self-propulsion, share powers, sighted, telepathic link |
 | 3rd-4th | +1 | +1 | Deliver touch powers |
 | 5th-6th | +2 | +2 | Telepathic speech |
-| 7th-8th | +3 | +3 | --- |
+| 7th-8th | +3 | +3 | -- |
 | 9th-10th | +4 | +4 | Flight |
 | 11th-12th | +5 | +5 | Power resistance |
 | 13th-14th | +6 | +6 | Sight link |
@@ -326,14 +326,14 @@ ranks in each.) A psicrystal uses its own ability modifiers on skill checks.
 their owners) depending on the level of the owner, as shown on the table above. The abilities on the table are
 cumulative.
 
-_Natural Armor Adj. (Ex):_ This number noted here is an improvement to the psicrystal’s natural armor bonus
-(normally 0). It represents a psicrystal’s preternatural durability.
+_Natural Armor Adj. (Ex):_ This number noted here is an improvement to the psicrystal's natural armor bonus
+(normally 0). It represents a psicrystal's preternatural durability.
 
-_Intelligence Adj. (Ex):_ Add this value to the psicrystal’s Intelligence score. Psicrystals are as smart
+_Intelligence Adj. (Ex):_ Add this value to the psicrystal's Intelligence score. Psicrystals are as smart
 as people (though not necessarily as smart as smart people).
 
-_Alertness (Ex):_ The presence of a psicrystal sharpens its master’s senses. While a psicrystal is within
-arm’s reach (adjacent to or in the same square as its owner), its owner gains the Alertness feat.
+_Alertness (Ex):_ The presence of a psicrystal sharpens its master's senses. While a psicrystal is within
+arm's reach (adjacent to or in the same square as its owner), its owner gains the Alertness feat.
 
 _Improved Evasion (Ex):_ If a psicrystal is subjected to an attack that normally allows a Reflex saving
 throw for half damage, it takes no damage if it makes a successful saving throw and half damage even if the saving
@@ -345,7 +345,7 @@ _Self-Propulsion (Su):_ As a standard action, its owner can will a psicrystal to
 legs that grant the psicrystal a land speed of 30 feet and a climb speed of 20 feet. The legs fade into
 nothingness after one day (or sooner, if the owner desires).
 
-_Share Powers (Su):_ At the owner’s option, he can have any power (but not any psi-like ability) he
+_Share Powers (Su):_ At the owner's option, he can have any power (but not any psi-like ability) he
 manifests on himself also affect his psicrystal. The psicrystal must be within 5 feet of him at the time of the
 manifestation to receive the benefit. If the power has a duration other than instantaneous, it stops affecting the
 psicrystal if it moves farther than 5 feet away, and will not affect the psicrystal again, even if it returns to
@@ -353,15 +353,15 @@ its owner before the duration expires.
 
 Additionally, the owner can manifest a power with a target of "You" on his psicrystal (as a touch range power)
 instead of on himself. The owner and psicrystal cannot share powers if the powers normally do not affect creatures
-of the psicrystal’s type (construct).
+of the psicrystal's type (construct).
 
 _Sighted (Ex):_ Although it has no physical sensory organs, a psicrystal can telepathically sense its
 environment as well as a creature with normal vision and hearing. Darkness (even supernatural darkness) is
-irrelevant, as are areas of supernatural silence, though a psicrystal still can’t discern invisible or ethereal
-beings. A psicrystal’s sighted range is 40 feet.
+irrelevant, as are areas of supernatural silence, though a psicrystal still can't discern invisible or ethereal
+beings. A psicrystal's sighted range is 40 feet.
 
 _Telepathic Link (Su):_ The owner has a telepathic link with his psicrystal out to a distance of up to 1
-mile. The owner cannot see through the psicrystal’s senses, but the two of them can communicate telepathically as
+mile. The owner cannot see through the psicrystal's senses, but the two of them can communicate telepathically as
 if the psicrystal were the target of a _mindlink_ power manifested by the owner. For instance, a psicrystal
 placed in a distant room could relay the activities occurring in that room.
 
@@ -383,14 +383,14 @@ fly at a speed of 50 feet (poor). The psicrystal drifts gently to the ground aft
 owner desires).
 
 _Power Resistance (Ex):_ If the owner is 11th level or higher, the psicrystal gains power resistance equal
-to the owner’s level + 5. To affect the psicrystal with a power, another manifester must get a result on a
-manifester level check that equals or exceeds the psicrystal’s power resistance.
+to the owner's level + 5. To affect the psicrystal with a power, another manifester must get a result on a
+manifester level check that equals or exceeds the psicrystal's power resistance.
 
 _Sight Link (Sp):_ If the owner is 13th level or higher, the character can remote view the psicrystal (as
 if manifesting the _remote view_ power) once per day.
 
 _Channel Power (Sp):_ If the owner is 15th level or higher, he can manifest powers through the psicrystal
-to a distance of up to 1 mile. The psicrystal is treated as the power’s originator, and all ranges are calculated
+to a distance of up to 1 mile. The psicrystal is treated as the power's originator, and all ranges are calculated
 from its location.
 
 When channeling a power through his psicrystal, the owner manifests the power by paying its power point cost. He
@@ -401,9 +401,9 @@ _invisible_, as does the psicrystal).
 ### Psicrystal Personality (Ex):
  Each psicrystal has a distinct personality, chosen by its owner at
 the time of its creation from among those given on the following table. At 1st level, its owner typically gets a
-feel for a psicrystal’s personality only through occasional impulses, but as the owner increases in level the
-psicrystal’s personality becomes more pronounced. At higher levels, it is not uncommon for a psicrystal to
-constantly ply its owner with observations and advice, often severely slanted toward the psicrystal’s particular
+feel for a psicrystal's personality only through occasional impulses, but as the owner increases in level the
+psicrystal's personality becomes more pronounced. At higher levels, it is not uncommon for a psicrystal to
+constantly ply its owner with observations and advice, often severely slanted toward the psicrystal's particular
 worldview. The owner always sees a bit of himself in his psicrystal, even if magnified and therefore distorted.
 
 | Psicrystal Personalities |
@@ -432,7 +432,7 @@ worldview. The owner always sees a bit of himself in his psicrystal, even if mag
  d8.
 ### Class Skills
 
-The psychic warrior’s class skills (and the key ability for each skill) are Autohypnosis* (Wis), Climb (Str),
+The psychic warrior's class skills (and the key ability for each skill) are Autohypnosis* (Wis), Climb (Str),
 Concentration* (Con), Craft (Int), Jump (Str), Knowledge (psionics)* (Int), Profession (Wis), Ride (Dex), Search
 (Int), and Swim (Str).
 
@@ -448,23 +448,23 @@ Concentration* (Con), Craft (Int), Jump (Str), Knowledge (psionics)* (Int), Prof
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +2 | +0 | +0 | Bonus feat | 0* | 1 | 1st |
 | 2nd | +1 | +3 | +0 | +0 | Bonus feat | 1 | 2 | 1st |
-| 3rd | +2 | +3 | +1 | +1 | --- | 3 | 3 | 1st |
-| 4th | +3 | +4 | +1 | +1 | --- | 5 | 4 | 2nd |
+| 3rd | +2 | +3 | +1 | +1 | -- | 3 | 3 | 1st |
+| 4th | +3 | +4 | +1 | +1 | -- | 5 | 4 | 2nd |
 | 5th | +3 | +4 | +1 | +1 | Bonus feat | 7 | 5 | 2nd |
-| 6th | +4 | +5 | +2 | +2 | --- | 11 | 6 | 2nd |
-| 7th | +5 | +5 | +2 | +2 | --- | 15 | 7 | 3rd |
+| 6th | +4 | +5 | +2 | +2 | -- | 11 | 6 | 2nd |
+| 7th | +5 | +5 | +2 | +2 | -- | 15 | 7 | 3rd |
 | 8th | +6/+1 | +6 | +2 | +2 | Bonus feat | 19 | 8 | 3rd |
-| 9th | +6/+1 | +6 | +3 | +3 | --- | 23 | 9 | 3rd |
-| 10th | +7/+2 | +7 | +3 | +3 | --- | 27 | 10 | 4th |
+| 9th | +6/+1 | +6 | +3 | +3 | -- | 23 | 9 | 3rd |
+| 10th | +7/+2 | +7 | +3 | +3 | -- | 27 | 10 | 4th |
 | 11th | +8/+3 | +7 | +3 | +3 | Bonus feat | 35 | 11 | 4th |
-| 12th | +9/+4 | +8 | +4 | +4 | --- | 43 | 12 | 4th |
-| 13th | +9/+4 | +8 | +4 | +4 | --- | 51 | 13 | 5th |
+| 12th | +9/+4 | +8 | +4 | +4 | -- | 43 | 12 | 4th |
+| 13th | +9/+4 | +8 | +4 | +4 | -- | 51 | 13 | 5th |
 | 14th | +10/+5 | +9 | +4 | +4 | Bonus feat | 59 | 14 | 5th |
-| 15th | +11/+6/+1 | +9 | +5 | +5 | --- | 67 | 15 | 5th |
-| 16th | +12/+7/+2 | +10 | +5 | +5 | --- | 79 | 16 | 6th |
+| 15th | +11/+6/+1 | +9 | +5 | +5 | -- | 67 | 15 | 5th |
+| 16th | +12/+7/+2 | +10 | +5 | +5 | -- | 79 | 16 | 6th |
 | 17th | +12/+7/+2 | +10 | +5 | +5 | Bonus feat | 91 | 17 | 6th |
-| 18th | +13/+8/+3 | +11 | +6 | +6 | --- | 103 | 18 | 6th |
-| 19th | +14/+9/+4 | +11 | +6 | +6 | --- | 115 | 19 | 6th |
+| 18th | +13/+8/+3 | +11 | +6 | +6 | -- | 103 | 18 | 6th |
+| 19th | +14/+9/+4 | +11 | +6 | +6 | -- | 115 | 19 | 6th |
 | 20th | +15/+10/+5 | +12 | +6 | +6 | Bonus feat | 127 | 20 | 6th |
 | *The psychic warrior gains no power points from his class at 1st level. However, he does add any bonus power points he gains from a high Wisdom score, his race, and feats or other sources to his reserve. He can use these points (if any) to manifest his power. |
 
@@ -476,7 +476,7 @@ All the following are class features of the psychic warrior.
 weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
 
 ### Power Points/Day:
- A psychic warrior’s ability to manifest powers is limited by the power points
+ A psychic warrior's ability to manifest powers is limited by the power points
 he has available. His base daily allotment of power points is given on Table: The Psychic Warrior. In addition, he
 receives bonus power points per day if he has a high Wisdom score (see Table: Ability Modifiers and Bonus Power
 Points). His race may also provide bonus power points per day, as may certain feats and items. A 1st-level psychic
@@ -495,17 +495,17 @@ manifester level.
 The total number of powers a psychic warrior can manifest in a day is limited only by his daily power points.
 
 A psychic warrior simply knows his powers; they are ingrained in his mind. He does not need to prepare them (in
-the way that some spellcasters prepare their spells), though he must get a good night’s sleep each day to regain
+the way that some spellcasters prepare their spells), though he must get a good night's sleep each day to regain
 all his spent power points.
 
-The Difficulty Class for saving throws against psychic warrior powers is 10 + the power’s level + the psychic
-warrior’s Wisdom modifier.
+The Difficulty Class for saving throws against psychic warrior powers is 10 + the power's level + the psychic
+warrior's Wisdom modifier.
 
 ### Maximum Power Level Known:
  A psychic warrior begins play with the ability to learn 1st-level
 powers. As he attains higher levels, he may gain the ability to master more complex powers.
 
-To learn or manifest a power, a psychic warrior must have a Wisdom score of at least 10 + the power’s level.
+To learn or manifest a power, a psychic warrior must have a Wisdom score of at least 10 + the power's level.
 
 ### Bonus Feats:
  At 1st level, a psychic warrior gets a bonus combat-oriented feat in addition to the
@@ -526,7 +526,7 @@ warrior is not limited to fighter bonus feats and psionic feats when choosing th
  d10.
 ### Class Skills
 
-The soulknife’s class skills (and the key ability for each skill) are Autohypnosis* (Wis), Climb (Str),
+The soulknife's class skills (and the key ability for each skill) are Autohypnosis* (Wis), Climb (Str),
 Concentration* (Con), Craft (Int), Hide (Dex), Jump (Str), Knowledge (psionics)* (Int), Listen (Wis), Move
 Silently (Dex), Profession (Wis), Spot (Wis), and Tumble (Dex).
 
@@ -574,7 +574,7 @@ energy distilled from his own mind. The blade is identical in all ways (except v
 size appropriate for its wielder. For instance, a Medium soulknife materializes a Medium mind blade that he can
 wield as a light weapon, and the blade deals 1d6 points of damage (crit 19-20/x2). Soulknives who are smaller or
 larger than Medium create mind blades identical to short swords appropriate for their size, with a corresponding
-change to the blade’s damage. The wielder of a mind blade gains the usual benefits to his attack roll and damage
+change to the blade's damage. The wielder of a mind blade gains the usual benefits to his attack roll and damage
 roll from a high Strength bonus.
 
 The blade can be broken (it has hardness 10 and 10 hit points); however, a soulknife can simply create another on
@@ -585,7 +585,7 @@ A soulknife can use feats such as Power Attack or Combat Expertise in conjunctio
 it were a normal weapon. He can also choose mind blade for feats requiring a specific weapon choice, such as
 Weapon Specialization. Powers or spells that upgrade weapons can be used on a mind blade.
 
-A soulknife’s mind blade improves as the character gains higher levels. At 4th level and every four levels
+A soulknife's mind blade improves as the character gains higher levels. At 4th level and every four levels
 thereafter, the mind blade gains a cumulative +1 enhancement bonus on attack rolls and damage rolls (+2 at 8th
 level, +3 at 12th level, +4 at 16th level, and +5 at 20th level).
 
@@ -614,7 +614,7 @@ abilities (such as Knife to the Soul; see below).
  As a move action, a soulknife of 3rd level or higher can imbue his mind
 blade with destructive psychic energy. This effect deals an extra 1d8 points of damage to the next living,
 nonmindless target he successfully hits with a melee attack (or ranged attack, if he is using the throw mind blade
-ability). Creatures immune to mind-affecting effects are immune to psychic strike damage. (Unlike the rogue’s
+ability). Creatures immune to mind-affecting effects are immune to psychic strike damage. (Unlike the rogue's
 sneak attack, the psychic strike is not precision damage and can affect creatures otherwise immune to extra damage
 from critical hits or more than 30 feet away, provided they are living, nonmindless creatures not immune to
 mind-affecting effects.)
@@ -626,7 +626,7 @@ Once a soulknife has prepared his blade for a psychic strike, it holds the extra
 the soulknife drops the mind blade (or it otherwise dissipates, such as when it is thrown and misses), it is still
 imbued with psychic energy when the soulknife next materializes it.
 
-At every four levels beyond 3rd (7th, 11th, 15th, and 19th), the extra damage from a soulknife’s psychic strike
+At every four levels beyond 3rd (7th, 11th, 15th, and 19th), the extra damage from a soulknife's psychic strike
 increases as shown on the Table above.
 
 ### Free Draw (Su):
@@ -652,7 +652,7 @@ of +1.
 
 At every four levels beyond 6th (10th, 14th, and 18th), the value of the enhancement a soulknife can add to his
 weapon improves to +2, +3, and +4, respectively. A soulknife can choose any combination of weapon special
-abilities that does not exceed the total allowed by the soulknife’s level.
+abilities that does not exceed the total allowed by the soulknife's level.
 
 The weapon ability or abilities remain the same every time the soulknife materializes his mind blade (unless he
 decides to reassign its abilities; see below). The ability or abilities apply to any form the mind blade takes,
@@ -690,7 +690,7 @@ blade into numerous identical blades, each of which strikes at a nearby opponent
 
 As a full attack, when wielding his mind blade, a soulknife can give up his regular attacks and instead fragment
 his mind blade to make one melee attack at his full base attack bonus against each opponent within reach. Each
-fragment functions identically to the soulknife’s regular mind blade.
+fragment functions identically to the soulknife's regular mind blade.
 
 When using bladewind, a soulknife forfeits any bonus or extra attacks granted by other feats or abilities (such as
 the Cleave feat or the
@@ -722,7 +722,7 @@ round equal to the number of melee attacks he could make.
  d6.
 ### Class Skills
 
-The wilder’s class skills (and the key ability for each skill) are Autohypnosis* (Wis), Balance (Dex), Bluff
+The wilder's class skills (and the key ability for each skill) are Autohypnosis* (Wis), Balance (Dex), Bluff
 (Cha), Climb (Str), Concentration* (Con), Craft (Int), Escape Artist (Dex), Intimidate (Cha), Jump (Str),
 Knowledge (psionics)* (Int), Listen (Wis), Profession (Wis), Psicraft* (Int), Sense Motive (Wis), Spot (Wis), Swim
 (Str), and Tumble (Dex).
@@ -766,7 +766,7 @@ All the following are class features of the wilder.
 and with shields (except tower shields).
 
 ### Power Points/Day:
- A wilder’s ability to manifest powers is limited by the power points she has
+ A wilder's ability to manifest powers is limited by the power points she has
 available. Her base daily allotment of power points is given on Table: The Wilder. In addition, she receives bonus
 power points per day if she has a high Charisma score (see Table: Ability Modifiers and Bonus Power Points). Her
 race may also provide bonus power points per day, as may certain feats and items.
@@ -782,17 +782,17 @@ power that has a power point cost equal to or lower than her manifester level.
 The total number of powers a wilder can manifest in a day is limited only by her daily power points.
 
 A wilder simply knows her powers; they are ingrained in her mind. She does not need to prepare them (in the way
-that some spellcasters prepare their spells), though she must get a good night’s sleep each day to regain all her
+that some spellcasters prepare their spells), though she must get a good night's sleep each day to regain all her
 spent power points.
 
-The Difficulty Class for saving throws against wilder powers is 10 + the power’s level + the wilder’s Charisma
+The Difficulty Class for saving throws against wilder powers is 10 + the power's level + the wilder's Charisma
 modifier.
 
 ### Maximum Power Level Known:
  A wilder begins play with the ability to learn 1st-level powers. As
 she attains higher levels, she may gain the ability to master more complex powers.
 
-To learn or manifest a power, a wilder must have a Charisma score of at least 10 + the power’s level.
+To learn or manifest a power, a wilder must have a Charisma score of at least 10 + the power's level.
 
 ### Wild Surge (Su):
  A wilder can let her passion and emotion rise to the surface in a wild surge
@@ -817,7 +817,7 @@ her manifester level by up to three; at 11th level, by up to four; at 15th level
 level, by up to six.
 
 In all cases, the wild surge effectively pays the extra power point cost that is normally required to augment the
-power; only the unaugmented power point cost is subtracted from the wilder’s power point reserve.
+power; only the unaugmented power point cost is subtracted from the wilder's power point reserve.
 
 ### Psychic Enervation (Ex):
  Pushing oneself by invoking a wild surge is dangerous. Immediately
@@ -828,7 +828,7 @@ A wilder who is overcome by psychic enervation is dazed until the end of her nex
 points equal to her wilder level.
 
 ### Elude Touch (Ex):
- Starting at 2nd level, a wilder’s intuition supersedes her intellect, alerting
+ Starting at 2nd level, a wilder's intuition supersedes her intellect, alerting
 her to danger from touch attacks (including rays). She gains a bonus to Armor Class against all touch attacks
 equal to her Charisma bonus; however, her touch AC can never exceed her Armor Class against normal attacks.
 
@@ -840,17 +840,17 @@ intensity of her wild surge.
 If a wilder is overcome by psychic enervation following her wild surge, she does not gain the morale bonus for
 this use of her wild surge ability.
 
-At 12th level, the morale bonus on a wilder’s attack rolls, damage rolls, and saving throws increases to +2. At
+At 12th level, the morale bonus on a wilder's attack rolls, damage rolls, and saving throws increases to +2. At
 20th level, the bonus increases to +3.
 
 ### Volatile Mind (Ex):
- A wilder’s temperamental mind is hard to encompass with the discipline of
+ A wilder's temperamental mind is hard to encompass with the discipline of
 telepathy. When any telepathy power is manifested on a wilder of 5th level or higher, the manifester of the power
 must pay 1 power point more than he otherwise would have spent.
 
-The extra cost is not a natural part of that power’s cost. It does not augment the power; it is simply a wasted
-power point. The wilder’s volatile mind can force the manifester of the telepathy power to exceed the normal power
-point limit of 1 point per manifester level. If the extra cost raises the telepathy power’s cost to more points
+The extra cost is not a natural part of that power's cost. It does not augment the power; it is simply a wasted
+power point. The wilder's volatile mind can force the manifester of the telepathy power to exceed the normal power
+point limit of 1 point per manifester level. If the extra cost raises the telepathy power's cost to more points
 than the manifester has remaining in his reserve, the power simply fails, and the manifester exhausts the rest of
 his power points.
 
@@ -872,7 +872,7 @@ To qualify to become a cerebremancer, a character must fulfill all the following
  Able to manifest 2nd-level powers.
 ### Class Skills
 
-The cerebremancer’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
+The cerebremancer's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int),
 Decipher Script (Int), Knowledge (arcana) Int, Knowledge (psionics) (Int), Profession (Wis), Psicraft (Int), and
 Spellcraft (Int).
 
@@ -928,7 +928,7 @@ To qualify to become an elocater, a character must fulfill all the following cri
  Able to manifest 1st-level powers.
 ### Class Skills
 
-The elocater’s class skills (and the key ability for each skill) are Autohypnosis (Wis), Balance (Dex), Climb
+The elocater's class skills (and the key ability for each skill) are Autohypnosis (Wis), Balance (Dex), Climb
 (Str), Concentration (Con), Craft (Int), Disable Device (Int), Escape Artist (Dex), Gather Information (Cha), Hide
 (Dex), Jump (Str), Knowledge (local) (Int), Knowledge (psionics), Listen (Wis), Move Silently (Dex), Open Lock
 (Dex), Perform (Cha), Profession (Wis), Psicraft (Int), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex),
@@ -942,13 +942,13 @@ Spot (Wis), Swim (Str), Tumble (Dex), Use Psionic Device (Cha), and Use Rope (De
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Powers Known |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +2 | +2 | Scorn earth, Sidestep Charge | +1 level of existing manifesting class |
-| 2nd | +1 | +0 | +3 | +3 | Opportunistic strike +2 | --- |
+| 2nd | +1 | +0 | +3 | +3 | Opportunistic strike +2 | -- |
 | 3rd | +2 | +1 | +3 | +3 | Dimension step | +1 level of existing manifesting class |
 | 4th | +3 | +1 | +4 | +4 | Flanker | +1 level of existing manifesting class |
-| 5th | +3 | +1 | +4 | +4 | Opportunistic strike +4 | --- |
+| 5th | +3 | +1 | +4 | +4 | Opportunistic strike +4 | -- |
 | 6th | +4 | +2 | +5 | +5 | Transporter | +1 level of existing manifesting class |
 | 7th | +5 | +2 | +5 | +5 | Capricious step | +1 level of existing manifesting class |
-| 8th | +6 | +2 | +6 | +6 | Opportunistic strike +6 | --- |
+| 8th | +6 | +2 | +6 | +6 | Opportunistic strike +6 | -- |
 | 9th | +6 | +3 | +6 | +6 | Dimension spring attack | +1 level of existing manifesting class |
 | 10th | +7 | +3 | +7 | +7 | Accelerated action | +1 level of existing manifesting class |
 
@@ -972,7 +972,7 @@ she adds the new level of elocater for the purpose of determining power points p
 manifester level.
 
 ### Scorn Earth (Su):
- At 1st level, an elocater’s feet lift from the ground. From now on, she can
+ At 1st level, an elocater's feet lift from the ground. From now on, she can
 float a foot above the ground. Instead of walking she glides along, unconcerned with the hard earth or difficult
 terrain. While she remains within 1 foot of a flat surface of any solid or liquid, she can take normal actions and
 make normal attacks, and can move at her normal speed (she can even "run" at four times her normal speed).
@@ -987,11 +987,11 @@ _psionic levitate_ power.
 she does not meet the prerequisites. If the character already has this feat, she gains no benefit.
 
 ### Opportunistic Strike (Ex):
- Beginning at 2nd level, an elocater’s hyperawareness of spatial
+ Beginning at 2nd level, an elocater's hyperawareness of spatial
 relations gives her an instinctive view of the battlefield, which allows her to make a cunning attack against
 distracted opponents. The elocater gains a +2 insight bonus on her attack roll and her damage roll (if the attack
 hits) for the first attack she makes against an opponent that has been dealt damage in melee by another character
-since the elocater’s last action. At 5th level the insight bonus increases to +4, and at 8th level the insight
+since the elocater's last action. At 5th level the insight bonus increases to +4, and at 8th level the insight
 bonus increases to +6.
 
 ### Dimension Step (Su):
@@ -1019,7 +1019,7 @@ the required manifester level.)
 
 ### Capricious Step (Ex):
  At 7th level, an elocater can take an extra 5-foot step in any round when
-she doesn’t perform any other movement (except for the first 5-foot step). Like the first, the second 5-foot step
+she doesn't perform any other movement (except for the first 5-foot step). Like the first, the second 5-foot step
 does not provoke attacks of opportunity. The character can take the extra 5-foot step immediately after taking the
 first, or wait until the end of her other actions for the round. In all other ways, the rules for taking a 5-foot
 step apply.
@@ -1037,8 +1037,8 @@ already used dimension step).
  When she attains 10th level, an elocater can accelerate herself and
 thereby take more actions than normal. An elocater can accelerate herself for a total of 5 rounds per day. She can
 choose to parcel out her accelerated actions in 1-round increments. (This effect is not cumulative with similar
-effects that provide additional actions, such as _schism_ or a _haste_ spell---and in fact an elocater
-can’t take an accelerated action if affected by these or similar effects.)
+effects that provide additional actions, such as _schism_ or a _haste_ spell--and in fact an elocater
+can't take an accelerated action if affected by these or similar effects.)
 
 If she makes a full attack while accelerated, an elocater can make one extra attack with any weapon she is
 holding. The attack is made using her full base attack bonus, plus any modifiers appropriate to the situation. If
@@ -1063,7 +1063,7 @@ To qualify to become a Psionic Fist, a character must fulfill all the following 
  Still mind class feature.
 ### Class Skills
 
-The Psionic Fist’s class skills (and the key ability for each skill) are Autohypnosis (Wis), Concentration (Con),
+The Psionic Fist's class skills (and the key ability for each skill) are Autohypnosis (Wis), Concentration (Con),
 Craft (Int), Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (psionics) (Int), Knowledge (religion) (Int),
 Listen (Wis), Move Silently (Dex), Psicraft (Int), Sense Motive (Wis), Spot (Wis), Tumble (Dex).
 
@@ -1075,14 +1075,14 @@ Listen (Wis), Move Silently (Dex), Psicraft (Int), Sense Motive (Wis), Spot (Wis
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Points/Day | Powers Known | Level Known |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +0 | +0 | +2 | +2 | Monk abilities | 1 | 1 | 1st |
-| 2nd | +1 | +0 | +3 | +3 | --- | 3 | 2 | 1st |
-| 3rd | +2 | +1 | +3 | +3 | --- | 6 | 3 | 2nd |
-| 4th | +3 | +1 | +4 | +4 | --- | 10 | 4 | 2nd |
+| 2nd | +1 | +0 | +3 | +3 | -- | 3 | 2 | 1st |
+| 3rd | +2 | +1 | +3 | +3 | -- | 6 | 3 | 2nd |
+| 4th | +3 | +1 | +4 | +4 | -- | 10 | 4 | 2nd |
 | 5th | +3 | +1 | +4 | +4 | Bonus psionic feat | 15 | 5 | 3rd |
-| 6th | +4 | +2 | +5 | +5 | --- | 23 | 6 | 3rd |
-| 7th | +5 | +2 | +5 | +5 | --- | 31 | 7 | 4th |
-| 8th | +6 | +2 | +6 | +6 | --- | 43 | 8 | 4th |
-| 9th | +6 | +3 | +6 | +6 | --- | 55 | 9 | 5th |
+| 6th | +4 | +2 | +5 | +5 | -- | 23 | 6 | 3rd |
+| 7th | +5 | +2 | +5 | +5 | -- | 31 | 7 | 4th |
+| 8th | +6 | +2 | +6 | +6 | -- | 43 | 8 | 4th |
+| 9th | +6 | +3 | +6 | +6 | -- | 55 | 9 | 5th |
 | 10th | +7 | +3 | +7 | +7 | Bonus psionic feat | 71 | 10 | 5th |
 
 ### Class Features
@@ -1091,7 +1091,7 @@ All the following are class features of the Psionic Fist prestige class.
  Psionic Fists gain no proficiency with any weapon or armor.
 
 ### Monk Abilities:
- A Psionic Fist’s class levels stack with his monk levels for the purpose of
+ A Psionic Fist's class levels stack with his monk levels for the purpose of
 determining his unarmed damage and bonuses to Armor Class and unarmored speed. His class levels do not apply to
 other monk abilities such as flurry of blows, slow fall, and so on.
 
@@ -1102,7 +1102,7 @@ Fist. In addition, he receives bonus power points per day if he has a high Wisdo
 Modifiers and Bonus Power Points). His race may also provide bonus power points per day, as may certain feats and
 items. If a Psionic Fist has power points from a different class, those points are pooled together and usable to
 manifest powers from either class. Bonus power points from having a high ability score can be gained only for the
-character’s highest psionic class.
+character's highest psionic class.
 
 ### Powers Known:
  A Psionic Fist chooses his powers from the psychic warrior power list. At 1st
@@ -1112,10 +1112,10 @@ manifester level. The total number of powers a Psionic Fist can manifest per day
 power points.
 
 A Psionic Fist simply knows his powers; they are ingrained in his mind. He does not need to prepare them (in the
-way that some spellcasters pre pare their spells), though he must get a good night’s sleep each day to regain all
+way that some spellcasters pre pare their spells), though he must get a good night's sleep each day to regain all
 his spent power points.
 
-The Difficulty Class for saving throws against Psionic Fist powers is 10 + the power’s level + the Psionic Fist’s
+The Difficulty Class for saving throws against Psionic Fist powers is 10 + the power's level + the Psionic Fist's
 Wisdom modifier.
 
 ### Maximum Power Level Known:
@@ -1123,7 +1123,7 @@ Wisdom modifier.
 takes his first level in the prestige class. As he attains each new odd-numbered level, a Psionic Fist gains the
 ability to master more complex powers.
 
-To learn or manifest a power, a Psionic Fist must have a Wisdom score of at least 10 + the power’s level.
+To learn or manifest a power, a Psionic Fist must have a Wisdom score of at least 10 + the power's level.
 
 ### Bonus Psionic Feat:
  At 5th and 10th level, a Psionic Fist can take any psionic feat as a bonus
@@ -1146,7 +1146,7 @@ To qualify to become a slayer, a character must fulfill all the following criter
  Must have a power point reserve of at least 1 power point.
 ### Class Skills
 
-The slayer’s class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Knowledge
+The slayer's class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Knowledge
 (dungeoneering) (Int), Listen (Wis), Psicraft (Int), Sense Motive (Wis), Spot (Wis), and Survival (Wis).
 
 ### Skill Points at Each Level:
@@ -1156,11 +1156,11 @@ The slayer’s class skills (and the key ability for each skill) are Bluff (Cha)
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Powers Known |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +0 | +0 | +2 | Favored enemy +2, enemy sense | --- |
+| 1st | +1 | +0 | +0 | +2 | Favored enemy +2, enemy sense | -- |
 | 2nd | +2 | +0 | +0 | +3 | Brain nausea | +1 level of existing manifesting class |
 | 3rd | +3 | +1 | +1 | +3 | Lucid buffer | +1 level of existing manifesting class |
 | 4th | +4 | +1 | +1 | +4 | Favored enemy +4 | +1 level of existing manifesting class |
-| 5th | +5 | +1 | +1 | +4 | --- | +1 level of existing manifesting class |
+| 5th | +5 | +1 | +1 | +4 | -- | +1 level of existing manifesting class |
 | 6th | +6 | +2 | +2 | +5 | Cerebral blind | +1 level of existing manifesting class |
 | 7th | +7 | +2 | +2 | +5 | Favored enemy +6 | +1 level of existing manifesting class |
 | 8th | +8 | +2 | +2 | +6 | Breach power resistance | +1 level of existing manifesting class |
@@ -1204,9 +1204,9 @@ even if they are hidden by darkness or walls, but she cannot discern their exact
 
 ### Brain Nausea (Su):
  At 2nd level, a slayer gains a constant defensive ability somewhat similar to
-the _aversion_ power. Any creature that attempts to eat the slayer’s brain must succeed on a Will save (DC 15
-+ slayer’s class level) or become disinclined to do so for 24 hours thereafter. A creature that fails this save
-may take any action it desires except extracting the slayer’s brain (but does not realize it is being so
+the _aversion_ power. Any creature that attempts to eat the slayer's brain must succeed on a Will save (DC 15
++ slayer's class level) or become disinclined to do so for 24 hours thereafter. A creature that fails this save
+may take any action it desires except extracting the slayer's brain (but does not realize it is being so
 affected). This ability is active even if the slayer is unconscious, stunned, or otherwise helpless.
 
 ### Lucid Buffer (Ex):
@@ -1221,9 +1221,9 @@ effects that reveal location.
 
 The ability even foils
 _bend reality, limited wish, miracle, reality revision,_ and _wish_ when they are used to gain
-information about the slayer’s location (however, _metafaculty_ can pierce this protective barrier). In the
+information about the slayer's location (however, _metafaculty_ can pierce this protective barrier). In the
 case of _remote viewing_ or _scrying_ that scans an area a slayer is in, the effect works, but the
-slayer simply isn’t detected. _Remote viewing_ or _scrying_ attempts that are targeted specifically at a
+slayer simply isn't detected. _Remote viewing_ or _scrying_ attempts that are targeted specifically at a
 slayer do not work. This ability is active as long as the slayer is psionically focused.
 
 ### Breach Power Resistance (Su):
@@ -1259,7 +1259,7 @@ To qualify to become a metamind, a character must fulfill all the following crit
  Manifester level 4th.
 ### Class Skills
 
-The metamind’s class skills are Autohypnosis (Wis), Concentration* (Con), Craft (any) (Int), Knowledge (psionics),
+The metamind's class skills are Autohypnosis (Wis), Concentration* (Con), Craft (any) (Int), Knowledge (psionics),
 and Psicraft (Int).
 
 ### Skill Points at Each Level:
@@ -1269,15 +1269,15 @@ and Psicraft (Int).
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Powers Known |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Free manifesting 1st, 3/day | --- |
+| 1st | +0 | +0 | +0 | +2 | Free manifesting 1st, 3/day | -- |
 | 2nd | +1 | +0 | +0 | +3 | Cognizance psicrystal 5 points | +1 level of existing manifesting class |
-| 3rd | +1 | +1 | +1 | +3 | Free manifesting 2nd, 3/day | --- |
+| 3rd | +1 | +1 | +1 | +3 | Free manifesting 2nd, 3/day | -- |
 | 4th | +2 | +1 | +1 | +4 | Cognizance psicrystal 7 points | +1 level of existing manifesting class |
-| 5th | +2 | +1 | +1 | +4 | Free manifesting 3rd, 1/day | --- |
+| 5th | +2 | +1 | +1 | +4 | Free manifesting 3rd, 1/day | -- |
 | 6th | +3 | +2 | +2 | +5 | Cognizance psicrystal 9 points | +1 level of existing manifesting class |
-| 7th | +3 | +2 | +2 | +5 | Free manifesting 4th, 1/day | --- |
+| 7th | +3 | +2 | +2 | +5 | Free manifesting 4th, 1/day | -- |
 | 8th | +4 | +2 | +2 | +6 | Cognizance psicrystal 11 points | +1 level of existing manifesting class |
-| 9th | +4 | +3 | +3 | +6 | Free manifesting 5th, 1/day | --- |
+| 9th | +4 | +3 | +3 | +6 | Free manifesting 5th, 1/day | -- |
 | 10th | +5 | +3 | +3 | +7 | Font of power | +1 level of existing manifesting class |
 
 ### Class Features
@@ -1339,7 +1339,7 @@ To qualify to become a psion uncarnate, a character must fulfill all the followi
  Must have had some instruction by another psion uncarnate.
 ### Class Skills
 
-The psion uncarnate’s class skills are Autohypnosis (Wis), Bluff (Cha), Concentration (Con), Craft (any) (Int),
+The psion uncarnate's class skills are Autohypnosis (Wis), Bluff (Cha), Concentration (Con), Craft (any) (Int),
 Disguise (Cha), Knowledge (the planes) (Int), Knowledge (psionics) (Int), Psicraft (Int), and Sense Motive (Wis).
 
 ### Skill Points at Each Level:
@@ -1349,16 +1349,16 @@ Disguise (Cha), Knowledge (the planes) (Int), Knowledge (psionics) (Int), Psicra
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Powers Known |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Incorporeal touch 1d6, uncarnate armor | --- |
+| 1st | +0 | +0 | +0 | +2 | Incorporeal touch 1d6, uncarnate armor | -- |
 | 2nd | +1 | +0 | +0 | +3 | Shed body 1/day | +1 level of existing manifesting class |
 | 3rd | +1 | +1 | +1 | +3 | Assume equipment | +1 level of existing manifesting class |
-| 4th | +2 | +1 | +1 | +4 | Assume likeness | --- |
+| 4th | +2 | +1 | +1 | +4 | Assume likeness | -- |
 | 5th | +2 | +1 | +1 | +4 | Incorporeal touch 2d6 | +1 level of existing manifesting class |
 | 6th | +3 | +2 | +2 | +5 | Shed body 2/day | +1 level of existing manifesting class |
-| 7th | +3 | +2 | +2 | +5 | Telekinetic force | --- |
+| 7th | +3 | +2 | +2 | +5 | Telekinetic force | -- |
 | 8th | +4 | +2 | +2 | +6 | Uncarnate bridge | +1 level of existing manifesting class |
 | 9th | +4 | +3 | +3 | +6 | Incorporeal touch 3d6 | +1 level of existing manifesting class |
-| 10th | +5 | +3 | +3 | +7 | Uncarnate | --- |
+| 10th | +5 | +3 | +3 | +7 | Uncarnate | -- |
 
 ### Class Features
 All the following are class features of the psion uncarnate prestige class.
@@ -1379,9 +1379,9 @@ and manifester level.
 
 ### Incorporeal Touch (Su):
  Beginning at 1st level, a psion uncarnate can make up to three melee
-touch attacks per day that each deal 1d6 points of damage if they hit. The character’s Strength modifier is not
+touch attacks per day that each deal 1d6 points of damage if they hit. The character's Strength modifier is not
 applied to this attack, but it is effective against incorporeal creatures (and against corporeal creatures while
-the psion uncarnate is incorporeal) The character’s hand and arm seem to become slightly translucent when he makes
+the psion uncarnate is incorporeal) The character's hand and arm seem to become slightly translucent when he makes
 these attacks. A miss still counts as a use of the ability.
 
 While uncarnate (see below), a psion uncarnate can make melee touch attacks at will that do not count against his
@@ -1400,7 +1400,7 @@ the assume equipment ability described below).
 ### Shed Body (Su):
  Starting at 2nd level, a psion uncarnate can become incorporeal (or "uncarnate")
 once per day as a standard action. The character can remain uncarnate for up to 1 minute. During this time, the
-character’s body fades into an immaterial form that retains the character’s basic likeness. While uncarnate, the
+character's body fades into an immaterial form that retains the character's basic likeness. While uncarnate, the
 character gains the incorporeal subtype (see below). He gains a fly speed equal to his land speed (perfect
 maneuverability). His material armor remains in place and continues to provide its armor bonus to AC (see
 Uncarnate Armor, above). His material weapons also remain corporeal. Losing his physical form allows the character
@@ -1411,7 +1411,7 @@ He can use equipment normally, deriving benefits from items that enhance his cap
 equipment remains material even when the character is uncarnate (but see the assume equipment ability, described
 below).
 
-Often, a psion uncarnate appears almost like a ghost wearing items of the material world. This doesn’t make his
+Often, a psion uncarnate appears almost like a ghost wearing items of the material world. This doesn't make his
 equipment more susceptible to attack (the normal rules for attended objects apply), but it does make it impossible
 for the character to enter or pass through solid objects while wearing solid equipment. If he drops his material
 equipment, he can pass through solid objects at will as described below.
@@ -1424,10 +1424,10 @@ or supernatural abilities. He is immune to all nonmagical attack forms. Even whe
 he has a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy,
 force effects, or attacks made with _ghost touch_ weapons).
 
-An incorporeal psion uncarnate has no natural armor bonus---and, unlike other incorporeal creatures, does not gain a
+An incorporeal psion uncarnate has no natural armor bonus--and, unlike other incorporeal creatures, does not gain a
 deflection bonus from his Charisma modifier. An incorporeal psion uncarnate can enter or pass through solid
 objects (subject to the restrictions described in the shed body and assume equipment abilities), but must remain
-adjacent to the object’s exterior, and so cannot pass entirely through an object whose space is larger than his
+adjacent to the object's exterior, and so cannot pass entirely through an object whose space is larger than his
 own. He can sense the presence of creatures or objects within a square adjacent to his current location, but
 enemies have total concealment (50% miss chance) from an incorporeal psion uncarnate that is inside an object. To
 see farther from the object he is in and attack normally, the incorporeal psion uncarnate must emerge. An
@@ -1435,14 +1435,14 @@ incorporeal psion uncarnate inside an object has total cover, but when he attack
 only has cover, so a creature outside with a readied action could strike at him as he attacks. An incorporeal
 psion uncarnate cannot pass through a force effect.
 
-An incorporeal psion uncarnate’s attacks pass through (ignore) natural armor, armor, and shields, although
+An incorporeal psion uncarnate's attacks pass through (ignore) natural armor, armor, and shields, although
 deflection bonuses and force effects work normally against him. He can pass through and operate in water as easily
 as he does in air. An incorporeal psion uncarnate cannot fall or take falling damage. He cannot make trip or
 grapple attacks, nor can he be tripped or grappled. In fact, he cannot take any physical action that would move or
 manipulate an opponent or its equipment, nor is he subject to such actions.
 
 Incorporeal creatures have no weight and do not set off traps that are triggered by weight. An incorporeal
-creature moves silently and cannot be heard with Listen checks if it doesn’t wish to be. It has no Strength score,
+creature moves silently and cannot be heard with Listen checks if it doesn't wish to be. It has no Strength score,
 so its Dexterity modifier applies to both its melee attack rolls and its ranged attack rolls. Nonvisual senses,
 such as scent and blindsight, are either ineffective or only partly effective with regard to incorporeal
 creatures. Incorporeal creatures have an innate sense of direction and can move at full speed even when they
@@ -1452,7 +1452,7 @@ cannot see.
  Beginning at 3rd level, a psion
 
 uncarnate can designate a number of pieces of his worn equipment (including armor and weapons) equal to his psion
-uncarnate level to become incorporeal when he uses his shed body ability. This has no effect on the equipment’s
+uncarnate level to become incorporeal when he uses his shed body ability. This has no effect on the equipment's
 function, but now when the psion uncarnate is incorporeal, he can enter or pass through solid objects while
 wearing nothing other than the designated equipment. Once designated, the equipment automatically changes to
 incorporeal when the character sheds his body, and it returns to corporeality when the character does. The
@@ -1461,22 +1461,22 @@ character can change his designations as he desires.
 ### Assume Likeness (Su):
  At 4th level and higher, while incorporeal, a psion uncarnate can assume
 the likeness of any Small, Medium, or Large creature as a standard action that does not provoke attacks of
-opportunity. The character’s abilities do not change, but he appears to be the creature that he assumes the
+opportunity. The character's abilities do not change, but he appears to be the creature that he assumes the
 likeness of, allowing him the ability to effectively disguise himself and bluff those who might wonder at his true
-nature. Each physical interaction with a creature requires a successful Bluff check (opposed by the creature’s
-Sense Motive check) to convince the creature of the psion uncarnate’s new appearance. The psion uncarnate must not
+nature. Each physical interaction with a creature requires a successful Bluff check (opposed by the creature's
+Sense Motive check) to convince the creature of the psion uncarnate's new appearance. The psion uncarnate must not
 do anything to give away his true (incorporeal) nature in order for the bluff to be successful; for instance, if
 he accepts an item from another creature only to have it fall through his immaterial hands, the Bluff check
 automatically fails. However, a Bluff check would be allowed if the psion uncarnate uses his telekinetic force
 ability (see below) to hold the received item.
 
 When using his assume likeness ability, a psion uncarnate has an additional +10 circumstance bonus on Disguise
-checks. If he can read an opponent’s mind, he gets a further +4 circumstance bonus on Bluff and Disguise checks.
+checks. If he can read an opponent's mind, he gets a further +4 circumstance bonus on Bluff and Disguise checks.
 
 ### Telekinetic Force (Su):
  Beginning at 7th level, while incorporeal, a psion uncarnate can use a
 telekinetic force effect as a standard action that does not provoke attacks of opportunity. The save DC is equal
-to 14 + the psion uncarnate’s key ability modifier (either Int, Wis, or Cha). The character’s manifester level is
+to 14 + the psion uncarnate's key ability modifier (either Int, Wis, or Cha). The character's manifester level is
 the manifester level of the effect.
 
 Even while corporeal, a psion uncarnate can use this ability, but only three times per day (uses while he is
@@ -1499,8 +1499,8 @@ and leaving a creature is painless, unless the psion uncarnate wishes otherwise 
 though, the destination creature finds being the endpoint of a mental bridge surprising and quite unsettling.
 
 If he desires, a psion uncarnate can destructively exit the destination creature. If the creature fails a Will
-save (DC 15 + psion uncarnate’s key ability modifier), the exiting psion uncarnate tunes his mental form to
-destructively interfere with the target’s mind. He bursts forth explosively from the creature’s body, dealing it
+save (DC 15 + psion uncarnate's key ability modifier), the exiting psion uncarnate tunes his mental form to
+destructively interfere with the target's mind. He bursts forth explosively from the creature's body, dealing it
 10d6 points of damage.
 
 ### Uncarnate (Ex):
@@ -1524,7 +1524,7 @@ To qualify to become a pyrokineticist, a character must fulfill all the followin
  Must have set fire to a structure of any size just to watch it burn.
 ### Class Skills
 
-The pyrokineticist’s class skills (and the key ability for each skill) are Climb (Str), Concentration (Con), Craft
+The pyrokineticist's class skills (and the key ability for each skill) are Climb (Str), Concentration (Con), Craft
 (any) (Int), Intimidate (Cha), Jump (Str), and Psicraft (Int).
 
 ### Skill Points at Each Level:
@@ -1564,7 +1564,7 @@ bonus on all saving throws against fire and heat spells and effects. In addition
 
 ### _Hand Afire_ (Ps):
  A pyrokineticist of 2nd level or higher can activate this ability as a
-move-equivalent action. Flames engulf one of the pyrokineticist’s hands (but do her no harm). Her unarmed attacks
+move-equivalent action. Flames engulf one of the pyrokineticist's hands (but do her no harm). Her unarmed attacks
 with that hand are treated as armed. Such attacks deal an extra 2d6 points of fire damage.
 
 ### _Bolt of Fire_ (Ps):
@@ -1581,7 +1581,7 @@ successful hit. The weapon retains this effect for as long as the pyrokineticist
 ### _Nimbus_ (Ps):
  Beginning at 5th level, a pyrokineticist can activate this ability as a
 move-equivalent action. Flames that harm neither the pyrokineticist nor her equipment engulf her entire body.
-While she is aflame, the character’s Charisma score increases by 4, she can make a melee touch attack for 2d6
+While she is aflame, the character's Charisma score increases by 4, she can make a melee touch attack for 2d6
 points of fire damage, and she gains damage reduction 5/magic. If she is struck in melee, the attacker takes 2d6
 points of fire damage. This ability lasts for up to 1 minute per pyrokineticist level and is usable once per day.
 
@@ -1604,7 +1604,7 @@ of 2d6. Touch attacks made while she uses the nimbus ability likewise deal 4d6 p
 ### _Heat Death_ (Ps):
  A pyrokineticist who reaches 9th level can expend her psionic focus and
 take a full attack action to raise the internal temperature of one living creature within 30 feet to lethal
-levels. The target must succeed on a Fortitude saving throw (DC 14 + pyro’s Cha modifier) or die horrifically as
+levels. The target must succeed on a Fortitude saving throw (DC 14 + pyro's Cha modifier) or die horrifically as
 its blood (or other internal fluid) boils. Even on a successful save, the target takes 4d8 points of fire damage
 from the heat.
 
@@ -1612,7 +1612,7 @@ from the heat.
  At 10th level, a pyrokineticist gains the ability to create a massive
 burst of raging flames around herself, burning everything in the area. Once per day, as a standard action, she can
 use this ability to deal 15d6 points of fire damage in a 30-foot-radius burst emanating from herself. Any creature
-or object caught in the burst can make a Reflex saving throw (DC 15 + pyro’s Cha modifier) for half damage. Anyone
+or object caught in the burst can make a Reflex saving throw (DC 15 + pyro's Cha modifier) for half damage. Anyone
 failing the Reflex save against the _conflagration_ must also make a Fortitude saving throw (same DC) or die
 due to extreme shock from the intense heat.
 
@@ -1629,7 +1629,7 @@ To qualify to become a thrallherd, a character must fulfill all the following cr
  Manifester level 5th and able to manifest _mindlink_.
 ### Class Skills
 
-The thrallherd’s class skills are Autohypnosis (Wis), Bluff (Cha), Concentration (Con), Craft (any) (Int),
+The thrallherd's class skills are Autohypnosis (Wis), Bluff (Cha), Concentration (Con), Craft (any) (Int),
 Diplomacy (Cha), Knowledge (psionics), Psicraft (Int), and Sense Motive (Wis).
 
 ### Skill Points at Each Level:
@@ -1639,16 +1639,16 @@ Diplomacy (Cha), Knowledge (psionics), Psicraft (Int), and Sense Motive (Wis).
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Powers Known |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Thrallherd | --- |
-| 2nd | +1 | +0 | +0 | +3 | --- | +1 level of existing manifesting class |
+| 1st | +0 | +0 | +0 | +2 | Thrallherd | -- |
+| 2nd | +1 | +0 | +0 | +3 | -- | +1 level of existing manifesting class |
 | 3rd | +1 | +1 | +1 | +3 | Psionic charm | +1 level of existing manifesting class |
-| 4th | +2 | +1 | +1 | +4 | --- | +1 level of existing manifesting class |
+| 4th | +2 | +1 | +1 | +4 | -- | +1 level of existing manifesting class |
 | 5th | +2 | +1 | +1 | +4 | Psionic dominate | +1 level of existing manifesting class |
-| 6th | +3 | +2 | +2 | +5 | --- | +1 level of existing manifesting class |
+| 6th | +3 | +2 | +2 | +5 | -- | +1 level of existing manifesting class |
 | 7th | +3 | +2 | +2 | +5 | Greater dominate | +1 level of existing manifesting class |
-| 8th | +4 | +2 | +2 | +6 | --- | +1 level of existing manifesting class |
+| 8th | +4 | +2 | +2 | +6 | -- | +1 level of existing manifesting class |
 | 9th | +4 | +3 | +3 | +6 | Superior dominate | +1 level of existing manifesting class |
-| 10th | +5 | +3 | +3 | +7 | Twofold master | --- |
+| 10th | +5 | +3 | +3 | +7 | Twofold master | -- |
 
 ### Class Features
 All the following are class features of the thrallherd prestige class.
@@ -1672,51 +1672,51 @@ manifester level.
 servants, and that call is answered. Essentially, the character gains something akin to the Leadership feat, but
 with some important differences.
 
-Those who answer a thrallherd’s call are not referred to as cohorts and followers, but rather as thralls and
+Those who answer a thrallherd's call are not referred to as cohorts and followers, but rather as thralls and
 believers, respectively. They do not appear because they admire the character and want to serve her, but because a
 hidden psychic resonance connects the thrallherd and her servants.
 
 As with the Leadership feat, a thrallherd has a Leadership score that determines the highest-level thrall and
-believers she can attract. A thrallherd’s Leadership score is equal to her character level + her Cha modifier +
+believers she can attract. A thrallherd's Leadership score is equal to her character level + her Cha modifier +
 her thrallherd level. (Note that her thrallherd level is counted twice.) This score is not affected by any of the
 modifiers mentioned in the Leadership feat.
 
-As with the Leadership feat, the called thrall’s level is limited, even if the character’s Leadership score would
+As with the Leadership feat, the called thrall's level is limited, even if the character's Leadership score would
 indicate a higher-level thrall. Unlike with the Leadership feat, the level limit of a thrall is equal to the
-character’s total level minus 1 (not level minus 2, as is true for cohorts).
+character's total level minus 1 (not level minus 2, as is true for cohorts).
 
 A thrallherd cannot take the Leadership feat; if the character already has it, the feat is lost and replaced by
 this ability; those who were previously cohorts and followers go their separate ways, and those who are more
-mentally pliable show up later to take up roles as thralls and believers. A thrallherd’s first thrall and
+mentally pliable show up later to take up roles as thralls and believers. A thrallherd's first thrall and
 believers arrive within 24 hours of her entry into this class; likewise, lost thralls and believers are replaced
 within 24 hours.
 
-Use the following table instead of the one with the Leadership feat to determine the level of a thrallherd’s
+Use the following table instead of the one with the Leadership feat to determine the level of a thrallherd's
 thrall and the number of believers of various levels a thrallherd can attract.
 
 | Leadership Score | Thrall Level | Number of Believers by Level |
 | --- | --- | --- |
 | 1st | 2nd | 3rd | 4th | 5th | 6th |
-| 1 or lower | --- | --- | --- | --- | --- | --- | --- |
-| 2 | 1st | --- | --- | --- | --- | --- | --- |
-| 3 | 2nd | --- | --- | --- | --- | --- | --- |
-| 4 | 3rd | --- | --- | --- | --- | --- | --- |
-| 5 | 3rd | --- | --- | --- | --- | --- | --- |
-| 6 | 4th | --- | --- | --- | --- | --- | --- |
-| 7 | 5th | --- | --- | --- | --- | --- | --- |
-| 8 | 5th | --- | --- | --- | --- | --- | --- |
-| 9 | 6th | --- | --- | --- | --- | --- | --- |
-| 10 | 7th | 5 | --- | --- | --- | --- | --- |
-| 11 | 7th | 6 | --- | --- | --- | --- | --- |
-| 12 | 8th | 8 | --- | --- | --- | --- | --- |
-| 13 | 9th | 10 | 1 | --- | --- | --- | --- |
-| 14 | 10th | 15 | 1 | --- | --- | --- | --- |
-| 15 | 10th | 20 | 2 | 1 | --- | --- | --- |
-| 16 | 11th | 25 | 2 | 1 | --- | --- | --- |
-| 17 | 12th | 30 | 3 | 1 | 1 | --- | --- |
-| 18 | 12th | 35 | 3 | 1 | 1 | --- | --- |
-| 19 | 13th | 40 | 4 | 2 | 1 | 1 | --- |
-| 20 | 14th | 50 | 5 | 3 | 2 | 1 | --- |
+| 1 or lower | -- | -- | -- | -- | -- | -- | -- |
+| 2 | 1st | -- | -- | -- | -- | -- | -- |
+| 3 | 2nd | -- | -- | -- | -- | -- | -- |
+| 4 | 3rd | -- | -- | -- | -- | -- | -- |
+| 5 | 3rd | -- | -- | -- | -- | -- | -- |
+| 6 | 4th | -- | -- | -- | -- | -- | -- |
+| 7 | 5th | -- | -- | -- | -- | -- | -- |
+| 8 | 5th | -- | -- | -- | -- | -- | -- |
+| 9 | 6th | -- | -- | -- | -- | -- | -- |
+| 10 | 7th | 5 | -- | -- | -- | -- | -- |
+| 11 | 7th | 6 | -- | -- | -- | -- | -- |
+| 12 | 8th | 8 | -- | -- | -- | -- | -- |
+| 13 | 9th | 10 | 1 | -- | -- | -- | -- |
+| 14 | 10th | 15 | 1 | -- | -- | -- | -- |
+| 15 | 10th | 20 | 2 | 1 | -- | -- | -- |
+| 16 | 11th | 25 | 2 | 1 | -- | -- | -- |
+| 17 | 12th | 30 | 3 | 1 | 1 | -- | -- |
+| 18 | 12th | 35 | 3 | 1 | 1 | -- | -- |
+| 19 | 13th | 40 | 4 | 2 | 1 | 1 | -- |
+| 20 | 14th | 50 | 5 | 3 | 2 | 1 | -- |
 | 21 | 15th | 60 | 6 | 3 | 2 | 1 | 1 |
 | 22 | 15th | 75 | 7 | 4 | 2 | 2 | 1 |
 | 23 | 16th | 90 | 9 | 5 | 3 | 2 | 1 |
@@ -1725,15 +1725,15 @@ thrall and the number of believers of various levels a thrallherd can attract.
 
 ### Psionic Charm (Ex):
  At 3rd level, a thrallherd adds _psionic charm_ to her powers known (if
-she doesn’t already know it). Once per day, she can manifest _psionic charm_ at a reduced power point cost.
-The cost of _psionic charm_ is reduced by the thrallherd’s level, to a minimum of 1 power point. The effect
-of this power is still restricted by the thrallherd’s manifester level.
+she doesn't already know it). Once per day, she can manifest _psionic charm_ at a reduced power point cost.
+The cost of _psionic charm_ is reduced by the thrallherd's level, to a minimum of 1 power point. The effect
+of this power is still restricted by the thrallherd's manifester level.
 
 ### Psionic Dominate (Ex):
  At 5th level, a thrallherd adds _psionic dominate_ to her powers
-known (if she doesn’t already know it) Once per day, she can manifest _psionic dominate_ at a reduced power
-point cost. The cost of _psionic dominate_ is reduced by the thrallherd’s level, to a minimum of 1 power
-point. The effect of this power is still restricted by the thrallherd’s manifester level.
+known (if she doesn't already know it) Once per day, she can manifest _psionic dominate_ at a reduced power
+point cost. The cost of _psionic dominate_ is reduced by the thrallherd's level, to a minimum of 1 power
+point. The effect of this power is still restricted by the thrallherd's manifester level.
 
 ### Greater Dominate (Ex):
  At 7th level and higher, a thrallherd does not have to pay 2 additional
@@ -1749,7 +1749,7 @@ save DC of the power as if she had spent the additional power points.
 
 ### Twofold Master (Ex):
  At 10th level, a thrallherd can add a second thrall to her herd. This second
-thrall’s maximum level is equal to the thrallherd’s level minus 2, even if her Leadership score would indicate a
+thrall's maximum level is equal to the thrallherd's level minus 2, even if her Leadership score would indicate a
 higher-level thrall.
 
 ## War Mind
@@ -1769,7 +1769,7 @@ To qualify to become a war mind, a character must fulfill all the following crit
  Must have had some instruction by another war mind.
 ### Class Skills
 
-The war mind’s class skills (and the key ability for each skill) are Auto hypnosis (Wis), Concentration (Con),
+The war mind's class skills (and the key ability for each skill) are Auto hypnosis (Wis), Concentration (Con),
 Intimidate (Cha), Knowledge (history) (Int), Knowledge (psionics) (Int), and Psicraft (Int).
 
 ### Skill Points at Each Level:
@@ -1781,13 +1781,13 @@ Intimidate (Cha), Knowledge (history) (Int), Knowledge (psionics) (Int), and Psi
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | +1 | +2 | +2 | +0 | Chain of personal superiority +2 | 2 | 1 | 1st |
 | 2nd | +2 | +3 | +3 | +0 | Chain of defensive posture +2 | 5 | 2 | 1st |
-| 3rd | +3 | +3 | +3 | +1 | Enduring body (DR 1/---) | 9 | 2 | 1st |
-| 4th | +4 | +4 | +4 | +1 | --- | 14 | 3 | 2nd |
+| 3rd | +3 | +3 | +3 | +1 | Enduring body (DR 1/--) | 9 | 2 | 1st |
+| 4th | +4 | +4 | +4 | +1 | -- | 14 | 3 | 2nd |
 | 5th | +5 | +4 | +4 | +1 | Sweeping strike | 20 | 3 | 2nd |
-| 6th | +6 | +5 | +5 | +2 | Enduring body (DR 2/---) | 28 | 4 | 3rd |
+| 6th | +6 | +5 | +5 | +2 | Enduring body (DR 2/--) | 28 | 4 | 3rd |
 | 7th | +7 | +5 | +5 | +2 | Chain of personal superiority +4 | 37 | 4 | 3rd |
 | 8th | +8 | +6 | +6 | +2 | Chain of defensive posture +4 | 47 | 5 | 4th |
-| 9th | +9 | +6 | +6 | +3 | Enduring body (DR 3/---) | 58 | 5 | 4th |
+| 9th | +9 | +6 | +6 | +3 | Enduring body (DR 3/--) | 58 | 5 | 4th |
 | 10th | +10 | +7 | +7 | +3 | Chain of overwhelming force | 70 | 6 | 5th |
 
 ### Class Features
@@ -1801,7 +1801,7 @@ the power points he has available. His base daily allotment of power points is g
 addition, he receives bonus power points per day if he has a high Wisdom score. His race may also provide bonus
 power points per day, as may certain feats and items. If a war mind has power points from a different class, those
 points are pooled together and usable to manifest powers from either class. Bonus power points from having a high
-ability score can be gained only for the character’s highest psionic class.
+ability score can be gained only for the character's highest psionic class.
 
 ### Powers Known:
  A war mind chooses his powers from the psychic warrior power list. At 1st level, a
@@ -1810,10 +1810,10 @@ one new power. A war mind can manifest any power that has a power point cost equ
 level. The total number of powers a war mind can manifest per day is limited only by his daily power points.
 
 A war mind simply knows his powers; they are ingrained in his mind. He does not need to prepare them (in the way
-that some spellcasters prepare their spells), though he must get a good night’s sleep each day to regain all his
+that some spellcasters prepare their spells), though he must get a good night's sleep each day to regain all his
 spent power points.
 
-The Difficulty Class for saving throws against war mind powers is 10 + the power’s level + the war mind’s Wisdom
+The Difficulty Class for saving throws against war mind powers is 10 + the power's level + the war mind's Wisdom
 modifier.
 
 ### Maximum Power Level Known:
@@ -1821,7 +1821,7 @@ modifier.
 takes his first level in the prestige class. As he attains each even-numbered level beyond 2nd, a war mind gains
 the ability to master more complex powers.
 
-To learn or manifest a power, a war mind must have a Wisdom score of at least 10 + the power’s level.
+To learn or manifest a power, a war mind must have a Wisdom score of at least 10 + the power's level.
 
 ### Chain of Personal Superiority (Ex):
  At 1st level, a war mind learns the first principle of
@@ -1832,7 +1832,7 @@ for up to 1 minute. A war mind can use this power three times per day. Activatin
 
 ### Chain of Defensive Posture (Ex):
  At 2nd level, a war mind learns the second principle of warfare
-for the individual combatant: the ability to avoid the enemy’s counterattacks if that enemy is not immediately
+for the individual combatant: the ability to avoid the enemy's counterattacks if that enemy is not immediately
 overwhelmed. Calling upon inner reserves of knowledge and dedication, a war mind can provide himself with a +2
 insight bonus to Armor Class for up to 1 minute. A war mind can use this power three times per day. Activating
 this power is a free action. At 8th level, the insight bonus to Armor Class improves to +4.

@@ -1,14 +1,14 @@
 ---
 lang: en
 title: 3.5 Compendium  - v3.5 SRD - Spells - Spells (D-E)
-aliases: 3.5 Spells (D-E)
+aliases:
+  - 3.5 Spells (D-E)
 tags:
   - 3.5e
   - rules
   - v3.5_srd
   - spells
   - spells_d-e
-
 ---
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
@@ -70,8 +70,8 @@ This material is Open Game Content, and is licensed for public use under the ter
 *   [[#Dominate Person]]
 *   [[#Doom]]
 *   [[#Dream]]
-*   [[#Eagle’s Splendor]]
-*   [[#Eagle’s Splendor, Mass]]
+*   [[#Eagle's Splendor]]
+*   [[#Eagle's Splendor, Mass]]
 *   [[#Earthquake]]
 *   [[#Elemental Swarm]]
 *   [[#Endure Elements]]
@@ -109,11 +109,11 @@ Evocation [Light]
  No
 
 Depending on the version selected, you create up to four lights that resemble lanterns or torches (and cast that
-amount of light), or up to four glowing spheres of light (which look like will-o’-wisps), or one faintly glowing,
+amount of light), or up to four glowing spheres of light (which look like will-o'-wisps), or one faintly glowing,
 vaguely humanoid shape. The _dancing lights_ must stay within a 10-foot-radius area in relation to each other
 but otherwise move as you desire (no concentration required): forward or back, up or down, straight or turning
 corners, or the like. The lights can move up to 100 feet per round. A light winks out if the distance between you
-and it exceeds the spell’s range.
+and it exceeds the spell's range.
 
 _Dancing lights_ can be made permanent with a _permanency_ spell.
 ## Darkness
@@ -143,7 +143,7 @@ Normal lights (torches, candles, lanterns, and so forth) are incapable of bright
 spells of lower level. Higher level light spells are not affected by _darkness._
 
 If _darkness_ is cast on a small object that is then placed inside or under a lightproof covering, the
-spell’s effect is blocked until the covering is removed.
+spell's effect is blocked until the covering is removed.
 
 _Darkness_ counters or dispels any light spell of equal or lower spell level.
 _Arcane Material Component:_ A bit of bat fur and either a drop of pitch or a piece of coal.
@@ -197,7 +197,7 @@ magical light. Despite its name, this spell is not the equivalent of daylight fo
 are damaged or destroyed by bright light.
 
 If _daylight_ is cast on a small object that is then placed inside or under a light- proof covering, the
-spell’s effects are blocked until the covering is removed.
+spell's effects are blocked until the covering is removed.
 
 _Daylight_ brought into an area of magical darkness (or vice versa) is temporarily negated, so that the
 otherwise prevailing light conditions exist in the overlapping areas of effect.
@@ -285,7 +285,7 @@ Necromancy
 
 The subject is immune to all death spells, magical death effects, energy drain, and any negative energy effects.
 
-This spell doesn’t remove negative levels that the subject has already gained, nor does it affect the saving throw
+This spell doesn't remove negative levels that the subject has already gained, nor does it affect the saving throw
 necessary 24 hours after gaining a negative level.
 
 _Death ward_ does not protect against other sorts of attacks even if those attacks might be lethal.
@@ -309,7 +309,7 @@ Necromancy [Evil]
  No
 
 Using the foul sight granted by the powers of unlife, you can determine the condition of creatures near death
-within the spell’s range. You instantly know whether each creature within the area is dead, fragile (alive and
+within the spell's range. You instantly know whether each creature within the area is dead, fragile (alive and
 wounded, with 3 or fewer hit points left), fighting off death (alive with 4 or more hit points), undead, or
 neither alive nor dead (such as a construct).
 
@@ -358,7 +358,7 @@ Conjuration (Healing)
  Yes (harmless)
 
 The subject becomes temporarily immune to poison. Any poison in its system or any poison to which it is exposed
-during the spell’s duration does not affect the subject until the spell’s duration has expired.
+during the spell's duration does not affect the subject until the spell's duration has expired.
 _Delay poison_ does not cure any damage that poison may have already done.
 
 ## Delayed Blast Fireball
@@ -390,14 +390,14 @@ Enchantment (Compulsion) [Mind-Affecting]
 This spell functions like _sending,_ but the message can also contain a _suggestion_ (see the
 _suggestion_ spell), which the subject does its best to carry out. A successful Will save negates the
 _suggestion_ effect but not the contact itself. The _demand,_ if received, is understood even if the
-subject’s Intelligence score is as low as 1. If the message is impossible or meaningless according to the
+subject's Intelligence score is as low as 1. If the message is impossible or meaningless according to the
 circumstances that exist for the subject at the time the _demand_ is issued, the message is understood but
 the _suggestion_ is ineffective.
 
-The _demand_’s message to the creature must be twenty-five words or less, including the
+The _demand_'s message to the creature must be twenty-five words or less, including the
 _suggestion._ The creature can also give a short reply immediately.
 
-_Material Component:_ A short piece of copper wire and some small part of the subject---a hair, a bit of
+_Material Component:_ A short piece of copper wire and some small part of the subject--a hair, a bit of
 nail, or the like.
 
 ## Desecrate
@@ -462,7 +462,7 @@ Necromancy [Death]
  Yes
 
 This spell instantly slays the subject and consumes its remains (but not its equipment and possessions) utterly.
-If the target’s Fortitude saving throw succeeds, it instead takes 10d6 points of damage. The only way to restore
+If the target's Fortitude saving throw succeeds, it instead takes 10d6 points of damage. The only way to restore
 life to a character who has failed to save against this spell is to use _true resurrection_, a carefully
 worded _wish_ spell followed by _resurrection_, or _miracle_.
 
@@ -548,13 +548,13 @@ _1st Round:_ Presence or absence of evil.
 _2nd Round:_ Number of evil auras (creatures, objects, or spells) in the area and the power of the most
 potent evil aura present.
 
-If you are of good alignment, and the strongest evil aura’s power is overwhelming (see below), and the HD or level
-of the aura’s source is at least twice your character level, you are stunned for 1 round and the spell ends.
+If you are of good alignment, and the strongest evil aura's power is overwhelming (see below), and the HD or level
+of the aura's source is at least twice your character level, you are stunned for 1 round and the spell ends.
 
 _3rd Round:_ The power and location of each aura. If an aura is outside your line of sight, then you
 discern its direction but not its exact location.
 
-_Aura Power:_ An evil aura’s power depends on the type of evil creature or object that you’re detecting and
+_Aura Power:_ An evil aura's power depends on the type of evil creature or object that you're detecting and
 its HD, caster level, or (in the case of a cleric) class level; see the accompanying table. If an aura falls into
 more than one strength category, the spell indicates the stronger of the two.
 
@@ -635,7 +635,7 @@ check per aura; DC 15 + spell level, or 15 + half caster level for a nonspell ef
 
 Magical areas, multiple types of magic, or strong local magical emanations may distort or conceal weaker auras.
 
-_Aura Strength:_ An aura’s power depends on a spell’s functioning spell level or an item’s caster level. If
+_Aura Strength:_ An aura's power depends on a spell's functioning spell level or an item's caster level. If
 an aura falls into more than one category, _detect magic_ indicates the stronger of the two.
 
 |  | Aura Power |
@@ -708,11 +708,11 @@ Divination
  No
 
 You immediately become aware of any attempt to observe you by means of a divination (scrying) spell or effect. The
-spell’s area radiates from you and moves as you move. You know the location of every magical sensor within the
-spell’s area.
+spell's area radiates from you and moves as you move. You know the location of every magical sensor within the
+spell's area.
 
 If the scrying attempt originates within the area, you also know its location; otherwise, you and the scrier
-immediately make opposed caster level checks (1d20 + caster level). If you at least match the scrier’s result, you
+immediately make opposed caster level checks (1d20 + caster level). If you at least match the scrier's result, you
 get a visual image of the scrier and an accurate sense of his or her direction and distance from you.
 
 _Material Component:_ A small piece of mirror and a miniature brass hearing trumpet.
@@ -770,7 +770,7 @@ Divination
 You can detect simple pits, deadfalls, and snares as well as mechanical traps constructed of natural materials.
 The spell does not detect complex traps, including trapdoor traps.
 
-_Detect snares and pits_ does detect certain natural hazards---quicksand (a snare), a sinkhole (a pit), or
+_Detect snares and pits_ does detect certain natural hazards--quicksand (a snare), a sinkhole (a pit), or
 unsafe walls of natural rock (a deadfall). However, it does not reveal other potentially dangerous conditions. The
 spell does not detect magic traps (except those that operate by pit, deadfall, or snaring; see the spell
 _snare_), nor mechanically complex ones, nor those that have been rendered safe or inactive.
@@ -813,10 +813,10 @@ higher).
 
 _2nd Round:_ Number of thinking minds and the Intelligence score of each. If the highest Intelligence is 26
 or higher (and at least 10 points higher than your own Intelligence score), you are stunned for 1 round and the
-spell ends. This spell does not let you determine the location of the thinking minds if you can’t see the
+spell ends. This spell does not let you determine the location of the thinking minds if you can't see the
 creatures whose thoughts you are detecting.
 
-_3rd Round:_ Surface thoughts of any mind in the area. A target’s Will save prevents you from reading its
+_3rd Round:_ Surface thoughts of any mind in the area. A target's Will save prevents you from reading its
 thoughts, and you must cast _detect thoughts_ again to have another chance. Creatures of animal intelligence
 (Int 1 or 2) have simple, instinctual thoughts that you can pick up.
 
@@ -849,7 +849,7 @@ you study a particular area.
 _1st Round:_ Presence or absence of undead auras.
 
 _2nd Round:_ Number of undead auras in the area and the strength of the strongest undead aura present. If
-you are of good alignment, and the strongest undead aura’s strength is overwhelming (see below), and the creature
+you are of good alignment, and the strongest undead aura's strength is overwhelming (see below), and the creature
 has HD of at least twice your character level, you are stunned for 1 round and the spell ends.
 
 _3rd Round:_ The strength and location of each undead aura. If an aura is outside your line of sight, then
@@ -942,8 +942,8 @@ Conjuration (Teleportation)
  No and Yes (object)
 
 You instantly transfer yourself from your current location to any other spot within range. You always arrive at
-exactly the spot desired---whether by simply visualizing the area or by stating direction. After using this spell,
-you can’t take any other actions until your next turn. You can bring along objects as long as their weight doesn’t
+exactly the spot desired--whether by simply visualizing the area or by stating direction. After using this spell,
+you can't take any other actions until your next turn. You can bring along objects as long as their weight doesn't
 exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or
 objects up to its maximum load) or its equivalent per three caster levels. A Large creature counts as two Medium
 creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in
@@ -1098,7 +1098,7 @@ Divination
 A _discern location_ spell is among the most powerful means of locating creatures or objects. Nothing short
 of a _mind blank_ spell or the direct intervention of a deity keeps you from learning the exact location of a
 single individual or object. _Discern location_ circumvents normal means of protection from scrying or
-location. The spell reveals the name of the creature or object’s location (place, name, business name, building
+location. The spell reveals the name of the creature or object's location (place, name, business name, building
 name, or the like), community, county (or similar political division), country, continent, and the plane of
 existence where the target lies.
 
@@ -1120,7 +1120,7 @@ Illusion (Glamer)
 ### Duration:
  10 min./level (D)
 
-You make yourself---including clothing, armor, weapons, and equipment---look different. You can seem 1 foot shorter or
+You make yourself--including clothing, armor, weapons, and equipment--look different. You can seem 1 foot shorter or
 taller, thin, fat, or in between. You cannot change your body type. Otherwise, the extent of the apparent change
 is up to you. You could add or obscure a minor feature or look like an entirely different person.
 
@@ -1151,7 +1151,7 @@ Transmutation
 A thin, green ray springs from your pointing finger. You must make a successful ranged touch attack to hit. Any
 creature struck by the ray takes 2d6 points of damage per caster level (to a maximum of 40d6). Any creature
 reduced to 0 or fewer hit points by this spell is entirely disintegrated, leaving behind only a trace of fine
-dust. A disintegrated creature’s equipment is unaffected.
+dust. A disintegrated creature's equipment is unaffected.
 
 When used against an object, the ray simply disintegrates as much as one 10- foot cube of nonliving matter. Thus,
 the spell disintegrates only part of any very large object or structure targeted. The ray affects even objects
@@ -1183,8 +1183,8 @@ Abjuration
 ### Spell Resistance:
  Yes
 
-This spell forces an extraplanar creature back to its proper plane if it fails a special Will save (DC = spell’s
-save DC - creature’s HD + your caster level). If the spell is successful, the creature is instantly whisked away,
+This spell forces an extraplanar creature back to its proper plane if it fails a special Will save (DC = spell's
+save DC - creature's HD + your caster level). If the spell is successful, the creature is instantly whisked away,
 but there is a 20% chance of actually sending the subject to a plane other than its own.
 
 ## Dispel Chaos
@@ -1225,7 +1225,7 @@ drive that creature back to its home plane. The creature can negate the effects 
 resistance applies). This use discharges and ends the spell.
 
 Third, with a touch you can automatically dispel any one enchantment spell cast by an evil creature or any one
-evil spell. _Exception:_ Spells that can’t be dispelled by _dispel magic_ also can’t be dispelled by
+evil spell. _Exception:_ Spells that can't be dispelled by _dispel magic_ also can't be dispelled by
 _dispel evil_. Saving throws and spell resistance do not apply to this effect. This use discharges and ends
 the spell.
 
@@ -1266,27 +1266,27 @@ Abjuration
 
 You can use _dispel magic_ to end ongoing spells that have been cast on a creature or object, to temporarily
 suppress the magical abilities of a magic item, to end ongoing spells (or at least their effects) within an area,
-or to counter another spellcaster’s spell. A dispelled spell ends as if its duration had expired. Some spells, as
-detailed in their descriptions, can’t be defeated by _dispel magic_. _Dispel magic_ can dispel (but not
+or to counter another spellcaster's spell. A dispelled spell ends as if its duration had expired. Some spells, as
+detailed in their descriptions, can't be defeated by _dispel magic_. _Dispel magic_ can dispel (but not
 counter) spell-like effects just as it does spells.
 
-_Note:_ The effect of a spell with an instantaneous duration can’t be dispelled, because the magical effect
+_Note:_ The effect of a spell with an instantaneous duration can't be dispelled, because the magical effect
 is already over before the _dispel magic_ can take effect.
 
 You choose to use _dispel magic_ in one of three ways: a targeted dispel, an area dispel, or a counterspell:
 
 _Targeted Dispel:_ One object, creature, or spell is the target of the _dispel magic_ spell. You make
 a dispel check (1d20 + your caster level, maximum +10) against the spell or against each ongoing spell currently
-in effect on the object or creature. The DC for this dispel check is 11 + the spell’s caster level. If you succeed
+in effect on the object or creature. The DC for this dispel check is 11 + the spell's caster level. If you succeed
 on a particular check, that spell is dispelled; if you fail, that spell remains in effect.
 
 If you target an object or creature that is the effect of an ongoing spell (such as a monster summoned by
 _monster summoning_), you make a dispel check to end the spell that conjured the object or creature.
 
-If the object that you target is a magic item, you make a dispel check against the item’s caster level. If you
-succeed, all the item’s magical properties are suppressed for 1d4 rounds, after which the item recovers on its
+If the object that you target is a magic item, you make a dispel check against the item's caster level. If you
+succeed, all the item's magical properties are suppressed for 1d4 rounds, after which the item recovers on its
 own. A suppressed item becomes nonmagical for the duration of the effect. An interdimensional interface (such as a
-_bag of holding_) is temporarily closed. A magic item’s physical properties are unchanged: A suppressed magic
+_bag of holding_) is temporarily closed. A magic item's physical properties are unchanged: A suppressed magic
 sword is still a sword (a masterwork sword, in fact). Artifacts and deities are unaffected by mortal magic such as
 this.
 
@@ -1298,7 +1298,7 @@ radius.
 For each creature within the area that is the subject of one or more spells, you make a dispel check against the
 spell with the highest caster level. If that check fails, you make dispel checks against progressively weaker
 spells until you dispel one spell (which discharges the
-_dispel magic_ spell so far as that target is concerned) or until you fail all your checks. The creature’s
+_dispel magic_ spell so far as that target is concerned) or until you fail all your checks. The creature's
 magic items are not affected.
 
 For each object within the area that is the target of one or more spells, you make dispel checks as with
@@ -1319,7 +1319,7 @@ You may choose to automatically succeed on dispel checks against any spell that 
 
 _Counterspell:_ When _dispel magic_ is used in this way, the spell targets a spellcaster and is cast
 as a counterspell. Unlike a true counterspell, however, _dispel magic_ may not work; you must make a dispel
-check to counter the other spellcaster’s spell.
+check to counter the other spellcaster's spell.
 
 ## Dispel Magic, Greater
 Abjuration
@@ -1330,7 +1330,7 @@ This spell functions like _dispel magic_, except that the maximum caster level o
 instead of +10.
 
 Additionally, _greater dispel magic_ has a chance to dispel any effect that _remove curse_ can remove,
-even if _dispel magic_ can’t dispel that effect.
+even if _dispel magic_ can't dispel that effect.
 
 ## Displacement
 Illusion (Glamer)
@@ -1420,7 +1420,7 @@ Divination
 Similar to _augury_ but more powerful, a _divination_ spell can provide you with a useful piece of
 advice in reply to a question concerning a specific goal, event, or activity that is to occur within one week. The
 advice can be as simple as a short phrase, or it might take the form of a cryptic rhyme or omen. If your party
-doesn’t act on the information, the conditions may change so that the information is no longer useful. The base
+doesn't act on the information, the conditions may change so that the information is no longer useful. The base
 chance for a correct _divination_ is 70% + 1% per caster level, to a maximum of 90%. If the dice roll fails,
 you know the spell failed, unless specific magic yielding false information is at work.
 
@@ -1446,7 +1446,7 @@ Evocation
  1 minute
 
 Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for
-every three caster levels you have (at least +1, maximum +6). The bonus doesn’t apply to spell damage.
+every three caster levels you have (at least +1, maximum +6). The bonus doesn't apply to spell damage.
 
 ## Divine Power
 Evocation
@@ -1495,7 +1495,7 @@ by silent mental command as long as it remains in range. You need not see the cr
 receive direct sensory input from the creature, but you know what it is experiencing. Because you are directing
 the animal with your own intelligence, it may be able to undertake actions normally beyond its own comprehension.
 You need not concentrate exclusively on controlling the creature unless you are trying to direct it to do
-something it normally couldn’t do. Changing your instructions or giving a _dominated_ creature a new command
+something it normally couldn't do. Changing your instructions or giving a _dominated_ creature a new command
 is the equivalent of redirecting a spell, so it is a move action.
 
 ## Dominate Monster
@@ -1526,7 +1526,7 @@ Enchantment (Compulsion) [Mind-Affecting]
  Yes
 
 You can control the actions of any humanoid creature through a telepathic link that you establish with the
-subject’s mind.
+subject's mind.
 
 If you and the subject have a common language, you can generally force the subject to perform as you desire,
 within the limits of its abilities. If no common language exists, you can communicate only basic commands, such as
@@ -1536,22 +1536,22 @@ receive direct sensory input from it, nor can it communicate with you telepathic
 Once you have given a _dominated_ creature a command, it continues to attempt to carry out that command to
 the exclusion of all other activities except those necessary for day-to-day survival (such as sleeping, eating,
 and so forth). Because of this limited range of activity, a Sense Motive check against DC 15 (rather than DC 25)
-can determine that the subject’s behavior is being influenced by an enchantment effect (see the Sense Motive skill
+can determine that the subject's behavior is being influenced by an enchantment effect (see the Sense Motive skill
 description).
 
 Changing your instructions or giving a _dominated_ creature a new command is the equivalent of redirecting a
 spell, so it is a move action.
 
 By concentrating fully on the spell (a standard action), you can receive full sensory input as interpreted by the
-mind of the subject, though it still can’t communicate with you. You can’t actually see through the subject’s
-eyes, so it’s not as good as being there yourself, but you still get a good idea of what’s going on.
+mind of the subject, though it still can't communicate with you. You can't actually see through the subject's
+eyes, so it's not as good as being there yourself, but you still get a good idea of what's going on.
 
 Subjects resist this control, and any subject forced to take actions against its nature receives a new saving
 throw with a +2 bonus. Obviously self-destructive orders are not carried out. Once control is established, the
 range at which it can be exercised is unlimited, as long as you and the subject are on the same plane. You need
 not see the subject to control it.
 
-If you don’t spend at least 1 round concentrating on the spell each day, the subject receives a new saving throw
+If you don't spend at least 1 round concentrating on the spell each day, the subject receives a new saving throw
 to throw off the domination.
 
 _Protection from evil_ or a similar spell can prevent you from exercising control or using the telepathic
@@ -1599,25 +1599,25 @@ Illusion (Phantasm) [Mind-Affecting]
 
 You, or a messenger touched by you, sends a phantasmal message to others in the form of a dream. At the beginning
 of the spell, you must name the recipient or identify him or her by some title that leaves no doubt as to
-identity. The messenger then enters a trance, appears in the intended recipient’s dream, and delivers the message.
+identity. The messenger then enters a trance, appears in the intended recipient's dream, and delivers the message.
 The message can be of any length, and the recipient remembers it perfectly upon waking. The communication is
 one-way. The recipient cannot ask questions or offer information, nor can the messenger gain any information by
 observing the dreams of the recipient.
 
-Once the message is delivered, the messenger’s mind returns instantly to its body. The duration of the spell is
-the time required for the messenger to enter the recipient’s dream and deliver the message.
+Once the message is delivered, the messenger's mind returns instantly to its body. The duration of the spell is
+the time required for the messenger to enter the recipient's dream and deliver the message.
 
 If the recipient is awake when the spell begins, the messenger can choose to wake up (ending the spell) or remain
 in the trance. The messenger can remain in the trance until the recipient goes to sleep, then enter the
-recipient’s dream and deliver the message as normal. A messenger that is disturbed during the trance comes awake,
+recipient's dream and deliver the message as normal. A messenger that is disturbed during the trance comes awake,
 ending the spell.
 
-Creatures who don’t sleep (such as elves, but not half-elves) or don’t dream cannot be contacted by this spell.
+Creatures who don't sleep (such as elves, but not half-elves) or don't dream cannot be contacted by this spell.
 
 The messenger is unaware of its own surroundings or of the activities around it while in the trance. It is
 defenseless both physically and mentally (always fails any saving throw) while in the trance.
 
-## Eagle’s Splendor
+## Eagle's Splendor
 Transmutation
 ### Level:
  Brd 2, Clr 2, Pal 2, Sor/Wiz 2
@@ -1640,10 +1640,10 @@ The transmuted creature becomes more poised, articulate, and personally forceful
 enhancement bonus to Charisma, adding the usual benefits to Charisma-based skill checks and other uses of the
 Charisma modifier. Sorcerers and bards (and other spellcasters who rely on Charisma) affected by this spell do not
 gain any additional bonus spells for the increased Charisma, but the save DCs for spells they cast while under
-this spell’s effect do increase.
+this spell's effect do increase.
 
 _Arcane Material Component:_ A few feathers or a pinch of droppings from an eagle.
-## Eagle’s Splendor, Mass
+## Eagle's Splendor, Mass
 Transmutation
 ### Level:
  Brd 6, Clr 6, Sor/Wiz 6
@@ -1652,7 +1652,7 @@ Transmutation
 ### Target:
  One creature/level, no two of which can be more than 30 ft. apart
 
-This spell functions like _eagle’s splendor_, except that it affects multiple creatures.
+This spell functions like _eagle's splendor_, except that it affects multiple creatures.
 ## Earthquake
 Evocation [Earth]
 ### Level:
@@ -1674,7 +1674,7 @@ Evocation [Earth]
 
 When you cast _earthquake,_ an intense but highly localized tremor rips the ground. The shock knocks
 creatures down, collapses structures, opens cracks in the ground, and more. The effect lasts for 1 round, during
-which time creatures on the ground can’t move or attack. A spellcaster on the ground must make a Concentration
+which time creatures on the ground can't move or attack. A spellcaster on the ground must make a Concentration
 check (DC 20 + spell level) or lose any spell he or she tries to cast. The earthquake affects all terrain,
 vegetation, structures, and creatures in the area. The specific effect of an _earthquake_ spell depends on
 the nature of the terrain where it is cast.
@@ -1760,9 +1760,9 @@ Abjuration
 
 A creature protected by _endure elements_ suffers no harm from being in a hot or cold environment. It can
 exist comfortably in conditions between -50 and 140 degrees Fahrenheit without having to make Fortitude saves).
-The creature’s equipment is likewise protected.
+The creature's equipment is likewise protected.
 
-_Endure elements_ doesn’t provide any protection from fire or cold damage, nor does it protect against other
+_Endure elements_ doesn't provide any protection from fire or cold damage, nor does it protect against other
 environmental hazards such as smoke, lack of air, and so forth.
 
 ## Energy Drain
@@ -1778,8 +1778,8 @@ This spell functions like _enervation,_ except that the creature struck gains 2d
 negative levels last longer.
 
 There is no saving throw to avoid gaining the negative levels, but 24 hours after gaining them, the subject must
-make a Fortitude saving throw (DC = _energy drain_ spell’s save DC) for each negative level. If the save
-succeeds, that negative level is removed. If it fails, the negative level also goes away, but one of the subject’s
+make a Fortitude saving throw (DC = _energy drain_ spell's save DC) for each negative level. If the save
+succeeds, that negative level is removed. If it fails, the negative level also goes away, but one of the subject's
 character levels is permanently drained.
 
 An undead creature struck by the ray gains 2d4x5 temporary hit points for 1 hour.
@@ -1814,8 +1814,8 @@ Additionally, a spellcaster loses one spell or spell slot from his or her highes
 stack.
 
 Assuming the subject survives, it regains lost levels after a number of hours equal to your caster level (maximum
-15 hours). Usually, negative levels have a chance of permanently draining the victim’s levels, but the negative
-levels from _enervation_ don’t last long enough to do so.
+15 hours). Usually, negative levels have a chance of permanently draining the victim's levels, but the negative
+levels from _enervation_ don't last long enough to do so.
 
 An undead creature struck by the ray gains 1d4x5 temporary hit points for 1 hour.
 ## Enlarge Person
@@ -1838,21 +1838,21 @@ Transmutation
  Yes
 
 This spell causes instant growth of a humanoid creature, doubling its height and multiplying its weight by 8. This
-increase changes the creature’s size category to the next larger one. The target gains a +2 size bonus to
+increase changes the creature's size category to the next larger one. The target gains a +2 size bonus to
 Strength, a -2 size penalty to Dexterity (to a minimum of 1), and a -1 penalty on attack rolls and AC due to its
 increased size.
 
 A humanoid creature whose size increases to Large has a space of 10 feet and a natural reach of 10 feet. This
-spell does not change the target’s speed.
+spell does not change the target's speed.
 
 If insufficient room is available for the desired growth, the creature attains the maximum possible size and may
 make a Strength check (using its increased Strength) to burst any enclosures in the process. If it fails, it is
-constrained without harm by the materials enclosing it--- the spell cannot be used to crush a creature by increasing
+constrained without harm by the materials enclosing it-- the spell cannot be used to crush a creature by increasing
 its size.
 
 All equipment worn or carried by a creature is similarly enlarged by the spell. Melee and projectile weapons
 affected by this spell deal more damage. Other magical properties are not affected by this spell. Any
-_enlarged_ item that leaves an _enlarged_ creature’s possession (including a projectile or thrown
+_enlarged_ item that leaves an _enlarged_ creature's possession (including a projectile or thrown
 weapon) instantly returns to its normal size. This means that thrown weapons deal their normal damage, and
 projectiles deal damage based on the size of the weapon that fired them. Magical properties of
 _enlarged_ items are not increased by this spell.
@@ -2016,7 +2016,7 @@ creatures. An ethereal creature can see and hear on the Material Plane, but ever
 Sight and hearing onto the Material Plane are limited to 60 feet.
 
 Force effects and abjurations affect an ethereal creature normally. Their effects extend onto the Ethereal Plane
-from the Material Plane, but not vice versa. An ethereal creature can’t attack material creatures, and spells you
+from the Material Plane, but not vice versa. An ethereal creature can't attack material creatures, and spells you
 cast while ethereal affect only other ethereal things. Certain material creatures or objects have attacks or
 effects that work on the Ethereal Plane.
 
@@ -2116,7 +2116,7 @@ Necromancy [Evil]
  Yes
 
 Each round, you may target a single living creature, striking it with waves of evil power. Depending on the
-target’s HD, this attack has as many as three effects.
+target's HD, this attack has as many as three effects.
 
 | HD | Effect |
 | --- | --- |
@@ -2126,7 +2126,7 @@ target’s HD, this attack has as many as three effects.
 
 The effects are cumulative and concurrent.
 
-_Sickened:_ Sudden pain and fever sweeps over the subject’s body. A sickened creature takes a -2 penalty on
+_Sickened:_ Sudden pain and fever sweeps over the subject's body. A sickened creature takes a -2 penalty on
 attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. A creature affected by this
 spell remains sickened for 10 minutes per caster level. The effects cannot be negated by a
 _remove disease_ or _heal_ spell, but a _remove curse_ is effective.
