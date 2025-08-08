@@ -61,19 +61,17 @@ Attack bonus +12 melee, damage 1d6+3.
 ### Skills
 Lammasus have a +2 racial bonus on Spot checks.
 
-## 
-- Spells: : A lammasu casts spells as a 7th-level cleric, and can choose spells from the  cleric spell list, plus any two of the following domains:  Good,  Healing,  Knowledge, or  Law.;
-- Typical Cleric Spells Prepared (6/6/5/4/2; save DC 13 + spell level):: ;
-- 0: [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Guidance|Guidance]] (2), [[Spell List#Light|Light]] , [[Spell List#Read Magic|Read Magic]] , [[Spell List#Resistance|Resistance]] ;;
-- 1st: [[Spell List#Bless|Bless]] (2), [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Divine Favor|Divine Favor]] , [[Spell List#Entropic Shield|Entropic Shield]] , [[Spell List#Protection From Evil*|Protection From Evil*]] ;;
-- 2nd: [[Spell List#Aid*|Aid*]] , [[Spell List#Bear's Endurance|Bear's Endurance]] , [[Spell List#Bull's Strength|Bull's Strength]] , [[Spell List#Lesser Restoration|Lesser Restoration]] , [[Spell List#Resist Energy|Resist Energy]] ;;
-- 3rd: [[Spell List#Daylight|Daylight]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Magic Circle Against Evil*|Magic Circle Against Evil*]] , [[Spell List#Remove Curse|Remove Curse]] ;;
-- 4th: [[Spell List#Holy Smite*|Holy Smite*]] , [[Spell List#Neutralize Poison|Neutralize Poison]] ;;
-- *Domain spell. Domains: Good and Healing.;
+## Spells
+A lammasu casts spells as a 7th-level cleric, and can choose spells from the  cleric spell list, plus any two of the following domains  Good,  Healing,  Knowledge, or  Law..
+cleric spell list.
+Good.
+Healing.
+Knowledge.
+Law.
 Spell-Like Abilities
-- Caster Level: Caster level 7th.;
-- 2/day: [[Spell List#Invisibility, Greater|Invisibility, Greater]] (self Only);;
-- 1/day: [[Spell List#Dimension Door|Dimension Door]] ;;
+ - Caster Level: Caster level 7th..
+ - 2/day: [[Spell List#Invisibility, Greater|Invisibility, Greater]] (self Only);.
+ - 1/day: [[Spell List#Dimension Door|Dimension Door]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

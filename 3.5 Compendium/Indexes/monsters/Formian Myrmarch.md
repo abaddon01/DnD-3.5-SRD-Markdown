@@ -66,9 +66,9 @@ A formian myrmarch's natural weapons, as well as any weapons it wields, are trea
 Injury, Fortitude DC 20, initial and secondary damage 2d6 Dex. The save DC is Constitution-based.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 12th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Charm Monster|Charm Monster]] (DC 17), [[Spell List#Clairaudience/ Clairvoyance|Clairaudience/ Clairvoyance]] , [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Thoughts|Detect Thoughts]] (DC 15), [[Spell List#Magic Circle Against Chaos|Magic Circle Against Chaos]] , [[Spell List#Teleport, Greater|Teleport, Greater]] ;;
-- 1/day: [[Spell List#Dictum|Dictum]] (DC 20), [[Spell List#Order's Wrath|Order's Wrath]] (DC 17);;
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Charm Monster|Charm Monster]] (DC 17), [[Spell List#Clairaudience/ Clairvoyance|Clairaudience/ Clairvoyance]] , [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Thoughts|Detect Thoughts]] (DC 15), [[Spell List#Magic Circle Against Chaos|Magic Circle Against Chaos]] , [[Spell List#Teleport, Greater|Teleport, Greater]] ;.
+ - 1/day: [[Spell List#Dictum|Dictum]] (DC 20), [[Spell List#Order's Wrath|Order's Wrath]] (DC 17);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

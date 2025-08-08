@@ -60,9 +60,9 @@ Fire and acid deal normal damage to an ogre mage.
 An ogre mage that loses a limb or body part can reattach it by holding the severed member to the stump. Reattachment takes 1 minute. If the head or some other vital organ is severed, it must be reattached within 10 minutes or the creature dies. An ogre mage cannot regrow lost body parts.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 9th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Darkness|Darkness]] , [[Spell List#Invisibility|Invisibility]] ;;
-- 1/day: [[Spell List#Charm Person|Charm Person]] (DC 14), [[Spell List#Cone Of Cold|Cone Of Cold]] (DC 18), [[Spell List#Gaseous Form|Gaseous Form]] , [[Spell List#Sleep|Sleep]] (DC 14);;
+ - Caster Level: Caster level 9th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Darkness|Darkness]] , [[Spell List#Invisibility|Invisibility]] ;.
+ - 1/day: [[Spell List#Charm Person|Charm Person]] (DC 14), [[Spell List#Cone Of Cold|Cone Of Cold]] (DC 18), [[Spell List#Gaseous Form|Gaseous Form]] , [[Spell List#Sleep|Sleep]] (DC 14);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

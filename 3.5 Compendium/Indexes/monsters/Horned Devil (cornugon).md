@@ -68,9 +68,9 @@ Once per day a horned devil can attempt to summon 2d10 lemures or 1d6 bearded de
 A horned devil takes normal damage from good-aligned silvered weapons, and from spells or effects with the good descriptor.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 15th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Dispel Chaos|Dispel Chaos]] (DC 21), [[Spell List#Dispel Good|Dispel Good]] (DC 21), [[Spell List#Magic Circle Against Good|Magic Circle Against Good]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);; persistent image (DC 21);
-- 3/day: [[Spell List#Fireball|Fireball]] (DC 19), [[Spell List#Lightning Bolt|Lightning Bolt]] (DC 19);;
+ - Caster Level: Caster level 15th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Dispel Chaos|Dispel Chaos]] (DC 21), [[Spell List#Dispel Good|Dispel Good]] (DC 21), [[Spell List#Magic Circle Against Good|Magic Circle Against Good]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);; persistent image (DC 21).
+ - 3/day: [[Spell List#Fireball|Fireball]] (DC 19), [[Spell List#Lightning Bolt|Lightning Bolt]] (DC 19);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

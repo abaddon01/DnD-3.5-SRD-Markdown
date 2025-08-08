@@ -60,9 +60,9 @@ Disguise, Swim, and Survival are considered class skills for bronze dragons.
 Bronze dragons have two types of breath weapon, a line of lightning and a cone of repulsion gas. Creatures within the cone must succeed on a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category of the dragon. This is a mind-affecting compulsion enchantment effect. Line: 100 ft. Damage: 14d6 (DC 27). 
 
 ## Spell-Like Abilities
-- At will: [[Spell List#Speak With Animals|Speak With Animals]] ;;
-- 3/day: [[Spell List#Create Food And Water|Create Food And Water]] (adult Or Older), [[Spell List#Fog Cloud|Fog Cloud]] (adult Or Older), [[Spell List#Detect Thoughts|Detect Thoughts]] (old Or Older), [[Spell List#Control Water|Control Water]] (ancient Or Older);;
-- 1/day: [[Spell List#Control Weather|Control Weather]] (great Wyrm);;
+ - At will: [[Spell List#Speak With Animals|Speak With Animals]] ;.
+ - 3/day: [[Spell List#Create Food And Water|Create Food And Water]] (adult Or Older), [[Spell List#Fog Cloud|Fog Cloud]] (adult Or Older), [[Spell List#Detect Thoughts|Detect Thoughts]] (old Or Older), [[Spell List#Control Water|Control Water]] (ancient Or Older);.
+ - 1/day: [[Spell List#Control Weather|Control Weather]] (great Wyrm);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

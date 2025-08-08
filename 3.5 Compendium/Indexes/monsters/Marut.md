@@ -60,10 +60,10 @@ A marut's left fist delivers a loud thunderclap whenever it hits something, deal
 A marut has a +4 racial bonus on Concentration, Listen, and Spot checks.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 14th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Air Walk|Air Walk]] , [[Spell List#Dimension Door|Dimension Door]] , [[Spell List#Fear|Fear]] (DC 18), [[Spell List#Command, Greater|Command, Greater]] (DC 19), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Inflict Light Wounds, Mass|Inflict Light Wounds, Mass]] (DC 19), [[Spell List#Locate Creature|Locate Creature]] , [[Spell List#True Seeing|True Seeing]] ;;
-- 1/day: [[Spell List#Chain Lightning|Chain Lightning]] (DC 20), [[Spell List#Circle Of Death|Circle Of Death]] (DC 20), [[Spell List#Mark Of Justice|Mark Of Justice]] , [[Spell List#Wall Of Force|Wall Of Force]] ;;
-- 1/week: [[Spell List#Earthquake|Earthquake]] (DC 22), [[Spell List#Geas/quest|Geas/quest]] , [[Spell List#Plane Shift|Plane Shift]] (DC 21);;
+ - Caster Level: Caster level 14th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Air Walk|Air Walk]] , [[Spell List#Dimension Door|Dimension Door]] , [[Spell List#Fear|Fear]] (DC 18), [[Spell List#Command, Greater|Command, Greater]] (DC 19), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Inflict Light Wounds, Mass|Inflict Light Wounds, Mass]] (DC 19), [[Spell List#Locate Creature|Locate Creature]] , [[Spell List#True Seeing|True Seeing]] ;.
+ - 1/day: [[Spell List#Chain Lightning|Chain Lightning]] (DC 20), [[Spell List#Circle Of Death|Circle Of Death]] (DC 20), [[Spell List#Mark Of Justice|Mark Of Justice]] , [[Spell List#Wall Of Force|Wall Of Force]] ;.
+ - 1/week: [[Spell List#Earthquake|Earthquake]] (DC 22), [[Spell List#Geas/quest|Geas/quest]] , [[Spell List#Plane Shift|Plane Shift]] (DC 21);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

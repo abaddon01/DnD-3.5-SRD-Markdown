@@ -68,8 +68,8 @@ A succubus has a permanent tongues ability (as the spell, caster level 12th). Su
 Succubi have a +8 racial bonus on Listen and Spot checks. *While using her polymorph ability, a succubus gains a +10 circumstance bonus on Disguise checks.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 12th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Charm Monster|Charm Monster]] (DC 22), [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Thoughts|Detect Thoughts]] (DC 20), [[Spell List#Ethereal Jaunt|Ethereal Jaunt]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Suggestion|Suggestion]] (DC 21), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);;
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Charm Monster|Charm Monster]] (DC 22), [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Thoughts|Detect Thoughts]] (DC 20), [[Spell List#Ethereal Jaunt|Ethereal Jaunt]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Suggestion|Suggestion]] (DC 21), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -55,10 +55,10 @@ A lamia drains 1d4 points of Wisdom each time it hits with its melee touch attac
 Lamias have a +4 racial bonus on Bluff and Hide checks.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 9th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Ventriloquism|Ventriloquism]] ;;
-- 3/day: [[Spell List#Charm Monster|Charm Monster]] (DC 15), [[Spell List#Major Image|Major Image]] (DC 14), [[Spell List#Mirror Image|Mirror Image]] , [[Spell List#Suggestion|Suggestion]] (DC 14);;
-- 1/day: [[Spell List#Deep Slumber|Deep Slumber]] (DC 14);;
+ - Caster Level: Caster level 9th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Ventriloquism|Ventriloquism]] ;.
+ - 3/day: [[Spell List#Charm Monster|Charm Monster]] (DC 15), [[Spell List#Major Image|Major Image]] (DC 14), [[Spell List#Mirror Image|Mirror Image]] , [[Spell List#Suggestion|Suggestion]] (DC 14);.
+ - 1/day: [[Spell List#Deep Slumber|Deep Slumber]] (DC 14);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

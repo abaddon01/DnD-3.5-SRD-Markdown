@@ -59,10 +59,10 @@ A zelekhut has a +4 racial bonus on Search and Sense Motive checks.
 Due to its centaur-like construction, a zelekhut qualifies for feats as if it had the Mounted Combat feat.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 8th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Clairaudience/clairvoyance|Clairaudience/clairvoyance]] , [[Spell List#Dimensional Anchor|Dimensional Anchor]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Fear|Fear]] (DC 16), [[Spell List#Hold Person|Hold Person]] (DC 15), [[Spell List#Locate Creature|Locate Creature]] , [[Spell List#True Seeing|True Seeing]] ;;
-- 3/day: [[Spell List#Hold Monster|Hold Monster]] (DC 17), [[Spell List#Mark Of Justice|Mark Of Justice]] ;;
-- 1/week: [[Spell List#Lesser Geas|Lesser Geas]] (DC 16);;
+ - Caster Level: Caster level 8th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Clairaudience/clairvoyance|Clairaudience/clairvoyance]] , [[Spell List#Dimensional Anchor|Dimensional Anchor]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Fear|Fear]] (DC 16), [[Spell List#Hold Person|Hold Person]] (DC 15), [[Spell List#Locate Creature|Locate Creature]] , [[Spell List#True Seeing|True Seeing]] ;.
+ - 3/day: [[Spell List#Hold Monster|Hold Monster]] (DC 17), [[Spell List#Mark Of Justice|Mark Of Justice]] ;.
+ - 1/week: [[Spell List#Lesser Geas|Lesser Geas]] (DC 16);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

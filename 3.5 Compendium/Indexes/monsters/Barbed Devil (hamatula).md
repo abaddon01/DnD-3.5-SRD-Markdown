@@ -68,9 +68,9 @@ Once per day a barbed devil can attempt to summon 1d6 bearded devils or another 
 Any creature striking a barbed devil with handheld weapons or natural weapons takes 1d8+6 points of piercing and slashing damage from the devil's barbs. Note that weapons with exceptional reach, such as longspears, do not endanger their users in this way.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 12th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Hold Person|Hold Person]] (DC 16), [[Spell List#Major Image|Major Image]] (DC 17), [[Spell List#Scorching Ray|Scorching Ray]] (2 Rays Only);;
-- 1/day: [[Spell List#Order's Wrath|Order's Wrath]] (DC 18), [[Spell List#Unholy Blight|Unholy Blight]] (DC 18);;
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Hold Person|Hold Person]] (DC 16), [[Spell List#Major Image|Major Image]] (DC 17), [[Spell List#Scorching Ray|Scorching Ray]] (2 Rays Only);.
+ - 1/day: [[Spell List#Order's Wrath|Order's Wrath]] (DC 18), [[Spell List#Unholy Blight|Unholy Blight]] (DC 18);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

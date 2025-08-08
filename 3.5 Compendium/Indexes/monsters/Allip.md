@@ -30,7 +30,7 @@ alignment: Always neutral evil
 | Full Attack:         |Incorporeal touch +3 melee (1d4 Wisdom drain); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Babble, madness, Wisdom drain |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, [[Traits#undead traits\|Undead Traits]] ; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#incorporeal traits\|Incorporeal Traits]] , +2 Turn Resistance, [[Traits#undead traits\|Undead Traits]] ; |
 | Saves:               |Fort: +1, Ref: +4, Will: +4 |
 | Abilities:           |Str : -1,  Dex: 12,  Con: -1,  Int: 11,  Wis: 11,  Cha: 18 |
 | Skills:              |[[Skill List#Hide\|Hide]]: +8, [[Skill List#Intimidate\|Intimidate]]: +7, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Search\|Search]]: +4, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Survival\|Survival]]: 0(2followingtracks)+0 (+2 following tracks); |

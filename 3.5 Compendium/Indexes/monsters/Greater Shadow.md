@@ -31,7 +31,7 @@ alignment: Always chaotic evil
 | Full Attack:         |Incorporeal touch +6 melee (1d8 Str); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, [[Traits#undead traits\|Undead Traits]] ; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#incorporeal traits\|Incorporeal Traits]] , +2 Turn Resistance, [[Traits#undead traits\|Undead Traits]] ; |
 | Saves:               |Fort: +3, Ref: +5, Will: +7 |
 | Abilities:           |Str : -1,  Dex: 15,  Con: -1,  Int: 6,  Wis: 12,  Cha: 14 |
 | Skills:              |[[Skill List#Hide\|Hide]]: 14*, [[Skill List#Listen\|Listen]]: +9, [[Skill List#Search\|Search]]: +6, [[Skill List#Spot\|Spot]]: +9; |

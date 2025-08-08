@@ -62,8 +62,8 @@ Injury, Fortitude DC 20, initial damage 1d6 Str, secondary damage 2d6 Str. The s
 Once per day a bone devil can attempt to summon 2d10 lemures with a 50% chance of success, or another bone devil with a 35% chance of success. This ability is the equivalent of a 4th-level spell.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 12th. The save DC is Charisma-based.;
-- At will: [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Dimensional Anchor|Dimensional Anchor]] , [[Spell List#Fly|Fly]] , [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Major Image|Major Image]] (DC 15), [[Spell List#Wall Of Ice|Wall Of Ice]] ;;
+ - Caster Level: Caster level 12th. The save DC is Charisma-based..
+ - At will: [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Dimensional Anchor|Dimensional Anchor]] , [[Spell List#Fly|Fly]] , [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Major Image|Major Image]] (DC 15), [[Spell List#Wall Of Ice|Wall Of Ice]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

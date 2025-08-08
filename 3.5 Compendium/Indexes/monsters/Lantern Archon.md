@@ -58,7 +58,7 @@ Will DC 12 negates.
 A lantern archon's light rays have a range of 30 feet. This attack overcomes damage reduction of any type.
 
 ## Spell-Like Abilities
-- At will: [[Spell List#Aid|Aid]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Continual Flame|Continual Flame]] ;. C;
+ - At will: [[Spell List#Aid|Aid]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Continual Flame|Continual Flame]] ;. C.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

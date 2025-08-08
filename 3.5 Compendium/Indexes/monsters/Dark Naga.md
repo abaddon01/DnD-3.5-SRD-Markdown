@@ -49,8 +49,13 @@ Dark nagas prefer to fight from an elevated position where they get a good view 
 ### Poison (Ex)
 Injury, Fortitude DC 16 or lapse into a nightmare-haunted sleep for 2d4 minutes. The save DC is Constitution-based.
 
-## 
-- Spells: : Dark nagas cast spells as 7th-level sorcerers.;
+## Spells
+Dark nagas cast spells as 7th-level sorcerers..
+Typical Sorcerer Spells Known (6/7/7/5; save DC 13 + spell level).
+ - 0: [[Spell List#Daze|Daze]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Light|Light]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Open/close|Open/close]] , [[Spell List#Ray Of Frost|Ray Of Frost]] , [[Spell List#Read Magic|Read Magic]] ;.
+ - 1st: [[Spell List#Expeditious Retreat|Expeditious Retreat]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Ray Of Enfeeblement|Ray Of Enfeeblement]] , [[Spell List#Shield|Shield]] , [[Spell List#Silent Image|Silent Image]] ;.
+ - 2nd: [[Spell List#Cat's Grace|Cat's Grace]] , [[Spell List#Invisibility|Invisibility]] , [[Spell List#Scorching Ray|Scorching Ray]] ;.
+ - 3rd: [[Spell List#Displacement|Displacement]] , [[Spell List#Lightning Bolt|Lightning Bolt]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

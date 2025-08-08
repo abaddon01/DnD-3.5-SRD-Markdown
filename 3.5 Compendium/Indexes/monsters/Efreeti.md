@@ -61,10 +61,10 @@ An efreeti can assume the form of any Small, Medium, or Large humanoid or giant.
 An efreeti's red-hot body deals 1d6 points of extra fire damage whenever it hits in melee, or in each round it maintains a hold when grappling.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 12th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Produce Flame|Produce Flame]] , [[Spell List#Pyrotechnics|Pyrotechnics]] (DC 14), [[Spell List#Scorching Ray|Scorching Ray]] (1 Ray Only);;
-- 3/day: [[Spell List#Invisibility|Invisibility]] , [[Spell List#Wall Of Fire|Wall Of Fire]] (DC 16);;
-- 1/day: [[Spell List#Grant Up To Three Wishes|Grant Up To Three Wishes]] (to Nongenies Only), [[Spell List#Gaseous Form|Gaseous Form]] , [[Spell List#Permanent Image|Permanent Image]] (DC 18);;
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Produce Flame|Produce Flame]] , [[Spell List#Pyrotechnics|Pyrotechnics]] (DC 14), [[Spell List#Scorching Ray|Scorching Ray]] (1 Ray Only);.
+ - 3/day: [[Spell List#Invisibility|Invisibility]] , [[Spell List#Wall Of Fire|Wall Of Fire]] (DC 16);.
+ - 1/day: [[Spell List#Grant Up To Three Wishes|Grant Up To Three Wishes]] (to Nongenies Only), [[Spell List#Gaseous Form|Gaseous Form]] , [[Spell List#Permanent Image|Permanent Image]] (DC 18);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

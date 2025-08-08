@@ -59,8 +59,8 @@ Once per hour, an earth mephit can magically change its size. This works just li
 An earth mephit heals only if it is underground or buried up to its waist in earth.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 6th.;
-- 1/day: [[Spell List#Soften Earth And Stone|Soften Earth And Stone]] ;;
+ - Caster Level: Caster level 6th..
+ - 1/day: [[Spell List#Soften Earth And Stone|Soften Earth And Stone]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

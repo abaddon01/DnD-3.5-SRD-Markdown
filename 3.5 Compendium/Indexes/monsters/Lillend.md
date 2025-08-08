@@ -62,17 +62,13 @@ To use this ability, a lillend must hit with its tail slap attack. It can then a
 ### Skills
 Lillends have a +4 racial bonus on Survival checks.
 
-## 
-- Spells: : A lillend casts arcane spells as a 6th-level bard.;
-- Typical Bard Spells Known (3/4/3; save DC 14 + spell level):: ;
-- 0: [[Spell List#Dancing Lights|Dancing Lights]] , [[Spell List#Daze|Daze]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Lullaby|Lullaby]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Read Magic|Read Magic]] ;;
-- 1st: [[Spell List#Charm Person|Charm Person]] , [[Spell List#Cure Light Wounds|Cure Light Wounds]] , [[Spell List#Identify|Identify]] , [[Spell List#Sleep|Sleep]] ;;
-- 2nd: [[Spell List#Hold Person|Hold Person]] , [[Spell List#Invisibility|Invisibility]] , [[Spell List#Sound Burst|Sound Burst]] ;;
+## Spells
+A lillend casts arcane spells as a 6th-level bard..
 Spell-Like Abilities
-- Caster Level: Caster level 10th. The save DCs are Charisma-based.;
-- 3/day: [[Spell List#Darkness|Darkness]] , [[Spell List#Hallucinatory Terrain|Hallucinatory Terrain]] (DC 18), [[Spell List#Knock|Knock]] , [[Spell List#Light|Light]] ;;
-- 1/day: [[Spell List#Charm Person|Charm Person]] (DC 15), [[Spell List#Speak With Animals|Speak With Animals]] , [[Spell List#Speak With Plants|Speak With Plants]] ;;
-- A lillend also has the bardic music ability as a 6th: [[Spell List#Level Bard|Level Bard]] ;;
+ - Caster Level: Caster level 10th. The save DCs are Charisma-based..
+ - 3/day: [[Spell List#Darkness|Darkness]] , [[Spell List#Hallucinatory Terrain|Hallucinatory Terrain]] (DC 18), [[Spell List#Knock|Knock]] , [[Spell List#Light|Light]] ;.
+ - 1/day: [[Spell List#Charm Person|Charm Person]] (DC 15), [[Spell List#Speak With Animals|Speak With Animals]] , [[Spell List#Speak With Plants|Speak With Plants]] ;.
+ - A lillend also has the bardic music ability as a 6th: [[Spell List#Level Bard|Level Bard]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

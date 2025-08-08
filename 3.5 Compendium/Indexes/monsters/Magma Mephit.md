@@ -59,7 +59,7 @@ Once per hour, a magma mephit can assume the form of a pool of lava 3 feet in di
 A magma mephit heals only if it is touching magma, lava, or a flame at least as large as a torch.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 6th. The save DC is Charisma-based.;
+ - Caster Level: Caster level 6th. The save DC is Charisma-based..
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

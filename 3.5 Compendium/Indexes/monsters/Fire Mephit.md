@@ -56,9 +56,9 @@ Fire mephits speak Common and Ignan.
 A fire mephit heals only if it is touching a flame at least as large as a torch.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 6th. The save DC is Charisma-based.;
-- 1/hour: [[Spell List#Scorching Ray|Scorching Ray]] (DC 14) As The Spell Cast By A 3rd;.level sorcerer;
-- 1/day: [[Spell List#Heat Metal|Heat Metal]] (DC 14);;
+ - Caster Level: Caster level 6th. The save DC is Charisma-based..
+ - 1/hour: [[Spell List#Scorching Ray|Scorching Ray]] (DC 14) As The Spell Cast By A 3rd;.level sorcerer.
+ - 1/day: [[Spell List#Heat Metal|Heat Metal]] (DC 14);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -57,9 +57,9 @@ Ice mephits speak Common and Auran.
 An ice mephit heals only if it is touching a piece of ice of at least Tiny size or if the ambient temperature is 32°F. or below.
 
 ## Spell-Like Abilities
-- Other: The save DC is Charisma-based.;
-- 1/hour: [[Spell List#Magic Missile|Magic Missile]] (caster Level 3rd);;
-- 1/day: [[Spell List#Chill Metal|Chill Metal]] (DC 14, [[Spell List#Caster Level 6th)|Caster Level 6th)]] ;;
+ - Other: The save DC is Charisma-based..
+ - 1/hour: [[Spell List#Magic Missile|Magic Missile]] (caster Level 3rd);.
+ - 1/day: [[Spell List#Chill Metal|Chill Metal]] (DC 14, [[Spell List#Caster Level 6th)|Caster Level 6th)]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

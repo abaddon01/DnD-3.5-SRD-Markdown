@@ -56,9 +56,9 @@ The range increment is 140 feet for a cloud giant's thrown rocks.
 A cloud giant wields a great, two-handed morningstar (big enough for Gargantuan creatures) without penalty.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 15th.;
-- 3/day: [[Spell List#Levitate|Levitate]] (self Plus 2, [[Spell List#000 Pounds)|000 Pounds)]] , [[Spell List#Obscuring Mist|Obscuring Mist]] ;;
-- 1/day: [[Spell List#Fog Cloud|Fog Cloud]] ;;
+ - Caster Level: Caster level 15th..
+ - 3/day: [[Spell List#Levitate|Levitate]] (self Plus 2, [[Spell List#000 Pounds)|000 Pounds)]] , [[Spell List#Obscuring Mist|Obscuring Mist]] ;.
+ - 1/day: [[Spell List#Fog Cloud|Fog Cloud]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

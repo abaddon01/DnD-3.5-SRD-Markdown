@@ -66,10 +66,10 @@ Glabrezu continuously use true seeing as the spell (caster level 14th).
 Glabrezu have a +8 racial bonus on Listen and Spot checks.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 14th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Chaos Hammer|Chaos Hammer]] (DC 19), [[Spell List#Confusion|Confusion]] (DC 19), [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Mirror Image|Mirror Image]] , [[Spell List#Reverse Gravity|Reverse Gravity]] (DC 22), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Unholy Blight|Unholy Blight]] (DC 19);;
-- 1/day: [[Spell List#Power Word Stun|Power Word Stun]] ;;
-- Once per month, a glabrezu can fulfill a wish for a mortal humanoid: [[Spell List#The Demon Can Use This Ability To Offer A Mortal Whatever He Or She Desires|The Demon Can Use This Ability To Offer A Mortal Whatever He Or She Desires]] ;. but unless the wish is used to create pain and suffering in the world, the glabrezu demands either terrible evil acts or great sacrifice as compensation;
+ - Caster Level: Caster level 14th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Chaos Hammer|Chaos Hammer]] (DC 19), [[Spell List#Confusion|Confusion]] (DC 19), [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Mirror Image|Mirror Image]] , [[Spell List#Reverse Gravity|Reverse Gravity]] (DC 22), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Unholy Blight|Unholy Blight]] (DC 19);.
+ - 1/day: [[Spell List#Power Word Stun|Power Word Stun]] ;.
+ - Once per month, a glabrezu can fulfill a wish for a mortal humanoid: [[Spell List#The Demon Can Use This Ability To Offer A Mortal Whatever He Or She Desires|The Demon Can Use This Ability To Offer A Mortal Whatever He Or She Desires]] ;. but unless the wish is used to create pain and suffering in the world, the glabrezu demands either terrible evil acts or great sacrifice as compensation.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

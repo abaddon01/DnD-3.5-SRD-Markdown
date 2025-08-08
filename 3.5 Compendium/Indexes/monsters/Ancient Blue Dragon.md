@@ -59,8 +59,8 @@ Bluff, Hide, and Spellcraft are considered class skills for blue dragons.
 A blue dragon has one type of breath weapon, a line of lightning. Line: 120 ft. Damage: 20d8 (DC 33). 
 
 ## Spell-Like Abilities
-- Other  3/day: [[Spell List#Ventriloquism|Ventriloquism]] (adult Or Older);;
-- 1/day: [[Spell List#Hallucinatory Terrain|Hallucinatory Terrain]] (old Or Older), [[Spell List#Veil|Veil]] (ancient Or Older), [[Spell List#Mirage Arcana|Mirage Arcana]] (great Wyrm);;
+ - Other  3/day: [[Spell List#Ventriloquism|Ventriloquism]] (adult Or Older);.
+ - 1/day: [[Spell List#Hallucinatory Terrain|Hallucinatory Terrain]] (old Or Older), [[Spell List#Veil|Veil]] (ancient Or Older), [[Spell List#Mirage Arcana|Mirage Arcana]] (great Wyrm);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

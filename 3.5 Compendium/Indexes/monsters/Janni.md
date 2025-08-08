@@ -56,9 +56,9 @@ Twice per day, a janni can magically change a creature's size. This works just l
 Jann can survive on the Elemental Planes of Air, Earth, Fire, or Water for up to 48 hours. Failure to return to the Material Plane before that time expires causes a janni to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 12th. The save DCs are Charisma-based.;
-- 3/day: [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Speak With Animals|Speak With Animals]] ;;
-- Other: Once per day a janni can create food and water (caster level 7th) and can use ethereal jaunt (caster level 12th) for 1 hour.;
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based..
+ - 3/day: [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Speak With Animals|Speak With Animals]] ;.
+ - Other: Once per day a janni can create food and water (caster level 7th) and can use ethereal jaunt (caster level 12th) for 1 hour..
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

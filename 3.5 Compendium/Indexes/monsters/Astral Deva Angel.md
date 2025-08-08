@@ -62,10 +62,10 @@ If an astral deva strikes an opponent twice in one round with its mace, that cre
 An astral deva retains its Dexterity bonus to AC when flat-footed, and it cannot be flanked except by a rogue of at least 16th level. It can flank characters with the uncanny dodge ability as if it were a 12th-level rogue.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 12th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Aid|Aid]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Discern Lies|Discern Lies]] (DC 19), [[Spell List#Dispel Evil|Dispel Evil]] (DC 20), [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Holy Aura|Holy Aura]] (DC 23), [[Spell List#Holy Smite|Holy Smite]] (DC 19), [[Spell List#Holy Word|Holy Word]] (DC 22), [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Plane Shift|Plane Shift]] (DC 22), [[Spell List#Remove Curse|Remove Curse]] (DC 18), [[Spell List#Remove Disease|Remove Disease]] (DC 18), [[Spell List#Remove Fear|Remove Fear]] (DC 16);;
-- 7/day: [[Spell List#Cure Light Wounds|Cure Light Wounds]] (DC 16), [[Spell List#See Invisibility|See Invisibility]] ;;
-- 1/day: [[Spell List#Blade Barrier|Blade Barrier]] (DC 21), [[Spell List#Heal|Heal]] (DC 21);;
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Aid|Aid]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Discern Lies|Discern Lies]] (DC 19), [[Spell List#Dispel Evil|Dispel Evil]] (DC 20), [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Holy Aura|Holy Aura]] (DC 23), [[Spell List#Holy Smite|Holy Smite]] (DC 19), [[Spell List#Holy Word|Holy Word]] (DC 22), [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Plane Shift|Plane Shift]] (DC 22), [[Spell List#Remove Curse|Remove Curse]] (DC 18), [[Spell List#Remove Disease|Remove Disease]] (DC 18), [[Spell List#Remove Fear|Remove Fear]] (DC 16);.
+ - 7/day: [[Spell List#Cure Light Wounds|Cure Light Wounds]] (DC 16), [[Spell List#See Invisibility|See Invisibility]] ;.
+ - 1/day: [[Spell List#Blade Barrier|Blade Barrier]] (DC 21), [[Spell List#Heal|Heal]] (DC 21);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

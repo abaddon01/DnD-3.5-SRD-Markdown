@@ -57,8 +57,8 @@ Bluff, Hide, and Move Silently are considered class skills for green dragons.
 A green dragon has one type of breath weapon, a cone of corrosive (acid) gas. Cone: 50 ft. Damage: 14d6 (DC 26). 
 
 ## Spell-Like Abilities
-- 3/day: [[Spell List#Suggestion|Suggestion]] (adult Or Older), [[Spell List#Dominate Person|Dominate Person]] (ancient Or Older);;
-- 1/day: [[Spell List#Plant Growth|Plant Growth]] (old Or Older), [[Spell List#Command Plants|Command Plants]] (great Wyrm);;
+ - 3/day: [[Spell List#Suggestion|Suggestion]] (adult Or Older), [[Spell List#Dominate Person|Dominate Person]] (ancient Or Older);.
+ - 1/day: [[Spell List#Plant Growth|Plant Growth]] (old Or Older), [[Spell List#Command Plants|Command Plants]] (great Wyrm);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

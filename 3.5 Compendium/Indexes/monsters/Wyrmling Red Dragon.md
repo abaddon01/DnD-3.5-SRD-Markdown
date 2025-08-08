@@ -58,8 +58,8 @@ Appraise, Bluff, and Jump are considered class skills for red dragons.
 A red dragon has one type of breath weapon, a cone of fire. Cone: 30 ft. Damage: 2d10 (DC 15). 
 
 ## Spell-Like Abilities
-- Other  3/day: [[Spell List#Suggestion|Suggestion]] (old Or Older);;
-- 1/day: [[Spell List#Find The Path|Find The Path]] (ancient Or Older), [[Spell List#Discern Location|Discern Location]] (great Wyrm);;
+ - Other  3/day: [[Spell List#Suggestion|Suggestion]] (old Or Older);.
+ - 1/day: [[Spell List#Find The Path|Find The Path]] (ancient Or Older), [[Spell List#Discern Location|Discern Location]] (great Wyrm);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

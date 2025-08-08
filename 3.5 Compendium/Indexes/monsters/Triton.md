@@ -55,8 +55,8 @@ The reclusive tritons prefer to avoid combat, but they fiercely defend their hom
 A triton has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 7th. Tritons often choose water elementals for their companions.;
-- 1/day: [[Spell List#Summon Nature's Ally IV|Summon Nature's Ally IV]] ;;
+ - Caster Level: Caster level 7th. Tritons often choose water elementals for their companions..
+ - 1/day: [[Spell List#Summon Nature's Ally IV|Summon Nature's Ally IV]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

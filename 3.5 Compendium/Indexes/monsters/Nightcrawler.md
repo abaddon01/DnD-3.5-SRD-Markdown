@@ -69,10 +69,10 @@ A nightcrawler can try to swallow a grabbed opponent of Huge or smaller size by 
 A nightcrawler's interior can hold 2 Huge, 8 Large, 32 Medium, 128 Small, 512 Tiny or smaller opponents.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 25th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Contagion|Contagion]] (DC 18), [[Spell List#Deeper Darkness|Deeper Darkness]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Haste|Haste]] , [[Spell List#Invisibility|Invisibility]] , [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Unholy Blight|Unholy Blight]] (DC 18);;
-- 3/day: [[Spell List#Cone Of Cold|Cone Of Cold]] (DC 19), [[Spell List#Confusion|Confusion]] (DC 18), [[Spell List#Hold Monster|Hold Monster]] (DC 19);;
-- 1/day: [[Spell List#Finger Of Death|Finger Of Death]] (DC 21), [[Spell List#Hold Monster, Mass|Hold Monster, Mass]] (DC 23), [[Spell List#Plane Shift|Plane Shift]] (DC 21);;
+ - Caster Level: Caster level 25th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Contagion|Contagion]] (DC 18), [[Spell List#Deeper Darkness|Deeper Darkness]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Haste|Haste]] , [[Spell List#Invisibility|Invisibility]] , [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Unholy Blight|Unholy Blight]] (DC 18);.
+ - 3/day: [[Spell List#Cone Of Cold|Cone Of Cold]] (DC 19), [[Spell List#Confusion|Confusion]] (DC 18), [[Spell List#Hold Monster|Hold Monster]] (DC 19);.
+ - 1/day: [[Spell List#Finger Of Death|Finger Of Death]] (DC 21), [[Spell List#Hold Monster, Mass|Hold Monster, Mass]] (DC 23), [[Spell List#Plane Shift|Plane Shift]] (DC 21);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -72,10 +72,10 @@ If the whirlwind's base touches the ground, it creates a swirling cloud of debri
 A djinni in whirlwind form cannot make melee attacks and does not threaten the area around it.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 20th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Invisibility|Invisibility]] (self Only);;
-- 1/day: [[Spell List#Create Food And Water|Create Food And Water]] , [[Spell List#Create Wine|Create Wine]] (as Create Water, [[Spell List#But Wine Instead)|But Wine Instead)]] , [[Spell List#Major Creation|Major Creation]] (created Vegetable Matter Is Permanent), [[Spell List#Persistent Image|Persistent Image]] (DC 17), [[Spell List#Wind Walk|Wind Walk]] ;;
-- Other: Once per day, a djinni can assume gaseous form (as the spell) for up to 1 hour.;
+ - Caster Level: Caster level 20th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Invisibility|Invisibility]] (self Only);.
+ - 1/day: [[Spell List#Create Food And Water|Create Food And Water]] , [[Spell List#Create Wine|Create Wine]] (as Create Water, [[Spell List#But Wine Instead)|But Wine Instead)]] , [[Spell List#Major Creation|Major Creation]] (created Vegetable Matter Is Permanent), [[Spell List#Persistent Image|Persistent Image]] (DC 17), [[Spell List#Wind Walk|Wind Walk]] ;.
+ - Other: Once per day, a djinni can assume gaseous form (as the spell) for up to 1 hour..
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

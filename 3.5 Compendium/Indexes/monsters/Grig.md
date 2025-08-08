@@ -54,8 +54,8 @@ One grig in each band carries a tiny, grig-sized fiddle. When the fiddler plays,
 Grigs have a +8 racial bonus on Jump checks. *They also have a +5 racial bonus on Move Silently checks in a forest setting.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 9th. The save DCs are Charisma-based.;
-- 3/day: [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Entangle|Entangle]] (DC 13), [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Pyrotechnics|Pyrotechnics]] (DC 14), [[Spell List#Ventriloquism|Ventriloquism]] (DC 13);;
+ - Caster Level: Caster level 9th. The save DCs are Charisma-based..
+ - 3/day: [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Entangle|Entangle]] (DC 13), [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Pyrotechnics|Pyrotechnics]] (DC 14), [[Spell List#Ventriloquism|Ventriloquism]] (DC 13);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -56,7 +56,7 @@ Dust mephits speak Common and Auran.
 A dust mephit heals only if in an arid, dusty environment.
 
 ## Spell-Like Abilities
-- Other: Once per hour, a dust mephit can surround itself with a plume of dust, duplicating the effect of a blur spell (caster level 3rd). Once per day it can create a mass of roiling dust that duplicates the effect of wind wall (DC 15, caster level 6th). The save DC is Charisma-based.;
+ - Other: Once per hour, a dust mephit can surround itself with a plume of dust, duplicating the effect of a blur spell (caster level 3rd). Once per day it can create a mass of roiling dust that duplicates the effect of wind wall (DC 15, caster level 6th). The save DC is Charisma-based..
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

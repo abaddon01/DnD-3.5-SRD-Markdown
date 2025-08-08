@@ -56,7 +56,7 @@ Air mephits speak Common and Auran.
 An air mephit heals only if exposed to moving air, be it a breeze, a draft, a spell effect, or even the mephit fanning itself.
 
 ## Spell-Like Abilities
-- Other: Once per hour an air mephit can surround itself with vapor, duplicating the effect of a blur spell (caster level 3rd). Once per day it can use gust of wind (DC 14, caster level 6th) . The save DC is Charisma-based.;
+ - Other: Once per hour an air mephit can surround itself with vapor, duplicating the effect of a blur spell (caster level 3rd). Once per day it can use gust of wind (DC 14, caster level 6th) . The save DC is Charisma-based..
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

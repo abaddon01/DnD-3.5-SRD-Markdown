@@ -72,8 +72,8 @@ Mariliths have a +8 racial bonus on Listen and Spot checks.
 In combination with its natural abilities, a marilith's Multiweapon Fighting feat allows it to attack with all its arms at no penalty.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 16th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Align Weapon|Align Weapon]] , [[Spell List#Blade Barrier|Blade Barrier]] (DC 23), [[Spell List#Magic Weapon|Magic Weapon]] , [[Spell List#Project Image|Project Image]] (DC 23), [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Telekinesis|Telekinesis]] (DC 22), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Unholy Aura|Unholy Aura]] (DC 25);;
+ - Caster Level: Caster level 16th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Align Weapon|Align Weapon]] , [[Spell List#Blade Barrier|Blade Barrier]] (DC 23), [[Spell List#Magic Weapon|Magic Weapon]] , [[Spell List#Project Image|Project Image]] (DC 23), [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Telekinesis|Telekinesis]] (DC 22), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Unholy Aura|Unholy Aura]] (DC 25);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

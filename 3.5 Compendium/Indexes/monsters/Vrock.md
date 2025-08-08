@@ -68,9 +68,9 @@ Once per day a vrock can attempt to summon 2d10 dretches or another vrock with a
 Vrocks have a +8 racial bonus on Listen and Spot checks.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 12th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Mirror Image|Mirror Image]] , [[Spell List#Telekinesis|Telekinesis]] (DC 18), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);;
-- 1/day: [[Spell List#Heroism|Heroism]] ;;
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Mirror Image|Mirror Image]] , [[Spell List#Telekinesis|Telekinesis]] (DC 18), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);.
+ - 1/day: [[Spell List#Heroism|Heroism]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

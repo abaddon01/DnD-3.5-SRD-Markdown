@@ -47,9 +47,9 @@ Very rarely, storm giants have violet skin. Violet-skinned storm giants have dee
 Storm giants use weapons and spell-like abilities instead of throwing rocks. Their composite longbows have a range increment of 180 feet.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 20th.;
-- 2/day: [[Spell List#Control Weather|Control Weather]] , [[Spell List#Levitate|Levitate]] ;;
-- Caster Level: Caster level 15th. The save DCs are Charisma:based.;
+ - Caster Level: Caster level 20th..
+ - 2/day: [[Spell List#Control Weather|Control Weather]] , [[Spell List#Levitate|Levitate]] ;.
+ - Caster Level: Caster level 15th. The save DCs are Charisma:based..
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

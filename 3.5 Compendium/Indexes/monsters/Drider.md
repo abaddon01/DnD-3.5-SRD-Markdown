@@ -53,14 +53,9 @@ Injury, Fortitude DC 16, initial and secondary damage 1d6 Str. The save DC is Co
 A drider has a +4 racial bonus on Hide and Move Silently checks. It has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened.
 
 ## Spell-Like Abilities
-- 1/day: [[Spell List#Dancing Lights|Dancing Lights]] (DC 13), [[Spell List#Clairaudience/clairvoyance|Clairaudience/clairvoyance]] , [[Spell List#Darkness|Darkness]] , [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Law|Detect Law]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Faerie Fire|Faerie Fire]] , [[Spell List#Levitate|Levitate]] , [[Spell List#Suggestion|Suggestion]] (DC 16);. C;
-
-- Spells: : Driders cast spells as 6th-level clerics, wizards, or sorcerers. Drider clerics can choose from the following domains: Chaos, Destruction, Evil, and Trickery. The typical spells prepared shown here are for a drider sorcerer.;
-- Typical Sorcerer Spells Known (6/7/6/4, base save DC 13 + spell level): 0-daze, detect magic, ghost sound, mage hand, ray of frost, read magic, resistance; 1st-mage armor, magic missile, ray of enfeeblement, silent image; 2nd- invisibility, web; 3rd-lightning bolt.: ;
-- 0: [[Spell List#Daze|Daze]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Ghost Sound|Ghost Sound]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Ray Of Frost|Ray Of Frost]] , [[Spell List#Read Magic|Read Magic]] , [[Spell List#Resistance|Resistance]] ;;
-- 1st: [[Spell List#Mage Armor|Mage Armor]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Ray Of Enfeeblement|Ray Of Enfeeblement]] , [[Spell List#Silent Image|Silent Image]] ;;
-- 2nd: [[Spell List#Invisibility|Invisibility]] , [[Spell List#Web|Web]] ;;
-- 3rd: [[Spell List#Lightning Bolt|Lightning Bolt]] ;;
+ - 1/day: [[Spell List#Dancing Lights|Dancing Lights]] (DC 13), [[Spell List#Clairaudience/clairvoyance|Clairaudience/clairvoyance]] , [[Spell List#Darkness|Darkness]] , [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Law|Detect Law]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Faerie Fire|Faerie Fire]] , [[Spell List#Levitate|Levitate]] , [[Spell List#Suggestion|Suggestion]] (DC 16);. C.
+Spells
+Driders cast spells as 6th-level clerics, wizards, or sorcerers. Drider clerics can choose from the following domains Chaos, Destruction, Evil, and Trickery. The typical spells prepared shown here are for a drider sorcerer..
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

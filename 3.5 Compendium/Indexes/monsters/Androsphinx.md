@@ -60,8 +60,18 @@ If it roars a third time during the same encounter, all those within 250 feet mu
 
 Other androsphinxes are immune to these effects. The save DCs are Charisma-based.
 
-## 
-- Spells: : An androsphinx casts divine spells as a 6th-level cleric from the  cleric spell list and from the  Good,  Healing, and  Protection domains.;
+## Spells
+An androsphinx casts divine spells as a 6th-level cleric from the  cleric spell list and from the  Good,  Healing, and  Protection domains..
+cleric spell list.
+Good.
+Healing.
+Protection.
+Typical Cleric Spells Prepared (5/5/5/4; save DC 13 + spell level).
+ - 0: [[Spell List#Cure Minor Wounds|Cure Minor Wounds]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Guidance|Guidance]] , [[Spell List#Light|Light]] , [[Spell List#Resistance|Resistance]] ;.
+ - 1st: [[Spell List#Divine Favor|Divine Favor]] , [[Spell List#Protection From Evil*|Protection From Evil*]] , [[Spell List#Shield Of Faith|Shield Of Faith]] , [[Spell List#Remove Fear|Remove Fear]] , [[Spell List#Summon Monster I|Summon Monster I]] ;.
+ - 2nd: [[Spell List#Bull's Strength|Bull's Strength]] , [[Spell List#Remove Paralysis|Remove Paralysis]] , [[Spell List#Resist Energy|Resist Energy]] , [[Spell List#Shield Other*|Shield Other*]] , [[Spell List#Summon Monster II|Summon Monster II]] ;.
+ - 3rd: [[Spell List#Cure Serious Wounds*|Cure Serious Wounds*]] , [[Spell List#Daylight|Daylight]] , [[Spell List#Invisibility Purge|Invisibility Purge]] , [[Spell List#Searing Light|Searing Light]] ;.
+ - *Domain spell. Domains: Good and Healing..
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

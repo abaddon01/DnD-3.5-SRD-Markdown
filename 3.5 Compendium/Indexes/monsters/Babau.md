@@ -65,8 +65,8 @@ Once per day a babau can attempt to summon 1 babau with a 40% chance of success.
 Babaus have a +8 racial bonus on Hide, Listen, Move Silently, and Search checks.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 7th.;
-- At will: [[Spell List#Darkness|Darkness]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);;
+ - Caster Level: Caster level 7th..
+ - At will: [[Spell List#Darkness|Darkness]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -30,7 +30,7 @@ alignment: Always lawful evil
 | Full Attack:         |Incorporeal touch +6 melee (1d8 plus energy drain); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Energy drain, create spawn |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Incorporeal Traits, +2 Turn Resistance, Sunlight Powerlessness, [[Traits#undead traits\|Undead Traits]] , Unnatural Aura; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#incorporeal traits\|Incorporeal Traits]] , +2 Turn Resistance, Sunlight Powerlessness, [[Traits#undead traits\|Undead Traits]] , Unnatural Aura; |
 | Saves:               |Fort: +2, Ref: +5, Will: +7 |
 | Abilities:           |Str : -1,  Dex: 16,  Con: -1,  Int: 14,  Wis: 14,  Cha: 15 |
 | Skills:              |[[Skill List#Hide\|Hide]]: +13, [[Skill List#Intimidate\|Intimidate]]: +12, [[Skill List#Knowledge\|Knowledge]]: (religion) 12, [[Skill List#Listen\|Listen]]: +14, [[Skill List#Search\|Search]]: +12, [[Skill List#Spot\|Spot]]: +14, [[Skill List#Survival\|Survival]]: 2(4followingtracks)+2 (+4 following tracks); |

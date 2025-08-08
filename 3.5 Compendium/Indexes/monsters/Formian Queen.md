@@ -63,21 +63,11 @@ Despite her utter lack of physical activity, the queen can cast spells and use s
 ### Telepathy (Su)
 The queen can communicate telepathically with any intelligent creature within 50 miles whose presence she is aware of.
 
-## 
-- Spells: : The queen casts arcane spells as a 17th-level sorcerer.;
-- Typical Sorcerer Spells Known (6/8/7/7/7/7/6/6/4, base save DC 15 + spell level):: ;
-- 0: [[Spell List#Acid Splash|Acid Splash]] , [[Spell List#Arcane Mark|Arcane Mark]] , [[Spell List#Daze|Daze]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Light|Light]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Read Magic|Read Magic]] , [[Spell List#Resistance|Resistance]] , [[Spell List#Touch Of Fatigue|Touch Of Fatigue]] ;;
-- 1st: [[Spell List#Comprehend Languages|Comprehend Languages]] , [[Spell List#Identify|Identify]] , [[Spell List#Mage Armor|Mage Armor]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Shield|Shield]] ;;
-- 2nd: [[Spell List#Hypnotic Pattern|Hypnotic Pattern]] , [[Spell List#Invisibility|Invisibility]] , [[Spell List#Protection From Arrows|Protection From Arrows]] , [[Spell List#Resist Energy|Resist Energy]] , [[Spell List#Scorching Ray|Scorching Ray]] ;;
-- 3rd: [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Heroism|Heroism]] , [[Spell List#Nondetection|Nondetection]] , [[Spell List#Slow|Slow]] ;;
-- 4th: [[Spell List#Confusion|Confusion]] , [[Spell List#Detect Scrying|Detect Scrying]] , [[Spell List#Black Tentacles|Black Tentacles]] , [[Spell List#Scrying|Scrying]] ;;
-- 5th: [[Spell List#Cone Of Cold|Cone Of Cold]] , [[Spell List#Dismissal|Dismissal]] , [[Spell List#Teleport|Teleport]] , [[Spell List#Wall Of Force|Wall Of Force]] ;;
-- 6th: [[Spell List#Analyze Dweomer|Analyze Dweomer]] , [[Spell List#Geas/quest|Geas/quest]] , [[Spell List#Repulsion|Repulsion]] ;;
-- 7th: [[Spell List#Summon Monster VII|Summon Monster VII]] , [[Spell List#Vision|Vision]] , [[Spell List#Waves Of Exhaustion|Waves Of Exhaustion]] ;;
-- 8th: [[Spell List#Prismatic Wall|Prismatic Wall]] , [[Spell List#Temporal Stasis|Temporal Stasis]] ;;
+## Spells
+The queen casts arcane spells as a 17th-level sorcerer..
 Spell-Like Abilities
-- Caster Level: Caster level 17th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Calm Emotions|Calm Emotions]] (DC 17), [[Spell List#Charm Monster|Charm Monster]] (DC 19), [[Spell List#Clairaudience/ Clairvoyance|Clairaudience/ Clairvoyance]] , [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Thoughts|Detect Thoughts]] , [[Spell List#Dictum|Dictum]] (DC 22), [[Spell List#Divination|Divination]] , [[Spell List#Hold Monster|Hold Monster]] (DC 20), [[Spell List#Magic Circle Against Chaos|Magic Circle Against Chaos]] , [[Spell List#Order's Wrath|Order's Wrath]] (DC 19), [[Spell List#Shield Of Law|Shield Of Law]] (DC 23), [[Spell List#True Seeing|True Seeing]] ;;
+ - Caster Level: Caster level 17th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Calm Emotions|Calm Emotions]] (DC 17), [[Spell List#Charm Monster|Charm Monster]] (DC 19), [[Spell List#Clairaudience/ Clairvoyance|Clairaudience/ Clairvoyance]] , [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Thoughts|Detect Thoughts]] , [[Spell List#Dictum|Dictum]] (DC 22), [[Spell List#Divination|Divination]] , [[Spell List#Hold Monster|Hold Monster]] (DC 20), [[Spell List#Magic Circle Against Chaos|Magic Circle Against Chaos]] , [[Spell List#Order's Wrath|Order's Wrath]] (DC 19), [[Spell List#Shield Of Law|Shield Of Law]] (DC 23), [[Spell List#True Seeing|True Seeing]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

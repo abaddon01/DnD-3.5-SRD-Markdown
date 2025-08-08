@@ -58,7 +58,7 @@ Unlike other mephits, steam mephits rush into combat eagerly, driven by an overs
 A steam mephit heals only if it is touching boiling water or is in a hot, humid area.
 
 ## Spell-Like Abilities
-- Other: Once per hour a steam mephit can surround itself with a plume of vapor, duplicating the effect of a blur spell (caster level 3rd). Once per day it can create a rainstorm of boiling water that affects a 20-foot-square area. Living creatures caught in the storm take 2d6 points of fire damage (Reflex DC 14 half; caster level 6th). This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based.;
+ - Other: Once per hour a steam mephit can surround itself with a plume of vapor, duplicating the effect of a blur spell (caster level 3rd). Once per day it can create a rainstorm of boiling water that affects a 20-foot-square area. Living creatures caught in the storm take 2d6 points of fire damage (Reflex DC 14 half; caster level 6th). This ability is the equivalent of a 2nd-level spell. The save DCs are Charisma-based..
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

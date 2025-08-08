@@ -75,10 +75,10 @@ This ability works like speak with animals (caster level 8th) but is a free acti
 Leonals have a +4 racial bonus on Balance, Hide, and Move Silently checks.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 10th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Detect Thoughts|Detect Thoughts]] , [[Spell List#Fireball|Fireball]] (DC 15), [[Spell List#Hold Monster|Hold Monster]] (DC 17), [[Spell List#Wall Of Force|Wall Of Force]] ;;
-- 3/day: [[Spell List#Cure Critical Wounds|Cure Critical Wounds]] (DC 16), [[Spell List#Neutralize Poison|Neutralize Poison]] , [[Spell List#Remove Disease|Remove Disease]] ;;
-- 1/day: [[Spell List#Heal|Heal]] (DC 18);;
+ - Caster Level: Caster level 10th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Detect Thoughts|Detect Thoughts]] , [[Spell List#Fireball|Fireball]] (DC 15), [[Spell List#Hold Monster|Hold Monster]] (DC 17), [[Spell List#Wall Of Force|Wall Of Force]] ;.
+ - 3/day: [[Spell List#Cure Critical Wounds|Cure Critical Wounds]] (DC 16), [[Spell List#Neutralize Poison|Neutralize Poison]] , [[Spell List#Remove Disease|Remove Disease]] ;.
+ - 1/day: [[Spell List#Heal|Heal]] (DC 18);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

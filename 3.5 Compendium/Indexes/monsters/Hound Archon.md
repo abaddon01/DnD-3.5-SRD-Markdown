@@ -63,8 +63,8 @@ A hound archon can assume any canine form of Small to Large size. While in canin
 *While in canine form, a hound archon gains a +4 circumstance bonus on Hide and Survival checks.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 6th.;
-- At will: [[Spell List#Aid|Aid]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Message|Message]] ;;
+ - Caster Level: Caster level 6th..
+ - At will: [[Spell List#Aid|Aid]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Message|Message]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

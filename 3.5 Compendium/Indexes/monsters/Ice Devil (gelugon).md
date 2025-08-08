@@ -65,8 +65,8 @@ Once per day an ice devil can attempt to summon 2d10 lemures or 1d6 bearded devi
 An ice devil takes normal damage from good-aligned weapons and from spells or effects with the good descriptor.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 13th. The save DCs are Charisma-based.;
-- At will: [[Spell List#Cone Of Cold|Cone Of Cold]] (DC 20), [[Spell List#Fly|Fly]] , [[Spell List#Ice Storm|Ice Storm]] (DC 19), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Persistent Image|Persistent Image]] (DC 20), [[Spell List#Unholy Aura|Unholy Aura]] (DC 23), [[Spell List#Wall Of Ice|Wall Of Ice]] (DC 19);;
+ - Caster Level: Caster level 13th. The save DCs are Charisma-based..
+ - At will: [[Spell List#Cone Of Cold|Cone Of Cold]] (DC 20), [[Spell List#Fly|Fly]] , [[Spell List#Ice Storm|Ice Storm]] (DC 19), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Persistent Image|Persistent Image]] (DC 20), [[Spell List#Unholy Aura|Unholy Aura]] (DC 23), [[Spell List#Wall Of Ice|Wall Of Ice]] (DC 19);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

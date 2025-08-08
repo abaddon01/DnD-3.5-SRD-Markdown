@@ -52,10 +52,10 @@ In close combat, gynosphinxes use their powerful claws to flay the flesh from th
 Attack bonus +11 melee, damage 1d6+2.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 14th. The save DC is Charisma-based.;
-- 3/day: [[Spell List#Clairaudience/clairvoyance|Clairaudience/clairvoyance]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Read Magic|Read Magic]] , [[Spell List#See Invisibility|See Invisibility]] ;;
-- 1/day: [[Spell List#Comprehend Languages|Comprehend Languages]] , [[Spell List#Locate Object|Locate Object]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Remove Curse|Remove Curse]] (DC 18), [[Spell List#Legend Lore|Legend Lore]] ;;
-- Once per week a gynosphinx can create a symbol of death, a symbol of fear, a symbol of insanity, a symbol of pain, a symbol of persuasion, a symbol of sleep, and a symbol of stunning as the spells (caster level 18th), except that all save DCs are 22 and each symbol remains a maximum of one week once scribed: [[Spell List#The Save DCs Are Charisma|The Save DCs Are Charisma]] ;.based;
+ - Caster Level: Caster level 14th. The save DC is Charisma-based..
+ - 3/day: [[Spell List#Clairaudience/clairvoyance|Clairaudience/clairvoyance]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Read Magic|Read Magic]] , [[Spell List#See Invisibility|See Invisibility]] ;.
+ - 1/day: [[Spell List#Comprehend Languages|Comprehend Languages]] , [[Spell List#Locate Object|Locate Object]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Remove Curse|Remove Curse]] (DC 18), [[Spell List#Legend Lore|Legend Lore]] ;.
+ - Once per week a gynosphinx can create a symbol of death, a symbol of fear, a symbol of insanity, a symbol of pain, a symbol of persuasion, a symbol of sleep, and a symbol of stunning as the spells (caster level 18th), except that all save DCs are 22 and each symbol remains a maximum of one week once scribed: [[Spell List#The Save DCs Are Charisma|The Save DCs Are Charisma]] ;.based.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

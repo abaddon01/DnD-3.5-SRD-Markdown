@@ -66,8 +66,8 @@ Twice per day, a bearded devil can work itself into a battle frenzy similar to t
 Once per day a bearded devil can attempt to summon 2d10 lemures with a 50% chance of success, or another bearded devil with a 35% chance of success. This ability is the equivalent of a 3rd-level spell.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 12th.;
-- At will: [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);;
+ - Caster Level: Caster level 12th..
+ - At will: [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

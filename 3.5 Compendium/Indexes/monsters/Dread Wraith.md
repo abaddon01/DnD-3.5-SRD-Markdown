@@ -31,7 +31,7 @@ alignment: Always lawful evil
 | Full Attack:         |Incorporeal touch +16 melee (2d6 plus 1d8 Constitution drain); |
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Daylight Powerlessness, Incorporeal Traits, Lifesense 60 Ft., [[Traits#undead traits\|Undead Traits]] , Unnatural Aura; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Daylight Powerlessness, [[Traits#incorporeal traits\|Incorporeal Traits]] , Lifesense 60 Ft., [[Traits#undead traits\|Undead Traits]] , Unnatural Aura; |
 | Saves:               |Fort: +5, Ref: +14, Will: +14 |
 | Abilities:           |Str : -1,  Dex: 28,  Con: -1,  Int: 17,  Wis: 18,  Cha: 24 |
 | Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +9, [[Skill List#Hide\|Hide]]: +24, [[Skill List#Intimidate\|Intimidate]]: +26, [[Skill List#Knowledge (religion)\|Knowledge (religion)]]: +22, [[Skill List#Listen\|Listen]]: +25, [[Skill List#Search\|Search]]: +22, [[Skill List#Sense Motive\|Sense Motive]]: +23, [[Skill List#Spot\|Spot]]: +25, [[Skill List#Survival\|Survival]]: 4 (+6 following tracks); |

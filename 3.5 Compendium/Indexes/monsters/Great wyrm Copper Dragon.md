@@ -57,8 +57,8 @@ Bluff, Hide, and Jump are considered class skills for copper dragons.
 A copper dragon has two types of breath weapon, a line of acid and a cone of slow gas. Creatures within the cone must succeed on a Fortitude save or be slowed for 1d6 rounds plus 1 round per age category of the dragon. Line: 120 ft. Damage: 24d4 (DC 37). 
 
 ## Spell-Like Abilities
-- 2/day: [[Spell List#Stone Shape|Stone Shape]] (adult Or Older);;
-- 1/day: [[Spell List#Transmute Rock To Mud Or Mud To Rock|Transmute Rock To Mud Or Mud To Rock]] (old Or Older), [[Spell List#Wall Of Stone|Wall Of Stone]] (ancient Or Older), [[Spell List#Move Earth|Move Earth]] (great Wyrm);;
+ - 2/day: [[Spell List#Stone Shape|Stone Shape]] (adult Or Older);.
+ - 1/day: [[Spell List#Transmute Rock To Mud Or Mud To Rock|Transmute Rock To Mud Or Mud To Rock]] (old Or Older), [[Spell List#Wall Of Stone|Wall Of Stone]] (ancient Or Older), [[Spell List#Move Earth|Move Earth]] (great Wyrm);.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

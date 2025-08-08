@@ -78,8 +78,8 @@ A barghest in wolf form can use pass without trace (as the spell) as a free acti
 Occasionally, a greater barghest uses a magic two-handed weapon in combat instead of its claws, giving it multiple attacks (attack bonus +13/+8). It can also make one bite attack (attack bonus +8) each round. The save DC against a greater barghest's spell-like abilities is 14 + spell level.
 
 ## Spell-Like Abilities
-- In addition to the spelllike abilities all barghests possess, a greater barghest gains the following abilities: [[Spell List#At Will|At Will]] ;.invisibility sphere;
-- 1/day: [[Spell List#Bull's Strength, Mass|Bull's Strength, Mass]] , [[Spell List#Enlarge, Mass|Enlarge, Mass]] ;. C;
+ - In addition to the spelllike abilities all barghests possess, a greater barghest gains the following abilities: [[Spell List#At Will|At Will]] ;.invisibility sphere.
+ - 1/day: [[Spell List#Bull's Strength, Mass|Bull's Strength, Mass]] , [[Spell List#Enlarge, Mass|Enlarge, Mass]] ;. C.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

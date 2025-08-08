@@ -59,8 +59,8 @@ Attack bonus +13 melee, damage 1d6+7. An annis can attack a grappled foe with bo
 An annis that hits with both claw attacks latches onto the opponent's body and tears the flesh. This attack automatically deals an extra 2d6+10 points of damage.
 
 ## Spell-Like Abilities
-- Caster Level: Caster level 8th.;
-- 3/day: [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Fog Cloud|Fog Cloud]] ;;
+ - Caster Level: Caster level 8th..
+ - 3/day: [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Fog Cloud|Fog Cloud]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

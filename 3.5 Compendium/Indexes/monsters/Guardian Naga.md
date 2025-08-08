@@ -52,8 +52,18 @@ Injury or contact, Fortitude DC 19, initial and secondary damage 1d10 Con. The s
 ### Spit (Ex)
 A guardian naga can spit its venom up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Opponents hit by this attack must make successful saves (see above) to avoid the effect.
 
-## 
-- Spells: : Guardian nagas cast spells as 9th-level  sorcerers, and can also cast spells from the  cleric list and from the  Good and  Law domains. The cleric spells and domain spells are considered arcane spells for a guardian naga, meaning that the creature does not need a divine focus to cast them.;
+## Spells
+Guardian nagas cast spells as 9th-level  sorcerers, and can also cast spells from the  cleric list and from the  Good and  Law domains. The cleric spells and domain spells are considered arcane spells for a guardian naga, meaning that the creature does not need a divine focus to cast them..
+sorcerers.
+cleric list.
+Good.
+Law.
+Typical Spells Known (6/7/7/7/5; save DC 14 + spell level).
+ - 0: [[Spell List#Cure Minor Wounds|Cure Minor Wounds]] , [[Spell List#Daze|Daze]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Light|Light]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Open/close|Open/close]] , [[Spell List#Ray Of Frost|Ray Of Frost]] , [[Spell List#Read Magic|Read Magic]] ;.
+ - 1st: [[Spell List#Cure Light Wounds|Cure Light Wounds]] , [[Spell List#Divine Favor|Divine Favor]] , [[Spell List#Expeditious Retreat|Expeditious Retreat]] , [[Spell List#Mage Armor|Mage Armor]] , [[Spell List#Magic Missile|Magic Missile]] ;.
+ - 2nd: [[Spell List#Detect Thoughts|Detect Thoughts]] , [[Spell List#Lesser Restoration|Lesser Restoration]] , [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Scorching Ray|Scorching Ray]] ;.
+ - 3rd: [[Spell List#Cure Serious Wounds|Cure Serious Wounds]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Lightning Bolt|Lightning Bolt]] ;.
+ - 4th: [[Spell List#Divine Power|Divine Power]] , [[Spell List#Invisibility, Greater|Invisibility, Greater]] ;.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.
