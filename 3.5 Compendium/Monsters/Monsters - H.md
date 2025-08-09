@@ -760,7 +760,7 @@ Dwarven, Infernal, Giant, Orc.
 | Full Attack: | Bite +2 melee (1d4--1 plus poison) | 
 | Space/Reach: | 2-1/2 ft./0 ft. | 
 | Special Attacks: | Poison | 
-| Special Qualities | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +0, Ref +4, Will +1 | 
 | Abilities: | Str 8, Dex 15, Con ---, Int 10, Wis 12, Cha 7 | 
 | Skills: | [[Skill List#Hide\|Hide]] +14, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 

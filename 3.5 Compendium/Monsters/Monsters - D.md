@@ -652,7 +652,7 @@ A quasit can assume other forms at will as a standard action. This ability funct
 | Full Attack: | 4 claws +15 melee (2d6+10) and bite +10 melee (1d8+5) and eye ray +8 ranged touch | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Eye rays, *find target,* improved grab | 
-| Special Qualities | [[Special Abilities#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
+| Special Qualities | [[Traits#construct traits\|Construct Traits]] , [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  5, [[Special Abilities#low-light vision\|Low-light Vision]] ; | 
 | Saves: | Fort +3, Ref +6, Will +3 | 
 | Abilities: | Str 31, Dex 17, Con ---, Int ---, Wis 11, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -1538,7 +1538,7 @@ A pit fiend typically opens combat by using its spell-like abilities, attempting
 | Full Attack: | 2 claws +15 melee (1d6+9) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Energy drain, trap essence, spell-like abilities | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Spell Deflection, [[Special Abilities#spell resistance\|Spell Resistance]]  21, [[Special Abilities#undead traits\|Undead Traits]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Spell Deflection, [[Special Abilities#spell resistance\|Spell Resistance]]  21, [[Traits#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +4, Ref +4, Will +11 | 
 | Abilities: | Str 28, Dex 10, Con ---, Int 16, Wis 16, Cha 17 | 
 | Skills: | [[Skill List#Climb\|Climb]] +24, [[Skill List#Concentration\|Concentration]] +18, [[Skill List#Diplomacy\|Diplomacy]] +5, [[Skill List#Jump\|Jump]] +24, [[Skill List#Listen\|Listen]] +18, [[Skill List#Move Silently\|Move Silently]] +15, [[Skill List#Search\|Search]] +10, [[Skill List#Sense Motive\|Sense Motive]] +11, [[Skill List#Spot\|Spot]] +18, [[Skill List#Survival\|Survival]] +3 (+5 Following Tracks); | 

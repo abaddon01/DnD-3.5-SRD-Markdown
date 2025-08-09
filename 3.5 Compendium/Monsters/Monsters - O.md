@@ -223,7 +223,7 @@ An ooze's entire body is a primitive sensory organ that can ascertain prey by sc
 | Full Attack: | Slam +8 melee (2d6+4 plus 2d6 acid) | Slam +19 melee (3d6+12 plus 3d6 acid) | 
 | Space/Reach: | 15 ft./10 ft. | 20 ft./20 ft. | 
 | Special Attacks: | Acid, constrict 2d6+4 plus 2d6 acid, improved grab | Acid, constrict 2d8+12 plus 2d6 acid, improved grab | 
-| Special Qualities | Blindsight 60 Ft., Split, [[Special Abilities#ooze traits\|Ooze Traits]] ; | Blindsight 60 Ft., Split, [[Special Abilities#ooze traits\|Ooze Traits]] ; | 
+| Special Qualities | Blindsight 60 Ft., Split, [[Traits#ooze traits\|Ooze Traits]] ; | Blindsight 60 Ft., Split, [[Traits#ooze traits\|Ooze Traits]] ; | 
 | Saves: | Fort +9, Ref --2, Will --2 | Fort +15, Ref +1, Will +1 | 
 | Abilities: | Str 17, Dex 1, Con 22, Int ---, Wis 1, Cha 1 | Str 26, Dex 1, Con 28, Int ---, Wis 1, Cha 1 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11; | [[Skill List#Climb\|Climb]] +16; | 
@@ -281,7 +281,7 @@ The save DC for the elder black pudding's acid attack (DC 29) is adjusted for it
 | Full Attack: | Slam +1 melee (1d6 plus 1d6 acid) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Acid, engulf, paralysis | 
-| Special Qualities | Blindsight 60 Ft., Immunity To Electricity, [[Special Abilities#ooze traits\|Ooze Traits]] , Transparent; | 
+| Special Qualities | Blindsight 60 Ft., Immunity To Electricity, [[Traits#ooze traits\|Ooze Traits]] , Transparent; | 
 | Saves: | Fort +9, Ref --4, Will --4 | 
 | Abilities: | Str 10, Dex 1, Con 26, Int ---, Wis 1, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -328,7 +328,7 @@ Gelatinous cubes are hard to see, even under ideal conditions, and it takes a DC
 | Full Attack: | Slam +3 melee (1d6+1 plus 1d6 acid) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Acid, constrict 1d6+1 plus 1d6 acid, improved grab | 
-| Special Qualities | Blindsight 60 Ft., Immunity To Cold And Fire, [[Special Abilities#ooze traits\|Ooze Traits]] , Transparent; | 
+| Special Qualities | Blindsight 60 Ft., Immunity To Cold And Fire, [[Traits#ooze traits\|Ooze Traits]] , Transparent; | 
 | Saves: | Fort +6, Ref --4, Will --4 | 
 | Abilities: | Str 12, Dex 1, Con 21, Int ---, Wis 1, Cha 1 | 
 | Skills: | [[Skill List#\|]] ---; | 
@@ -375,7 +375,7 @@ A gray ooze is hard to identify, even under ideal conditions, and it takes a DC 
 | Full Attack: | Slam +5 melee (2d4+3 plus 1d4 acid) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Acid, constrict 2d4+3 plus 1d4 acid, improved grab | 
-| Special Qualities | Blindsight 60 Ft., Split, [[Special Abilities#ooze traits\|Ooze Traits]] ; | 
+| Special Qualities | Blindsight 60 Ft., Split, [[Traits#ooze traits\|Ooze Traits]] ; | 
 | Saves: | Fort +8, Ref --3, Will --3 | 
 | Abilities: | Str 15, Dex 1, Con 22, Int ---, Wis 1, Cha 1 | 
 | Skills: | [[Skill List#Climb\|Climb]] +10; | 

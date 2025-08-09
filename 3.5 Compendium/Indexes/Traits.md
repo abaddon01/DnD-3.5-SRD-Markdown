@@ -26,6 +26,7 @@ This material is Open Game Content, and is licensed for public use under the ter
     *   [[#Fey Traits]]
     *   [[#Giant Traits]]
     *   [[#Goblinoid Traits]]
+    *   [[#Incorporeal Traits]]
     *   [[#Magical Beast Traits]]
     *   [[#Monstrous Humanoid Traits]]
     *   [[#Ooze Traits]]
@@ -33,6 +34,7 @@ This material is Open Game Content, and is licensed for public use under the ter
     *   [[#Plant Creature Traits]]
     *   [[#Swarm traits]]
     *   [[#Undead traits]]
+	*   [[#Vermin Traits]]
 
 ## Aberation Traits
 An aberration possesses the following traits (unless otherwise noted in a creature’s entry).
@@ -135,10 +137,23 @@ A giant possesses the following traits (unless otherwise noted in a creature’s
 * Giants eat, sleep, and breathe.
 
 ## Goblinoid Traits
-A humanoid possesses the following traits (unless otherwise noted in a creature’s entry).
-* Proficient with all simple weapons, or by character class.
-* Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, or by character class. If a humanoid does not have a class and wears armor, it is proficient with that type of armor and all lighter types. Humanoids not indicated as wearing armor are not proficient with armor. Humanoids are proficient with shields if they are proficient with any form of armor.
-* Humanoids breathe, eat, and sleep.
+ Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin.
+
+## Incorporeal Traits
+
+* Spectres, wraiths, and a few other creatures lack physical bodies. Such creatures are insubstantial and can’t be touched by nonmagical matter or energy. Likewise, they cannot manipulate objects or exert physical force on objects. However, incorporeal beings have a tangible presence that sometimes seems like a physical attack against a corporeal creature.
+* Incorporeal creatures are present on the same plane as the characters, and characters have some chance to affect them.
+* Incorporeal creatures can be harmed only by other incorporeal creatures, by magic weapons, or by spells, spell-like effects, or supernatural effects. They are immune to all nonmagical attack forms. They are not burned by normal fires, affected by natural cold, or harmed by mundane acids.
+* Even when struck by magic or magic weapons, an incorporeal creature has a 50% chance to ignore any damage from a corporeal source—except for a force effect or damage dealt by a ghost touch weapon.
+* Incorporeal creatures are immune to critical hits, extra damage from being favored enemies, and from sneak attacks. They move in any direction (including up or down) at will. They do not need to walk on the ground. They can pass through solid objects at will, although they cannot see when their eyes are within solid matter.
+* Incorporeal creatures hiding inside solid objects get a +2 circumstance bonus on Listen checks, because solid objects carry sound well. Pinpointing an opponent from inside a solid object uses the same rules as pinpointing invisible opponents (see Invisibility, below).
+* Incorporeal creatures are inaudible unless they decide to make noise.
+* The physical attacks of incorporeal creatures ignore material armor, even magic armor, unless it is made of force (such as mage armor or bracers of armor) or has the ghost touch ability.
+* Incorporeal creatures pass through and operate in water as easily as they do in air.
+* Incorporeal creatures cannot fall or take falling damage.
+* Corporeal creatures cannot trip or grapple incorporeal creatures.
+* Incorporeal creatures have no weight and do not set off traps that are triggered by weight.
+* Incorporeal creatures do not leave footprints, have no scent, and make no noise unless they manifest, and even then they only make noise intentionally.
 
 ## Magical Beast Traits
 A magical beast possesses the following traits (unless otherwise noted in a creature’s entry).
@@ -234,3 +249,4 @@ Vermin possess the following traits (unless otherwise noted in a creature’s en
 * Proficient with their natural weapons only.
 * Proficient with no armor.
 * Vermin breathe, eat, and sleep.
+

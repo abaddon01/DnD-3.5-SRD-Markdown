@@ -28,7 +28,7 @@ tags:
 | Full Attack: | Burning touch +4 melee touch (1d8 fire plus combustion) or slam +4 melee (1d3+3 plus combustion) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Combustion, fiery aura | 
-| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#elemental traits\|Elemental Traits]] , Immunity To Fire, Melt Weapons, Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Melt Weapons, Vulnerability To Cold; | 
 | Saves: | Fort +3, Ref +3, Will +0 | 
 | Abilities: | Str 15, Dex 11, Con 13, Int 8, Wis 10, Cha 10 | 
 | Skills: | [[Skill List#Climb\|Climb]] +4, [[Skill List#Spot\|Spot]] +3; | 
@@ -808,7 +808,7 @@ Terran.
 | Full Attack: | Slam +12 melee (1d6+7) and tongue +12 melee touch (paralysis) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Improved grab, paralyzing touch, create spawn | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] ; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] ; | 
 | Saves: | Fort +4, Ref +10, Will +9 | 
 | Abilities: | Str 21, Dex 19, Con ---, Int 11, Wis 10, Cha 10 | 
 | Skills: | [[Skill List#Climb\|Climb]] +13, [[Skill List#Hide\|Hide]] +21, [[Skill List#Listen\|Listen]] +11, [[Skill List#Move Silently\|Move Silently]] +21, [[Skill List#Spot\|Spot]] +15, [[Skill List#Swim\|Swim]] +9; | 
@@ -848,7 +848,7 @@ Creatures killed by a mohrg rise after 1d4 days as zombies under the morhg's con
 |  Full Attack: |           Slam +11 melee (1d6+10 plus mummy rot)                                          | Slam +20 melee (1d6+12/19--20 plus mummy rot)|
 |  Space/Reach: |           5 ft./5 ft.                                                                     | 5 ft./5 ft.|
 |  Special Attacks: |       Despair, mummy rot                                                              | Despair, mummy rot, rebuke undead, spells|
-| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#undead traits\|Undead Traits]] , Vulnerability To Fire; | [[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, [[Special Abilities#undead traits\|Undead Traits]] , Vulnerability To Fire; | 
+| Special Qualities: | [[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] , Vulnerability To Fire; | [[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, [[Traits#undead traits\|Undead Traits]] , Vulnerability To Fire; | 
 |  Saves: |                 Fort +4, Ref +2, Will +8                                                        | Fort +13, Ref +8, Will +20|
 |  Abilities: |             Str 24, Dex 10, Con ---, Int 6, Wis 14, Cha 15                                  | Str 26, Dex 12, Con ---, Int 8, Wis 20, Cha 17|
 | Skills: | [[Skill List#Hide\|Hide]] +7, [[Skill List#Listen\|Listen]] +8, [[Skill List#Move Silently\|Move Silently]] +7, [[Skill List#Spot\|Spot]] +8; | [[Skill List#Concentration\|Concentration]] +8, [[Skill List#Knowledge\|Knowledge]] (religion) +4, [[Skill List#Listen\|Listen]] +18, [[Skill List#Move Silently\|Move Silently]] +5, [[Skill List#Spot\|Spot]] +18; | 
