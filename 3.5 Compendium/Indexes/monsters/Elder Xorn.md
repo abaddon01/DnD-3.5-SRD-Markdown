@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder_Xorn
+title: 3.5 Compendium / Monsters / Elder Xorn
 aliases: 
  - Elder Xorn
 tags: 

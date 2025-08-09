@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Ape
+title: 3.5 Compendium / Monsters / Dire Ape
 aliases: 
  - Dire Ape
 tags: 

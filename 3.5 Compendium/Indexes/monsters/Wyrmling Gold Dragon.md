@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling_Gold_Dragon
+title: 3.5 Compendium / Monsters / Wyrmling Gold Dragon
 aliases: 
  - Wyrmling Gold Dragon
 tags: 
@@ -28,7 +28,7 @@ alignment:
 | Full Attack:         |Bite  +8 (1d8), 2 Claws +6/+6 (1d8/1d8), 2 Wings +6/+6 (1d4/1d4); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
-| Special Qualities    |Alternate Form, Immunity To Fire, Vulnerability To Cold, Water Breathing; |
+| Special Qualities    |Alternate Form, Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold, Water Breathing; |
 | Saves:               |Fort: +8, Ref: +6, Will: +8 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
@@ -67,8 +67,8 @@ Disguise, Heal, and Swim are considered class skills for gold dragons.
 A gold dragon has two types of breath weapon, a cone of fire and a cone of weakening gas. Creatures within a cone of weakening gas must succeed on a Fortitude save or take 1 point of Strength damage per age category of the dragon. Cone: 30 ft. Damage: 2d10 (DC 16). 
 
 ## Spell-Like Abilities
- - Other  3/day: [[Spell List#Bless|Bless]] (juvenile Or Older);.
- - 1/day: [[Spell List#Geas/quest|Geas/quest]] (old Or Older), [[Spell List#Sunburst|Sunburst]] (ancient Or Older), [[Spell List#Foresight|Foresight]] (great Wyrm);.
+ - Other  3/day: [[Spell List#Bless|Bless]] (juvenile Or Older);
+ - 1/day: [[Spell List#Geas/quest|Geas/quest]] (old Or Older), [[Spell List#Sunburst|Sunburst]] (ancient Or Older), [[Spell List#Foresight|Foresight]] (great Wyrm);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

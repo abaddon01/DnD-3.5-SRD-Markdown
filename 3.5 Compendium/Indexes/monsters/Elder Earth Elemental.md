@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder_Earth_Elemental
+title: 3.5 Compendium / Monsters / Elder Earth Elemental
 aliases: 
  - Elder Earth Elemental
 tags: 

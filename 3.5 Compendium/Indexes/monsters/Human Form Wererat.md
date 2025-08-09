@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human_Form_Wererat
+title: 3.5 Compendium / Monsters / Human Form Wererat
 aliases: 
  - Human Form Wererat
 tags: 

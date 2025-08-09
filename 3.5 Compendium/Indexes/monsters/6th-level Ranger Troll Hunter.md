@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 6th-level_Ranger_Troll_Hunter
+title: 3.5 Compendium / Monsters / 6th-level Ranger Troll Hunter
 aliases: 
  - 6th-level Ranger Troll Hunter
 tags: 
@@ -42,8 +42,6 @@ alignment: Usually chaotic evil
 | Alignment:           |Usually chaotic evil |
 | Advancement:         | |
 | Level Adjustment:    | |
-
-## Combat
 
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Frost_Worm
+title: 3.5 Compendium / Monsters / Frost Worm
 aliases: 
  - Frost Worm
 tags: 
@@ -31,7 +31,7 @@ alignment: Usually neutral
 | Full Attack:         |Bite +21 melee (2d8+12 plus 1d8 cold); |
 | Space/Reach:         |15 ft./10 ft. |
 | Special Attacks:     |Trill, cold, breath weapon |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Death Throes, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Vulnerability To Fire; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Death Throes, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; |
 | Saves:               |Fort: +14, Ref: +9, Will: +6 |
 | Abilities:           |Str : 26,  Dex: 10,  Con: 20,  Int: 2,  Wis: 11,  Cha: 11 |
 | Skills:              |[[Skill List#Hide\|Hide]]: 3*, [[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +5; |

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium_Earth_Elemental
+title: 3.5 Compendium / Monsters / Medium Earth Elemental
 aliases: 
  - Medium Earth Elemental
 tags: 

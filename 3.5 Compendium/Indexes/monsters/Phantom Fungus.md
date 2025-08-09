@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Phantom_Fungus
+title: 3.5 Compendium / Monsters / Phantom Fungus
 aliases: 
  - Phantom Fungus
 tags: 

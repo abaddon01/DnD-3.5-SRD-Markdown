@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 8th-level_Blackguard_Frost_Giant_Jarl
+title: 3.5 Compendium / Monsters / 8th-level Blackguard Frost Giant Jarl
 aliases: 
  - 8th-level Blackguard Frost Giant Jarl
 tags: 
@@ -31,7 +31,7 @@ alignment: Always chaotic evil
 | Full Attack:         |+2 Huge frost greataxe +30/+25/+20/+15 melee (3d6+18/x3 plus 1d6 cold) or 2 slams +28 melee (1d4+11) or rock +18 ranged (2d6+11); |
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
-| Special Qualities    |Aura Of Despair, Aura Of Evil, Command Undead, Dark Blessing, Detect Good, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Poison Use, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, Rock Catching, Vulnerability To Fire; |
+| Special Qualities    |Aura Of Despair, Aura Of Evil, Command Undead, Dark Blessing, Detect Good, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Poison Use, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, Rock Catching, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; |
 | Saves:               |Fort: +25, Ref: +13, Will: +13 |
 | Abilities:           |Str : 32,  Dex: 12,  Con: 22,  Int: 10,  Wis: 12,  Cha: 18 |
 | Skills:              |[[Skill List#Climb\|Climb]]: +17, [[Skill List#Hide\|Hide]]: +2, [[Skill List#Jump\|Jump]]: +17, [[Skill List#Knowledge (religion)\|Knowledge (religion)]]: +2, [[Skill List#Ride\|Ride]]: +11, [[Skill List#Spot\|Spot]]: +5; |

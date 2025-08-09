@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Iron_Golem
+title: 3.5 Compendium / Monsters / Iron Golem
 aliases: 
  - Iron Golem
 tags: 

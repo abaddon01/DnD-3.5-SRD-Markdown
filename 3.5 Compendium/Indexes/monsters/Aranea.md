@@ -55,7 +55,7 @@ An aranea avoids physical combat and uses its webs and spells when it can. In a 
 Injury, Fortitude DC 13, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
 
 ## Spells
-An aranea casts spells as a 3rd-level sorcerer. It prefers illusions and enchantments and avoids fire spells..
+An aranea casts spells as a 3rd-level sorcerer. It prefers illusions and enchantments and avoids fire spells.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

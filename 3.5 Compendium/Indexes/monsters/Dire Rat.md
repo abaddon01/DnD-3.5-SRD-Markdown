@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Rat
+title: 3.5 Compendium / Monsters / Dire Rat
 aliases: 
  - Dire Rat
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Tiger_Form_Weretiger
+title: 3.5 Compendium / Monsters / Tiger Form Weretiger
 aliases: 
  - Tiger Form Weretiger
 tags: 

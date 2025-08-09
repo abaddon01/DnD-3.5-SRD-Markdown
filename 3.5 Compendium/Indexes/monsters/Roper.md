@@ -30,7 +30,7 @@ alignment: Usually chaotic evil
 | Full Attack:         |6 strands +11 ranged touch (drag) and bite +13 melee (2d6+6); |
 | Space/Reach:         |10 ft./10 ft. (50 ft. with strand) |
 | Special Attacks:     |Drag, strands, weakness |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Vulnerability To Fire; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; |
 | Saves:               |Fort: +10, Ref: +8, Will: +8 |
 | Abilities:           |Str : 19,  Dex: 13,  Con: 17,  Int: 12,  Wis: 16,  Cha: 12 |
 | Skills:              |[[Skill List#Climb\|Climb]]: +12, [[Skill List#Hide\|Hide]]: 10*, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Spot\|Spot]]: +13; |

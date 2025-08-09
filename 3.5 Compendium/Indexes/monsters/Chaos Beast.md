@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Chaos_Beast
+title: 3.5 Compendium / Monsters / Chaos Beast
 aliases: 
  - Chaos Beast
 tags: 

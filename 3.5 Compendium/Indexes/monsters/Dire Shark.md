@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Shark
+title: 3.5 Compendium / Monsters / Dire Shark
 aliases: 
  - Dire Shark
 tags: 

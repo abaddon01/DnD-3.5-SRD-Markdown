@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Huge_Fire_Elemental
+title: 3.5 Compendium / Monsters / Huge Fire Elemental
 aliases: 
  - Huge Fire Elemental
 tags: 
@@ -32,7 +32,7 @@ alignment: Usually neutral
 | Full Attack:         |2 slams +17 melee (2d8+4 plus 2d8 fire); |
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +9, Ref: +17, Will: +7 |
 | Abilities:           |Str : 18,  Dex: 25,  Con: 18,  Int: 6,  Wis: 11,  Cha: 11 |
 | Skills:              |[[Skill List#Listen\|Listen]]: +11, [[Skill List#Spot\|Spot]]: +12; |

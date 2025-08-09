@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater_Air_Elemental
+title: 3.5 Compendium / Monsters / Greater Air Elemental
 aliases: 
  - Greater Air Elemental
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Lion
+title: 3.5 Compendium / Monsters / Dire Lion
 aliases: 
  - Dire Lion
 tags: 

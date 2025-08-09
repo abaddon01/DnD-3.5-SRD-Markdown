@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Locust_Swarm
+title: 3.5 Compendium / Monsters / Locust Swarm
 aliases: 
  - Locust Swarm
 tags: 
@@ -30,7 +30,7 @@ alignment: Always neutral
 | Full Attack:         |Swarm (2d6); |
 | Space/Reach:         |10 ft./0 ft. |
 | Special Attacks:     |Distraction |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , Vermin Traits; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , [[Traits#vermin traits\|Vermin Traits]] ; |
 | Saves:               |Fort: +4, Ref: +6, Will: +2 |
 | Abilities:           |Str : 1,  Dex: 19,  Con: 8,  Int: -1,  Wis: 10,  Cha: 2 |
 | Skills:              |[[Skill List#Listen\|Listen]]: +4, [[Skill List#Spot\|Spot]]: +4; |

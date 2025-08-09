@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Solar_Angel
+title: 3.5 Compendium / Monsters / Solar Angel
 aliases: 
  - Solar Angel
 tags: 
@@ -59,19 +59,19 @@ A solar can assume the form of any Small or Medium humanoid.
 A solar takes normal damage from epic evil-aligned weapons, and from spells or effects with the evil descriptor.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 20th. The save DCs are Charisma-based..
- - At will: [[Spell List#Aid|Aid]] , [[Spell List#Animate Objects|Animate Objects]] , [[Spell List#Commune|Commune]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Dimensional Anchor|Dimensional Anchor]] , [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Holy Smite|Holy Smite]] (DC 21), [[Spell List#Imprisonment|Imprisonment]] (DC 26), [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Lesser Restoration|Lesser Restoration]] (DC 19), [[Spell List#Remove Curse|Remove Curse]] (DC 20), [[Spell List#Remove Disease|Remove Disease]] (DC 20), [[Spell List#Remove Fearresist Energy|Remove Fearresist Energy]] , [[Spell List#Summon Monster VII|Summon Monster VII]] , [[Spell List#Speak With Dead|Speak With Dead]] (DC 20), [[Spell List#Waves Of Fatigue|Waves Of Fatigue]] (DC 18);.
- - 3/day: [[Spell List#Blade Barrier|Blade Barrier]] (DC 23), [[Spell List#Earthquake|Earthquake]] (DC 25), [[Spell List#Heal|Heal]] (DC 23), [[Spell List#Charm Monster, Mass|Charm Monster, Mass]] (DC 25), [[Spell List#Permanency|Permanency]] , [[Spell List#Resurrection|Resurrection]] , [[Spell List#Waves Of Exhaustion|Waves Of Exhaustion]] ;.
- - 1/day: [[Spell List#Restoration, Greater|Restoration, Greater]] (DC 24), [[Spell List#Power Word Blind|Power Word Blind]] , [[Spell List#Power Word Kill|Power Word Kill]] , [[Spell List#Power Word Stun|Power Word Stun]] , [[Spell List#Prismatic Spray|Prismatic Spray]] (DC 24), [[Spell List#Wish|Wish]] ;.
- - The following abilities are always active on a solar’s person, as the spells (caster level 20th): [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Snares And Pits|Detect Snares And Pits]] , [[Spell List#Discern Lies|Discern Lies]] (DC 21), [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#True Seeing|True Seeing]] ;. They can be dispelled, but the solar can reactivate them as a free action.
+ - Caster Level: Caster level 20th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Aid|Aid]] , [[Spell List#Animate Objects|Animate Objects]] , [[Spell List#Commune|Commune]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Dimensional Anchor|Dimensional Anchor]] , [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Holy Smite|Holy Smite]] (DC 21), [[Spell List#Imprisonment|Imprisonment]] (DC 26), [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Lesser Restoration|Lesser Restoration]] (DC 19), [[Spell List#Remove Curse|Remove Curse]] (DC 20), [[Spell List#Remove Disease|Remove Disease]] (DC 20), [[Spell List#Remove Fearresist Energy|Remove Fearresist Energy]] , [[Spell List#Summon Monster VII|Summon Monster VII]] , [[Spell List#Speak With Dead|Speak With Dead]] (DC 20), [[Spell List#Waves Of Fatigue|Waves Of Fatigue]] (DC 18);
+ - 3/day: [[Spell List#Blade Barrier|Blade Barrier]] (DC 23), [[Spell List#Earthquake|Earthquake]] (DC 25), [[Spell List#Heal|Heal]] (DC 23), [[Spell List#Charm Monster, Mass|Charm Monster, Mass]] (DC 25), [[Spell List#Permanency|Permanency]] , [[Spell List#Resurrection|Resurrection]] , [[Spell List#Waves Of Exhaustion|Waves Of Exhaustion]] ;
+ - 1/day: [[Spell List#Restoration, Greater|Restoration, Greater]] (DC 24), [[Spell List#Power Word Blind|Power Word Blind]] , [[Spell List#Power Word Kill|Power Word Kill]] , [[Spell List#Power Word Stun|Power Word Stun]] , [[Spell List#Prismatic Spray|Prismatic Spray]] (DC 24), [[Spell List#Wish|Wish]] ;
+ - The following abilities are always active on a solar’s person, as the spells (caster level 20th): [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Snares And Pits|Detect Snares And Pits]] , [[Spell List#Discern Lies|Discern Lies]] (DC 21), [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#True Seeing|True Seeing]] ;. They can be dispelled, but the solar can reactivate them as a free action
 Spells
-Solars can cast divine spells as 20th-level clerics. A solar has access to two of the following domains  Air,  Destruction,  Good,  Law, or  War (plus any  others from its deity). The save DCs are Wisdom-based..
-Air.
-Destruction.
-Good.
-Law.
-War.
-others.
+Solars can cast divine spells as 20th-level clerics. A solar has access to two of the following domains  Air,  Destruction,  Good,  Law, or  War (plus any  others from its deity). The save DCs are Wisdom-based.
+Air
+Destruction
+Good
+Law
+War
+others
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

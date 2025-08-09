@@ -71,11 +71,11 @@ Against attacks made or effects created by evil creatures, this ability provides
 Ghaeles can speak with any creature that has a language, as though using a tongues spell (caster level 14th). This ability is always active.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 12th. The save DCs are Charisma-based..
- - At will: [[Spell List#Aid|Aid]] , [[Spell List#Charm Monster|Charm Monster]] (DC 17), [[Spell List#Color Spray|Color Spray]] (DC 14), [[Spell List#Comprehend Languages|Comprehend Languages]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Cure Light Wounds|Cure Light Wounds]] (DC 14), [[Spell List#Dancing Lights|Dancing Lights]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Thoughts|Detect Thoughts]] (DC 15), [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Hold Monster|Hold Monster]] (DC 18), [[Spell List#Invisibility, Greater|Invisibility, Greater]] (self Only), [[Spell List#Major Image|Major Image]] (DC 16), [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);.
- - 1/day: [[Spell List#Chain Lightning|Chain Lightning]] (DC 19), [[Spell List#Prismatic Spray|Prismatic Spray]] (DC 20), [[Spell List#Wall Of Force|Wall Of Force]] ;.
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Aid|Aid]] , [[Spell List#Charm Monster|Charm Monster]] (DC 17), [[Spell List#Color Spray|Color Spray]] (DC 14), [[Spell List#Comprehend Languages|Comprehend Languages]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Cure Light Wounds|Cure Light Wounds]] (DC 14), [[Spell List#Dancing Lights|Dancing Lights]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Thoughts|Detect Thoughts]] (DC 15), [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Hold Monster|Hold Monster]] (DC 18), [[Spell List#Invisibility, Greater|Invisibility, Greater]] (self Only), [[Spell List#Major Image|Major Image]] (DC 16), [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only);
+ - 1/day: [[Spell List#Chain Lightning|Chain Lightning]] (DC 19), [[Spell List#Prismatic Spray|Prismatic Spray]] (DC 20), [[Spell List#Wall Of Force|Wall Of Force]] ;
 Spells
-Ghaeles in humanoid form can cast divine spells as 14th-level clerics. A ghaele has access to two of the following domains Air, Animal, Chaos, Good, or Plant (plus any others from its deity). The save DCs are Wisdom-based..
+Ghaeles in humanoid form can cast divine spells as 14th-level clerics. A ghaele has access to two of the following domains Air, Animal, Chaos, Good, or Plant (plus any others from its deity). The save DCs are Wisdom-based.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

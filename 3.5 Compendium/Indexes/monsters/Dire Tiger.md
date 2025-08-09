@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Tiger
+title: 3.5 Compendium / Monsters / Dire Tiger
 aliases: 
  - Dire Tiger
 tags: 

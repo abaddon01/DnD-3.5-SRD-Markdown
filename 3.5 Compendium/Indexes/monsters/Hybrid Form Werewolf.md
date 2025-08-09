@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid_Form_Werewolf
+title: 3.5 Compendium / Monsters / Hybrid Form Werewolf
 aliases: 
  - Hybrid Form Werewolf
 tags: 

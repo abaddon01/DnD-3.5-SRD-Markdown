@@ -66,8 +66,8 @@ A kraken can emit a cloud of jet-black ink in an 80-foot spread once per minute 
 A kraken has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 9th. The save DC is Charisma-based..
- - 1/day: [[Spell List#Control Weather|Control Weather]] , [[Spell List#Control Winds|Control Winds]] , [[Spell List#Dominate Animal|Dominate Animal]] (DC 18), [[Spell List#Resist Energy|Resist Energy]] ;.
+ - Caster Level: Caster level 9th. The save DC is Charisma-based.
+ - 1/day: [[Spell List#Control Weather|Control Weather]] , [[Spell List#Control Winds|Control Winds]] , [[Spell List#Dominate Animal|Dominate Animal]] (DC 18), [[Spell List#Resist Energy|Resist Energy]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

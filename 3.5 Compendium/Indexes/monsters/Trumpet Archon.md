@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Trumpet_Archon
+title: 3.5 Compendium / Monsters / Trumpet Archon
 aliases: 
  - Trumpet Archon
 tags: 
@@ -62,14 +62,14 @@ An archon's trumpet produces music of utter clarity, piercing beauty, and, if th
 If a trumpet is ever stolen, it becomes a chunk of useless metal until the owner can recover it. Woe betide any thief caught with one.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 12th..
- - At will: [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Message|Message]] ;.
+ - Caster Level: Caster level 12th.
+ - At will: [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Message|Message]] ;
 Spells
-Trumpet archons can cast divine spells as 14th-level clerics. A trumpet archon has access to two of the following domains  Air,  Destruction,  Good,  Law, or War (plus any others from its deity). The save DCs are Wisdom-based..
-Air.
-Destruction.
-Good.
-Law.
+Trumpet archons can cast divine spells as 14th-level clerics. A trumpet archon has access to two of the following domains  Air,  Destruction,  Good,  Law, or War (plus any others from its deity). The save DCs are Wisdom-based.
+Air
+Destruction
+Good
+Law
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

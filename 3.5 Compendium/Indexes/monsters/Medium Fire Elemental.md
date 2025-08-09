@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium_Fire_Elemental
+title: 3.5 Compendium / Monsters / Medium Fire Elemental
 aliases: 
  - Medium Fire Elemental
 tags: 
@@ -32,7 +32,7 @@ alignment: Usually neutral
 | Full Attack:         |Slam +6 melee (1d6+1 plus 1d6 fire); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +3, Ref: +7, Will: +1 |
 | Abilities:           |Str : 12,  Dex: 17,  Con: 14,  Int: 4,  Wis: 11,  Cha: 11 |
 | Skills:              |[[Skill List#Listen\|Listen]]: +3, [[Skill List#Spot\|Spot]]: +4; |

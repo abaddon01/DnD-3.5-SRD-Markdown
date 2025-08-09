@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Yeth_Hound
+title: 3.5 Compendium / Monsters / Yeth Hound
 aliases: 
  - Yeth Hound
 tags: 

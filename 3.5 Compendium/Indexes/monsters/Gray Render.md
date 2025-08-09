@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gray_Render
+title: 3.5 Compendium / Monsters / Gray Render
 aliases: 
  - Gray Render
 tags: 

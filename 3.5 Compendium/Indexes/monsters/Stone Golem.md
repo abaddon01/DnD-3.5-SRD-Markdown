@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Stone_Golem
+title: 3.5 Compendium / Monsters / Stone Golem
 aliases: 
  - Stone Golem
 tags: 
@@ -40,8 +40,6 @@ alignment: Always neutral
 | Alignment:           |Always neutral |
 | Advancement:         | |
 | Level Adjustment:    | |
-
-## Combat
 
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 

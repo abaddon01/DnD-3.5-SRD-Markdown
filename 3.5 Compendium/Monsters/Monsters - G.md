@@ -188,7 +188,7 @@ Some djinn (1% of the total population) are noble. A noble djinni can grant thre
 | Full Attack: | 2 slams +15 melee (1d8+6 plus 1d6 fire) | 
 | Space/Reach: | 10 ft./ 10 ft. | 
 | Special Attacks: | *Change size*, heat, spell-like abilities | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, *plane Shift*, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, *plane Shift*, [[Special Abilities#telepathy\|Telepathy]]  100 Ft., [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; | 
 | Saves: | Fort +9, Ref +10, Will +9 | 
 | Abilities: | Str 23, Dex 17, Con 14, Int 12, Wis 15, Cha 15 | 
 | Skills: | [[Skill List#Bluff\|Bluff]] +15, [[Skill List#Craft\|Craft]] (any One) +14, [[Skill List#Concentration\|Concentration]] +15, [[Skill List#Diplomacy\|Diplomacy]] +6, [[Skill List#Disguise\|Disguise]] +2 (+4 Acting), [[Skill List#Intimidate\|Intimidate]] +17, [[Skill List#Listen\|Listen]] +15, [[Skill List#Move Silently\|Move Silently]] +16, [[Skill List#Sense Motive\|Sense Motive]] +15, [[Skill List#Spellcraft\|Spellcraft]] +14, [[Skill List#Spot\|Spot]] +15; | 
@@ -615,7 +615,7 @@ Good-aligned clerics have access to two of the following domains: Good, Healing,
 | Full Attack: | Greatsword +20/+15/+10 melee (3d6+15) or 2 slams +20 melee (1d4+10) or rock +10 ranged (2d6+10 plus 2d6 fire) | 
 | Space/Reach: | 10 ft./10 ft. | 
 | Special Attacks: | Rock throwing | 
-| Special Qualities | Immunity To Fire, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Cold; | 
+| Special Qualities | Immunity To Fire, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; | 
 | Saves: | Fort +14, Ref +4, Will +9 | 
 | Abilities: | Str 31, Dex 9, Con 21, Int 10, Wis 14, Cha 11 | 
 | Skills: | [[Skill List#Climb\|Climb]] +9, [[Skill List#Craft\|Craft]] (any One) +6, [[Skill List#Intimidate\|Intimidate]] +6, [[Skill List#Jump\|Jump]] +9, [[Skill List#Spot\|Spot]] +14; | 
@@ -657,7 +657,7 @@ Most groups of fire giants include clerics. A fire giant cleric has access to tw
 |**Full Attack:**|Huge greataxe +18/+13 melee (3d6+13/x3) or 2 slams +18 melee (1d4+9) or rock +9 ranged (2d6+9)||+2 Huge frost greataxe +30/+25/+20/+15 melee (3d6+18/�3 plus 1d6 cold) or 2 slams +28 melee (1d4+11) or rock +18 ranged (2d6+11)|
 |**Space/Reach:**|10 ft./10 ft.||10 ft./10 ft.|
 |**Special Attacks:**|Rock throwing||Rock throwing, smite good, sneak attack +2d6|
-| Special Qualities: | Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Fire; | | Aura Of Despair, Aura Of Evil, Command Undead, Dark Blessing, Detect Good, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Poison Use, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, Rock Catching, Vulnerability To Fire; | 
+| Special Qualities: | Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; | | Aura Of Despair, Aura Of Evil, Command Undead, Dark Blessing, Detect Good, Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Poison Use, [[Special Abilities#Resistance To Energy\|Resistance]] To Fire 10, Rock Catching, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; | 
 |**Saves:**|Fort +14, Ref +3, Will +6||Fort +25, Ref +13, Will +13|
 |**Abilities:**|Str 29, Dex 9, Con 21, Int 10, Wis 14, Cha 11||Str 32, Dex 12, Con 22, Int 10, Wis 12, Cha 18|
 | Skills: | [[Skill List#Climb\|Climb]] +13, [[Skill List#Craft\|Craft]] (any One) +6, [[Skill List#Intimidate\|Intimidate]] +6, [[Skill List#Jump\|Jump]] +17, [[Skill List#Spot\|Spot]] +12; | | [[Skill List#Climb\|Climb]] +17, [[Skill List#Hide\|Hide]] +2, [[Skill List#Jump\|Jump]] +17, [[Skill List#Knowledge\|Knowledge]] (religion) +2, [[Skill List#Ride\|Ride]] +11, [[Skill List#Spot\|Spot]] +5; | 

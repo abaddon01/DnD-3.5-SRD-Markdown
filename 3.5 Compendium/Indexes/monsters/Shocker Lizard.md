@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Shocker_Lizard
+title: 3.5 Compendium / Monsters / Shocker Lizard
 aliases: 
  - Shocker Lizard
 tags: 

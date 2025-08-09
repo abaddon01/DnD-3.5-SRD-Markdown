@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Bat
+title: 3.5 Compendium / Monsters / Dire Bat
 aliases: 
  - Dire Bat
 tags: 

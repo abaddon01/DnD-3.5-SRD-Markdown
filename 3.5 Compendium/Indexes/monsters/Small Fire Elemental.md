@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small_Fire_Elemental
+title: 3.5 Compendium / Monsters / Small Fire Elemental
 aliases: 
  - Small Fire Elemental
 tags: 
@@ -32,7 +32,7 @@ alignment: Usually neutral
 | Full Attack:         |Slam +3 melee (1d4 plus 1d4 fire); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: 0, Ref: +4, Will: 0 |
 | Abilities:           |Str : 10,  Dex: 13,  Con: 10,  Int: 4,  Wis: 11,  Cha: 11 |
 | Skills:              |[[Skill List#Listen\|Listen]]: +2, [[Skill List#Spot\|Spot]]: +3; |

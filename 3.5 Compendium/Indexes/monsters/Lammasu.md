@@ -62,16 +62,16 @@ Attack bonus +12 melee, damage 1d6+3.
 Lammasus have a +2 racial bonus on Spot checks.
 
 ## Spells
-A lammasu casts spells as a 7th-level cleric, and can choose spells from the  cleric spell list, plus any two of the following domains  Good,  Healing,  Knowledge, or  Law..
-cleric spell list.
-Good.
-Healing.
-Knowledge.
-Law.
+A lammasu casts spells as a 7th-level cleric, and can choose spells from the  cleric spell list, plus any two of the following domains  Good,  Healing,  Knowledge, or  Law.
+cleric spell list
+Good
+Healing
+Knowledge
+Law
 Spell-Like Abilities
- - Caster Level: Caster level 7th..
- - 2/day: [[Spell List#Invisibility, Greater|Invisibility, Greater]] (self Only);.
- - 1/day: [[Spell List#Dimension Door|Dimension Door]] ;.
+ - Caster Level: Caster level 7th.
+ - 2/day: [[Spell List#Invisibility, Greater|Invisibility, Greater]] (self Only);
+ - 1/day: [[Spell List#Dimension Door|Dimension Door]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

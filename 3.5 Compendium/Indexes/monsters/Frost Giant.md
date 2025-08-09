@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Frost_Giant
+title: 3.5 Compendium / Monsters / Frost Giant
 aliases: 
  - Frost Giant
 tags: 
@@ -30,7 +30,7 @@ alignment: Often chaotic evil
 | Full Attack:         |Huge greataxe +18/+13 melee (3d6+13/x3) or 2 slams +18 melee (1d4+9) or rock +9 ranged (2d6+9); |
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
-| Special Qualities    |Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Fire; |
+| Special Qualities    |Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; |
 | Saves:               |Fort: +14, Ref: +3, Will: +6 |
 | Abilities:           |Str : 29,  Dex: 9,  Con: 21,  Int: 10,  Wis: 14,  Cha: 11 |
 | Skills:              |[[Skill List#Climb\|Climb]]: +13, [[Skill List#Craft (any one)\|Craft (any one)]]: +6, [[Skill List#Intimidate\|Intimidate]]: +6, [[Skill List#Jump\|Jump]]: +17, [[Skill List#Spot\|Spot]]: +12; |

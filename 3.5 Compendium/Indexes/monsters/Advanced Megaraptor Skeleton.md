@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Advanced_Megaraptor_Skeleton
+title: 3.5 Compendium / Monsters / Advanced Megaraptor Skeleton
 aliases: 
  - Advanced Megaraptor Skeleton
 tags: 
@@ -42,8 +42,6 @@ alignment: 13-16 HD (Huge); 17-20 HD (Gargantuan)
 | Alignment:           |13-16 HD (Huge); 17-20 HD (Gargantuan) |
 | Advancement:         | |
 | Level Adjustment:    | |
-
-## Combat
 
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 

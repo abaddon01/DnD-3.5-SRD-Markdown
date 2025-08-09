@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Rat_Swarm
+title: 3.5 Compendium / Monsters / Rat Swarm
 aliases: 
  - Rat Swarm
 tags: 

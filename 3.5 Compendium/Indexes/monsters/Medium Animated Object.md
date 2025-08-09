@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium_Animated_Object
+title: 3.5 Compendium / Monsters / Medium Animated Object
 aliases: 
  - Medium Animated Object
 tags: 

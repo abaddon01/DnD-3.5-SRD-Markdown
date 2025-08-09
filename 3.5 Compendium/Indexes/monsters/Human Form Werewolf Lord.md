@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human_Form_Werewolf_Lord
+title: 3.5 Compendium / Monsters / Human Form Werewolf Lord
 aliases: 
  - Human Form Werewolf Lord
 tags: 

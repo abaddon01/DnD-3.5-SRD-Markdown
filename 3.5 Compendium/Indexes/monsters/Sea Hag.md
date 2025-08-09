@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Sea_Hag
+title: 3.5 Compendium / Monsters / Sea Hag
 aliases: 
  - Sea Hag
 tags: 
@@ -67,9 +67,9 @@ Hags in a covey rely on deception and their boosted magical abilities in combat.
 A covey of hags is 80% likely to be guarded by 1d8 ogres and 1d4 evil giants who do their bidding. These minions are often disguised with a veil spell to appear less threatening and sent forth as spies. Such minions often (60%) carry magic stones known as hag eyes (see below).
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 9th. The save DCs are based on a Charisma score of 16. To use one of these abilities (which requires a full-round action), all three hags must be within 10 feet of one another, and all must participate..
- - 3/day: [[Spell List#Animate Dead|Animate Dead]] , [[Spell List#Bestow Curse|Bestow Curse]] (DC 17), [[Spell List#Control Weather|Control Weather]] , [[Spell List#Dream|Dream]] , [[Spell List#Forcecage|Forcecage]] , [[Spell List#Mind Blank|Mind Blank]] , [[Spell List#Mirage Arcana|Mirage Arcana]] (DC 18), [[Spell List#Veil|Veil]] (DC 19), [[Spell List#Vision|Vision]] ;.
- - Other: Once per month, a covey that does not have a hag eye can create one from a gem worth at least 20 gp (see below)..
+ - Caster Level: Caster level 9th. The save DCs are based on a Charisma score of 16. To use one of these abilities (which requires a full-round action), all three hags must be within 10 feet of one another, and all must participate.
+ - 3/day: [[Spell List#Animate Dead|Animate Dead]] , [[Spell List#Bestow Curse|Bestow Curse]] (DC 17), [[Spell List#Control Weather|Control Weather]] , [[Spell List#Dream|Dream]] , [[Spell List#Forcecage|Forcecage]] , [[Spell List#Mind Blank|Mind Blank]] , [[Spell List#Mirage Arcana|Mirage Arcana]] (DC 18), [[Spell List#Veil|Veil]] (DC 19), [[Spell List#Vision|Vision]] ;
+ - Other: Once per month, a covey that does not have a hag eye can create one from a gem worth at least 20 gp (see below).
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

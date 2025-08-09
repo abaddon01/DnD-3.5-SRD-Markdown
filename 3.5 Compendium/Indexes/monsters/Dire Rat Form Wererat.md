@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Rat_Form_Wererat
+title: 3.5 Compendium / Monsters / Dire Rat Form Wererat
 aliases: 
  - Dire Rat Form Wererat
 tags: 

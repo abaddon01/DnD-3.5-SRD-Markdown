@@ -64,10 +64,10 @@ A nightwalker can summon undead creatures once per night
 *When hiding in a dark area, a nightwalker gains a +8 racial bonus on Hide checks.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 21st. The save DCs are Charisma-based..
- - At will: [[Spell List#Contagion|Contagion]] (DC 18), [[Spell List#Deeper Darkness|Deeper Darkness]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Haste|Haste]] , [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#And Unholy Blight|And Unholy Blight]] (DC 18);.
- - 3/day: [[Spell List#Confusion|Confusion]] (DC 18), [[Spell List#Hold Monster|Hold Monster]] (DC 19), [[Spell List#Invisibility|Invisibility]] ;.
- - 1/day: [[Spell List#Cone Of Cold|Cone Of Cold]] (DC 19), [[Spell List#Finger Of Death|Finger Of Death]] (DC 21), [[Spell List#Plane Shift|Plane Shift]] (DC 21);.
+ - Caster Level: Caster level 21st. The save DCs are Charisma-based.
+ - At will: [[Spell List#Contagion|Contagion]] (DC 18), [[Spell List#Deeper Darkness|Deeper Darkness]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Haste|Haste]] , [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#And Unholy Blight|And Unholy Blight]] (DC 18);
+ - 3/day: [[Spell List#Confusion|Confusion]] (DC 18), [[Spell List#Hold Monster|Hold Monster]] (DC 19), [[Spell List#Invisibility|Invisibility]] ;
+ - 1/day: [[Spell List#Cone Of Cold|Cone Of Cold]] (DC 19), [[Spell List#Finger Of Death|Finger Of Death]] (DC 21), [[Spell List#Plane Shift|Plane Shift]] (DC 21);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

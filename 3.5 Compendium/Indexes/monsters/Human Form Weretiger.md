@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human_Form_Weretiger
+title: 3.5 Compendium / Monsters / Human Form Weretiger
 aliases: 
  - Human Form Weretiger
 tags: 

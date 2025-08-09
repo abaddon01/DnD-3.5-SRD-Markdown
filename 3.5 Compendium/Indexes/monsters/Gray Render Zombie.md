@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gray_Render_Zombie
+title: 3.5 Compendium / Monsters / Gray Render Zombie
 aliases: 
  - Gray Render Zombie
 tags: 
@@ -42,8 +42,6 @@ alignment: Always neutral evil
 | Alignment:           |Always neutral evil |
 | Advancement:         | |
 | Level Adjustment:    | |
-
-## Combat
 
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 

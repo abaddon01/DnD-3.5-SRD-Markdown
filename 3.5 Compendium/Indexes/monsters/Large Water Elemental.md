@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Large_Water_Elemental
+title: 3.5 Compendium / Monsters / Large Water Elemental
 aliases: 
  - Large Water Elemental
 tags: 

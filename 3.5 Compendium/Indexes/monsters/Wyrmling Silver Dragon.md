@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling_Silver_Dragon
+title: 3.5 Compendium / Monsters / Wyrmling Silver Dragon
 aliases: 
  - Wyrmling Silver Dragon
 tags: 
@@ -28,7 +28,7 @@ alignment:
 | Full Attack:         |Bite  +7 (1d6), 2 Claws +5/+5 (1d6/1d6); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
-| Special Qualities    |Alternate Form, Immunity To Acid And Cold, Cloudwalking, Vulnerability To Fire; |
+| Special Qualities    |Alternate Form, Immunity To Acid And Cold, Cloudwalking, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; |
 | Saves:               |Fort: +6, Ref: +5, Will: +7 |
 | Abilities:           |Str: 13, Dex: 10, Con: 13, Int: 14, Wis: 15, Cha: 14 |
 | Skills:              |; |
@@ -58,9 +58,9 @@ Bluff, Disguise, and Jump are considered class skills for silver dragons.
 A silver dragon has two types of breath weapon, a cone of cold and a cone of paralyzing gas. Creatures within a cone of paralyzing gas must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon. Cone: 20 ft. Damage: 2d8 (DC 14). 
 
 ## Spell-Like Abilities
- - 3/day: [[Spell List#Fog Cloud|Fog Cloud]] (adult Or Older), [[Spell List#Control Winds|Control Winds]] (old Or Older);.
- - 2/day: [[Spell List#Feather Fall|Feather Fall]] (juvenile Or Older);.
- - 1/day: [[Spell List#Control Weather|Control Weather]] (ancient Or Older), [[Spell List#Reverse Gravity|Reverse Gravity]] (great Wyrm);.
+ - 3/day: [[Spell List#Fog Cloud|Fog Cloud]] (adult Or Older), [[Spell List#Control Winds|Control Winds]] (old Or Older);
+ - 2/day: [[Spell List#Feather Fall|Feather Fall]] (juvenile Or Older);
+ - 1/day: [[Spell List#Control Weather|Control Weather]] (ancient Or Older), [[Spell List#Reverse Gravity|Reverse Gravity]] (great Wyrm);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

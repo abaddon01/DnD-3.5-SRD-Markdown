@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Phase_Spider
+title: 3.5 Compendium / Monsters / Phase Spider
 aliases: 
  - Phase Spider
 tags: 
@@ -43,7 +43,7 @@ alignment: Always neutral
 | Advancement:         |6-8 HD (Large); 9-15 HD (Huge) |
 | Level Adjustment:    |-- |
 
-Special Qualitiy: Darkvision 60 ft., ethereal jaunt, low-light vision
+**Special Qualitiy:** Darkvision 60 ft., ethereal jaunt, low-light vision
 Phase spiders are aggressive predators that can move quickly from the Ethereal Plane to attack opponents on the Material Plane.
 A typical phase spider’s body is 8 feet long. It weighs about 700 pounds.
 Phase spiders cannot speak.

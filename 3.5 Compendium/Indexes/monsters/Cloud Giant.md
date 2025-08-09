@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Cloud_Giant
+title: 3.5 Compendium / Monsters / Cloud Giant
 aliases: 
  - Cloud Giant
 tags: 
@@ -44,7 +44,7 @@ alignment: Usually neutral good or neutral evil
 | Level Adjustment:    |-- |
 
 Cloud giants’ skin ranges in color from milky white to light sky blue. Their hair is silvery white or brass, and their eyes are iridescent blue. Adult males are about 18 feet tall and weigh about 5,000 pounds. Females are slightly shorter and lighter. Cloud giants can live to be 400 years old.
-Cloud giants dress in the finest clothing available and wear jewelry. To many, appearance indicates station: The better the clothes and the finer the jewelry, the more important the wearer. They also appreciate music, and most can play one or more instruments (the harp is a favorite).
+**Cloud giants dress in the finest clothing available and wear jewelry. To many, appearance indicates station:** The better the clothes and the finer the jewelry, the more important the wearer. They also appreciate music, and most can play one or more instruments (the harp is a favorite).
 ## Combat
 
 Cloud giants fight in well-organized units, using carefully developed battle plans. They prefer to fight from a position above their opponents. A favorite tactic is to circle the enemies, barraging them with rocks while the giants with magical abilities confound them with spells.
@@ -56,9 +56,9 @@ The range increment is 140 feet for a cloud giant's thrown rocks.
 A cloud giant wields a great, two-handed morningstar (big enough for Gargantuan creatures) without penalty.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 15th..
- - 3/day: [[Spell List#Levitate|Levitate]] (self Plus 2, [[Spell List#000 Pounds)|000 Pounds)]] , [[Spell List#Obscuring Mist|Obscuring Mist]] ;.
- - 1/day: [[Spell List#Fog Cloud|Fog Cloud]] ;.
+ - Caster Level: Caster level 15th.
+ - 3/day: [[Spell List#Levitate|Levitate]] (self Plus 2, [[Spell List#000 Pounds)|000 Pounds)]] , [[Spell List#Obscuring Mist|Obscuring Mist]] ;
+ - 1/day: [[Spell List#Fog Cloud|Fog Cloud]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

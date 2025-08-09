@@ -54,12 +54,12 @@ In close combat, which a rakshasa disdains as ignoble, it employs its sharp claw
 A rakshasa can continuously use detect thoughts as the spell (caster level 18th; Will DC 15 negates). It can suppress or resume this ability as a free action. The save DC is Charisma-based.
 
 ## Spells
-A rakshasa casts spells as a 7th-level sorcerer..
-Typical Sorcerer Spells Known (6/7/7/5; save DC 13 + spell level).
- - 0: [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Light|Light]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Message|Message]] , [[Spell List#Read Magic|Read Magic]] , [[Spell List#Resistance|Resistance]] , [[Spell List#Touch Of Fatigue|Touch Of Fatigue]] ;.
- - 1st: [[Spell List#Charm Person|Charm Person]] , [[Spell List#Mage Armor|Mage Armor]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Shield|Shield]] , [[Spell List#Silent Image|Silent Image]] ;.
- - 2nd: [[Spell List#Bear's Endurance|Bear's Endurance]] , [[Spell List#Invisibility|Invisibility]] , [[Spell List#Acid Arrow|Acid Arrow]] ;.
- - 3rd: [[Spell List#Haste|Haste]] , [[Spell List#Suggestion|Suggestion]] ;.
+A rakshasa casts spells as a 7th-level sorcerer.
+Typical Sorcerer Spells Known (6/7/7/5; save DC 13 + spell level)
+ - 0: [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Light|Light]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Message|Message]] , [[Spell List#Read Magic|Read Magic]] , [[Spell List#Resistance|Resistance]] , [[Spell List#Touch Of Fatigue|Touch Of Fatigue]] ;
+ - 1st: [[Spell List#Charm Person|Charm Person]] , [[Spell List#Mage Armor|Mage Armor]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Shield|Shield]] , [[Spell List#Silent Image|Silent Image]] ;
+ - 2nd: [[Spell List#Bear's Endurance|Bear's Endurance]] , [[Spell List#Invisibility|Invisibility]] , [[Spell List#Acid Arrow|Acid Arrow]] ;
+ - 3rd: [[Spell List#Haste|Haste]] , [[Spell List#Suggestion|Suggestion]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

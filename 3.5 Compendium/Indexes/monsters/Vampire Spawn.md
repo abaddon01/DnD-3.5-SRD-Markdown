@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Vampire_Spawn
+title: 3.5 Compendium / Monsters / Vampire Spawn
 aliases: 
  - Vampire Spawn
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium_Air_Elemental
+title: 3.5 Compendium / Monsters / Medium Air Elemental
 aliases: 
  - Medium Air Elemental
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ethereal_Marauder
+title: 3.5 Compendium / Monsters / Ethereal Marauder
 aliases: 
  - Ethereal Marauder
 tags: 

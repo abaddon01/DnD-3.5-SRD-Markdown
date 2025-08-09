@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ethereal_Filcher
+title: 3.5 Compendium / Monsters / Ethereal Filcher
 aliases: 
  - Ethereal Filcher
 tags: 

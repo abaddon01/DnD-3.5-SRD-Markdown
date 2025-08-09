@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Spirit_Naga
+title: 3.5 Compendium / Monsters / Spirit Naga
 aliases: 
  - Spirit Naga
 tags: 
@@ -53,16 +53,16 @@ As charm person, 30 feet, Will DC 19 negates. The save DC is Charisma-based.
 Injury, Fortitude DC 18, initial and secondary damage 1d8 Con. The save DC is Constitution-based.
 
 ## Spells
-Spirit nagas cast spells as 7th-level  sorcerers, and can also cast spells from the  cleric spell list and from the  Chaos and  Evil domains as arcane spells. The cleric spells and domain spells are considered arcane spells for a spirit naga, meaning that the creature does not need a divine focus to cast them..
-sorcerers.
-cleric spell list.
-Chaos.
-Evil.
-Typical Spells Known (6/7/7/5; save DC 13 + spell level).
- - 0: [[Spell List#Cure Minor Wounds|Cure Minor Wounds]] , [[Spell List#Daze|Daze]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Open/close|Open/close]] , [[Spell List#Ray Of Frost|Ray Of Frost]] , [[Spell List#Read Magic|Read Magic]] ;.
- - 1st: [[Spell List#Charm Person|Charm Person]] , [[Spell List#Cure Light Wounds|Cure Light Wounds]] , [[Spell List#Divine Favor|Divine Favor]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Shield Of Faith|Shield Of Faith]] ;.
- - 2nd: [[Spell List#Cat's Grace|Cat's Grace]] , [[Spell List#Invisibility|Invisibility]] , [[Spell List#Summon Swarm|Summon Swarm]] ;.
- - 3rd: [[Spell List#Displacement|Displacement]] , [[Spell List#Fireball|Fireball]] ;.
+Spirit nagas cast spells as 7th-level  sorcerers, and can also cast spells from the  cleric spell list and from the  Chaos and  Evil domains as arcane spells. The cleric spells and domain spells are considered arcane spells for a spirit naga, meaning that the creature does not need a divine focus to cast them.
+sorcerers
+cleric spell list
+Chaos
+Evil
+Typical Spells Known (6/7/7/5; save DC 13 + spell level)
+ - 0: [[Spell List#Cure Minor Wounds|Cure Minor Wounds]] , [[Spell List#Daze|Daze]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Open/close|Open/close]] , [[Spell List#Ray Of Frost|Ray Of Frost]] , [[Spell List#Read Magic|Read Magic]] ;
+ - 1st: [[Spell List#Charm Person|Charm Person]] , [[Spell List#Cure Light Wounds|Cure Light Wounds]] , [[Spell List#Divine Favor|Divine Favor]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Shield Of Faith|Shield Of Faith]] ;
+ - 2nd: [[Spell List#Cat's Grace|Cat's Grace]] , [[Spell List#Invisibility|Invisibility]] , [[Spell List#Summon Swarm|Summon Swarm]] ;
+ - 3rd: [[Spell List#Displacement|Displacement]] , [[Spell List#Fireball|Fireball]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

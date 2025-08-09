@@ -50,8 +50,8 @@ A unicorn has deep sea-blue, violet, brown, or fiery gold eyes. Males sport a wh
 A typical adult unicorn grows to 8 feet in length, stands 5 feet high at the shoulder, and weighs 1,200 pounds. Females are slightly smaller and slimmer than males.
 Unicorns speak Sylvan and Common.
 Unicorns normally attack only when defending themselves or their forests. They either charge, impaling foes with their horns like lances, or strike with their hooves. The horn is a +3 magic weapon, though its power fades if removed from the unicorn.
-Magic Circle against Evil (Su): This ability continuously duplicates the effect of the spell. A unicorn cannot suppress this ability.
-Spell-Like Abilities: Unicorns can use detect evil at will as a free action. Once per day a unicorn can use greater teleport to move anywhere within its home. It cannot teleport beyond the forest boundaries nor back from outside.
+**Magic Circle against Evil (Su):** This ability continuously duplicates the effect of the spell. A unicorn cannot suppress this ability.
+**Spell-Like Abilities:** Unicorns can use detect evil at will as a free action. Once per day a unicorn can use greater teleport to move anywhere within its home. It cannot teleport beyond the forest boundaries nor back from outside.
 ## Combat
 
 Unicorns normally attack only when defending themselves or their forests. They either charge, impaling foes with their horns like lances, or strike with their hooves. The horn is a +3 magic weapon, though its power fades if removed from the unicorn.

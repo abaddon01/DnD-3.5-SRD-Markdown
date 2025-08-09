@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Violet_Fungus
+title: 3.5 Compendium / Monsters / Violet Fungus
 aliases: 
  - Violet Fungus
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 1st-level_Warrior_Duergar
+title: 3.5 Compendium / Monsters / 1st-level Warrior Duergar
 aliases: 
  - 1st-level Warrior Duergar
 tags: 

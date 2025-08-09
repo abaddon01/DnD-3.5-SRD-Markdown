@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Human_Form_Wereboar
+title: 3.5 Compendium / Monsters / Human Form Wereboar
 aliases: 
  - Human Form Wereboar
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Formian_Worker
+title: 3.5 Compendium / Monsters / Formian Worker
 aliases: 
  - Formian Worker
 tags: 

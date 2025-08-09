@@ -63,8 +63,8 @@ Once per day an erinyes can attempt to summon 2d10 lemures or 1d4 bearded devils
 Erinyes continuously use true seeing, as the spell (caster level 14th).
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 12th. The save DCs are Charisma-based..
- - At will: [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Charm Monster|Charm Monster]] (DC 19), [[Spell List#Minor Image|Minor Image]] (DC 17), [[Spell List#Unholy Blight|Unholy Blight]] (DC 19);.
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Charm Monster|Charm Monster]] (DC 19), [[Spell List#Minor Image|Minor Image]] (DC 17), [[Spell List#Unholy Blight|Unholy Blight]] (DC 19);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

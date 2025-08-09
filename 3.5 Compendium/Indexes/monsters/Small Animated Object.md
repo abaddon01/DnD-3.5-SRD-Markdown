@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small_Animated_Object
+title: 3.5 Compendium / Monsters / Small Animated Object
 aliases: 
  - Small Animated Object
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid_Form_Werewolf_Lord
+title: 3.5 Compendium / Monsters / Hybrid Form Werewolf Lord
 aliases: 
  - Hybrid Form Werewolf Lord
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Chain_Devil_(kyton)
+title: 3.5 Compendium / Monsters / Chain Devil (kyton)
 aliases: 
  - Chain Devil (kyton)
 tags: 

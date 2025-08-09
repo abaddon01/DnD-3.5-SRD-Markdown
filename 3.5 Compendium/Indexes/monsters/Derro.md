@@ -66,9 +66,9 @@ A derro takes 1 point of Constitution damage for every hour it is exposed to sun
 Derro have a +4 racial bonus on Hide and Move Silently checks.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 3rd. The save DCs are Charisma-based..
- - At will: [[Spell List#Darkness|Darkness]] , [[Spell List#Ghost Sound|Ghost Sound]] ;.
- - 1/day: [[Spell List#Daze|Daze]] (DC 13), [[Spell List#Sound Burst|Sound Burst]] (DC 15);.
+ - Caster Level: Caster level 3rd. The save DCs are Charisma-based.
+ - At will: [[Spell List#Darkness|Darkness]] , [[Spell List#Ghost Sound|Ghost Sound]] ;
+ - 1/day: [[Spell List#Daze|Daze]] (DC 13), [[Spell List#Sound Burst|Sound Burst]] (DC 15);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

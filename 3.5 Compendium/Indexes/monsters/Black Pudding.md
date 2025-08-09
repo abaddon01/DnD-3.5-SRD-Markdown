@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Black_Pudding
+title: 3.5 Compendium / Monsters / Black Pudding
 aliases: 
  - Black Pudding
 tags: 

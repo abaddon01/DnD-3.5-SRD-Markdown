@@ -42,8 +42,6 @@ alignment: Always neutral
 | Level Adjustment:    |-- |
 
 This creature is a larger version of the deinonychus, standing about 12 feet tall with a total length of 24 feet. It has the same appearance, habits, and abilities of the smaller version.
-## Combat
-
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

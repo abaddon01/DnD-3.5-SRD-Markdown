@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Fire_Giant
+title: 3.5 Compendium / Monsters / Fire Giant
 aliases: 
  - Fire Giant
 tags: 
@@ -30,7 +30,7 @@ alignment: Often lawful evil
 | Full Attack:         |Greatsword +20/+15/+10 melee (3d6+15) or 2 slams +20 melee (1d4+10) or rock +10 ranged (2d6+10 plus 2d6 fire); |
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     |Rock throwing |
-| Special Qualities    |Immunity To Fire, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, Vulnerability To Cold; |
+| Special Qualities    |Immunity To Fire, [[Special Abilities#low-light vision\|Low-light Vision]] , Rock Catching, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +14, Ref: +4, Will: +9 |
 | Abilities:           |Str : 31,  Dex: 9,  Con: 21,  Int: 10,  Wis: 14,  Cha: 11 |
 | Skills:              |[[Skill List#Climb\|Climb]]: +9, [[Skill List#Craft\|Craft]]: (any one) 6, [[Skill List#Intimidate\|Intimidate]]: +6, [[Skill List#Jump\|Jump]]: +9, [[Skill List#Spot\|Spot]]: +14; |

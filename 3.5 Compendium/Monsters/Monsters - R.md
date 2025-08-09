@@ -126,7 +126,7 @@ Undercommon.
 | Full Attack: | 4 claws +6 melee (1d4+2) or bite +6 melee (1d8+3) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Paralyzing gaze, improved grab, blood drain | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire, Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; | 
 | Saves: | Fort +5, Ref +5, Will +5 | 
 | Abilities: | Str 14, Dex 12, Con 13, Int 3, Wis 13, Cha 12 | 
 | Skills: | [[Skill List#Hide\|Hide]] +8, [[Skill List#Listen\|Listen]] +8, [[Skill List#Move Silently\|Move Silently]] +8, [[Skill List#Spot\|Spot]] +8; | 
@@ -299,7 +299,7 @@ Rocs have a +4 racial bonus on Spot checks.
 | Full Attack: | 6 strands +11 ranged touch (drag) and bite +13 melee (2d6+6) | 
 | Space/Reach: | 10 ft./10 ft. (50 ft. with strand) | 
 | Special Attacks: | Drag, strands, weakness | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, Vulnerability To Fire; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#Resistance To Energy\|Resistance]] To Cold 10, [[Special Abilities#spell resistance\|Spell Resistance]]  30, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; | 
 | Saves: | Fort +10, Ref +8, Will +8 | 
 | Abilities: | Str 19, Dex 13, Con 17, Int 12, Wis 16, Cha 12 | 
 | Skills: | [[Skill List#Climb\|Climb]] +12, [[Skill List#Hide\|Hide]] +10\*, [[Skill List#Listen\|Listen]] +13, [[Skill List#Spot\|Spot]] +13; | 

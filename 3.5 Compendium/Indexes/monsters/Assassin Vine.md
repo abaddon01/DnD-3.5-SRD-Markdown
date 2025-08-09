@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Assassin_Vine
+title: 3.5 Compendium / Monsters / Assassin Vine
 aliases: 
  - Assassin Vine
 tags: 

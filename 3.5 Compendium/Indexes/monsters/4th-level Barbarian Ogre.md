@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 4th-level_Barbarian_Ogre
+title: 3.5 Compendium / Monsters / 4th-level Barbarian Ogre
 aliases: 
  - 4th-level Barbarian Ogre
 tags: 

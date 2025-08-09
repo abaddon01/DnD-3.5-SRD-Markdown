@@ -52,8 +52,8 @@ Pegasi cannot speak, but they understand Common.
 Pegasi have a +4 racial bonus on Listen and Spot checks.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 5th..
- - At will: [[Spell List#Detect Good And Detect Evil Within A 60|Detect Good And Detect Evil Within A 60]] ;.foot radius.
+ - Caster Level: Caster level 5th.
+ - At will: [[Spell List#Detect Good And Detect Evil Within A 60|Detect Good And Detect Evil Within A 60]] ;.foot radius
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid_Form_Wererat
+title: 3.5 Compendium / Monsters / Hybrid Form Wererat
 aliases: 
  - Hybrid Form Wererat
 tags: 

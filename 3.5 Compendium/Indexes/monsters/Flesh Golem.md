@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Flesh_Golem
+title: 3.5 Compendium / Monsters / Flesh Golem
 aliases: 
  - Flesh Golem
 tags: 

@@ -1030,7 +1030,7 @@ An avoral's sharp eyes give it a +8 racial bonus on Spot checks.
 | Full Attack: | Warhammer +3 melee (1d8+1/x3 plus 1 fire) or shortspear +3 ranged (1d6+1 plus 1 fire) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Heat | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#spell resistance\|Spell Resistance]]  13, Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#spell resistance\|Spell Resistance]]  13, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; | 
 | Saves: | Fort +4, Ref +4, Will +4 | 
 | Abilities: | Str 13, Dex 13, Con 13, Int 12, Wis 12, Cha 9 | 
 | Skills: | [[Skill List#Appraise\|Appraise]] +6, [[Skill List#Climb\|Climb]] +0, [[Skill List#Craft\|Craft]] (any Two) +6, [[Skill List#Hide\|Hide]] +0, [[Skill List#Jump\|Jump]] --6, [[Skill List#Listen\|Listen]] +6, [[Skill List#Search\|Search]] +6, [[Skill List#Spot\|Spot]] +6; | 

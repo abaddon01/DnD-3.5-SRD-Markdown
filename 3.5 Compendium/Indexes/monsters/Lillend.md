@@ -63,12 +63,12 @@ To use this ability, a lillend must hit with its tail slap attack. It can then a
 Lillends have a +4 racial bonus on Survival checks.
 
 ## Spells
-A lillend casts arcane spells as a 6th-level bard..
+A lillend casts arcane spells as a 6th-level bard.
 Spell-Like Abilities
- - Caster Level: Caster level 10th. The save DCs are Charisma-based..
- - 3/day: [[Spell List#Darkness|Darkness]] , [[Spell List#Hallucinatory Terrain|Hallucinatory Terrain]] (DC 18), [[Spell List#Knock|Knock]] , [[Spell List#Light|Light]] ;.
- - 1/day: [[Spell List#Charm Person|Charm Person]] (DC 15), [[Spell List#Speak With Animals|Speak With Animals]] , [[Spell List#Speak With Plants|Speak With Plants]] ;.
- - A lillend also has the bardic music ability as a 6th: [[Spell List#Level Bard|Level Bard]] ;.
+ - Caster Level: Caster level 10th. The save DCs are Charisma-based.
+ - 3/day: [[Spell List#Darkness|Darkness]] , [[Spell List#Hallucinatory Terrain|Hallucinatory Terrain]] (DC 18), [[Spell List#Knock|Knock]] , [[Spell List#Light|Light]] ;
+ - 1/day: [[Spell List#Charm Person|Charm Person]] (DC 15), [[Spell List#Speak With Animals|Speak With Animals]] , [[Spell List#Speak With Plants|Speak With Plants]] ;
+ - A lillend also has the bardic music ability as a 6th: [[Spell List#Level Bard|Level Bard]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

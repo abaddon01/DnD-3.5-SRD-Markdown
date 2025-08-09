@@ -60,8 +60,8 @@ Once per day a dretch can attempt to summon another dretch with a 35% chance of 
 Dretches can communicate telepathically with creatures within 100 feet that speak Abyssal.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 2nd. The save DCs are Charisma-based..
- - 1/day: [[Spell List#Scare|Scare]] (DC 12), [[Spell List#Stinking Cloud|Stinking Cloud]] (DC 13);.
+ - Caster Level: Caster level 2nd. The save DCs are Charisma-based.
+ - 1/day: [[Spell List#Scare|Scare]] (DC 12), [[Spell List#Stinking Cloud|Stinking Cloud]] (DC 13);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -99,7 +99,7 @@ If a community of aquatic elves is located within 100 miles of a sahuagin commun
 |**Full Attack:**|Spear +6 melee (1d6+1/x3 plus 1d6 fire) and tail slap +4 melee (1d4 plus 1d6 fire)||Spear +11/+6 melee (1d8+3/x3 plus 1d6 fire) and tail slap +9 melee (2d6+1 plus 1d6 fire)||+3 longspear +23/+18/+13 melee (1d8+9/x3 plus 1d8 fire) and tail slap +18 melee (2d8+3 plus 1d8 fire)|
 |**Space/Reach:**|5 ft./5 ft.||5 ft./5 ft. (10 ft. with tail)||10 ft./10 ft. (20 ft. with tail or longspear)|
 |**Special Attacks:**|Constrict 1d4 plus 1d6 fire, heat, improved grab||Constrict 2d6+1 plus 1d6 fire, heat, improved grab||Constrict 2d8+3 plus 1d8 fire, heat, improved grab, spell-like abilities|
-| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Vulnerability To Cold; | | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Vulnerability To Cold; | | [[Special Abilities#damage reduction\|Damage Reduction]]  15/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Vulnerability To Cold; | 
+| Special Qualities: | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; | | [[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; | | [[Special Abilities#damage reduction\|Damage Reduction]]  15/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; | 
 |**Saves:**|Fort +6, Ref +5, Will +6||Fort +8, Ref +7, Will +8||Fort +12, Ref +10, Will +11|
 |**Abilities:**|Str 12, Dex 13, Con 14, Int 14, Wis 15, Cha 13||Str 14, Dex 13, Con 14, Int 14, Wis 15, Cha 13||Str 22, Dex 13, Con 16, Int 16, Wis 15, Cha 15|
 | Skills: | [[Skill List#Craft\|Craft]] (blacksmithing) +8, [[Skill List#Hide\|Hide]] +12, [[Skill List#Listen\|Listen]] +11, [[Skill List#Move Silently\|Move Silently]] +6, [[Skill List#Spot\|Spot]] +11; | | [[Skill List#Bluff\|Bluff]] +11, [[Skill List#Craft\|Craft]] (blacksmithing) +19, [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Disguise\|Disguise]] +1 (+3 Acting), [[Skill List#Hide\|Hide]] +11, [[Skill List#Intimidate\|Intimidate]] +3, [[Skill List#Listen\|Listen]] +8, [[Skill List#Move Silently\|Move Silently]] +11, [[Skill List#Search\|Search]] +12, [[Skill List#Spot\|Spot]] +8; | | [[Skill List#Bluff\|Bluff]] +19, [[Skill List#Craft\|Craft]] (blacksmithing) +25, [[Skill List#Diplomacy\|Diplomacy]] +4, [[Skill List#Hide\|Hide]] +15, [[Skill List#Intimidate\|Intimidate]] +4, [[Skill List#Listen\|Listen]] +13, [[Skill List#Move Silently\|Move Silently]] +17, [[Skill List#Spot\|Spot]] +13; | 
@@ -1340,7 +1340,7 @@ A bat swarm has a +4 racial bonus on Listen and Spot checks. These bonuses are l
 | Full Attack: | Swarm (2d6 plus poison) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, poison | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., [[Traits#vermin traits\|Vermin Traits]] ; | 
 | Saves: | Fort +5, Ref +7, Will +3 | 
 | Abilities: | Str 1, Dex 19, Con 8, Int ---, Wis 10, Cha 2 | 
 | Skills: | [[Skill List#Climb\|Climb]] +12, [[Skill List#Spot\|Spot]] +4; | 
@@ -1433,7 +1433,7 @@ Any hellwasp swarm with at least 1 hit point per Hit Die (or 12 hit points, for 
 | Full Attack: | Swarm (2d6) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , Vermin Traits; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , [[Traits#vermin traits\|Vermin Traits]] ; | 
 | Saves: | Fort +4, Ref +6, Will +2 | 
 | Abilities: | Str 1, Dex 19, Con 8, Int ---, Wis 10, Cha 2 | 
 | Skills: | [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 
@@ -1512,7 +1512,7 @@ A rat swarm has a +4 racial bonus on Hide and Move Silently checks, and a +8 rac
 | Full Attack: | Swarm (1d6 plus poison) | 
 | Space/Reach: | 10 ft./0 ft. | 
 | Special Attacks: | Distraction, poison | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., [[Traits#vermin traits\|Vermin Traits]] ; | 
 | Saves: | Fort +3, Ref +3, Will +0 | 
 | Abilities: | Str 1, Dex 17, Con 10, Int ---, Wis 10, Cha 2 | 
 | Skills: | [[Skill List#Climb\|Climb]] +11, [[Skill List#Listen\|Listen]] +4, [[Skill List#Spot\|Spot]] +4; | 

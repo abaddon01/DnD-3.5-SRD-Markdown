@@ -113,7 +113,7 @@ A startled or frightened will-o'-wisp can extinguish its glow, effectively becom
 | Full Attack: | Bite +9 melee (1d8+6 plus 1d6 cold) | 
 | Space/Reach: | 10 ft./5 ft. | 
 | Special Attacks: | Breath weapon, freezing bite, trip | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , Vulnerability To Fire; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Cold, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] , [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; | 
 | Saves: | Fort +8, Ref +6, Will +3 | 
 | Abilities: | Str 18, Dex 13, Con 16, Int 9, Wis 13, Cha 10 | 
 | Skills: | [[Skill List#Hide\|Hide]] -1\*, [[Skill List#Listen\|Listen]] +6, [[Skill List#Move Silently\|Move Silently]] +7, [[Skill List#Spot\|Spot]] +6, [[Skill List#Survival\|Survival]] +1\*; | 

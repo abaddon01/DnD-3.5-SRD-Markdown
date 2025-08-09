@@ -55,9 +55,9 @@ Each dryad is mystically bound to a single, enormous oak tree and must never str
 This power works like the druid's wild empathy class feature, except that the dryad has a +6 racial bonus on the check.
 
 ## Spell-Like Abilities
- - At will: [[Spell List#Entangle|Entangle]] (DC 13), [[Spell List#Speak With Plants|Speak With Plants]] , [[Spell List#Tree Shape|Tree Shape]] ;.
- - 3/day: [[Spell List#Charm Person|Charm Person]] (DC 13), [[Spell List#Deep Slumber|Deep Slumber]] (DC 15), [[Spell List#Tree Stride|Tree Stride]] ;.
- - 1/day: [[Spell List#Suggestion|Suggestion]] (DC 15);. C.
+ - At will: [[Spell List#Entangle|Entangle]] (DC 13), [[Spell List#Speak With Plants|Speak With Plants]] , [[Spell List#Tree Shape|Tree Shape]] ;
+ - 3/day: [[Spell List#Charm Person|Charm Person]] (DC 13), [[Spell List#Deep Slumber|Deep Slumber]] (DC 15), [[Spell List#Tree Stride|Tree Stride]] ;
+ - 1/day: [[Spell List#Suggestion|Suggestion]] (DC 15);. C
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

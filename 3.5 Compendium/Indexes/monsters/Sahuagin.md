@@ -45,7 +45,7 @@ alignment: Usually lawful evil
 | Level Adjustment:    |+2 (+3 if four-armed) |
 
 Most sahuagin feature green coloration, darker along the back and lighter on the belly. Many have dark stripes, bands, or spots, but these tend to fade with age. An adult male sahuagin stands roughly 6 feet tall and weighs about 200 pounds.
-Sahuagin are the natural enemy of aquatic elves. The two cannot coexist peacefully: Wars between them are prolonged, bloody affairs that sometimes interfere with shipping and maritime trade. Sahuagin have an only slightly less vehement hatred for tritons.
+**Sahuagin are the natural enemy of aquatic elves. The two cannot coexist peacefully:** Wars between them are prolonged, bloody affairs that sometimes interfere with shipping and maritime trade. Sahuagin have an only slightly less vehement hatred for tritons.
 Sahuagin speak their own language, Sahuagin. Thanks to their high Intelligence scores, most sahuagin also speak two bonus languages, usually Common and Aquan.
 ## Combat
 

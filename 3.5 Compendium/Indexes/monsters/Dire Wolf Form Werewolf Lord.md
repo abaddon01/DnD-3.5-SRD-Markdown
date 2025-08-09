@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Wolf_Form_Werewolf_Lord
+title: 3.5 Compendium / Monsters / Dire Wolf Form Werewolf Lord
 aliases: 
  - Dire Wolf Form Werewolf Lord
 tags: 

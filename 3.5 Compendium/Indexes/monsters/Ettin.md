@@ -43,7 +43,7 @@ alignment: Usually chaotic evil
 
 Ettins, or two-headed giants, are vicious and unpredictable hunters that stalk the night.
 An ettin never bathes if it can help it, which usually leaves it so grimy and dirty its skin resembles thick, gray hide. Adult ettins are about 13 feet tall and weigh 5,200 pounds. They live about 75 years.
-Ettins have no language of their own but speak a pidgin of Orc, Goblin, and Giant. Creatures that can speak any of these languages must succeed on a DC 15 Intelligence check to communicate with an ettin. Check once for each bit of information: If the other creature speaks two of these languages, the DC is 10, and for someone who speaks all three, the DC is 5.
+**Ettins have no language of their own but speak a pidgin of Orc, Goblin, and Giant. Creatures that can speak any of these languages must succeed on a DC 15 Intelligence check to communicate with an ettin. Check once for each bit of information:** If the other creature speaks two of these languages, the DC is 10, and for someone who speaks all three, the DC is 5.
 ## Combat
 
 Though ettins aren't very intelligent, they are cunning fighters. They prefer to ambush their victims rather than charge into a straight fight, but once the battle has started, an ettin usually fights furiously until all enemies are dead.

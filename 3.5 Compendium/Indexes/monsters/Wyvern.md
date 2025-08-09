@@ -28,7 +28,7 @@ alignment: Usually neutral
 | Full Attack:         |Sting +10 melee (1d6+4 plus poison) and bite +8 melee (2d8+4) and 2 wings +8 melee (1d8+2) and 2 talons +8 melee (2d6+4); |
 | Space/Reach:         |10 ft./5 ft. |
 | Special Attacks:     |Poison, improved grab |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#paralysis\|Immunity To Sleep And Paralysis]] , [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Sleep And Paralysis, [[Special Abilities#low-light vision\|Low-light Vision]] , [[Special Abilities#scent\|Scent]] ; |
 | Saves:               |Fort: +7, Ref: +6, Will: +6 |
 | Abilities:           |Str : 19,  Dex: 12,  Con: 15,  Int: 6,  Wis: 12,  Cha: 9 |
 | Skills:              |[[Skill List#Hide\|Hide]]: +7, [[Skill List#Listen\|Listen]]: +13, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Spot\|Spot]]: +16; |

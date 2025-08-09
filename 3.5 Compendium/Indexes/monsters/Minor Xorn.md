@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Minor_Xorn
+title: 3.5 Compendium / Monsters / Minor Xorn
 aliases: 
  - Minor Xorn
 tags: 

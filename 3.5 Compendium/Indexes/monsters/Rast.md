@@ -31,7 +31,7 @@ alignment: Usually neutral
 | Full Attack:         |4 claws +6 melee (1d4+2) or bite +6 melee (1d8+3); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Paralyzing gaze, improved grab, blood drain |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Flight, Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +5, Ref: +5, Will: +5 |
 | Abilities:           |Str : 14,  Dex: 12,  Con: 13,  Int: 3,  Wis: 13,  Cha: 12 |
 | Skills:              |[[Skill List#Hide\|Hide]]: +8, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Move Silently\|Move Silently]]: +8, [[Skill List#Spot\|Spot]]: +8; |

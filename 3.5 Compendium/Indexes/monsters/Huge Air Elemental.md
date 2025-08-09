@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Huge_Air_Elemental
+title: 3.5 Compendium / Monsters / Huge Air Elemental
 aliases: 
  - Huge Air Elemental
 tags: 

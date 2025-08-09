@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater_Fire_Elemental
+title: 3.5 Compendium / Monsters / Greater Fire Elemental
 aliases: 
  - Greater Fire Elemental
 tags: 
@@ -32,7 +32,7 @@ alignment: Usually neutral
 | Full Attack:         |2 slams +22 melee (2d8+5 plus 2d8 fire); |
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +11, Ref: +20, Will: +9 |
 | Abilities:           |Str : 20,  Dex: 27,  Con: 18,  Int: 6,  Wis: 11,  Cha: 11 |
 | Skills:              |[[Skill List#Listen\|Listen]]: +14, [[Skill List#Spot\|Spot]]: +14; |

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wolf_Form_Werewolf
+title: 3.5 Compendium / Monsters / Wolf Form Werewolf
 aliases: 
  - Wolf Form Werewolf
 tags: 

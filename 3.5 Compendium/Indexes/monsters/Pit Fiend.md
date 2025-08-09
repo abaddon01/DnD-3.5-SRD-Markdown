@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Pit_Fiend
+title: 3.5 Compendium / Monsters / Pit Fiend
 aliases: 
  - Pit Fiend
 tags: 
@@ -77,10 +77,10 @@ Twice per day a pit fiend can automatically summon 2 lemures, bone devils, or be
 A pit fiend takes normal damage from good-aligned silvered weapons, and from spells or effects with the good descriptor.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 18th. The save DCs are Charisma-based..
- - At will: [[Spell List#Blasphemy|Blasphemy]] (DC 25), [[Spell List#Create Undead|Create Undead]] , [[Spell List#Fireball|Fireball]] (DC 21), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Invisibility|Invisibility]] , [[Spell List#Magic Circle Against Good|Magic Circle Against Good]] , [[Spell List#Hold Monster, Mass|Hold Monster, Mass]] (DC 27), [[Spell List#Persistent Image|Persistent Image]] (DC 23), [[Spell List#Power Word Stun|Power Word Stun]] , [[Spell List#Unholy Aura|Unholy Aura]] (DC 26);.
- - 1/day: [[Spell List#Meteor Swarm|Meteor Swarm]] (DC 27);.
- - Other: Once per year a pit fiend can use wish as the spell (caster level 20th)..
+ - Caster Level: Caster level 18th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Blasphemy|Blasphemy]] (DC 25), [[Spell List#Create Undead|Create Undead]] , [[Spell List#Fireball|Fireball]] (DC 21), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Invisibility|Invisibility]] , [[Spell List#Magic Circle Against Good|Magic Circle Against Good]] , [[Spell List#Hold Monster, Mass|Hold Monster, Mass]] (DC 27), [[Spell List#Persistent Image|Persistent Image]] (DC 23), [[Spell List#Power Word Stun|Power Word Stun]] , [[Spell List#Unholy Aura|Unholy Aura]] (DC 26);
+ - 1/day: [[Spell List#Meteor Swarm|Meteor Swarm]] (DC 27);
+ - Other: Once per year a pit fiend can use wish as the spell (caster level 20th).
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

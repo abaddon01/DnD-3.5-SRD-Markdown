@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling_Brass_Dragon
+title: 3.5 Compendium / Monsters / Wyrmling Brass Dragon
 aliases: 
  - Wyrmling Brass Dragon
 tags: 
@@ -28,7 +28,7 @@ alignment:
 | Full Attack:         |Bite  +4 (1d4), 2 Claws +2/+2 (1d4/1d4); |
 | Space/Reach:         |2-1/2 ft./0 ft. (5 ft. with bite) |
 | Special Attacks:     | |
-| Special Qualities    |Immunity To Fire, Speak With Animals, Vulnerability To Cold; |
+| Special Qualities    |Immunity To Fire, Speak With Animals, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +5, Ref: +4, Will: +4 |
 | Abilities:           |Str: 11, Dex: 10, Con: 13, Int: 10, Wis: 11, Cha: 10 |
 | Skills:              |; |
@@ -55,9 +55,9 @@ Bluff, Gather Information, and Survival are considered class skills for brass dr
 A brass dragon has two types of breath weapon, a line of fire and a cone of sleep. Creatures within the cone must succeed on a Will save or fall asleep, regardless of HD, for 1d6 rounds plus 1 round per age category of the dragon. Line: 30 ft. Damage: 1d6 (DC 13). 
 
 ## Spell-Like Abilities
- - At will: [[Spell List#Speak With Animals|Speak With Animals]] ;.
- - 3/day: [[Spell List#Endure Elements|Endure Elements]] (juvenile Or Older;; radius 10 ft. x dragon's age category).
- - 1/day: [[Spell List#Suggestion|Suggestion]] (adult Or Older), [[Spell List#Control Winds|Control Winds]] (old Or Older), [[Spell List#Control Weather|Control Weather]] (ancient Or Older);.
+ - At will: [[Spell List#Speak With Animals|Speak With Animals]] ;
+ - 3/day: [[Spell List#Endure Elements|Endure Elements]] (juvenile Or Older;; radius 10 ft. x dragon's age category)
+ - 1/day: [[Spell List#Suggestion|Suggestion]] (adult Or Older), [[Spell List#Control Winds|Control Winds]] (old Or Older), [[Spell List#Control Weather|Control Weather]] (ancient Or Older);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

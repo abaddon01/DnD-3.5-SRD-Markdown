@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Eleven-headed_Hydra
+title: 3.5 Compendium / Monsters / Eleven-headed Hydra
 aliases: 
  - Eleven-headed Hydra
 tags: 

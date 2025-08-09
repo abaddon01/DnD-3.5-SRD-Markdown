@@ -30,7 +30,7 @@ alignment: Always chaotic evil
 | Full Attack:         |Slam +6 melee (1d8+1); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Death gaze |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Fire 10, [[Traits#undead traits\|Undead Traits]] , Vulnerability To Sunlight; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/cold Iron, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Electricity, [[Special Abilities#Resistance To Energy\|Resistance]] To Acid 10 And Fire 10, [[Traits#undead traits\|Undead Traits]] , [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Sunlight; |
 | Saves:               |Fort: +3, Ref: +5, Will: +7 |
 | Abilities:           |Str : 13,  Dex: 15,  Con: -1,  Int: 6,  Wis: 12,  Cha: 12 |
 | Skills:              |[[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +10, [[Skill List#Spot\|Spot]]: +11; |

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Sea_Cat
+title: 3.5 Compendium / Monsters / Sea Cat
 aliases: 
  - Sea Cat
 tags: 

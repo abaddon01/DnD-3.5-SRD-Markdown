@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gray_Ooze
+title: 3.5 Compendium / Monsters / Gray Ooze
 aliases: 
  - Gray Ooze
 tags: 

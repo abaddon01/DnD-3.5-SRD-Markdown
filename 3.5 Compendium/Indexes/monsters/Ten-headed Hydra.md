@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ten-headed_Hydra
+title: 3.5 Compendium / Monsters / Ten-headed Hydra
 aliases: 
  - Ten-headed Hydra
 tags: 

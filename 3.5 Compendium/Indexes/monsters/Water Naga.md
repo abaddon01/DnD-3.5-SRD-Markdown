@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Water_Naga
+title: 3.5 Compendium / Monsters / Water Naga
 aliases: 
  - Water Naga
 tags: 
@@ -52,12 +52,12 @@ Water nagas prefer to stay mostly concealed in a body of water while they launch
 Injury, Fortitude DC 17, initial and secondary damage 1d8 Con. The save DC is Constitution-based.
 
 ## Spells
-Water nagas cast spells as 7th-level sorcerers but never use fire spells..
-Typical Sorcerer Spells Known (6/7/7/4; save DC 12 + spell level).
- - 0: [[Spell List#Acid Splash|Acid Splash]] , [[Spell List#Daze|Daze]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Light|Light]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Open/close|Open/close]] , [[Spell List#Read Magic|Read Magic]] ;.
- - 1st: [[Spell List#Expeditious Retreat|Expeditious Retreat]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Obscuring Mist|Obscuring Mist]] , [[Spell List#Shield|Shield]] , [[Spell List#True Strike|True Strike]] ;.
- - 2nd: [[Spell List#Invisibility|Invisibility]] , [[Spell List#Acid Arrow|Acid Arrow]] , [[Spell List#Mirror Image|Mirror Image]] ;.
- - 3rd: [[Spell List#Protection From Energy|Protection From Energy]] , [[Spell List#Suggestion|Suggestion]] ;.
+Water nagas cast spells as 7th-level sorcerers but never use fire spells.
+Typical Sorcerer Spells Known (6/7/7/4; save DC 12 + spell level)
+ - 0: [[Spell List#Acid Splash|Acid Splash]] , [[Spell List#Daze|Daze]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Light|Light]] , [[Spell List#Mage Hand|Mage Hand]] , [[Spell List#Open/close|Open/close]] , [[Spell List#Read Magic|Read Magic]] ;
+ - 1st: [[Spell List#Expeditious Retreat|Expeditious Retreat]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Obscuring Mist|Obscuring Mist]] , [[Spell List#Shield|Shield]] , [[Spell List#True Strike|True Strike]] ;
+ - 2nd: [[Spell List#Invisibility|Invisibility]] , [[Spell List#Acid Arrow|Acid Arrow]] , [[Spell List#Mirror Image|Mirror Image]] ;
+ - 3rd: [[Spell List#Protection From Energy|Protection From Energy]] , [[Spell List#Suggestion|Suggestion]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

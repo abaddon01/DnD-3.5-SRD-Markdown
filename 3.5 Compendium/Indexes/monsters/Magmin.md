@@ -31,7 +31,7 @@ alignment: Always chaotic neutral
 | Full Attack:         |Burning touch +4 melee touch (1d8 fire plus combustion) or slam +4 melee (1d3+3 plus combustion); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Combustion, fiery aura |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Melt Weapons, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Melt Weapons, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +3, Ref: +3, Will: 0 |
 | Abilities:           |Str : 15,  Dex: 11,  Con: 13,  Int: 8,  Wis: 10,  Cha: 10 |
 | Skills:              |[[Skill List#Climb\|Climb]]: +4, [[Skill List#Spot\|Spot]]: +3; |

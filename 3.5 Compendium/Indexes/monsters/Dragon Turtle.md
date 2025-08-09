@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dragon_Turtle
+title: 3.5 Compendium / Monsters / Dragon Turtle
 aliases: 
  - Dragon Turtle
 tags: 

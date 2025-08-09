@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Bat_Swarm
+title: 3.5 Compendium / Monsters / Bat Swarm
 aliases: 
  - Bat Swarm
 tags: 

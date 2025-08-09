@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small_Earth_Elemental
+title: 3.5 Compendium / Monsters / Small Earth Elemental
 aliases: 
  - Small Earth Elemental
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Salt_Mephit
+title: 3.5 Compendium / Monsters / Salt Mephit
 aliases: 
  - Salt Mephit
 tags: 
@@ -56,9 +56,9 @@ Salt mephits speak Common and Terran.
 A salt mephit heals only if in an arid environment.
 
 ## Spell-Like Abilities
- - Other: Once per hour a salt mephit can use glitterdust (DC 14, caster level 3rd)..
- - Once per day it can draw the moisture from an area in a 20: [[Spell List#Foot Radius Centered On Itself|Foot Radius Centered On Itself]] ;. Living creatures within range take 2d8 points of damage (Fortitude DC 14 half.
- - caster level 6th): [[Spell List#This Effect Is Especially Devastating To Plant Creatures And Aquatic Creatures|This Effect Is Especially Devastating To Plant Creatures And Aquatic Creatures]] , [[Spell List#Which Take A -2 Penalty On Their Saving Throws|Which Take A -2 Penalty On Their Saving Throws]] ;. This ability is the equivalent of a 2nd.
+ - Other: Once per hour a salt mephit can use glitterdust (DC 14, caster level 3rd).
+ - Once per day it can draw the moisture from an area in a 20: [[Spell List#Foot Radius Centered On Itself|Foot Radius Centered On Itself]] ;. Living creatures within range take 2d8 points of damage (Fortitude DC 14 half
+ - caster level 6th): [[Spell List#This Effect Is Especially Devastating To Plant Creatures And Aquatic Creatures|This Effect Is Especially Devastating To Plant Creatures And Aquatic Creatures]] , [[Spell List#Which Take A -2 Penalty On Their Saving Throws|Which Take A -2 Penalty On Their Saving Throws]] ;. This ability is the equivalent of a 2nd
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

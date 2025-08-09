@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Formian_Taskmaster
+title: 3.5 Compendium / Monsters / Formian Taskmaster
 aliases: 
  - Formian Taskmaster
 tags: 

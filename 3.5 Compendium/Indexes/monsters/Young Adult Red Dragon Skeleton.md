@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young_Adult_Red_Dragon_Skeleton
+title: 3.5 Compendium / Monsters / Young Adult Red Dragon Skeleton
 aliases: 
  - Young Adult Red Dragon Skeleton
 tags: 
@@ -43,8 +43,6 @@ alignment: 20 HD (Huge)
 | Alignment:           |20 HD (Huge) |
 | Advancement:         | |
 | Level Adjustment:    | |
-
-## Combat
 
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 

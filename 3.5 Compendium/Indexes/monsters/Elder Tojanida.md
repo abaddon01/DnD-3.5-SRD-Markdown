@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder_Tojanida
+title: 3.5 Compendium / Monsters / Elder Tojanida
 aliases: 
  - Elder Tojanida
 tags: 

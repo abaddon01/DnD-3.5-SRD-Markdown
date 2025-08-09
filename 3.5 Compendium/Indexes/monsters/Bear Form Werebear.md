@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Bear_Form_Werebear
+title: 3.5 Compendium / Monsters / Bear Form Werebear
 aliases: 
  - Bear Form Werebear
 tags: 

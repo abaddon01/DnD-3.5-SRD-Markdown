@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid_Form_Weretiger
+title: 3.5 Compendium / Monsters / Hybrid Form Weretiger
 aliases: 
  - Hybrid Form Weretiger
 tags: 

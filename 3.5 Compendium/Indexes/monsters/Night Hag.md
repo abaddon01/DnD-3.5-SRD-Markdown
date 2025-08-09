@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Night_Hag
+title: 3.5 Compendium / Monsters / Night Hag
 aliases: 
  - Night Hag
 tags: 
@@ -64,9 +64,9 @@ Demon fever - bite, Fortitude DC 18, incubation period 1 day, damage 1d6 Con. Ea
 Night hags can visit the dreams of chaotic or evil individuals by using a special periapt known as a heartstone to become ethereal, then hovering over the creature. Once a hag invades someone's dreams, it rides on the victim's back until dawn. The sleeper suffers from tormenting dreams and takes 1 point of Constitution drain upon awakening. Only another ethereal being can stop these nocturnal intrusions, by confronting and defeating the night hag.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 8th. . The save DCs are Charisma-based..
- - At will: [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Law|Detect Law]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Ray Of Enfeeblement|Ray Of Enfeeblement]] (DC 12), [[Spell List#Sleep|Sleep]] (DC 12);.
- - Other: A night hag can use etherealness at will (caster level 16th) so long as it possesses its heartstone (see below).
+ - Caster Level: Caster level 8th. . The save DCs are Charisma-based.
+ - At will: [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Law|Detect Law]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#Ray Of Enfeeblement|Ray Of Enfeeblement]] (DC 12), [[Spell List#Sleep|Sleep]] (DC 12);
+ - Other: A night hag can use etherealness at will (caster level 16th) so long as it possesses its heartstone (see below)
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

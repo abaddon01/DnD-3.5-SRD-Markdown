@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Flamebrother_Salamander
+title: 3.5 Compendium / Monsters / Flamebrother Salamander
 aliases: 
  - Flamebrother Salamander
 tags: 
@@ -32,7 +32,7 @@ alignment: Usually evil (any)
 | Full Attack:         |Spear +6 melee (1d6+1/x3 plus 1d6 fire) and tail slap +4 melee (1d4 plus 1d6 fire); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +6, Ref: +5, Will: +6 |
 | Abilities:           |Str : 12,  Dex: 13,  Con: 14,  Int: 14,  Wis: 15,  Cha: 13 |
 | Skills:              |[[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: +8, [[Skill List#Hide\|Hide]]: +12, [[Skill List#Listen\|Listen]]: +11, [[Skill List#Move Silently\|Move Silently]]: +6, [[Skill List#Spot\|Spot]]: +11; |

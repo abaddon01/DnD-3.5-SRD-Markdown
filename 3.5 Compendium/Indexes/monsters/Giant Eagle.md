@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Giant_Eagle
+title: 3.5 Compendium / Monsters / Giant Eagle
 aliases: 
  - Giant Eagle
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling_Black_Dragon
+title: 3.5 Compendium / Monsters / Wyrmling Black Dragon
 aliases: 
  - Wyrmling Black Dragon
 tags: 
@@ -64,8 +64,8 @@ Hide, Move Silently, and Swim are considered class skills for black dragons.
 A black dragon has one type of breath weapon, a line of acid. Line: 30 ft. Damage: 2d4 (DC 13). 
 
 ## Spell-Like Abilities
- - Other  3/day: [[Spell List#Darkness|Darkness]] (juvenile Or Older;; radius 10 feet per age category), insect plague (ancient or older).
- - 1/day: [[Spell List#Plant Growth|Plant Growth]] (old Or Older);.
+ - Other  3/day: [[Spell List#Darkness|Darkness]] (juvenile Or Older;; radius 10 feet per age category), insect plague (ancient or older)
+ - 1/day: [[Spell List#Plant Growth|Plant Growth]] (old Or Older);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

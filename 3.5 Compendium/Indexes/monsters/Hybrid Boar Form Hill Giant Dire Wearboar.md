@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid_Boar_Form_Hill_Giant_Dire_Wearboar
+title: 3.5 Compendium / Monsters / Hybrid Boar Form Hill Giant Dire Wearboar
 aliases: 
  - Hybrid Boar Form Hill Giant Dire Wearboar
 tags: 

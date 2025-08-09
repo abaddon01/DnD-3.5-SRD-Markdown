@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Average_Xorn
+title: 3.5 Compendium / Monsters / Average Xorn
 aliases: 
  - Average Xorn
 tags: 

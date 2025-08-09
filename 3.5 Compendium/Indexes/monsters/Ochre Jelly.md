@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Ochre_Jelly
+title: 3.5 Compendium / Monsters / Ochre Jelly
 aliases: 
  - Ochre Jelly
 tags: 

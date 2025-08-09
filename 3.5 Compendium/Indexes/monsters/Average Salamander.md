@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Average_Salamander
+title: 3.5 Compendium / Monsters / Average Salamander
 aliases: 
  - Average Salamander
 tags: 
@@ -32,7 +32,7 @@ alignment: Usually evil (any)
 | Full Attack:         |Spear +11/+6 melee (1d8+3/x3 plus 1d6 fire) and tail slap +9 melee (2d6+1 plus 1d6 fire); |
 | Space/Reach:         |5 ft./5 ft. (10 ft. with tail) |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +8, Ref: +7, Will: +8 |
 | Abilities:           |Str : 14,  Dex: 13,  Con: 14,  Int: 14,  Wis: 15,  Cha: 13 |
 | Skills:              |[[Skill List#Bluff\|Bluff]]: +11, [[Skill List#Craft (blacksmithing)\|Craft (blacksmithing)]]: +19, [[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Disguise\|Disguise]]: 1 (+3 acting), [[Skill List#Hide\|Hide]]: +11, [[Skill List#Intimidate\|Intimidate]]: +3, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Move Silently\|Move Silently]]: +11, [[Skill List#Search\|Search]]: +12, [[Skill List#Spot\|Spot]]: +8; |

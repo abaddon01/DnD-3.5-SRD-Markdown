@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Shadow_Mastiff
+title: 3.5 Compendium / Monsters / Shadow Mastiff
 aliases: 
  - Shadow Mastiff
 tags: 

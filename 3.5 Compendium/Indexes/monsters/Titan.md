@@ -57,16 +57,16 @@ A titan can assume the form of any Small or Medium humanoid. The titan retains i
 A titan wields a great, two-handed warhammer (big enough for Gargantuan creatures) without penalty.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 20th. The save DCs are Charisma-based..
- - At will: [[Spell List#Chain Lightning|Chain Lightning]] (DC 23), [[Spell List#Charm Monster|Charm Monster]] (DC 21), [[Spell List#Cure Critical Wounds|Cure Critical Wounds]] (DC 21), [[Spell List#Fire Storm|Fire Storm]] (DC 24), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Hold Monster|Hold Monster]] (DC 22), [[Spell List#Invisibility|Invisibility]] , [[Spell List#Invisibility Purge|Invisibility Purge]] , [[Spell List#Levitate|Levitate]] , [[Spell List#Persistent Image|Persistent Image]] (DC 22);.
- - 3/day: [[Spell List#Etherealness|Etherealness]] , [[Spell List#Word Of Chaos|Word Of Chaos]] (DC 22), [[Spell List#Summon Nature's Ally IX|Summon Nature's Ally IX]] ;.
- - 1/day: [[Spell List#Gate|Gate]] , [[Spell List#Maze|Maze]] , [[Spell List#Meteor Swarm|Meteor Swarm]] (DC 26);.
- - In addition, titans of good or neutral alignment can use the following additional spell: [[Spell List#Like Abilities|Like Abilities]] ;. C.
- - At will: [[Spell List#Daylight|Daylight]] , [[Spell List#Holy Smite|Holy Smite]] (DC 21), [[Spell List#Remove Curse|Remove Curse]] (DC 21);.
- - 1/day: [[Spell List#Restoration, Greater|Restoration, Greater]] ;.
- - Titans of evil alignment can use the following additional spell: [[Spell List#Like Abilities|Like Abilities]] ;. C.
- - At will: [[Spell List#Bestow Curse|Bestow Curse]] (DC 21), [[Spell List#Deeper Darkness|Deeper Darkness]] , [[Spell List#Unholy Blight|Unholy Blight]] (DC 21);.
- - 1/day: [[Spell List#Crushing Hand|Crushing Hand]] (DC 26);.
+ - Caster Level: Caster level 20th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Chain Lightning|Chain Lightning]] (DC 23), [[Spell List#Charm Monster|Charm Monster]] (DC 21), [[Spell List#Cure Critical Wounds|Cure Critical Wounds]] (DC 21), [[Spell List#Fire Storm|Fire Storm]] (DC 24), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Hold Monster|Hold Monster]] (DC 22), [[Spell List#Invisibility|Invisibility]] , [[Spell List#Invisibility Purge|Invisibility Purge]] , [[Spell List#Levitate|Levitate]] , [[Spell List#Persistent Image|Persistent Image]] (DC 22);
+ - 3/day: [[Spell List#Etherealness|Etherealness]] , [[Spell List#Word Of Chaos|Word Of Chaos]] (DC 22), [[Spell List#Summon Nature's Ally IX|Summon Nature's Ally IX]] ;
+ - 1/day: [[Spell List#Gate|Gate]] , [[Spell List#Maze|Maze]] , [[Spell List#Meteor Swarm|Meteor Swarm]] (DC 26);
+ - In addition, titans of good or neutral alignment can use the following additional spell: [[Spell List#Like Abilities|Like Abilities]] ;. C
+ - At will: [[Spell List#Daylight|Daylight]] , [[Spell List#Holy Smite|Holy Smite]] (DC 21), [[Spell List#Remove Curse|Remove Curse]] (DC 21);
+ - 1/day: [[Spell List#Restoration, Greater|Restoration, Greater]] ;
+ - Titans of evil alignment can use the following additional spell: [[Spell List#Like Abilities|Like Abilities]] ;. C
+ - At will: [[Spell List#Bestow Curse|Bestow Curse]] (DC 21), [[Spell List#Deeper Darkness|Deeper Darkness]] , [[Spell List#Unholy Blight|Unholy Blight]] (DC 21);
+ - 1/day: [[Spell List#Crushing Hand|Crushing Hand]] (DC 26);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

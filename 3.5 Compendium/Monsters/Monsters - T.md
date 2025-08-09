@@ -137,7 +137,7 @@ Bludgeoning weapons and acid deal normal damage to a tendriculos. A tendriculos 
 | Full Attack: | Slam +4 melee (1d6+3 plus 2d6 fire) | 
 | Space/Reach: | 5 ft./5 ft. | 
 | Special Attacks: | Heat, burn | 
-| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., Vulnerability To Cold; | 
+| Special Qualities | [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#tremorsense\|Tremorsense]]  60 Ft., [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; | 
 | Saves: | Fort +4, Ref +2, Will +2 | 
 | Abilities: | Str 15, Dex 13, Con 13, Int 6, Wis 12, Cha 10 | 
 | Skills: | [[Skill List#Listen\|Listen]] +5, [[Skill List#Move Silently\|Move Silently]] +3, [[Skill List#Survival\|Survival]] +3; | 
@@ -286,7 +286,7 @@ A tojanida has a +8 racial bonus on any Swim check to perform some special actio
 | Full Attack: | 2 slams +12 melee (2d6+9) | 
 | Space/Reach: | 15 ft./15 ft. | 
 | Special Attacks: | Animate trees, double damage against objects, trample 2d6+13 | 
-| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/slashing, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, Vulnerability To Fire; | 
+| Special Qualities | [[Special Abilities#damage reduction\|Damage Reduction]]  10/slashing, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; | 
 | Saves: | Fort +10, Ref +1, Will +7 | 
 | Abilities: | Str 29, Dex 8, Con 21, Int 12, Wis 16, Cha 12 | 
 | Skills: | [[Skill List#Diplomacy\|Diplomacy]] +3, [[Skill List#Hide\|Hide]] --9\*, [[Skill List#Intimidate\|Intimidate]] +6, [[Skill List#Knowledge\|Knowledge]] (nature) +6, [[Skill List#Listen\|Listen]] +8, [[Skill List#Sense Motive\|Sense Motive]] +8, [[Skill List#Spot\|Spot]] +8, [[Skill List#Survival\|Survival]] +8 (+10 Aboveground); | 

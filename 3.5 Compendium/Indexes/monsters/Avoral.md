@@ -69,9 +69,9 @@ This ability is identical with true seeing (caster level 14th), except that it h
 An avoral's sharp eyes give it a +8 racial bonus on Spot checks.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 8th. The save DCs are Charisma-based..
- - At will: [[Spell List#Aid|Aid]] , [[Spell List#Blur|Blur]] (self Only), [[Spell List#Command|Command]] (DC 14), [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Dimension Door|Dimension Door]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Gust Of Wind|Gust Of Wind]] (DC 15), [[Spell List#Hold Person|Hold Person]] (DC 16), [[Spell List#Light|Light]] , [[Spell List#Magic Circle Against Evil|Magic Circle Against Evil]] (self Only), [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#See Invisibility|See Invisibility]] ;.
- - 3/day: [[Spell List#Lightning Bolt|Lightning Bolt]] (DC 16);.
+ - Caster Level: Caster level 8th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Aid|Aid]] , [[Spell List#Blur|Blur]] (self Only), [[Spell List#Command|Command]] (DC 14), [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Dimension Door|Dimension Door]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Gust Of Wind|Gust Of Wind]] (DC 15), [[Spell List#Hold Person|Hold Person]] (DC 16), [[Spell List#Light|Light]] , [[Spell List#Magic Circle Against Evil|Magic Circle Against Evil]] (self Only), [[Spell List#Magic Missile|Magic Missile]] , [[Spell List#See Invisibility|See Invisibility]] ;
+ - 3/day: [[Spell List#Lightning Bolt|Lightning Bolt]] (DC 16);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small_Water_Elemental
+title: 3.5 Compendium / Monsters / Small Water Elemental
 aliases: 
  - Small Water Elemental
 tags: 

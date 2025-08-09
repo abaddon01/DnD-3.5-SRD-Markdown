@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Badger
+title: 3.5 Compendium / Monsters / Dire Badger
 aliases: 
  - Dire Badger
 tags: 

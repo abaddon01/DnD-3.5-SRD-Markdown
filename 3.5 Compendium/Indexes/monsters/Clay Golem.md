@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Clay_Golem
+title: 3.5 Compendium / Monsters / Clay Golem
 aliases: 
  - Clay Golem
 tags: 

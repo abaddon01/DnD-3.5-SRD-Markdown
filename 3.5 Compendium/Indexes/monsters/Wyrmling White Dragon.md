@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling_White_Dragon
+title: 3.5 Compendium / Monsters / Wyrmling White Dragon
 aliases: 
  - Wyrmling White Dragon
 tags: 
@@ -28,7 +28,7 @@ alignment:
 | Full Attack:         |Bite  +3 (1d4), 2 Claws +1/+1 (1d4/1d4); |
 | Space/Reach:         |2-1/2 ft./0 ft. (5 ft. with bite) |
 | Special Attacks:     | |
-| Special Qualities    |Icewalking, Immunity To Cold, Vulnerability To Fire; |
+| Special Qualities    |Icewalking, Immunity To Cold, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; |
 | Saves:               |Fort: +4, Ref: +3, Will: +3 |
 | Abilities:           |Str: 11, Dex: 10, Con: 13, Int: 6, Wis: 11, Cha: 6 |
 | Skills:              |; |
@@ -61,8 +61,8 @@ Hide, Move Silently, and Swim are considered class skills for white dragons.
 A white dragon has one type of breath weapon, a cone of cold. Cone: 15 ft. Damage: 1d6 (DC 12). 
 
 ## Spell-Like Abilities
- - Other  3/day: [[Spell List#Fog Cloud|Fog Cloud]] (juvenile Or Older), [[Spell List#Gust Of Wind|Gust Of Wind]] (adult Or Older), [[Spell List#Wall Of Ice|Wall Of Ice]] (ancient Or Older);.
- - 1/day: [[Spell List#Control Weather|Control Weather]] (great Wyrm);.
+ - Other  3/day: [[Spell List#Fog Cloud|Fog Cloud]] (juvenile Or Older), [[Spell List#Gust Of Wind|Gust Of Wind]] (adult Or Older), [[Spell List#Wall Of Ice|Wall Of Ice]] (ancient Or Older);
+ - 1/day: [[Spell List#Control Weather|Control Weather]] (great Wyrm);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

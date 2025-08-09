@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Colossal_Animated_Object
+title: 3.5 Compendium / Monsters / Colossal Animated Object
 aliases: 
  - Colossal Animated Object
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder_Water_Elemental
+title: 3.5 Compendium / Monsters / Elder Water Elemental
 aliases: 
  - Elder Water Elemental
 tags: 

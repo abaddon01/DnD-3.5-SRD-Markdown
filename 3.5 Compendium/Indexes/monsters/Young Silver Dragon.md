@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Young_Silver_Dragon
+title: 3.5 Compendium / Monsters / Young Silver Dragon
 aliases: 
  - Young Silver Dragon
 tags: 
@@ -58,9 +58,9 @@ Bluff, Disguise, and Jump are considered class skills for silver dragons.
 A silver dragon has two types of breath weapon, a cone of cold and a cone of paralyzing gas. Creatures within a cone of paralyzing gas must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon. Cone: 30 ft. Damage: 6d8 (DC 18). 
 
 ## Spell-Like Abilities
- - 3/day: [[Spell List#Fog Cloud|Fog Cloud]] (adult Or Older), [[Spell List#Control Winds|Control Winds]] (old Or Older);.
- - 2/day: [[Spell List#Feather Fall|Feather Fall]] (juvenile Or Older);.
- - 1/day: [[Spell List#Control Weather|Control Weather]] (ancient Or Older), [[Spell List#Reverse Gravity|Reverse Gravity]] (great Wyrm);.
+ - 3/day: [[Spell List#Fog Cloud|Fog Cloud]] (adult Or Older), [[Spell List#Control Winds|Control Winds]] (old Or Older);
+ - 2/day: [[Spell List#Feather Fall|Feather Fall]] (juvenile Or Older);
+ - 1/day: [[Spell List#Control Weather|Control Weather]] (ancient Or Older), [[Spell List#Reverse Gravity|Reverse Gravity]] (great Wyrm);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

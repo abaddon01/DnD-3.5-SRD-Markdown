@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Juvenile_Tojanida
+title: 3.5 Compendium / Monsters / Juvenile Tojanida
 aliases: 
  - Juvenile Tojanida
 tags: 

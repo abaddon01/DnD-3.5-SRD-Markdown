@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Formian_Warrior
+title: 3.5 Compendium / Monsters / Formian Warrior
 aliases: 
  - Formian Warrior
 tags: 

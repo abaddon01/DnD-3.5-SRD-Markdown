@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Giant_Form_Hill_Giant_Dire_Wereboar
+title: 3.5 Compendium / Monsters / Giant Form Hill Giant Dire Wereboar
 aliases: 
  - Giant Form Hill Giant Dire Wereboar
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult_White_Dragon
+title: 3.5 Compendium / Monsters / Adult White Dragon
 aliases: 
  - Adult White Dragon
 tags: 
@@ -61,8 +61,8 @@ Hide, Move Silently, and Swim are considered class skills for white dragons.
 A white dragon has one type of breath weapon, a cone of cold. Cone: 40 ft. Damage: 6d6 (DC 23). 
 
 ## Spell-Like Abilities
- - Other  3/day: [[Spell List#Fog Cloud|Fog Cloud]] (juvenile Or Older), [[Spell List#Gust Of Wind|Gust Of Wind]] (adult Or Older), [[Spell List#Wall Of Ice|Wall Of Ice]] (ancient Or Older);.
- - 1/day: [[Spell List#Control Weather|Control Weather]] (great Wyrm);.
+ - Other  3/day: [[Spell List#Fog Cloud|Fog Cloud]] (juvenile Or Older), [[Spell List#Gust Of Wind|Gust Of Wind]] (adult Or Older), [[Spell List#Wall Of Ice|Wall Of Ice]] (ancient Or Older);
+ - 1/day: [[Spell List#Control Weather|Control Weather]] (great Wyrm);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hellcat_(bezekira)
+title: 3.5 Compendium / Monsters / Hellcat (bezekira)
 aliases: 
  - Hellcat (bezekira)
 tags: 

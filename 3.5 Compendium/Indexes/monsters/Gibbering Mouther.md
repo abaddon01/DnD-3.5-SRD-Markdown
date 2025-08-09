@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gibbering_Mouther
+title: 3.5 Compendium / Monsters / Gibbering Mouther
 aliases: 
  - Gibbering Mouther
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater_Shadow
+title: 3.5 Compendium / Monsters / Greater Shadow
 aliases: 
  - Greater Shadow
 tags: 

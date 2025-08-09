@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Wolf
+title: 3.5 Compendium / Monsters / Dire Wolf
 aliases: 
  - Dire Wolf
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Planetar_Angel
+title: 3.5 Compendium / Monsters / Planetar Angel
 aliases: 
  - Planetar Angel
 tags: 
@@ -56,18 +56,18 @@ A planetar's natural weapons, as well as any weapons it wields, are treated as g
 A planetar takes damage from evil-aligned weapons and from spells and effects with the evil descriptor.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 17th. The save DCs are Charisma-based..
- - At will: [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Holy Smite|Holy Smite]] (DC 20), [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Lesser Restoration|Lesser Restoration]] (DC 18), [[Spell List#Remove Curse|Remove Curse]] (DC 19), [[Spell List#Remove Disease|Remove Disease]] (DC 19), [[Spell List#Remove Fear|Remove Fear]] (DC 17), [[Spell List#Speak With Dead|Speak With Dead]] (DC 19);.
- - 3/day: [[Spell List#Blade Barrier|Blade Barrier]] (DC 22), [[Spell List#Flame Strike|Flame Strike]] (DC 21), [[Spell List#Polymorph|Polymorph]] (self Only), [[Spell List#Power Word Stun|Power Word Stun]] , [[Spell List#Raise Dead|Raise Dead]] , [[Spell List#Waves Of Fatigue|Waves Of Fatigue]] ;.
- - 1/day: [[Spell List#Earthquake|Earthquake]] (DC 24), [[Spell List#Restoration, Greater|Restoration, Greater]] (DC 23), [[Spell List#Charm Monster, Mass|Charm Monster, Mass]] (DC 24), [[Spell List#Waves Of Exhaustion|Waves Of Exhaustion]] ;.
- - The following abilities are always active on the planetar’s person, as the spells (caster level 17th): [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Snares And Pits|Detect Snares And Pits]] , [[Spell List#Discern Lies|Discern Lies]] (DC 20), [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#And True Seeing|And True Seeing]] ;. They can be dispelled, but the planetar can reactivate them as a free action.
+ - Caster Level: Caster level 17th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Continual Flame|Continual Flame]] , [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Holy Smite|Holy Smite]] (DC 20), [[Spell List#Invisibility|Invisibility]] (self Only), [[Spell List#Lesser Restoration|Lesser Restoration]] (DC 18), [[Spell List#Remove Curse|Remove Curse]] (DC 19), [[Spell List#Remove Disease|Remove Disease]] (DC 19), [[Spell List#Remove Fear|Remove Fear]] (DC 17), [[Spell List#Speak With Dead|Speak With Dead]] (DC 19);
+ - 3/day: [[Spell List#Blade Barrier|Blade Barrier]] (DC 22), [[Spell List#Flame Strike|Flame Strike]] (DC 21), [[Spell List#Polymorph|Polymorph]] (self Only), [[Spell List#Power Word Stun|Power Word Stun]] , [[Spell List#Raise Dead|Raise Dead]] , [[Spell List#Waves Of Fatigue|Waves Of Fatigue]] ;
+ - 1/day: [[Spell List#Earthquake|Earthquake]] (DC 24), [[Spell List#Restoration, Greater|Restoration, Greater]] (DC 23), [[Spell List#Charm Monster, Mass|Charm Monster, Mass]] (DC 24), [[Spell List#Waves Of Exhaustion|Waves Of Exhaustion]] ;
+ - The following abilities are always active on the planetar’s person, as the spells (caster level 17th): [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Snares And Pits|Detect Snares And Pits]] , [[Spell List#Discern Lies|Discern Lies]] (DC 20), [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#And True Seeing|And True Seeing]] ;. They can be dispelled, but the planetar can reactivate them as a free action
 Spells
-Planetars can cast divine spells as 17th-level clerics. A planetar has access to two of the following domains  Air,  Destruction,  Good,  Law, or  War (plus any others from its deity). The save DCs are Wisdom-based..
-Air.
-Destruction.
-Good.
-Law.
-War.
+Planetars can cast divine spells as 17th-level clerics. A planetar has access to two of the following domains  Air,  Destruction,  Good,  Law, or  War (plus any others from its deity). The save DCs are Wisdom-based.
+Air
+Destruction
+Good
+Law
+War
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

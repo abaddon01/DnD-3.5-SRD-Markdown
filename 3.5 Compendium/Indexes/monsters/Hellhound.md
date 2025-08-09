@@ -34,7 +34,7 @@ alignment: Always lawful evil
 | Full Attack:         |Bite +5 melee (1d8+1 plus 1d6 fire); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#scent\|Scent]] , Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immunity To Fire, [[Special Abilities#scent\|Scent]] , [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +5, Ref: +5, Will: +4 |
 | Abilities:           |Str : 13,  Dex: 13,  Con: 13,  Int: 6,  Wis: 10,  Cha: 6 |
 | Skills:              |[[Skill List#Hide\|Hide]]: +13, [[Skill List#Jump\|Jump]]: +12, [[Skill List#Listen\|Listen]]: +7, [[Skill List#Move Silently\|Move Silently]]: +13, [[Skill List#Spot\|Spot]]: +7, [[Skill List#Survival\|Survival]]: 7*; |
@@ -46,8 +46,6 @@ alignment: Always lawful evil
 | Alignment:           |Always lawful evil |
 | Advancement:         | |
 | Level Adjustment:    | |
-
-## Combat
 
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 

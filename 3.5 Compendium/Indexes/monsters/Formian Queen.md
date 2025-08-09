@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Formian_Queen
+title: 3.5 Compendium / Monsters / Formian Queen
 aliases: 
  - Formian Queen
 tags: 
@@ -64,10 +64,10 @@ Despite her utter lack of physical activity, the queen can cast spells and use s
 The queen can communicate telepathically with any intelligent creature within 50 miles whose presence she is aware of.
 
 ## Spells
-The queen casts arcane spells as a 17th-level sorcerer..
+The queen casts arcane spells as a 17th-level sorcerer.
 Spell-Like Abilities
- - Caster Level: Caster level 17th. The save DCs are Charisma-based..
- - At will: [[Spell List#Calm Emotions|Calm Emotions]] (DC 17), [[Spell List#Charm Monster|Charm Monster]] (DC 19), [[Spell List#Clairaudience/ Clairvoyance|Clairaudience/ Clairvoyance]] , [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Thoughts|Detect Thoughts]] , [[Spell List#Dictum|Dictum]] (DC 22), [[Spell List#Divination|Divination]] , [[Spell List#Hold Monster|Hold Monster]] (DC 20), [[Spell List#Magic Circle Against Chaos|Magic Circle Against Chaos]] , [[Spell List#Order's Wrath|Order's Wrath]] (DC 19), [[Spell List#Shield Of Law|Shield Of Law]] (DC 23), [[Spell List#True Seeing|True Seeing]] ;.
+ - Caster Level: Caster level 17th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Calm Emotions|Calm Emotions]] (DC 17), [[Spell List#Charm Monster|Charm Monster]] (DC 19), [[Spell List#Clairaudience/ Clairvoyance|Clairaudience/ Clairvoyance]] , [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Thoughts|Detect Thoughts]] , [[Spell List#Dictum|Dictum]] (DC 22), [[Spell List#Divination|Divination]] , [[Spell List#Hold Monster|Hold Monster]] (DC 20), [[Spell List#Magic Circle Against Chaos|Magic Circle Against Chaos]] , [[Spell List#Order's Wrath|Order's Wrath]] (DC 19), [[Spell List#Shield Of Law|Shield Of Law]] (DC 23), [[Spell List#True Seeing|True Seeing]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

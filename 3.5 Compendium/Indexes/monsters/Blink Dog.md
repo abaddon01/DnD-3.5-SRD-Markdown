@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Blink_Dog
+title: 3.5 Compendium / Monsters / Blink Dog
 aliases: 
  - Blink Dog
 tags: 

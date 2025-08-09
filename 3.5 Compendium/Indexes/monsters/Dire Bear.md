@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Bear
+title: 3.5 Compendium / Monsters / Dire Bear
 aliases: 
  - Dire Bear
 tags: 

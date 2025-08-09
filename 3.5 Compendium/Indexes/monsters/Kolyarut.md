@@ -65,10 +65,10 @@ As a melee touch attack, a kolyarut can steal life force from its foe, as the va
 A kolyarut has a +4 racial bonus on Disguise, Gather Information, and Sense Motive checks.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 13th. The save DCs are Charisma-based..
- - At will: [[Spell List#Discern Lies|Discern Lies]] (DC 17), [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Fear|Fear]] (DC 17), [[Spell List#Hold Person|Hold Person]] (DC 16), [[Spell List#Invisibility|Invisibility]] , [[Spell List#Locate Creature|Locate Creature]] , [[Spell List#Suggestion|Suggestion]] (DC 16);.
- - 1/day: [[Spell List#Hold Monster|Hold Monster]] (DC 17), [[Spell List#Mark Of Justice|Mark Of Justice]] ;.
- - 1/week: [[Spell List#Geas/quest|Geas/quest]] ;.
+ - Caster Level: Caster level 13th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Discern Lies|Discern Lies]] (DC 17), [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Fear|Fear]] (DC 17), [[Spell List#Hold Person|Hold Person]] (DC 16), [[Spell List#Invisibility|Invisibility]] , [[Spell List#Locate Creature|Locate Creature]] , [[Spell List#Suggestion|Suggestion]] (DC 16);
+ - 1/day: [[Spell List#Hold Monster|Hold Monster]] (DC 17), [[Spell List#Mark Of Justice|Mark Of Justice]] ;
+ - 1/week: [[Spell List#Geas/quest|Geas/quest]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

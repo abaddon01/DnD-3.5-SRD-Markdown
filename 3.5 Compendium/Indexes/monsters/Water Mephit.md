@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Water_Mephit
+title: 3.5 Compendium / Monsters / Water Mephit
 aliases: 
  - Water Mephit
 tags: 
@@ -61,7 +61,7 @@ A water mephit has a +8 racial bonus on any Swim check to perform some special a
 It can use the run action while swimming, provided it swims in a straight line.
 
 ## Spell-Like Abilities
- - Other: Once per hour a water mephit can hurl an acidic blob that functions like acid arrow (caster level 3rd). Once per day it can create a mass of smelly fog that duplicates the effect of a stinking cloud spell (DC 15, caster level 6th). The save DC is Charisma-based..
+ - Other: Once per hour a water mephit can hurl an acidic blob that functions like acid arrow (caster level 3rd). Once per day it can create a mass of smelly fog that duplicates the effect of a stinking cloud spell (DC 15, caster level 6th). The save DC is Charisma-based.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

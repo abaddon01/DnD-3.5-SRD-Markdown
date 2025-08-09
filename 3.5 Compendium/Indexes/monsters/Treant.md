@@ -28,7 +28,7 @@ alignment: Usually neutral good
 | Full Attack:         |2 slams +12 melee (2d6+9); |
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     |Animate trees, double damage against objects, trample 2d6+13 |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/slashing, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, Vulnerability To Fire; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/slashing, [[Special Abilities#low-light vision\|Low-light Vision]] , Plant Traits, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; |
 | Saves:               |Fort: +10, Ref: +1, Will: +7 |
 | Abilities:           |Str : 29,  Dex: 8,  Con: 21,  Int: 12,  Wis: 16,  Cha: 12 |
 | Skills:              |[[Skill List#Diplomacy\|Diplomacy]]: +3, [[Skill List#Hide\|Hide]]: -9*, [[Skill List#Intimidate\|Intimidate]]: +6, [[Skill List#Knowledge\|Knowledge]]: (nature) 6, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Sense Motive\|Sense Motive]]: +8, [[Skill List#Spot\|Spot]]: +8, [[Skill List#Survival\|Survival]]: 8(10aboveground)+8 (+10 aboveground); |

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gargantuan_Animated_Object
+title: 3.5 Compendium / Monsters / Gargantuan Animated Object
 aliases: 
  - Gargantuan Animated Object
 tags: 

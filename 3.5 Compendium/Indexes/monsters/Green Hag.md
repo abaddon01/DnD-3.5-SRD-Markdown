@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Green_Hag
+title: 3.5 Compendium / Monsters / Green Hag
 aliases: 
  - Green Hag
 tags: 
@@ -59,8 +59,8 @@ A green hag can imitate the sounds of almost any animal found near its lair.
 A green hag has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 9th. The save DC is Charisma-based..
- - At will: [[Spell List#Dancing Lights|Dancing Lights]] , [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Ghost Sound|Ghost Sound]] (DC 12), [[Spell List#Invisibility|Invisibility]] , [[Spell List#Pass Without Trace|Pass Without Trace]] , [[Spell List#Tongues|Tongues]] , [[Spell List#Water Breathing|Water Breathing]] ;.
+ - Caster Level: Caster level 9th. The save DC is Charisma-based.
+ - At will: [[Spell List#Dancing Lights|Dancing Lights]] , [[Spell List#Disguise Self|Disguise Self]] , [[Spell List#Ghost Sound|Ghost Sound]] (DC 12), [[Spell List#Invisibility|Invisibility]] , [[Spell List#Pass Without Trace|Pass Without Trace]] , [[Spell List#Tongues|Tongues]] , [[Spell List#Water Breathing|Water Breathing]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

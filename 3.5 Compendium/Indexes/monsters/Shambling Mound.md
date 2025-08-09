@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Shambling_Mound
+title: 3.5 Compendium / Monsters / Shambling Mound
 aliases: 
  - Shambling Mound
 tags: 

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder_Arrowhawk
+title: 3.5 Compendium / Monsters / Elder Arrowhawk
 aliases: 
  - Elder Arrowhawk
 tags: 

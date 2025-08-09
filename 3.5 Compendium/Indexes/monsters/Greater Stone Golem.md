@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater_Stone_Golem
+title: 3.5 Compendium / Monsters / Greater Stone Golem
 aliases: 
  - Greater Stone Golem
 tags: 
@@ -42,8 +42,6 @@ alignment: Always neutral
 | Alignment:           |Always neutral |
 | Advancement:         | |
 | Level Adjustment:    | |
-
-## Combat
 
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 

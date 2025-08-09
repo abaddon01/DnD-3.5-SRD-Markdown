@@ -66,8 +66,8 @@ Nalfeshnees continuously use true seeing, as the spell (caster level 14th).
 Nalfeshnees have a +8 racial bonus on Listen and Spot checks.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 12th. The save DCs are Charisma-based..
- - At will: [[Spell List#Call Lightning|Call Lightning]] (DC 18), [[Spell List#Feeblemind|Feeblemind]] (DC 20), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Slow|Slow]] (DC 18), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Unholy Aura|Unholy Aura]] (DC 23);.
+ - Caster Level: Caster level 12th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Call Lightning|Call Lightning]] (DC 18), [[Spell List#Feeblemind|Feeblemind]] (DC 20), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Slow|Slow]] (DC 18), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Unholy Aura|Unholy Aura]] (DC 23);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

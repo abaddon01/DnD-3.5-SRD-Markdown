@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Adult_Tojanida
+title: 3.5 Compendium / Monsters / Adult Tojanida
 aliases: 
  - Adult Tojanida
 tags: 

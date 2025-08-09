@@ -43,8 +43,6 @@ alignment: Usually chaotic evil
 | Advancement:         | |
 | Level Adjustment:    | |
 
-## Combat
-
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

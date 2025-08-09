@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hill_Giant
+title: 3.5 Compendium / Monsters / Hill Giant
 aliases: 
  - Hill Giant
 tags: 

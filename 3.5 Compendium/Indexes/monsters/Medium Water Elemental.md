@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Medium_Water_Elemental
+title: 3.5 Compendium / Monsters / Medium Water Elemental
 aliases: 
  - Medium Water Elemental
 tags: 

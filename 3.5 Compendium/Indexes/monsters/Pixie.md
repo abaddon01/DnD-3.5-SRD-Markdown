@@ -61,8 +61,8 @@ An opponent struck by this arrow must succeed on a DC 15 Will save or lose all m
 Any opponent struck by this arrow, regardless of Hit Dice, must succeed on a DC 15 Fortitude save or be affected as though by a sleep spell. The save DC is Charisma-based and includes a +2 racial bonus.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 8th. The save DCs are Charisma-based..
- - 1/day: [[Spell List#Lesser Confusion|Lesser Confusion]] (DC 14), [[Spell List#Dancing Lights|Dancing Lights]] , [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Law|Detect Law]] , [[Spell List#Detect Thoughts|Detect Thoughts]] (DC 15), [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Entangle|Entangle]] (DC 14), [[Spell List#Permanent Image|Permanent Image]] (DC 19;; visual and auditory elements only).
+ - Caster Level: Caster level 8th. The save DCs are Charisma-based.
+ - 1/day: [[Spell List#Lesser Confusion|Lesser Confusion]] (DC 14), [[Spell List#Dancing Lights|Dancing Lights]] , [[Spell List#Detect Chaos|Detect Chaos]] , [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Evil|Detect Evil]] , [[Spell List#Detect Law|Detect Law]] , [[Spell List#Detect Thoughts|Detect Thoughts]] (DC 15), [[Spell List#Dispel Magic|Dispel Magic]] , [[Spell List#Entangle|Entangle]] (DC 14), [[Spell List#Permanent Image|Permanent Image]] (DC 19;; visual and auditory elements only)
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

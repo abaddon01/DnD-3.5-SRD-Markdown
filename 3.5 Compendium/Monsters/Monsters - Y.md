@@ -77,7 +77,7 @@ A yeth hound can cease or resume flight as a free action.
 | Full Attack: | Bite +15 melee (2d8+5) and 2 claws +13 melee (1d6+2); or sonic lance +12 ranged touch (6d6) | 
 | Space/Reach: | 15 ft./10 ft. | 
 | Special Attacks: | Sonic lance, explosion | 
-| Special Qualities | Blindsight 120 Ft., Immunities, Vulnerability To Sonic; | 
+| Special Qualities | Blindsight 120 Ft., Immunities, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Sonic; | 
 | Saves: | Fort +11, Ref +10, Will +5 | 
 | Abilities: | Str 20, Dex 14, Con 17, Int 7, Wis 13, Cha 11 | 
 | Skills: | [[Skill List#Listen\|Listen]] +12, [[Skill List#Move Silently\|Move Silently]] +10; | 

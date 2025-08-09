@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hybrid_Form_Werebear
+title: 3.5 Compendium / Monsters / Hybrid Form Werebear
 aliases: 
  - Hybrid Form Werebear
 tags: 

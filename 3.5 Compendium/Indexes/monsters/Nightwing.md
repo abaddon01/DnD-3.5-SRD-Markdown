@@ -55,9 +55,9 @@ A nightwing's natural weapons are treated as magic weapons for the purpose of ov
 A nightwing can weaken magic armor, weapons, and shields by making a successful touch attack. The targeted item must succeed on a DC 22 Fortitude save or lose 1 point of its enhancement bonus. The save DC is Charisma-based. An item that loses its entire enhancement bonus becomes merely a masterwork item and loses any special abilities (such as flaming) as well. Casting dispel evil upon the item reverses the effect of the magic drain, provided this occurs within a number of days after the attack equal to the caster's level and the caster succeeds on a DC 29 caster level check.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 17th. The save DCs are Charisma-based..
- - At will: [[Spell List#Contagion|Contagion]] (DC 18), [[Spell List#Deeper Darkness|Deeper Darkness]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Haste|Haste]] , [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Unholy Blight|Unholy Blight]] (DC 18);.
- - 3/day: [[Spell List#Confusion|Confusion]] (DC 18), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Hold Monster|Hold Monster]] (DC 19), [[Spell List#Invisibility|Invisibility]] ;.
+ - Caster Level: Caster level 17th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Contagion|Contagion]] (DC 18), [[Spell List#Deeper Darkness|Deeper Darkness]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#Haste|Haste]] , [[Spell List#See Invisibility|See Invisibility]] , [[Spell List#Unholy Blight|Unholy Blight]] (DC 18);
+ - 3/day: [[Spell List#Confusion|Confusion]] (DC 18), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Hold Monster|Hold Monster]] (DC 19), [[Spell List#Invisibility|Invisibility]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

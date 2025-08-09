@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Large_Animated_Object
+title: 3.5 Compendium / Monsters / Large Animated Object
 aliases: 
  - Large Animated Object
 tags: 

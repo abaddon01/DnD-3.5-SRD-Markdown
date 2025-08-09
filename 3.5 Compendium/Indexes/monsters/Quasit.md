@@ -60,10 +60,10 @@ Injury, Fortitude DC 13, initial damage 1d4 Dex, secondary damage 2d4 Dex. The s
 A quasit can assume another form at will as a standard action. Each quasit can assume one or two forms from the following list
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 6th. The save DCs are Charisma-based..
- - At will: [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#And Invisibility|And Invisibility]] (self Only);.
- - 1/day: [[Spell List#Cause Fear|Cause Fear]] (as The Spell, [[Spell List#Except That Its Area Is A 30|Except That Its Area Is A 30]] ;.foot radius from the quasit, save DC 11).
- - Other: Once per week a quasit can use commune to ask six questions. The ability otherwise works as the spell (caster level 12th)..
+ - Caster Level: Caster level 6th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Detect Good|Detect Good]] , [[Spell List#Detect Magic|Detect Magic]] , [[Spell List#And Invisibility|And Invisibility]] (self Only);
+ - 1/day: [[Spell List#Cause Fear|Cause Fear]] (as The Spell, [[Spell List#Except That Its Area Is A 30|Except That Its Area Is A 30]] ;.foot radius from the quasit, save DC 11)
+ - Other: Once per week a quasit can use commune to ask six questions. The ability otherwise works as the spell (caster level 12th).
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

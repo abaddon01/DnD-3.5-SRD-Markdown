@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Large_Fire_Elemental
+title: 3.5 Compendium / Monsters / Large Fire Elemental
 aliases: 
  - Large Fire Elemental
 tags: 
@@ -32,7 +32,7 @@ alignment: Usually neutral
 | Full Attack:         |2 slams +10 melee (2d6+2 plus 2d6 fire); |
 | Space/Reach:         |10 ft./10 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +5, Ref: +11, Will: +2 |
 | Abilities:           |Str : 14,  Dex: 21,  Con: 16,  Int: 6,  Wis: 11,  Cha: 11 |
 | Skills:              |[[Skill List#Listen\|Listen]]: +5, [[Skill List#Spot\|Spot]]: +6; |

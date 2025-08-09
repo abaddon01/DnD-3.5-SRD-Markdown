@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / 1st-level_Warrior_Drow
+title: 3.5 Compendium / Monsters / 1st-level Warrior Drow
 aliases: 
  - 1st-level Warrior Drow
 tags: 

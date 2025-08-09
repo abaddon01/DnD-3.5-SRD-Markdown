@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Wolverine
+title: 3.5 Compendium / Monsters / Dire Wolverine
 aliases: 
  - Dire Wolverine
 tags: 

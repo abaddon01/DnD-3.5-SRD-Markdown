@@ -76,9 +76,9 @@ Balors have a continuous true seeing ability, as the spell (caster level 20th).
 Balors have a +8 racial bonus on Listen and Spot checks.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 20th. The save DCs are Charisma-based..
- - At will: [[Spell List#Blasphemy|Blasphemy]] (DC 25), [[Spell List#Dominate Monster|Dominate Monster]] (DC 27), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Insanity|Insanity]] (DC 25), [[Spell List#Power Word Stun|Power Word Stun]] , [[Spell List#Telekinesis|Telekinesis]] (DC 23), [[Spell List#Unholy Aura|Unholy Aura]] (DC 26);.
- - 1/day: [[Spell List#Fire Storm|Fire Storm]] (DC 26), [[Spell List#Implosion|Implosion]] (DC 27);.
+ - Caster Level: Caster level 20th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Blasphemy|Blasphemy]] (DC 25), [[Spell List#Dominate Monster|Dominate Monster]] (DC 27), [[Spell List#Dispel Magic, Greater|Dispel Magic, Greater]] , [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Insanity|Insanity]] (DC 25), [[Spell List#Power Word Stun|Power Word Stun]] , [[Spell List#Telekinesis|Telekinesis]] (DC 23), [[Spell List#Unholy Aura|Unholy Aura]] (DC 26);
+ - 1/day: [[Spell List#Fire Storm|Fire Storm]] (DC 26), [[Spell List#Implosion|Implosion]] (DC 27);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

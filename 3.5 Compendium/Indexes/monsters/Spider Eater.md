@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Spider_Eater
+title: 3.5 Compendium / Monsters / Spider Eater
 aliases: 
  - Spider Eater
 tags: 

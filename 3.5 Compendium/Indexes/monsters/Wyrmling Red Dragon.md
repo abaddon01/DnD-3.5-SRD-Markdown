@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Wyrmling_Red_Dragon
+title: 3.5 Compendium / Monsters / Wyrmling Red Dragon
 aliases: 
  - Wyrmling Red Dragon
 tags: 
@@ -28,7 +28,7 @@ alignment:
 | Full Attack:         |Bite  +7 (1d8), 2 Claws +5/+5 (1d8/1d8), 2 Wings +5/+5 (1d4/1d4); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     | |
-| Special Qualities    |Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +7, Ref: +5, Will: +5 |
 | Abilities:           |Str: 17, Dex: 10, Con: 15, Int: 10, Wis: 11, Cha: 10 |
 | Skills:              |; |
@@ -58,8 +58,8 @@ Appraise, Bluff, and Jump are considered class skills for red dragons.
 A red dragon has one type of breath weapon, a cone of fire. Cone: 30 ft. Damage: 2d10 (DC 15). 
 
 ## Spell-Like Abilities
- - Other  3/day: [[Spell List#Suggestion|Suggestion]] (old Or Older);.
- - 1/day: [[Spell List#Find The Path|Find The Path]] (ancient Or Older), [[Spell List#Discern Location|Discern Location]] (great Wyrm);.
+ - Other  3/day: [[Spell List#Suggestion|Suggestion]] (old Or Older);
+ - 1/day: [[Spell List#Find The Path|Find The Path]] (ancient Or Older), [[Spell List#Discern Location|Discern Location]] (great Wyrm);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Small_Air_Elemental
+title: 3.5 Compendium / Monsters / Small Air Elemental
 aliases: 
  - Small Air Elemental
 tags: 

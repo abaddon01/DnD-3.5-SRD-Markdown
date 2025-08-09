@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder_Air_Elemental
+title: 3.5 Compendium / Monsters / Elder Air Elemental
 aliases: 
  - Elder Air Elemental
 tags: 

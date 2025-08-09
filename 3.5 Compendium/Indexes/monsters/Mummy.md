@@ -28,7 +28,7 @@ alignment: Usually lawful evil
 | Full Attack:         |Slam +11 melee (1d6+10 plus mummy rot); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Despair, mummy rot |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] , Vulnerability To Fire; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#undead traits\|Undead Traits]] , [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Fire; |
 | Saves:               |Fort: +4, Ref: +2, Will: +8 |
 | Abilities:           |Str : 24,  Dex: 10,  Con: -1,  Int: 6,  Wis: 14,  Cha: 15 |
 | Skills:              |[[Skill List#Hide\|Hide]]: +7, [[Skill List#Listen\|Listen]]: +8, [[Skill List#Move Silently\|Move Silently]]: +7, [[Skill List#Spot\|Spot]]: +8; |

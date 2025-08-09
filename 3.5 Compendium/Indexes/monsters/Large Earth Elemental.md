@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Large_Earth_Elemental
+title: 3.5 Compendium / Monsters / Large Earth Elemental
 aliases: 
  - Large Earth Elemental
 tags: 

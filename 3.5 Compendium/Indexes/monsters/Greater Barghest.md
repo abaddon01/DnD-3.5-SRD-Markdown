@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Greater_Barghest
+title: 3.5 Compendium / Monsters / Greater Barghest
 aliases: 
  - Greater Barghest
 tags: 
@@ -52,7 +52,7 @@ A full-grown barghest is about 6 feet long and weighs 180 pounds. A barghest’s
 Barghests speak Goblin, Worg, and Infernal.
 A barghest that reaches 9 Hit Dice through feeding becomes a greater barghest. These creatures can change shape into a goblinlike creature of Large size (about 8 feet tall and 400 pounds) or a dire wolf. In goblin form, a greater barghest cannot use its natural weapons but can wield weapons and wear armor. In dire wolf form, a greater barghest loses its claw attacks but retains its bite attack.
 A greater barghest can reach a maximum of 18 Hit Dice through feeding.
-Spell-Like Abilities: In addition to the spelllike abilities all barghests possess, a greater barghest gains the following abilities. At will—invisibility sphere; 1/day—mass bull’s strength, mass enlarge. Caster level equals the greater barghest’s HD.
+**Spell-Like Abilities:** In addition to the spelllike abilities all barghests possess, a greater barghest gains the following abilities. At will—invisibility sphere; 1/day—mass bull’s strength, mass enlarge. Caster level equals the greater barghest’s HD.
 ## Combat
 
 Barghests can claw and bite, no matter what their form, and usually disdain weapons. Though they love killing, they have little stomach for direct combat and attack from ambush whenever possible. Barghests start a combat by using crushing despair and charm monster to keep opponents off balance. They try to stay away from the enemy's main strength.
@@ -78,8 +78,8 @@ A barghest in wolf form can use pass without trace (as the spell) as a free acti
 Occasionally, a greater barghest uses a magic two-handed weapon in combat instead of its claws, giving it multiple attacks (attack bonus +13/+8). It can also make one bite attack (attack bonus +8) each round. The save DC against a greater barghest's spell-like abilities is 14 + spell level.
 
 ## Spell-Like Abilities
- - In addition to the spelllike abilities all barghests possess, a greater barghest gains the following abilities: [[Spell List#At Will|At Will]] ;.invisibility sphere.
- - 1/day: [[Spell List#Bull's Strength, Mass|Bull's Strength, Mass]] , [[Spell List#Enlarge, Mass|Enlarge, Mass]] ;. C.
+ - In addition to the spelllike abilities all barghests possess, a greater barghest gains the following abilities: [[Spell List#At Will|At Will]] ;.invisibility sphere
+ - 1/day: [[Spell List#Bull's Strength, Mass|Bull's Strength, Mass]] , [[Spell List#Enlarge, Mass|Enlarge, Mass]] ;. C
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

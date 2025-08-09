@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Giant_Owl
+title: 3.5 Compendium / Monsters / Giant Owl
 aliases: 
  - Giant Owl
 tags: 

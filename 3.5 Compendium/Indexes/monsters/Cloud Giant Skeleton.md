@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Cloud_Giant_Skeleton
+title: 3.5 Compendium / Monsters / Cloud Giant Skeleton
 aliases: 
  - Cloud Giant Skeleton
 tags: 
@@ -42,8 +42,6 @@ alignment: —
 | Alignment:           |— |
 | Advancement:         | |
 | Level Adjustment:    | |
-
-## Combat
 
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 

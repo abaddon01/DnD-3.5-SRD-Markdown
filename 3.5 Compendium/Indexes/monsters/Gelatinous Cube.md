@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Gelatinous_Cube
+title: 3.5 Compendium / Monsters / Gelatinous Cube
 aliases: 
  - Gelatinous Cube
 tags: 

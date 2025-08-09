@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Hellwasp_Swarm
+title: 3.5 Compendium / Monsters / Hellwasp Swarm
 aliases: 
  - Hellwasp Swarm
 tags: 

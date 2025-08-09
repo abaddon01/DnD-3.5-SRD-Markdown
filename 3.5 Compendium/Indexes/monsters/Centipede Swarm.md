@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Centipede_Swarm
+title: 3.5 Compendium / Monsters / Centipede Swarm
 aliases: 
  - Centipede Swarm
 tags: 
@@ -30,7 +30,7 @@ alignment: Always neutral
 | Full Attack:         |Swarm (2d6 plus poison); |
 | Space/Reach:         |10 ft./0 ft. |
 | Special Attacks:     |Distraction, poison |
-| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., Vermin Traits; |
+| Special Qualities    |[[Special Abilities#darkvision\|Darkvision]]  60 Ft., Immune To Weapon Damage, [[Traits#swarm traits\|Swarm Traits]] , [[Special Abilities#tremorsense\|Tremorsense]]  30 Ft., [[Traits#vermin traits\|Vermin Traits]] ; |
 | Saves:               |Fort: +5, Ref: +7, Will: +3 |
 | Abilities:           |Str : 1,  Dex: 19,  Con: 8,  Int: -1,  Wis: 10,  Cha: 2 |
 | Skills:              |[[Skill List#Climb\|Climb]]: +12, [[Skill List#Spot\|Spot]]: +4; |

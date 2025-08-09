@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Stone_Giant
+title: 3.5 Compendium / Monsters / Stone Giant
 aliases: 
  - Stone Giant
 tags: 

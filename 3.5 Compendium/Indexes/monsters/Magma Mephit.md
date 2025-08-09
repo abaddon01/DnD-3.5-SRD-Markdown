@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Magma_Mephit
+title: 3.5 Compendium / Monsters / Magma Mephit
 aliases: 
  - Magma Mephit
 tags: 
@@ -31,7 +31,7 @@ alignment: Usually neutral
 | Full Attack:         |2 claws +4 melee (1d3 plus 1d4 fire); |
 | Space/Reach:         |5 ft./5 ft. |
 | Special Attacks:     |Breath weapon, spell-like abilities, summon mephit |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  5/magic, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Special Abilities#fast healing\|Fast Healing]]  2, Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +3, Ref: +4, Will: +3 |
 | Abilities:           |Str : 10,  Dex: 13,  Con: 10,  Int: 6,  Wis: 11,  Cha: 15 |
 | Skills:              |[[Skill List#Bluff\|Bluff]]: +8, [[Skill List#Escape Artist\|Escape Artist]]: +7, [[Skill List#Hide\|Hide]]: +11, [[Skill List#Listen\|Listen]]: +6, [[Skill List#Diplomacy\|Diplomacy]]: +4, [[Skill List#Disguise\|Disguise]]: +2 (+4 acting) , [[Skill List#Move Silently\|Move Silently]]: +7, [[Skill List#Spot\|Spot]]: +6, [[Skill List#Use Rope\|Use Rope]]: 1(3withbindings)+1 (+3 with bindings); |
@@ -59,7 +59,7 @@ Once per hour, a magma mephit can assume the form of a pool of lava 3 feet in di
 A magma mephit heals only if it is touching magma, lava, or a flame at least as large as a torch.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 6th. The save DC is Charisma-based..
+ - Caster Level: Caster level 6th. The save DC is Charisma-based.
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

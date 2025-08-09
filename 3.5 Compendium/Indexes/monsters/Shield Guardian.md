@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Shield_Guardian
+title: 3.5 Compendium / Monsters / Shield Guardian
 aliases: 
  - Shield Guardian
 tags: 

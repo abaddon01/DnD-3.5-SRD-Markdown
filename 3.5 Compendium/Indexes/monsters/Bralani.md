@@ -65,9 +65,9 @@ A bralani remains in one form until it chooses to assume a new one. A change in 
 Bralanis can speak with any creature that has a language, as though using a tongues spell (caster level 14th). This ability is always active.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 6th. The save DCs are Charisma-based..
- - At will: [[Spell List#Blur|Blur]] , [[Spell List#Charm Person|Charm Person]] (DC 13), [[Spell List#Gust Of Wind|Gust Of Wind]] (DC 14), [[Spell List#Mirror Image|Mirror Image]] , [[Spell List#Wind Wall|Wind Wall]] ;.
- - 2/day: [[Spell List#Lightning Bolt|Lightning Bolt]] (DC 15), [[Spell List#Cure Serious Wounds|Cure Serious Wounds]] (DC 15);.
+ - Caster Level: Caster level 6th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Blur|Blur]] , [[Spell List#Charm Person|Charm Person]] (DC 13), [[Spell List#Gust Of Wind|Gust Of Wind]] (DC 14), [[Spell List#Mirror Image|Mirror Image]] , [[Spell List#Wind Wall|Wind Wall]] ;
+ - 2/day: [[Spell List#Lightning Bolt|Lightning Bolt]] (DC 15), [[Spell List#Cure Serious Wounds|Cure Serious Wounds]] (DC 15);
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

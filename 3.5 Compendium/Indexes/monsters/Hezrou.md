@@ -66,9 +66,9 @@ Once per day a hezrou can attempt to summon 4d10 dretches or another hezrou with
 Hezrous have a +8 racial bonus on Listen and Spot checks.
 
 ## Spell-Like Abilities
- - Caster Level: Caster level 13th. The save DCs are Charisma-based..
- - At will: [[Spell List#Chaos Hammer|Chaos Hammer]] (DC 18), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Unholy Blight|Unholy Blight]] (DC 18);.
- - 3/day: [[Spell List#Blasphemy|Blasphemy]] (DC 21), [[Spell List#Gaseous Form|Gaseous Form]] ;.
+ - Caster Level: Caster level 13th. The save DCs are Charisma-based.
+ - At will: [[Spell List#Chaos Hammer|Chaos Hammer]] (DC 18), [[Spell List#Teleport, Greater|Teleport, Greater]] (self Plus 50 Pounds Of Objects Only), [[Spell List#Unholy Blight|Unholy Blight]] (DC 18);
+ - 3/day: [[Spell List#Blasphemy|Blasphemy]] (DC 21), [[Spell List#Gaseous Form|Gaseous Form]] ;
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
 Monster images sourced from dndbeyond.com and are licensed for personal use only.

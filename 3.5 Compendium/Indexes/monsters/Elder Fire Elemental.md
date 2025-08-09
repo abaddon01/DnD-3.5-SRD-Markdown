@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Elder_Fire_Elemental
+title: 3.5 Compendium / Monsters / Elder Fire Elemental
 aliases: 
  - Elder Fire Elemental
 tags: 
@@ -32,7 +32,7 @@ alignment: Usually neutral
 | Full Attack:         |2 slams +26 melee (2d8+6 plus 2d8 fire); |
 | Space/Reach:         |15 ft./15 ft. |
 | Special Attacks:     | |
-| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, Vulnerability To Cold; |
+| Special Qualities    |[[Special Abilities#damage reduction\|Damage Reduction]]  10/, [[Special Abilities#darkvision\|Darkvision]]  60 Ft., [[Traits#elemental traits\|Elemental Traits]] , Immunity To Fire, [[Special Abilities#Vulnerability To Energy\|Vulnerability]] To Cold; |
 | Saves:               |Fort: +14, Ref: +23, Will: +10 |
 | Abilities:           |Str : 22,  Dex: 29,  Con: 18,  Int: 6,  Wis: 11,  Cha: 11 |
 | Skills:              |[[Skill List#Listen\|Listen]]: +28, [[Skill List#Spot\|Spot]]: +29; |

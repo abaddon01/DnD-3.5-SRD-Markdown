@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Purple_Worm
+title: 3.5 Compendium / Monsters / Purple Worm
 aliases: 
  - Purple Worm
 tags: 

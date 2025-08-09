@@ -1,6 +1,6 @@
 ---
 lang: en
-title: 3.5 Compendium / Monsters / Dire_Weasel
+title: 3.5 Compendium / Monsters / Dire Weasel
 aliases: 
  - Dire Weasel
 tags: 
