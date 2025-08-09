@@ -1,4 +1,4 @@
----
+* 
 lang: en
 title: 3.5 Compendium / v3.5 SRD/ Basic Rules and Legal/ Types and Subtypes
 aliases: 3.5 Types and Subtypes
@@ -8,7 +8,7 @@ tags:
   - v3.5_srd
   - basic_rules_and_legal
   - types_and_subtypes
----
+* 
 
 This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a.
 
@@ -57,24 +57,24 @@ This material is Open Game Content, and is licensed for public use under the ter
 combination of the three.
 
 _Features:_ An aberration has the following features.
----d8 Hit Dice.
----Base attack bonus equal to 3/4 total Hit Dice (as cleric).
----Good Will saves.
+* d8 Hit Dice.
+* Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+* Good Will saves.
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die.
 
 _Traits:_ An aberration possesses the following traits (unless otherwise noted in a creature’s entry).
----Darkvision out to 60 feet.
+* Darkvision out to 60 feet.
 
----Proficient with its natural weapons. If generally humanoid in form, proficient with all simple weapons and any
+* Proficient with its natural weapons. If generally humanoid in form, proficient with all simple weapons and any
 weapon it is described as using.
 
----Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all
+* Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all
 lighter types. Aberrations not indicated as wearing armor are not proficient with armor. Aberrations are
 proficient with shields if they are proficient with any form of armor.
 
----Aberrations eat, sleep, and breathe.
+* Aberrations eat, sleep, and breathe.
 
 
 ### Air Subtype
@@ -86,18 +86,18 @@ Elemental Plane Air. Air creatures always have fly speeds and usually have perfe
 Outer Planes.
 
 _Traits:_ An angel possesses the following traits (unless otherwise noted in a creature’s entry).
----Darkvision out to 60 feet and low-light vision.
----Immunity to acid, cold, and petrification.
----Resistance to electricity 10 and fire 10.
---- +4 racial bonus on saves against poison.
+* Darkvision out to 60 feet and low-light vision.
+* Immunity to acid, cold, and petrification.
+* Resistance to electricity 10 and fire 10.
+*  +4 racial bonus on saves against poison.
 
----Protective Aura (Su): Against attacks made or effects created by evil creatures, this ability provides a +4
+* Protective Aura (Su): Against attacks made or effects created by evil creatures, this ability provides a +4
 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the angel.
 Otherwise, it functions as a _magic circle against evil_ effect and a
 _lesser globe of invulnerability,_ both with a radius of 20 feet (caster level equals angel’s HD). (The
 defensive benefits from the circle are not included in an angel’s statistics block.)
 
----Tongues (Su): All angels can speak with any creature that has a language, as though using a _tongues_ spell
+* Tongues (Su): All angels can speak with any creature that has a language, as though using a _tongues_ spell
 (caster level equal to angel’s Hit Dice). This ability is always active.
 
 ### Animal Type
@@ -105,25 +105,25 @@ defensive benefits from the circle are not included in an angel’s statistics b
 abilities and no innate capacity for language or culture.
 
 _Features:_ An animal has the following features (unless otherwise noted in a creature’s entry).
----d8 Hit Dice.
----Base attack bonus equal to 3/4 total Hit Dice (as cleric).
----Good Fortitude and Reflex saves (certain animals have different good saves).
+* d8 Hit Dice.
+* Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+* Good Fortitude and Reflex saves (certain animals have different good saves).
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die.
 
 _Traits:_ An animal possesses the following traits (unless otherwise noted in a creature’s entry).
----Intelligence score of 1 or 2 (no creature with an Intelligence score of 3 or higher can be an animal).
----Low-light vision.
----Alignment: Always neutral.
----Treasure: None.
+* Intelligence score of 1 or 2 (no creature with an Intelligence score of 3 or higher can be an animal).
+* Low-light vision.
+* Alignment: Always neutral.
+* Treasure: None.
 
----Proficient with its natural weapons only. A noncombative herbivore uses its natural weapons as a secondary
+* Proficient with its natural weapons only. A noncombative herbivore uses its natural weapons as a secondary
 attack. Such attacks are made with a -5 penalty on the creature’s attack rolls, and the animal receives only 1/2
 its Strength modifier as a damage adjustment.
 
----Proficient with no armor unless trained for war.
----Animals eat, sleep, and breathe.
+* Proficient with no armor unless trained for war.
+* Animals eat, sleep, and breathe.
 
 ### Aquatic Subtype
  These creatures always have swim speeds and thus can move in water without
@@ -135,25 +135,25 @@ amphibious special quality.
 good-aligned Outer Planes.
 
 _Traits:_ An archon possesses the following traits (unless otherwise noted in a creature’s entry).
----Darkvision out to 60 feet and low-light vision.
+* Darkvision out to 60 feet and low-light vision.
 
----Aura of Menace (Su): A righteous aura surrounds archons that fight or get angry. Any hostile creature within a
+* Aura of Menace (Su): A righteous aura surrounds archons that fight or get angry. Any hostile creature within a
 20-foot radius of an archon must succeed on a Will save to resist its effects. The save DC varies with the type of
 archon, is Charisma-based, and includes a +2 racial bonus. Those who fail take a -2 penalty on attacks, AC, and
 saves for 24 hours or until they successfully hit the archon that generated the aura. A creature that has resisted
 or broken the effect cannot be affected again by the same archon’s aura for 24 hours.
 
----Immunity to electricity and petrification.
---- +4 racial bonus on saves against poison.
+* Immunity to electricity and petrification.
+*  +4 racial bonus on saves against poison.
 
----Magic Circle against Evil (Su): A magic circle against evil effect always surrounds an archon (caster level
+* Magic Circle against Evil (Su): A magic circle against evil effect always surrounds an archon (caster level
 equals the archon’s Hit Dice). (The defensive benefits from the circle are not included in an archon’s statistics
 block.)
 
----Teleport (Su): Archons can use greater teleport at will, as the spell (caster level 14th), except that the
+* Teleport (Su): Archons can use greater teleport at will, as the spell (caster level 14th), except that the
 creature can transport only itself and up to 50 pounds of objects.
 
----Tongues (Su): All archons can speak with any creature that has a language, as though using a _tongues_ spell
+* Tongues (Su): All archons can speak with any creature that has a language, as though using a _tongues_ spell
 (caster level 14th). This ability is always active.
 
 ### Augmented Subtype
@@ -179,34 +179,34 @@ throw is allowed, or if the save is a success or failure.
 ### Construct Type
  A construct is an animated object or artificially constructed creature.
 _Features:_ A construct has the following features.
----10-sided Hit Dice.
----Base attack bonus equal to 3/4 total Hit Dice (as cleric).
----No good saving throws.
+* 10-sided Hit Dice.
+* Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+* No good saving throws.
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die, if the construct has an Intelligence score. However, most constructs are mindless and gain no skill points or
 feats.
 
 _Traits:_ A construct possesses the following traits (unless otherwise noted in a creature’s entry).
----No Constitution score.
----Low-light vision.
----Darkvision out to 60 feet.
----Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
----Immunity to poison, sleep effects, paralysis, stunning, disease , death effects, and necromancy effects.
+* No Constitution score.
+* Low-light vision.
+* Darkvision out to 60 feet.
+* Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
+* Immunity to poison, sleep effects, paralysis, stunning, disease , death effects, and necromancy effects.
 
----Cannot heal damage on their own, but often can be repaired by exposing them to a certain kind of effect (see the
+* Cannot heal damage on their own, but often can be repaired by exposing them to a certain kind of effect (see the
 creature’s description for details) or through the use of the Craft Construct feat. A construct with the fast
 healing special quality still benefits from that quality.
 
----Not subject to critical hits, nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy
+* Not subject to critical hits, nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy
 drain.
 
----Immunity to any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless).
+* Immunity to any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless).
 
----Not at risk of death from massive damage. Immediately destroyed when reduced to 0 hit points or less.
----Since it was never alive, a construct cannot be raised or resurrected.
+* Not at risk of death from massive damage. Immediately destroyed when reduced to 0 hit points or less.
+* Since it was never alive, a construct cannot be raised or resurrected.
 
----Because its body is a mass of unliving matter, a construct is hard to destroy. It gains bonus hit points based on
+* Because its body is a mass of unliving matter, a construct is hard to destroy. It gains bonus hit points based on
 size, as shown on the following table.
 
 | Construct Size | Bonus Hit Points | Construct Size | Bonus Hit Points |
@@ -217,35 +217,35 @@ size, as shown on the following table.
 | Small | 10 | Colossal | 80 |
 | Medium | 20 |  |  |
 
----Proficient with its natural weapons only, unless generally humanoid in form, in which case proficient with any
+* Proficient with its natural weapons only, unless generally humanoid in form, in which case proficient with any
 weapon mentioned in its entry.
 
----Proficient with no armor.
----Constructs do not eat, sleep, or breathe.
+* Proficient with no armor.
+* Constructs do not eat, sleep, or breathe.
 
 ### Dragon Type
  A dragon is a reptilelike creature, usually winged, with magical or unusual
 abilities.
 
 _Features:_ A dragon has the following features.
----12-sided Hit Dice.
----Base attack bonus equal to total Hit Dice (as fighter).
----Good Fortitude, Reflex, and Will saves.
+* 12-sided Hit Dice.
+* Base attack bonus equal to total Hit Dice (as fighter).
+* Good Fortitude, Reflex, and Will saves.
 
----Skill points equal to (6 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (6 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die.
 
 _Traits:_ A dragon possesses the following traits (unless otherwise noted in the description of a
 particular kind).
 
----Darkvision out to 60 feet and low-light vision.
----Immunity to magic sleep effects and paralysis effects.
+* Darkvision out to 60 feet and low-light vision.
+* Immunity to magic sleep effects and paralysis effects.
 
----Proficient with its natural weapons only unless humanoid in form (or capable of assuming humanoid form), in which
+* Proficient with its natural weapons only unless humanoid in form (or capable of assuming humanoid form), in which
 case proficient with all simple weapons and any weapons mentioned in its entry.
 
----Proficient with no armor.
----Dragons eat, sleep, and breathe.
+* Proficient with no armor.
+* Dragons eat, sleep, and breathe.
 
 ### Earth Subtype
  This subtype usually is used for elementals and outsiders with a connection to the
@@ -257,31 +257,31 @@ solid rock.
 earth, fire, or water.
 
 _Features:_ An elemental has the following features.
----8-sided Hit Dice.
----Base attack bonus equal to 3/4 total Hit Dice (as cleric).
----Good saves depend on the element: Fortitude (earth, water) or Reflex (air, fire).
+* 8-sided Hit Dice.
+* Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+* Good saves depend on the element: Fortitude (earth, water) or Reflex (air, fire).
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die.
 
 _Traits:_ An elemental possesses the following traits (unless otherwise noted in a creature’s entry).
----Darkvision out to 60 feet.
----Immunity to poison, sleep effects, paralysis, and stunning.
----Not subject to critical hits or flanking.
+* Darkvision out to 60 feet.
+* Immunity to poison, sleep effects, paralysis, and stunning.
+* Not subject to critical hits or flanking.
 
----Unlike most other living creatures, an elemental does not have a dual nature---its soul and body form one unit.
+* Unlike most other living creatures, an elemental does not have a dual nature---its soul and body form one unit.
 When an elemental is slain, no soul is set loose. Spells that restore souls to their bodies, such as
 _raise dead, reincarnate,_ and _resurrection,_ don’t work on an elemental. It takes a different magical
 effect, such as _limited wish, wish, miracle,_ or _true resurrection,_ to restore it to life.
 
----Proficient with natural weapons only, unless generally humanoid in form, in which case proficient with all simple
+* Proficient with natural weapons only, unless generally humanoid in form, in which case proficient with all simple
 weapons and any weapons mentioned in its entry.
 
----Proficient with whatever type of armor (light, medium, or heavy) that it is described as wearing, as well as all
+* Proficient with whatever type of armor (light, medium, or heavy) that it is described as wearing, as well as all
 lighter types. Elementals not indicated as wearing armor are not proficient with armor. Elementals are proficient
 with shields if they are proficient with any form of armor.
 
----Elementals do not eat, sleep, or breathe.
+* Elementals do not eat, sleep, or breathe.
 
 ### Evil Subtype
  A subtype usually applied only to outsiders native to the evil-aligned Outer
@@ -307,22 +307,22 @@ Ethereal Plane, and the Plane of Shadow.
 other force or place. Fey are usually human-shaped.
 
 _Features:_ A fey has the following features.
----6-sided Hit Dice.
----Base attack bonus equal to 1/2 total Hit Dice (as wizard).
----Good Reflex and Will saves.
+* 6-sided Hit Dice.
+* Base attack bonus equal to 1/2 total Hit Dice (as wizard).
+* Good Reflex and Will saves.
 
----Skill points equal to (6 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (6 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die.
 
 _Traits:_ A fey possesses the following traits (unless otherwise noted in a creature’s entry).
----Low-light vision.
----Proficient with all simple weapons and any weapons mentioned in its entry.
+* Low-light vision.
+* Proficient with all simple weapons and any weapons mentioned in its entry.
 
----Proficient with whatever type of armor (light, medium, or heavy) that it is described as wearing, as well as all
+* Proficient with whatever type of armor (light, medium, or heavy) that it is described as wearing, as well as all
 lighter types. Fey not indicated as wearing armor are not proficient with armor. Fey are proficient with shields
 if they are proficient with any form of armor.
 
----Fey eat, sleep, and breathe.
+* Fey eat, sleep, and breathe.
 
 ### Fire Subtype
  A creature with the fire subtype has immunity to fire. It has vulnerability to
@@ -334,22 +334,22 @@ throw is allowed, or if the save is a success or failure.
 size.
 
 _Features:_ A giant has the following features.
----8-sided Hit Dice.
----Base attack bonus equal to 3/4 total Hit Dice (as cleric).
----Good Fortitude saves.
+* 8-sided Hit Dice.
+* Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+* Good Fortitude saves.
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die.
 
 _Traits:_ A giant possesses the following traits (unless otherwise noted in a creature’s entry).
----Low-light vision.
----Proficient with all simple and martial weapons, as well as any natural weapons.
+* Low-light vision.
+* Proficient with all simple and martial weapons, as well as any natural weapons.
 
----Proficient with whatever type of armor (light, medium or heavy) it is described as wearing, as well as all
+* Proficient with whatever type of armor (light, medium or heavy) it is described as wearing, as well as all
 lighter types. Giants not described as wearing armor are not proficient with armor. Giants are proficient with
 shields if they are proficient with any form of armor.
 
----Giants eat, sleep, and breathe.
+* Giants eat, sleep, and breathe.
 
 ### Goblinoid Subtype
  Goblinoids are stealthy humanoids who live by hunting and raiding and who all
@@ -374,22 +374,22 @@ ability and poor saving throws.
 
 Humanoids with more than 1 Hit Die are the only humanoids who make use of the features of the humanoid type.
 _Features:_ A humanoid has the following features (unless otherwise noted in a creature’s entry).
----8-sided Hit Dice, or by character class.
----Base attack bonus equal to 3/4 total Hit Dice (as cleric).
----Good Reflex saves (usually; a humanoid’s good save varies).
+* 8-sided Hit Dice, or by character class.
+* Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+* Good Reflex saves (usually; a humanoid’s good save varies).
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die, or by character class.
 
 _Traits:_ A humanoid possesses the following traits (unless otherwise noted in a creature’s entry).
----Proficient with all simple weapons, or by character class.
+* Proficient with all simple weapons, or by character class.
 
----Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, or by character
+* Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, or by character
 class. If a humanoid does not have a class and wears armor, it is proficient with that type of armor and all
 lighter types. Humanoids not indicated as wearing armor are not proficient with armor. Humanoids are proficient
 with shields if they are proficient with any form of armor.
 
----Humanoids breathe, eat, and sleep.
+* Humanoids breathe, eat, and sleep.
 
 ### Incorporeal Subtype
  An incorporeal creature has no physical body. It can be harmed only by other
@@ -441,43 +441,43 @@ than 2. Magical beasts usually have supernatural or extraordinary abilities, but
 appearance or habits.
 
 _Features:_ A magical beast has the following features.
----10-sided Hit Dice.
----Base attack bonus equal to total Hit Dice (as fighter).
----Good Fortitude and Reflex saves.
+* 10-sided Hit Dice.
+* Base attack bonus equal to total Hit Dice (as fighter).
+* Good Fortitude and Reflex saves.
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die.
 
 _Traits:_ A magical beast possesses the following traits (unless otherwise noted in a creature’s entry).
 
----Darkvision out to 60 feet and low-light vision.
----Proficient with its natural weapons only.
----Proficient with no armor.
----Magical beasts eat, sleep, and breathe.
+* Darkvision out to 60 feet and low-light vision.
+* Proficient with its natural weapons only.
+* Proficient with no armor.
+* Magical beasts eat, sleep, and breathe.
 
 ### Monstrous Humanoid Type
  Monstrous humanoids are similar to humanoids, but with monstrous or
 animalistic features. They often have magical abilities as well.
 
 _Features:_ A monstrous humanoid has the following features.
----8-sided Hit Dice.
----Base attack bonus equal to total Hit Dice (as fighter).
----Good Reflex and Will saves.
+* 8-sided Hit Dice.
+* Base attack bonus equal to total Hit Dice (as fighter).
+* Good Reflex and Will saves.
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die.
 
 _Traits:_ A monstrous humanoid possesses the following traits (unless otherwise noted in a creature’s
 entry).
 
----Darkvision out to 60 feet.
----Proficient with all simple weapons and any weapons mentioned in its entry.
+* Darkvision out to 60 feet.
+* Proficient with all simple weapons and any weapons mentioned in its entry.
 
----Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all
+* Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all
 lighter types. Monstrous humanoids not indicated as wearing armor are not proficient with armor. Monstrous
 humanoids are proficient with shields if they are proficient with any form of armor.
 
----Monstrous humanoids eat, sleep, and breathe.
+* Monstrous humanoids eat, sleep, and breathe.
 
 
 ### Native Subtype
@@ -489,30 +489,30 @@ true outsiders, native outsiders need to eat and sleep.
 ### Ooze Type
  An ooze is an amorphous or mutable creature, usually mindless.
 _Features:_ An ooze has the following features.
----10-sided Hit Dice.
----Base attack bonus equal to 3/4 total Hit Dice (as cleric).
----No good saving throws.
+* 10-sided Hit Dice.
+* Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+* No good saving throws.
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die, if the ooze has an Intelligence score. However, most oozes are mindless and gain no skill points or feats.
 
 _Traits:_ An ooze possesses the following traits (unless otherwise noted in a creature’s entry).
 
----Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms,
+* Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms,
 patterns, and morale effects).
 
----Blind (but have the blindsight special quality), with immunity to gaze attacks, visual effects, illusions, and
+* Blind (but have the blindsight special quality), with immunity to gaze attacks, visual effects, illusions, and
 other attack forms that rely on sight.
 
----Immunity to poison, sleep effects, paralysis, polymorph, and stunning.
+* Immunity to poison, sleep effects, paralysis, polymorph, and stunning.
 
----Some oozes have the ability to deal acid damage to objects. In such a case, the amount of damage is equal to 10 +
+* Some oozes have the ability to deal acid damage to objects. In such a case, the amount of damage is equal to 10 +
 1/2 ooze’s HD + ooze’s Con modifier per full round of contact.
 
----Not subject to critical hits or flanking.
----Proficient with its natural weapons only.
----Proficient with no armor.
----Oozes eat and breathe, but do not sleep.
+* Not subject to critical hits or flanking.
+* Proficient with its natural weapons only.
+* Proficient with no armor.
+* Oozes eat and breathe, but do not sleep.
 
 ### Outsider Type
  An outsider is at least partially composed of the essence (but not necessarily the
@@ -520,29 +520,29 @@ material) of some plane other than the Material Plane. Some creatures start out 
 outsiders when they attain a higher (or lower) state of spiritual existence.
 
 _Features:_ An outsider has the following features.
----8-sided Hit Dice.
----Base attack bonus equal to total Hit Dice (as fighter).
----Good Fortitude, Reflex, and Will saves.
+* 8-sided Hit Dice.
+* Base attack bonus equal to total Hit Dice (as fighter).
+* Good Fortitude, Reflex, and Will saves.
 
----Skill points equal to (8 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (8 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die.
 
 _Traits:_ An outsider possesses the following traits (unless otherwise noted in a creature’s entry).
----Darkvision out to 60 feet.
+* Darkvision out to 60 feet.
 
----Unlike most other living creatures, an outsider does not have a dual nature---its soul and body form one unit. When
+* Unlike most other living creatures, an outsider does not have a dual nature---its soul and body form one unit. When
 an outsider is slain, no soul is set loose. Spells that restore souls to their bodies, such as
 _raise dead, reincarnate,_ and _resurrection,_ don’t work on an outsider. It takes a different magical
 effect, such as _limited wish, wish, miracle,_ or _true resurrection_ to restore it to life. An outsider
 with the native subtype can be raised, reincarnated, or resurrected just as other living creatures can be.
 
----Proficient with all simple and martial weapons and any weapons mentioned in its entry.
+* Proficient with all simple and martial weapons and any weapons mentioned in its entry.
 
----Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all
+* Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all
 lighter types. Outsiders not indicated as wearing armor are not proficient with armor. Outsiders are proficient
 with shields if they are proficient with any form of armor.
 
----Outsiders breathe, but do not need to eat or sleep (although they can do so if they wish). Native outsiders
+* Outsiders breathe, but do not need to eat or sleep (although they can do so if they wish). Native outsiders
 breathe, eat, and sleep.
 
 ### Plant Type
@@ -551,23 +551,23 @@ growing in gardens and fields, lack Wisdom and Charisma scores (see Nonabilities
 but objects, even though they are alive.
 
 _Features:_ A plant creature has the following features.
----8-sided Hit Dice.
----Base attack bonus equal to 3/4 total Hit Dice (as cleric).
----Good Fortitude saves.
+* 8-sided Hit Dice.
+* Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+* Good Fortitude saves.
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die, if the plant creature has an Intelligence score. However, some plant creatures are mindless and gain no skill
 points or feats.
 
 _Traits:_ A plant creature possesses the following traits (unless otherwise noted in a creature’s entry).
 
----Low-light vision.
----Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
----Immunity to poison, sleep effects, paralysis, polymorph, and stunning.
----Not subject to critical hits.
----Proficient with its natural weapons only.
----Proficient with no armor.
----Plants breathe and eat, but do not sleep.
+* Low-light vision.
+* Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
+* Immunity to poison, sleep effects, paralysis, polymorph, and stunning.
+* Not subject to critical hits.
+* Proficient with its natural weapons only.
+* Proficient with no armor.
+* Plants breathe and eat, but do not sleep.
 
 ### Reptilian Subtype
  These creatures are scaly and usually coldblooded. The reptilian subtype is
@@ -580,10 +580,10 @@ the shapechanger subtype.
 
 _Traits:_ A shapechanger possesses the following traits (unless otherwise noted in a creature’s entry).
 
----Proficient with its natural weapons, with simple weapons, and with any weapons mentioned in the creature’s
+* Proficient with its natural weapons, with simple weapons, and with any weapons mentioned in the creature’s
 description.
 
----Proficient with any armor mentioned in the creature’s description, as well as all lighter forms. If no form of
+* Proficient with any armor mentioned in the creature’s description, as well as all lighter forms. If no form of
 armor is mentioned, the shapechanger is not proficient with armor. A shapechanger is proficient with shields if it
 is proficient with any type of armor.
 
@@ -659,67 +659,67 @@ requires a DC 20 Concentration check.
 ### Undead Type:
  Undead are once-living creatures animated by spiritual or supernatural forces.
 _Features:_ An undead creature has the following features.
----12-sided Hit Dice.
----Base attack bonus equal to 1/2 total Hit Dice (as wizard).
----Good Will saves.
+* 12-sided Hit Dice.
+* Base attack bonus equal to 1/2 total Hit Dice (as wizard).
+* Good Will saves.
 
----Skill points equal to (4 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (4 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die, if the undead creature has an Intelligence score. However, many undead are mindless and gain no skill points
 or feats.
 
 _Traits:_ An undead creature possesses the following traits (unless otherwise noted in a creature’s entry).
 
----No Constitution score.
----Darkvision out to 60 feet.
----Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
----Immunity to poison, sleep effects, paralysis, stunning, disease, and death effects.
+* No Constitution score.
+* Darkvision out to 60 feet.
+* Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
+* Immunity to poison, sleep effects, paralysis, stunning, disease, and death effects.
 
----Not subject to critical hits, nonlethal damage, ability drain, or energy drain. Immune to damage to its physical
+* Not subject to critical hits, nonlethal damage, ability drain, or energy drain. Immune to damage to its physical
 ability scores (Strength, Dexterity, and Constitution), as well as to fatigue and exhaustion effects.
 
----Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy (such
+* Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy (such
 as an _inflict_ spell) can heal undead creatures. The fast healing special quality works regardless of the
 creature’s Intelligence score.
 
----Immunity to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless).
+* Immunity to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless).
 
----Uses its Charisma modifier for Concentration checks.
+* Uses its Charisma modifier for Concentration checks.
 
----Not at risk of death from massive damage, but when reduced to 0 hit points or less, it is immediately destroyed.
+* Not at risk of death from massive damage, but when reduced to 0 hit points or less, it is immediately destroyed.
 
----Not affected by _raise dead_ and _reincarnate_ spells or abilities. _Resurrection_ and
+* Not affected by _raise dead_ and _reincarnate_ spells or abilities. _Resurrection_ and
 _true resurrection_ can affect undead creatures. These spells turn undead creatures back into the living
 creatures they were before becoming undead.
 
----Proficient with its natural weapons, all simple weapons, and any weapons mentioned in its entry.
+* Proficient with its natural weapons, all simple weapons, and any weapons mentioned in its entry.
 
----Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all
+* Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all
 lighter types. Undead not indicated as wearing armor are not proficient with armor. Undead are proficient with
 shields if they are proficient with any form of armor.
 
----Undead do not breathe, eat, or sleep.
+* Undead do not breathe, eat, or sleep.
 
 ### Vermin Type:
  This type includes insects, arachnids, other arthropods, worms, and similar
 invertebrates.
 
 _Features:_ Vermin have the following features.
----8-sided Hit Dice.
----Base attack bonus equal to 3/4 total Hit Dice (as cleric).
----Good Fortitude saves.
+* 8-sided Hit Dice.
+* Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+* Good Fortitude saves.
 
----Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
+* Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, with quadruple skill points for the first Hit
 Die, if the vermin has an Intelligence score. However, most vermin are mindless and gain no skill points or feats.
 
 _Traits:_ Vermin possess the following traits (unless otherwise noted in a creature’s entry).
 
----Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms,
+* Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms,
 patterns, and morale effects).
 
----Darkvision out to 60 feet.
----Proficient with their natural weapons only.
----Proficient with no armor.
----Vermin breathe, eat, and sleep.
+* Darkvision out to 60 feet.
+* Proficient with their natural weapons only.
+* Proficient with no armor.
+* Vermin breathe, eat, and sleep.
 
 ### Water Subtype:
  This subtype usually is used for elementals and outsiders with a connection to the
