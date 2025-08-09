@@ -45,11 +45,11 @@ This material is Open Game Content, and is licensed for public use under the ter
 * [[#Outsider Type]]
 * [[#Plant Type]]
 * [[#Reptilian Subtype]]
-* [[Shapechanger Subtype]]
-* [[Swarm Subtype]]
-* [[Undead Type]]
-* [[Vermin Type]]
-* [[Water Subtype]]
+* [[#Shapechanger Subtype]]
+* [[#Swarm Subtype]]
+* [[#Undead Type]]
+* [[#Vermin Type]]
+* [[#Water Subtype]]
 
 
 ### Aberration Type
